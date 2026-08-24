@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-many-units-usually-make-sense-on-a-glendale-ground-up-apartment-parcel",
+  "name": "What size multifamily project works best for a Glendale infill site?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How many units usually make sense on a Glendale ground-up apartment parcel?",
+    "text": "How many units usually make sense on a Glendale ground-up apartment parcel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no single ideal unit count for Glendale infill, because project size is driven by what the parcel can physically and financially support. A small lot may only work with a modest number of units if parking and access take up too much of the site. A larger or better-located parcel may support a substantially bigger project with stronger economies of scale. The key is not maximizing units at any cost; it is achieving the best balance between rent potential, construction efficiency, and entitlement risk. A project that is too small may not spread soft costs effectively, while a project that is too large may face zoning, massing, or neighborhood resistance. A good feasibility study will test multiple sizes and compare return on cost, not just total units. That approach often reveals the size where the site finally makes sense.",
+      "@type": "Answer",
+      "description": "The best project size depends on lot dimensions, zoning, parking, and construction type. In Glendale, a viable infill project may be anywhere from a handful of units on a small lot to a larger podium or mid-rise project on a better-located parcel. The right size is the one that produces enough value after parking and soft costs.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no single ideal unit count for Glendale infill, because project size is driven by what the parcel can physically and financially support. A small lot may only work with a modest number of units if parking and access take up too much of the site. A larger or better-located parcel may support a substantially bigger project with stronger economies of scale. The key is not maximizing units at any cost; it is achieving the best balance between rent potential, construction efficiency, and entitlement risk. A project that is too small may not spread soft costs effectively, while a project that is too large may face zoning, massing, or neighborhood resistance. A good feasibility study will test multiple sizes and compare return on cost, not just total units. That approach often reveals the size where the site finally makes sense.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best project size depends on lot dimensions, zoning, parking, and construction type. In Glendale, a viable infill project may be anywhere from a handful of "
+}

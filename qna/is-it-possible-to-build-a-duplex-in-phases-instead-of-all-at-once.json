@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-build-a-duplex-in-phases-instead-of-all-at-once",
+  "name": "Can duplex construction be phased to reduce upfront cost?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to build a duplex in phases instead of all at once?",
+    "text": "Is it possible to build a duplex in phases instead of all at once?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phasing can make duplex construction more manageable for some owners, especially when financing is tight or the property will remain occupied during work. For example, an owner might complete site preparation and one portion of the project first, then finish the second stage later. But phased construction is not always efficient, because repeated mobilization, temporary protection, and duplicated labor can raise the total cost. The permit strategy also has to support the sequence, which means the plans should clearly define what is being built now and what is deferred. Utility connections, grading, and structural tie-ins can become complicated if a project is split into stages. Phasing works best when the builder and designer plan it from the beginning rather than improvising halfway through. If the goal is to reduce upfront expense, it is worth comparing phased construction with a smaller initial program or a different density strategy.",
+      "@type": "Answer",
+      "description": "Some duplex projects can be phased, but only if the design, permits, and financing strategy support staged construction. Phase planning can reduce immediate cash needs, but it may also increase total cost and complexity. The site and permit strategy must be designed for phasing from day one.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phasing can make duplex construction more manageable for some owners, especially when financing is tight or the property will remain occupied during work. For example, an owner might complete site preparation and one portion of the project first, then finish the second stage later. But phased construction is not always efficient, because repeated mobilization, temporary protection, and duplicated labor can raise the total cost. The permit strategy also has to support the sequence, which means the plans should clearly define what is being built now and what is deferred. Utility connections, grading, and structural tie-ins can become complicated if a project is split into stages. Phasing works best when the builder and designer plan it from the beginning rather than improvising halfway through. If the goal is to reduce upfront expense, it is worth comparing phased construction with a smaller initial program or a different density strategy.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Some duplex projects can be phased, but only if the design, permits, and financing strategy support staged construction. Phase planning can reduce immediate cas"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-utility-upgrades-are-usually-needed-when-building-a-duplex-triplex-or-apart",
+  "name": "How do utility upgrades work for a multi-unit build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What utility upgrades are usually needed when building a duplex, triplex, or apartment building on an existing lot?",
+    "text": "What utility upgrades are usually needed when building a duplex, triplex, or apartment building on an existing lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility planning is one of the least visible but most important parts of a multifamily project. A duplex or small apartment building may need a larger electrical service, new panel locations, separate metering, updated water service, sewer capacity review, and coordination with gas or all-electric systems. Older properties often have utility lines that were designed for a single home or much smaller demand, so the existing infrastructure may not support the new building without upgrades. If the service equipment, meter bank, or connection points are in the wrong place, the project may also need trenching, new easements, or reconfiguration of the site layout. Owners should ask for a utility feasibility review early, because late discoveries can affect the foundation plan, mechanical room placement, and even the number of units that fit. Utility coordination is often underestimated in budgets and schedules, but it can be one of the biggest sources of delay if it is left until construction is underway.",
+      "@type": "Answer",
+      "description": "Utility upgrades may include larger electrical service, new gas or all-electric equipment, upgraded water and sewer connections, separate meters, and fire service coordination. Older lots often need capacity checks before construction begins. Utility work can become a major cost and schedule item if the existing infrastructure is undersized or poorly located.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility planning is one of the least visible but most important parts of a multifamily project. A duplex or small apartment building may need a larger electrical service, new panel locations, separate metering, updated water service, sewer capacity review, and coordination with gas or all-electric systems. Older properties often have utility lines that were designed for a single home or much smaller demand, so the existing infrastructure may not support the new building without upgrades. If the service equipment, meter bank, or connection points are in the wrong place, the project may also need trenching, new easements, or reconfiguration of the site layout. Owners should ask for a utility feasibility review early, because late discoveries can affect the foundation plan, mechanical room placement, and even the number of units that fit. Utility coordination is often underestimated in budgets and schedules, but it can be one of the biggest sources of delay if it is left until construction is underway.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utility upgrades may include larger electrical service, new gas or all-electric equipment, upgraded water and sewer connections, separate meters, and fire servi"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-often-should-a-project-manager-update-the-owner-during-a-multi-family-constr",
+  "name": "What is a good communication cadence for owners on multi-family projects?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How often should a project manager update the owner during a multi-family construction project?",
+    "text": "How often should a project manager update the owner during a multi-family construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A good communication cadence keeps the owner informed without overwhelming them. Weekly updates are common for active multi-family projects, especially when multiple trades, phases, or occupied areas are involved. Each update should cover progress made, upcoming milestones, open issues, budget status, pending decisions, and any risks that could affect the schedule or cost. If something urgent happens, the owner should be notified immediately rather than waiting for the next regular meeting. Clear reporting builds trust and helps the owner make decisions faster. It also prevents minor problems from becoming major surprises. In multi-family projects, where delays can affect revenue, resident experience, and market timing, consistent communication is part of good project control.",
+      "@type": "Answer",
+      "description": "Owners usually need regular updates at least weekly, with immediate notice for budget, schedule, or scope changes. The update should cover progress, next milestones, open issues, decisions needed, and any risks that could affect the finish date or cost.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A good communication cadence keeps the owner informed without overwhelming them. Weekly updates are common for active multi-family projects, especially when multiple trades, phases, or occupied areas are involved. Each update should cover progress made, upcoming milestones, open issues, budget status, pending decisions, and any risks that could affect the schedule or cost. If something urgent happens, the owner should be notified immediately rather than waiting for the next regular meeting. Clear reporting builds trust and helps the owner make decisions faster. It also prevents minor problems from becoming major surprises. In multi-family projects, where delays can affect revenue, resident experience, and market timing, consistent communication is part of good project control.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Owners usually need regular updates at least weekly, with immediate notice for budget, schedule, or scope changes. The update should cover progress, next milest"
+}

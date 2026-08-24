@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-developers-handle-underground-parking-on-a-constrained-los-angeles-site",
+  "name": "What if the project needs subterranean parking in a tight urban lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do developers handle underground parking on a constrained Los Angeles site?",
+    "text": "How do developers handle underground parking on a constrained Los Angeles site?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Underground parking can work well on urban sites, but it comes with significant risk. Excavation, hauling, shoring, groundwater management, and waterproofing all add cost and complexity. On narrow infill parcels, garage ramps and turning radii can consume valuable space and reduce the number of units that fit above. The site may also require utility relocations or structural bracing to protect neighboring buildings. Before design is finalized, the development team should complete geotechnical work, utility mapping, and a preliminary structural concept. That information can show whether one basement level is feasible or whether a different parking solution would be safer financially. Many projects fail because the garage was assumed to fit rather than tested early. If subterranean parking is necessary, it should be evaluated as a full system, not just as extra spaces under the building.",
+      "@type": "Answer",
+      "description": "Subterranean parking usually requires excavation, shoring, waterproofing, and careful utility coordination, which can sharply increase cost and schedule. On a tight lot, the garage layout may limit unit count and structural efficiency. Early geotechnical and civil review is critical before committing to the design.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Underground parking can work well on urban sites, but it comes with significant risk. Excavation, hauling, shoring, groundwater management, and waterproofing all add cost and complexity. On narrow infill parcels, garage ramps and turning radii can consume valuable space and reduce the number of units that fit above. The site may also require utility relocations or structural bracing to protect neighboring buildings. Before design is finalized, the development team should complete geotechnical work, utility mapping, and a preliminary structural concept. That information can show whether one basement level is feasible or whether a different parking solution would be safer financially. Many projects fail because the garage was assumed to fit rather than tested early. If subterranean parking is necessary, it should be evaluated as a full system, not just as extra spaces under the building.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Subterranean parking usually requires excavation, shoring, waterproofing, and careful utility coordination, which can sharply increase cost and schedule. On a t"
+}

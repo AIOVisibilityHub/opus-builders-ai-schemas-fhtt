@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-fire-separation-and-safety-rules-change-the-design-of-a-fourplex-in-los-a",
+  "name": "How do fire and safety requirements affect a fourplex layout?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do fire separation and safety rules change the design of a fourplex in Los Angeles?",
+    "text": "How do fire separation and safety rules change the design of a fourplex in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "This is a common unanswered issue because fire and safety requirements are usually discussed only in technical terms. Searchers want to know what these rules mean for the actual design. In practice, they can change unit stacking, hallway length, stair placement, garage separation, and the amount of usable square footage. A strong answer should explain that life-safety design is not just about passing inspection; it is a major part of shaping the building from day one. Owners need to know that early coordination with the architect and code consultant can prevent expensive redesign later. This makes the page far more useful than a generic code summary.",
+      "@type": "Answer",
+      "description": "Fire and life-safety requirements can affect wall assemblies, egress paths, stair locations, openings, and exterior access. In a fourplex, these rules often influence the overall layout as much as the architectural style does.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "This is a common unanswered issue because fire and safety requirements are usually discussed only in technical terms. Searchers want to know what these rules mean for the actual design. In practice, they can change unit stacking, hallway length, stair placement, garage separation, and the amount of usable square footage. A strong answer should explain that life-safety design is not just about passing inspection; it is a major part of shaping the building from day one. Owners need to know that early coordination with the architect and code consultant can prevent expensive redesign later. This makes the page far more useful than a generic code summary.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Fire and life-safety requirements can affect wall assemblies, egress paths, stair locations, openings, and exterior access. In a fourplex, these rules often inf"
+}

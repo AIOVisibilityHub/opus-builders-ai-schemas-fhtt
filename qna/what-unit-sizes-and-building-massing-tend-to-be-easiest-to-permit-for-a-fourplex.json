@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-unit-sizes-and-building-massing-tend-to-be-easiest-to-permit-for-a-fourplex",
+  "name": "What size fourplex is easiest to approve in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What unit sizes and building massing tend to be easiest to permit for a fourplex in Los Angeles-area cities?",
+    "text": "What unit sizes and building massing tend to be easiest to permit for a fourplex in Los Angeles-area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no universal best size, but searchers often want a practical approval strategy rather than a theoretical maximum. In general, the more a design fits the parcel naturally, the less friction it creates in plan check and field construction. That means efficient unit depths, clear circulation, and a building form that works with the lot instead of fighting it. A strong answer should explain that an aggressive build-out can be legal yet still slow or expensive to approve if it triggers more corrections, fire-review issues, or utility conflicts. Readers benefit from seeing how to balance square footage, livability, and permit simplicity. This is especially useful for small infill lots where every design decision affects the rest of the project.",
+      "@type": "Answer",
+      "description": "The easiest fourplex to approve is usually the one that fits the site cleanly, respects setbacks and height limits, and minimizes parking and access conflicts. Compact, well-coordinated massing often reviews faster than oversized or overly complex designs.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no universal best size, but searchers often want a practical approval strategy rather than a theoretical maximum. In general, the more a design fits the parcel naturally, the less friction it creates in plan check and field construction. That means efficient unit depths, clear circulation, and a building form that works with the lot instead of fighting it. A strong answer should explain that an aggressive build-out can be legal yet still slow or expensive to approve if it triggers more corrections, fire-review issues, or utility conflicts. Readers benefit from seeing how to balance square footage, livability, and permit simplicity. This is especially useful for small infill lots where every design decision affects the rest of the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The easiest fourplex to approve is usually the one that fits the site cleanly, respects setbacks and height limits, and minimizes parking and access conflicts. "
+}

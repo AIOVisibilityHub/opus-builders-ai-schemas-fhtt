@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-of-a-ground-up-apartment-project-will-a-lender-usually-finance",
+  "name": "What loan-to-cost range do lenders use for Los Angeles multifamily construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much of a ground-up apartment project will a lender usually finance?",
+    "text": "How much of a ground-up apartment project will a lender usually finance?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Loan-to-cost depends on the lender, project quality, and risk profile. For many Los Angeles ground-up multifamily deals, bank financing often sits in a more conservative range, while private credit or debt funds may stretch further for stronger or faster-moving opportunities. The more uncertain the entitlement, the more conservative the leverage tends to be. Projects with a solid land basis, good sponsor history, and a clear exit generally receive better terms. However, higher leverage can come with more expensive debt, stricter covenants, and larger reserves. Developers should evaluate leverage alongside the full cost of capital, not just the headline percentage. A slightly lower loan amount with better pricing and fewer closing conditions can sometimes be a better outcome than aggressive leverage with restrictive terms.",
+      "@type": "Answer",
+      "description": "Many lenders finance about 60% to 75% of total project cost on bank-style construction loans, with some debt funds and private lenders going higher on stronger deals. The exact number depends on sponsor experience, land basis, preleasing, and project risk. Higher leverage usually comes with tighter terms and higher interest.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Loan-to-cost depends on the lender, project quality, and risk profile. For many Los Angeles ground-up multifamily deals, bank financing often sits in a more conservative range, while private credit or debt funds may stretch further for stronger or faster-moving opportunities. The more uncertain the entitlement, the more conservative the leverage tends to be. Projects with a solid land basis, good sponsor history, and a clear exit generally receive better terms. However, higher leverage can come with more expensive debt, stricter covenants, and larger reserves. Developers should evaluate leverage alongside the full cost of capital, not just the headline percentage. A slightly lower loan amount with better pricing and fewer closing conditions can sometimes be a better outcome than aggressive leverage with restrictive terms.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many lenders finance about 60% to 75% of total project cost on bank-style construction loans, with some debt funds and private lenders going higher on stronger "
+}

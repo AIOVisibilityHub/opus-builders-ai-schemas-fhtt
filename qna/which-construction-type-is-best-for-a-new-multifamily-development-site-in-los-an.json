@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-construction-type-is-best-for-a-new-multifamily-development-site-in-los-an",
+  "name": "How do you choose between podium, wood-frame, and concrete construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which construction type is best for a new multifamily development site in Los Angeles?",
+    "text": "Which construction type is best for a new multifamily development site in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Choosing a construction type is one of the most important feasibility decisions. Wood-frame and podium construction are often efficient for mid-rise multifamily because they can balance cost, speed, and density. Concrete and steel systems are usually chosen when the project needs more height, a different structural span, or increased durability. In Los Angeles, the site itself often determines the answer. Narrow lots, hillside conditions, parking below grade, and adjacent properties may push the team toward a more robust system. The right choice should be based on code path, cost per square foot, schedule, and the revenue the building can support. A design team should compare at least two structural options early so the sponsor can see how each one changes the budget and unit yield. The cheapest structure on paper is not always the best one once engineering, approvals, and lease-up are considered.",
+      "@type": "Answer",
+      "description": "The best construction type depends on building height, site constraints, parking needs, and budget. Wood-frame and podium projects are often more cost-effective for mid-rise apartments, while concrete or steel systems are used when height, durability, or code conditions require them. The wrong system can make the project too expensive to finance.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Choosing a construction type is one of the most important feasibility decisions. Wood-frame and podium construction are often efficient for mid-rise multifamily because they can balance cost, speed, and density. Concrete and steel systems are usually chosen when the project needs more height, a different structural span, or increased durability. In Los Angeles, the site itself often determines the answer. Narrow lots, hillside conditions, parking below grade, and adjacent properties may push the team toward a more robust system. The right choice should be based on code path, cost per square foot, schedule, and the revenue the building can support. A design team should compare at least two structural options early so the sponsor can see how each one changes the budget and unit yield. The cheapest structure on paper is not always the best one once engineering, approvals, and lease-up are considered.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best construction type depends on building height, site constraints, parking needs, and budget. Wood-frame and podium projects are often more cost-effective"
+}

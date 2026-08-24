@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/for-a-small-multifamily-property-is-it-usually-cheaper-to-add-more-units-by-buil",
+  "name": "Is it cheaper to build up or build out on a multifamily lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "For a small multifamily property, is it usually cheaper to add more units by building vertically or expanding the footprint?",
+    "text": "For a small multifamily property, is it usually cheaper to add more units by building vertically or expanding the footprint?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no universal cheaper option, because the most efficient direction depends on the parcel. Building out can be less expensive when the lot is wide enough and setbacks allow a simple footprint, since it may reduce structural complexity and vertical circulation costs. Building up can be the better strategy on constrained or narrow lots because it preserves ground area for parking, open space, or access, but it often adds stronger foundations, seismic design demands, stairs, and sometimes elevator-related costs. In Los Angeles-area multifamily construction, the deciding factor is often not the raw cost of a floor, but whether the site can support the desired unit count without expensive compromises. A taller building may also trigger more complex fire and accessibility requirements. Owners should compare both options using a feasibility plan and not just a square-foot price. The best answer is the layout that produces the highest usable value after all code, access, and site constraints are included.",
+      "@type": "Answer",
+      "description": "Building out is often cheaper when the site has room, because it may reduce structural complexity and elevator or stair demands. Building up can be more efficient on tight lots, but it usually adds structural, seismic, and vertical circulation costs. The cheaper option depends on lot size, setbacks, parking, soil conditions, and how many stories the site can support.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no universal cheaper option, because the most efficient direction depends on the parcel. Building out can be less expensive when the lot is wide enough and setbacks allow a simple footprint, since it may reduce structural complexity and vertical circulation costs. Building up can be the better strategy on constrained or narrow lots because it preserves ground area for parking, open space, or access, but it often adds stronger foundations, seismic design demands, stairs, and sometimes elevator-related costs. In Los Angeles-area multifamily construction, the deciding factor is often not the raw cost of a floor, but whether the site can support the desired unit count without expensive compromises. A taller building may also trigger more complex fire and accessibility requirements. Owners should compare both options using a feasibility plan and not just a square-foot price. The best answer is the layout that produces the highest usable value after all code, access, and site constraints are included.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Building out is often cheaper when the site has room, because it may reduce structural complexity and elevator or stair demands. Building up can be more efficie"
+}

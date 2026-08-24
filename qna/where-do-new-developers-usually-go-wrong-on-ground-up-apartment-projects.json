@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/where-do-new-developers-usually-go-wrong-on-ground-up-apartment-projects",
+  "name": "What are the most common mistakes first-time multifamily developers make?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Where do new developers usually go wrong on ground-up apartment projects?",
+    "text": "Where do new developers usually go wrong on ground-up apartment projects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "First-time developers often assume the hardest part is building, when the hardest part is usually coordination. Common mistakes include buying land before confirming what can be built, underestimating soft costs, assuming the highest possible rent, and failing to account for parking or utility constraints. Another frequent problem is not having enough contingency or interest reserve, which creates cash stress long before completion. In Los Angeles, where approvals and site complexity can be significant, a simple-looking parcel can still require months of redesign. New developers should avoid relying on a single feasibility estimate and should instead test multiple scenarios. The best projects start with conservative underwriting, strong consultants, and a realistic timeline. Experience does not remove risk, but it does help identify it earlier.",
+      "@type": "Answer",
+      "description": "The biggest mistakes are underestimating entitlement time, overestimating rent, ignoring parking cost, and budgeting too little contingency. First-time developers also often choose a site before testing whether the project actually pencils. On complex infill sites, enthusiasm without feasibility is a major risk.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "First-time developers often assume the hardest part is building, when the hardest part is usually coordination. Common mistakes include buying land before confirming what can be built, underestimating soft costs, assuming the highest possible rent, and failing to account for parking or utility constraints. Another frequent problem is not having enough contingency or interest reserve, which creates cash stress long before completion. In Los Angeles, where approvals and site complexity can be significant, a simple-looking parcel can still require months of redesign. New developers should avoid relying on a single feasibility estimate and should instead test multiple scenarios. The best projects start with conservative underwriting, strong consultants, and a realistic timeline. Experience does not remove risk, but it does help identify it earlier.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest mistakes are underestimating entitlement time, overestimating rent, ignoring parking cost, and budgeting too little contingency. First-time develope"
+}

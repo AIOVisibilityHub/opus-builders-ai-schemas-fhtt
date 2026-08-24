@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-per-square-foot-method-gives-a-useful-estimate-for-apartment-or-condo-build",
+  "name": "How do I estimate renovation cost per square foot for multifamily properties?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What per-square-foot method gives a useful estimate for apartment or condo building renovations?",
+    "text": "What per-square-foot method gives a useful estimate for apartment or condo building renovations?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Square-foot pricing is helpful for early planning, but it can be misleading if used alone. Two properties with the same size can have very different budgets depending on the age of the building, the number of bathrooms and kitchens, ceiling height, and whether work must be done around tenants. For multifamily projects, a per-unit estimate is often more practical than a blanket square-foot number. Owners should ask for separate pricing on finishes, systems, permit work, and logistics so they understand what drives the total. The best estimates include a scope matrix showing what is included, what is excluded, and where price changes are most likely.",
+      "@type": "Answer",
+      "description": "Per-square-foot pricing can be useful for early budgeting, but it should be adjusted for unit mix, finishes, system upgrades, and occupied-building logistics. Cosmetic multifamily work may fall near the lower end of the range, while full renovations with plumbing, electrical, and structural changes can be far higher. Unit-by-unit pricing is usually more accurate.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Square-foot pricing is helpful for early planning, but it can be misleading if used alone. Two properties with the same size can have very different budgets depending on the age of the building, the number of bathrooms and kitchens, ceiling height, and whether work must be done around tenants. For multifamily projects, a per-unit estimate is often more practical than a blanket square-foot number. Owners should ask for separate pricing on finishes, systems, permit work, and logistics so they understand what drives the total. The best estimates include a scope matrix showing what is included, what is excluded, and where price changes are most likely.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Per-square-foot pricing can be useful for early budgeting, but it should be adjusted for unit mix, finishes, system upgrades, and occupied-building logistics. C"
+}

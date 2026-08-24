@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-fire-rated-walls-openings-and-access-issues-come-up-when-building-three-uni",
+  "name": "How do fire separation rules affect triplex design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What fire-rated walls, openings, and access issues come up when building three units on one lot?",
+    "text": "What fire-rated walls, openings, and access issues come up when building three units on one lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Fire separation is one of the most important design drivers in a triplex because it affects how the units relate to each other and to the lot lines. Depending on the layout, the project may need rated walls, protected openings, specific egress paths, and sometimes sprinklers or other life-safety features. On tight sites, these rules can determine where windows can go and whether the building can have shared walls or stacked units. Fire access also matters, especially if the site has limited driveway width or difficult rear-yard access. Because fire requirements affect both architecture and engineering, they should be addressed from the first concept drawing instead of waiting until plan check comments arrive. A code-aware design team can often avoid costly redesign by integrating life-safety requirements from day one.",
+      "@type": "Answer",
+      "description": "Fire separation rules can drive wall assemblies, window placement, stair design, and exterior access for a triplex. The exact requirements depend on unit arrangement, distance to property lines, sprinklers, and local code interpretations. Fire compliance can change the entire floor plan, especially on narrow lots.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Fire separation is one of the most important design drivers in a triplex because it affects how the units relate to each other and to the lot lines. Depending on the layout, the project may need rated walls, protected openings, specific egress paths, and sometimes sprinklers or other life-safety features. On tight sites, these rules can determine where windows can go and whether the building can have shared walls or stacked units. Fire access also matters, especially if the site has limited driveway width or difficult rear-yard access. Because fire requirements affect both architecture and engineering, they should be addressed from the first concept drawing instead of waiting until plan check comments arrive. A code-aware design team can often avoid costly redesign by integrating life-safety requirements from day one.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Fire separation rules can drive wall assemblies, window placement, stair design, and exterior access for a triplex. The exact requirements depend on unit arrang"
+}

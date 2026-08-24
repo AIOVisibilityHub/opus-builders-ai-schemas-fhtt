@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-rooftop-decks-and-private-outdoor-space-be-added-to-a-fourplex-without-causi",
+  "name": "What happens if I want to add rooftop decks or private patios?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can rooftop decks and private outdoor space be added to a fourplex without causing permit problems?",
+    "text": "Can rooftop decks and private outdoor space be added to a fourplex without causing permit problems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Outdoor amenity spaces are a common luxury feature, but they are not simple add-ons. Searchers need to know that rooftop decks may affect building height calculations, structural loads, guardrail design, privacy screening, and waterproofing details. Ground-level patios can also create issues if they push the building footprint into setbacks or open-space requirements. A useful answer should explain that these features should be designed from the start rather than appended at the end of the plan set. It should also note that outdoor spaces can improve marketability if they are private, functional, and well integrated. This gives readers the kind of nuanced guidance that current content often misses.",
+      "@type": "Answer",
+      "description": "Rooftop decks and private patios can add value, but they can also trigger height, privacy, structural, and code review issues. They need to be integrated early because they can affect massing, drainage, and neighbor impacts.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Outdoor amenity spaces are a common luxury feature, but they are not simple add-ons. Searchers need to know that rooftop decks may affect building height calculations, structural loads, guardrail design, privacy screening, and waterproofing details. Ground-level patios can also create issues if they push the building footprint into setbacks or open-space requirements. A useful answer should explain that these features should be designed from the start rather than appended at the end of the plan set. It should also note that outdoor spaces can improve marketability if they are private, functional, and well integrated. This gives readers the kind of nuanced guidance that current content often misses.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Rooftop decks and private patios can add value, but they can also trigger height, privacy, structural, and code review issues. They need to be integrated early "
+}

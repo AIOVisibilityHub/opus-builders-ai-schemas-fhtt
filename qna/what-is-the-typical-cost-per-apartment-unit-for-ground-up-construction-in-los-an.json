@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-typical-cost-per-apartment-unit-for-ground-up-construction-in-los-an",
+  "name": "How much does it cost per unit to build a multifamily project in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the typical cost per apartment unit for ground-up construction in Los Angeles?",
+    "text": "What is the typical cost per apartment unit for ground-up construction in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Per-unit costs in Los Angeles vary dramatically based on building type and site conditions. A typical podium or wood-frame project may fall in a lower range than a heavy concrete or high-rise building, while projects requiring below-grade parking, complex shoring, or premium luxury finishes can rise quickly. Infill sites in Glendale, Pasadena, Burbank, and North Hollywood often carry added cost from tight logistics, demolition, utility work, and parking design. The best way to evaluate cost is to break it into land, hard costs, soft costs, financing, contingency, and lease-up. Many project budgets look attractive on a per-unit basis until parking, façade upgrades, energy compliance, and permit fees are added. A credible pro forma should show both cost per unit and cost per rentable square foot, since unit mix can make one metric misleading. Buyers and developers should compare at least two building schemes before selecting the final design.",
+      "@type": "Answer",
+      "description": "Ground-up multifamily construction in Los Angeles often ranges from about $350,000 to $900,000+ per unit, depending on building type, height, parking, finishes, and site complexity. Podium and wood-frame projects are usually cheaper than concrete or high-rise projects. Land cost is separate and can vary widely by neighborhood.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Per-unit costs in Los Angeles vary dramatically based on building type and site conditions. A typical podium or wood-frame project may fall in a lower range than a heavy concrete or high-rise building, while projects requiring below-grade parking, complex shoring, or premium luxury finishes can rise quickly. Infill sites in Glendale, Pasadena, Burbank, and North Hollywood often carry added cost from tight logistics, demolition, utility work, and parking design. The best way to evaluate cost is to break it into land, hard costs, soft costs, financing, contingency, and lease-up. Many project budgets look attractive on a per-unit basis until parking, façade upgrades, energy compliance, and permit fees are added. A credible pro forma should show both cost per unit and cost per rentable square foot, since unit mix can make one metric misleading. Buyers and developers should compare at least two building schemes before selecting the final design.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up multifamily construction in Los Angeles often ranges from about $350,000 to $900,000+ per unit, depending on building type, height, parking, finishes,"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/at-what-stage-should-project-management-start-on-a-multi-family-construction-or",
+  "name": "When should a multi-family project manager get involved?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "At what stage should project management start on a multi-family construction or renovation project?",
+    "text": "At what stage should project management start on a multi-family construction or renovation project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A project manager should get involved as early as possible, ideally during preconstruction. Early participation helps define scope, evaluate constructability, estimate realistic timelines, plan phasing, and identify long-lead items before the schedule is locked in. That is especially useful on multi-family projects because occupancy, access, and inspections can create constraints that are easy to miss if planning starts too late. If the manager joins only after construction begins, important decisions may already be baked into the schedule and budget. Early involvement also improves coordination between ownership, design, and field teams, which reduces change orders and confusion. In markets like Los Angeles, where logistics can be tight, the preconstruction phase often determines whether the project runs smoothly or constantly fights avoidable problems.",
+      "@type": "Answer",
+      "description": "The best time to bring in a project manager is during preconstruction, before the scope is finalized and before materials are ordered. Early involvement helps with budgeting, phasing, constructability, permits, and schedule planning, which reduces costly changes later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A project manager should get involved as early as possible, ideally during preconstruction. Early participation helps define scope, evaluate constructability, estimate realistic timelines, plan phasing, and identify long-lead items before the schedule is locked in. That is especially useful on multi-family projects because occupancy, access, and inspections can create constraints that are easy to miss if planning starts too late. If the manager joins only after construction begins, important decisions may already be baked into the schedule and budget. Early involvement also improves coordination between ownership, design, and field teams, which reduces change orders and confusion. In markets like Los Angeles, where logistics can be tight, the preconstruction phase often determines whether the project runs smoothly or constantly fights avoidable problems.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best time to bring in a project manager is during preconstruction, before the scope is finalized and before materials are ordered. Early involvement helps w"
+}

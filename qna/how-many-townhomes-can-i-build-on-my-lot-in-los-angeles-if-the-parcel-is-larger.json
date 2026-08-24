@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-many-townhomes-can-i-build-on-my-lot-in-los-angeles-if-the-parcel-is-larger",
+  "name": "How many townhomes can you build on my Los Angeles lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How many townhomes can I build on my lot in Los Angeles if the parcel is larger than a standard single-family lot?",
+    "text": "How many townhomes can I build on my lot in Los Angeles if the parcel is larger than a standard single-family lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The number of townhomes you can build depends on the specific parcel, not just its square footage. Zoning designation, lot width, required setbacks, fire access, parking layout, open-space requirements, height limits, and any overlay zones all affect how many units fit. In some cases, a large lot may support three or four homes; in others, access or yard requirements limit the project more than the lot size does. The first step is to confirm zoning, allowable density, and whether the site can be developed as a townhouse, small-lot subdivision, or multifamily project. For Los Angeles-area properties, corner lots, sloped sites, and narrow parcels often have different constraints than flat interior lots. A good feasibility review should include a preliminary site plan, unit count study, and code check before architectural design begins. That avoids wasting time on a concept that cannot be permitted as drawn.",
+      "@type": "Answer",
+      "description": "The maximum number of townhomes depends on zoning, lot size, setbacks, parking access, fire access, and whether the site qualifies for attached or small-lot development. In Los Angeles and nearby cities, the answer is rarely a simple lot-size formula because zoning overlays and local development standards can reduce the buildable count.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The number of townhomes you can build depends on the specific parcel, not just its square footage. Zoning designation, lot width, required setbacks, fire access, parking layout, open-space requirements, height limits, and any overlay zones all affect how many units fit. In some cases, a large lot may support three or four homes; in others, access or yard requirements limit the project more than the lot size does. The first step is to confirm zoning, allowable density, and whether the site can be developed as a townhouse, small-lot subdivision, or multifamily project. For Los Angeles-area properties, corner lots, sloped sites, and narrow parcels often have different constraints than flat interior lots. A good feasibility review should include a preliminary site plan, unit count study, and code check before architectural design begins. That avoids wasting time on a concept that cannot be permitted as drawn.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The maximum number of townhomes depends on zoning, lot size, setbacks, parking access, fire access, and whether the site qualifies for attached or small-lot dev"
+}

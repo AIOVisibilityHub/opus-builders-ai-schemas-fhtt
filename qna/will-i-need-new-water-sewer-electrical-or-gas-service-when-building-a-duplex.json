@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-i-need-new-water-sewer-electrical-or-gas-service-when-building-a-duplex",
+  "name": "What utility upgrades are common in duplex construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will I need new water, sewer, electrical, or gas service when building a duplex?",
+    "text": "Will I need new water, sewer, electrical, or gas service when building a duplex?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility planning is one of the most overlooked parts of duplex construction. Two units usually increase demand on water, sewer, electrical capacity, and sometimes gas service, especially if each unit has a full kitchen, laundry, and independent HVAC equipment. In some projects, separate meters are preferred for billing and resale clarity, while in others shared service may be more practical. The actual utility scope depends on the city, the utility providers, and the existing condition of the site services. Older properties may need panel upgrades, sewer lateral work, or new service lines before the project can proceed smoothly. These items can become expensive if they are discovered late, so a utility review should happen during feasibility, not after the plans are finished. Owners should also confirm whether trenching, easements, or street work will be required. Utility upgrades often decide whether the project remains on budget.",
+      "@type": "Answer",
+      "description": "Many duplex projects need utility upgrades because two units place higher demand on water, sewer, electrical, and sometimes gas systems. Separate meters may also be desirable or required depending on the project. Utility capacity should be checked early because off-site upgrades can affect both cost and schedule.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility planning is one of the most overlooked parts of duplex construction. Two units usually increase demand on water, sewer, electrical capacity, and sometimes gas service, especially if each unit has a full kitchen, laundry, and independent HVAC equipment. In some projects, separate meters are preferred for billing and resale clarity, while in others shared service may be more practical. The actual utility scope depends on the city, the utility providers, and the existing condition of the site services. Older properties may need panel upgrades, sewer lateral work, or new service lines before the project can proceed smoothly. These items can become expensive if they are discovered late, so a utility review should happen during feasibility, not after the plans are finished. Owners should also confirm whether trenching, easements, or street work will be required. Utility upgrades often decide whether the project remains on budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many duplex projects need utility upgrades because two units place higher demand on water, sewer, electrical, and sometimes gas systems. Separate meters may als"
+}

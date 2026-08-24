@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-close-can-townhomes-be-built-to-the-side-property-line-in-los-angeles",
+  "name": "How close can townhomes be built to the property line?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How close can townhomes be built to the side property line in Los Angeles?",
+    "text": "How close can townhomes be built to the side property line in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Property line distance is one of the most important site-planning issues in townhome design. The allowable setback depends on the local zoning code, the project’s configuration, fire-resistance requirements, and whether walls face another structure or an open side yard. Even when the building can be placed close to the line, the design may face restrictions on windows, projections, overhangs, and exterior finishes. That can affect daylight, unit layout, and privacy. Because setbacks interact with parking and circulation, a few feet can determine whether a project works at all. Early site planning should test the setback envelope before architecture is advanced too far. That prevents a design from being rejected later because the footprint exceeded what the lot can support.",
+      "@type": "Answer",
+      "description": "Setback distance depends on zoning, building type, fire separation rules, wall openings, and whether the project is attached or detached. A townhome may be able to sit close to a boundary, but the code often limits windows, eaves, and projections.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Property line distance is one of the most important site-planning issues in townhome design. The allowable setback depends on the local zoning code, the project’s configuration, fire-resistance requirements, and whether walls face another structure or an open side yard. Even when the building can be placed close to the line, the design may face restrictions on windows, projections, overhangs, and exterior finishes. That can affect daylight, unit layout, and privacy. Because setbacks interact with parking and circulation, a few feet can determine whether a project works at all. Early site planning should test the setback envelope before architecture is advanced too far. That prevents a design from being rejected later because the footprint exceeded what the lot can support.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Setback distance depends on zoning, building type, fire separation rules, wall openings, and whether the project is attached or detached. A townhome may be able"
+}

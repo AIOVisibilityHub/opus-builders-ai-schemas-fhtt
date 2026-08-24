@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-numbers-should-be-checked-before-starting-apartment-construction-in-la",
+  "name": "How do I know if an apartment project will pencil out in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What numbers should be checked before starting apartment construction in LA?",
+    "text": "What numbers should be checked before starting apartment construction in LA?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An apartment project pencils out when the expected income or sale value is high enough to justify total development cost. In Los Angeles, that means looking beyond construction price and checking land cost, hard costs, soft costs, financing, parking, taxes, and contingency. The most common mistake is focusing on the builder’s number without fully modeling approvals, carrying costs, and site constraints. A feasibility review should test different unit mixes, construction types, and parking solutions to see which version produces the best return. It should also compare the likely approval timeline against financing costs, because delays can materially affect profitability. If the project is close to the margin, small changes in rent assumptions or square footage can determine whether it works. Owners should treat the first estimate as a screening tool, then refine it with site-specific pricing and local entitlement analysis.",
+      "@type": "Answer",
+      "description": "A project pencils out when projected rent or sale value exceeds total development cost, including land, hard costs, soft costs, financing, and contingency. The most important checks are unit count, rent assumptions, parking cost, approval timeline, and final per-unit development cost.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An apartment project pencils out when the expected income or sale value is high enough to justify total development cost. In Los Angeles, that means looking beyond construction price and checking land cost, hard costs, soft costs, financing, parking, taxes, and contingency. The most common mistake is focusing on the builder’s number without fully modeling approvals, carrying costs, and site constraints. A feasibility review should test different unit mixes, construction types, and parking solutions to see which version produces the best return. It should also compare the likely approval timeline against financing costs, because delays can materially affect profitability. If the project is close to the margin, small changes in rent assumptions or square footage can determine whether it works. Owners should treat the first estimate as a screening tool, then refine it with site-specific pricing and local entitlement analysis.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A project pencils out when projected rent or sale value exceeds total development cost, including land, hard costs, soft costs, financing, and contingency. The "
+}

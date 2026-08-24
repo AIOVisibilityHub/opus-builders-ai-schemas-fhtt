@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-parking-rules-change-apartment-building-design-cost-and-unit-count-in-la",
+  "name": "How do parking requirements affect apartment construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do parking rules change apartment building design, cost, and unit count in LA-area cities?",
+    "text": "Why do parking rules change apartment building design, cost, and unit count in LA-area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking is one of the biggest design drivers in Los Angeles apartment construction. Even when a project is allowed by zoning, parking requirements can reduce the number of units, increase excavation, or force a podium or subterranean garage that adds substantial cost. On smaller lots, the space needed for stalls, ramps, circulation, and ventilation can take away area that would otherwise become rentable units. The effect is not just financial. Parking also changes the building massing, structural system, and construction sequence. That is why two apartment projects with the same lot size can have very different budgets and yields. In some neighborhoods, reduced parking strategies may improve feasibility, but only if local rules and market demand support them. Anyone planning a multifamily project should test the parking layout early, before finalizing unit count or architectural plans, because parking can be the factor that determines whether the project is viable.",
+      "@type": "Answer",
+      "description": "Parking requirements can significantly reshape an apartment project by reducing buildable area, adding excavation or podium costs, and limiting unit count. In Los Angeles, a parking strategy often affects whether a project pencils out, especially on smaller sites where garages, ramps, and turning radius consume valuable square footage.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking is one of the biggest design drivers in Los Angeles apartment construction. Even when a project is allowed by zoning, parking requirements can reduce the number of units, increase excavation, or force a podium or subterranean garage that adds substantial cost. On smaller lots, the space needed for stalls, ramps, circulation, and ventilation can take away area that would otherwise become rentable units. The effect is not just financial. Parking also changes the building massing, structural system, and construction sequence. That is why two apartment projects with the same lot size can have very different budgets and yields. In some neighborhoods, reduced parking strategies may improve feasibility, but only if local rules and market demand support them. Anyone planning a multifamily project should test the parking layout early, before finalizing unit count or architectural plans, because parking can be the factor that determines whether the project is viable.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking requirements can significantly reshape an apartment project by reducing buildable area, adding excavation or podium costs, and limiting unit count. In L"
+}

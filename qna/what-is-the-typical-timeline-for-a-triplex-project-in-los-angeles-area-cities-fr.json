@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-typical-timeline-for-a-triplex-project-in-los-angeles-area-cities-fr",
+  "name": "How long does it take to build a triplex from design to final inspection?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the typical timeline for a triplex project in Los Angeles-area cities from feasibility to move-in?",
+    "text": "What is the typical timeline for a triplex project in Los Angeles-area cities from feasibility to move-in?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A realistic triplex timeline starts with zoning and feasibility, then moves into schematic design, permit drawings, plan check, corrections, bidding, construction, and final inspections. Fast-track projects with clear zoning and straightforward site conditions can move much faster than projects with discretionary review, hillside grading, or utility upgrades. Many owners underestimate the time needed for early-stage work such as surveys, structural engineering, and city comments, which can add weeks or months before construction begins. Build time itself also varies with project size, weather, subcontractor availability, and material lead times. If the site requires demolition, shoring, retaining walls, or new service connections, those items should be treated as separate schedule risks. The best way to control timing is to start feasibility early, submit complete drawings, and maintain a realistic contingency for city review cycles and construction surprises.",
+      "@type": "Answer",
+      "description": "A triplex project can take many months from feasibility to occupancy because the timeline includes zoning review, design, permits, utility coordination, demolition, construction, inspections, and certificate of occupancy. The exact schedule depends on entitlement complexity, city review speed, and whether the project is ground-up or a teardown rebuild. Utility work and corrections often add delays.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A realistic triplex timeline starts with zoning and feasibility, then moves into schematic design, permit drawings, plan check, corrections, bidding, construction, and final inspections. Fast-track projects with clear zoning and straightforward site conditions can move much faster than projects with discretionary review, hillside grading, or utility upgrades. Many owners underestimate the time needed for early-stage work such as surveys, structural engineering, and city comments, which can add weeks or months before construction begins. Build time itself also varies with project size, weather, subcontractor availability, and material lead times. If the site requires demolition, shoring, retaining walls, or new service connections, those items should be treated as separate schedule risks. The best way to control timing is to start feasibility early, submit complete drawings, and maintain a realistic contingency for city review cycles and construction surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A triplex project can take many months from feasibility to occupancy because the timeline includes zoning review, design, permits, utility coordination, demolit"
+}

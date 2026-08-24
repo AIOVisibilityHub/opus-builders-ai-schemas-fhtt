@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-each-unit-in-a-fourplex-have-its-own-gas-electric-and-water-metering",
+  "name": "Can a fourplex be built with separate utility meters?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can each unit in a fourplex have its own gas, electric, and water metering?",
+    "text": "Can each unit in a fourplex have its own gas, electric, and water metering?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Owners ask this because metering affects operating costs, tenant billing, and resale appeal. In many fourplex projects, separate electric and gas meters are feasible, but they require early coordination with the utility providers and a design that reserves enough space for equipment. Water metering can be more complicated depending on local utility policies and the way the city handles multi-unit service. A good answer should explain that meter decisions are not a late-stage detail; they affect trenching, service entry locations, utility room planning, and sometimes the entire building orientation. Searchers need practical guidance on when to bring utilities into the design process so the project does not get delayed or overbuilt.",
+      "@type": "Answer",
+      "description": "Separate metering is often possible, but it depends on utility company requirements, service capacity, meter location, and the building design. Multi-unit projects may also need careful coordination for panels, risers, and utility trenching.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Owners ask this because metering affects operating costs, tenant billing, and resale appeal. In many fourplex projects, separate electric and gas meters are feasible, but they require early coordination with the utility providers and a design that reserves enough space for equipment. Water metering can be more complicated depending on local utility policies and the way the city handles multi-unit service. A good answer should explain that meter decisions are not a late-stage detail; they affect trenching, service entry locations, utility room planning, and sometimes the entire building orientation. Searchers need practical guidance on when to bring utilities into the design process so the project does not get delayed or overbuilt.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Separate metering is often possible, but it depends on utility company requirements, service capacity, meter location, and the building design. Multi-unit proje"
+}

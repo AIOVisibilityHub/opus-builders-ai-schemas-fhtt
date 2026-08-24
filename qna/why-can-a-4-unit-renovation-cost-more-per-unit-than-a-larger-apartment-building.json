@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-can-a-4-unit-renovation-cost-more-per-unit-than-a-larger-apartment-building",
+  "name": "How do renovation costs change for small versus large multifamily properties?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why can a 4-unit renovation cost more per unit than a larger apartment building project?",
+    "text": "Why can a 4-unit renovation cost more per unit than a larger apartment building project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Unit count changes the economics of renovation. Small projects usually carry higher per-unit overhead because setup, planning, and coordination costs are divided among fewer units. Larger properties may benefit from repetition, trade efficiency, and material purchasing power, but only if the scope is standardized. A 4-unit building with unique layouts can cost more per unit than a larger, more repetitive property. In Los Angeles, occupancy and permit complexity can also affect whether a bigger project actually becomes more efficient. Owners should compare total project cost, per-unit cost, and rent upside rather than relying on size alone.",
+      "@type": "Answer",
+      "description": "Smaller multifamily projects often cost more per unit because fixed expenses like mobilization, design, permits, and project management are spread across fewer units. Larger buildings may gain some efficiency from repeat scopes and bulk purchasing. Occupancy, access, and complexity can still erase those savings.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Unit count changes the economics of renovation. Small projects usually carry higher per-unit overhead because setup, planning, and coordination costs are divided among fewer units. Larger properties may benefit from repetition, trade efficiency, and material purchasing power, but only if the scope is standardized. A 4-unit building with unique layouts can cost more per unit than a larger, more repetitive property. In Los Angeles, occupancy and permit complexity can also affect whether a bigger project actually becomes more efficient. Owners should compare total project cost, per-unit cost, and rent upside rather than relying on size alone.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Smaller multifamily projects often cost more per unit because fixed expenses like mobilization, design, permits, and project management are spread across fewer "
+}

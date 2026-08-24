@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-fire-rated-walls-floors-and-separations-are-typically-required-between-dupl",
+  "name": "What fire separation rules matter in duplex construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What fire-rated walls, floors, and separations are typically required between duplex units?",
+    "text": "What fire-rated walls, floors, and separations are typically required between duplex units?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Fire separation is a core design issue in any duplex because the two units must function independently and safely. Depending on the configuration, the project may need fire-rated wall assemblies, rated floor systems, protected penetrations, and careful treatment of any openings near the separation line. Garages, stairs, attics, and utility chases can also affect the required assembly. If the separation is not planned early, it can force expensive changes to framing, drywall, insulation, and mechanical routing. The details matter because duplex projects fail when the architectural layout and the code requirements are developed separately. Fire separation also affects sound control, so a good assembly often improves both safety and livability. Owners should ask for the exact rated details during design, not after framing starts. This is one of the most important areas where an experienced duplex builder can prevent costly rework.",
+      "@type": "Answer",
+      "description": "Duplex units generally need code-compliant fire separation between living spaces, including rated walls, floors, and protected openings where required. Exact requirements depend on whether the units are side-by-side, stacked, or attached to garages. Fire separation should be designed early because it affects framing, insulation, and finishes.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Fire separation is a core design issue in any duplex because the two units must function independently and safely. Depending on the configuration, the project may need fire-rated wall assemblies, rated floor systems, protected penetrations, and careful treatment of any openings near the separation line. Garages, stairs, attics, and utility chases can also affect the required assembly. If the separation is not planned early, it can force expensive changes to framing, drywall, insulation, and mechanical routing. The details matter because duplex projects fail when the architectural layout and the code requirements are developed separately. Fire separation also affects sound control, so a good assembly often improves both safety and livability. Owners should ask for the exact rated details during design, not after framing starts. This is one of the most important areas where an experienced duplex builder can prevent costly rework.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Duplex units generally need code-compliant fire separation between living spaces, including rated walls, floors, and protected openings where required. Exact re"
+}

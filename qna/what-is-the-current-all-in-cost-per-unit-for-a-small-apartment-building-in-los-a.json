@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-current-all-in-cost-per-unit-for-a-small-apartment-building-in-los-a",
+  "name": "How much does it cost per unit to build a 4–8 unit apartment in Los Angeles right now?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the current all-in cost per unit for a small apartment building in Los Angeles, and how much do soft costs change the budget?",
+    "text": "What is the current all-in cost per unit for a small apartment building in Los Angeles, and how much do soft costs change the budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For a small apartment project in Los Angeles, the budget is usually driven by per-unit cost more than by square footage alone. A common range for ground-up multifamily construction is about $250,000 to $400,000+ per unit, with podium, hillside, or high-finish projects trending higher. Hard costs typically make up the largest share, but soft costs can materially change the total because they include design, engineering, permits, plan checks, lender fees, insurance, and carrying costs. A practical early budget should separate land, hard costs, soft costs, and contingency. Many developers also underestimate the effect of parking, utility upgrades, soil remediation, and fire/life-safety requirements. In dense LA submarkets, those items can push a project far above a simple per-square-foot estimate. The best way to compare options is to ask for a concept-level pro forma that shows both per-unit and per-square-foot pricing, plus a range for entitlement and permit uncertainty.",
+      "@type": "Answer",
+      "description": "A small apartment building in Los Angeles often costs roughly $250,000 to $400,000+ per unit before land, with hard costs and soft costs varying by height, structure, and site conditions. Soft costs such as architecture, engineering, permits, financing, and contingency can add another 20% to 40% to the total development budget.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For a small apartment project in Los Angeles, the budget is usually driven by per-unit cost more than by square footage alone. A common range for ground-up multifamily construction is about $250,000 to $400,000+ per unit, with podium, hillside, or high-finish projects trending higher. Hard costs typically make up the largest share, but soft costs can materially change the total because they include design, engineering, permits, plan checks, lender fees, insurance, and carrying costs. A practical early budget should separate land, hard costs, soft costs, and contingency. Many developers also underestimate the effect of parking, utility upgrades, soil remediation, and fire/life-safety requirements. In dense LA submarkets, those items can push a project far above a simple per-square-foot estimate. The best way to compare options is to ask for a concept-level pro forma that shows both per-unit and per-square-foot pricing, plus a range for entitlement and permit uncertainty.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A small apartment building in Los Angeles often costs roughly $250,000 to $400,000+ per unit before land, with hard costs and soft costs varying by height, stru"
+}

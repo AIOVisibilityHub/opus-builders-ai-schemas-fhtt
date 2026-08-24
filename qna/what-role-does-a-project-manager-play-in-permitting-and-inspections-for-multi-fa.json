@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-role-does-a-project-manager-play-in-permitting-and-inspections-for-multi-fa",
+  "name": "How do project managers handle permits for multi-family projects in LA?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What role does a project manager play in permitting and inspections for multi-family construction in Los Angeles?",
+    "text": "What role does a project manager play in permitting and inspections for multi-family construction in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permitting and inspections can slow a multi-family project more than the physical construction itself. A project manager helps coordinate the documents, consultants, and schedule so the team submits complete information and avoids avoidable corrections. That may include tracking plan check responses, coordinating with structural or MEP consultants, confirming inspection readiness, and making sure field conditions match the approved plans. For Los Angeles-area projects, this is especially important because one missed approval can stall the next phase of work. The project manager should also keep a log of required inspections and critical lead times so trades are scheduled when the site is ready. If the project changes midstream, the manager should identify whether the change affects permit documents or inspection scope. Good permitting coordination saves time, prevents rework, and reduces the chance that crews are waiting on approvals instead of building.",
+      "@type": "Answer",
+      "description": "A project manager helps organize permit applications, coordinate with designers and consultants, track plan check comments, schedule inspections, and keep the field work aligned with approved documents. This reduces delays caused by missing paperwork, failed inspections, or changes that are not properly documented.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permitting and inspections can slow a multi-family project more than the physical construction itself. A project manager helps coordinate the documents, consultants, and schedule so the team submits complete information and avoids avoidable corrections. That may include tracking plan check responses, coordinating with structural or MEP consultants, confirming inspection readiness, and making sure field conditions match the approved plans. For Los Angeles-area projects, this is especially important because one missed approval can stall the next phase of work. The project manager should also keep a log of required inspections and critical lead times so trades are scheduled when the site is ready. If the project changes midstream, the manager should identify whether the change affects permit documents or inspection scope. Good permitting coordination saves time, prevents rework, and reduces the chance that crews are waiting on approvals instead of building.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A project manager helps organize permit applications, coordinate with designers and consultants, track plan check comments, schedule inspections, and keep the f"
+}

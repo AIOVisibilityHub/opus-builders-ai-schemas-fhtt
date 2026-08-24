@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-mistakes-most-often-cause-overruns-delays-or-tenant-complaints-in-apartmen",
+  "name": "What are the biggest renovation mistakes in multifamily buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which mistakes most often cause overruns, delays, or tenant complaints in apartment renovations?",
+    "text": "Which mistakes most often cause overruns, delays, or tenant complaints in apartment renovations?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most expensive multifamily mistakes usually happen before construction is fully underway. Owners often focus on visible upgrades and miss the systems that actually drive cost and schedule risk. Underpricing hidden conditions, failing to account for tenant access, and skipping permit planning can all cause large overruns. Another common mistake is choosing finishes before confirming that the base building is sound. In Los Angeles, older properties may need system upgrades that are not obvious during early walkthroughs. A good renovation plan starts with diagnostics, scope clarity, and realistic contingency, then moves into finishes once the building issues are understood.",
+      "@type": "Answer",
+      "description": "The biggest mistakes are underestimating hidden conditions, ignoring permit requirements, failing to phase occupied work, using the wrong contractor, and not setting a realistic contingency. Another common error is upgrading finishes without fixing underlying plumbing, electrical, or moisture problems.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most expensive multifamily mistakes usually happen before construction is fully underway. Owners often focus on visible upgrades and miss the systems that actually drive cost and schedule risk. Underpricing hidden conditions, failing to account for tenant access, and skipping permit planning can all cause large overruns. Another common mistake is choosing finishes before confirming that the base building is sound. In Los Angeles, older properties may need system upgrades that are not obvious during early walkthroughs. A good renovation plan starts with diagnostics, scope clarity, and realistic contingency, then moves into finishes once the building issues are understood.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest mistakes are underestimating hidden conditions, ignoring permit requirements, failing to phase occupied work, using the wrong contractor, and not se"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-phased-renovation-strategy-when-an-owner-cannot-take-a-building",
+  "name": "Can multifamily renovations be done in phases to protect cash flow?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best phased renovation strategy when an owner cannot take a building offline?",
+    "text": "What is the best phased renovation strategy when an owner cannot take a building offline?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phasing lets owners keep income coming in while improving the asset over time. The best strategy is usually to align work with natural turnover, then group similar scopes together so crews can work efficiently. That may mean renovating vacant units first, then tackling occupied units in limited windows, and finally updating common areas or building systems. In Los Angeles, phasing is especially useful when full vacancy is not realistic. The key is to avoid random, uncoordinated sequencing. A phased plan should still follow a master scope, master budget, and master schedule so the building ends up with a consistent finished standard.",
+      "@type": "Answer",
+      "description": "Yes, phased renovations are common and often the best way to protect cash flow. Owners usually renovate one unit stack, one building section, or one common area at a time, then use completed work to support future rents. The schedule should be tied to turnover, access, and permit sequencing.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phasing lets owners keep income coming in while improving the asset over time. The best strategy is usually to align work with natural turnover, then group similar scopes together so crews can work efficiently. That may mean renovating vacant units first, then tackling occupied units in limited windows, and finally updating common areas or building systems. In Los Angeles, phasing is especially useful when full vacancy is not realistic. The key is to avoid random, uncoordinated sequencing. A phased plan should still follow a master scope, master budget, and master schedule so the building ends up with a consistent finished standard.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, phased renovations are common and often the best way to protect cash flow. Owners usually renovate one unit stack, one building section, or one common area"
+}

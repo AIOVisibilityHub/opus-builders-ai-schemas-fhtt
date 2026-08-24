@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-can-a-los-angeles-multifamily-renovation-be-done-with-tenants-still-living",
+  "name": "Can I renovate a multifamily building without vacating all units?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When can a Los Angeles multifamily renovation be done with tenants still living in the property?",
+    "text": "When can a Los Angeles multifamily renovation be done with tenants still living in the property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many apartment and condo renovations can be done without emptying the entire building, but the feasibility depends on scope. Cosmetic work is easier to phase, while major plumbing, electrical, HVAC, or structural projects may require temporary vacancy of individual units or sections of the property. The deciding factors are noise, dust, utility shutoffs, access needs, and whether habitability can be maintained safely. In Los Angeles, tenant communication and permit compliance are critical, because an occupied renovation that disrupts essential services can quickly become more complicated than a vacant building project. The right plan reduces disruption while keeping the project moving and protecting the property owner from avoidable delays.",
+      "@type": "Answer",
+      "description": "Yes, many multifamily renovations can be done with tenants in place if the work is phased, contained, and does not require extended shutdowns of essential services. Full vacates are more likely when the project includes major utilities, structural work, or conditions that make units temporarily uninhabitable.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many apartment and condo renovations can be done without emptying the entire building, but the feasibility depends on scope. Cosmetic work is easier to phase, while major plumbing, electrical, HVAC, or structural projects may require temporary vacancy of individual units or sections of the property. The deciding factors are noise, dust, utility shutoffs, access needs, and whether habitability can be maintained safely. In Los Angeles, tenant communication and permit compliance are critical, because an occupied renovation that disrupts essential services can quickly become more complicated than a vacant building project. The right plan reduces disruption while keeping the project moving and protecting the property owner from avoidable delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many multifamily renovations can be done with tenants in place if the work is phased, contained, and does not require extended shutdowns of essential servi"
+}

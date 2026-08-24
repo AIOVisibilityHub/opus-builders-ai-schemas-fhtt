@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-to-a-multifamily-project-s-budget-and-loan-costs-when-permits-take",
+  "name": "How do permit delays affect construction financing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens to a multifamily project’s budget and loan costs when permits take longer than expected?",
+    "text": "What happens to a multifamily project’s budget and loan costs when permits take longer than expected?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit delays affect more than the start date; they can materially change the economics of the entire project. Every extra month may add interest, insurance, taxes, and administrative overhead while revenue remains off the table. Delays can also cause subcontractor pricing to expire and lead times to shift, especially for windows, mechanical equipment, and switchgear. If approvals take longer than expected, the owner may need to refresh the construction budget so the project reflects current labor and material conditions. A financing plan should also account for a longer preconstruction period and possible changes in loan terms. Owners can reduce this risk by building time into the schedule, coordinating design carefully, and avoiding repeated plan changes. In multifamily development, time is money, and approval delays often affect profitability as much as construction overruns do.",
+      "@type": "Answer",
+      "description": "Permit delays can increase carry costs, extend loan interest, delay revenue, and force budget revisions. They may also push long-lead purchases later and create pricing changes by the time construction starts. The longer the delay, the more important it is to recheck assumptions on labor, materials, and financing before breaking ground.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit delays affect more than the start date; they can materially change the economics of the entire project. Every extra month may add interest, insurance, taxes, and administrative overhead while revenue remains off the table. Delays can also cause subcontractor pricing to expire and lead times to shift, especially for windows, mechanical equipment, and switchgear. If approvals take longer than expected, the owner may need to refresh the construction budget so the project reflects current labor and material conditions. A financing plan should also account for a longer preconstruction period and possible changes in loan terms. Owners can reduce this risk by building time into the schedule, coordinating design carefully, and avoiding repeated plan changes. In multifamily development, time is money, and approval delays often affect profitability as much as construction overruns do.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permit delays can increase carry costs, extend loan interest, delay revenue, and force budget revisions. They may also push long-lead purchases later and create"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-zoning-or-site-conditions-most-often-stop-a-multi-unit-construction-project",
+  "name": "What zoning issues most often block multifamily projects in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What zoning or site conditions most often stop a multi-unit construction project in Los Angeles from moving forward?",
+    "text": "What zoning or site conditions most often stop a multi-unit construction project in Los Angeles from moving forward?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common feasibility problems are rarely about the building concept itself; they are usually about the site. Setbacks may shrink the footprint too much, height limits may prevent the number of stories needed, and density rules may allow fewer units than expected. Parking and fire access are frequent project breakers because they affect both layout efficiency and approval risk. On challenging lots, grading, retaining walls, easements, and protected trees can further reduce buildable area. In hillside or narrow-lot situations, the design may need major revisions just to satisfy access and egress requirements. Owners should treat feasibility as a technical exercise, not a rough estimate, and verify all constraints before paying for full architectural drawings. The smartest projects start with a zoning and site analysis that identifies whether the property supports the target unit count, or whether the better strategy is a smaller, more efficient building that is easier to approve and build.",
+      "@type": "Answer",
+      "description": "The most common blockers are setback conflicts, height limits, density restrictions, parking shortfalls, fire access problems, and irregular lot shapes. Utility easements, hillside conditions, tree preservation, and incompatible existing structures can also make a project unworkable without redesign. A project can be rentable but still fail feasibility if the site cannot support circulation and code-compliant access.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common feasibility problems are rarely about the building concept itself; they are usually about the site. Setbacks may shrink the footprint too much, height limits may prevent the number of stories needed, and density rules may allow fewer units than expected. Parking and fire access are frequent project breakers because they affect both layout efficiency and approval risk. On challenging lots, grading, retaining walls, easements, and protected trees can further reduce buildable area. In hillside or narrow-lot situations, the design may need major revisions just to satisfy access and egress requirements. Owners should treat feasibility as a technical exercise, not a rough estimate, and verify all constraints before paying for full architectural drawings. The smartest projects start with a zoning and site analysis that identifies whether the property supports the target unit count, or whether the better strategy is a smaller, more efficient building that is easier to approve and build.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common blockers are setback conflicts, height limits, density restrictions, parking shortfalls, fire access problems, and irregular lot shapes. Utility"
+}

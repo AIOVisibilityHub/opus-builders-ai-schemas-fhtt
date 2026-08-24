@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-financing-options-are-available-for-building-a-triplex-and-when-do-lenders",
+  "name": "Can I finance a triplex construction project with a residential loan?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What financing options are available for building a triplex, and when do lenders treat it like a small multifamily project?",
+    "text": "What financing options are available for building a triplex, and when do lenders treat it like a small multifamily project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Triplex financing is more complicated than financing a single-family home because lenders evaluate both the borrower and the income-producing nature of the project. Some lenders may offer residential-style construction financing if one unit will be owner-occupied, while others treat the project as small multifamily or investor-grade construction. That distinction can affect loan terms, reserve requirements, appraisal assumptions, and the way construction draws are released. The project’s scope, zoning certainty, and permit status also matter because lenders want confidence that the design can actually be built and rented. Owners should speak with a lender early, before finalizing plans, so the financing structure matches the intended use and timeline. A strong preconstruction budget and realistic exit strategy make approval much easier.",
+      "@type": "Answer",
+      "description": "Financing depends on whether the project is treated as owner-occupied residential, investor construction, or small multifamily development. Lenders may require different down payments, reserves, and draw schedules for a triplex than for a single-family build. The project’s use, borrower profile, and exit plan affect underwriting.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Triplex financing is more complicated than financing a single-family home because lenders evaluate both the borrower and the income-producing nature of the project. Some lenders may offer residential-style construction financing if one unit will be owner-occupied, while others treat the project as small multifamily or investor-grade construction. That distinction can affect loan terms, reserve requirements, appraisal assumptions, and the way construction draws are released. The project’s scope, zoning certainty, and permit status also matter because lenders want confidence that the design can actually be built and rented. Owners should speak with a lender early, before finalizing plans, so the financing structure matches the intended use and timeline. A strong preconstruction budget and realistic exit strategy make approval much easier.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Financing depends on whether the project is treated as owner-occupied residential, investor construction, or small multifamily development. Lenders may require "
+}

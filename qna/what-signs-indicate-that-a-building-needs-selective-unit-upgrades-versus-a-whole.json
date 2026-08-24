@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-signs-indicate-that-a-building-needs-selective-unit-upgrades-versus-a-whole",
+  "name": "How do I know if my multifamily building needs a partial or full renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What signs indicate that a building needs selective unit upgrades versus a whole-property overhaul?",
+    "text": "What signs indicate that a building needs selective unit upgrades versus a whole-property overhaul?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The choice between partial and full renovation depends on the condition of the building’s core systems and the consistency of its problems. If the property mainly needs cosmetic updates, selective unit renovations can be the most efficient path. But if multiple units show the same failures, such as leaking pipes, old wiring, persistent moisture, or poor layouts, a broader renovation may be better long term. In Los Angeles, owners should compare the cost of repeating smaller fixes against the cost of solving the root problem once. A condition assessment helps determine whether the asset is a light refresh candidate or a deeper repositioning project.",
+      "@type": "Answer",
+      "description": "A partial renovation is usually enough when the building structure and major systems are sound but finishes are dated. A full renovation is more likely when plumbing, electrical, HVAC, moisture, or layout problems are widespread. If repeated unit turnover reveals the same hidden issues, a broader scope may be more cost-effective.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The choice between partial and full renovation depends on the condition of the building’s core systems and the consistency of its problems. If the property mainly needs cosmetic updates, selective unit renovations can be the most efficient path. But if multiple units show the same failures, such as leaking pipes, old wiring, persistent moisture, or poor layouts, a broader renovation may be better long term. In Los Angeles, owners should compare the cost of repeating smaller fixes against the cost of solving the root problem once. A condition assessment helps determine whether the asset is a light refresh candidate or a deeper repositioning project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A partial renovation is usually enough when the building structure and major systems are sound but finishes are dated. A full renovation is more likely when plu"
+}

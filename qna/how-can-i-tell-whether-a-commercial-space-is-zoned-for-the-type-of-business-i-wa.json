@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-whether-a-commercial-space-is-zoned-for-the-type-of-business-i-wa",
+  "name": "How do I know if a space is zoned for my business use?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell whether a commercial space is zoned for the type of business I want to open?",
+    "text": "How can I tell whether a commercial space is zoned for the type of business I want to open?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Zoning confirmation should happen before signing a lease or finalizing a design. A space may look suitable, but the intended business use still has to align with zoning designation, occupancy classification, parking requirements, and any special overlays or entitlements. For example, an office, retail, restaurant, medical, or assembly use may each trigger different requirements even in the same building. In Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, a property that previously hosted one business type is not automatically approved for the next one. The safest approach is to check the current use history, confirm the proposed use with the city, and identify any conditions that affect parking, hours, noise, or hazardous equipment. This is especially important for restaurants, fitness uses, medical suites, and mixed-use properties where the review can be more complex. Early zoning review helps avoid costly redesigns and lease surprises.",
+      "@type": "Answer",
+      "description": "To determine whether a space is zoned for your business, compare the intended use with the property’s zoning designation, occupancy classification, and any overlay or entitlement restrictions. Even if a similar business operated there before, the new use may still need review. Early zoning confirmation prevents lease and permit problems.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Zoning confirmation should happen before signing a lease or finalizing a design. A space may look suitable, but the intended business use still has to align with zoning designation, occupancy classification, parking requirements, and any special overlays or entitlements. For example, an office, retail, restaurant, medical, or assembly use may each trigger different requirements even in the same building. In Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, a property that previously hosted one business type is not automatically approved for the next one. The safest approach is to check the current use history, confirm the proposed use with the city, and identify any conditions that affect parking, hours, noise, or hazardous equipment. This is especially important for restaurants, fitness uses, medical suites, and mixed-use properties where the review can be more complex. Early zoning review helps avoid costly redesigns and lease surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "To determine whether a space is zoned for your business, compare the intended use with the property’s zoning designation, occupancy classification, and any over"
+}

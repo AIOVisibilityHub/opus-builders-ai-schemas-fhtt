@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-design-choices-help-reduce-noise-views-and-shared-wall-conflicts-in-a-three",
+  "name": "How do you design a triplex for privacy between units?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What design choices help reduce noise, views, and shared-wall conflicts in a three-unit building?",
+    "text": "What design choices help reduce noise, views, and shared-wall conflicts in a three-unit building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Privacy is a major value driver in a triplex because poor adjacency can make the building feel like an apartment block instead of a premium small multifamily property. Good design separates sleeping areas from shared walls, uses sound-rated construction where units touch, and avoids direct window-to-window views between units. Separate entries, screened outdoor spaces, and well-placed stairs can also improve the living experience. Mechanical equipment should be located away from bedrooms and patios whenever possible. On luxury projects, privacy details can influence rent, resale appeal, and tenant retention as much as square footage does. A well-designed triplex should feel like three distinct homes rather than three units sharing a box.",
+      "@type": "Answer",
+      "description": "Privacy in a triplex usually comes from smart unit stacking, careful window placement, sound-rated assemblies, separated entries, and thoughtful outdoor space design. Hallways, stairs, and mechanical equipment should be placed to minimize shared noise. The layout should protect bedrooms from the noisiest adjacency points.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Privacy is a major value driver in a triplex because poor adjacency can make the building feel like an apartment block instead of a premium small multifamily property. Good design separates sleeping areas from shared walls, uses sound-rated construction where units touch, and avoids direct window-to-window views between units. Separate entries, screened outdoor spaces, and well-placed stairs can also improve the living experience. Mechanical equipment should be located away from bedrooms and patios whenever possible. On luxury projects, privacy details can influence rent, resale appeal, and tenant retention as much as square footage does. A well-designed triplex should feel like three distinct homes rather than three units sharing a box.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Privacy in a triplex usually comes from smart unit stacking, careful window placement, sound-rated assemblies, separated entries, and thoughtful outdoor space d"
+}

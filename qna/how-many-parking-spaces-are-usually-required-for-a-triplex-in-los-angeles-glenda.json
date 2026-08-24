@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-many-parking-spaces-are-usually-required-for-a-triplex-in-los-angeles-glenda",
+  "name": "Do triplex projects require parking in Los Angeles and nearby cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How many parking spaces are usually required for a triplex in Los Angeles, Glendale, Pasadena, or Burbank?",
+    "text": "How many parking spaces are usually required for a triplex in Los Angeles, Glendale, Pasadena, or Burbank?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking can make or break a triplex design because the required number of spaces affects building massing and cost. Some areas allow reductions near transit or under specific housing rules, while other parcels still require standard parking ratios or guest parking. On tight urban lots, the choice between surface parking, tuck-under parking, carports, or subterranean parking changes both budget and feasibility. If the lot is small or narrow, parking may force compromises in unit size or circulation. Owners should confirm parking rules before choosing a floor plan, because a design that looks efficient may fail plan check if it cannot satisfy stall dimensions, driveway width, turning radius, and fire access. The safest approach is to test parking early with a civil or architectural site plan.",
+      "@type": "Answer",
+      "description": "Parking requirements depend on the city, zoning, transit location, and unit size. Some Los Angeles-area projects may qualify for reduced parking, while others still need spaces based on code and site conditions. Parking strategy affects layout, excavation, cost, and whether the project can fit on the lot.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking can make or break a triplex design because the required number of spaces affects building massing and cost. Some areas allow reductions near transit or under specific housing rules, while other parcels still require standard parking ratios or guest parking. On tight urban lots, the choice between surface parking, tuck-under parking, carports, or subterranean parking changes both budget and feasibility. If the lot is small or narrow, parking may force compromises in unit size or circulation. Owners should confirm parking rules before choosing a floor plan, because a design that looks efficient may fail plan check if it cannot satisfy stall dimensions, driveway width, turning radius, and fire access. The safest approach is to test parking early with a civil or architectural site plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking requirements depend on the city, zoning, transit location, and unit size. Some Los Angeles-area projects may qualify for reduced parking, while others s"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-correct-order-for-planning-a-commercial-construction-project",
+  "name": "What is the best order for commercial construction planning?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the correct order for planning a commercial construction project?",
+    "text": "What is the correct order for planning a commercial construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A commercial project usually runs more smoothly when planning follows a disciplined sequence. First comes feasibility, which confirms the site, use, budget, and schedule are realistic. Next is scope definition, followed by design development and permit strategy. After that, the owner selects the contractor, finalizes procurement plans, and mobilizes construction. Inspections, punch list work, and closeout come last. In Los Angeles-area projects, this sequence matters because permit review, utility coordination, and code requirements can significantly affect timing. Starting construction before the scope is fully understood often leads to rework, change orders, and missed deadlines. Owners should also identify long-lead items early, such as switchgear, HVAC equipment, specialty finishes, or restaurant equipment, because procurement can become the schedule driver. The projects that stay organized are usually the ones that treat preconstruction as seriously as the build itself.",
+      "@type": "Answer",
+      "description": "The best planning order is usually feasibility, budget, scope definition, design, permit strategy, contractor selection, procurement, construction, inspections, and closeout. Skipping steps or starting construction before the scope is clear often causes delays and cost overruns. Early coordination of code, utilities, and long-lead items is critical.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A commercial project usually runs more smoothly when planning follows a disciplined sequence. First comes feasibility, which confirms the site, use, budget, and schedule are realistic. Next is scope definition, followed by design development and permit strategy. After that, the owner selects the contractor, finalizes procurement plans, and mobilizes construction. Inspections, punch list work, and closeout come last. In Los Angeles-area projects, this sequence matters because permit review, utility coordination, and code requirements can significantly affect timing. Starting construction before the scope is fully understood often leads to rework, change orders, and missed deadlines. Owners should also identify long-lead items early, such as switchgear, HVAC equipment, specialty finishes, or restaurant equipment, because procurement can become the schedule driver. The projects that stay organized are usually the ones that treat preconstruction as seriously as the build itself.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best planning order is usually feasibility, budget, scope definition, design, permit strategy, contractor selection, procurement, construction, inspections,"
+}

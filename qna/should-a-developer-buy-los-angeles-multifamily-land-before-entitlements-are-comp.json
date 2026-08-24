@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-a-developer-buy-los-angeles-multifamily-land-before-entitlements-are-comp",
+  "name": "What happens if the site is not entitled before purchase?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should a developer buy Los Angeles multifamily land before entitlements are complete?",
+    "text": "Should a developer buy Los Angeles multifamily land before entitlements are complete?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Purchasing unentitled land can be a smart move if the discount is large enough and the development team understands the approval path. It can also become very expensive if the zoning outcome is uncertain. Without entitlements, the project may need major redesign, a reduced unit count, or a different construction type. That can affect both lender appetite and resale value. In Los Angeles, the risk is not just whether the city will approve a building, but whether it will approve the specific height, massing, parking, and site circulation needed to make the deal work. Before closing, buyers should run zoning analysis, design feasibility, title review, and preliminary city feedback if possible. The best practice is to understand the upside scenario, downside scenario, and break-even point before committing. Buying unentitled land should only happen when the team can survive delays and a less favorable entitlement outcome.",
+      "@type": "Answer",
+      "description": "Buying unentitled land increases risk because the project may not support the intended density, height, or parking plan. The upside is a lower acquisition price, but the developer may face months of redesign, hearings, and carrying costs. Many buyers only proceed after a detailed feasibility study and entitlement strategy.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Purchasing unentitled land can be a smart move if the discount is large enough and the development team understands the approval path. It can also become very expensive if the zoning outcome is uncertain. Without entitlements, the project may need major redesign, a reduced unit count, or a different construction type. That can affect both lender appetite and resale value. In Los Angeles, the risk is not just whether the city will approve a building, but whether it will approve the specific height, massing, parking, and site circulation needed to make the deal work. Before closing, buyers should run zoning analysis, design feasibility, title review, and preliminary city feedback if possible. The best practice is to understand the upside scenario, downside scenario, and break-even point before committing. Buying unentitled land should only happen when the team can survive delays and a less favorable entitlement outcome.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Buying unentitled land increases risk because the project may not support the intended density, height, or parking plan. The upside is a lower acquisition price"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-build-a-triplex-on-a-single-family-lot-in-los-angeles-or-does-the-zoning-h",
+  "name": "Can I build a triplex on my lot in Los Angeles if the zoning is not clearly multi-family?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I build a triplex on a single-family lot in Los Angeles, or does the zoning have to already allow multifamily use?",
+    "text": "Can I build a triplex on a single-family lot in Los Angeles, or does the zoning have to already allow multifamily use?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether a triplex is allowed depends on the parcel’s zoning designation, overlays, and local development standards. In Los Angeles-area cities, some districts allow triplexes by right, while others require discretionary review, setbacks, parking compliance, or a different entitlement path. The first step is to confirm the exact zoning for the lot, then test the project against height, lot coverage, open space, parking, and unit count rules. If the parcel is in a lower-density zone, a triplex may still be possible only through a rezoning, a subdivision strategy, or a different housing program. Owners should also check for hillside, historic, coastal, or specific plan constraints that can change what is feasible. A feasibility study before design work saves time and avoids drawings that cannot be permitted.",
+      "@type": "Answer",
+      "description": "A triplex usually requires a zoning district that allows multiple dwelling units, such as a multifamily or higher-density residential zone. If the parcel is not already zoned for that use, the project may need a zoning change, density review, or an alternative path such as an ADU-based strategy. Site-specific zoning and overlays control the answer.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether a triplex is allowed depends on the parcel’s zoning designation, overlays, and local development standards. In Los Angeles-area cities, some districts allow triplexes by right, while others require discretionary review, setbacks, parking compliance, or a different entitlement path. The first step is to confirm the exact zoning for the lot, then test the project against height, lot coverage, open space, parking, and unit count rules. If the parcel is in a lower-density zone, a triplex may still be possible only through a rezoning, a subdivision strategy, or a different housing program. Owners should also check for hillside, historic, coastal, or specific plan constraints that can change what is feasible. A feasibility study before design work saves time and avoids drawings that cannot be permitted.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A triplex usually requires a zoning district that allows multiple dwelling units, such as a multifamily or higher-density residential zone. If the parcel is not"
+}

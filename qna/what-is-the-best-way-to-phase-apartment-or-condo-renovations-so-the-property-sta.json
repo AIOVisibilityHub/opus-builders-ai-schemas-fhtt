@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-phase-apartment-or-condo-renovations-so-the-property-sta",
+  "name": "How do you phase a multi-family remodel without shutting down the building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to phase apartment or condo renovations so the property stays operational?",
+    "text": "What is the best way to phase apartment or condo renovations so the property stays operational?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phasing keeps a multi-family property functional while construction moves forward. The project manager should divide the work into manageable zones, such as one stack, one floor, one building wing, or one common-area section at a time. Critical systems like water, power, fire protection, and egress routes must stay available or be temporarily bypassed with a documented plan. The phasing strategy should also account for resident access, material staging, debris removal, and noise-sensitive work. In dense markets like Los Angeles, even a small logistics mistake can create major disruption, so the schedule should include buffers for inspections, deliveries, and unexpected repairs. Good phasing plans also define when each area is turned over, what work can overlap, and who signs off before moving to the next phase. If the property is occupied, communication is just as important as sequencing. Residents should know what will happen, when it will happen, and how it affects their daily routines.",
+      "@type": "Answer",
+      "description": "Phasing a multi-family remodel usually means dividing the project into zones or units, completing one area at a time, and keeping critical building systems available throughout construction. The schedule should prioritize life-safety access, utility continuity, resident circulation, and clear handoff points between phases.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phasing keeps a multi-family property functional while construction moves forward. The project manager should divide the work into manageable zones, such as one stack, one floor, one building wing, or one common-area section at a time. Critical systems like water, power, fire protection, and egress routes must stay available or be temporarily bypassed with a documented plan. The phasing strategy should also account for resident access, material staging, debris removal, and noise-sensitive work. In dense markets like Los Angeles, even a small logistics mistake can create major disruption, so the schedule should include buffers for inspections, deliveries, and unexpected repairs. Good phasing plans also define when each area is turned over, what work can overlap, and who signs off before moving to the next phase. If the property is occupied, communication is just as important as sequencing. Residents should know what will happen, when it will happen, and how it affects their daily routines.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Phasing a multi-family remodel usually means dividing the project into zones or units, completing one area at a time, and keeping critical building systems avai"
+}

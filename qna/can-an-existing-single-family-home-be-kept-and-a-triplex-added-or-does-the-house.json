@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-existing-single-family-home-be-kept-and-a-triplex-added-or-does-the-house",
+  "name": "What if the lot already has one house on it?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an existing single-family home be kept and a triplex added, or does the house usually need to be demolished?",
+    "text": "Can an existing single-family home be kept and a triplex added, or does the house usually need to be demolished?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Keeping an existing home is sometimes possible, but it often makes a triplex much harder to design efficiently. The original structure can consume the best part of the lot, limit setbacks and light access, and create awkward circulation or parking conflicts. If the existing house is in good condition, an owner may still explore a conversion, addition, or partial retain-and-build strategy, but that requires careful code analysis. The key question is whether the site can still meet zoning, fire separation, egress, parking, and utility requirements after the existing building remains in place. Many developers choose demolition because a clean site usually makes the permit path and construction sequencing simpler. A feasibility review should compare both scenarios before making a final decision.",
+      "@type": "Answer",
+      "description": "An existing house may sometimes be retained, but whether a triplex can be added depends on lot size, setbacks, parking, fire separation, and zoning. In many cases, keeping the existing structure limits the building envelope and may reduce unit count or layout options. A teardown is often simpler for a clean triplex plan.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Keeping an existing home is sometimes possible, but it often makes a triplex much harder to design efficiently. The original structure can consume the best part of the lot, limit setbacks and light access, and create awkward circulation or parking conflicts. If the existing house is in good condition, an owner may still explore a conversion, addition, or partial retain-and-build strategy, but that requires careful code analysis. The key question is whether the site can still meet zoning, fire separation, egress, parking, and utility requirements after the existing building remains in place. Many developers choose demolition because a clean site usually makes the permit path and construction sequencing simpler. A feasibility review should compare both scenarios before making a final decision.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An existing house may sometimes be retained, but whether a triplex can be added depends on lot size, setbacks, parking, fire separation, and zoning. In many cas"
+}

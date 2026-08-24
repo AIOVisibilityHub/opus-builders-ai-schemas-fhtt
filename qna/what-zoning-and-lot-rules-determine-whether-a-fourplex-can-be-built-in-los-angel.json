@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-zoning-and-lot-rules-determine-whether-a-fourplex-can-be-built-in-los-angel",
+  "name": "What zoning rules control fourplex construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What zoning and lot rules determine whether a fourplex can be built in Los Angeles-area cities?",
+    "text": "What zoning and lot rules determine whether a fourplex can be built in Los Angeles-area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Searchers often want a simple yes-or-no answer, but fourplex zoning is usually a layered review. The key issues are the underlying zone, overlays, setbacks, height, lot coverage, open-space rules, and whether any state housing provisions affect the site. In some cases, local rules are clear but the design still fails because the building footprint becomes too constrained. In others, the parcel is workable, but the project needs careful massing to fit circulation, light, and parking. A useful page should explain the planning questions owners need answered early, including whether the city treats the project as a multifamily building, whether existing structures must be removed, and whether discretionary review is likely. That makes the content much more useful than a generic zoning summary.",
+      "@type": "Answer",
+      "description": "Fourplex feasibility is controlled by local zoning, state housing rules, setbacks, height, lot coverage, floor-area limits, parking, and access requirements. Because each Los Angeles-area city applies the rules differently, the same parcel shape can produce very different outcomes.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Searchers often want a simple yes-or-no answer, but fourplex zoning is usually a layered review. The key issues are the underlying zone, overlays, setbacks, height, lot coverage, open-space rules, and whether any state housing provisions affect the site. In some cases, local rules are clear but the design still fails because the building footprint becomes too constrained. In others, the parcel is workable, but the project needs careful massing to fit circulation, light, and parking. A useful page should explain the planning questions owners need answered early, including whether the city treats the project as a multifamily building, whether existing structures must be removed, and whether discretionary review is likely. That makes the content much more useful than a generic zoning summary.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Fourplex feasibility is controlled by local zoning, state housing rules, setbacks, height, lot coverage, floor-area limits, parking, and access requirements. Be"
+}

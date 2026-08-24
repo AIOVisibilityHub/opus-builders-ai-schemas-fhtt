@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-small-infill-lot-big-enough-for-a-new-multifamily-building-in-los-angeles",
+  "name": "Can a small lot in Los Angeles support a ground-up apartment building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a small infill lot big enough for a new multifamily building in Los Angeles?",
+    "text": "Is a small infill lot big enough for a new multifamily building in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A small lot can absolutely support a ground-up apartment project, but feasibility depends on more than acreage. The project must still fit required setbacks, light and air, parking, trash access, fire access, and mechanical systems. On small urban parcels, circulation becomes the main challenge because every square foot used for stairs, elevators, corridors, and parking reduces rentable area. Some sites work best with fewer, larger units; others only pencil with studios or compact one-bedrooms. In Los Angeles, small-lot development often succeeds when the design team starts with a massing study before finalizing the purchase. That approach shows whether the parcel can actually support enough units to justify land and construction costs. Buyers should also check whether the site has alley access, utility frontage, and any easements that reduce buildable area.",
+      "@type": "Answer",
+      "description": "Yes, a small lot can support multifamily development if zoning, access, parking, and fire requirements can all be met. The real test is not just lot size, but usable floor plate, setbacks, circulation, and utility placement. Many small sites work only with a very efficient unit mix and parking solution.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A small lot can absolutely support a ground-up apartment project, but feasibility depends on more than acreage. The project must still fit required setbacks, light and air, parking, trash access, fire access, and mechanical systems. On small urban parcels, circulation becomes the main challenge because every square foot used for stairs, elevators, corridors, and parking reduces rentable area. Some sites work best with fewer, larger units; others only pencil with studios or compact one-bedrooms. In Los Angeles, small-lot development often succeeds when the design team starts with a massing study before finalizing the purchase. That approach shows whether the parcel can actually support enough units to justify land and construction costs. Buyers should also check whether the site has alley access, utility frontage, and any easements that reduce buildable area.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a small lot can support multifamily development if zoning, access, parking, and fire requirements can all be met. The real test is not just lot size, but u"
+}

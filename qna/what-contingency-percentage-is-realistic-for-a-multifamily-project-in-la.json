@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-percentage-is-realistic-for-a-multifamily-project-in-la",
+  "name": "How much contingency should I carry for apartment construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency percentage is realistic for a multifamily project in LA?",
+    "text": "What contingency percentage is realistic for a multifamily project in LA?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A realistic contingency is essential for apartment construction in Los Angeles because site conditions, permits, and coordination issues can change the budget quickly. A common planning range is 5% to 10% of hard and soft costs, though more complex sites may justify a larger reserve. Projects with older utility infrastructure, hillside grading, or uncertain approval paths usually need more protection than straightforward infill work. Contingency should not be treated as extra profit or an optional line item. It exists to absorb pricing shifts, unforeseen field conditions, redesigns, and delays. Owners who under-budget contingency often end up cutting scope late in the project or funding overruns from unexpected sources. A better approach is to identify high-risk line items early and size the reserve accordingly. The more complex the site and the permit path, the more important contingency becomes.",
+      "@type": "Answer",
+      "description": "A common contingency range for Los Angeles apartment construction is about 5% to 10% of hard and soft costs, with higher reserves often needed for hillside sites, older buildings, or projects with uncertain permits and utility conditions.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A realistic contingency is essential for apartment construction in Los Angeles because site conditions, permits, and coordination issues can change the budget quickly. A common planning range is 5% to 10% of hard and soft costs, though more complex sites may justify a larger reserve. Projects with older utility infrastructure, hillside grading, or uncertain approval paths usually need more protection than straightforward infill work. Contingency should not be treated as extra profit or an optional line item. It exists to absorb pricing shifts, unforeseen field conditions, redesigns, and delays. Owners who under-budget contingency often end up cutting scope late in the project or funding overruns from unexpected sources. A better approach is to identify high-risk line items early and size the reserve accordingly. The more complex the site and the permit path, the more important contingency becomes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A common contingency range for Los Angeles apartment construction is about 5% to 10% of hard and soft costs, with higher reserves often needed for hillside site"
+}

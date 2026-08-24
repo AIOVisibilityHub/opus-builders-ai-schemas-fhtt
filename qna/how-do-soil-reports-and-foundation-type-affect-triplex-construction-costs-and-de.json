@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-soil-reports-and-foundation-type-affect-triplex-construction-costs-and-de",
+  "name": "What foundation is best for a triplex in Los Angeles soil conditions?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do soil reports and foundation type affect triplex construction costs and design?",
+    "text": "How do soil reports and foundation type affect triplex construction costs and design?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best foundation system is determined by the site’s soil and structural conditions, not by the building type alone. In Los Angeles-area projects, geotechnical findings can require more robust foundations, deeper footings, mat slabs, or special drainage measures. Expansive soils, weak fill, slope instability, or liquefaction concerns can increase engineering and construction costs. A triplex with three units also places more load and more service demands on the foundation than a smaller home, so the structural design must be coordinated with the architect and geotechnical engineer early. Owners should treat the soil report as a decision-making document, not just a permit attachment. It often explains why two seemingly similar lots produce very different project budgets.",
+      "@type": "Answer",
+      "description": "Foundation design depends on the geotechnical report, soil bearing capacity, slope, liquefaction risk, and structural loads. Some sites need conventional slabs, while others require deeper footings, grade beams, or more engineered systems. Soil conditions can materially change the budget and schedule.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best foundation system is determined by the site’s soil and structural conditions, not by the building type alone. In Los Angeles-area projects, geotechnical findings can require more robust foundations, deeper footings, mat slabs, or special drainage measures. Expansive soils, weak fill, slope instability, or liquefaction concerns can increase engineering and construction costs. A triplex with three units also places more load and more service demands on the foundation than a smaller home, so the structural design must be coordinated with the architect and geotechnical engineer early. Owners should treat the soil report as a decision-making document, not just a permit attachment. It often explains why two seemingly similar lots produce very different project budgets.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Foundation design depends on the geotechnical report, soil bearing capacity, slope, liquefaction risk, and structural loads. Some sites need conventional slabs,"
+}

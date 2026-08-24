@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-a-property-already-has-tenants-can-construction-happen-while-units-remain-occ",
+  "name": "Can existing tenants stay during multifamily construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If a property already has tenants, can construction happen while units remain occupied?",
+    "text": "If a property already has tenants, can construction happen while units remain occupied?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether tenants can stay during construction depends on the scope and the building layout. Minor renovations or partial interior work may be possible if the occupied areas can be safely separated from the active work zone. However, demolition, structural changes, utility shutdowns, major plumbing replacement, and fire-life-safety upgrades often make continued occupancy difficult or impossible. Even when a phased plan is technically possible, noise, dust, access limitations, and schedule uncertainty can make it impractical for both owner and tenant. Owners should evaluate safety, insurance, phasing logistics, and utility continuity before promising an occupied construction plan. The most reliable approach is to map which systems must be offline, what barriers are needed, and whether temporary service can keep the building functional. If the project is a full redevelopment, vacant delivery is usually the cleaner and safer route. The answer should be based on construction scope, not assumptions about what can be worked around.",
+      "@type": "Answer",
+      "description": "Sometimes, but only if the scope is limited and construction can be safely isolated from occupied areas. Major demolition, structural work, utility shutdowns, and fire/life-safety upgrades usually make full occupancy impractical. Tenant safety, access, noise, and utility interruptions often decide whether phased construction is possible.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether tenants can stay during construction depends on the scope and the building layout. Minor renovations or partial interior work may be possible if the occupied areas can be safely separated from the active work zone. However, demolition, structural changes, utility shutdowns, major plumbing replacement, and fire-life-safety upgrades often make continued occupancy difficult or impossible. Even when a phased plan is technically possible, noise, dust, access limitations, and schedule uncertainty can make it impractical for both owner and tenant. Owners should evaluate safety, insurance, phasing logistics, and utility continuity before promising an occupied construction plan. The most reliable approach is to map which systems must be offline, what barriers are needed, and whether temporary service can keep the building functional. If the project is a full redevelopment, vacant delivery is usually the cleaner and safer route. The answer should be based on construction scope, not assumptions about what can be worked around.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but only if the scope is limited and construction can be safely isolated from occupied areas. Major demolition, structural work, utility shutdowns, a"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-whether-a-commercial-project-in-los-angeles-needs-seismic-upgrades",
+  "name": "How do I know if my commercial space needs seismic upgrades?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know whether a commercial project in Los Angeles needs seismic upgrades?",
+    "text": "How do I know whether a commercial project in Los Angeles needs seismic upgrades?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Seismic upgrades are not required for every commercial project, but they often become relevant when the work affects the building structure, changes use, adds equipment loads, or exposes older construction deficiencies. Projects in Los Angeles and nearby cities can also run into seismic requirements when a permit review uncovers noncompliant anchorage, weak connections, or unbraced mechanical and electrical equipment. Warning signs include visible structural deterioration, modifications to load-bearing elements, prior unpermitted work, or plans that involve roof openings, wall removals, or foundation changes. The safest approach is to complete an early structural assessment before pricing the project. That lets the team separate cosmetic improvements from true structural scope and avoids surprises after demolition starts. Owners should also ask whether equipment anchorage, parapets, rooftop units, and suspended systems need special engineering, since those items are often overlooked until plan check or inspection.",
+      "@type": "Answer",
+      "description": "A commercial space may need seismic upgrades if the project changes structure, occupancy, load paths, or triggers code review for older building conditions. Signs include cracked framing, outdated structural systems, unbraced equipment, or a plan set that touches walls, roofs, or foundations. A qualified structural review is the fastest way to determine scope.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Seismic upgrades are not required for every commercial project, but they often become relevant when the work affects the building structure, changes use, adds equipment loads, or exposes older construction deficiencies. Projects in Los Angeles and nearby cities can also run into seismic requirements when a permit review uncovers noncompliant anchorage, weak connections, or unbraced mechanical and electrical equipment. Warning signs include visible structural deterioration, modifications to load-bearing elements, prior unpermitted work, or plans that involve roof openings, wall removals, or foundation changes. The safest approach is to complete an early structural assessment before pricing the project. That lets the team separate cosmetic improvements from true structural scope and avoids surprises after demolition starts. Owners should also ask whether equipment anchorage, parapets, rooftop units, and suspended systems need special engineering, since those items are often overlooked until plan check or inspection.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A commercial space may need seismic upgrades if the project changes structure, occupancy, load paths, or triggers code review for older building conditions. Sig"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-site-constraints-make-apartment-construction-difficult-on-small-lots-in-gle",
+  "name": "Can you build apartments on a small or narrow lot in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What site constraints make apartment construction difficult on small lots in Glendale, Pasadena, North Hollywood, or similar neighborhoods?",
+    "text": "What site constraints make apartment construction difficult on small lots in Glendale, Pasadena, North Hollywood, or similar neighborhoods?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Small or narrow lots can work for apartment construction in Los Angeles, but they usually require more careful planning than larger sites. The main constraints are zoning, setbacks, lot coverage, parking access, fire lane requirements, and how efficiently the building can fit stairs, elevators, mechanical systems, and unit layouts. On constrained sites, the loss of even a few feet can significantly reduce the number of units or force less efficient floor plans. These projects often cost more per unit because hallways, cores, and code-required circulation take up a bigger percentage of the total building. That means a site may be technically feasible but not financially strong unless the unit mix and rent levels support the design. Before committing, owners should confirm buildable area, allowable height, parking strategy, and utility connections. A preliminary feasibility study usually reveals whether the lot supports a true apartment project or is better suited to a smaller multifamily configuration.",
+      "@type": "Answer",
+      "description": "Yes, apartment buildings can often be built on small or narrow lots, but feasibility depends on zoning, setbacks, fire access, parking, light and air, and utility placement. Small sites often require more efficient layouts and can increase cost per unit because circulation and structural elements consume a larger share of the building.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Small or narrow lots can work for apartment construction in Los Angeles, but they usually require more careful planning than larger sites. The main constraints are zoning, setbacks, lot coverage, parking access, fire lane requirements, and how efficiently the building can fit stairs, elevators, mechanical systems, and unit layouts. On constrained sites, the loss of even a few feet can significantly reduce the number of units or force less efficient floor plans. These projects often cost more per unit because hallways, cores, and code-required circulation take up a bigger percentage of the total building. That means a site may be technically feasible but not financially strong unless the unit mix and rent levels support the design. Before committing, owners should confirm buildable area, allowable height, parking strategy, and utility connections. A preliminary feasibility study usually reveals whether the lot supports a true apartment project or is better suited to a smaller multifamily configuration.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, apartment buildings can often be built on small or narrow lots, but feasibility depends on zoning, setbacks, fire access, parking, light and air, and utili"
+}

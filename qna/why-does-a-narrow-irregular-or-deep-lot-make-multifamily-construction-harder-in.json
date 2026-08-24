@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-does-a-narrow-irregular-or-deep-lot-make-multifamily-construction-harder-in",
+  "name": "How do lot shape and width affect multi-unit design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why does a narrow, irregular, or deep lot make multifamily construction harder in Los Angeles?",
+    "text": "Why does a narrow, irregular, or deep lot make multifamily construction harder in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Lot geometry can make or break a multifamily project. Narrow lots often limit parking, stair placement, and corridor efficiency, while irregular parcels can create leftover spaces that are hard to use effectively. Deep lots may help with stacking units but can complicate light access, egress, and vehicle movement. A wide lot is not automatically better if setbacks or easements shrink the buildable area, and a small lot can still work if the building form is carefully tailored to the site. The most successful projects begin with the parcel shape and use massing studies to see how units, common areas, and parking can fit without awkward compromises. Owners should not assume that a concept that works on one lot will work on another simply because the zoning appears similar. Geometry affects everything from privacy to construction cost, so site-specific planning is essential.",
+      "@type": "Answer",
+      "description": "Lot shape and width affect how efficiently units, stairs, parking, light, and circulation can be arranged. Narrow or irregular sites often reduce the number of workable layouts and can force compromises in unit size, access, or parking. A good design starts with the parcel geometry, not the desired building image.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Lot geometry can make or break a multifamily project. Narrow lots often limit parking, stair placement, and corridor efficiency, while irregular parcels can create leftover spaces that are hard to use effectively. Deep lots may help with stacking units but can complicate light access, egress, and vehicle movement. A wide lot is not automatically better if setbacks or easements shrink the buildable area, and a small lot can still work if the building form is carefully tailored to the site. The most successful projects begin with the parcel shape and use massing studies to see how units, common areas, and parking can fit without awkward compromises. Owners should not assume that a concept that works on one lot will work on another simply because the zoning appears similar. Geometry affects everything from privacy to construction cost, so site-specific planning is essential.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Lot shape and width affect how efficiently units, stairs, parking, light, and circulation can be arranged. Narrow or irregular sites often reduce the number of "
+}

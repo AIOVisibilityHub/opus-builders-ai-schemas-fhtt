@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-a-triplex-be-designed-as-three-equal-units-one-larger-unit-plus-two-small",
+  "name": "What is the best layout for a triplex rental property?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should a triplex be designed as three equal units, one larger unit plus two smaller ones, or a stacked configuration?",
+    "text": "Should a triplex be designed as three equal units, one larger unit plus two smaller ones, or a stacked configuration?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no single best triplex layout for every site. Equal-size units can simplify marketing and create consistent finishes, but a mixed-size configuration may generate stronger returns if one larger unit is targeted to families and smaller units are aimed at individuals or couples. Stacked layouts are often efficient on narrow lots, while side-by-side layouts may work better on wider parcels. The ideal plan should consider privacy, noise control, window placement, stair circulation, parking access, laundry locations, and outdoor space. For luxury projects, natural light and premium entry experience can matter as much as square footage. The smartest design is the one that fits the parcel, the local code, and the intended tenant profile without creating wasted circulation or unbuildable corners.",
+      "@type": "Answer",
+      "description": "The best layout depends on the lot size, target tenant, parking, and rental strategy. Equal units can simplify leasing, while mixed-size units may maximize income or flexibility. Stacked or side-by-side arrangements often work better than trying to force a single standard floor plan onto an irregular lot.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no single best triplex layout for every site. Equal-size units can simplify marketing and create consistent finishes, but a mixed-size configuration may generate stronger returns if one larger unit is targeted to families and smaller units are aimed at individuals or couples. Stacked layouts are often efficient on narrow lots, while side-by-side layouts may work better on wider parcels. The ideal plan should consider privacy, noise control, window placement, stair circulation, parking access, laundry locations, and outdoor space. For luxury projects, natural light and premium entry experience can matter as much as square footage. The smartest design is the one that fits the parcel, the local code, and the intended tenant profile without creating wasted circulation or unbuildable corners.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best layout depends on the lot size, target tenant, parking, and rental strategy. Equal units can simplify leasing, while mixed-size units may maximize inco"
+}

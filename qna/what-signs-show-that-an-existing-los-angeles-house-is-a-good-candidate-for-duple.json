@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-signs-show-that-an-existing-los-angeles-house-is-a-good-candidate-for-duple",
+  "name": "How do I know if my existing home can be converted into a duplex?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What signs show that an existing Los Angeles house is a good candidate for duplex conversion?",
+    "text": "What signs show that an existing Los Angeles house is a good candidate for duplex conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Not every existing house is a good duplex conversion candidate. The best candidates usually have enough square footage to divide into two livable units without creating awkward circulation or tiny bedrooms. They also need a structure that can handle code upgrades, including fire separation, egress, ventilation, and potentially upgraded electrical, plumbing, and HVAC systems. Zoning must allow the additional unit count, and the site must provide room for entries, parking if required, and functional outdoor space. Homes with simple rectangular footprints, basement or split-level options, or clear separate access points are often easier to convert. By contrast, homes with complex layouts, low ceilings, or major structural deficiencies can become expensive quickly. A feasibility review should include zoning, measured drawings, and an inspection of the building’s structural and mechanical condition. If the conversion requires too many compromises, a ground-up rebuild may be the better long-term option.",
+      "@type": "Answer",
+      "description": "A good conversion candidate usually has enough floor area, a workable layout, adequate ceiling heights, and a structure that can support the required code upgrades. It also needs zoning that allows two units and enough room for separate entries, utilities, and fire separation. A site and structural review are the fastest way to confirm viability.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Not every existing house is a good duplex conversion candidate. The best candidates usually have enough square footage to divide into two livable units without creating awkward circulation or tiny bedrooms. They also need a structure that can handle code upgrades, including fire separation, egress, ventilation, and potentially upgraded electrical, plumbing, and HVAC systems. Zoning must allow the additional unit count, and the site must provide room for entries, parking if required, and functional outdoor space. Homes with simple rectangular footprints, basement or split-level options, or clear separate access points are often easier to convert. By contrast, homes with complex layouts, low ceilings, or major structural deficiencies can become expensive quickly. A feasibility review should include zoning, measured drawings, and an inspection of the building’s structural and mechanical condition. If the conversion requires too many compromises, a ground-up rebuild may be the better long-term option.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A good conversion candidate usually has enough floor area, a workable layout, adequate ceiling heights, and a structure that can support the required code upgra"
+}

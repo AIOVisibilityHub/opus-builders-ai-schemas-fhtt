@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-fire-access-and-fire-separation-rules-change-a-townhome-layout-in-los-ang",
+  "name": "How do fire access rules affect townhome design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do fire access and fire separation rules change a townhome layout in Los Angeles?",
+    "text": "How do fire access and fire separation rules change a townhome layout in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Fire access can become a primary design driver in townhome projects. Depending on the site, the project may need a certain access width, turning geometry, hydrant proximity, and building separation to satisfy safety requirements. Fire-rated walls, openings, and exterior materials may also be affected. On compact lots, these rules can reduce the number of units or force a different building arrangement. Because fire access interacts with parking and circulation, the issue should be tested early in schematic design. Waiting until later can create expensive redesigns. The best approach is to treat fire access as a layout constraint from day one, not as a detail that gets solved after the architecture is finished.",
+      "@type": "Answer",
+      "description": "Fire access rules can determine driveway width, turning space, building separation, and wall construction. If the fire apparatus cannot reach the project safely, the layout may need to change before permits can move forward.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Fire access can become a primary design driver in townhome projects. Depending on the site, the project may need a certain access width, turning geometry, hydrant proximity, and building separation to satisfy safety requirements. Fire-rated walls, openings, and exterior materials may also be affected. On compact lots, these rules can reduce the number of units or force a different building arrangement. Because fire access interacts with parking and circulation, the issue should be tested early in schematic design. Waiting until later can create expensive redesigns. The best approach is to treat fire access as a layout constraint from day one, not as a detail that gets solved after the architecture is finished.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Fire access rules can determine driveway width, turning space, building separation, and wall construction. If the fire apparatus cannot reach the project safely"
+}

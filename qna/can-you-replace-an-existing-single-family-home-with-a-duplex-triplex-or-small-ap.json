@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-replace-an-existing-single-family-home-with-a-duplex-triplex-or-small-ap",
+  "name": "Can a single-family lot be converted into a multi-unit property in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you replace an existing single-family home with a duplex, triplex, or small apartment building in Los Angeles and nearby cities?",
+    "text": "Can you replace an existing single-family home with a duplex, triplex, or small apartment building in Los Angeles and nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many single-family lots in Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood can be redeveloped into multi-unit housing, but the answer depends on the parcel’s zoning, lot dimensions, easements, existing structures, and local development standards. A feasible project may involve demolishing the current home, converting an existing structure, or adding new units in a way that fits setbacks, height limits, open space, and access rules. Some lots are strong candidates for duplex or small-lot multifamily construction, while others are constrained by driveway width, parking layout, tree preservation, or utility placement. The best first step is a site feasibility review that checks zoning, density, fire access, grading, and title issues before concept plans are drawn. Owners should also confirm whether the project will need design adjustments for privacy, noise, and storage, since these issues matter for long-term tenant appeal. A parcel that looks large enough on paper may still be unbuildable in practice if circulation or parking cannot be resolved cleanly.",
+      "@type": "Answer",
+      "description": "In many Los Angeles-area cases, a single-family lot can be redeveloped into a multi-unit property if zoning, setbacks, parking, height, and access requirements are satisfied. The key questions are lot size, allowable density, corner conditions, and whether existing structures must be removed or relocated. Feasibility depends on the parcel, not just the address.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many single-family lots in Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood can be redeveloped into multi-unit housing, but the answer depends on the parcel’s zoning, lot dimensions, easements, existing structures, and local development standards. A feasible project may involve demolishing the current home, converting an existing structure, or adding new units in a way that fits setbacks, height limits, open space, and access rules. Some lots are strong candidates for duplex or small-lot multifamily construction, while others are constrained by driveway width, parking layout, tree preservation, or utility placement. The best first step is a site feasibility review that checks zoning, density, fire access, grading, and title issues before concept plans are drawn. Owners should also confirm whether the project will need design adjustments for privacy, noise, and storage, since these issues matter for long-term tenant appeal. A parcel that looks large enough on paper may still be unbuildable in practice if circulation or parking cannot be resolved cleanly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In many Los Angeles-area cases, a single-family lot can be redeveloped into a multi-unit property if zoning, setbacks, parking, height, and access requirements "
+}

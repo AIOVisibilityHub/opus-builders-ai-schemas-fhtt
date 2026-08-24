@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-an-owner-decide-between-studios-one-bedrooms-two-bedrooms-or-larger-u",
+  "name": "What is the best unit mix for a small multifamily building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should an owner decide between studios, one-bedrooms, two-bedrooms, or larger units in a small apartment project?",
+    "text": "How should an owner decide between studios, one-bedrooms, two-bedrooms, or larger units in a small apartment project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Unit mix is one of the most important planning decisions because it affects rent, occupancy, parking, and the physical layout of the building. Studios and one-bedrooms often allow more density and can work well in urban neighborhoods with strong renter demand, while larger units may attract longer-term households and reduce turnover. The right mix depends on the target market, the parcel size, parking constraints, and how efficiently the floor plan can stack. In some locations, a larger share of compact units may produce better overall income because more doors fit on the site and shared spaces stay efficient. In other cases, a project with fewer but larger units may feel more premium and easier to lease. Owners should study neighborhood demand, not just theoretical rent maximums. The best mix is the one that matches both the site and the likely renter pool, while avoiding layouts that are too small to live well or too large to build efficiently.",
+      "@type": "Answer",
+      "description": "The best unit mix depends on the lot size, target renter, parking layout, and rent per square foot. Studios and one-bedrooms can improve density and yield, while larger units may reduce turnover and appeal to household renters. The strongest mix is the one that fits the site and the neighborhood demand profile.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Unit mix is one of the most important planning decisions because it affects rent, occupancy, parking, and the physical layout of the building. Studios and one-bedrooms often allow more density and can work well in urban neighborhoods with strong renter demand, while larger units may attract longer-term households and reduce turnover. The right mix depends on the target market, the parcel size, parking constraints, and how efficiently the floor plan can stack. In some locations, a larger share of compact units may produce better overall income because more doors fit on the site and shared spaces stay efficient. In other cases, a project with fewer but larger units may feel more premium and easier to lease. Owners should study neighborhood demand, not just theoretical rent maximums. The best mix is the one that matches both the site and the likely renter pool, while avoiding layouts that are too small to live well or too large to build efficiently.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best unit mix depends on the lot size, target renter, parking layout, and rent per square foot. Studios and one-bedrooms can improve density and yield, whil"
+}

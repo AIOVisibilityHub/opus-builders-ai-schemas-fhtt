@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-usually-causes-ground-up-apartment-development-delays-in-los-angeles-and-ne",
+  "name": "What is the biggest reason ground-up multifamily projects get delayed in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What usually causes ground-up apartment development delays in Los Angeles and nearby cities?",
+    "text": "What usually causes ground-up apartment development delays in Los Angeles and nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most delays come from the front end of the project, not the build itself. In Los Angeles, entitlement review, plan check, and corrections often create the longest pause because each department may review the project separately. Site constraints such as narrow lots, existing easements, utility conflicts, and fire department access requirements can add more time. After permits, construction delays usually come from change orders, subcontractor availability, labor shortages, or long-lead items like elevators, switchgear, windows, and HVAC equipment. Financing can also slow a project if the lender requires updated appraisals, revised budgets, or additional equity. To reduce delay risk, developers should do early code analysis, utility due diligence, geotechnical testing, and preliminary lender review before finalizing the design. A clear preconstruction checklist is one of the best ways to avoid expensive redesigns and schedule drift.",
+      "@type": "Answer",
+      "description": "The most common delay is entitlement or permit review, followed by design revisions, utility relocation, and lender conditions. In Los Angeles-area infill projects, even a small change in grading, parking, fire access, or structural design can trigger resubmittals. Financing delays and long-lead materials can also push the schedule back.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most delays come from the front end of the project, not the build itself. In Los Angeles, entitlement review, plan check, and corrections often create the longest pause because each department may review the project separately. Site constraints such as narrow lots, existing easements, utility conflicts, and fire department access requirements can add more time. After permits, construction delays usually come from change orders, subcontractor availability, labor shortages, or long-lead items like elevators, switchgear, windows, and HVAC equipment. Financing can also slow a project if the lender requires updated appraisals, revised budgets, or additional equity. To reduce delay risk, developers should do early code analysis, utility due diligence, geotechnical testing, and preliminary lender review before finalizing the design. A clear preconstruction checklist is one of the best ways to avoid expensive redesigns and schedule drift.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common delay is entitlement or permit review, followed by design revisions, utility relocation, and lender conditions. In Los Angeles-area infill proje"
+}

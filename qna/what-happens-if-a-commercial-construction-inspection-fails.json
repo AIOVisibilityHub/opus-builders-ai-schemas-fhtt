@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-a-commercial-construction-inspection-fails",
+  "name": "What happens if a commercial project fails inspection?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if a commercial construction inspection fails?",
+    "text": "What happens if a commercial construction inspection fails?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A failed inspection usually means the work cannot move forward until the listed issues are corrected and the inspector returns. Common reasons include incomplete installations, missing labels, code compliance problems, unapproved changes, or conflicts between trades. In commercial projects, failed inspections can affect the critical path because one unresolved item may block subsequent inspections or occupancy approval. In Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, owners should treat inspection readiness as a project milestone, not an afterthought. The best way to reduce failures is to verify each trade’s work against the permit drawings before calling for inspection and to keep documentation organized. If an inspection fails, the contractor should document the correction, confirm whether any revised plans are needed, and reschedule promptly. Fast response matters because repeated failures can add labor costs and delay opening day.",
+      "@type": "Answer",
+      "description": "If an inspection fails, the contractor must correct the noted issues and request a reinspection before the work can advance or close out. Common failures involve code compliance, missing documentation, incomplete installations, or coordination problems between trades. Each failed inspection can add schedule time and cost.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A failed inspection usually means the work cannot move forward until the listed issues are corrected and the inspector returns. Common reasons include incomplete installations, missing labels, code compliance problems, unapproved changes, or conflicts between trades. In commercial projects, failed inspections can affect the critical path because one unresolved item may block subsequent inspections or occupancy approval. In Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, owners should treat inspection readiness as a project milestone, not an afterthought. The best way to reduce failures is to verify each trade’s work against the permit drawings before calling for inspection and to keep documentation organized. If an inspection fails, the contractor should document the correction, confirm whether any revised plans are needed, and reschedule promptly. Fast response matters because repeated failures can add labor costs and delay opening day.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If an inspection fails, the contractor must correct the noted issues and request a reinspection before the work can advance or close out. Common failures involv"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-when-a-fourplex-permit-plan-check-comes-back-with-corrections-in-lo",
+  "name": "What if the city asks for plan check corrections?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens when a fourplex permit plan check comes back with corrections in Los Angeles?",
+    "text": "What happens when a fourplex permit plan check comes back with corrections in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Searchers often underestimate how much time a plan check response can add to a fourplex schedule. Corrections can involve architecture, structural engineering, energy compliance, fire safety, accessibility, or civil details, and some comments will require redesign rather than simple edits. A useful answer should explain that the fastest way through plan check is to submit coordinated, complete documents with clear responses to comments. It should also warn owners not to treat corrections as a minor administrative step, because repeated revisions can affect budget, consultant fees, and construction start dates. The best guidance is to keep a running comment log and assign each correction to the correct consultant immediately. That makes the process much less mysterious for searchers.",
+      "@type": "Answer",
+      "description": "Plan check corrections usually mean the city needs revisions, clarifications, or code-related changes before issuing a permit. The project may need multiple review rounds, and delays are common if the drawings are incomplete or coordinated poorly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Searchers often underestimate how much time a plan check response can add to a fourplex schedule. Corrections can involve architecture, structural engineering, energy compliance, fire safety, accessibility, or civil details, and some comments will require redesign rather than simple edits. A useful answer should explain that the fastest way through plan check is to submit coordinated, complete documents with clear responses to comments. It should also warn owners not to treat corrections as a minor administrative step, because repeated revisions can affect budget, consultant fees, and construction start dates. The best guidance is to keep a running comment log and assign each correction to the correct consultant immediately. That makes the process much less mysterious for searchers.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plan check corrections usually mean the city needs revisions, clarifications, or code-related changes before issuing a permit. The project may need multiple rev"
+}

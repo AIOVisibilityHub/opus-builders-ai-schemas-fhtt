@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-townhome-project-and-a-small-lot-subdivision-in",
+  "name": "What is the difference between townhome and small-lot subdivision?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a townhome project and a small-lot subdivision in Los Angeles?",
+    "text": "What is the difference between a townhome project and a small-lot subdivision in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The difference matters because it affects how the project is designed, approved, financed, and sold. A townhome development is often planned as attached homes with shared walls and coordinated architecture. A small-lot subdivision creates individual lots, which can support separate ownership and sometimes different financing or resale options. In practice, the city may treat these projects differently for zoning, subdivision review, parking, access, open space, and common-area maintenance. For a developer or homeowner, the right structure depends on the site, target buyer, and long-term ownership plan. If the goal is to sell individual units, the subdivision route may make more sense. If the goal is simpler development on a constrained parcel, an attached townhome format may be more efficient. Before choosing one path, confirm how the local code defines each option and whether the parcel can support the associated lotting, access, and utility layout.",
+      "@type": "Answer",
+      "description": "A townhome project usually refers to attached homes built under a common development plan, while a small-lot subdivision creates separate lots for individual homes, often with shared walls or close spacing. The ownership structure, permitting path, and sales model can differ significantly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The difference matters because it affects how the project is designed, approved, financed, and sold. A townhome development is often planned as attached homes with shared walls and coordinated architecture. A small-lot subdivision creates individual lots, which can support separate ownership and sometimes different financing or resale options. In practice, the city may treat these projects differently for zoning, subdivision review, parking, access, open space, and common-area maintenance. For a developer or homeowner, the right structure depends on the site, target buyer, and long-term ownership plan. If the goal is to sell individual units, the subdivision route may make more sense. If the goal is simpler development on a constrained parcel, an attached townhome format may be more efficient. Before choosing one path, confirm how the local code defines each option and whether the parcel can support the associated lotting, access, and utility layout.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A townhome project usually refers to attached homes built under a common development plan, while a small-lot subdivision creates separate lots for individual ho"
+}

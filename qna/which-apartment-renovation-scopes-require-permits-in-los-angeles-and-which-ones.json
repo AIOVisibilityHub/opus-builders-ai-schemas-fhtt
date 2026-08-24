@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-apartment-renovation-scopes-require-permits-in-los-angeles-and-which-ones",
+  "name": "Do I need permits for apartment renovations in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which apartment renovation scopes require permits in Los Angeles, and which ones usually do not?",
+    "text": "Which apartment renovation scopes require permits in Los Angeles, and which ones usually do not?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit needs depend on the scope, not just the property type. In Los Angeles, purely cosmetic work is usually the least regulated, but once a renovation touches wiring, plumbing lines, mechanical systems, load-bearing walls, balconies, stairs, or building exteriors, permits are much more likely. Multifamily projects are especially sensitive because work can affect adjacent units and common areas. Owners should also expect stricter review when a building is older or when the renovation may involve hazardous materials. Before pricing the job, it is smart to have the contractor or designer break the project into permitted and non-permitted scope so you can avoid change orders, inspection delays, and permit surprises.",
+      "@type": "Answer",
+      "description": "Cosmetic apartment work such as paint, flooring, and basic finish replacement usually does not require permits. Permits are commonly needed for electrical, plumbing, HVAC, structural, fire-safety, and most exterior changes. Bathroom or kitchen relocations also typically require permits because they affect utilities and layout.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit needs depend on the scope, not just the property type. In Los Angeles, purely cosmetic work is usually the least regulated, but once a renovation touches wiring, plumbing lines, mechanical systems, load-bearing walls, balconies, stairs, or building exteriors, permits are much more likely. Multifamily projects are especially sensitive because work can affect adjacent units and common areas. Owners should also expect stricter review when a building is older or when the renovation may involve hazardous materials. Before pricing the job, it is smart to have the contractor or designer break the project into permitted and non-permitted scope so you can avoid change orders, inspection delays, and permit surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Cosmetic apartment work such as paint, flooring, and basic finish replacement usually does not require permits. Permits are commonly needed for electrical, plum"
+}

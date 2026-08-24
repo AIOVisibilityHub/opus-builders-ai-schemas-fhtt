@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-questions-should-i-ask-a-contractor-or-design-build-firm-before-starting-a",
+  "name": "What should I ask a duplex builder before hiring them?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What questions should I ask a contractor or design-build firm before starting a duplex project?",
+    "text": "What questions should I ask a contractor or design-build firm before starting a duplex project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A duplex builder should be evaluated differently from a general remodel contractor because the project includes entitlement, code coordination, utility planning, and often tighter site logistics. Ask how many duplexes they have built recently, in which cities, and whether they handle design-build or only construction. Request examples of projects similar to your lot type, especially if the site is narrow, sloped, or subject to special zoning issues. Ask how they handle permitting, corrections, subcontractor coordination, inspections, and cost overruns. It is also important to understand what is included in the proposal and what is excluded, because duplex projects often involve site work, utility upgrades, and finish allowances that can be misunderstood. A strong builder should be able to explain potential risks before final pricing and suggest ways to reduce them. You want a team that can see the project as a whole rather than just as a set of framing and finish tasks.",
+      "@type": "Answer",
+      "description": "Ask about duplex-specific experience, permit handling, site constraints, budgeting, schedule control, and how they manage design changes and inspections. You should also confirm whether they have built projects in your city and how they handle utility coordination and change orders. The best builder can explain the site’s risks before giving a final price.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A duplex builder should be evaluated differently from a general remodel contractor because the project includes entitlement, code coordination, utility planning, and often tighter site logistics. Ask how many duplexes they have built recently, in which cities, and whether they handle design-build or only construction. Request examples of projects similar to your lot type, especially if the site is narrow, sloped, or subject to special zoning issues. Ask how they handle permitting, corrections, subcontractor coordination, inspections, and cost overruns. It is also important to understand what is included in the proposal and what is excluded, because duplex projects often involve site work, utility upgrades, and finish allowances that can be misunderstood. A strong builder should be able to explain potential risks before final pricing and suggest ways to reduce them. You want a team that can see the project as a whole rather than just as a set of framing and finish tasks.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about duplex-specific experience, permit handling, site constraints, budgeting, schedule control, and how they manage design changes and inspections. You sh"
+}

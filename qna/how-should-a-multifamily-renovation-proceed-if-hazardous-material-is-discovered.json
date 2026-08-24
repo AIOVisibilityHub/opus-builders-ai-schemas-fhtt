@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-multifamily-renovation-proceed-if-hazardous-material-is-discovered",
+  "name": "What if asbestos or lead is found during demolition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a multifamily renovation proceed if hazardous material is discovered after work has started?",
+    "text": "How should a multifamily renovation proceed if hazardous material is discovered after work has started?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Discovery of hazardous material changes the project immediately. Work should pause in the affected area so the condition can be assessed and addressed under the correct safety and permit process. That may require containment, specialized removal, clearance testing, and a revised construction schedule. Older Los Angeles multifamily buildings are especially likely to encounter these issues during demolition, which is why pre-demo review is so important. Owners should plan for the possibility even if the initial inspection is clean. The practical response is to stop, document the condition, and re-sequence the work rather than pushing forward and compounding the risk.",
+      "@type": "Answer",
+      "description": "If asbestos or lead is discovered, work in the affected area should stop until the material is evaluated and handled properly. The renovation may need testing, containment, removal, and revised scheduling before construction continues. This can affect permits, timeline, and tenant access, especially in older Los Angeles buildings.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Discovery of hazardous material changes the project immediately. Work should pause in the affected area so the condition can be assessed and addressed under the correct safety and permit process. That may require containment, specialized removal, clearance testing, and a revised construction schedule. Older Los Angeles multifamily buildings are especially likely to encounter these issues during demolition, which is why pre-demo review is so important. Owners should plan for the possibility even if the initial inspection is clean. The practical response is to stop, document the condition, and re-sequence the work rather than pushing forward and compounding the risk.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If asbestos or lead is discovered, work in the affected area should stop until the material is evaluated and handled properly. The renovation may need testing, "
+}

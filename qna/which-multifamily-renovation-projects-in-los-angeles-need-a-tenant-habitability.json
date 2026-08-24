@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-multifamily-renovation-projects-in-los-angeles-need-a-tenant-habitability",
+  "name": "What renovations in occupied Los Angeles multifamily buildings trigger a tenant habitability plan?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which multifamily renovation projects in Los Angeles need a tenant habitability plan before permits are issued?",
+    "text": "Which multifamily renovation projects in Los Angeles need a tenant habitability plan before permits are issued?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In Los Angeles, the key trigger is whether the building is occupied and whether the work substantially changes electrical, plumbing, mechanical, structural, or hazardous-material conditions, or affects tenant-used areas. If both conditions apply, a tenant habitability plan may be required before permits can be issued. Owners should assume that unit relocations, temporary utility shutoffs, hallway closures, elevator downtime, and major system replacements will raise the review level. The safest approach is to classify the scope early, confirm whether the building is occupied, and separate purely cosmetic work from work that affects life-safety or habitability. A contractor should be able to tell you which parts of the project are likely to trigger tenant protection steps, but final permit strategy should be verified before demolition starts.",
+      "@type": "Answer",
+      "description": "In Los Angeles, a tenant habitability plan is typically required when occupied units are affected and the work involves substantial electrical, plumbing, mechanical, structural, or hazardous-material changes, or when common areas used by tenants are impacted. If the building is occupied and the project goes beyond cosmetic work, the permit path can change quickly.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In Los Angeles, the key trigger is whether the building is occupied and whether the work substantially changes electrical, plumbing, mechanical, structural, or hazardous-material conditions, or affects tenant-used areas. If both conditions apply, a tenant habitability plan may be required before permits can be issued. Owners should assume that unit relocations, temporary utility shutoffs, hallway closures, elevator downtime, and major system replacements will raise the review level. The safest approach is to classify the scope early, confirm whether the building is occupied, and separate purely cosmetic work from work that affects life-safety or habitability. A contractor should be able to tell you which parts of the project are likely to trigger tenant protection steps, but final permit strategy should be verified before demolition starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In Los Angeles, a tenant habitability plan is typically required when occupied units are affected and the work involves substantial electrical, plumbing, mechan"
+}

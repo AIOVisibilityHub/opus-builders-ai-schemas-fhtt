@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-are-older-multifamily-properties-often-more-expensive-to-renovate-than-newer",
+  "name": "How do renovation costs differ between older and newer apartment buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why are older multifamily properties often more expensive to renovate than newer ones?",
+    "text": "Why are older multifamily properties often more expensive to renovate than newer ones?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Age matters because older buildings usually carry more unknowns. Older multifamily properties often have outdated wiring, aging plumbing, prior patchwork repairs, moisture damage, and material hazards that do not appear until demolition begins. Newer buildings are often more predictable, so pricing and scheduling are easier. In Los Angeles, older stock may also require more careful permit and inspection planning when the renovation touches core systems. Owners should not compare renovation budgets by finish level alone; they should compare the condition of the underlying building systems. The less predictable the building, the more likely the project will need a stronger contingency and a more flexible schedule.",
+      "@type": "Answer",
+      "description": "Older apartment buildings usually cost more to renovate because they more often need hidden system repairs, code-related upgrades, and hazardous-material handling. Newer buildings tend to have more predictable layouts and better-documented systems. Even cosmetic updates can become costly if older infrastructure is failing.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Age matters because older buildings usually carry more unknowns. Older multifamily properties often have outdated wiring, aging plumbing, prior patchwork repairs, moisture damage, and material hazards that do not appear until demolition begins. Newer buildings are often more predictable, so pricing and scheduling are easier. In Los Angeles, older stock may also require more careful permit and inspection planning when the renovation touches core systems. Owners should not compare renovation budgets by finish level alone; they should compare the condition of the underlying building systems. The less predictable the building, the more likely the project will need a stronger contingency and a more flexible schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older apartment buildings usually cost more to renovate because they more often need hidden system repairs, code-related upgrades, and hazardous-material handli"
+}

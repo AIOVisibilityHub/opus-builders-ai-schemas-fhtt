@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-project-manager-handle-delayed-windows-cabinets-fixtures-or-other-l",
+  "name": "What happens if materials arrive late on a multi-family project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a project manager handle delayed windows, cabinets, fixtures, or other long-lead items?",
+    "text": "How should a project manager handle delayed windows, cabinets, fixtures, or other long-lead items?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Material delays can disrupt a multi-family project quickly because many trades depend on one item arriving on time. If windows, cabinets, fixtures, or specialty finishes are late, the project manager should first determine whether the delay affects the critical path or just a nonessential sequence. Then the schedule should be adjusted so crews can keep working in other areas while waiting. Good managers also confirm alternative products, expedite options, or partial deliveries when possible. In occupied projects, delayed materials can ripple through access planning, inspections, and resident notices. The goal is to keep the site productive instead of letting crews sit idle. This is why procurement planning matters so much in multi-family work. A project manager who tracks long-lead items early can reduce surprises and help the project stay moving even when supply chains are not perfect.",
+      "@type": "Answer",
+      "description": "Late materials should trigger a schedule update, resequencing of work, and immediate vendor follow-up. The manager should protect the critical path, find temporary work that can continue, and confirm whether the delay affects inspections, completion dates, or other trades.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Material delays can disrupt a multi-family project quickly because many trades depend on one item arriving on time. If windows, cabinets, fixtures, or specialty finishes are late, the project manager should first determine whether the delay affects the critical path or just a nonessential sequence. Then the schedule should be adjusted so crews can keep working in other areas while waiting. Good managers also confirm alternative products, expedite options, or partial deliveries when possible. In occupied projects, delayed materials can ripple through access planning, inspections, and resident notices. The goal is to keep the site productive instead of letting crews sit idle. This is why procurement planning matters so much in multi-family work. A project manager who tracks long-lead items early can reduce surprises and help the project stay moving even when supply chains are not perfect.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Late materials should trigger a schedule update, resequencing of work, and immediate vendor follow-up. The manager should protect the critical path, find tempor"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-neighborhood-pushback-affect-a-new-apartment-project-in-los-angeles",
+  "name": "What happens if the neighborhood opposes a multifamily project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does neighborhood pushback affect a new apartment project in Los Angeles?",
+    "text": "How does neighborhood pushback affect a new apartment project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Neighborhood opposition usually affects timing and scope more than the core idea of the project. If a proposal requires discretionary review, public comments can push the team to adjust height, massing, setbacks, access, or parking. In some cases, the project still moves forward with only modest changes. In others, opposition becomes a major schedule risk. The most effective response is not to wait until the public hearing to explain the project. Teams should identify concerns early and use design to reduce obvious friction points, such as blank walls, poor street activation, or awkward parking access. Good communication can help, but it does not guarantee support. Developers should budget time and money for possible redesign, hearing delays, and consultant work if the site is in a sensitive neighborhood. Projects in highly visible or low-density areas need extra care.",
+      "@type": "Answer",
+      "description": "Neighborhood opposition can slow approvals, trigger redesigns, or reduce density if the project depends on discretionary review. Concerns often focus on traffic, height, privacy, parking, and neighborhood character. Good early outreach and a design that responds to site context can reduce risk, but opposition can still add time.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Neighborhood opposition usually affects timing and scope more than the core idea of the project. If a proposal requires discretionary review, public comments can push the team to adjust height, massing, setbacks, access, or parking. In some cases, the project still moves forward with only modest changes. In others, opposition becomes a major schedule risk. The most effective response is not to wait until the public hearing to explain the project. Teams should identify concerns early and use design to reduce obvious friction points, such as blank walls, poor street activation, or awkward parking access. Good communication can help, but it does not guarantee support. Developers should budget time and money for possible redesign, hearing delays, and consultant work if the site is in a sensitive neighborhood. Projects in highly visible or low-density areas need extra care.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Neighborhood opposition can slow approvals, trigger redesigns, or reduce density if the project depends on discretionary review. Concerns often focus on traffic"
+}

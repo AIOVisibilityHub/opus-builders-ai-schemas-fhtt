@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-an-owner-respond-when-the-plans-for-a-triplex-are-sent-back-with-corr",
+  "name": "What happens if the city asks for corrections during triplex plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should an owner respond when the plans for a triplex are sent back with corrections or comments?",
+    "text": "How should an owner respond when the plans for a triplex are sent back with corrections or comments?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Plan check comments are common on triplex projects, especially when the site is tight or the design pushes the zoning envelope. A strong response should address every comment clearly, update all affected sheets consistently, and avoid changing only one part of the drawing set. If one correction affects parking, fire ratings, structural details, or elevations, the entire team should coordinate the revision before resubmittal. Repeated incomplete responses usually slow approvals and can increase consultant time. Owners should expect a few cycles of review on more complex multifamily-style projects and build that into the schedule. The best strategy is to resolve major code issues before the first submittal so the corrections are minor rather than structural.",
+      "@type": "Answer",
+      "description": "Plan check corrections usually mean the city found code, zoning, or documentation issues that must be fixed before permits can be issued. The right response is to address each comment directly, revise drawings consistently, and resubmit complete responses. Organized correction management prevents repeat review cycles.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Plan check comments are common on triplex projects, especially when the site is tight or the design pushes the zoning envelope. A strong response should address every comment clearly, update all affected sheets consistently, and avoid changing only one part of the drawing set. If one correction affects parking, fire ratings, structural details, or elevations, the entire team should coordinate the revision before resubmittal. Repeated incomplete responses usually slow approvals and can increase consultant time. Owners should expect a few cycles of review on more complex multifamily-style projects and build that into the schedule. The best strategy is to resolve major code issues before the first submittal so the corrections are minor rather than structural.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plan check corrections usually mean the city found code, zoning, or documentation issues that must be fixed before permits can be issued. The right response is "
+}

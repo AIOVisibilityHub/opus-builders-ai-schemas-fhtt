@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-budget-is-appropriate-for-older-multifamily-buildings-in-los-an",
+  "name": "How much contingency should I include for a multifamily renovation in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency budget is appropriate for older multifamily buildings in Los Angeles?",
+    "text": "What contingency budget is appropriate for older multifamily buildings in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Contingency is essential in multifamily work because older buildings often hide expensive surprises behind walls, ceilings, and floors. A 10% to 15% reserve may be enough for a tightly scoped project with good documentation, but older Los Angeles properties or occupied renovations often need more. The reserve should cover unforeseen structural repairs, utility reroutes, permit revisions, material substitutions, and tenant-driven schedule changes. Owners should also avoid spending the contingency on optional upgrades before the build is complete. The most practical way to manage risk is to request a line-item estimate, clarify exclusions, and identify which unknowns are likely in pre-war or mid-century stock.",
+      "@type": "Answer",
+      "description": "A contingency reserve of at least 10% to 15% is common for well-defined multifamily renovations, and older Los Angeles buildings often justify a higher reserve. Hidden plumbing, electrical, framing, asbestos, and access issues can quickly push costs beyond the original estimate.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Contingency is essential in multifamily work because older buildings often hide expensive surprises behind walls, ceilings, and floors. A 10% to 15% reserve may be enough for a tightly scoped project with good documentation, but older Los Angeles properties or occupied renovations often need more. The reserve should cover unforeseen structural repairs, utility reroutes, permit revisions, material substitutions, and tenant-driven schedule changes. Owners should also avoid spending the contingency on optional upgrades before the build is complete. The most practical way to manage risk is to request a line-item estimate, clarify exclusions, and identify which unknowns are likely in pre-war or mid-century stock.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A contingency reserve of at least 10% to 15% is common for well-defined multifamily renovations, and older Los Angeles buildings often justify a higher reserve."
+}

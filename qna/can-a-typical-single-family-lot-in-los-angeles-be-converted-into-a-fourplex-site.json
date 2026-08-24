@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-typical-single-family-lot-in-los-angeles-be-converted-into-a-fourplex-site",
+  "name": "Can I build a fourplex on a standard single-family lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a typical single-family lot in Los Angeles be converted into a fourplex site?",
+    "text": "Can a typical single-family lot in Los Angeles be converted into a fourplex site?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many owners search this because they want to know whether their existing property can be redeveloped instead of sold. The real answer depends on the lot dimensions, zoning designation, overlay rules, easements, slope, and whether the site can accommodate access and fire requirements. Even when a fourplex is allowed, the building may need to be smaller or differently shaped than expected. A strong page should explain that buildability is not the same as entitlement: a lot may allow multiple units on paper but still be difficult to design economically. The best next step is a feasibility study that compares the maximum unit count, likely parking strategy, and rough budget before committing to full plans. That gives owners a clearer path to deciding whether the project is worth pursuing.",
+      "@type": "Answer",
+      "description": "Sometimes, yes, but not every lot can support a fourplex efficiently. Feasibility depends on lot size, zoning, setbacks, access, height limits, open space, parking, and utility constraints, so a parcel-by-parcel review is necessary.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many owners search this because they want to know whether their existing property can be redeveloped instead of sold. The real answer depends on the lot dimensions, zoning designation, overlay rules, easements, slope, and whether the site can accommodate access and fire requirements. Even when a fourplex is allowed, the building may need to be smaller or differently shaped than expected. A strong page should explain that buildability is not the same as entitlement: a lot may allow multiple units on paper but still be difficult to design economically. The best next step is a feasibility study that compares the maximum unit count, likely parking strategy, and rough budget before committing to full plans. That gives owners a clearer path to deciding whether the project is worth pursuing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, yes, but not every lot can support a fourplex efficiently. Feasibility depends on lot size, zoning, setbacks, access, height limits, open space, park"
+}

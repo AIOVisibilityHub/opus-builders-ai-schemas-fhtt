@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-usually-causes-apartment-projects-in-la-to-go-over-budget-or-behind-schedul",
+  "name": "What is the biggest risk in apartment construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What usually causes apartment projects in LA to go over budget or behind schedule?",
+    "text": "What usually causes apartment projects in LA to go over budget or behind schedule?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The biggest risks in Los Angeles apartment construction are usually not visible at the start. Permit delays, plan-check revisions, unanticipated site conditions, and scope changes often create the largest budget and schedule overruns. Utility conflicts, grading surprises, parking redesigns, and structural adjustments can all increase costs after the project is already underway. This is why early due diligence matters so much. A site that looks straightforward may still contain hidden issues that affect the foundation, drainage, or utility routing. Owners should also expect some cost pressure from materials and subcontractor availability, especially if the project spans many months. The most reliable way to reduce risk is to do preconstruction planning, lock in the design as early as possible, and maintain a realistic contingency. A project that looks inexpensive on paper can become expensive if it is not tested against actual site and permitting conditions.",
+      "@type": "Answer",
+      "description": "The biggest apartment construction risks in Los Angeles are permit delays, redesigns, site conditions, and scope creep. Unexpected utility work, parking changes, structural revisions, and long lead times for materials can push both schedule and budget beyond the original estimate.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The biggest risks in Los Angeles apartment construction are usually not visible at the start. Permit delays, plan-check revisions, unanticipated site conditions, and scope changes often create the largest budget and schedule overruns. Utility conflicts, grading surprises, parking redesigns, and structural adjustments can all increase costs after the project is already underway. This is why early due diligence matters so much. A site that looks straightforward may still contain hidden issues that affect the foundation, drainage, or utility routing. Owners should also expect some cost pressure from materials and subcontractor availability, especially if the project spans many months. The most reliable way to reduce risk is to do preconstruction planning, lock in the design as early as possible, and maintain a realistic contingency. A project that looks inexpensive on paper can become expensive if it is not tested against actual site and permitting conditions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest apartment construction risks in Los Angeles are permit delays, redesigns, site conditions, and scope creep. Unexpected utility work, parking changes"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-value-add-multifamily-renovations-differ-from-full-gut-renovations-in-sco",
+  "name": "What is the difference between a value-add renovation and a full gut remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do value-add multifamily renovations differ from full gut renovations in scope and budget?",
+    "text": "How do value-add multifamily renovations differ from full gut renovations in scope and budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Value-add renovations are designed to improve returns efficiently. They usually focus on visible upgrades and operational improvements that help units rent faster and command stronger rents without rebuilding the property. Full gut renovations are a different category: they often involve major system replacement, layout changes, and extensive demolition. That means more permits, more inspections, longer timelines, and more risk of hidden conditions. In Los Angeles, the right choice depends on asset condition, rental ceiling, and whether the building can support a premium repositioning. Owners should choose value-add when the structure and core systems are sound, and full gut only when the building truly needs deep rebuilding to remain competitive.",
+      "@type": "Answer",
+      "description": "A value-add renovation usually targets high-impact upgrades like flooring, paint, kitchens, bathrooms, and common areas to improve rent and appeal. A full gut remodel goes much deeper, often replacing major systems, finishes, and layouts down to framing or structural components. Costs, permits, and timelines are much higher for full gut work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Value-add renovations are designed to improve returns efficiently. They usually focus on visible upgrades and operational improvements that help units rent faster and command stronger rents without rebuilding the property. Full gut renovations are a different category: they often involve major system replacement, layout changes, and extensive demolition. That means more permits, more inspections, longer timelines, and more risk of hidden conditions. In Los Angeles, the right choice depends on asset condition, rental ceiling, and whether the building can support a premium repositioning. Owners should choose value-add when the structure and core systems are sound, and full gut only when the building truly needs deep rebuilding to remain competitive.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A value-add renovation usually targets high-impact upgrades like flooring, paint, kitchens, bathrooms, and common areas to improve rent and appeal. A full gut r"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-and-approvals-are-typically-required-for-townhome-construction-in-l",
+  "name": "What permits do I need for a townhome project in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits and approvals are typically required for townhome construction in Los Angeles or nearby cities?",
+    "text": "What permits and approvals are typically required for townhome construction in Los Angeles or nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A townhome project usually requires more than one permit path. At minimum, the project typically needs building plan check and building permits, plus separate mechanical, plumbing, electrical, and sometimes grading permits. If the site is constrained, you may also need drainage, soils, retaining wall, fire access, and utility coordination approvals. If the project creates new lots or unit ownership structures, subdivision or parcel-related approvals can also come into play. In Los Angeles-area cities, the local zoning code and planning department often determine whether the project is processed as a townhouse development, small-lot subdivision, or multifamily building. That classification changes the review path and timeline. The safest approach is to start with a jurisdiction-specific entitlement checklist before designing the building. That helps prevent a concept from being drawn to the wrong code standard and later sent back for major revisions.",
+      "@type": "Answer",
+      "description": "Townhome projects typically need zoning review, building permits, structural and trade permits, and sometimes grading, drainage, fire access, or subdivision-related approvals. The exact permit set depends on whether the project is new construction, a conversion, or a small-lot subdivision.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A townhome project usually requires more than one permit path. At minimum, the project typically needs building plan check and building permits, plus separate mechanical, plumbing, electrical, and sometimes grading permits. If the site is constrained, you may also need drainage, soils, retaining wall, fire access, and utility coordination approvals. If the project creates new lots or unit ownership structures, subdivision or parcel-related approvals can also come into play. In Los Angeles-area cities, the local zoning code and planning department often determine whether the project is processed as a townhouse development, small-lot subdivision, or multifamily building. That classification changes the review path and timeline. The safest approach is to start with a jurisdiction-specific entitlement checklist before designing the building. That helps prevent a concept from being drawn to the wrong code standard and later sent back for major revisions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Townhome projects typically need zoning review, building permits, structural and trade permits, and sometimes grading, drainage, fire access, or subdivision-rel"
+}

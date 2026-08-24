@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-items-belong-in-a-good-scope-document-for-apartment-or-condo-renovations",
+  "name": "What should be included in a multifamily renovation scope of work?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What items belong in a good scope document for apartment or condo renovations?",
+    "text": "What items belong in a good scope document for apartment or condo renovations?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A multifamily scope of work should be specific enough that both the owner and contractor can price and schedule it accurately. It should describe exactly what is being replaced, repaired, or upgraded in each unit and in common areas. It should also identify allowances, material standards, site protection measures, and who is responsible for permits and inspections. For occupied buildings, access rules and phasing should be written down, not left informal. The more complete the scope, the easier it is to compare bids and avoid unexpected change orders later. In multifamily renovations, vague scopes are one of the fastest ways to lose control of budget and timing.",
+      "@type": "Answer",
+      "description": "A strong scope of work should list demolition, repairs, finishes, electrical, plumbing, HVAC, waterproofing, permits, inspections, site protection, cleanup, and exclusions. It should also define unit access, phasing, allowances, and contingency assumptions. Clear scope language reduces disputes and change orders.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A multifamily scope of work should be specific enough that both the owner and contractor can price and schedule it accurately. It should describe exactly what is being replaced, repaired, or upgraded in each unit and in common areas. It should also identify allowances, material standards, site protection measures, and who is responsible for permits and inspections. For occupied buildings, access rules and phasing should be written down, not left informal. The more complete the scope, the easier it is to compare bids and avoid unexpected change orders later. In multifamily renovations, vague scopes are one of the fastest ways to lose control of budget and timing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A strong scope of work should list demolition, repairs, finishes, electrical, plumbing, HVAC, waterproofing, permits, inspections, site protection, cleanup, and"
+}

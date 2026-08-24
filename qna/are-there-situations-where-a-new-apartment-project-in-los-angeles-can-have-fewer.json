@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-there-situations-where-a-new-apartment-project-in-los-angeles-can-have-fewer",
+  "name": "Can ground-up multifamily projects in Los Angeles qualify for reduced parking?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are there situations where a new apartment project in Los Angeles can have fewer parking spaces?",
+    "text": "Are there situations where a new apartment project in Los Angeles can have fewer parking spaces?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Some Los Angeles apartment projects can qualify for reduced parking, but the answer depends on the site, zoning, and current code rules. Transit-rich locations, small units, and specific local incentives can sometimes support fewer spaces. That said, reduced parking only works if the building still leases well and the local tenant base accepts the parking ratio. Too little parking can hurt absorption, especially in neighborhoods where car ownership is still common. Too much parking can destroy feasibility. The best approach is to model multiple parking scenarios during early design, then compare unit count, cost, and projected rent. This is especially important in areas like North Hollywood and dense parts of Glendale or Pasadena, where mobility options may differ block by block. A developer should confirm eligibility early because parking assumptions can change the whole financial model.",
+      "@type": "Answer",
+      "description": "Yes, some projects may qualify for reduced parking based on location, transit access, unit type, or local code allowances. Eligibility depends on the specific site and current regulations. Even when reduced parking is allowed, the building still has to function well for residents and leasing.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Some Los Angeles apartment projects can qualify for reduced parking, but the answer depends on the site, zoning, and current code rules. Transit-rich locations, small units, and specific local incentives can sometimes support fewer spaces. That said, reduced parking only works if the building still leases well and the local tenant base accepts the parking ratio. Too little parking can hurt absorption, especially in neighborhoods where car ownership is still common. Too much parking can destroy feasibility. The best approach is to model multiple parking scenarios during early design, then compare unit count, cost, and projected rent. This is especially important in areas like North Hollywood and dense parts of Glendale or Pasadena, where mobility options may differ block by block. A developer should confirm eligibility early because parking assumptions can change the whole financial model.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, some projects may qualify for reduced parking based on location, transit access, unit type, or local code allowances. Eligibility depends on the specific s"
+}

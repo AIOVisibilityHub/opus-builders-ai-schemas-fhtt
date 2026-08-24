@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-costs-do-owners-often-miss-when-budgeting-for-multi-unit-construction-in-lo",
+  "name": "What are the hidden costs of building a small apartment building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What costs do owners often miss when budgeting for multi-unit construction in Los Angeles?",
+    "text": "What costs do owners often miss when budgeting for multi-unit construction in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The biggest budgeting mistake is treating the construction contract as the total project cost. Multifamily projects often carry significant soft costs and site costs that do not show up in a basic square-foot estimate. These can include demolition, surveying, geotechnical work, civil engineering, plan check fees, utility upgrades, grading, retaining walls, temporary site protection, and financing carry costs during delays. On the construction side, items like waterproofing, fire separation, specialty windows, sound insulation, access compliance, and long-lead mechanical equipment can add cost quickly. Change orders are another common issue, especially when drawings are incomplete or the scope changes after permit. Owners should also reserve contingency for unforeseen site conditions, such as poor soils or buried obstructions. A reliable budget should separate hard costs, soft costs, and contingency so the real total is visible before commitments are made.",
+      "@type": "Answer",
+      "description": "Hidden costs often include demolition, soils testing, surveying, utility upgrades, temporary power, grading, retaining walls, plan check revisions, off-site improvements, and contingency for change orders. Soft costs such as design, engineering, permits, and financing carry real weight. A low per-square-foot bid can miss these items and create budget overruns later.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The biggest budgeting mistake is treating the construction contract as the total project cost. Multifamily projects often carry significant soft costs and site costs that do not show up in a basic square-foot estimate. These can include demolition, surveying, geotechnical work, civil engineering, plan check fees, utility upgrades, grading, retaining walls, temporary site protection, and financing carry costs during delays. On the construction side, items like waterproofing, fire separation, specialty windows, sound insulation, access compliance, and long-lead mechanical equipment can add cost quickly. Change orders are another common issue, especially when drawings are incomplete or the scope changes after permit. Owners should also reserve contingency for unforeseen site conditions, such as poor soils or buried obstructions. A reliable budget should separate hard costs, soft costs, and contingency so the real total is visible before commitments are made.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hidden costs often include demolition, soils testing, surveying, utility upgrades, temporary power, grading, retaining walls, plan check revisions, off-site imp"
+}

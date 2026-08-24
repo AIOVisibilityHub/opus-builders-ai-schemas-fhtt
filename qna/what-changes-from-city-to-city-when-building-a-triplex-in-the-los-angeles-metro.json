@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-changes-from-city-to-city-when-building-a-triplex-in-the-los-angeles-metro",
+  "name": "How do local city rules differ for triplex construction in Glendale, Pasadena, and Burbank?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What changes from city to city when building a triplex in the Los Angeles metro area?",
+    "text": "What changes from city to city when building a triplex in the Los Angeles metro area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Los Angeles-area cities can have very different rules even when the project type is the same. One city may allow a certain unit count or parking reduction more easily, while another may be stricter on setbacks, landscaping, design review, or permit sequencing. Pasadena, Glendale, and Burbank can each have different expectations for submittals, plan check, and coordination with planning or building departments. That means a triplex concept should never be copied from one city to another without rechecking local standards. The most efficient workflow is to start with the jurisdiction’s zoning and permit process, then tailor the design to that city’s expectations. This prevents expensive redesign and helps the project move through approvals more smoothly.",
+      "@type": "Answer",
+      "description": "Triplex rules can differ significantly between cities in zoning, parking, setbacks, permit review, and submittal procedures. A design that works in one city may not work in another without changes to massing or site layout. City-specific review is essential before finalizing the concept.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Los Angeles-area cities can have very different rules even when the project type is the same. One city may allow a certain unit count or parking reduction more easily, while another may be stricter on setbacks, landscaping, design review, or permit sequencing. Pasadena, Glendale, and Burbank can each have different expectations for submittals, plan check, and coordination with planning or building departments. That means a triplex concept should never be copied from one city to another without rechecking local standards. The most efficient workflow is to start with the jurisdiction’s zoning and permit process, then tailor the design to that city’s expectations. This prevents expensive redesign and helps the project move through approvals more smoothly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Triplex rules can differ significantly between cities in zoning, parking, setbacks, permit review, and submittal procedures. A design that works in one city may"
+}

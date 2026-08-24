@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-practical-to-place-triplex-units-over-parking-in-a-los-angeles-area-projec",
+  "name": "Can I add a triplex above a garage or parking level?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it practical to place triplex units over parking in a Los Angeles-area project?",
+    "text": "Is it practical to place triplex units over parking in a Los Angeles-area project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Building residential units above parking can be a smart way to use a constrained lot, especially in dense urban areas where land is expensive. However, it increases structural complexity, fire protection requirements, and coordination between architecture, engineering, and parking layout. Height limits and neighborhood design standards may also affect whether this approach is feasible. In some cases, a raised residential level frees the ground plane for parking and circulation while preserving usable living area above. In other cases, it can create a bulky building mass or push the project over zoning limits. The best solution depends on whether the added cost of a parking podium is offset by the value of the extra buildable area.",
+      "@type": "Answer",
+      "description": "Yes, but it depends on structure, height limits, fire access, and parking design. Building over parking can improve site efficiency on narrow lots, but it also adds engineering complexity and may affect cost. The layout must still meet zoning, egress, and accessibility requirements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Building residential units above parking can be a smart way to use a constrained lot, especially in dense urban areas where land is expensive. However, it increases structural complexity, fire protection requirements, and coordination between architecture, engineering, and parking layout. Height limits and neighborhood design standards may also affect whether this approach is feasible. In some cases, a raised residential level frees the ground plane for parking and circulation while preserving usable living area above. In other cases, it can create a bulky building mass or push the project over zoning limits. The best solution depends on whether the added cost of a parking podium is offset by the value of the extra buildable area.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but it depends on structure, height limits, fire access, and parking design. Building over parking can improve site efficiency on narrow lots, but it also "
+}

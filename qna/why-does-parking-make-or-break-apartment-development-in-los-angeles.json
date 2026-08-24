@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-does-parking-make-or-break-apartment-development-in-los-angeles",
+  "name": "How do parking requirements affect multifamily feasibility in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why does parking make or break apartment development in Los Angeles?",
+    "text": "Why does parking make or break apartment development in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking is often one of the biggest feasibility issues in Los Angeles multifamily development. Every required stall takes space that could otherwise be rentable area, and structured or subterranean parking can add major cost. On small sites, parking can force a deeper garage, more excavation, more shoring, and a larger building footprint. That can quickly change the economics of the project. In some neighborhoods, the design team may need to find a balance between parking count, unit count, and project cost rather than simply maximizing spaces. A good feasibility study should test whether the building works with tuck-under, podium, at-grade, or reduced-parking configurations. Developers should also understand how parking requirements interact with unit mix, transit proximity, and local zoning. The wrong parking strategy can create a project that is technically permitted but financially impossible.",
+      "@type": "Answer",
+      "description": "Parking can determine whether a project is financially feasible because it consumes expensive square footage and increases excavation, structure, and engineering costs. Below-grade parking is especially costly on tight urban sites. A project with too many required spaces may lose units or become unfinanceable.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking is often one of the biggest feasibility issues in Los Angeles multifamily development. Every required stall takes space that could otherwise be rentable area, and structured or subterranean parking can add major cost. On small sites, parking can force a deeper garage, more excavation, more shoring, and a larger building footprint. That can quickly change the economics of the project. In some neighborhoods, the design team may need to find a balance between parking count, unit count, and project cost rather than simply maximizing spaces. A good feasibility study should test whether the building works with tuck-under, podium, at-grade, or reduced-parking configurations. Developers should also understand how parking requirements interact with unit mix, transit proximity, and local zoning. The wrong parking strategy can create a project that is technically permitted but financially impossible.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking can determine whether a project is financially feasible because it consumes expensive square footage and increases excavation, structure, and engineerin"
+}

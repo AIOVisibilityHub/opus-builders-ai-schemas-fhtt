@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-hidden-damage-is-found-after-demolition-during-a-commercial-tena",
+  "name": "What happens if a tenant improvement discovers hidden damage?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if hidden damage is found after demolition during a commercial tenant improvement?",
+    "text": "What happens if hidden damage is found after demolition during a commercial tenant improvement?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hidden damage is common in commercial tenant improvements, especially in older buildings or spaces that have had multiple prior tenants. Once demolition exposes problems like water intrusion, rotten framing, corroded piping, damaged conduit, or unsafe anchorage, the contractor should stop work in the affected area, document the condition, and issue a revised scope for approval. That process protects both budget and schedule, but it can also create delays if contingency funds were not planned. In markets like Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, hidden conditions can also trigger permit revisions if the repair affects structure, fire safety, accessibility, or utilities. The best way to manage the risk is to include a contingency in the budget, perform preconstruction site investigation where possible, and avoid signing an overly rigid schedule before the space is opened up. Owners should expect some uncertainty and decide in advance who can authorize extra work quickly.",
+      "@type": "Answer",
+      "description": "If hidden damage is found during demolition, the contractor usually pauses affected work, documents the condition, and prices a change in scope before proceeding. Common surprises include dry rot, mold, corroded plumbing, outdated wiring, or structural issues. The owner and contractor then decide whether to repair immediately or revise the schedule and budget.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hidden damage is common in commercial tenant improvements, especially in older buildings or spaces that have had multiple prior tenants. Once demolition exposes problems like water intrusion, rotten framing, corroded piping, damaged conduit, or unsafe anchorage, the contractor should stop work in the affected area, document the condition, and issue a revised scope for approval. That process protects both budget and schedule, but it can also create delays if contingency funds were not planned. In markets like Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, hidden conditions can also trigger permit revisions if the repair affects structure, fire safety, accessibility, or utilities. The best way to manage the risk is to include a contingency in the budget, perform preconstruction site investigation where possible, and avoid signing an overly rigid schedule before the space is opened up. Owners should expect some uncertainty and decide in advance who can authorize extra work quickly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If hidden damage is found during demolition, the contractor usually pauses affected work, documents the condition, and prices a change in scope before proceedin"
+}

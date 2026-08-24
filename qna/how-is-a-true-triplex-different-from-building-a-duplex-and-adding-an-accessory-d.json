@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-is-a-true-triplex-different-from-building-a-duplex-and-adding-an-accessory-d",
+  "name": "What is the difference between a triplex and a duplex-plus-ADU project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is a true triplex different from building a duplex and adding an accessory dwelling unit on the same lot?",
+    "text": "How is a true triplex different from building a duplex and adding an accessory dwelling unit on the same lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The main difference is how the units are classified. A triplex has three primary homes, while a duplex plus ADU has two primary units and one accessory unit that must remain secondary under local rules. That classification can affect setbacks, building massing, parking requirements, utility metering, resale assumptions, and lender treatment. In some neighborhoods, the ADU route is easier to permit because accessory units may have different standards than a full third primary unit. In others, a true triplex can be more efficient for long-term rental income or future sale flexibility. Property owners should compare both options early, because the more permit-friendly option is not always the one with the best return.",
+      "@type": "Answer",
+      "description": "A triplex is usually three primary dwelling units designed and permitted as part of the main residential building or site plan. A duplex plus ADU is typically two primary units plus one accessory unit that is subordinate to the main use. The distinction affects zoning, parking, title, utility planning, and financing.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The main difference is how the units are classified. A triplex has three primary homes, while a duplex plus ADU has two primary units and one accessory unit that must remain secondary under local rules. That classification can affect setbacks, building massing, parking requirements, utility metering, resale assumptions, and lender treatment. In some neighborhoods, the ADU route is easier to permit because accessory units may have different standards than a full third primary unit. In others, a true triplex can be more efficient for long-term rental income or future sale flexibility. Property owners should compare both options early, because the more permit-friendly option is not always the one with the best return.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A triplex is usually three primary dwelling units designed and permitted as part of the main residential building or site plan. A duplex plus ADU is typically t"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-mistakes-most-often-cause-overruns-delays-or-quality-problems-in-small-apar",
+  "name": "What are the biggest construction mistakes on multifamily projects?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What mistakes most often cause overruns, delays, or quality problems in small apartment or duplex construction?",
+    "text": "What mistakes most often cause overruns, delays, or quality problems in small apartment or duplex construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most expensive mistakes usually happen before construction begins. Owners often skip feasibility work, underestimate site and utility costs, or move forward with a design that has not been tested against parking, setbacks, and access rules. Other common problems include choosing the lowest bid without reviewing scope exclusions, changing finishes after procurement, and failing to coordinate architecture, structure, and MEP systems early. In multifamily projects, fire separation, acoustics, and drainage details are also frequent sources of rework because they are easy to overlook in early drawings but costly to correct in the field. A strong project team reduces mistakes by clarifying scope, identifying long-lead items, and resolving design conflicts before they hit the jobsite. Owners should also expect realistic contingency and regular cost updates. The best way to avoid overruns is to make the project simpler, clearer, and more coordinated before permits and construction start.",
+      "@type": "Answer",
+      "description": "Common mistakes include skipping feasibility, underestimating utility and site work, changing the design too late, hiring on price alone, and ignoring fire, sound, or access details. Poor coordination between architect, engineer, and contractor often creates rework. The cheapest project on paper is often the most expensive once corrections and delays are included.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most expensive mistakes usually happen before construction begins. Owners often skip feasibility work, underestimate site and utility costs, or move forward with a design that has not been tested against parking, setbacks, and access rules. Other common problems include choosing the lowest bid without reviewing scope exclusions, changing finishes after procurement, and failing to coordinate architecture, structure, and MEP systems early. In multifamily projects, fire separation, acoustics, and drainage details are also frequent sources of rework because they are easy to overlook in early drawings but costly to correct in the field. A strong project team reduces mistakes by clarifying scope, identifying long-lead items, and resolving design conflicts before they hit the jobsite. Owners should also expect realistic contingency and regular cost updates. The best way to avoid overruns is to make the project simpler, clearer, and more coordinated before permits and construction start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common mistakes include skipping feasibility, underestimating utility and site work, changing the design too late, hiring on price alone, and ignoring fire, sou"
+}

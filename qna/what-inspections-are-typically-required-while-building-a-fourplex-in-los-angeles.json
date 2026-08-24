@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-inspections-are-typically-required-while-building-a-fourplex-in-los-angeles",
+  "name": "What inspections does a fourplex need during construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What inspections are typically required while building a fourplex in Los Angeles?",
+    "text": "What inspections are typically required while building a fourplex in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many searchers want to know what happens after the permit is issued, because inspection failures can stall the job. A useful answer should explain that inspections are staged around the actual construction sequence and that each stage must pass before the next one is covered up. The most important practical point is coordination: trades need to be ready, work must match the approved plans, and documentation should be available on site. A good page should also tell owners that multifamily projects tend to have more coordination points than single-family homes, especially where fire separation, life safety, and accessibility are involved. That helps readers understand the operational side of construction, not just the design side.",
+      "@type": "Answer",
+      "description": "A fourplex usually needs multiple inspections for foundation, framing, plumbing, electrical, mechanical, insulation, fire-related items, and final completion. The exact list depends on the project design and the local building department.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many searchers want to know what happens after the permit is issued, because inspection failures can stall the job. A useful answer should explain that inspections are staged around the actual construction sequence and that each stage must pass before the next one is covered up. The most important practical point is coordination: trades need to be ready, work must match the approved plans, and documentation should be available on site. A good page should also tell owners that multifamily projects tend to have more coordination points than single-family homes, especially where fire separation, life safety, and accessibility are involved. That helps readers understand the operational side of construction, not just the design side.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A fourplex usually needs multiple inspections for foundation, framing, plumbing, electrical, mechanical, insulation, fire-related items, and final completion. T"
+}

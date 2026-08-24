@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-percentage-should-be-reserved-for-surprises-on-a-triplex-build-in-southern",
+  "name": "How much contingency should I budget for triplex construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What percentage should be reserved for surprises on a triplex build in Southern California?",
+    "text": "What percentage should be reserved for surprises on a triplex build in Southern California?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Triplex projects need contingency because urban infill work routinely uncovers unknowns. Hidden soil issues, utility conflicts, plan check revisions, material price changes, and scope adjustments can all increase the final cost. Lots with existing structures, demolition, or tight access are especially likely to produce surprises. A good contingency is not just a percentage; it should be paired with a clear risk list so the owner knows why the reserve exists. Early drawings, surveys, and engineering studies can reduce the required contingency, but they never eliminate it. Owners should treat contingency as part of the project’s core budget, not as optional extra money that can be spent later on upgrades.",
+      "@type": "Answer",
+      "description": "A contingency budget should cover plan changes, hidden site conditions, utility surprises, and price swings. Triplex projects often need a larger contingency than a simple single-family remodel because permit complexity and site work are higher. The exact percentage should reflect lot conditions, design maturity, and current market volatility.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Triplex projects need contingency because urban infill work routinely uncovers unknowns. Hidden soil issues, utility conflicts, plan check revisions, material price changes, and scope adjustments can all increase the final cost. Lots with existing structures, demolition, or tight access are especially likely to produce surprises. A good contingency is not just a percentage; it should be paired with a clear risk list so the owner knows why the reserve exists. Early drawings, surveys, and engineering studies can reduce the required contingency, but they never eliminate it. Owners should treat contingency as part of the project’s core budget, not as optional extra money that can be spent later on upgrades.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A contingency budget should cover plan changes, hidden site conditions, utility surprises, and price swings. Triplex projects often need a larger contingency th"
+}

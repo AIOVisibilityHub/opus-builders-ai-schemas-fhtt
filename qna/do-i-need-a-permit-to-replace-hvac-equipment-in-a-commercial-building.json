@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-a-permit-to-replace-hvac-equipment-in-a-commercial-building",
+  "name": "Do I need a permit to replace commercial HVAC equipment?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a permit to replace HVAC equipment in a commercial building?",
+    "text": "Do I need a permit to replace HVAC equipment in a commercial building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Commercial HVAC replacement often requires permitting because the work can affect energy compliance, structural anchorage, electrical loads, ventilation, and indoor air distribution. Even when equipment is replaced with a similar unit, the city may still want plans or specifications showing capacity, curb or roof support, controls, and code compliance. If the replacement also changes duct routing, thermostat zones, makeup air, or exhaust, the review becomes more involved. In Los Angeles-area cities like Glendale, Pasadena, Burbank, and North Hollywood, owners should verify the permit requirements before scheduling shutdowns, especially for occupied spaces where downtime affects business operations. The best practice is to confirm whether the job is a straightforward replacement or part of a larger tenant improvement or energy upgrade. That distinction affects cost, schedule, and inspection sequencing. Planning early also reduces the risk of emergency repair becoming a permit problem later.",
+      "@type": "Answer",
+      "description": "Commercial HVAC replacement usually requires a permit, especially if the work changes equipment size, ducting, controls, electrical connections, or rooftop placement. Even like-for-like replacements can need review because of code, energy, and structural anchorage requirements. The exact permit path depends on the system and building conditions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Commercial HVAC replacement often requires permitting because the work can affect energy compliance, structural anchorage, electrical loads, ventilation, and indoor air distribution. Even when equipment is replaced with a similar unit, the city may still want plans or specifications showing capacity, curb or roof support, controls, and code compliance. If the replacement also changes duct routing, thermostat zones, makeup air, or exhaust, the review becomes more involved. In Los Angeles-area cities like Glendale, Pasadena, Burbank, and North Hollywood, owners should verify the permit requirements before scheduling shutdowns, especially for occupied spaces where downtime affects business operations. The best practice is to confirm whether the job is a straightforward replacement or part of a larger tenant improvement or energy upgrade. That distinction affects cost, schedule, and inspection sequencing. Planning early also reduces the risk of emergency repair becoming a permit problem later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Commercial HVAC replacement usually requires a permit, especially if the work changes equipment size, ducting, controls, electrical connections, or rooftop plac"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-changes-when-a-multifamily-renovation-crosses-city-boundaries-in-the-los-an",
+  "name": "How do Los Angeles multifamily renovation rules differ from Glendale or Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What changes when a multifamily renovation crosses city boundaries in the Los Angeles area?",
+    "text": "What changes when a multifamily renovation crosses city boundaries in the Los Angeles area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The physical work may look the same, but the approval path can change from city to city. Each local jurisdiction can have its own plan-check workflow, inspection scheduling, and code interpretation. That matters for multifamily renovations because schedule and budget can be affected by how fast permits are issued and how inspections are handled. Owners with buildings near city borders should confirm jurisdiction early, because even a small location change can alter the review process. The best practice is to verify the city, identify the permitting authority, and build the project timeline around that agency’s requirements rather than assuming one metro-area process fits all.",
+      "@type": "Answer",
+      "description": "Renovation scope may be similar across cities, but permit review, inspection timing, local building departments, and tenant-related requirements can differ by municipality. A multifamily project in Glendale or Pasadena may not follow the same exact process as one in Los Angeles, even when the construction work is identical.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The physical work may look the same, but the approval path can change from city to city. Each local jurisdiction can have its own plan-check workflow, inspection scheduling, and code interpretation. That matters for multifamily renovations because schedule and budget can be affected by how fast permits are issued and how inspections are handled. Owners with buildings near city borders should confirm jurisdiction early, because even a small location change can alter the review process. The best practice is to verify the city, identify the permitting authority, and build the project timeline around that agency’s requirements rather than assuming one metro-area process fits all.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Renovation scope may be similar across cities, but permit review, inspection timing, local building departments, and tenant-related requirements can differ by m"
+}

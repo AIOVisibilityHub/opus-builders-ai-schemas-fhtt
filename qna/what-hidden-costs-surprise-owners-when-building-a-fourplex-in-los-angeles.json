@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-hidden-costs-surprise-owners-when-building-a-fourplex-in-los-angeles",
+  "name": "What are the biggest hidden costs in a fourplex build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What hidden costs surprise owners when building a fourplex in Los Angeles?",
+    "text": "What hidden costs surprise owners when building a fourplex in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Owners often budget for framing, finishes, and permits but miss the site-specific costs that can change a fourplex budget quickly. In Los Angeles, those surprises often include utility trenching, sewer capacity upgrades, grading, haul-away, tree removal, demolition, off-site improvements, and plan revisions during review. If the lot has a slope, narrow access, or older infrastructure, the risk rises again. A good answer should explain which items are usually fixed-price and which are not, plus how to build a realistic contingency. Searchers need clear guidance on when to ask for a soils report, civil review, and preliminary utility coordination before design is finalized. That kind of breakdown is much more useful than a generic construction cost estimate.",
+      "@type": "Answer",
+      "description": "The most common hidden costs are utility upgrades, soils and geotechnical work, stormwater requirements, retaining walls, fire and life-safety upgrades, parking redesign, and change orders. In Los Angeles-area infill projects, these items can add a large amount after the initial budget is set.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Owners often budget for framing, finishes, and permits but miss the site-specific costs that can change a fourplex budget quickly. In Los Angeles, those surprises often include utility trenching, sewer capacity upgrades, grading, haul-away, tree removal, demolition, off-site improvements, and plan revisions during review. If the lot has a slope, narrow access, or older infrastructure, the risk rises again. A good answer should explain which items are usually fixed-price and which are not, plus how to build a realistic contingency. Searchers need clear guidance on when to ask for a soils report, civil review, and preliminary utility coordination before design is finalized. That kind of breakdown is much more useful than a generic construction cost estimate.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common hidden costs are utility upgrades, soils and geotechnical work, stormwater requirements, retaining walls, fire and life-safety upgrades, parking"
+}

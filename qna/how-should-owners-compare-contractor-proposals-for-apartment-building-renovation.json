@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-owners-compare-contractor-proposals-for-apartment-building-renovation",
+  "name": "What is the best way to compare multifamily renovation bids?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should owners compare contractor proposals for apartment building renovations without missing hidden costs?",
+    "text": "How should owners compare contractor proposals for apartment building renovations without missing hidden costs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Bid comparison should focus on completeness and assumptions. A good proposal clearly states what is included, what is excluded, and how changes will be handled. Owners should compare line items for demolition, rough trades, finishes, site protection, permit support, and cleanup. It also helps to check whether the contractor has included realistic labor, access, and coordination costs for an occupied building. The cheapest bid is often the riskiest if it omits hidden-condition allowances or underestimates tenant logistics. A disciplined comparison process usually saves money by reducing change orders and delays later.",
+      "@type": "Answer",
+      "description": "Compare bids by scope, allowances, exclusions, permits, timeline, and contingency assumptions, not just by the bottom-line price. A lower bid can hide missing work, weak supervision, or unrealistic schedules. The best bid is the one that is most complete and easiest to verify.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Bid comparison should focus on completeness and assumptions. A good proposal clearly states what is included, what is excluded, and how changes will be handled. Owners should compare line items for demolition, rough trades, finishes, site protection, permit support, and cleanup. It also helps to check whether the contractor has included realistic labor, access, and coordination costs for an occupied building. The cheapest bid is often the riskiest if it omits hidden-condition allowances or underestimates tenant logistics. A disciplined comparison process usually saves money by reducing change orders and delays later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids by scope, allowances, exclusions, permits, timeline, and contingency assumptions, not just by the bottom-line price. A lower bid can hide missing w"
+}

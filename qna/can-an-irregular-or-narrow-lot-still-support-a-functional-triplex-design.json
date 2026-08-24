@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-irregular-or-narrow-lot-still-support-a-functional-triplex-design",
+  "name": "What if my triplex lot has a narrow frontage or awkward shape?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an irregular or narrow lot still support a functional triplex design?",
+    "text": "Can an irregular or narrow lot still support a functional triplex design?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Narrow frontage and irregular lot shapes make triplex design more challenging because they compress the building envelope and reduce layout flexibility. Parking, stairs, utility rooms, and entries can consume a surprising amount of space on these sites. If the parcel is wedge-shaped, flag-shaped, or otherwise unusual, the architect must build the plan around the site rather than forcing a standard template onto it. These lots often need custom massing, strategic window placement, and a careful circulation plan to keep the units livable. The upside is that a well-designed solution can make a difficult lot more valuable than a generic one, especially in high-demand neighborhoods. Feasibility work is critical before committing to a full design package.",
+      "@type": "Answer",
+      "description": "Yes, but narrow or irregular lots usually require custom planning for circulation, parking, light, and unit arrangement. Standard floor plans often fail on awkward parcels because they do not solve access or adjacency issues. A site-specific design is usually needed to make the project work efficiently.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Narrow frontage and irregular lot shapes make triplex design more challenging because they compress the building envelope and reduce layout flexibility. Parking, stairs, utility rooms, and entries can consume a surprising amount of space on these sites. If the parcel is wedge-shaped, flag-shaped, or otherwise unusual, the architect must build the plan around the site rather than forcing a standard template onto it. These lots often need custom massing, strategic window placement, and a careful circulation plan to keep the units livable. The upside is that a well-designed solution can make a difficult lot more valuable than a generic one, especially in high-demand neighborhoods. Feasibility work is critical before committing to a full design package.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but narrow or irregular lots usually require custom planning for circulation, parking, light, and unit arrangement. Standard floor plans often fail on awkw"
+}

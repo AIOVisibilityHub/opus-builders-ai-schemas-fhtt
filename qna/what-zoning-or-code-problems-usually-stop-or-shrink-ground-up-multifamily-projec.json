@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-zoning-or-code-problems-usually-stop-or-shrink-ground-up-multifamily-projec",
+  "name": "What zoning issues most often block multifamily development in Glendale and Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What zoning or code problems usually stop or shrink ground-up multifamily projects in Glendale or Pasadena?",
+    "text": "What zoning or code problems usually stop or shrink ground-up multifamily projects in Glendale or Pasadena?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common zoning problems are not dramatic one-time issues; they are small site constraints that compound. Height limits, setbacks, density rules, lot coverage, open space requirements, and parking ratios can reduce unit count or force a completely different building massing. In Glendale and Pasadena, review may also focus on neighborhood character, circulation, privacy, and how the building meets the street. Corner lots, narrow lots, and sloped sites often create additional design complications. A parcel may be technically developable but still fail financially if it cannot support enough units or efficient parking. Before buying land, developers should confirm zoning, overlay districts, historic constraints, utility access, and any discretionary review likely to apply. A feasibility study should test at least two massing options so the team understands what is possible before purchase or entitlement submission.",
+      "@type": "Answer",
+      "description": "Common blockers include height limits, floor-area limits, setback rules, parking minimums, neighborhood compatibility standards, and lot coverage restrictions. In Pasadena and Glendale, a site that looks developable on paper may still need design changes for access, open space, or privacy requirements. Early zoning due diligence is essential.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common zoning problems are not dramatic one-time issues; they are small site constraints that compound. Height limits, setbacks, density rules, lot coverage, open space requirements, and parking ratios can reduce unit count or force a completely different building massing. In Glendale and Pasadena, review may also focus on neighborhood character, circulation, privacy, and how the building meets the street. Corner lots, narrow lots, and sloped sites often create additional design complications. A parcel may be technically developable but still fail financially if it cannot support enough units or efficient parking. Before buying land, developers should confirm zoning, overlay districts, historic constraints, utility access, and any discretionary review likely to apply. A feasibility study should test at least two massing options so the team understands what is possible before purchase or entitlement submission.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common blockers include height limits, floor-area limits, setback rules, parking minimums, neighborhood compatibility standards, and lot coverage restrictions. "
+}

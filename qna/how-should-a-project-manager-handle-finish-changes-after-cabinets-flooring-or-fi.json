@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-project-manager-handle-finish-changes-after-cabinets-flooring-or-fi",
+  "name": "What if the owner changes finishes mid-project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a project manager handle finish changes after cabinets, flooring, or fixtures have already been selected?",
+    "text": "How should a project manager handle finish changes after cabinets, flooring, or fixtures have already been selected?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Finish changes after procurement has started can create cascading delays and extra cost. The project manager should first determine what has already been ordered, fabricated, or installed. Then the team should review the cost difference, lead time, and whether the new selection affects related trades such as electrical, plumbing, millwork, or tile. Some changes are simple, but others can trigger rework or push inspections and completion dates. On multi-family projects, especially those with many units, even one late decision can ripple through the entire schedule. The best practice is to freeze selections early and only approve later changes when the owner understands the full impact. A strong project manager will explain the tradeoffs clearly so the team can make a decision based on both design goals and project realities.",
+      "@type": "Answer",
+      "description": "Finish changes should be reviewed for cost, lead time, compatibility, and impact on sequencing before approval. If materials are already ordered or installed, the manager should confirm whether the change requires rework, credits, or schedule adjustments.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Finish changes after procurement has started can create cascading delays and extra cost. The project manager should first determine what has already been ordered, fabricated, or installed. Then the team should review the cost difference, lead time, and whether the new selection affects related trades such as electrical, plumbing, millwork, or tile. Some changes are simple, but others can trigger rework or push inspections and completion dates. On multi-family projects, especially those with many units, even one late decision can ripple through the entire schedule. The best practice is to freeze selections early and only approve later changes when the owner understands the full impact. A strong project manager will explain the tradeoffs clearly so the team can make a decision based on both design goals and project realities.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Finish changes should be reviewed for cost, lead time, compatibility, and impact on sequencing before approval. If materials are already ordered or installed, t"
+}

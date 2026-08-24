@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-change-orders-work-on-a-commercial-construction-project-and-what-should-b",
+  "name": "How do commercial construction change orders work?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do change orders work on a commercial construction project, and what should be included?",
+    "text": "How do change orders work on a commercial construction project, and what should be included?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders are a normal part of commercial construction, especially when design details evolve, hidden conditions appear, or owners adjust the scope midstream. A good change order should clearly identify what is being added or removed, the cost impact, the time extension if any, and whether the change affects other trades or permit documents. In Los Angeles-area projects, change orders become especially important when revisions affect plan check, inspections, long-lead materials, or occupancy timing. Owners should insist on written approval before extra work begins unless there is an emergency. They should also separate design changes from field conditions, because the pricing and schedule consequences may differ. The cleanest process is to keep a current budget log, tie each change to a revised scope, and review allowance balances regularly. That makes it easier to compare bids and avoid disputes at closeout.",
+      "@type": "Answer",
+      "description": "A change order is a written modification to the original contract that documents added, deleted, or revised work, along with the cost and time impact. It should describe the changed scope, pricing method, schedule effect, and approval signatures before the contractor proceeds. Clear change order tracking prevents budget disputes and missed deadlines.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders are a normal part of commercial construction, especially when design details evolve, hidden conditions appear, or owners adjust the scope midstream. A good change order should clearly identify what is being added or removed, the cost impact, the time extension if any, and whether the change affects other trades or permit documents. In Los Angeles-area projects, change orders become especially important when revisions affect plan check, inspections, long-lead materials, or occupancy timing. Owners should insist on written approval before extra work begins unless there is an emergency. They should also separate design changes from field conditions, because the pricing and schedule consequences may differ. The cleanest process is to keep a current budget log, tie each change to a revised scope, and review allowance balances regularly. That makes it easier to compare bids and avoid disputes at closeout.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A change order is a written modification to the original contract that documents added, deleted, or revised work, along with the cost and time impact. It should"
+}

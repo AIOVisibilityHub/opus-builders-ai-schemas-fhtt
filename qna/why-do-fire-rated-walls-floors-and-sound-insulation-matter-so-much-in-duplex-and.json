@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-fire-rated-walls-floors-and-sound-insulation-matter-so-much-in-duplex-and",
+  "name": "How do fire and sound separation requirements affect small multifamily builds?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do fire-rated walls, floors, and sound insulation matter so much in duplex and apartment construction?",
+    "text": "Why do fire-rated walls, floors, and sound insulation matter so much in duplex and apartment construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Fire and sound separation are major design drivers in multifamily construction because they influence both safety and livability. Fire-rated walls, floors, and ceilings may require specific assemblies, rated doors, protected penetrations, and coordinated mechanical routing. Sound control adds insulation, resilient details, decoupling strategies, and careful treatment of shared walls and floors. These elements protect occupants and reduce future disputes, but they also affect square footage, framing depth, material selection, and cost. A project that looks efficient on paper can lose usable space once code-required assemblies are added. This is why separation details should be resolved during design, not after permits are issued. Owners who ignore these requirements early often face expensive corrections, inspection delays, or tenant complaints later. A good multifamily design balances code compliance, comfort, and buildability rather than treating fire and acoustics as afterthoughts.",
+      "@type": "Answer",
+      "description": "Fire and sound separation affect unit layouts, wall thickness, floor assemblies, framing, insulation, and mechanical routing. These requirements protect occupants and reduce complaints, but they also reduce usable interior space and can increase cost. If they are not designed early, they often cause redesigns during plan check or framing.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Fire and sound separation are major design drivers in multifamily construction because they influence both safety and livability. Fire-rated walls, floors, and ceilings may require specific assemblies, rated doors, protected penetrations, and coordinated mechanical routing. Sound control adds insulation, resilient details, decoupling strategies, and careful treatment of shared walls and floors. These elements protect occupants and reduce future disputes, but they also affect square footage, framing depth, material selection, and cost. A project that looks efficient on paper can lose usable space once code-required assemblies are added. This is why separation details should be resolved during design, not after permits are issued. Owners who ignore these requirements early often face expensive corrections, inspection delays, or tenant complaints later. A good multifamily design balances code compliance, comfort, and buildability rather than treating fire and acoustics as afterthoughts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Fire and sound separation affect unit layouts, wall thickness, floor assemblies, framing, insulation, and mechanical routing. These requirements protect occupan"
+}

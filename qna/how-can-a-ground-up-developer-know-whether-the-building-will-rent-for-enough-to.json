@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-a-ground-up-developer-know-whether-the-building-will-rent-for-enough-to",
+  "name": "How do multifamily developers estimate achievable rents before breaking ground?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can a ground-up developer know whether the building will rent for enough to justify the project?",
+    "text": "How can a ground-up developer know whether the building will rent for enough to justify the project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Rent forecasting starts with direct comparable properties, but it should not stop there. Developers need to compare unit size, finishes, parking, amenities, transit access, and submarket position. New construction usually competes with a narrow set of similar buildings, so one premium comp can distort the whole model. The underwriting should also include lease-up timing, expected concessions, and seasonal absorption. In Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, rent assumptions can vary block by block, so market research must be very local. If the deal only works at the highest possible rent, it probably needs more caution. A better model includes a downside case and checks whether the project still supports debt service and target returns if rents come in lower than expected. This is one of the most common points where ambitious projects become overleveraged.",
+      "@type": "Answer",
+      "description": "Developers estimate rents by comparing nearby new construction, renovated competitors, unit size, amenities, parking, and location quality. The best underwriting also adjusts for lease-up timing and concessions. If the pro forma depends on top-of-market rents without strong comps, the project may be too risky.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Rent forecasting starts with direct comparable properties, but it should not stop there. Developers need to compare unit size, finishes, parking, amenities, transit access, and submarket position. New construction usually competes with a narrow set of similar buildings, so one premium comp can distort the whole model. The underwriting should also include lease-up timing, expected concessions, and seasonal absorption. In Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, rent assumptions can vary block by block, so market research must be very local. If the deal only works at the highest possible rent, it probably needs more caution. A better model includes a downside case and checks whether the project still supports debt service and target returns if rents come in lower than expected. This is one of the most common points where ambitious projects become overleveraged.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Developers estimate rents by comparing nearby new construction, renovated competitors, unit size, amenities, parking, and location quality. The best underwritin"
+}

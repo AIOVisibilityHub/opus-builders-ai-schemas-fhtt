@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-new-townhomes-be-built-right-next-to-existing-homes-in-los-angeles",
+  "name": "Can townhomes share walls with existing homes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can new townhomes be built right next to existing homes in Los Angeles?",
+    "text": "Can new townhomes be built right next to existing homes in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Building townhomes next to existing homes is possible in some infill settings, but it requires careful planning. The project must respect setbacks, fire separation, foundation stability, drainage, and privacy impacts on neighboring properties. Tight side-yard conditions can limit window placement, reduce daylight, and complicate construction access. Shared wall or near-wall conditions also make waterproofing and structural detailing more important. If the project is too close to adjacent homes, the design may need to change to protect safety and livability. A site-specific feasibility study is the best way to see whether the parcel can support a compliant layout without creating avoidable neighbor conflicts or construction problems.",
+      "@type": "Answer",
+      "description": "Townhomes can sometimes be built adjacent to existing homes if setback, fire separation, privacy, and foundation conditions are acceptable. The feasibility depends on how close the new structure can safely and legally sit to neighboring buildings.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Building townhomes next to existing homes is possible in some infill settings, but it requires careful planning. The project must respect setbacks, fire separation, foundation stability, drainage, and privacy impacts on neighboring properties. Tight side-yard conditions can limit window placement, reduce daylight, and complicate construction access. Shared wall or near-wall conditions also make waterproofing and structural detailing more important. If the project is too close to adjacent homes, the design may need to change to protect safety and livability. A site-specific feasibility study is the best way to see whether the parcel can support a compliant layout without creating avoidable neighbor conflicts or construction problems.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Townhomes can sometimes be built adjacent to existing homes if setback, fire separation, privacy, and foundation conditions are acceptable. The feasibility depe"
+}

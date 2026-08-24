@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-existing-duplex-apartment-or-commercial-building-be-converted-into-townho",
+  "name": "Can I convert an existing building into townhomes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an existing duplex, apartment, or commercial building be converted into townhomes in Los Angeles?",
+    "text": "Can an existing duplex, apartment, or commercial building be converted into townhomes in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An existing building can sometimes be converted into townhomes, but the feasibility depends on the structure, zoning, and how much of the building must change to meet current standards. Older buildings often need substantial work to address fire separation, egress, seismic upgrades, parking, accessibility, and utility separation. In some cases, a conversion costs nearly as much as new construction once those upgrades are added. The upside is that an existing structure may reduce certain sitework or foundation costs if the shell is in good condition. Before pursuing a conversion, a structural review and zoning check should confirm whether the project is realistic or whether new construction is the better option. Many owners discover that the physical building can be adapted, but the economics are weaker than starting fresh.",
+      "@type": "Answer",
+      "description": "Conversion is possible in some cases, but the building must meet zoning, fire, access, structural, and unit-ownership requirements. Many conversions become expensive because the existing shell does not match current code or market expectations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An existing building can sometimes be converted into townhomes, but the feasibility depends on the structure, zoning, and how much of the building must change to meet current standards. Older buildings often need substantial work to address fire separation, egress, seismic upgrades, parking, accessibility, and utility separation. In some cases, a conversion costs nearly as much as new construction once those upgrades are added. The upside is that an existing structure may reduce certain sitework or foundation costs if the shell is in good condition. Before pursuing a conversion, a structural review and zoning check should confirm whether the project is realistic or whether new construction is the better option. Many owners discover that the physical building can be adapted, but the economics are weaker than starting fresh.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Conversion is possible in some cases, but the building must meet zoning, fire, access, structural, and unit-ownership requirements. Many conversions become expe"
+}

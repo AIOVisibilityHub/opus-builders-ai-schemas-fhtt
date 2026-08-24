@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-large-does-a-parcel-need-to-be-before-a-triplex-becomes-feasible-in-los-ange",
+  "name": "What is the minimum lot size for a triplex in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How large does a parcel need to be before a triplex becomes feasible in Los Angeles or neighboring cities?",
+    "text": "How large does a parcel need to be before a triplex becomes feasible in Los Angeles or neighboring cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Minimum lot size is not the only or even the best way to judge triplex feasibility. A parcel can be large enough in square footage but still fail due to setbacks, shape, access, parking, or zoning limits. Conversely, a compact lot may support three units if the building is designed efficiently and the code path allows it. The real test is the buildable envelope after all planning and life-safety rules are applied. That is why owners should avoid starting with a generic minimum-lot-size question and instead ask whether the site can accommodate three legal dwelling units with proper access, light, ventilation, and parking. A parcel-specific feasibility analysis is the most reliable answer.",
+      "@type": "Answer",
+      "description": "There is no single minimum lot size that applies everywhere because triplex feasibility depends on zoning, setbacks, parking, density, and site conditions. A larger lot does not guarantee approval, and a smaller lot may still work with the right configuration. The zoning envelope is more important than raw acreage.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Minimum lot size is not the only or even the best way to judge triplex feasibility. A parcel can be large enough in square footage but still fail due to setbacks, shape, access, parking, or zoning limits. Conversely, a compact lot may support three units if the building is designed efficiently and the code path allows it. The real test is the buildable envelope after all planning and life-safety rules are applied. That is why owners should avoid starting with a generic minimum-lot-size question and instead ask whether the site can accommodate three legal dwelling units with proper access, light, ventilation, and parking. A parcel-specific feasibility analysis is the most reliable answer.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "There is no single minimum lot size that applies everywhere because triplex feasibility depends on zoning, setbacks, parking, density, and site conditions. A la"
+}

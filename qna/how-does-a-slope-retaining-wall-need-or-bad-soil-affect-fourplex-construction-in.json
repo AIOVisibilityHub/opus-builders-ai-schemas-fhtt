@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-slope-retaining-wall-need-or-bad-soil-affect-fourplex-construction-in",
+  "name": "What if the lot has a slope or poor soil?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a slope, retaining wall need, or bad soil affect fourplex construction in Los Angeles?",
+    "text": "How does a slope, retaining wall need, or bad soil affect fourplex construction in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "This is a high-intent scenario question because many Los Angeles lots are not flat and simple. If the site has slope, expansive soil, or drainage issues, the project may need extra civil engineering, foundation design, and excavation work before construction can even start. Those conditions can affect not only cost but also unit count, garage placement, and whether the design remains efficient. Searchers need to know that a lot can look buildable on paper but become expensive once soils and grading are analyzed. A strong page should recommend early geotechnical and civil review so the owner understands risks before drawings are finalized. That guidance is much more useful than a generic statement that “site conditions matter.",
+      "@type": "Answer",
+      "description": "Slope and poor soil can significantly increase fourplex cost and complexity because they may require grading, retaining walls, deeper foundations, geotechnical engineering, and drainage work. These conditions can also change the building footprint and parking layout.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "This is a high-intent scenario question because many Los Angeles lots are not flat and simple. If the site has slope, expansive soil, or drainage issues, the project may need extra civil engineering, foundation design, and excavation work before construction can even start. Those conditions can affect not only cost but also unit count, garage placement, and whether the design remains efficient. Searchers need to know that a lot can look buildable on paper but become expensive once soils and grading are analyzed. A strong page should recommend early geotechnical and civil review so the owner understands risks before drawings are finalized. That guidance is much more useful than a generic statement that “site conditions matter.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Slope and poor soil can significantly increase fourplex cost and complexity because they may require grading, retaining walls, deeper foundations, geotechnical "
+}

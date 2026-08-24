@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-local-factors-should-owners-check-before-starting-apartment-construction-in",
+  "name": "What questions should I ask before building apartments in my neighborhood?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What local factors should owners check before starting apartment construction in Los Angeles or nearby neighborhoods?",
+    "text": "What local factors should owners check before starting apartment construction in Los Angeles or nearby neighborhoods?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before starting apartment construction, owners should verify the local rules and site conditions that shape feasibility. The most important items are zoning, height limits, setbacks, parking, utility access, and any neighborhood-specific design review requirements. These factors determine not only whether the project can be built, but also how much it will cost and how long it will take. In Los Angeles-area neighborhoods, two similar-looking lots may have very different development potential once code and access constraints are considered. That is why early site review is so important. Owners should also ask whether the project is likely to face additional scrutiny because of traffic, visibility, or neighborhood context. The best projects are the ones that align the building plan with the lot’s actual constraints from the beginning.",
+      "@type": "Answer",
+      "description": "Owners should check zoning, parking, setbacks, height limits, neighborhood character, utility access, and likely permit review requirements before starting. These factors determine whether the project is feasible, what it will cost, and how long approvals may take.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before starting apartment construction, owners should verify the local rules and site conditions that shape feasibility. The most important items are zoning, height limits, setbacks, parking, utility access, and any neighborhood-specific design review requirements. These factors determine not only whether the project can be built, but also how much it will cost and how long it will take. In Los Angeles-area neighborhoods, two similar-looking lots may have very different development potential once code and access constraints are considered. That is why early site review is so important. Owners should also ask whether the project is likely to face additional scrutiny because of traffic, visibility, or neighborhood context. The best projects are the ones that align the building plan with the lot’s actual constraints from the beginning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Owners should check zoning, parking, setbacks, height limits, neighborhood character, utility access, and likely permit review requirements before starting. The"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-good-commercial-construction-estimate-include",
+  "name": "What should be included in a commercial construction estimate?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a good commercial construction estimate include?",
+    "text": "What should a good commercial construction estimate include?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A useful commercial construction estimate should do more than provide a total price. It should spell out the exact scope, including demolition, rough-in work, finish materials, equipment, site protection, permits, fees, and closeout. It should also list exclusions, allowance items, schedule assumptions, and any known long-lead materials that could affect timing or price. This matters because commercial projects often look similar on paper but differ greatly in what is actually included. For example, one bid may cover structural, mechanical, and accessibility work, while another may only cover finishes. In Los Angeles-area cities like Glendale, Pasadena, Burbank, and North Hollywood, a strong estimate should also reflect permit complexity and inspection coordination. Owners should ask each bidder to identify clarifications in writing and to confirm whether change management, trash removal, utility tie-ins, and after-hours work are included. The more specific the estimate, the easier it is to make a fair comparison.",
+      "@type": "Answer",
+      "description": "A good commercial construction estimate should include scope, labor, materials, permits, allowances, exclusions, schedule assumptions, contingency, and any long-lead items. It should also identify whether demolition, site protection, utility work, and finish upgrades are included. A detailed estimate makes it easier to compare bids and avoid surprises.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A useful commercial construction estimate should do more than provide a total price. It should spell out the exact scope, including demolition, rough-in work, finish materials, equipment, site protection, permits, fees, and closeout. It should also list exclusions, allowance items, schedule assumptions, and any known long-lead materials that could affect timing or price. This matters because commercial projects often look similar on paper but differ greatly in what is actually included. For example, one bid may cover structural, mechanical, and accessibility work, while another may only cover finishes. In Los Angeles-area cities like Glendale, Pasadena, Burbank, and North Hollywood, a strong estimate should also reflect permit complexity and inspection coordination. Owners should ask each bidder to identify clarifications in writing and to confirm whether change management, trash removal, utility tie-ins, and after-hours work are included. The more specific the estimate, the easier it is to make a fair comparison.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A good commercial construction estimate should include scope, labor, materials, permits, allowances, exclusions, schedule assumptions, contingency, and any long"
+}

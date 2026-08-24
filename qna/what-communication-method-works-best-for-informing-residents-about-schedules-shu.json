@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-communication-method-works-best-for-informing-residents-about-schedules-shu",
+  "name": "What is the best way to communicate with tenants during construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What communication method works best for informing residents about schedules, shutoffs, and access changes?",
+    "text": "What communication method works best for informing residents about schedules, shutoffs, and access changes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Tenant communication works best when it is simple, consistent, and repeated through more than one channel. Residents should receive written notices for scheduled work, utility shutoffs, access changes, and any areas that will be blocked off. Email, text, lobby postings, and direct coordination with property management can help make sure the message is seen. The project manager should also designate one contact person so residents know where to ask questions and report problems. When plans change, updates should go out quickly and clearly. A good communication process reduces frustration and makes it easier for the construction team to do its job. In occupied multi-family properties, communication is not just a courtesy; it is part of keeping the project on schedule and preventing avoidable disputes.",
+      "@type": "Answer",
+      "description": "The best communication method is a mix of written notices, posted schedules, email or text updates, and a clear onsite contact for questions. Residents need advance notice, simple language, and consistent updates whenever the plan changes.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Tenant communication works best when it is simple, consistent, and repeated through more than one channel. Residents should receive written notices for scheduled work, utility shutoffs, access changes, and any areas that will be blocked off. Email, text, lobby postings, and direct coordination with property management can help make sure the message is seen. The project manager should also designate one contact person so residents know where to ask questions and report problems. When plans change, updates should go out quickly and clearly. A good communication process reduces frustration and makes it easier for the construction team to do its job. In occupied multi-family properties, communication is not just a courtesy; it is part of keeping the project on schedule and preventing avoidable disputes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best communication method is a mix of written notices, posted schedules, email or text updates, and a clear onsite contact for questions. Residents need adv"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-hidden-conditions-should-be-checked-before-renovating-an-older-multifamily",
+  "name": "What should I inspect before starting a renovation on an older apartment building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which hidden conditions should be checked before renovating an older multifamily property in Los Angeles?",
+    "text": "Which hidden conditions should be checked before renovating an older multifamily property in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older multifamily buildings often contain expensive surprises that are not visible during a quick walk-through. A proper preconstruction review should check system capacity, water intrusion, structural condition, and whether previous repairs were done correctly. In Los Angeles, older stock may also include outdated service panels, aging supply lines, and concealed damage from past leaks. If the building is older, hazardous-material review is also smart before demolition. The goal is to identify hidden risks before pricing and scheduling are locked in. A good contractor will use early inspections to narrow uncertainty, reduce change orders, and decide whether the project should be phased or fully vacated.",
+      "@type": "Answer",
+      "description": "Before starting, inspect plumbing, electrical capacity, roof leaks, moisture damage, HVAC condition, foundation cracks, subflooring, and possible hazardous materials. Older Los Angeles buildings can also hide outdated wiring, galvanized piping, and prior unpermitted work. A preconstruction assessment helps prevent major change orders.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older multifamily buildings often contain expensive surprises that are not visible during a quick walk-through. A proper preconstruction review should check system capacity, water intrusion, structural condition, and whether previous repairs were done correctly. In Los Angeles, older stock may also include outdated service panels, aging supply lines, and concealed damage from past leaks. If the building is older, hazardous-material review is also smart before demolition. The goal is to identify hidden risks before pricing and scheduling are locked in. A good contractor will use early inspections to narrow uncertainty, reduce change orders, and decide whether the project should be phased or fully vacated.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before starting, inspect plumbing, electrical capacity, roof leaks, moisture damage, HVAC condition, foundation cracks, subflooring, and possible hazardous mate"
+}

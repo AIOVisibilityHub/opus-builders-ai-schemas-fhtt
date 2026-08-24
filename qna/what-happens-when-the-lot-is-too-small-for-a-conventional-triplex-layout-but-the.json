@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-when-the-lot-is-too-small-for-a-conventional-triplex-layout-but-the",
+  "name": "Can a triplex be built under California's multi-unit housing rules in a small lot area?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens when the lot is too small for a conventional triplex layout but the owner still wants three units?",
+    "text": "What happens when the lot is too small for a conventional triplex layout but the owner still wants three units?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A small lot does not automatically rule out a triplex, but it makes the project more sensitive to every code requirement. The design may need compact units, shared circulation, stacked layouts, minimal waste space, or a parking solution that fits the parcel without dominating it. If the site is narrow, the architect must carefully balance light, privacy, stairs, fire access, and mechanical space. In these cases, the difference between a viable and non-viable project can come down to inches. Owners should evaluate the parcel’s buildable envelope before sketching a floor plan, because a generic three-unit layout often fails on constrained urban lots. The best approach is to test multiple massing options against the zoning rules and constructability issues at the same time.",
+      "@type": "Answer",
+      "description": "Small lots can sometimes support three units, but the design may need a compact footprint, reduced parking, a different unit mix, or a more efficient building configuration. Feasibility depends on the zoning envelope, local housing rules, and whether the units can be arranged without violating setbacks or access requirements. Small lots need early planning, not a standard template.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A small lot does not automatically rule out a triplex, but it makes the project more sensitive to every code requirement. The design may need compact units, shared circulation, stacked layouts, minimal waste space, or a parking solution that fits the parcel without dominating it. If the site is narrow, the architect must carefully balance light, privacy, stairs, fire access, and mechanical space. In these cases, the difference between a viable and non-viable project can come down to inches. Owners should evaluate the parcel’s buildable envelope before sketching a floor plan, because a generic three-unit layout often fails on constrained urban lots. The best approach is to test multiple massing options against the zoning rules and constructability issues at the same time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Small lots can sometimes support three units, but the design may need a compact footprint, reduced parking, a different unit mix, or a more efficient building c"
+}

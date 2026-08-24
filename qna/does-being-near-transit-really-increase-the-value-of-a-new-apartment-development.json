@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-being-near-transit-really-increase-the-value-of-a-new-apartment-development",
+  "name": "How do transit proximity and walkability change multifamily value in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does being near transit really increase the value of a new apartment development?",
+    "text": "Does being near transit really increase the value of a new apartment development?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Transit proximity can improve a project’s value, but it is not a guarantee. Renters respond to real convenience, not just map distance, so the surrounding streets, safety, retail access, and commute patterns matter. A site near transit may support a lower parking ratio or a denser unit mix, which can help feasibility. However, if the neighborhood is weak or the connection to transit is awkward, the premium may be modest. Developers should evaluate whether the location actually attracts renters who will pay for the convenience. In Los Angeles, this can vary dramatically by corridor and by time of day. Transit should be treated as one factor in the underwriting, not the entire investment thesis.",
+      "@type": "Answer",
+      "description": "Transit access and walkability can support higher rents, faster lease-up, and more flexible parking strategies, but only when the surrounding area actually feels usable to renters. A transit-adjacent site is not automatically a premium site. The real value depends on neighborhood quality, convenience, and tenant demand.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Transit proximity can improve a project’s value, but it is not a guarantee. Renters respond to real convenience, not just map distance, so the surrounding streets, safety, retail access, and commute patterns matter. A site near transit may support a lower parking ratio or a denser unit mix, which can help feasibility. However, if the neighborhood is weak or the connection to transit is awkward, the premium may be modest. Developers should evaluate whether the location actually attracts renters who will pay for the convenience. In Los Angeles, this can vary dramatically by corridor and by time of day. Transit should be treated as one factor in the underwriting, not the entire investment thesis.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Transit access and walkability can support higher rents, faster lease-up, and more flexible parking strategies, but only when the surrounding area actually feel"
+}

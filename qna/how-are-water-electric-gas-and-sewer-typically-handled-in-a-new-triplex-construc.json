@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-are-water-electric-gas-and-sewer-typically-handled-in-a-new-triplex-construc",
+  "name": "Do triplex units need separate meters and utilities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How are water, electric, gas, and sewer typically handled in a new triplex construction project?",
+    "text": "How are water, electric, gas, and sewer typically handled in a new triplex construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility planning is a major part of triplex construction because the system layout affects both construction cost and long-term operations. Owners often prefer separate meters for electricity, gas, and sometimes water so each unit can be billed independently and maintained more easily. However, the exact setup depends on local utility policies, the building design, and whether the project is intended for rental, condo-style ownership, or long-term hold. Some sites require trenching, new panel locations, backflow devices, or upgraded service capacity. Utility coordination should start early because service locations can influence the placement of mechanical rooms, parking, and unit entries. If the project will have shared systems, those responsibilities should be defined before construction starts so there are no surprises later.",
+      "@type": "Answer",
+      "description": "Triplex utility planning depends on local utility rules, ownership strategy, and the city’s plan-check requirements. Separate meters are often preferred for resale and tenant billing, but the actual utility configuration can vary by provider and project design. Utility routing should be coordinated early to avoid costly redesign.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility planning is a major part of triplex construction because the system layout affects both construction cost and long-term operations. Owners often prefer separate meters for electricity, gas, and sometimes water so each unit can be billed independently and maintained more easily. However, the exact setup depends on local utility policies, the building design, and whether the project is intended for rental, condo-style ownership, or long-term hold. Some sites require trenching, new panel locations, backflow devices, or upgraded service capacity. Utility coordination should start early because service locations can influence the placement of mechanical rooms, parking, and unit entries. If the project will have shared systems, those responsibilities should be defined before construction starts so there are no surprises later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Triplex utility planning depends on local utility rules, ownership strategy, and the city’s plan-check requirements. Separate meters are often preferred for res"
+}

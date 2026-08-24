@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-commercial-shell-space-and-a-tenant-improvement",
+  "name": "What is the difference between shell space and tenant improvement?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a commercial shell space and a tenant improvement project?",
+    "text": "What is the difference between a commercial shell space and a tenant improvement project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Shell space refers to a commercial space that is not yet fully built out for business operations. It may include only the base structure, core utilities, and essential building services, or it may be partially improved but not ready for occupancy. Tenant improvement work takes that shell and turns it into a functional space for a specific use, such as office, retail, restaurant, medical, or specialty commercial operations. The distinction matters because it changes the scope of design, permitting, and pricing. A shell-to-tenant-improvement project often requires more coordination with HVAC, plumbing, electrical, fire protection, and accessibility requirements than a simple cosmetic remodel. In Los Angeles and surrounding markets like Glendale, Pasadena, Burbank, and North Hollywood, owners should confirm exactly what the landlord is delivering and what the tenant must finish. That prevents budget gaps and delays when systems or code items are assumed but not actually provided.",
+      "@type": "Answer",
+      "description": "A shell space is an unfinished or partially finished commercial space delivered with basic building components, while a tenant improvement project customizes that space for an occupant’s specific use. Shell work focuses on base construction and utility readiness, while tenant improvements add walls, finishes, systems, and code-required features for operations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Shell space refers to a commercial space that is not yet fully built out for business operations. It may include only the base structure, core utilities, and essential building services, or it may be partially improved but not ready for occupancy. Tenant improvement work takes that shell and turns it into a functional space for a specific use, such as office, retail, restaurant, medical, or specialty commercial operations. The distinction matters because it changes the scope of design, permitting, and pricing. A shell-to-tenant-improvement project often requires more coordination with HVAC, plumbing, electrical, fire protection, and accessibility requirements than a simple cosmetic remodel. In Los Angeles and surrounding markets like Glendale, Pasadena, Burbank, and North Hollywood, owners should confirm exactly what the landlord is delivering and what the tenant must finish. That prevents budget gaps and delays when systems or code items are assumed but not actually provided.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A shell space is an unfinished or partially finished commercial space delivered with basic building components, while a tenant improvement project customizes th"
+}

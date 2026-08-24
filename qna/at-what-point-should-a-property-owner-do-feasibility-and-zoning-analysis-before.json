@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/at-what-point-should-a-property-owner-do-feasibility-and-zoning-analysis-before",
+  "name": "When should a feasibility study be done before multifamily design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "At what point should a property owner do feasibility and zoning analysis before hiring a designer or architect?",
+    "text": "At what point should a property owner do feasibility and zoning analysis before hiring a designer or architect?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Feasibility should be one of the first steps in a multifamily project because it determines whether the idea is realistic before major design money is spent. A site review should happen as soon as the property is under consideration or shortly after acquisition, and definitely before the team commits to full construction documents. Early analysis can expose zoning limits, setbacks, parking challenges, access problems, grading issues, and utility constraints that materially change the project. If the feasibility work is delayed, owners may spend heavily on drawings that later need to be redesigned or abandoned. A good feasibility study does more than confirm what fits; it helps identify the most profitable version of the project that is actually buildable. Owners should use it to compare unit counts, massing options, parking schemes, and construction complexity. The earlier the analysis happens, the more control the owner has over budget, schedule, and design direction.",
+      "@type": "Answer",
+      "description": "Feasibility should happen before full design work begins, ideally right after a site is shortlisted and before major plans are paid for. Early analysis can reveal whether the lot supports the unit count, parking, setbacks, and access needed for the project. That prevents wasted design fees on a concept that cannot be approved or built.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Feasibility should be one of the first steps in a multifamily project because it determines whether the idea is realistic before major design money is spent. A site review should happen as soon as the property is under consideration or shortly after acquisition, and definitely before the team commits to full construction documents. Early analysis can expose zoning limits, setbacks, parking challenges, access problems, grading issues, and utility constraints that materially change the project. If the feasibility work is delayed, owners may spend heavily on drawings that later need to be redesigned or abandoned. A good feasibility study does more than confirm what fits; it helps identify the most profitable version of the project that is actually buildable. Owners should use it to compare unit counts, massing options, parking schemes, and construction complexity. The earlier the analysis happens, the more control the owner has over budget, schedule, and design direction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Feasibility should happen before full design work begins, ideally right after a site is shortlisted and before major plans are paid for. Early analysis can reve"
+}

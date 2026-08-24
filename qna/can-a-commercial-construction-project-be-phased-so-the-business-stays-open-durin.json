@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-commercial-construction-project-be-phased-so-the-business-stays-open-durin",
+  "name": "Can I phase construction while keeping my business open?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a commercial construction project be phased so the business stays open during work?",
+    "text": "Can a commercial construction project be phased so the business stays open during work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phased construction is common when a business cannot fully shut down, but it requires careful planning. The team has to separate active work zones from occupied areas, maintain safe entrances and exits, control dust and noise, and sequence utility shutdowns so operations can continue. In commercial markets like Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, phasing is often used for offices, retail stores, medical suites, and hospitality spaces where downtime directly affects revenue. The tradeoff is that phasing can increase supervision, extend the schedule, and raise labor costs because crews must work around occupied conditions. Successful phased projects depend on early planning, clear communication with staff and tenants, and a realistic schedule for off-hours or weekend work. Owners should also ask whether temporary power, signage, or life-safety measures are needed during each phase. If the space cannot be safely isolated, a full shutdown may actually be faster and less expensive.",
+      "@type": "Answer",
+      "description": "Yes, many commercial projects can be phased so a business stays open, but the plan must protect safety, access, and operations. Phasing often requires temporary partitions, off-hours work, dust control, utility coordination, and inspection sequencing. It works best when the work area can be separated cleanly from customer and employee zones.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phased construction is common when a business cannot fully shut down, but it requires careful planning. The team has to separate active work zones from occupied areas, maintain safe entrances and exits, control dust and noise, and sequence utility shutdowns so operations can continue. In commercial markets like Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, phasing is often used for offices, retail stores, medical suites, and hospitality spaces where downtime directly affects revenue. The tradeoff is that phasing can increase supervision, extend the schedule, and raise labor costs because crews must work around occupied conditions. Successful phased projects depend on early planning, clear communication with staff and tenants, and a realistic schedule for off-hours or weekend work. Owners should also ask whether temporary power, signage, or life-safety measures are needed during each phase. If the space cannot be safely isolated, a full shutdown may actually be faster and less expensive.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many commercial projects can be phased so a business stays open, but the plan must protect safety, access, and operations. Phasing often requires temporary"
+}

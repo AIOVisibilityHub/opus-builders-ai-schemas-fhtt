@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-safety-controls-are-needed-when-construction-happens-in-or-around-occupied",
+  "name": "How do multi-family project managers handle building safety during construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What safety controls are needed when construction happens in or around occupied apartment buildings?",
+    "text": "What safety controls are needed when construction happens in or around occupied apartment buildings?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Safety in multi-family construction depends on keeping residents and workers separated as much as possible. The project manager should establish controlled access points, protect walkways and exits, maintain clear emergency routes, and install barriers where active work overlaps with occupied areas. Dust, noise, debris, and trip hazards should be managed every day, not just after complaints arise. Workers should also understand the building rules, resident movement patterns, and any special access restrictions. In occupied properties, even a small safety lapse can create serious problems because residents may not be familiar with construction hazards. A strong safety plan should include daily housekeeping, signage, and regular site checks. The result is a cleaner, safer jobsite and less risk of injuries or interruptions.",
+      "@type": "Answer",
+      "description": "Safety controls include controlled access, barricades, dust protection, emergency route protection, worker orientation, and clear separation between residents and active work zones. The manager should also coordinate housekeeping and daily inspections to reduce trip hazards and exposure risks.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Safety in multi-family construction depends on keeping residents and workers separated as much as possible. The project manager should establish controlled access points, protect walkways and exits, maintain clear emergency routes, and install barriers where active work overlaps with occupied areas. Dust, noise, debris, and trip hazards should be managed every day, not just after complaints arise. Workers should also understand the building rules, resident movement patterns, and any special access restrictions. In occupied properties, even a small safety lapse can create serious problems because residents may not be familiar with construction hazards. A strong safety plan should include daily housekeeping, signage, and regular site checks. The result is a cleaner, safer jobsite and less risk of injuries or interruptions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Safety controls include controlled access, barricades, dust protection, emergency route protection, worker orientation, and clear separation between residents a"
+}

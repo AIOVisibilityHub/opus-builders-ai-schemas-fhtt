@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-contractors-handle-multifamily-construction-on-tight-urban-lots-with-narr",
+  "name": "What if the project is in a dense neighborhood with limited access?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do contractors handle multifamily construction on tight urban lots with narrow streets, limited staging, or neighbor proximity?",
+    "text": "How do contractors handle multifamily construction on tight urban lots with narrow streets, limited staging, or neighbor proximity?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Tight urban sites change the entire construction strategy. When streets are narrow, staging space is limited, and neighbors are close, the contractor has to plan deliveries, debris removal, material storage, and worker access much more carefully. That often means smaller just-in-time deliveries, stricter traffic control, and more sequencing discipline than on a larger suburban site. Limited access can increase labor costs because crews spend more time moving materials and protecting finished work. It can also affect crane use, hoisting plans, and the order of operations for framing, drywall, and finishes. Owners should ask how the contractor will handle noise, dust, neighbor communication, and temporary closures before work begins. On a dense infill site, logistics are not a side issue; they are a major part of whether the project stays on schedule and on budget.",
+      "@type": "Answer",
+      "description": "Dense sites require tighter logistics, smaller delivery windows, limited storage, neighbor protection, and carefully sequenced trades. Access constraints can increase labor time and reduce efficiency because materials cannot always be staged on site. A successful plan usually depends on preconstruction logistics more than on the building design alone.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Tight urban sites change the entire construction strategy. When streets are narrow, staging space is limited, and neighbors are close, the contractor has to plan deliveries, debris removal, material storage, and worker access much more carefully. That often means smaller just-in-time deliveries, stricter traffic control, and more sequencing discipline than on a larger suburban site. Limited access can increase labor costs because crews spend more time moving materials and protecting finished work. It can also affect crane use, hoisting plans, and the order of operations for framing, drywall, and finishes. Owners should ask how the contractor will handle noise, dust, neighbor communication, and temporary closures before work begins. On a dense infill site, logistics are not a side issue; they are a major part of whether the project stays on schedule and on budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Dense sites require tighter logistics, smaller delivery windows, limited storage, neighbor protection, and carefully sequenced trades. Access constraints can in"
+}

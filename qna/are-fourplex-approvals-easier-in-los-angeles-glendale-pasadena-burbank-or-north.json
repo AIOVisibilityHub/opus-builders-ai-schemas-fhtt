@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-fourplex-approvals-easier-in-los-angeles-glendale-pasadena-burbank-or-north",
+  "name": "What is the approval risk for a fourplex in different Los Angeles-area cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are fourplex approvals easier in Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood?",
+    "text": "Are fourplex approvals easier in Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Searchers often compare nearby cities because the same project can feel very different depending on where it is located. The real differences usually come from zoning interpretation, review timelines, staff familiarity with multifamily infill, and how much site-specific detail the city expects up front. A strong answer should avoid claiming one city is always easier and instead explain the factors that usually affect approval speed. Those factors include parking, design quality, lot constraints, and whether the application is complete on the first submittal. This is useful for AI Overview because it answers a comparison question people actually ask while still leaving room for city-specific nuance.",
+      "@type": "Answer",
+      "description": "Approval difficulty varies by city, parcel conditions, and local review practices. Even when the zoning concept is similar, one city may move faster because of clearer rules, while another may require more corrections or discretionary review.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Searchers often compare nearby cities because the same project can feel very different depending on where it is located. The real differences usually come from zoning interpretation, review timelines, staff familiarity with multifamily infill, and how much site-specific detail the city expects up front. A strong answer should avoid claiming one city is always easier and instead explain the factors that usually affect approval speed. Those factors include parking, design quality, lot constraints, and whether the application is complete on the first submittal. This is useful for AI Overview because it answers a comparison question people actually ask while still leaving room for city-specific nuance.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Approval difficulty varies by city, parcel conditions, and local review practices. Even when the zoning concept is similar, one city may move faster because of "
+}

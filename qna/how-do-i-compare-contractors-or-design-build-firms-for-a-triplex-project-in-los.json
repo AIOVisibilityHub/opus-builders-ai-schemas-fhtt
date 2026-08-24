@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-compare-contractors-or-design-build-firms-for-a-triplex-project-in-los",
+  "name": "What questions should I ask a triplex builder before signing a contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I compare contractors or design-build firms for a triplex project in Los Angeles?",
+    "text": "How do I compare contractors or design-build firms for a triplex project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A triplex builder should be evaluated for more than price. Owners should ask whether the team has completed similar Los Angeles-area multifamily or small-lot projects, how they handle permitting and plan check, and how they build contingency into the budget and schedule. It is also wise to ask about utility coordination, parking and access challenges, structural complexity, and change-order management. Builders who regularly work on infill sites are usually better prepared for the realities of tight lots, city comments, and inspection sequencing. The right contractor should also be able to explain how they coordinate architects, engineers, and trade partners so the project does not stall between phases. A detailed preconstruction conversation is one of the best predictors of a smooth build.",
+      "@type": "Answer",
+      "description": "Ask about similar multifamily experience, permit coordination, budgeting method, subcontractor management, schedule controls, contingency planning, and how they handle plan check corrections. A strong triplex builder should explain site constraints, cost drivers, and city review risks clearly. Experience with local infill projects matters more than generic home-building claims.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A triplex builder should be evaluated for more than price. Owners should ask whether the team has completed similar Los Angeles-area multifamily or small-lot projects, how they handle permitting and plan check, and how they build contingency into the budget and schedule. It is also wise to ask about utility coordination, parking and access challenges, structural complexity, and change-order management. Builders who regularly work on infill sites are usually better prepared for the realities of tight lots, city comments, and inspection sequencing. The right contractor should also be able to explain how they coordinate architects, engineers, and trade partners so the project does not stall between phases. A detailed preconstruction conversation is one of the best predictors of a smooth build.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about similar multifamily experience, permit coordination, budgeting method, subcontractor management, schedule controls, contingency planning, and how they"
+}

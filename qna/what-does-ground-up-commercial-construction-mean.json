@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-does-ground-up-commercial-construction-mean",
+  "name": "What is a commercial ground-up build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What does ground-up commercial construction mean?",
+    "text": "What does ground-up commercial construction mean?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Ground-up commercial construction is the process of creating a new building starting with the site itself. That usually includes grading, foundation work, structural framing, building systems, interior finishes, and all the permitting required to make the building ready for use. It differs from tenant improvement because there is no existing finished space to modify; instead, the team must coordinate the entire building from the start. In Los Angeles-area markets, ground-up work is often more complicated because of zoning, entitlement, utility coordination, and site constraints. For owners and developers, the main advantages are flexibility and long-term performance, but the tradeoff is a longer schedule and greater upfront planning. A strong preconstruction phase is essential because site conditions, utilities, and code requirements can heavily affect the budget. Ground-up projects usually need more detailed consultant coordination than simple remodels or build-outs.",
+      "@type": "Answer",
+      "description": "Ground-up commercial construction means building a new commercial structure from the site and foundation up, rather than renovating an existing building. It usually includes design coordination, permitting, grading, foundations, structural framing, utilities, systems, and finishes. Because everything is built from scratch, the process is typically longer and more complex than a tenant improvement.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Ground-up commercial construction is the process of creating a new building starting with the site itself. That usually includes grading, foundation work, structural framing, building systems, interior finishes, and all the permitting required to make the building ready for use. It differs from tenant improvement because there is no existing finished space to modify; instead, the team must coordinate the entire building from the start. In Los Angeles-area markets, ground-up work is often more complicated because of zoning, entitlement, utility coordination, and site constraints. For owners and developers, the main advantages are flexibility and long-term performance, but the tradeoff is a longer schedule and greater upfront planning. A strong preconstruction phase is essential because site conditions, utilities, and code requirements can heavily affect the budget. Ground-up projects usually need more detailed consultant coordination than simple remodels or build-outs.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up commercial construction means building a new commercial structure from the site and foundation up, rather than renovating an existing building. It usu"
+}

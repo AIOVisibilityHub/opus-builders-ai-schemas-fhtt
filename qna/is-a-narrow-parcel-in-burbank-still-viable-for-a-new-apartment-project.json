@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-narrow-parcel-in-burbank-still-viable-for-a-new-apartment-project",
+  "name": "Can ground-up multifamily development work on a narrow lot in Burbank?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a narrow parcel in Burbank still viable for a new apartment project?",
+    "text": "Is a narrow parcel in Burbank still viable for a new apartment project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A narrow parcel can absolutely be viable in Burbank, but the design must be disciplined. Narrow sites often lose efficiency because stairs, corridors, elevators, and parking consume a larger share of the building. That can reduce rent-producing area and make the project harder to finance. The key question is whether the parcel can support a functional floor plate and a parking layout that does not overtake the site. In some cases, a narrower project works better with smaller units and a simpler massing strategy. In others, the lot is simply too constrained to support the desired return. The only reliable answer comes from a feasibility study that compares several layouts before land is acquired. That study should evaluate code, parking, utility placement, and construction cost together rather than separately.",
+      "@type": "Answer",
+      "description": "A narrow lot can work if the building can still fit circulation, parking, light, and code-required setbacks. The biggest risks are inefficient floor plans and expensive parking solutions. A narrow-site feasibility study should test whether the project can still produce enough rentable area after stairs, elevators, and access are added.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A narrow parcel can absolutely be viable in Burbank, but the design must be disciplined. Narrow sites often lose efficiency because stairs, corridors, elevators, and parking consume a larger share of the building. That can reduce rent-producing area and make the project harder to finance. The key question is whether the parcel can support a functional floor plate and a parking layout that does not overtake the site. In some cases, a narrower project works better with smaller units and a simpler massing strategy. In others, the lot is simply too constrained to support the desired return. The only reliable answer comes from a feasibility study that compares several layouts before land is acquired. That study should evaluate code, parking, utility placement, and construction cost together rather than separately.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A narrow lot can work if the building can still fit circulation, parking, light, and code-required setbacks. The biggest risks are inefficient floor plans and e"
+}

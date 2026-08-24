@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-changes-when-a-triplex-is-planned-on-a-hillside-or-sloped-parcel-in-los-ang",
+  "name": "Can I build a triplex on a hillside lot or sloped site?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What changes when a triplex is planned on a hillside or sloped parcel in Los Angeles or Glendale?",
+    "text": "What changes when a triplex is planned on a hillside or sloped parcel in Los Angeles or Glendale?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside and sloped sites are more complex than flat parcels because the building must work with grade, drainage, retaining walls, and emergency access. Those conditions can increase excavation costs and may require deeper foundations, stepped floor levels, or specialized structural solutions. Sloped sites can also affect driveway slope, garage placement, utility routing, and how much of the lot is actually buildable. In some neighborhoods, hillside rules or grading limits may also require additional review and detailed engineering reports. A triplex on a hillside can still be viable, but the design should be developed around the site’s topography instead of forcing a flat-site layout onto it. Early survey work and geotechnical input are especially valuable on these parcels.",
+      "@type": "Answer",
+      "description": "Hillside and sloped lots usually add grading, retaining walls, drainage, foundation, and access challenges that can significantly change triplex feasibility. They may also trigger additional design review, structural engineering, and fire access requirements. The buildable area can shrink once slope and grade rules are applied.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside and sloped sites are more complex than flat parcels because the building must work with grade, drainage, retaining walls, and emergency access. Those conditions can increase excavation costs and may require deeper foundations, stepped floor levels, or specialized structural solutions. Sloped sites can also affect driveway slope, garage placement, utility routing, and how much of the lot is actually buildable. In some neighborhoods, hillside rules or grading limits may also require additional review and detailed engineering reports. A triplex on a hillside can still be viable, but the design should be developed around the site’s topography instead of forcing a flat-site layout onto it. Early survey work and geotechnical input are especially valuable on these parcels.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hillside and sloped lots usually add grading, retaining walls, drainage, foundation, and access challenges that can significantly change triplex feasibility. Th"
+}

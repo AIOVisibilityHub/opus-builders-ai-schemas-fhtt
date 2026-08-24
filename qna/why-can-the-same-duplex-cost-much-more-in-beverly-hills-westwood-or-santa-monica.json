@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-can-the-same-duplex-cost-much-more-in-beverly-hills-westwood-or-santa-monica",
+  "name": "How do duplex construction costs compare across Los Angeles neighborhoods?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why can the same duplex cost much more in Beverly Hills, Westwood, or Santa Monica than in nearby neighborhoods?",
+    "text": "Why can the same duplex cost much more in Beverly Hills, Westwood, or Santa Monica than in nearby neighborhoods?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The same duplex program can cost very different amounts depending on where it is built. In higher-end neighborhoods, owners often expect more custom architecture, upgraded finishes, better landscaping, stronger sound control, and more careful street presentation. Some areas also present tougher site logistics, stricter design expectations, or added neighborhood sensitivity that can affect permitting and construction sequencing. Even when the floor area is similar, the final budget can rise because of material selection, labor expectations, and the amount of detail required to fit the local market. Access also matters; a tight lot or busy street can make staging and deliveries more difficult, which increases labor time. This is why a neighborhood-specific budget is more useful than a generic citywide average. A good estimate should reflect both the site conditions and the target product type, not just the raw square footage.",
+      "@type": "Answer",
+      "description": "Costs vary by neighborhood because of labor expectations, design standards, access constraints, permit complexity, and the quality level expected in the market. Premium areas often require more custom architecture and higher-end finishes, which can raise the total budget quickly. Local conditions matter as much as square footage.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The same duplex program can cost very different amounts depending on where it is built. In higher-end neighborhoods, owners often expect more custom architecture, upgraded finishes, better landscaping, stronger sound control, and more careful street presentation. Some areas also present tougher site logistics, stricter design expectations, or added neighborhood sensitivity that can affect permitting and construction sequencing. Even when the floor area is similar, the final budget can rise because of material selection, labor expectations, and the amount of detail required to fit the local market. Access also matters; a tight lot or busy street can make staging and deliveries more difficult, which increases labor time. This is why a neighborhood-specific budget is more useful than a generic citywide average. A good estimate should reflect both the site conditions and the target product type, not just the raw square footage.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Costs vary by neighborhood because of labor expectations, design standards, access constraints, permit complexity, and the quality level expected in the market."
+}

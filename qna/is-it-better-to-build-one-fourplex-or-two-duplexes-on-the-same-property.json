@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-better-to-build-one-fourplex-or-two-duplexes-on-the-same-property",
+  "name": "Should I build a fourplex or two duplexes instead?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it better to build one fourplex or two duplexes on the same property?",
+    "text": "Is it better to build one fourplex or two duplexes on the same property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "This comparison comes up when owners are trying to maximize value without creating an overly complicated building. A fourplex can often use land, foundations, and utility systems more efficiently than two separate duplex structures. Two duplexes may offer more flexibility in phasing, selling, or configuring private entries, but they can also increase site coverage, duplicate systems, and reduce usable open space. The right answer depends on whether the owner wants long-term rental income, condo-style ownership, or a simpler construction sequence. A strong page should compare cost per unit, approval complexity, parking, privacy, and future resale strategy. That gives searchers a decision framework instead of a generic recommendation.",
+      "@type": "Answer",
+      "description": "The better choice depends on zoning, financing, site efficiency, and how much privacy or unit separation you want. A fourplex often uses land more efficiently, while two duplexes can sometimes be easier to phase, sell, or finance.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "This comparison comes up when owners are trying to maximize value without creating an overly complicated building. A fourplex can often use land, foundations, and utility systems more efficiently than two separate duplex structures. Two duplexes may offer more flexibility in phasing, selling, or configuring private entries, but they can also increase site coverage, duplicate systems, and reduce usable open space. The right answer depends on whether the owner wants long-term rental income, condo-style ownership, or a simpler construction sequence. A strong page should compare cost per unit, approval complexity, parking, privacy, and future resale strategy. That gives searchers a decision framework instead of a generic recommendation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The better choice depends on zoning, financing, site efficiency, and how much privacy or unit separation you want. A fourplex often uses land more efficiently, "
+}

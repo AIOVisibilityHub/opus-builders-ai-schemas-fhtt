@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-important-questions-to-ask-a-builder-or-designer-before-starti",
+  "name": "What should owners ask before starting a multi-unit build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most important questions to ask a builder or designer before starting a multifamily construction project?",
+    "text": "What are the most important questions to ask a builder or designer before starting a multifamily construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before starting a multifamily project, owners should ask questions that reveal feasibility, cost, and risk. The most important topics are what the lot can actually support, what approvals will be needed, how parking and access will be handled, and whether utilities can support the proposed unit count. Owners should also ask for a complete budget, not just a construction number, and find out what is excluded. Timelines matter too, especially when permitting, procurement, and inspection milestones affect financing. It is also smart to ask how the team manages design coordination, change orders, and long-lead items. Good answers should be specific to the parcel and the project type, not generic promises. If the contractor or designer cannot explain the main risks clearly, that is usually a warning sign. The best early conversations are direct, technical, and tied to the real conditions of the site.",
+      "@type": "Answer",
+      "description": "Ask what fits on the lot, what approvals are needed, what the full budget includes, how long permitting will take, what utility upgrades are expected, and what could change the schedule. Also ask how the team handles design coordination and cost overruns. Clear answers early usually predict fewer surprises later.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before starting a multifamily project, owners should ask questions that reveal feasibility, cost, and risk. The most important topics are what the lot can actually support, what approvals will be needed, how parking and access will be handled, and whether utilities can support the proposed unit count. Owners should also ask for a complete budget, not just a construction number, and find out what is excluded. Timelines matter too, especially when permitting, procurement, and inspection milestones affect financing. It is also smart to ask how the team manages design coordination, change orders, and long-lead items. Good answers should be specific to the parcel and the project type, not generic promises. If the contractor or designer cannot explain the main risks clearly, that is usually a warning sign. The best early conversations are direct, technical, and tied to the real conditions of the site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask what fits on the lot, what approvals are needed, what the full budget includes, how long permitting will take, what utility upgrades are expected, and what "
+}

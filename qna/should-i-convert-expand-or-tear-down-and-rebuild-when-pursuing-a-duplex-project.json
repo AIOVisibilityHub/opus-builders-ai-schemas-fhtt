@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-convert-expand-or-tear-down-and-rebuild-when-pursuing-a-duplex-project",
+  "name": "How do I tell if duplex construction is better than a full rebuild?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I convert, expand, or tear down and rebuild when pursuing a duplex project?",
+    "text": "Should I convert, expand, or tear down and rebuild when pursuing a duplex project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best option depends on the condition of the existing structure and the project’s end goal. If the house has a good footprint, decent structural capacity, and a layout that can be adapted efficiently, a conversion or expansion may be the most cost-effective path. If the building is outdated, damaged, poorly configured, or too constrained for a legal two-unit layout, a tear-down and rebuild may deliver better value. Owners should compare the cost of structural upgrades, fire separation, seismic work, utility modernization, and layout inefficiencies against the cost of starting fresh. A rebuild usually gives more freedom and can produce a higher-quality duplex, but it also involves more disruption and potentially higher upfront expense. The right decision comes from a side-by-side feasibility and cost comparison. Sentiment about saving the original house should not outweigh the numbers when the goal is a successful duplex.",
+      "@type": "Answer",
+      "description": "A full rebuild is often better when the existing home has poor layout, major structural limits, or expensive code upgrade issues. Conversion or expansion can make more sense when the current structure is sound and already close to the desired footprint. The decision should be based on feasibility, not sentiment.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best option depends on the condition of the existing structure and the project’s end goal. If the house has a good footprint, decent structural capacity, and a layout that can be adapted efficiently, a conversion or expansion may be the most cost-effective path. If the building is outdated, damaged, poorly configured, or too constrained for a legal two-unit layout, a tear-down and rebuild may deliver better value. Owners should compare the cost of structural upgrades, fire separation, seismic work, utility modernization, and layout inefficiencies against the cost of starting fresh. A rebuild usually gives more freedom and can produce a higher-quality duplex, but it also involves more disruption and potentially higher upfront expense. The right decision comes from a side-by-side feasibility and cost comparison. Sentiment about saving the original house should not outweigh the numbers when the goal is a successful duplex.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A full rebuild is often better when the existing home has poor layout, major structural limits, or expensive code upgrade issues. Conversion or expansion can ma"
+}

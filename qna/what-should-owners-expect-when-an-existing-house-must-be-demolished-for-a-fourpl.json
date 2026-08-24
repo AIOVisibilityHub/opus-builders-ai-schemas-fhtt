@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-owners-expect-when-an-existing-house-must-be-demolished-for-a-fourpl",
+  "name": "How do fourplex projects handle demolition and lot clearing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should owners expect when an existing house must be demolished for a fourplex build?",
+    "text": "What should owners expect when an existing house must be demolished for a fourplex build?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many fourplex projects start with an existing single-family house or older structure that has to come down first. Searchers need to know that demolition is not just a quick teardown. It can require utility coordination, asbestos or hazardous-material review, temporary site protection, and debris disposal planning. If the lot is tight, the demolition plan also needs to protect neighboring structures and preserve access for excavation and construction. A strong page should explain that clearing the site early and correctly can prevent downstream delays. That practical guidance is more useful than simply saying demolition is part of the project.",
+      "@type": "Answer",
+      "description": "Demolition can add permitting, utility disconnects, hauling, environmental checks, and timing coordination before vertical construction begins. On Los Angeles infill sites, clearing the lot is often a separate project phase with its own risks and costs.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many fourplex projects start with an existing single-family house or older structure that has to come down first. Searchers need to know that demolition is not just a quick teardown. It can require utility coordination, asbestos or hazardous-material review, temporary site protection, and debris disposal planning. If the lot is tight, the demolition plan also needs to protect neighboring structures and preserve access for excavation and construction. A strong page should explain that clearing the site early and correctly can prevent downstream delays. That practical guidance is more useful than simply saying demolition is part of the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Demolition can add permitting, utility disconnects, hauling, environmental checks, and timing coordination before vertical construction begins. On Los Angeles i"
+}

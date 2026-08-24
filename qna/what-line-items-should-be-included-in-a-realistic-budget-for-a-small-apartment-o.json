@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-line-items-should-be-included-in-a-realistic-budget-for-a-small-apartment-o",
+  "name": "What should be included in a multifamily construction budget estimate?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What line items should be included in a realistic budget for a small apartment or duplex project in Los Angeles?",
+    "text": "What line items should be included in a realistic budget for a small apartment or duplex project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A useful multifamily budget should show the full project, not just the shell and interiors. Core line items include demolition, site clearing, surveying, geotechnical testing, architecture, structural and civil engineering, permit fees, grading, foundations, framing, roofing, windows, MEP systems, insulation, drywall, finishes, landscaping, and utility upgrades. Owners should also include insurance, temporary site protection, supervision, contingency, lender carry costs, and any off-site improvements required by the city or utility providers. If the project includes higher-end finishes, the budget should clearly separate base scope from optional upgrades so the owner can see where value is being added. A budget is only reliable if it reflects the actual site conditions and the real approval path. Thin estimates often ignore soft costs, and those omissions are usually what cause overruns later. The cleanest budget is one that connects every cost item to a specific design or site condition.",
+      "@type": "Answer",
+      "description": "A realistic budget should include demolition, design, surveying, engineering, permits, grading, foundations, framing, MEP systems, finishes, landscaping, utility work, insurance, contingency, and financing carry costs. It should also separate owner upgrades from base scope. If the estimate leaves out site work or soft costs, it is usually incomplete.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A useful multifamily budget should show the full project, not just the shell and interiors. Core line items include demolition, site clearing, surveying, geotechnical testing, architecture, structural and civil engineering, permit fees, grading, foundations, framing, roofing, windows, MEP systems, insulation, drywall, finishes, landscaping, and utility upgrades. Owners should also include insurance, temporary site protection, supervision, contingency, lender carry costs, and any off-site improvements required by the city or utility providers. If the project includes higher-end finishes, the budget should clearly separate base scope from optional upgrades so the owner can see where value is being added. A budget is only reliable if it reflects the actual site conditions and the real approval path. Thin estimates often ignore soft costs, and those omissions are usually what cause overruns later. The cleanest budget is one that connects every cost item to a specific design or site condition.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A realistic budget should include demolition, design, surveying, engineering, permits, grading, foundations, framing, MEP systems, finishes, landscaping, utilit"
+}

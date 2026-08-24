@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-is-multi-family-project-management-different-from-a-general-contractor-on-ap",
+  "name": "What is the difference between multi-family project management and general contracting?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is multi-family project management different from a general contractor on apartment or condo projects?",
+    "text": "How is multi-family project management different from a general contractor on apartment or condo projects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "General contracting and project management overlap, but they are not the same. A general contractor is responsible for building the work in the field, hiring trades, and managing day-to-day construction execution. Multi-family project management sits above that layer and coordinates scope, schedule, communication, budgeting, procurement, inspections, and stakeholder alignment. On apartment, condo, and mixed-use properties, that distinction matters because the project may involve residents, property management, building systems, phasing, and strict access rules. A project manager helps avoid gaps between ownership goals and field execution, especially when multiple units, floors, or building components are being worked on at once. The most effective teams combine both functions, so there is one group accountable for construction quality and project coordination. For Los Angeles-area properties, that can be especially valuable where access, parking, and neighbor impact can affect the schedule.",
+      "@type": "Answer",
+      "description": "A general contractor executes the construction work, while a multi-family project manager coordinates planning, sequencing, communication, logistics, and risk across the whole project. On larger or occupied properties, project management focuses on keeping trades aligned, residents informed, and deadlines realistic while the contractor handles field execution.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "General contracting and project management overlap, but they are not the same. A general contractor is responsible for building the work in the field, hiring trades, and managing day-to-day construction execution. Multi-family project management sits above that layer and coordinates scope, schedule, communication, budgeting, procurement, inspections, and stakeholder alignment. On apartment, condo, and mixed-use properties, that distinction matters because the project may involve residents, property management, building systems, phasing, and strict access rules. A project manager helps avoid gaps between ownership goals and field execution, especially when multiple units, floors, or building components are being worked on at once. The most effective teams combine both functions, so there is one group accountable for construction quality and project coordination. For Los Angeles-area properties, that can be especially valuable where access, parking, and neighbor impact can affect the schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A general contractor executes the construction work, while a multi-family project manager coordinates planning, sequencing, communication, logistics, and risk a"
+}

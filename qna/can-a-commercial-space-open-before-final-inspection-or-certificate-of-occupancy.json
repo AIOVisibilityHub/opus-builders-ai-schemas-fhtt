@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-commercial-space-open-before-final-inspection-or-certificate-of-occupancy",
+  "name": "Can I open a business before final inspection in California?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a commercial space open before final inspection or certificate of occupancy is approved?",
+    "text": "Can a commercial space open before final inspection or certificate of occupancy is approved?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether a business can open before final inspection depends on the permit status, the city’s rules, and whether the space has passed the required life-safety, fire, and accessibility inspections. In many cases, occupancy is not allowed until the final approvals are complete. Some jurisdictions may allow limited phased use or temporary occupancy for portions of a project, but that is highly conditional and usually requires clean inspection progress, approved systems, and minimal unresolved items. For commercial projects in Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, owners should not assume a soft opening is allowed just because construction is nearly done. It is safer to confirm the exact occupancy conditions with the permitting team early, especially for restaurants, medical offices, and spaces with public access. If the goal is to start generating revenue quickly, the construction schedule should be planned backward from occupancy readiness, not just substantial completion.",
+      "@type": "Answer",
+      "description": "A commercial space generally should not open for public use until the required final approvals and occupancy clearance are in place. Some projects may be allowed to use a space in phases or under limited temporary approval, but that depends on the city, permit status, and the specific scope of work. Operating too early can trigger shutdowns or reinspection.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether a business can open before final inspection depends on the permit status, the city’s rules, and whether the space has passed the required life-safety, fire, and accessibility inspections. In many cases, occupancy is not allowed until the final approvals are complete. Some jurisdictions may allow limited phased use or temporary occupancy for portions of a project, but that is highly conditional and usually requires clean inspection progress, approved systems, and minimal unresolved items. For commercial projects in Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, owners should not assume a soft opening is allowed just because construction is nearly done. It is safer to confirm the exact occupancy conditions with the permitting team early, especially for restaurants, medical offices, and spaces with public access. If the goal is to start generating revenue quickly, the construction schedule should be planned backward from occupancy readiness, not just substantial completion.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A commercial space generally should not open for public use until the required final approvals and occupancy clearance are in place. Some projects may be allowe"
+}

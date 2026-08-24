@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-an-owner-estimate-rental-income-for-a-new-duplex-or-apartment-project",
+  "name": "How do you estimate rent potential before building a multi-unit property?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should an owner estimate rental income for a new duplex or apartment project before construction starts?",
+    "text": "How should an owner estimate rental income for a new duplex or apartment project before construction starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Rental projections should be built from comparable properties, not optimistic assumptions. Owners should compare nearby units with similar bedroom mix, square footage, parking, finish level, outdoor space, and neighborhood character. A new building may command a premium if it offers modern design, better layout efficiency, and lower maintenance, but that premium should be estimated conservatively. It is also important to subtract realistic vacancy, operating expenses, and leasing time so the projection reflects net performance rather than just asking rent. In multifamily construction, unit mix matters as much as total square footage because a well-designed one-bedroom may outperform a poorly planned larger unit. Owners should also account for market changes during the construction period, especially if the project will not deliver for many months or years. A strong rent estimate helps determine whether the project size, finish level, and parking strategy actually make financial sense.",
+      "@type": "Answer",
+      "description": "Estimate rent using comparable nearby units with similar size, finishes, parking, and location, then adjust for unit mix, amenities, and current market conditions. A project should be modeled conservatively because planned finishes do not always achieve the highest market rents. Rent assumptions should be tested against vacancy and operating costs, not just top-line asking rents.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Rental projections should be built from comparable properties, not optimistic assumptions. Owners should compare nearby units with similar bedroom mix, square footage, parking, finish level, outdoor space, and neighborhood character. A new building may command a premium if it offers modern design, better layout efficiency, and lower maintenance, but that premium should be estimated conservatively. It is also important to subtract realistic vacancy, operating expenses, and leasing time so the projection reflects net performance rather than just asking rent. In multifamily construction, unit mix matters as much as total square footage because a well-designed one-bedroom may outperform a poorly planned larger unit. Owners should also account for market changes during the construction period, especially if the project will not deliver for many months or years. A strong rent estimate helps determine whether the project size, finish level, and parking strategy actually make financial sense.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Estimate rent using comparable nearby units with similar size, finishes, parking, and location, then adjust for unit mix, amenities, and current market conditio"
+}

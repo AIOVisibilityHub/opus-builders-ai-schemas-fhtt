@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-common-mistakes-that-cause-duplex-construction-delays-cost-ove",
+  "name": "What are the biggest mistakes people make on duplex projects?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common mistakes that cause duplex construction delays, cost overruns, or redesigns?",
+    "text": "What are the most common mistakes that cause duplex construction delays, cost overruns, or redesigns?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most duplex problems start before construction begins. Owners often rush into design without confirming zoning, setbacks, parking, or site access, then discover that the concept does not actually fit the parcel. Another common mistake is budgeting only for the building shell and forgetting soft costs, utility work, grading, and contingency. Many projects also suffer when the layout is designed for aesthetics instead of code compliance and livability. Late changes are expensive, especially after engineering and permitting are already underway. Choosing a builder without duplex experience can also create delays because these projects involve coordination across architecture, structure, utilities, and inspections. The best way to avoid mistakes is to verify feasibility first, then design around the site’s real constraints, and keep a contingency for surprises. A disciplined preconstruction process usually saves much more money than it costs.",
+      "@type": "Answer",
+      "description": "The biggest mistakes are skipping feasibility, underestimating site constraints, ignoring utility upgrades, and designing without a real buildable envelope. Other common problems include weak budget contingency, late permitting changes, and choosing a layout that looks good on paper but fails in practice. Early due diligence prevents most of these issues.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most duplex problems start before construction begins. Owners often rush into design without confirming zoning, setbacks, parking, or site access, then discover that the concept does not actually fit the parcel. Another common mistake is budgeting only for the building shell and forgetting soft costs, utility work, grading, and contingency. Many projects also suffer when the layout is designed for aesthetics instead of code compliance and livability. Late changes are expensive, especially after engineering and permitting are already underway. Choosing a builder without duplex experience can also create delays because these projects involve coordination across architecture, structure, utilities, and inspections. The best way to avoid mistakes is to verify feasibility first, then design around the site’s real constraints, and keep a contingency for surprises. A disciplined preconstruction process usually saves much more money than it costs.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest mistakes are skipping feasibility, underestimating site constraints, ignoring utility upgrades, and designing without a real buildable envelope. Oth"
+}

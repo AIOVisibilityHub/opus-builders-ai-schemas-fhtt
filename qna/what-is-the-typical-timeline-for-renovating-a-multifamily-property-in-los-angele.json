@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-typical-timeline-for-renovating-a-multifamily-property-in-los-angele",
+  "name": "How long does a multifamily renovation take in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the typical timeline for renovating a multifamily property in Los Angeles by unit count and scope?",
+    "text": "What is the typical timeline for renovating a multifamily property in Los Angeles by unit count and scope?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The timeline is driven more by scope and occupancy than by unit count alone. A simple turnover unit may be completed in days or a few weeks. A phased renovation across multiple occupied units can stretch into several months because crews must coordinate access, inspections, and noise restrictions. Full-property renovations involving plumbing, electrical, HVAC, or structural changes can extend much longer, especially if permits, plan checks, or tenant habitability steps are involved. In Los Angeles, older buildings often uncover hidden issues that add time, such as asbestos, deteriorated plumbing, or noncompliant electrical systems. Owners should build schedule slack for approvals, material lead times, and tenant move-out coordination.",
+      "@type": "Answer",
+      "description": "A multifamily renovation in Los Angeles can take a few weeks for a single unit turnover, several months for a building-wide cosmetic refresh, and 3 to 12 months or longer for deeper renovations. Timeline depends on permit approval, occupancy, scope size, utility upgrades, and whether work is phased around tenants.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The timeline is driven more by scope and occupancy than by unit count alone. A simple turnover unit may be completed in days or a few weeks. A phased renovation across multiple occupied units can stretch into several months because crews must coordinate access, inspections, and noise restrictions. Full-property renovations involving plumbing, electrical, HVAC, or structural changes can extend much longer, especially if permits, plan checks, or tenant habitability steps are involved. In Los Angeles, older buildings often uncover hidden issues that add time, such as asbestos, deteriorated plumbing, or noncompliant electrical systems. Owners should build schedule slack for approvals, material lead times, and tenant move-out coordination.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A multifamily renovation in Los Angeles can take a few weeks for a single unit turnover, several months for a building-wide cosmetic refresh, and 3 to 12 months"
+}

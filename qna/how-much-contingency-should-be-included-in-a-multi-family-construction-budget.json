@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-contingency-should-be-included-in-a-multi-family-construction-budget",
+  "name": "How do you budget contingency for a multi-family project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much contingency should be included in a multi-family construction budget?",
+    "text": "How much contingency should be included in a multi-family construction budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Contingency is one of the most important parts of a multi-family budget because these projects often uncover surprises after work begins. The amount should reflect how well the scope is defined, the age and condition of the property, and whether the building is occupied or being renovated in phases. Older buildings usually need more contingency because hidden plumbing, electrical, waterproofing, or structural issues are more likely. Projects with incomplete design documents also need a larger cushion because changes are more likely during construction. A project manager should help the owner separate contingency for unknown existing conditions from contingency for owner-driven changes. That makes it easier to track where money is going and whether the project is still on target. In practice, the best contingency plan is one that is realistic, clearly tracked, and not treated as extra spending money.",
+      "@type": "Answer",
+      "description": "Contingency depends on age of building, scope, occupancy, and how complete the plans are. Older buildings, remodels, and projects with uncertain existing conditions usually need a larger contingency because hidden issues and design changes are more likely.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Contingency is one of the most important parts of a multi-family budget because these projects often uncover surprises after work begins. The amount should reflect how well the scope is defined, the age and condition of the property, and whether the building is occupied or being renovated in phases. Older buildings usually need more contingency because hidden plumbing, electrical, waterproofing, or structural issues are more likely. Projects with incomplete design documents also need a larger cushion because changes are more likely during construction. A project manager should help the owner separate contingency for unknown existing conditions from contingency for owner-driven changes. That makes it easier to track where money is going and whether the project is still on target. In practice, the best contingency plan is one that is realistic, clearly tracked, and not treated as extra spending money.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Contingency depends on age of building, scope, occupancy, and how complete the plans are. Older buildings, remodels, and projects with uncertain existing condit"
+}

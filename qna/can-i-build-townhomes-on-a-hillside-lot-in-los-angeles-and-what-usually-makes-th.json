@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-build-townhomes-on-a-hillside-lot-in-los-angeles-and-what-usually-makes-th",
+  "name": "Can I build townhomes on a hillside lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I build townhomes on a hillside lot in Los Angeles, and what usually makes the project fail?",
+    "text": "Can I build townhomes on a hillside lot in Los Angeles, and what usually makes the project fail?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside townhome construction is possible, but it is one of the most challenging project types in the Los Angeles area. Slope, soil conditions, retaining walls, access for equipment, drainage control, and geotechnical requirements can all affect feasibility. A site that seems large enough on paper may only support a limited unit count once the engineering constraints are applied. Hillside projects also tend to trigger more technical review and a larger contingency because foundations and site stabilization can change dramatically after soils and grading studies. The most common reasons these projects fail are unrealistic unit count assumptions, underestimating grading costs, and designing too much structure before the site is tested. The best next step is a preliminary civil and geotechnical review before committing to a full design. That will show whether the lot can support safe, code-compliant development at a reasonable cost.",
+      "@type": "Answer",
+      "description": "Yes, hillside townhome projects are possible, but they often face higher costs, stricter grading limits, retaining wall requirements, drainage issues, and longer review times. A steep site can reduce the number of units that fit and make foundations significantly more expensive.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside townhome construction is possible, but it is one of the most challenging project types in the Los Angeles area. Slope, soil conditions, retaining walls, access for equipment, drainage control, and geotechnical requirements can all affect feasibility. A site that seems large enough on paper may only support a limited unit count once the engineering constraints are applied. Hillside projects also tend to trigger more technical review and a larger contingency because foundations and site stabilization can change dramatically after soils and grading studies. The most common reasons these projects fail are unrealistic unit count assumptions, underestimating grading costs, and designing too much structure before the site is tested. The best next step is a preliminary civil and geotechnical review before committing to a full design. That will show whether the lot can support safe, code-compliant development at a reasonable cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, hillside townhome projects are possible, but they often face higher costs, stricter grading limits, retaining wall requirements, drainage issues, and longe"
+}

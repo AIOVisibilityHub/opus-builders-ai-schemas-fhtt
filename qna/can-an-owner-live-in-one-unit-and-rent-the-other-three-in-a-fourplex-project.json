@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-owner-live-in-one-unit-and-rent-the-other-three-in-a-fourplex-project",
+  "name": "Can you build a fourplex as an owner-occupant?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an owner live in one unit and rent the other three in a fourplex project?",
+    "text": "Can an owner live in one unit and rent the other three in a fourplex project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "This is a common intent because some owners want to reduce carrying costs while building long-term wealth. The key issues are whether the project’s financing supports owner-occupancy, whether the unit mix works for the owner’s needs, and whether the site design gives the primary unit enough privacy. Searchers also need to know that owner-occupant plans can influence how they think about parking, entries, outdoor space, and noise separation. A useful page should explain that living in one unit can be a practical strategy, but it still requires the same permitting, construction coordination, and quality control as a pure investment project. The answer should also encourage owners to plan for future resale or refinancing from the beginning.",
+      "@type": "Answer",
+      "description": "Yes, in many cases an owner can live in one unit and rent the others, but the financing, design, and permit strategy should be set up with that use in mind. Owner-occupant projects can affect loan terms and unit mix.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "This is a common intent because some owners want to reduce carrying costs while building long-term wealth. The key issues are whether the project’s financing supports owner-occupancy, whether the unit mix works for the owner’s needs, and whether the site design gives the primary unit enough privacy. Searchers also need to know that owner-occupant plans can influence how they think about parking, entries, outdoor space, and noise separation. A useful page should explain that living in one unit can be a practical strategy, but it still requires the same permitting, construction coordination, and quality control as a pure investment project. The answer should also encourage owners to plan for future resale or refinancing from the beginning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, in many cases an owner can live in one unit and rent the others, but the financing, design, and permit strategy should be set up with that use in mind. Own"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/where-does-a-fourplex-stop-being-a-fourplex-and-become-a-small-apartment-buildin",
+  "name": "What is the difference between a fourplex and a small apartment building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Where does a fourplex stop being a fourplex and become a small apartment building?",
+    "text": "Where does a fourplex stop being a fourplex and become a small apartment building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Searchers ask this because terminology affects how they research zoning, financing, and design requirements. In practice, a fourplex can function like a small apartment building, but the project may still be discussed differently depending on city rules and ownership intent. A useful answer should focus on how unit count, common areas, parking, and code requirements influence the project rather than only on labels. Owners often care about whether the project is simpler to finance, easier to manage, or more attractive for resale if it stays clearly within a four-unit format. A strong page should clarify the distinction without becoming overly technical, since the user usually wants to know how the project will be treated in the real world.",
+      "@type": "Answer",
+      "description": "A fourplex is generally a residential building with four dwelling units, while a small apartment building may use the same basic construction type but a different ownership, management, or code classification context. The exact distinction can affect design, financing, and approval approach.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Searchers ask this because terminology affects how they research zoning, financing, and design requirements. In practice, a fourplex can function like a small apartment building, but the project may still be discussed differently depending on city rules and ownership intent. A useful answer should focus on how unit count, common areas, parking, and code requirements influence the project rather than only on labels. Owners often care about whether the project is simpler to finance, easier to manage, or more attractive for resale if it stays clearly within a four-unit format. A strong page should clarify the distinction without becoming overly technical, since the user usually wants to know how the project will be treated in the real world.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A fourplex is generally a residential building with four dwelling units, while a small apartment building may use the same basic construction type but a differe"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-control-change-orders-when-scope-shifts-during-apartment",
+  "name": "How do you manage change orders on multi-family projects?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to control change orders when scope shifts during apartment or condo construction?",
+    "text": "What is the best way to control change orders when scope shifts during apartment or condo construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders are one of the fastest ways for a multi-family project to lose budget control. The project manager should create a formal process so every change is documented, priced, reviewed, and approved before the work starts. That process should also explain whether the change is due to owner preference, design revision, hidden site conditions, or an unforeseen field issue. Clear categorization makes it easier to track cost impact and schedule impact separately. If the change affects other trades or inspections, the manager should update the schedule immediately so no one is surprised later. In occupied projects, even a small change can affect access, sequencing, or resident communication. The goal is not to avoid all changes, but to handle them in a disciplined way so the project stays transparent and controlled.",
+      "@type": "Answer",
+      "description": "Change orders should be documented, priced, approved, and scheduled before the work proceeds. A good process keeps the owner informed, separates scope changes from hidden conditions, and prevents small adjustments from turning into budget and timeline problems.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders are one of the fastest ways for a multi-family project to lose budget control. The project manager should create a formal process so every change is documented, priced, reviewed, and approved before the work starts. That process should also explain whether the change is due to owner preference, design revision, hidden site conditions, or an unforeseen field issue. Clear categorization makes it easier to track cost impact and schedule impact separately. If the change affects other trades or inspections, the manager should update the schedule immediately so no one is surprised later. In occupied projects, even a small change can affect access, sequencing, or resident communication. The goal is not to avoid all changes, but to handle them in a disciplined way so the project stays transparent and controlled.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Change orders should be documented, priced, approved, and scheduled before the work proceeds. A good process keeps the owner informed, separates scope changes f"
+}

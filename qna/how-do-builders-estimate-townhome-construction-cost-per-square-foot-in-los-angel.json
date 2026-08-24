@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-builders-estimate-townhome-construction-cost-per-square-foot-in-los-angel",
+  "name": "How do you estimate townhome construction cost per square foot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do builders estimate townhome construction cost per square foot in Los Angeles?",
+    "text": "How do builders estimate townhome construction cost per square foot in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A reliable cost estimate starts with a full project breakdown, not just a single square-foot number. Hard costs include framing, foundations, roofing, finishes, labor, and subcontractor work. Soft costs include design, engineering, surveys, plan check, permits, and consultant fees. Townhome projects also need sitework, utility connections, grading, landscaping, and contingency for unknowns. In Los Angeles, the same square-foot size can cost very differently depending on whether the site is flat or hillside, whether parking is surface or tucked under, and whether the architecture is simple or custom. The best way to estimate is to compare the project against a recent local benchmark, then adjust for site complexity and finish level. If the estimate does not separate structure, site improvements, and approvals, it will almost always understate the true budget.",
+      "@type": "Answer",
+      "description": "Cost per square foot is estimated by combining hard construction costs, sitework, soft costs, permit fees, and contingency, then dividing by the total buildable square footage. For townhomes, site conditions and common areas can make square-foot pricing misleading if used alone.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A reliable cost estimate starts with a full project breakdown, not just a single square-foot number. Hard costs include framing, foundations, roofing, finishes, labor, and subcontractor work. Soft costs include design, engineering, surveys, plan check, permits, and consultant fees. Townhome projects also need sitework, utility connections, grading, landscaping, and contingency for unknowns. In Los Angeles, the same square-foot size can cost very differently depending on whether the site is flat or hillside, whether parking is surface or tucked under, and whether the architecture is simple or custom. The best way to estimate is to compare the project against a recent local benchmark, then adjust for site complexity and finish level. If the estimate does not separate structure, site improvements, and approvals, it will almost always understate the true budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Cost per square foot is estimated by combining hard construction costs, sitework, soft costs, permit fees, and contingency, then dividing by the total buildable"
+}

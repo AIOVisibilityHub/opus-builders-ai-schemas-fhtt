@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-design-build-better-than-hiring-separate-architect-and-contractor-teams-for-t",
+  "name": "Should I use a design-build contractor for townhomes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is design-build better than hiring separate architect and contractor teams for townhome construction?",
+    "text": "Is design-build better than hiring separate architect and contractor teams for townhome construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build is often a smart model for townhome construction because it ties the design to real construction costs and scheduling from the start. That can reduce redesign cycles, avoid drawings that are impractical to build, and help keep the project aligned with budget. It is especially useful when the site is constrained, the unit count is sensitive to code interpretation, or the owner wants one team accountable for both planning and execution. The main advantage is speed and coordination. The main risk is choosing a team that promises too much before the site is fully understood. Before committing, the owner should ask for recent comparable projects, a clear preconstruction process, and a budget that separates allowances from firm pricing. For complex Los Angeles-area townhome projects, design-build can be a major advantage if the team is experienced with local approvals and site conditions.",
+      "@type": "Answer",
+      "description": "Design-build can reduce coordination gaps because one team handles design and construction together. It is often a strong fit for townhome projects that need tight cost control, fast iteration, and early constructability feedback.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build is often a smart model for townhome construction because it ties the design to real construction costs and scheduling from the start. That can reduce redesign cycles, avoid drawings that are impractical to build, and help keep the project aligned with budget. It is especially useful when the site is constrained, the unit count is sensitive to code interpretation, or the owner wants one team accountable for both planning and execution. The main advantage is speed and coordination. The main risk is choosing a team that promises too much before the site is fully understood. Before committing, the owner should ask for recent comparable projects, a clear preconstruction process, and a budget that separates allowances from firm pricing. For complex Los Angeles-area townhome projects, design-build can be a major advantage if the team is experienced with local approvals and site conditions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build can reduce coordination gaps because one team handles design and construction together. It is often a strong fit for townhome projects that need ti"
+}

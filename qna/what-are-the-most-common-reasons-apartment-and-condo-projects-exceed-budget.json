@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-common-reasons-apartment-and-condo-projects-exceed-budget",
+  "name": "What problems cause multi-family projects to go over budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common reasons apartment and condo projects exceed budget?",
+    "text": "What are the most common reasons apartment and condo projects exceed budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Budget overruns usually happen when the scope is not fully defined before work starts. Multi-family projects are especially vulnerable to hidden conditions behind walls, outdated systems, water damage, code-related upgrades, and owner-requested changes during construction. Poor coordination between design, estimating, and field execution can also create gaps that lead to change orders. In busy markets like Los Angeles, long lead-time materials and schedule delays can add labor costs quickly. The best way to control budget risk is to lock the scope early, build realistic contingencies, and track selections and approvals before procurement begins. A strong project manager will also monitor trade overlaps, inspection timing, and rework risk. If the property is occupied, the cost of access issues and tenant-related delays should be included in the budget plan. Clear communication and disciplined decision-making are usually the difference between a controlled project and a costly one.",
+      "@type": "Answer",
+      "description": "The most common budget overruns come from hidden site conditions, incomplete scope, change orders, delayed decisions, rework, material escalation, and poor trade coordination. In occupied or older buildings, unexpected plumbing, electrical, waterproofing, or structural issues often create the biggest cost spikes.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Budget overruns usually happen when the scope is not fully defined before work starts. Multi-family projects are especially vulnerable to hidden conditions behind walls, outdated systems, water damage, code-related upgrades, and owner-requested changes during construction. Poor coordination between design, estimating, and field execution can also create gaps that lead to change orders. In busy markets like Los Angeles, long lead-time materials and schedule delays can add labor costs quickly. The best way to control budget risk is to lock the scope early, build realistic contingencies, and track selections and approvals before procurement begins. A strong project manager will also monitor trade overlaps, inspection timing, and rework risk. If the property is occupied, the cost of access issues and tenant-related delays should be included in the budget plan. Clear communication and disciplined decision-making are usually the difference between a controlled project and a costly one.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common budget overruns come from hidden site conditions, incomplete scope, change orders, delayed decisions, rework, material escalation, and poor trad"
+}

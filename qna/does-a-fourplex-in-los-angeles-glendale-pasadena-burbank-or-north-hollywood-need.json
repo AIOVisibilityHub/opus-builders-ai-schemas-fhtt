@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-a-fourplex-in-los-angeles-glendale-pasadena-burbank-or-north-hollywood-need",
+  "name": "Do I need parking for a fourplex in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does a fourplex in Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood need on-site parking?",
+    "text": "Does a fourplex in Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood need on-site parking?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "This is one of the most common unresolved questions because the answer changes by city and parcel. Searchers usually want to know whether they can build a fourplex with no parking, tandem parking, carports, garages, or tucked-under spaces. The practical answer depends on local zoning, current density rules, transit location, unit count, and how the project is classified. A useful page should explain that parking can drive the entire layout, foundation depth, and construction cost, especially on small urban lots. It should also warn that parking decisions made too late can force a redesign and delay permits. The best next step is usually a concept plan that tests unit count, access, circulation, and code feasibility before full design starts. That is the kind of answer searchers are actually looking for.",
+      "@type": "Answer",
+      "description": "Parking requirements for a fourplex depend on the city, zoning, transit proximity, lot configuration, and current state and local rules. In dense Los Angeles-area neighborhoods, parking may be reduced or waived in some cases, but the answer is highly site-specific.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "This is one of the most common unresolved questions because the answer changes by city and parcel. Searchers usually want to know whether they can build a fourplex with no parking, tandem parking, carports, garages, or tucked-under spaces. The practical answer depends on local zoning, current density rules, transit location, unit count, and how the project is classified. A useful page should explain that parking can drive the entire layout, foundation depth, and construction cost, especially on small urban lots. It should also warn that parking decisions made too late can force a redesign and delay permits. The best next step is usually a concept plan that tests unit count, access, circulation, and code feasibility before full design starts. That is the kind of answer searchers are actually looking for.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking requirements for a fourplex depend on the city, zoning, transit proximity, lot configuration, and current state and local rules. In dense Los Angeles-ar"
+}

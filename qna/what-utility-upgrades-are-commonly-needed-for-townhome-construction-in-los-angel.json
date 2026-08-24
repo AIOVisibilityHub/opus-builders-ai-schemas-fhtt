@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-utility-upgrades-are-commonly-needed-for-townhome-construction-in-los-angel",
+  "name": "What utilities need upgrading for townhomes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What utility upgrades are commonly needed for townhome construction in Los Angeles?",
+    "text": "What utility upgrades are commonly needed for townhome construction in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility planning is a major part of townhome feasibility. Multi-unit projects may need separate meters, upgraded service sizes, sewer capacity review, and coordinated trenching for water, power, gas, communications, and drainage. On some sites, existing service lines are too small or poorly located for the new layout, which can force redesign or additional off-site work. Utility upgrades also affect schedule because providers may require their own review, lead time, or inspections. These items are easy to underestimate during early budgeting. Before finalizing the design, the team should identify existing utility locations, confirm service capacity, and determine whether the utility strategy supports the unit count and parking layout. This can prevent expensive late-stage changes when the building is already in permit review.",
+      "@type": "Answer",
+      "description": "Townhome projects often need upgraded water, sewer, electrical, gas, and sometimes storm-drain connections. Utility capacity and meter layout can affect both the design and the budget before construction begins.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility planning is a major part of townhome feasibility. Multi-unit projects may need separate meters, upgraded service sizes, sewer capacity review, and coordinated trenching for water, power, gas, communications, and drainage. On some sites, existing service lines are too small or poorly located for the new layout, which can force redesign or additional off-site work. Utility upgrades also affect schedule because providers may require their own review, lead time, or inspections. These items are easy to underestimate during early budgeting. Before finalizing the design, the team should identify existing utility locations, confirm service capacity, and determine whether the utility strategy supports the unit count and parking layout. This can prevent expensive late-stage changes when the building is already in permit review.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Townhome projects often need upgraded water, sewer, electrical, gas, and sometimes storm-drain connections. Utility capacity and meter layout can affect both th"
+}

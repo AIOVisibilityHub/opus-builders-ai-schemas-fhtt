@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-when-a-multi-unit-construction-project-requires-demolition-of-the-e",
+  "name": "What if the project needs a full demo before construction starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens when a multi-unit construction project requires demolition of the existing structure first?",
+    "text": "What happens when a multi-unit construction project requires demolition of the existing structure first?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When demolition is part of the project, it should be treated as a separate phase with its own schedule, safety plan, and cost allowance. The team usually needs to coordinate utility shutoffs, demolition permits, dust control, neighbor protection, and haul-away logistics before new work begins. Demolition can also reveal hidden conditions such as old foundations, undocumented additions, poor soils, or utility lines in unexpected places. Those discoveries can affect grading, foundations, and the overall construction budget. Owners should ask whether the demolition scope includes only the structure or also slabs, landscaping, retaining walls, and underground obstructions. A good contractor will sequence demo so the site is ready for construction without creating rework later. Because demolition is both disruptive and revealing, it often changes the final project budget more than owners expect. The safest approach is to carry contingency and allow time for unexpected site conditions.",
+      "@type": "Answer",
+      "description": "If demolition is required, the project usually needs demolition permits, utility disconnects, site safety planning, and debris hauling before new construction can begin. Demo can uncover surprises such as hidden damage, buried foundations, or utility conflicts. It should be scheduled as its own phase because it can affect both cost and start date.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When demolition is part of the project, it should be treated as a separate phase with its own schedule, safety plan, and cost allowance. The team usually needs to coordinate utility shutoffs, demolition permits, dust control, neighbor protection, and haul-away logistics before new work begins. Demolition can also reveal hidden conditions such as old foundations, undocumented additions, poor soils, or utility lines in unexpected places. Those discoveries can affect grading, foundations, and the overall construction budget. Owners should ask whether the demolition scope includes only the structure or also slabs, landscaping, retaining walls, and underground obstructions. A good contractor will sequence demo so the site is ready for construction without creating rework later. Because demolition is both disruptive and revealing, it often changes the final project budget more than owners expect. The safest approach is to carry contingency and allow time for unexpected site conditions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If demolition is required, the project usually needs demolition permits, utility disconnects, site safety planning, and debris hauling before new construction c"
+}

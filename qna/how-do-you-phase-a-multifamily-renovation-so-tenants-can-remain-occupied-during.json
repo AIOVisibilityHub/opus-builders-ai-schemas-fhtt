@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-phase-a-multifamily-renovation-so-tenants-can-remain-occupied-during",
+  "name": "What is the best way to renovate multifamily units while tenants stay in place?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you phase a multifamily renovation so tenants can remain occupied during construction?",
+    "text": "How do you phase a multifamily renovation so tenants can remain occupied during construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Occupied renovations work best when the project is broken into small, predictable phases. Start with detailed scheduling, tenant notices, and access planning, then sequence the messiest work when disruption is lowest. Dust control, negative air, protected pathways, and clear communication matter as much as construction quality. Owners should also coordinate temporary utility interruptions, elevator use, and parking impacts. If the renovation touches life-safety systems or essential utilities, the plan should include backup arrangements and inspection checkpoints. The biggest risk is starting without a tenant coordination plan, because delays and complaints can quickly stall the job. A contractor experienced in occupied multifamily work will build the schedule around residents, not around the easiest construction sequence.",
+      "@type": "Answer",
+      "description": "The best approach is to phase work unit by unit, isolate noisy trades to short windows, and keep essential services available whenever possible. Common-area work should be scheduled around tenant access, and any utility shutoffs, dust containment, or hallway closures should be communicated in advance. A clear habitability plan is often essential.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Occupied renovations work best when the project is broken into small, predictable phases. Start with detailed scheduling, tenant notices, and access planning, then sequence the messiest work when disruption is lowest. Dust control, negative air, protected pathways, and clear communication matter as much as construction quality. Owners should also coordinate temporary utility interruptions, elevator use, and parking impacts. If the renovation touches life-safety systems or essential utilities, the plan should include backup arrangements and inspection checkpoints. The biggest risk is starting without a tenant coordination plan, because delays and complaints can quickly stall the job. A contractor experienced in occupied multifamily work will build the schedule around residents, not around the easiest construction sequence.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best approach is to phase work unit by unit, isolate noisy trades to short windows, and keep essential services available whenever possible. Common-area wor"
+}

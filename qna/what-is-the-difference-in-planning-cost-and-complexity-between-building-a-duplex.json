@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-in-planning-cost-and-complexity-between-building-a-duplex",
+  "name": "What is the difference between duplex, triplex, and fourplex construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference in planning, cost, and complexity between building a duplex, triplex, and fourplex on the same lot?",
+    "text": "What is the difference in planning, cost, and complexity between building a duplex, triplex, and fourplex on the same lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The main difference is not just unit count; it is the amount of code, circulation, and site coordination required to make the building work. A duplex is usually the simplest multifamily option because it often allows a more straightforward layout, fewer shared systems, and less intense parking and access coordination. A triplex and fourplex typically require more careful planning for stairs, utility metering, sound control, fire-rated assemblies, trash access, and tenant circulation. The construction budget also tends to rise nonlinearly because shared walls, common areas, and mechanical systems become more complex. In Los Angeles-area neighborhoods, the lot shape and zoning envelope can have a bigger impact than the unit count itself, especially on narrow or irregular parcels. Owners comparing these options should evaluate buildability, expected rent per unit type, parking feasibility, and resale value together. The best choice is often the one that balances yield with simpler construction and fewer approval risks, not the one that maximizes unit count alone.",
+      "@type": "Answer",
+      "description": "A duplex has two units, a triplex has three, and a fourplex has four. In practice, the jump from duplex to triplex or fourplex increases design complexity, utility separation, parking needs, fire separation, and permitting scrutiny. Larger unit counts can improve rental income, but they usually add code, circulation, and cost challenges that affect layout and construction strategy.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The main difference is not just unit count; it is the amount of code, circulation, and site coordination required to make the building work. A duplex is usually the simplest multifamily option because it often allows a more straightforward layout, fewer shared systems, and less intense parking and access coordination. A triplex and fourplex typically require more careful planning for stairs, utility metering, sound control, fire-rated assemblies, trash access, and tenant circulation. The construction budget also tends to rise nonlinearly because shared walls, common areas, and mechanical systems become more complex. In Los Angeles-area neighborhoods, the lot shape and zoning envelope can have a bigger impact than the unit count itself, especially on narrow or irregular parcels. Owners comparing these options should evaluate buildability, expected rent per unit type, parking feasibility, and resale value together. The best choice is often the one that balances yield with simpler construction and fewer approval risks, not the one that maximizes unit count alone.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A duplex has two units, a triplex has three, and a fourplex has four. In practice, the jump from duplex to triplex or fourplex increases design complexity, util"
+}

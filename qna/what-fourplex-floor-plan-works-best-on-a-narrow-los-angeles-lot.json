@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-fourplex-floor-plan-works-best-on-a-narrow-los-angeles-lot",
+  "name": "What is the best layout for a fourplex on a narrow lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What fourplex floor plan works best on a narrow Los Angeles lot?",
+    "text": "What fourplex floor plan works best on a narrow Los Angeles lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Narrow-lot projects are especially common in older Los Angeles neighborhoods, and the wrong layout can waste valuable square footage. Searchers usually want to know whether side-by-side units, stacked units, or a courtyard arrangement works best. The right answer depends on lot width, required setbacks, parking access, and whether the goal is rental income or resale value. In many cases, a stacked configuration with compact circulation is the most efficient, but the design must still preserve light, privacy, and code-compliant egress. A useful page should explain tradeoffs among layouts, including how each affects construction cost, structural complexity, and unit desirability. Readers need more than a floor-plan gallery; they need a practical way to evaluate which arrangement fits their site.",
+      "@type": "Answer",
+      "description": "On a narrow lot, the best fourplex layout usually prioritizes stacked circulation, efficient unit cores, minimal hallway waste, and a parking strategy that does not consume too much buildable area. The ideal plan depends on frontage, depth, and access.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Narrow-lot projects are especially common in older Los Angeles neighborhoods, and the wrong layout can waste valuable square footage. Searchers usually want to know whether side-by-side units, stacked units, or a courtyard arrangement works best. The right answer depends on lot width, required setbacks, parking access, and whether the goal is rental income or resale value. In many cases, a stacked configuration with compact circulation is the most efficient, but the design must still preserve light, privacy, and code-compliant egress. A useful page should explain tradeoffs among layouts, including how each affects construction cost, structural complexity, and unit desirability. Readers need more than a floor-plan gallery; they need a practical way to evaluate which arrangement fits their site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "On a narrow lot, the best fourplex layout usually prioritizes stacked circulation, efficient unit cores, minimal hallway waste, and a parking strategy that does"
+}

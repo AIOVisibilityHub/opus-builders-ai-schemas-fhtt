@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-cheaper-to-build-a-fourplex-or-add-multiple-adus-on-an-existing-property",
+  "name": "How do fourplex construction costs compare to ADUs?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it cheaper to build a fourplex or add multiple ADUs on an existing property?",
+    "text": "Is it cheaper to build a fourplex or add multiple ADUs on an existing property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "This comparison matters because many owners are deciding between incremental density and a ground-up multifamily project. ADUs can often avoid some of the complexity of a full teardown and may be faster to design and build. A fourplex, however, can be a better fit when the goal is to maximize unit count, create a new building, or fully optimize a redevelopment site. The real comparison should include site work, parking, utility upgrades, financing, and ongoing maintenance. Searchers need a clear framework for deciding when ADUs are the smart first step and when a fourplex is the stronger long-term play. That type of answer supports both AI Overview and featured snippet formats.",
+      "@type": "Answer",
+      "description": "Multiple ADUs are often cheaper and easier to phase than a full fourplex, but a fourplex may produce more total unit count and stronger long-term value on the right site. The answer depends on zoning, existing improvements, and site constraints.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "This comparison matters because many owners are deciding between incremental density and a ground-up multifamily project. ADUs can often avoid some of the complexity of a full teardown and may be faster to design and build. A fourplex, however, can be a better fit when the goal is to maximize unit count, create a new building, or fully optimize a redevelopment site. The real comparison should include site work, parking, utility upgrades, financing, and ongoing maintenance. Searchers need a clear framework for deciding when ADUs are the smart first step and when a fourplex is the stronger long-term play. That type of answer supports both AI Overview and featured snippet formats.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Multiple ADUs are often cheaper and easier to phase than a full fourplex, but a fourplex may produce more total unit count and stronger long-term value on the r"
+}

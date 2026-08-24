@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-items-are-often-missing-from-apartment-contractor-bids-in-los-angeles",
+  "name": "What should be included in an apartment construction bid?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What items are often missing from apartment contractor bids in Los Angeles?",
+    "text": "What items are often missing from apartment contractor bids in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An apartment construction bid should be read as carefully as the price itself. A complete bid usually includes site prep, foundations, framing, mechanical, electrical, and plumbing systems, interior finishes, labor, supervision, cleanup, and clear assumptions about schedule and exclusions. In Los Angeles, it is especially important to check whether the bid includes permits, utility upgrades, parking structure work, excavation, hauling, and inspection-related delays. Many bids appear lower because they leave out critical items or use vague allowances. That can make the project look affordable until change orders start adding cost. Owners should ask for a line-item breakdown and compare scope, not just totals. The best bid is usually the one that makes assumptions explicit and reduces the chance of surprises during construction.",
+      "@type": "Answer",
+      "description": "A strong apartment construction bid should include site work, foundations, framing, MEP systems, finishes, permits, supervision, cleanup, and contingency assumptions. Bids that omit exclusions, utility allowances, or change-order terms can look cheaper at first but cost more later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An apartment construction bid should be read as carefully as the price itself. A complete bid usually includes site prep, foundations, framing, mechanical, electrical, and plumbing systems, interior finishes, labor, supervision, cleanup, and clear assumptions about schedule and exclusions. In Los Angeles, it is especially important to check whether the bid includes permits, utility upgrades, parking structure work, excavation, hauling, and inspection-related delays. Many bids appear lower because they leave out critical items or use vague allowances. That can make the project look affordable until change orders start adding cost. Owners should ask for a line-item breakdown and compare scope, not just totals. The best bid is usually the one that makes assumptions explicit and reduces the chance of surprises during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A strong apartment construction bid should include site work, foundations, framing, MEP systems, finishes, permits, supervision, cleanup, and contingency assump"
+}

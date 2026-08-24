@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-numbers-or-assumptions-should-make-an-investor-wary-of-a-new-apartment-dev",
+  "name": "What are the red flags in a ground-up multifamily pro forma?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which numbers or assumptions should make an investor wary of a new apartment development deal?",
+    "text": "Which numbers or assumptions should make an investor wary of a new apartment development deal?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong pro forma should survive some bad news. Warning signs include rents that are far above comparable projects, hard costs that look too low, soft costs that omit major fees, a contingency reserve that is too small, and financing assumptions that ignore current market conditions. Another red flag is a deal that only works if the project sells or refinances at the top of the market immediately after delivery. In Los Angeles infill development, that is especially risky because approvals, construction, and lease-up can all take longer than planned. Investors should also watch for missing line items such as utility upgrades, insurance, escalation, commissioning, marketing, and lease-up concessions. The best underwriting models show downside cases and still leave a path to completion. If a sponsor cannot explain where the margin of safety is, the project deserves extra scrutiny.",
+      "@type": "Answer",
+      "description": "Red flags include overly aggressive rent growth, no real contingency, unrealistic construction pricing, thin interest reserves, and a projected exit that depends on perfect market conditions. If the deal only works with maximum leverage and best-case timing, the pro forma is likely too optimistic. Every major assumption should be stress-tested.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong pro forma should survive some bad news. Warning signs include rents that are far above comparable projects, hard costs that look too low, soft costs that omit major fees, a contingency reserve that is too small, and financing assumptions that ignore current market conditions. Another red flag is a deal that only works if the project sells or refinances at the top of the market immediately after delivery. In Los Angeles infill development, that is especially risky because approvals, construction, and lease-up can all take longer than planned. Investors should also watch for missing line items such as utility upgrades, insurance, escalation, commissioning, marketing, and lease-up concessions. The best underwriting models show downside cases and still leave a path to completion. If a sponsor cannot explain where the margin of safety is, the project deserves extra scrutiny.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Red flags include overly aggressive rent growth, no real contingency, unrealistic construction pricing, thin interest reserves, and a projected exit that depend"
+}

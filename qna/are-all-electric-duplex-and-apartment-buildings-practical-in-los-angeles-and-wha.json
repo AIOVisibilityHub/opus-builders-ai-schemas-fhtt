@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-all-electric-duplex-and-apartment-buildings-practical-in-los-angeles-and-wha",
+  "name": "Can multifamily projects be built with all-electric systems?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are all-electric duplex and apartment buildings practical in Los Angeles, and what changes when gas is removed?",
+    "text": "Are all-electric duplex and apartment buildings practical in Los Angeles, and what changes when gas is removed?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "All-electric multifamily construction is practical in many Los Angeles-area projects, but it changes the building’s utility strategy. Without gas, the electrical service, panel sizing, and equipment selection must be planned earlier and more carefully. Heat pump HVAC, electric water heating, induction cooking, and other appliances can increase total electrical demand, which may require larger service capacity and utility coordination. In some projects, removing gas simplifies trenching and reduces certain site conflicts, but it can also shift cost into electrical infrastructure. Owners should ask for a load calculation and utility review during feasibility, not after the building is designed. The right answer depends on the size of the project, the desired finish level, and the available utility capacity at the site. An all-electric strategy can work very well when it is planned from the start, but it should not be treated as an automatic cost saver.",
+      "@type": "Answer",
+      "description": "All-electric multifamily projects are practical, but they require early coordination of electrical service size, panel capacity, HVAC selection, water heating, and appliance loads. Removing gas can simplify some site work, but it can also increase electrical demand and utility planning. The design should be checked early so the service can support the building.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "All-electric multifamily construction is practical in many Los Angeles-area projects, but it changes the building’s utility strategy. Without gas, the electrical service, panel sizing, and equipment selection must be planned earlier and more carefully. Heat pump HVAC, electric water heating, induction cooking, and other appliances can increase total electrical demand, which may require larger service capacity and utility coordination. In some projects, removing gas simplifies trenching and reduces certain site conflicts, but it can also shift cost into electrical infrastructure. Owners should ask for a load calculation and utility review during feasibility, not after the building is designed. The right answer depends on the size of the project, the desired finish level, and the available utility capacity at the site. An all-electric strategy can work very well when it is planned from the start, but it should not be treated as an automatic cost saver.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "All-electric multifamily projects are practical, but they require early coordination of electrical service size, panel capacity, HVAC selection, water heating, "
+}

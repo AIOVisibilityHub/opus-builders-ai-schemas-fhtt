@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-happen-if-demolition-reveals-mold-dry-rot-leaks-or-structural-damage",
+  "name": "What if a multi-family project finds hidden damage during construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should happen if demolition reveals mold, dry rot, leaks, or structural damage in a multi-family building?",
+    "text": "What should happen if demolition reveals mold, dry rot, leaks, or structural damage in a multi-family building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hidden damage is one of the most common causes of delay in multi-family construction. When demolition reveals mold, dry rot, plumbing failures, termite damage, or structural issues, the team should stop the affected work area, document the condition, and bring in the right specialists or consultants. The project manager should then determine whether the issue changes the scope, budget, schedule, or permit documents. If the damage affects neighboring units or common systems, the phasing plan may need to be adjusted. This is where proactive management matters most, because fast decisions reduce idle labor and limit cost escalation. Owners should also have a contingency budget for unexpected repairs, especially in older buildings. The key is not to rush past the problem but to resolve it fully so the finished project is safe, durable, and compliant with the approved scope.",
+      "@type": "Answer",
+      "description": "Hidden damage should trigger an immediate stop, documentation, and assessment before the work continues. The project manager should confirm the condition, price the repair, update the schedule, and decide whether the issue affects permits, inspections, or adjacent areas.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hidden damage is one of the most common causes of delay in multi-family construction. When demolition reveals mold, dry rot, plumbing failures, termite damage, or structural issues, the team should stop the affected work area, document the condition, and bring in the right specialists or consultants. The project manager should then determine whether the issue changes the scope, budget, schedule, or permit documents. If the damage affects neighboring units or common systems, the phasing plan may need to be adjusted. This is where proactive management matters most, because fast decisions reduce idle labor and limit cost escalation. Owners should also have a contingency budget for unexpected repairs, especially in older buildings. The key is not to rush past the problem but to resolve it fully so the finished project is safe, durable, and compliant with the approved scope.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hidden damage should trigger an immediate stop, documentation, and assessment before the work continues. The project manager should confirm the condition, price"
+}

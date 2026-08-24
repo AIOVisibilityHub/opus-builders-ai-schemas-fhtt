@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-project-mistakes-most-often-cause-cost-overruns-permit-delays-or-weak-renta",
+  "name": "What are the biggest mistakes people make when building a triplex?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What project mistakes most often cause cost overruns, permit delays, or weak rental performance?",
+    "text": "What project mistakes most often cause cost overruns, permit delays, or weak rental performance?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most triplex problems are created early, not during framing. The most common mistakes are skipping feasibility, assuming the lot can fit three units without testing setbacks and parking, underbudgeting soft costs, and ignoring utility upgrades or site work. Owners also get into trouble when they design a beautiful plan that does not fit the actual parcel or does not provide enough privacy and functionality for renters. Another frequent issue is failing to coordinate architecture, structural engineering, civil design, and permitting from the beginning. The safest strategy is to validate the zoning, run a realistic budget, and stress-test the layout before spending heavily on final drawings. That reduces redesign, delays, and value erosion later in the project.",
+      "@type": "Answer",
+      "description": "The biggest mistakes are starting design before zoning is confirmed, underestimating parking and utility costs, ignoring site constraints, and budgeting only for construction without soft costs and contingency. Another common error is choosing a layout that looks good on paper but fails in plan check or performs poorly for tenants. Early feasibility work prevents most of these problems.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most triplex problems are created early, not during framing. The most common mistakes are skipping feasibility, assuming the lot can fit three units without testing setbacks and parking, underbudgeting soft costs, and ignoring utility upgrades or site work. Owners also get into trouble when they design a beautiful plan that does not fit the actual parcel or does not provide enough privacy and functionality for renters. Another frequent issue is failing to coordinate architecture, structural engineering, civil design, and permitting from the beginning. The safest strategy is to validate the zoning, run a realistic budget, and stress-test the layout before spending heavily on final drawings. That reduces redesign, delays, and value erosion later in the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest mistakes are starting design before zoning is confirmed, underestimating parking and utility costs, ignoring site constraints, and budgeting only fo"
+}

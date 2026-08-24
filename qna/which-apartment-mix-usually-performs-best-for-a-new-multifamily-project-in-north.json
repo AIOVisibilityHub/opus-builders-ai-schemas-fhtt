@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-apartment-mix-usually-performs-best-for-a-new-multifamily-project-in-north",
+  "name": "What unit mix works best for ground-up multifamily in North Hollywood?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which apartment mix usually performs best for a new multifamily project in North Hollywood?",
+    "text": "Which apartment mix usually performs best for a new multifamily project in North Hollywood?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In North Hollywood, the best-performing unit mix usually depends on whether the project is targeting renters who want affordability, transit convenience, or larger luxury layouts. Studio and one-bedroom units often lease faster because they fit a broader renter pool and can improve project absorption. Two-bedrooms can create higher revenue per unit, but they also require more space and may reduce unit count on a constrained site. The most effective mix usually comes from testing multiple design options against rent assumptions, parking efficiency, and net rentable area. Projects near transit or entertainment corridors often benefit from smaller, modern units with strong amenities, while more residential blocks may support a slightly larger mix. Developers should not choose unit mix based only on preference. The mix should be driven by construction efficiency, market rent, and what the site can physically support after stairs, corridors, and parking are accounted for.",
+      "@type": "Answer",
+      "description": "The best unit mix depends on the site, parking, rent targets, and target tenant. In North Hollywood, smaller one-bedroom and studio-heavy mixes often improve absorption, while two-bedrooms can support higher total revenue if the site can handle larger floor plates. The right mix should match neighborhood demand and construction efficiency.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In North Hollywood, the best-performing unit mix usually depends on whether the project is targeting renters who want affordability, transit convenience, or larger luxury layouts. Studio and one-bedroom units often lease faster because they fit a broader renter pool and can improve project absorption. Two-bedrooms can create higher revenue per unit, but they also require more space and may reduce unit count on a constrained site. The most effective mix usually comes from testing multiple design options against rent assumptions, parking efficiency, and net rentable area. Projects near transit or entertainment corridors often benefit from smaller, modern units with strong amenities, while more residential blocks may support a slightly larger mix. Developers should not choose unit mix based only on preference. The mix should be driven by construction efficiency, market rent, and what the site can physically support after stairs, corridors, and parking are accounted for.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best unit mix depends on the site, parking, rent targets, and target tenant. In North Hollywood, smaller one-bedroom and studio-heavy mixes often improve ab"
+}

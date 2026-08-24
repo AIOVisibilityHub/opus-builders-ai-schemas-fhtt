@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-reserve-is-normal-for-a-new-apartment-project-in-los-angeles",
+  "name": "How much contingency should be budgeted for multifamily construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency reserve is normal for a new apartment project in Los Angeles?",
+    "text": "What contingency reserve is normal for a new apartment project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Contingency is one of the most important parts of the budget because Los Angeles infill projects rarely go exactly as planned. A common range is 5% to 10% of hard and soft costs, but difficult sites may need more. Utility surprises, soil problems, design revisions, subcontractor pricing changes, and city comments can all move costs upward. Projects with subterranean parking or complex shoring may deserve an even larger cushion. Contingency should be treated as real project capital, not optional surplus. Developers should also separate construction contingency from owner contingency, since design changes, delays, and tenant-relocation issues can create additional spending outside the contractor’s base scope. A disciplined budget review is one of the easiest ways to reduce the risk of a project running out of funds before completion.",
+      "@type": "Answer",
+      "description": "A contingency of about 5% to 10% of hard and soft costs is common for ground-up multifamily projects, with more set aside on difficult infill sites. Tight urban lots, unknown soil conditions, and utility conflicts justify larger reserves. Lenders often expect a minimum contingency before they fund the deal.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Contingency is one of the most important parts of the budget because Los Angeles infill projects rarely go exactly as planned. A common range is 5% to 10% of hard and soft costs, but difficult sites may need more. Utility surprises, soil problems, design revisions, subcontractor pricing changes, and city comments can all move costs upward. Projects with subterranean parking or complex shoring may deserve an even larger cushion. Contingency should be treated as real project capital, not optional surplus. Developers should also separate construction contingency from owner contingency, since design changes, delays, and tenant-relocation issues can create additional spending outside the contractor’s base scope. A disciplined budget review is one of the easiest ways to reduce the risk of a project running out of funds before completion.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A contingency of about 5% to 10% of hard and soft costs is common for ground-up multifamily projects, with more set aside on difficult infill sites. Tight urban"
+}

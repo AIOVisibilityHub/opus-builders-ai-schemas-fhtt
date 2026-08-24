@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-different-about-small-lot-multifamily-construction-compared-with-a-more",
+  "name": "How do small lot and SB-style projects differ from traditional apartment construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is different about small lot multifamily construction compared with a more conventional apartment building design?",
+    "text": "What is different about small lot multifamily construction compared with a more conventional apartment building design?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Small lot multifamily construction is different because the design often tries to maximize value on a constrained parcel while preserving a more residential feel. Instead of long corridors and repetitive unit stacking, the project may use private entries, compact footprints, shared walls, and a layout that fits the lot more tightly. That can improve marketability in certain neighborhoods, but it also creates more design pressure because every inch of the site matters. Traditional apartment buildings generally rely on more standardized circulation and repeatable floor plates, which can simplify construction once the project is approved. Small lot designs may be more sensitive to parking layout, access, setbacks, and privacy issues, and they can require careful coordination to avoid wasted space. Owners should compare not only the build cost but also the rent premium and approval complexity. The best choice depends on whether the site rewards a highly efficient, custom layout or a more conventional multifamily form.",
+      "@type": "Answer",
+      "description": "Small lot multifamily projects usually place more emphasis on compact footprints, private entries, tight circulation, and efficient site use, while conventional apartment buildings rely more on shared corridors, larger common systems, and standardized unit stacking. Small lot projects can feel more residential, but they still require precise code coordination and site planning.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Small lot multifamily construction is different because the design often tries to maximize value on a constrained parcel while preserving a more residential feel. Instead of long corridors and repetitive unit stacking, the project may use private entries, compact footprints, shared walls, and a layout that fits the lot more tightly. That can improve marketability in certain neighborhoods, but it also creates more design pressure because every inch of the site matters. Traditional apartment buildings generally rely on more standardized circulation and repeatable floor plates, which can simplify construction once the project is approved. Small lot designs may be more sensitive to parking layout, access, setbacks, and privacy issues, and they can require careful coordination to avoid wasted space. Owners should compare not only the build cost but also the rent premium and approval complexity. The best choice depends on whether the site rewards a highly efficient, custom layout or a more conventional multifamily form.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Small lot multifamily projects usually place more emphasis on compact footprints, private entries, tight circulation, and efficient site use, while conventional"
+}

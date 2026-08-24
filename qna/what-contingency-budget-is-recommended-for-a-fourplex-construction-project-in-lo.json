@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-budget-is-recommended-for-a-fourplex-construction-project-in-lo",
+  "name": "How much contingency should I keep for a fourplex build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency budget is recommended for a fourplex construction project in Los Angeles?",
+    "text": "What contingency budget is recommended for a fourplex construction project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "This question is underserved because many cost pages list construction numbers but ignore risk management. Searchers need to know how much reserve to carry before they start, especially in complex Los Angeles-area infill markets. Contingency should cover both known unknowns, like minor plan revisions, and unknown unknowns, like soil problems or utility surprises. A good answer should explain that a simpler, fully engineered project may need less contingency than a slope site with many moving parts. It should also distinguish between owner contingency, lender reserve, and soft-cost buffer. That practical distinction helps searchers create a safer budget and avoid running out of funds mid-project.",
+      "@type": "Answer",
+      "description": "A fourplex budget should include a meaningful contingency because site conditions, utility work, and permit revisions can change costs quickly. The exact percentage depends on design maturity, lot risk, and how much unknown site work remains.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "This question is underserved because many cost pages list construction numbers but ignore risk management. Searchers need to know how much reserve to carry before they start, especially in complex Los Angeles-area infill markets. Contingency should cover both known unknowns, like minor plan revisions, and unknown unknowns, like soil problems or utility surprises. A good answer should explain that a simpler, fully engineered project may need less contingency than a slope site with many moving parts. It should also distinguish between owner contingency, lender reserve, and soft-cost buffer. That practical distinction helps searchers create a safer budget and avoid running out of funds mid-project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A fourplex budget should include a meaningful contingency because site conditions, utility work, and permit revisions can change costs quickly. The exact percen"
+}

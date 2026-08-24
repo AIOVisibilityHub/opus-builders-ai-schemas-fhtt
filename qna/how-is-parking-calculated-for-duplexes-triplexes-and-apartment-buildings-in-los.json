@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-is-parking-calculated-for-duplexes-triplexes-and-apartment-buildings-in-los",
+  "name": "How much parking do multifamily projects usually need in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is parking calculated for duplexes, triplexes, and apartment buildings in Los Angeles, and when can parking requirements be reduced?",
+    "text": "How is parking calculated for duplexes, triplexes, and apartment buildings in Los Angeles, and when can parking requirements be reduced?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking is one of the most important design drivers in Los Angeles multifamily construction because it can dictate the footprint, number of floors, and structural layout. Requirements may change based on unit count, bedroom mix, transit proximity, zoning, and whether a project qualifies for reduced parking rules. Even when fewer spaces are allowed, the physical reality of fitting stalls, drive aisles, ramps, and clear turning paths still affects the design. Basement parking, tuck-under parking, and podium layouts each have tradeoffs in cost and efficiency. Owners should not assume that parking reductions automatically make a project easier; sometimes reduced parking helps approvals but creates a less efficient building form. A good feasibility study should test several parking schemes early so the project team can compare buildable area, excavation cost, and rental yield. The right answer is usually not the minimum code number, but the parking solution that supports the project financially and functionally.",
+      "@type": "Answer",
+      "description": "Parking requirements vary by unit count, unit size, location, and local rules. In Los Angeles, some projects near transit or under specific zoning programs can qualify for reduced or modified parking, but many sites still need careful parking design to fit stalls, drive aisles, ramps, and turning radii. Parking often drives the entire building layout.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking is one of the most important design drivers in Los Angeles multifamily construction because it can dictate the footprint, number of floors, and structural layout. Requirements may change based on unit count, bedroom mix, transit proximity, zoning, and whether a project qualifies for reduced parking rules. Even when fewer spaces are allowed, the physical reality of fitting stalls, drive aisles, ramps, and clear turning paths still affects the design. Basement parking, tuck-under parking, and podium layouts each have tradeoffs in cost and efficiency. Owners should not assume that parking reductions automatically make a project easier; sometimes reduced parking helps approvals but creates a less efficient building form. A good feasibility study should test several parking schemes early so the project team can compare buildable area, excavation cost, and rental yield. The right answer is usually not the minimum code number, but the parking solution that supports the project financially and functionally.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking requirements vary by unit count, unit size, location, and local rules. In Los Angeles, some projects near transit or under specific zoning programs can "
+}

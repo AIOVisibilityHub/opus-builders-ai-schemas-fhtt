@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-my-townhome-site-in-los-angeles-needs-major-grading-or-retaining",
+  "name": "What if my townhome project needs major grading?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if my townhome site in Los Angeles needs major grading or retaining walls?",
+    "text": "What happens if my townhome site in Los Angeles needs major grading or retaining walls?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Major grading changes almost every part of a townhome project. It can increase excavation cost, require retaining walls, create drainage and waterproofing issues, and trigger additional soils and structural engineering. On constrained or sloped sites, grading can also reduce the buildable footprint, which may lower the number of units you can fit. The schedule impact can be significant because grading plans often need to be coordinated with civil engineering, geotechnical recommendations, and permit review. If the project is already in design, the grading scope should be confirmed early so the building does not have to be redrawn later. For sites with heavy earthwork, the contingency should be larger than for a flat lot, because subsurface conditions often differ from what the initial concept assumes. A realistic feasibility review should flag whether grading is a manageable line item or the main risk to the project.",
+      "@type": "Answer",
+      "description": "Major grading can increase cost, extend the schedule, and trigger additional engineering and review. Retaining walls, drainage systems, and soil reports may become necessary before a foundation can even be finalized.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Major grading changes almost every part of a townhome project. It can increase excavation cost, require retaining walls, create drainage and waterproofing issues, and trigger additional soils and structural engineering. On constrained or sloped sites, grading can also reduce the buildable footprint, which may lower the number of units you can fit. The schedule impact can be significant because grading plans often need to be coordinated with civil engineering, geotechnical recommendations, and permit review. If the project is already in design, the grading scope should be confirmed early so the building does not have to be redrawn later. For sites with heavy earthwork, the contingency should be larger than for a flat lot, because subsurface conditions often differ from what the initial concept assumes. A realistic feasibility review should flag whether grading is a manageable line item or the main risk to the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Major grading can increase cost, extend the schedule, and trigger additional engineering and review. Retaining walls, drainage systems, and soil reports may bec"
+}

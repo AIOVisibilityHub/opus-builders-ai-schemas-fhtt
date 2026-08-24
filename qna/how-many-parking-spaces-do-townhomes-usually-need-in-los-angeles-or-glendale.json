@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-many-parking-spaces-do-townhomes-usually-need-in-los-angeles-or-glendale",
+  "name": "How many parking spaces are needed for townhomes in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How many parking spaces do townhomes usually need in Los Angeles or Glendale?",
+    "text": "How many parking spaces do townhomes usually need in Los Angeles or Glendale?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking is one of the most common design constraints in townhome projects. The required number of spaces depends on the city, zoning, number of bedrooms or units, and whether the project qualifies for any parking reduction. Even if the code allows fewer spaces, the layout still has to work physically with drive aisles, turning radii, garage depths, and fire access. Many projects become harder to approve because parking looks acceptable on paper but cannot be built efficiently on the lot. In dense neighborhoods, tandem parking or compact layouts may be possible, but those decisions affect marketability and lender expectations. The best practice is to test parking early in schematic design, not after the floor plans are already finished. That allows the team to adjust unit count, building footprint, or entry orientation before the project gets too expensive to change.",
+      "@type": "Answer",
+      "description": "Parking requirements depend on the number of units, unit size, access conditions, and local zoning rules. Some projects may qualify for reduced parking, while others need standard spaces plus guest parking and maneuvering clearance.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking is one of the most common design constraints in townhome projects. The required number of spaces depends on the city, zoning, number of bedrooms or units, and whether the project qualifies for any parking reduction. Even if the code allows fewer spaces, the layout still has to work physically with drive aisles, turning radii, garage depths, and fire access. Many projects become harder to approve because parking looks acceptable on paper but cannot be built efficiently on the lot. In dense neighborhoods, tandem parking or compact layouts may be possible, but those decisions affect marketability and lender expectations. The best practice is to test parking early in schematic design, not after the floor plans are already finished. That allows the team to adjust unit count, building footprint, or entry orientation before the project gets too expensive to change.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking requirements depend on the number of units, unit size, access conditions, and local zoning rules. Some projects may qualify for reduced parking, while o"
+}

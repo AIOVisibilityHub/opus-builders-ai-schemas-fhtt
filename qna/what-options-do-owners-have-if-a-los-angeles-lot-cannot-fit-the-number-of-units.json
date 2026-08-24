@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-options-do-owners-have-if-a-los-angeles-lot-cannot-fit-the-number-of-units",
+  "name": "What if the lot is too small for the unit count I want?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What options do owners have if a Los Angeles lot cannot fit the number of units they want?",
+    "text": "What options do owners have if a Los Angeles lot cannot fit the number of units they want?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When a lot cannot fit the desired unit count, the most practical move is to redesign around the property’s real constraints instead of trying to force the original program. Options may include reducing the number of units, using smaller but better-located floor plans, changing the building orientation, simplifying parking, or exploring a more compact structural layout. Some sites also work better with a mix of main units and accessory units rather than a larger apartment-style arrangement. The key is to evaluate the project from both a code and a market perspective. A smaller, buildable project can outperform a larger, constrained one if it approves faster, costs less, and rents more cleanly. Owners should ask the design team to show multiple massing options early so they can compare yield, construction cost, and approval risk. A good feasibility study turns an impossible unit count into a realistic development plan.",
+      "@type": "Answer",
+      "description": "If the lot is too small, the project may need fewer units, smaller floor plans, a different building shape, or a revised parking strategy. Some sites can also work with stacked units, narrower circulation, or accessory dwelling configurations. The right move is to redesign for feasibility instead of forcing a unit count that creates code or budget problems.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When a lot cannot fit the desired unit count, the most practical move is to redesign around the property’s real constraints instead of trying to force the original program. Options may include reducing the number of units, using smaller but better-located floor plans, changing the building orientation, simplifying parking, or exploring a more compact structural layout. Some sites also work better with a mix of main units and accessory units rather than a larger apartment-style arrangement. The key is to evaluate the project from both a code and a market perspective. A smaller, buildable project can outperform a larger, constrained one if it approves faster, costs less, and rents more cleanly. Owners should ask the design team to show multiple massing options early so they can compare yield, construction cost, and approval risk. A good feasibility study turns an impossible unit count into a realistic development plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the lot is too small, the project may need fewer units, smaller floor plans, a different building shape, or a revised parking strategy. Some sites can also w"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-build-a-triplex-now-can-i-later-divide-it-for-separate-ownership-or-sale",
+  "name": "Can a triplex be converted later into condos or separately sold units?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I build a triplex now, can I later divide it for separate ownership or sale?",
+    "text": "If I build a triplex now, can I later divide it for separate ownership or sale?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Future separate ownership is possible in some cases, but it is not automatic. If an owner wants the option to sell units individually later, the project should be designed with that goal in mind from the beginning. That can affect unit layout, utility metering, common areas, access, parking assignment, and legal title structure. Some buildings are easier to convert than others, especially when each unit has clear boundaries and independent systems. However, local subdivision and condo regulations can add extra requirements that are very different from rental-only construction. Owners should decide early whether the project is a long-term hold, a rental income property, or a future sale strategy, because the best construction plan depends on that business model.",
+      "@type": "Answer",
+      "description": "A triplex may or may not be convertible into separate ownership later, depending on local subdivision rules, title structure, and how the building is designed from the start. Condo conversion usually requires more than just three legal units. Ownership strategy should be planned before construction.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Future separate ownership is possible in some cases, but it is not automatic. If an owner wants the option to sell units individually later, the project should be designed with that goal in mind from the beginning. That can affect unit layout, utility metering, common areas, access, parking assignment, and legal title structure. Some buildings are easier to convert than others, especially when each unit has clear boundaries and independent systems. However, local subdivision and condo regulations can add extra requirements that are very different from rental-only construction. Owners should decide early whether the project is a long-term hold, a rental income property, or a future sale strategy, because the best construction plan depends on that business model.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A triplex may or may not be convertible into separate ownership later, depending on local subdivision rules, title structure, and how the building is designed f"
+}
