@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-gut-a-house-and-keep-the-same-floor-plan-in-los-angeles",
+  "name": "Can you do a gut renovation without changing the layout?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to gut a house and keep the same floor plan in Los Angeles?",
+    "text": "Is it possible to gut a house and keep the same floor plan in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A gut renovation does not have to include a new floor plan. Many homeowners choose to keep the existing layout while replacing everything behind the walls and under the floors. This approach is common when the room arrangement works well but the house needs modern plumbing, electrical, HVAC, insulation, finishes, and upgraded materials. It can reduce design complexity and sometimes shorten the schedule compared with a full reconfiguration. That said, even a no-layout-change gut renovation still requires careful planning because old conditions may not match current code or support modern systems. Homeowners should confirm how the builder handles hidden damage, what parts of the scope are included, and whether future layout flexibility is worth adding now before finishes are installed.",
+      "@type": "Answer",
+      "description": "Yes, a home can be gutted and rebuilt without changing the layout. This is common when the goal is to replace old systems, finishes, and damaged materials while preserving the existing room arrangement. Even without layout changes, the project still usually needs permits and inspections.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A gut renovation does not have to include a new floor plan. Many homeowners choose to keep the existing layout while replacing everything behind the walls and under the floors. This approach is common when the room arrangement works well but the house needs modern plumbing, electrical, HVAC, insulation, finishes, and upgraded materials. It can reduce design complexity and sometimes shorten the schedule compared with a full reconfiguration. That said, even a no-layout-change gut renovation still requires careful planning because old conditions may not match current code or support modern systems. Homeowners should confirm how the builder handles hidden damage, what parts of the scope are included, and whether future layout flexibility is worth adding now before finishes are installed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a home can be gutted and rebuilt without changing the layout. This is common when the goal is to replace old systems, finishes, and damaged materials while"
+}

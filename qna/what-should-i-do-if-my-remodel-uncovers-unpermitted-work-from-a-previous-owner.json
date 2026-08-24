@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-do-if-my-remodel-uncovers-unpermitted-work-from-a-previous-owner",
+  "name": "What should I do if my remodel uncovers unpermitted work from a previous owner?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do if my remodel uncovers unpermitted work from a previous owner?",
+    "text": "What should I do if my remodel uncovers unpermitted work from a previous owner?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Discovering unpermitted work is common in older homes and can affect both the design and approval path. The first step is to pause on the affected area and document what was found with photos and notes. Then the contractor and design team should determine whether the condition is cosmetic, structural, or tied to plumbing or electrical systems. Some unpermitted work can be revised or brought into compliance, while other conditions may need to be removed and rebuilt. In Los Angeles, this can also affect plan review and inspection strategy because new work may need to account for the existing condition. The important thing is not to cover up the problem and hope it disappears. That can create bigger issues later, especially if the work is structural or safety-related. Homeowners should expect some added time and cost when this happens and should ask for a written path forward before construction resumes. A contractor experienced with older LA homes should be able to explain the cleanest way to proceed without losing control of the project.",
+      "@type": "Answer",
+      "description": "If unpermitted work is discovered, stop and document the condition before proceeding. The next step is usually to determine whether the work must be corrected, legalized, or removed before the remodel can continue safely and cleanly.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Discovering unpermitted work is common in older homes and can affect both the design and approval path. The first step is to pause on the affected area and document what was found with photos and notes. Then the contractor and design team should determine whether the condition is cosmetic, structural, or tied to plumbing or electrical systems. Some unpermitted work can be revised or brought into compliance, while other conditions may need to be removed and rebuilt. In Los Angeles, this can also affect plan review and inspection strategy because new work may need to account for the existing condition. The important thing is not to cover up the problem and hope it disappears. That can create bigger issues later, especially if the work is structural or safety-related. Homeowners should expect some added time and cost when this happens and should ask for a written path forward before construction resumes. A contractor experienced with older LA homes should be able to explain the cleanest way to proceed without losing control of the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If unpermitted work is discovered, stop and document the condition before proceeding. The next step is usually to determine whether the work must be corrected, "
+}

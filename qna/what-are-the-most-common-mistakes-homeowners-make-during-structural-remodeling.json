@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-common-mistakes-homeowners-make-during-structural-remodeling",
+  "name": "What are the biggest mistakes people make in structural remodeling?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common mistakes homeowners make during structural remodeling?",
+    "text": "What are the most common mistakes homeowners make during structural remodeling?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common structural remodeling mistakes all come from rushing the planning phase. Homeowners often assume a wall can come out without engineering, or they start demolition before permits and structural details are approved. Others choose the lowest bid without checking whether the contractor understands load paths, shoring, inspections, or finish restoration. Underbudgeting hidden conditions is another frequent issue because older homes often reveal rot, outdated framing, or utility conflicts once work begins. Another mistake is focusing only on the visible opening or new layout and forgetting how the loads will be transferred afterward. Structural remodeling works best when the design, engineering, permitting, and construction sequence are all coordinated before demolition starts. That level of planning protects the budget, timeline, and safety of the home.",
+      "@type": "Answer",
+      "description": "The biggest mistakes are assuming a wall is non-bearing, skipping engineering, underbudgeting hidden conditions, starting demolition before permits are approved, and choosing a contractor without structural experience. Any of these can cause delays, cost overruns, or safety problems.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common structural remodeling mistakes all come from rushing the planning phase. Homeowners often assume a wall can come out without engineering, or they start demolition before permits and structural details are approved. Others choose the lowest bid without checking whether the contractor understands load paths, shoring, inspections, or finish restoration. Underbudgeting hidden conditions is another frequent issue because older homes often reveal rot, outdated framing, or utility conflicts once work begins. Another mistake is focusing only on the visible opening or new layout and forgetting how the loads will be transferred afterward. Structural remodeling works best when the design, engineering, permitting, and construction sequence are all coordinated before demolition starts. That level of planning protects the budget, timeline, and safety of the home.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest mistakes are assuming a wall is non-bearing, skipping engineering, underbudgeting hidden conditions, starting demolition before permits are approved"
+}

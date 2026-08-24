@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-do-an-exterior-remodel-without-replacing-the-roof-and-what-kinds-of-upgrad",
+  "name": "Can I remodel the exterior of my house without changing the roof?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I do an exterior remodel without replacing the roof, and what kinds of upgrades make sense together?",
+    "text": "Can I do an exterior remodel without replacing the roof, and what kinds of upgrades make sense together?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An exterior remodel does not have to include the roof. Many homeowners focus on the visible parts of the home first, such as stucco, siding, paint, windows, doors, entry columns, trim, lighting, and hardscape. That said, exterior projects often connect at edges and transitions, so roof flashing, gutters, fascia, soffits, and drainage details may need attention even if the roof surface stays in place. This is especially important when changing windows, adding an entry cover, or reworking wall finishes. Coordinating related upgrades in one phase usually saves labor and produces a cleaner design because colors, profiles, and materials can be selected as a whole system. It also reduces the chance of having to reopen finished areas later. If the roof is nearing end of life, it is often smarter to inspect and compare the cost of combining projects versus doing them separately. A good contractor should identify whether the exterior package can proceed independently or whether hidden water-management issues make roof-adjacent repairs necessary.",
+      "@type": "Answer",
+      "description": "Yes. Many exterior remodels do not require roof replacement and can focus on stucco, siding, paint, windows, doors, entry design, lighting, porches, or hardscape. However, if the project exposes roof edges, flashing, or drainage transitions, the roof may need related repairs. Coordinating exterior upgrades together usually reduces labor overlap and visual mismatches.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An exterior remodel does not have to include the roof. Many homeowners focus on the visible parts of the home first, such as stucco, siding, paint, windows, doors, entry columns, trim, lighting, and hardscape. That said, exterior projects often connect at edges and transitions, so roof flashing, gutters, fascia, soffits, and drainage details may need attention even if the roof surface stays in place. This is especially important when changing windows, adding an entry cover, or reworking wall finishes. Coordinating related upgrades in one phase usually saves labor and produces a cleaner design because colors, profiles, and materials can be selected as a whole system. It also reduces the chance of having to reopen finished areas later. If the roof is nearing end of life, it is often smarter to inspect and compare the cost of combining projects versus doing them separately. A good contractor should identify whether the exterior package can proceed independently or whether hidden water-management issues make roof-adjacent repairs necessary.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Many exterior remodels do not require roof replacement and can focus on stucco, siding, paint, windows, doors, entry design, lighting, porches, or hardscap"
+}

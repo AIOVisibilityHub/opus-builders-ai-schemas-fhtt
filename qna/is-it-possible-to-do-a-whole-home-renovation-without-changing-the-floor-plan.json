@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-do-a-whole-home-renovation-without-changing-the-floor-plan",
+  "name": "Can I remodel a whole home while keeping the same layout?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to do a whole-home renovation without changing the floor plan?",
+    "text": "Is it possible to do a whole-home renovation without changing the floor plan?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Keeping the same floor plan can be a smart way to control budget and speed up the project. If the current layout already works, you can still achieve a major transformation by updating the kitchen, bathrooms, flooring, lighting, windows, paint, and systems. This approach often reduces engineering needs and may simplify permitting. It also helps avoid expensive plumbing relocations and structural work. However, if the layout is the reason the home feels outdated, staying with the existing plan may limit the long-term value of the renovation. A designer can help you decide whether the current footprint supports your goals or whether small strategic changes would dramatically improve flow without turning the project into a full rebuild.",
+      "@type": "Answer",
+      "description": "Yes. A whole-home renovation can keep the same layout while still replacing finishes, fixtures, cabinets, flooring, lighting, and major systems. Keeping the layout usually lowers cost, shortens permitting, and reduces structural complexity compared with moving walls or plumbing.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Keeping the same floor plan can be a smart way to control budget and speed up the project. If the current layout already works, you can still achieve a major transformation by updating the kitchen, bathrooms, flooring, lighting, windows, paint, and systems. This approach often reduces engineering needs and may simplify permitting. It also helps avoid expensive plumbing relocations and structural work. However, if the layout is the reason the home feels outdated, staying with the existing plan may limit the long-term value of the renovation. A designer can help you decide whether the current footprint supports your goals or whether small strategic changes would dramatically improve flow without turning the project into a full rebuild.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A whole-home renovation can keep the same layout while still replacing finishes, fixtures, cabinets, flooring, lighting, and major systems. Keeping the lay"
+}

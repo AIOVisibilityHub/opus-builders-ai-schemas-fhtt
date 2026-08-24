@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-can-i-do-before-construction-starts-to-reduce-change-orders-in-a-whole-home",
+  "name": "How do I avoid change orders during a whole-home renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What can I do before construction starts to reduce change orders in a whole-home renovation?",
+    "text": "What can I do before construction starts to reduce change orders in a whole-home renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders are often caused by incomplete planning rather than bad construction. The best prevention is a highly detailed preconstruction process. That means defining the scope clearly, choosing finishes before work starts, checking the condition of the house carefully, and making sure the contract includes realistic allowances and exclusions. It also helps to ask for a walkthrough of likely risk areas such as plumbing, electrical, framing, and past remodel work. When everyone understands the scope from the start, the project is less likely to drift into expensive surprises. Even then, some change orders are unavoidable in older homes, so the goal is reduction, not perfection.",
+      "@type": "Answer",
+      "description": "To reduce change orders, finalize the scope, select materials early, confirm allowances, inspect the home thoroughly, and document every assumption in the contract. The fewer unknowns you leave open, the fewer cost changes you will face later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders are often caused by incomplete planning rather than bad construction. The best prevention is a highly detailed preconstruction process. That means defining the scope clearly, choosing finishes before work starts, checking the condition of the house carefully, and making sure the contract includes realistic allowances and exclusions. It also helps to ask for a walkthrough of likely risk areas such as plumbing, electrical, framing, and past remodel work. When everyone understands the scope from the start, the project is less likely to drift into expensive surprises. Even then, some change orders are unavoidable in older homes, so the goal is reduction, not perfection.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "To reduce change orders, finalize the scope, select materials early, confirm allowances, inspect the home thoroughly, and document every assumption in the contr"
+}

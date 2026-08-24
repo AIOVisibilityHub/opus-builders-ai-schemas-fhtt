@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-line-items-should-be-included-in-a-quote-for-an-open-floor-plan-conversion",
+  "name": "What should be included in an open-floor-plan remodel estimate?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What line items should be included in a quote for an open-floor-plan conversion?",
+    "text": "What line items should be included in a quote for an open-floor-plan conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A vague quote is one of the biggest risks in an open-floor-plan project. A useful estimate should separate structural work from finish work and clearly state what is included and excluded. Look for demolition, engineering, permit fees, beam fabrication, shoring, post or footing work, electrical relocation, HVAC changes, drywall repair, flooring patching, texture, paint, trim, and cleanup. If the wall contains cabinets, plumbing, or vents, those items should also appear in the scope. Homeowners should also ask whether the quote covers design revisions and inspection corrections if the city requests changes. A detailed line-item estimate makes it easier to compare contractors fairly and avoid budget surprises after the demo starts.",
+      "@type": "Answer",
+      "description": "A complete estimate should include demolition, structural engineering, permits, beam or post installation, electrical and HVAC changes, drywall, flooring repair, painting, cleanup, and final inspections.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A vague quote is one of the biggest risks in an open-floor-plan project. A useful estimate should separate structural work from finish work and clearly state what is included and excluded. Look for demolition, engineering, permit fees, beam fabrication, shoring, post or footing work, electrical relocation, HVAC changes, drywall repair, flooring patching, texture, paint, trim, and cleanup. If the wall contains cabinets, plumbing, or vents, those items should also appear in the scope. Homeowners should also ask whether the quote covers design revisions and inspection corrections if the city requests changes. A detailed line-item estimate makes it easier to compare contractors fairly and avoid budget surprises after the demo starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A complete estimate should include demolition, structural engineering, permits, beam or post installation, electrical and HVAC changes, drywall, flooring repair"
+}

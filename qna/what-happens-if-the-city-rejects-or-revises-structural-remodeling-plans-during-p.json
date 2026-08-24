@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-city-rejects-or-revises-structural-remodeling-plans-during-p",
+  "name": "What if the city asks for revisions after plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the city rejects or revises structural remodeling plans during plan check?",
+    "text": "What happens if the city rejects or revises structural remodeling plans during plan check?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Plan check corrections are common in structural remodeling because the city may request more detail, clarification, or code compliance revisions before approving the work. The response might involve updating structural calculations, adding notes, changing beam sizes, clarifying framing connections, or coordinating architectural and engineering sheets so they match. While this can extend the schedule, it does not mean the project is in trouble. The key is to respond quickly and consistently so the city receives a complete revision package instead of piecemeal fixes. Homeowners should ask their contractor or designer how revisions are handled, who prepares the response, and whether the budget includes redesign time. In many cases, a strong pre-submittal review reduces the chance of multiple correction rounds. Good communication between the owner, designer, engineer, and contractor is the fastest way to get through plan check.",
+      "@type": "Answer",
+      "description": "If plan check comments come back, the design team must revise the drawings, calculations, or scope and resubmit them. This usually adds time but is normal for structural remodeling, especially when the project affects beams, openings, or older construction.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Plan check corrections are common in structural remodeling because the city may request more detail, clarification, or code compliance revisions before approving the work. The response might involve updating structural calculations, adding notes, changing beam sizes, clarifying framing connections, or coordinating architectural and engineering sheets so they match. While this can extend the schedule, it does not mean the project is in trouble. The key is to respond quickly and consistently so the city receives a complete revision package instead of piecemeal fixes. Homeowners should ask their contractor or designer how revisions are handled, who prepares the response, and whether the budget includes redesign time. In many cases, a strong pre-submittal review reduces the chance of multiple correction rounds. Good communication between the owner, designer, engineer, and contractor is the fastest way to get through plan check.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If plan check comments come back, the design team must revise the drawings, calculations, or scope and resubmit them. This usually adds time but is normal for s"
+}

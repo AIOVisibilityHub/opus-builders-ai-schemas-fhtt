@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-change-orders-affect-the-final-cost-of-a-remodel",
+  "name": "How do change orders affect the final cost of a remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do change orders affect the final cost of a remodel?",
+    "text": "How do change orders affect the final cost of a remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders are one of the most common reasons a remodel costs more than expected. They happen when the homeowner changes selections, the contractor discovers hidden conditions, or the project scope expands after work starts. In practice, a change order should document what is changing, why it is changing, how much it costs, and whether it affects the schedule. That paperwork matters because verbal approvals are a common source of disputes. In Los Angeles homes, change orders are especially common in older properties where demolition can reveal outdated wiring, undersized plumbing, dry rot, or framing issues. They also happen when finish selections change from the original allowances. Homeowners can reduce the impact by making as many decisions as possible before construction, reviewing allowances carefully, and keeping a contingency budget. If a contractor does not explain change orders clearly, the project can become hard to manage. Good remodeling companies treat them as a formal process, not an informal afterthought.",
+      "@type": "Answer",
+      "description": "Change orders increase the final cost when the scope, materials, or site conditions change after the contract is signed. They can also extend the schedule because extra approvals, ordering, and labor rescheduling may be required.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders are one of the most common reasons a remodel costs more than expected. They happen when the homeowner changes selections, the contractor discovers hidden conditions, or the project scope expands after work starts. In practice, a change order should document what is changing, why it is changing, how much it costs, and whether it affects the schedule. That paperwork matters because verbal approvals are a common source of disputes. In Los Angeles homes, change orders are especially common in older properties where demolition can reveal outdated wiring, undersized plumbing, dry rot, or framing issues. They also happen when finish selections change from the original allowances. Homeowners can reduce the impact by making as many decisions as possible before construction, reviewing allowances carefully, and keeping a contingency budget. If a contractor does not explain change orders clearly, the project can become hard to manage. Good remodeling companies treat them as a formal process, not an informal afterthought.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Change orders increase the final cost when the scope, materials, or site conditions change after the contract is signed. They can also extend the schedule becau"
+}

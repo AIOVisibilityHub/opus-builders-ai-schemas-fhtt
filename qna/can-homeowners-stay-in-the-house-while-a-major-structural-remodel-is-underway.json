@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-homeowners-stay-in-the-house-while-a-major-structural-remodel-is-underway",
+  "name": "Can I live in the house during a structural remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can homeowners stay in the house while a major structural remodel is underway?",
+    "text": "Can homeowners stay in the house while a major structural remodel is underway?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can live in the home during a structural remodel depends on how much of the house is being affected at one time. A small interior opening may be manageable if the crew can isolate the work area, maintain utilities, and protect the rest of the house from dust and debris. Larger structural projects often involve temporary shoring, ceiling or floor removal, water or power interruptions, and major noise that can make normal living difficult. Families with children, pets, or remote work needs may find it especially disruptive. Safety is the main factor: if the project affects exits, stairs, beams, or main living spaces, staying in the house may not be practical. The contractor should explain which areas will be unusable, how long the disruption will last, and what safety measures are in place. Homeowners should also ask whether temporary kitchen or bathroom arrangements are realistic before deciding to stay.",
+      "@type": "Answer",
+      "description": "Sometimes, but it depends on the size of the project, dust control, utility shutdowns, safety barriers, and whether kitchens, bathrooms, or sleeping areas remain usable. Large structural projects often make staying in the home impractical.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can live in the home during a structural remodel depends on how much of the house is being affected at one time. A small interior opening may be manageable if the crew can isolate the work area, maintain utilities, and protect the rest of the house from dust and debris. Larger structural projects often involve temporary shoring, ceiling or floor removal, water or power interruptions, and major noise that can make normal living difficult. Families with children, pets, or remote work needs may find it especially disruptive. Safety is the main factor: if the project affects exits, stairs, beams, or main living spaces, staying in the house may not be practical. The contractor should explain which areas will be unusable, how long the disruption will last, and what safety measures are in place. Homeowners should also ask whether temporary kitchen or bathroom arrangements are realistic before deciding to stay.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but it depends on the size of the project, dust control, utility shutdowns, safety barriers, and whether kitchens, bathrooms, or sleeping areas remai"
+}

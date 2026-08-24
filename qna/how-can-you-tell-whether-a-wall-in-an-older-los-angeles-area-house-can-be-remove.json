@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-you-tell-whether-a-wall-in-an-older-los-angeles-area-house-can-be-remove",
+  "name": "How do you know if a wall can be removed in an older LA home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can you tell whether a wall in an older Los Angeles-area house can be removed safely?",
+    "text": "How can you tell whether a wall in an older Los Angeles-area house can be removed safely?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The only reliable way to know is to combine an onsite inspection with structural review and, when needed, exploratory opening of the wall. In older Los Angeles homes, walls can conceal load paths, retrofits, plumbing chases, and electrical runs that are not obvious from the floor plan. A contractor or structural engineer can determine whether the wall carries roof, ceiling, or second-floor loads and whether a beam, posts, or foundation upgrades are required. Homeowners should not assume a wall is removable because it sits between the kitchen and living room. The best planning sequence is inspection first, design second, pricing third, and demolition only after the structural path is confirmed.",
+      "@type": "Answer",
+      "description": "You usually cannot tell from appearance alone. A wall may be structural even if it looks thin, and older homes can hide framing, plumbing, electrical, or ductwork inside the wall that changes the plan.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The only reliable way to know is to combine an onsite inspection with structural review and, when needed, exploratory opening of the wall. In older Los Angeles homes, walls can conceal load paths, retrofits, plumbing chases, and electrical runs that are not obvious from the floor plan. A contractor or structural engineer can determine whether the wall carries roof, ceiling, or second-floor loads and whether a beam, posts, or foundation upgrades are required. Homeowners should not assume a wall is removable because it sits between the kitchen and living room. The best planning sequence is inspection first, design second, pricing third, and demolition only after the structural path is confirmed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You usually cannot tell from appearance alone. A wall may be structural even if it looks thin, and older homes can hide framing, plumbing, electrical, or ductwo"
+}

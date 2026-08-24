@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-phase-a-whole-house-remodel-how-do-i-keep-the-house-from-looking-mismatched",
+  "name": "Can a whole-house remodel be done in sections without losing design consistency?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I phase a whole-house remodel, how do I keep the house from looking mismatched?",
+    "text": "If I phase a whole-house remodel, how do I keep the house from looking mismatched?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A phased remodel can still look cohesive if the entire home is designed as one project from the start. The key is to choose a master palette for flooring, trim, paint, fixtures, cabinetry, and hardware before construction begins. That way, each phase follows the same design language even if the work is completed over time. Without a master plan, phased renovations often end up mismatched because materials get discontinued, finishes shift, or each room is designed in isolation. This is especially risky for open floor plans and homes where one room visually connects to another. Homeowners should ask for a whole-house concept plan even if construction will happen in stages. That plan should define the long-term style, material selections, and layout logic. It helps avoid rework and makes it easier to finish future phases without starting over.",
+      "@type": "Answer",
+      "description": "Yes, but only if the full design is planned first. A master plan for flooring, finishes, trim, paint, cabinetry, lighting, and materials helps phased work stay consistent even when construction happens in stages.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A phased remodel can still look cohesive if the entire home is designed as one project from the start. The key is to choose a master palette for flooring, trim, paint, fixtures, cabinetry, and hardware before construction begins. That way, each phase follows the same design language even if the work is completed over time. Without a master plan, phased renovations often end up mismatched because materials get discontinued, finishes shift, or each room is designed in isolation. This is especially risky for open floor plans and homes where one room visually connects to another. Homeowners should ask for a whole-house concept plan even if construction will happen in stages. That plan should define the long-term style, material selections, and layout logic. It helps avoid rework and makes it easier to finish future phases without starting over.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but only if the full design is planned first. A master plan for flooring, finishes, trim, paint, cabinetry, lighting, and materials helps phased work stay "
+}

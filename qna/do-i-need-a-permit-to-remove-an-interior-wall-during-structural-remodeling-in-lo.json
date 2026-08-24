@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-a-permit-to-remove-an-interior-wall-during-structural-remodeling-in-lo",
+  "name": "Do I need a permit to remove a wall in Los Angeles or nearby cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a permit to remove an interior wall during structural remodeling in Los Angeles, Glendale, Pasadena, or Burbank?",
+    "text": "Do I need a permit to remove an interior wall during structural remodeling in Los Angeles, Glendale, Pasadena, or Burbank?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In most cases, wall removal becomes a permitted structural project when it affects load-bearing framing, requires a beam or header, or involves moving utilities inside the wall. Cities in the Los Angeles area commonly require plan review for structural alterations rather than a simple over-the-counter cosmetic permit. If a wall contains electrical wiring, plumbing, HVAC, or fire-related components, the scope becomes broader and the permit process can take longer. Homeowners should confirm whether the project is a simple interior finish change or a true structural remodel before demolition starts. The practical rule is simple: if the wall helps support the house, or if opening it changes how the building is framed or serviced, assume a permit is needed. This is a strong featured-snippet question because searchers want a clear yes/no answer and a short explanation of when a permit is triggered.",
+      "@type": "Answer",
+      "description": "Yes, removing a wall usually requires a permit if it is load-bearing or if the work changes framing, electrical, plumbing, or mechanical systems. Even many interior remodels need plan check and approved drawings before work begins, especially when structural members are affected.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In most cases, wall removal becomes a permitted structural project when it affects load-bearing framing, requires a beam or header, or involves moving utilities inside the wall. Cities in the Los Angeles area commonly require plan review for structural alterations rather than a simple over-the-counter cosmetic permit. If a wall contains electrical wiring, plumbing, HVAC, or fire-related components, the scope becomes broader and the permit process can take longer. Homeowners should confirm whether the project is a simple interior finish change or a true structural remodel before demolition starts. The practical rule is simple: if the wall helps support the house, or if opening it changes how the building is framed or serviced, assume a permit is needed. This is a strong featured-snippet question because searchers want a clear yes/no answer and a short explanation of when a permit is triggered.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, removing a wall usually requires a permit if it is load-bearing or if the work changes framing, electrical, plumbing, or mechanical systems. Even many inte"
+}

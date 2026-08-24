@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-design-an-open-floor-plan-so-the-dining-room-does-not-disappear",
+  "name": "How do you keep a dining area in an open plan?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you design an open floor plan so the dining room does not disappear?",
+    "text": "How do you design an open floor plan so the dining room does not disappear?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "One challenge in open-floor-plan conversions is that the dining room can lose its purpose once walls come down. The fix is to define the zone using a pendant light, rug, table size, wall treatment, ceiling detail, or built-in storage nearby. Some layouts work best with a clear circulation path around the dining area, while others need a subtle transition between kitchen and living space. Without that definition, the dining table can feel like leftover furniture instead of a true destination. Homeowners should ask the designer to place the dining area on the plan before structural work begins, not after. That helps prevent awkward traffic flow and makes the whole space feel intentional.",
+      "@type": "Answer",
+      "description": "Use furniture placement, lighting, rugs, ceiling treatment, or a partial transition to define the dining zone. An open plan works best when the dining area still has its own visual identity.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "One challenge in open-floor-plan conversions is that the dining room can lose its purpose once walls come down. The fix is to define the zone using a pendant light, rug, table size, wall treatment, ceiling detail, or built-in storage nearby. Some layouts work best with a clear circulation path around the dining area, while others need a subtle transition between kitchen and living space. Without that definition, the dining table can feel like leftover furniture instead of a true destination. Homeowners should ask the designer to place the dining area on the plan before structural work begins, not after. That helps prevent awkward traffic flow and makes the whole space feel intentional.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Use furniture placement, lighting, rugs, ceiling treatment, or a partial transition to define the dining zone. An open plan works best when the dining area stil"
+}

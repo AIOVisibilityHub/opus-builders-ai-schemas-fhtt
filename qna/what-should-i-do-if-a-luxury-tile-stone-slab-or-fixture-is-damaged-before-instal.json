@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-do-if-a-luxury-tile-stone-slab-or-fixture-is-damaged-before-instal",
+  "name": "What happens if my imported materials arrive damaged?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do if a luxury tile, stone slab, or fixture is damaged before installation?",
+    "text": "What should I do if a luxury tile, stone slab, or fixture is damaged before installation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Damaged luxury materials should be documented right away with photos, delivery notes, and item details before anything is installed. In many cases, the safest step is to reject visibly damaged slabs, cracked tile boxes, or scratched fixtures so the problem is recorded while the shipment is still fresh. If damage is discovered after delivery, the installer should isolate the affected pieces and confirm whether they can still be used in a less visible area, returned, repaired, or replaced. For stone and tile, small chips may sometimes be hidden by layout changes, but deep cracks or finish damage usually require replacement. For fixtures, packaging damage can also affect internal parts, threads, or finish quality even if the item looks usable at first glance. Homeowners should ask who is responsible for inspection at delivery, how claims are filed, and whether the project schedule includes backup time for replacements.",
+      "@type": "Answer",
+      "description": "If imported or specialty materials arrive damaged, the installer should document the issue immediately, stop installation on the affected items, and verify whether the damage happened during shipping, storage, or handling. High-end materials often need replacement or fabrication adjustments before work can continue.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Damaged luxury materials should be documented right away with photos, delivery notes, and item details before anything is installed. In many cases, the safest step is to reject visibly damaged slabs, cracked tile boxes, or scratched fixtures so the problem is recorded while the shipment is still fresh. If damage is discovered after delivery, the installer should isolate the affected pieces and confirm whether they can still be used in a less visible area, returned, repaired, or replaced. For stone and tile, small chips may sometimes be hidden by layout changes, but deep cracks or finish damage usually require replacement. For fixtures, packaging damage can also affect internal parts, threads, or finish quality even if the item looks usable at first glance. Homeowners should ask who is responsible for inspection at delivery, how claims are filed, and whether the project schedule includes backup time for replacements.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If imported or specialty materials arrive damaged, the installer should document the issue immediately, stop installation on the affected items, and verify whet"
+}

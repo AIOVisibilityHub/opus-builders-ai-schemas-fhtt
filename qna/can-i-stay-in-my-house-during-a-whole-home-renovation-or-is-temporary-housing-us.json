@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-stay-in-my-house-during-a-whole-home-renovation-or-is-temporary-housing-us",
+  "name": "Can I live in the house during a whole-home renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I stay in my house during a whole-home renovation, or is temporary housing usually necessary?",
+    "text": "Can I stay in my house during a whole-home renovation, or is temporary housing usually necessary?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Living through a whole-home renovation is possible for smaller, phased projects, but it gets difficult when major systems are shut down or dust, noise, and safety issues affect the entire house. If the kitchen is unusable, bathrooms are limited, or water and power interruptions are frequent, staying on-site can slow the project and reduce comfort. Families with children, pets, or remote work needs often prefer temporary housing during the most disruptive phases. If you do remain in the home, plan for separate living zones, dust barriers, access rules, and a clear schedule for utility shutdowns. Ask your contractor early whether the project can be safely phased or whether moving out will actually save time and reduce stress.",
+      "@type": "Answer",
+      "description": "You can sometimes live in the home during a whole-home renovation, but it depends on how much of the house is being worked on. If the kitchen, bathrooms, utilities, or entire first floor are offline, temporary housing is often the more practical choice.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Living through a whole-home renovation is possible for smaller, phased projects, but it gets difficult when major systems are shut down or dust, noise, and safety issues affect the entire house. If the kitchen is unusable, bathrooms are limited, or water and power interruptions are frequent, staying on-site can slow the project and reduce comfort. Families with children, pets, or remote work needs often prefer temporary housing during the most disruptive phases. If you do remain in the home, plan for separate living zones, dust barriers, access rules, and a clear schedule for utility shutdowns. Ask your contractor early whether the project can be safely phased or whether moving out will actually save time and reduce stress.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You can sometimes live in the home during a whole-home renovation, but it depends on how much of the house is being worked on. If the kitchen, bathrooms, utilit"
+}

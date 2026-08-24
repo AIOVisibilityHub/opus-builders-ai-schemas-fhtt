@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-order-should-a-whole-home-renovation-follow-so-the-project-does-not-create",
+  "name": "What is the best order of work in a whole-home renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What order should a whole-home renovation follow so the project does not create rework?",
+    "text": "What order should a whole-home renovation follow so the project does not create rework?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A good sequence protects both quality and schedule. Start with design, engineering, and permits so the scope is locked before demolition. After demo, complete any structural work first, then rough plumbing, electrical, and HVAC. Inspections should happen before insulation and drywall close the walls. Once the shell is ready, move to flooring, cabinetry, tile, paint, lighting, plumbing fixtures, and final trim. Finishing work too early can lead to damage, delays, or rework when hidden systems still need attention. Ask your contractor for a written milestone schedule so you can track progress and know which decisions must be made before each phase begins.",
+      "@type": "Answer",
+      "description": "The usual order is planning and design, permits, demolition, structural work, rough plumbing and electrical, HVAC, insulation, drywall, flooring, cabinets, tile, paint, fixtures, and final punch list. Finishes should never be installed before the rough work and inspections are complete.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A good sequence protects both quality and schedule. Start with design, engineering, and permits so the scope is locked before demolition. After demo, complete any structural work first, then rough plumbing, electrical, and HVAC. Inspections should happen before insulation and drywall close the walls. Once the shell is ready, move to flooring, cabinetry, tile, paint, lighting, plumbing fixtures, and final trim. Finishing work too early can lead to damage, delays, or rework when hidden systems still need attention. Ask your contractor for a written milestone schedule so you can track progress and know which decisions must be made before each phase begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The usual order is planning and design, permits, demolition, structural work, rough plumbing and electrical, HVAC, insulation, drywall, flooring, cabinets, tile"
+}

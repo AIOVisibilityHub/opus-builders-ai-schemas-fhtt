@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-open-floor-plan-remodel-be-done-in-phases-instead-of-all-at-once",
+  "name": "Can you do an open-floor-plan conversion in stages?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an open-floor-plan remodel be done in phases instead of all at once?",
+    "text": "Can an open-floor-plan remodel be done in phases instead of all at once?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A phased conversion can make sense when budget, occupancy, or scope makes a full remodel impractical. For example, homeowners may start with one opening, then complete flooring, lighting, and cabinetry in later stages. The challenge is avoiding rework, since structural decisions, finish transitions, and utility relocations need to be coordinated across phases. If the first phase is not planned with the final layout in mind, the home can end up with mismatched floors, awkward beam placements, or duplicated costs. A phased strategy works best when the final design is set upfront and each stage is built to fit that larger plan. That keeps the project flexible without sacrificing the end result.",
+      "@type": "Answer",
+      "description": "Yes, but the project has to be sequenced carefully so structural, utility, and finish work do not need to be redone later. Phasing can help with budget and disruption.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A phased conversion can make sense when budget, occupancy, or scope makes a full remodel impractical. For example, homeowners may start with one opening, then complete flooring, lighting, and cabinetry in later stages. The challenge is avoiding rework, since structural decisions, finish transitions, and utility relocations need to be coordinated across phases. If the first phase is not planned with the final layout in mind, the home can end up with mismatched floors, awkward beam placements, or duplicated costs. A phased strategy works best when the final design is set upfront and each stage is built to fit that larger plan. That keeps the project flexible without sacrificing the end result.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the project has to be sequenced carefully so structural, utility, and finish work do not need to be redone later. Phasing can help with budget and disr"
+}

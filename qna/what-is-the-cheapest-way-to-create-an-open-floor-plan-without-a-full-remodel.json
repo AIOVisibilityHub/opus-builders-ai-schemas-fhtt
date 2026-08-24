@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-cheapest-way-to-create-an-open-floor-plan-without-a-full-remodel",
+  "name": "What is the cheapest way to open up a floor plan?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the cheapest way to create an open floor plan without a full remodel?",
+    "text": "What is the cheapest way to create an open floor plan without a full remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the goal is to create a more open feel on a budget, the least expensive path is usually to work with non-structural walls or enlarge an existing opening. That avoids many of the costs tied to beams, posts, shoring, and extensive engineering. Homeowners can also improve openness with lighting changes, consistent flooring, better paint choices, and more strategic furniture placement. If the wall is structural, the budget rises quickly, so it helps to compare the cost of a partial opening versus a full removal. The cheapest option is not always the best long term, but it can be the smartest way to capture most of the visual benefit without overbuilding the project.",
+      "@type": "Answer",
+      "description": "The cheapest option is usually removing a non-load-bearing wall or widening an existing opening, then repairing finishes. Those projects are far less expensive than structural wall removal and major utility relocation.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the goal is to create a more open feel on a budget, the least expensive path is usually to work with non-structural walls or enlarge an existing opening. That avoids many of the costs tied to beams, posts, shoring, and extensive engineering. Homeowners can also improve openness with lighting changes, consistent flooring, better paint choices, and more strategic furniture placement. If the wall is structural, the budget rises quickly, so it helps to compare the cost of a partial opening versus a full removal. The cheapest option is not always the best long term, but it can be the smartest way to capture most of the visual benefit without overbuilding the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The cheapest option is usually removing a non-load-bearing wall or widening an existing opening, then repairing finishes. Those projects are far less expensive "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-cabinet-woods-are-best-if-the-homeowner-wants-a-consistent-stained-finish",
+  "name": "What wood species takes stain the most evenly?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which cabinet woods are best if the homeowner wants a consistent stained finish without blotching?",
+    "text": "Which cabinet woods are best if the homeowner wants a consistent stained finish without blotching?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Wood species strongly affects how a stain reads on the finished cabinet. Some woods absorb stain evenly and create a consistent tone, while others blotch or emphasize grain variation. Maple is popular for a clean, subtle look, cherry brings warmth and natural color change, walnut offers rich depth, and oak can give a more pronounced grain character. If a homeowner wants a very uniform result, the cabinet maker may need to use a stain conditioner, toner, or multi-step finish schedule. This is especially important on large flat surfaces and visible end panels. Before approving the final finish, review a sample made from the same species and construction method as the actual cabinets, because stain on a small board can look different from stain on a full door. The species should be chosen with the finish in mind, not after the fact.",
+      "@type": "Answer",
+      "description": "Maple, cherry, walnut, and quarter-sawn oak are commonly used for stained cabinetry because they can produce a refined, even appearance. Soft woods and highly variable grain species may absorb stain unevenly unless a conditioner or toner is used. The final look depends on the species, grain pattern, and stain system.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Wood species strongly affects how a stain reads on the finished cabinet. Some woods absorb stain evenly and create a consistent tone, while others blotch or emphasize grain variation. Maple is popular for a clean, subtle look, cherry brings warmth and natural color change, walnut offers rich depth, and oak can give a more pronounced grain character. If a homeowner wants a very uniform result, the cabinet maker may need to use a stain conditioner, toner, or multi-step finish schedule. This is especially important on large flat surfaces and visible end panels. Before approving the final finish, review a sample made from the same species and construction method as the actual cabinets, because stain on a small board can look different from stain on a full door. The species should be chosen with the finish in mind, not after the fact.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Maple, cherry, walnut, and quarter-sawn oak are commonly used for stained cabinetry because they can produce a refined, even appearance. Soft woods and highly v"
+}

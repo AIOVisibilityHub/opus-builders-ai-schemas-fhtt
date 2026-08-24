@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-usually-happens-to-plumbing-electrical-and-hvac-lines-when-a-structural-wal",
+  "name": "What happens to plumbing and electrical when a wall comes out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What usually happens to plumbing, electrical, and HVAC lines when a structural wall is removed?",
+    "text": "What usually happens to plumbing, electrical, and HVAC lines when a structural wall is removed?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When a wall is removed, the utilities inside it do not disappear with the framing. Electrical wiring may need to be rerouted through the ceiling, floor, or adjacent walls. Plumbing lines may require relocation, rerouting, or reconfiguration to keep the system functional and code-compliant. HVAC ducts, vents, and returns can be especially challenging because they affect airflow and may occupy the same structural zone. This is one of the biggest reasons a wall removal becomes more complex than expected. Homeowners should assume that any wall could contain hidden utilities until the contractor confirms otherwise. A careful pre-demolition inspection helps identify what must move before framing work begins. Utility coordination also affects cost and schedule, so it should be included in the early design discussion rather than treated as an afterthought.",
+      "@type": "Answer",
+      "description": "Utilities inside the wall often need to be rerouted, extended, or protected before the wall can come out. If plumbing, wiring, or ducts run through the wall, the remodel may require separate permits, inspections, and additional repair work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When a wall is removed, the utilities inside it do not disappear with the framing. Electrical wiring may need to be rerouted through the ceiling, floor, or adjacent walls. Plumbing lines may require relocation, rerouting, or reconfiguration to keep the system functional and code-compliant. HVAC ducts, vents, and returns can be especially challenging because they affect airflow and may occupy the same structural zone. This is one of the biggest reasons a wall removal becomes more complex than expected. Homeowners should assume that any wall could contain hidden utilities until the contractor confirms otherwise. A careful pre-demolition inspection helps identify what must move before framing work begins. Utility coordination also affects cost and schedule, so it should be included in the early design discussion rather than treated as an afterthought.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utilities inside the wall often need to be rerouted, extended, or protected before the wall can come out. If plumbing, wiring, or ducts run through the wall, th"
+}

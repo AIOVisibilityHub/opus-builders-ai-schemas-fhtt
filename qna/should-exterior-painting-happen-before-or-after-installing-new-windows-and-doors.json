@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-exterior-painting-happen-before-or-after-installing-new-windows-and-doors",
+  "name": "Should I do exterior paint before or after new windows are installed?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should exterior painting happen before or after installing new windows and doors?",
+    "text": "Should exterior painting happen before or after installing new windows and doors?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In most exterior remodels, new windows and doors should go in before the final paint coat. That order allows installers to complete flashing, sealing, trim adjustments, and any necessary patching around the openings before the finish is applied. If painting happens too early, installers may scratch surfaces, expose raw edges, or require extra touch-up work after the units are set. The same logic applies to exterior trim and decorative details that connect to openings. A coordinated plan should also account for primer, caulk cure time, and any siding or stucco repairs that need to dry before paint goes on. There are cases where limited pre-painting makes sense, such as off-site trim preparation or factory-finished components, but the final finish layers generally belong at the end of the sequence. For the cleanest result, homeowners should ask the contractor how the window, door, and paint scopes will be staged so the crew does not have to disturb completed surfaces.",
+      "@type": "Answer",
+      "description": "Exterior painting is usually best done after new windows and doors are installed so trim, flashing, and caulking can be finished cleanly around the final openings. Painting first often leads to touch-ups or damaged finishes during installation. The exception is when certain off-site prep or color matching steps are needed, but the final coat usually comes last.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In most exterior remodels, new windows and doors should go in before the final paint coat. That order allows installers to complete flashing, sealing, trim adjustments, and any necessary patching around the openings before the finish is applied. If painting happens too early, installers may scratch surfaces, expose raw edges, or require extra touch-up work after the units are set. The same logic applies to exterior trim and decorative details that connect to openings. A coordinated plan should also account for primer, caulk cure time, and any siding or stucco repairs that need to dry before paint goes on. There are cases where limited pre-painting makes sense, such as off-site trim preparation or factory-finished components, but the final finish layers generally belong at the end of the sequence. For the cleanest result, homeowners should ask the contractor how the window, door, and paint scopes will be staged so the crew does not have to disturb completed surfaces.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Exterior painting is usually best done after new windows and doors are installed so trim, flashing, and caulking can be finished cleanly around the final openin"
+}

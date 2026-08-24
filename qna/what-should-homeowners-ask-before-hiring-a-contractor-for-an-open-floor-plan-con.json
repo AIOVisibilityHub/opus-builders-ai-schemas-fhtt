@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-homeowners-ask-before-hiring-a-contractor-for-an-open-floor-plan-con",
+  "name": "What questions should you ask a contractor before starting?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should homeowners ask before hiring a contractor for an open-floor-plan conversion?",
+    "text": "What should homeowners ask before hiring a contractor for an open-floor-plan conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring, homeowners should confirm the contractor can manage both structural and finish work. Ask who is responsible for engineering, permit drawings, inspections, temporary shoring, beam installation, utility relocation, drywall, flooring repair, and paint matching. Also ask how change orders are handled, because hidden conditions are common once the wall is opened. In the Los Angeles area, experience with local building departments matters because permit processing and inspection timing can affect the entire project. A strong contractor should explain the likely sequence, flag risks early, and give a realistic budget range instead of a single low number. Clear answers before demolition are a strong sign the project will stay on track.",
+      "@type": "Answer",
+      "description": "Ask whether the wall is load-bearing, whether engineering is included, what permits are needed, how utilities will be handled, what the schedule is, and what finish restoration is part of the price.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring, homeowners should confirm the contractor can manage both structural and finish work. Ask who is responsible for engineering, permit drawings, inspections, temporary shoring, beam installation, utility relocation, drywall, flooring repair, and paint matching. Also ask how change orders are handled, because hidden conditions are common once the wall is opened. In the Los Angeles area, experience with local building departments matters because permit processing and inspection timing can affect the entire project. A strong contractor should explain the likely sequence, flag risks early, and give a realistic budget range instead of a single low number. Clear answers before demolition are a strong sign the project will stay on track.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask whether the wall is load-bearing, whether engineering is included, what permits are needed, how utilities will be handled, what the schedule is, and what fi"
+}

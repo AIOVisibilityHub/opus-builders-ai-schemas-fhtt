@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-remodel-renovation-and-home-addition",
+  "name": "What is the difference between a remodel, renovation, and home addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a remodel, renovation, and home addition?",
+    "text": "What is the difference between a remodel, renovation, and home addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "These terms are often used interchangeably, but they mean different things in practice. A renovation generally refreshes or repairs an existing space without major layout changes, such as replacing finishes, fixtures, or cabinetry. A remodel usually changes how the space works, which can include moving walls, reconfiguring rooms, or updating plumbing and electrical systems. An addition expands the home’s footprint by adding new square footage. In Los Angeles, the difference matters because permitting, structural review, engineering, and cost can change dramatically depending on the project type. A homeowner asking for a “kitchen renovation” may actually need a remodel if the sink, appliances, and walls are being relocated. A contractor should define the scope in writing so there is no confusion about what is included. This also helps with budgeting because additions typically require more structural, foundation, roofline, and utility work than interior remodels. If you are planning a project, start by deciding whether you are improving the existing space, changing its layout, or expanding the property. That single decision drives the rest of the plan.",
+      "@type": "Answer",
+      "description": "A renovation usually updates an existing space, a remodel changes the layout or function, and an addition increases the home’s footprint. The distinction matters because each one affects design scope, permits, cost, and timeline differently in Los Angeles.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "These terms are often used interchangeably, but they mean different things in practice. A renovation generally refreshes or repairs an existing space without major layout changes, such as replacing finishes, fixtures, or cabinetry. A remodel usually changes how the space works, which can include moving walls, reconfiguring rooms, or updating plumbing and electrical systems. An addition expands the home’s footprint by adding new square footage. In Los Angeles, the difference matters because permitting, structural review, engineering, and cost can change dramatically depending on the project type. A homeowner asking for a “kitchen renovation” may actually need a remodel if the sink, appliances, and walls are being relocated. A contractor should define the scope in writing so there is no confusion about what is included. This also helps with budgeting because additions typically require more structural, foundation, roofline, and utility work than interior remodels. If you are planning a project, start by deciding whether you are improving the existing space, changing its layout, or expanding the property. That single decision drives the rest of the plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A renovation usually updates an existing space, a remodel changes the layout or function, and an addition increases the home’s footprint. The distinction matter"
+}

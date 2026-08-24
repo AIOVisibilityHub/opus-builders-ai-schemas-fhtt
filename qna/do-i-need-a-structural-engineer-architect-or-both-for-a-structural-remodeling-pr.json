@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-a-structural-engineer-architect-or-both-for-a-structural-remodeling-pr",
+  "name": "What kind of engineer do I need for a structural remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a structural engineer, architect, or both for a structural remodeling project?",
+    "text": "Do I need a structural engineer, architect, or both for a structural remodeling project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The right professional depends on how much the project changes the house. If the remodel changes structural framing, a structural engineer is typically needed to calculate loads, size beams or posts, and document safe support details for permit review. If the project also changes room layout, exterior appearance, or custom design elements, an architect or design-build firm may handle the overall concept and coordinate the engineering. For larger remodels, both professionals often contribute: the architect develops the vision and the engineer confirms that the structure can support it. Homeowners should not assume a general contractor can replace structural design input. In many Los Angeles-area projects, especially when opening walls or modifying older homes, engineering is not optional because the city may require stamped calculations. Choosing the right team early avoids redesigns, delays, and approval problems.",
+      "@type": "Answer",
+      "description": "For projects affecting beams, load-bearing walls, or major openings, a structural engineer is usually needed to design the support system. An architect may also be needed for layout, aesthetics, and permit drawings, and many remodels use both.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The right professional depends on how much the project changes the house. If the remodel changes structural framing, a structural engineer is typically needed to calculate loads, size beams or posts, and document safe support details for permit review. If the project also changes room layout, exterior appearance, or custom design elements, an architect or design-build firm may handle the overall concept and coordinate the engineering. For larger remodels, both professionals often contribute: the architect develops the vision and the engineer confirms that the structure can support it. Homeowners should not assume a general contractor can replace structural design input. In many Los Angeles-area projects, especially when opening walls or modifying older homes, engineering is not optional because the city may require stamped calculations. Choosing the right team early avoids redesigns, delays, and approval problems.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "For projects affecting beams, load-bearing walls, or major openings, a structural engineer is usually needed to design the support system. An architect may also"
+}

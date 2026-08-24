@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-demolition-uncovers-hazardous-materials-in-an-older-house",
+  "name": "What if my whole-house remodel finds asbestos or lead paint?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if demolition uncovers hazardous materials in an older house?",
+    "text": "What happens if demolition uncovers hazardous materials in an older house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If demolition reveals asbestos or lead-based materials, the project usually cannot continue in the affected area until the materials are addressed safely. The next step is testing and, if needed, containment and removal by the appropriate qualified professionals. This can add cost and time, but it is far better than disturbing hazardous materials without a plan. Older homes are the most likely to have these issues in flooring, insulation, ducting, wall finishes, or other concealed areas. Homeowners should ask about testing before demolition if the home is old enough to carry that risk. That helps avoid surprise shutdowns once the project is already underway. A contractor experienced with older Los Angeles homes should know how to sequence the work around hazard remediation so the remodel can resume efficiently. Planning for this possibility upfront is much easier than reacting after the walls are open.",
+      "@type": "Answer",
+      "description": "If asbestos or lead-based materials are found, work usually has to pause so the area can be tested, contained, and handled properly. The project may need specialty removal, added time, and extra cost before normal construction can continue.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If demolition reveals asbestos or lead-based materials, the project usually cannot continue in the affected area until the materials are addressed safely. The next step is testing and, if needed, containment and removal by the appropriate qualified professionals. This can add cost and time, but it is far better than disturbing hazardous materials without a plan. Older homes are the most likely to have these issues in flooring, insulation, ducting, wall finishes, or other concealed areas. Homeowners should ask about testing before demolition if the home is old enough to carry that risk. That helps avoid surprise shutdowns once the project is already underway. A contractor experienced with older Los Angeles homes should know how to sequence the work around hazard remediation so the remodel can resume efficiently. Planning for this possibility upfront is much easier than reacting after the walls are open.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If asbestos or lead-based materials are found, work usually has to pause so the area can be tested, contained, and handled properly. The project may need specia"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-it-take-to-convert-a-closed-layout-to-an-open-floor-plan-in-los-an",
+  "name": "How long does an open-floor-plan conversion take?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does it take to convert a closed layout to an open floor plan in Los Angeles?",
+    "text": "How long does it take to convert a closed layout to an open floor plan in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Timeline depends on whether the wall is structural and how much of the home needs to be reworked. A straightforward non-load-bearing demo may be fast, but a proper open-floor-plan conversion usually includes design, engineering, permit review, demolition, structural framing, utility relocation, and finish repairs. If the project involves a kitchen, the timeline can expand further because cabinets, flooring, backsplash, electrical, and plumbing all have to coordinate. In Los Angeles, permitting and inspection scheduling can become the pacing item, especially for larger or more customized remodels. Homeowners should ask for a phase-by-phase schedule, not just a total duration, so they know when the home will be unusable and when key inspections must happen.",
+      "@type": "Answer",
+      "description": "A simple non-load-bearing wall removal can take days, but a structural open-floor-plan conversion often takes several weeks once permits, engineering, inspections, framing, and finish work are included.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Timeline depends on whether the wall is structural and how much of the home needs to be reworked. A straightforward non-load-bearing demo may be fast, but a proper open-floor-plan conversion usually includes design, engineering, permit review, demolition, structural framing, utility relocation, and finish repairs. If the project involves a kitchen, the timeline can expand further because cabinets, flooring, backsplash, electrical, and plumbing all have to coordinate. In Los Angeles, permitting and inspection scheduling can become the pacing item, especially for larger or more customized remodels. Homeowners should ask for a phase-by-phase schedule, not just a total duration, so they know when the home will be unusable and when key inspections must happen.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A simple non-load-bearing wall removal can take days, but a structural open-floor-plan conversion often takes several weeks once permits, engineering, inspectio"
+}

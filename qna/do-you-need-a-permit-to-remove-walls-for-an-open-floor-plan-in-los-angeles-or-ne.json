@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-you-need-a-permit-to-remove-walls-for-an-open-floor-plan-in-los-angeles-or-ne",
+  "name": "Do you need a permit to create an open floor plan in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do you need a permit to remove walls for an open floor plan in Los Angeles or nearby cities?",
+    "text": "Do you need a permit to remove walls for an open floor plan in Los Angeles or nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For an open-floor-plan conversion, permitting usually depends on what the wall contains and whether the home’s structure changes. A load-bearing wall typically requires engineered drawings and city review before demolition starts. Even non-load-bearing walls can trigger permits if they contain wiring, plumbing, HVAC, or fire-related components. In Los Angeles-area cities, homeowners should confirm requirements early because permit timing can affect the remodel schedule and the contractor’s scope. The safest approach is to have the wall evaluated before design is finalized, then build the plan around what the permit office is likely to approve. This avoids surprise costs, redesigns, and delays once construction begins.",
+      "@type": "Answer",
+      "description": "Yes, if the project changes the structure, electrical, plumbing, or mechanical systems. Load-bearing wall removal almost always needs permits and engineered plans, while a non-structural wall may still need approval if it affects utilities or safety requirements.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For an open-floor-plan conversion, permitting usually depends on what the wall contains and whether the home’s structure changes. A load-bearing wall typically requires engineered drawings and city review before demolition starts. Even non-load-bearing walls can trigger permits if they contain wiring, plumbing, HVAC, or fire-related components. In Los Angeles-area cities, homeowners should confirm requirements early because permit timing can affect the remodel schedule and the contractor’s scope. The safest approach is to have the wall evaluated before design is finalized, then build the plan around what the permit office is likely to approve. This avoids surprise costs, redesigns, and delays once construction begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, if the project changes the structure, electrical, plumbing, or mechanical systems. Load-bearing wall removal almost always needs permits and engineered pla"
+}

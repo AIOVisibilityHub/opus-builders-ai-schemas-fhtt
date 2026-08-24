@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-normal-permit-and-inspection-process-for-structural-remodeling-in-lo",
+  "name": "How are permits and inspections handled for structural remodeling?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the normal permit and inspection process for structural remodeling in Los Angeles-area cities?",
+    "text": "What is the normal permit and inspection process for structural remodeling in Los Angeles-area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A structural remodel usually follows a predictable sequence. First, the design team defines the scope and prepares drawings, often with structural calculations. Next, the plans are submitted for permit review, where the city checks safety, code compliance, and scope. Once approved, the permit is issued and construction can begin. During the build, inspections are scheduled at important stages such as framing, structural connections, and any rough electrical or plumbing work that was affected by the remodel. The project ends with final inspections and sign-off once the work matches the approved plans. In practice, the schedule can be slowed by corrections, re-submittals, or discoveries in the field. Homeowners should keep copies of approved plans on site and avoid covering work before the inspector has seen it. A well-managed permit process is one of the best ways to avoid delays, failed inspections, and expensive rework.",
+      "@type": "Answer",
+      "description": "The usual process is design, structural calculations, permit submission, plan check, permit issuance, demolition or framing, rough inspections, and final inspection. Any change to beams, supports, or wall framing generally needs city approval before the work is closed up.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A structural remodel usually follows a predictable sequence. First, the design team defines the scope and prepares drawings, often with structural calculations. Next, the plans are submitted for permit review, where the city checks safety, code compliance, and scope. Once approved, the permit is issued and construction can begin. During the build, inspections are scheduled at important stages such as framing, structural connections, and any rough electrical or plumbing work that was affected by the remodel. The project ends with final inspections and sign-off once the work matches the approved plans. In practice, the schedule can be slowed by corrections, re-submittals, or discoveries in the field. Homeowners should keep copies of approved plans on site and avoid covering work before the inspector has seen it. A well-managed permit process is one of the best ways to avoid delays, failed inspections, and expensive rework.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The usual process is design, structural calculations, permit submission, plan check, permit issuance, demolition or framing, rough inspections, and final inspec"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-structural-remodel-be-split-into-phases-to-spread-out-the-cost-and-disrupt",
+  "name": "Can structural remodeling be done in phases?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a structural remodel be split into phases to spread out the cost and disruption?",
+    "text": "Can a structural remodel be split into phases to spread out the cost and disruption?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Structural remodeling can sometimes be divided into phases, especially if the home owner wants to spread out cost or limit disruption. For example, a project may start with one wing of the house, a kitchen opening, or a foundation repair, then continue later with adjacent spaces. The challenge is that structural work affects how the entire building behaves, so the first phase must account for future phases. Temporary shoring, partial demolition, and unfinished transitions can create safety and weatherproofing issues if not planned correctly. Phasing can also complicate permits because the approved drawings must match what is actually being built. It is best to design the full end state first, then decide which pieces can safely be built in stages. That approach prevents expensive rework and helps ensure the completed project looks intentional rather than pieced together.",
+      "@type": "Answer",
+      "description": "Yes, some structural remodels can be phased, but the sequence must be planned carefully so temporary conditions remain safe and future phases still work with the approved design. Phasing can affect permits, inspections, and finish continuity.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Structural remodeling can sometimes be divided into phases, especially if the home owner wants to spread out cost or limit disruption. For example, a project may start with one wing of the house, a kitchen opening, or a foundation repair, then continue later with adjacent spaces. The challenge is that structural work affects how the entire building behaves, so the first phase must account for future phases. Temporary shoring, partial demolition, and unfinished transitions can create safety and weatherproofing issues if not planned correctly. Phasing can also complicate permits because the approved drawings must match what is actually being built. It is best to design the full end state first, then decide which pieces can safely be built in stages. That approach prevents expensive rework and helps ensure the completed project looks intentional rather than pieced together.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, some structural remodels can be phased, but the sequence must be planned carefully so temporary conditions remain safe and future phases still work with th"
+}

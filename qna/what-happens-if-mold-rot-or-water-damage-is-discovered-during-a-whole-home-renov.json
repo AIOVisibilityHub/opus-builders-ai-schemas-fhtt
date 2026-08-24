@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-mold-rot-or-water-damage-is-discovered-during-a-whole-home-renov",
+  "name": "What if I find mold or water damage during demolition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if mold, rot, or water damage is discovered during a whole-home renovation?",
+    "text": "What happens if mold, rot, or water damage is discovered during a whole-home renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Unexpected damage is one of the main reasons whole-home renovations need contingency funds. Once demolition begins, contractors may uncover leaks, rot, mold, or compromised framing that was hidden behind walls or under floors. The right response is to stop and assess the extent of the damage, then repair the source of the problem before rebuilding. If the issue is widespread, it may require specialist remediation or engineering input. It is better to address the condition fully than to cover it and risk future failures. Homeowners should expect some delay whenever hidden damage appears and should ask for written documentation and photos so they understand what changed and why the extra cost is necessary.",
+      "@type": "Answer",
+      "description": "If mold, rot, or water damage is found during demolition, the affected areas usually need to be exposed, repaired, and documented before finishes can continue. This typically adds cost and time and may require specialized remediation or structural repair.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Unexpected damage is one of the main reasons whole-home renovations need contingency funds. Once demolition begins, contractors may uncover leaks, rot, mold, or compromised framing that was hidden behind walls or under floors. The right response is to stop and assess the extent of the damage, then repair the source of the problem before rebuilding. If the issue is widespread, it may require specialist remediation or engineering input. It is better to address the condition fully than to cover it and risk future failures. Homeowners should expect some delay whenever hidden damage appears and should ask for written documentation and photos so they understand what changed and why the extra cost is necessary.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If mold, rot, or water damage is found during demolition, the affected areas usually need to be exposed, repaired, and documented before finishes can continue. "
+}

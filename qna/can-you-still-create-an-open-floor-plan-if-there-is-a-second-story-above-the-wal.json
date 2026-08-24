@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-still-create-an-open-floor-plan-if-there-is-a-second-story-above-the-wal",
+  "name": "What if the house has a second story above the wall?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you still create an open floor plan if there is a second story above the wall?",
+    "text": "Can you still create an open floor plan if there is a second story above the wall?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A second story does not prevent an open-floor-plan conversion, but it usually makes the engineering more demanding. The wall may carry floor joists, upper-level framing, or concentrated loads that require stronger support than a single-story opening. That can increase the beam size, post locations, and foundation requirements. It may also affect ceiling height and the final look of the opening. Homeowners should expect more design and structural coordination when a second floor sits above the wall. The right first step is to determine the load path before choosing the opening width, because the desired architectural look may need to be adjusted to fit safe support conditions.",
+      "@type": "Answer",
+      "description": "Yes, but it is usually more complex and expensive because the wall may carry second-floor loads. That often means a larger beam, more support, and possibly footing work below.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A second story does not prevent an open-floor-plan conversion, but it usually makes the engineering more demanding. The wall may carry floor joists, upper-level framing, or concentrated loads that require stronger support than a single-story opening. That can increase the beam size, post locations, and foundation requirements. It may also affect ceiling height and the final look of the opening. Homeowners should expect more design and structural coordination when a second floor sits above the wall. The right first step is to determine the load path before choosing the opening width, because the desired architectural look may need to be adjusted to fit safe support conditions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but it is usually more complex and expensive because the wall may carry second-floor loads. That often means a larger beam, more support, and possibly foot"
+}

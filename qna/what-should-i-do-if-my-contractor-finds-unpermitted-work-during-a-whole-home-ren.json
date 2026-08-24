@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-do-if-my-contractor-finds-unpermitted-work-during-a-whole-home-ren",
+  "name": "What if my whole-home remodel reveals unpermitted work from a previous owner?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do if my contractor finds unpermitted work during a whole-home renovation?",
+    "text": "What should I do if my contractor finds unpermitted work during a whole-home renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Unpermitted work can complicate a renovation because it may not match current plans, structural expectations, or inspection requirements. Once discovered, the contractor may need to expose, document, and evaluate the work before deciding whether it can remain or must be corrected. This can affect both cost and timeline. The issue is more common in older homes and can surface during demo or permit review. Homeowners should expect some projects to require revisions once hidden work is found. The key is to identify the problem early, keep written records, and avoid building on top of questionable work before it is properly resolved.",
+      "@type": "Answer",
+      "description": "If unpermitted work is discovered, the project may need to be documented, corrected, or brought into compliance before related construction continues. This can affect budget, permit scope, and timeline, so it should be addressed early with the contractor and design team.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Unpermitted work can complicate a renovation because it may not match current plans, structural expectations, or inspection requirements. Once discovered, the contractor may need to expose, document, and evaluate the work before deciding whether it can remain or must be corrected. This can affect both cost and timeline. The issue is more common in older homes and can surface during demo or permit review. Homeowners should expect some projects to require revisions once hidden work is found. The key is to identify the problem early, keep written records, and avoid building on top of questionable work before it is properly resolved.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If unpermitted work is discovered, the project may need to be documented, corrected, or brought into compliance before related construction continues. This can "
+}

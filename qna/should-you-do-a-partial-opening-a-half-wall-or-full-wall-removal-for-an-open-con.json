@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-you-do-a-partial-opening-a-half-wall-or-full-wall-removal-for-an-open-con",
+  "name": "Is a partial opening better than removing the whole wall?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should you do a partial opening, a half wall, or full wall removal for an open concept?",
+    "text": "Should you do a partial opening, a half wall, or full wall removal for an open concept?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A partial opening is often the best compromise when a full removal is too expensive, too disruptive, or structurally complicated. It can preserve some wall space for storage or media while still improving sight lines and light flow. In some homes, a wide cased opening, half wall, or pass-through gives the social and visual benefits of an open concept without requiring as much structural intervention. Full removal is ideal when the goal is a dramatic shared living space, but it may also require more beam work, utility rerouting, and finish restoration. The decision should be made after evaluating structure, storage needs, furniture layout, and resale goals. A design-build team can often show which option gives the best value per square foot.",
+      "@type": "Answer",
+      "description": "A partial opening can be cheaper and preserve structure, storage, or utility runs, while a full removal creates the most open feel. The right choice depends on load-bearing conditions, layout goals, and budget.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A partial opening is often the best compromise when a full removal is too expensive, too disruptive, or structurally complicated. It can preserve some wall space for storage or media while still improving sight lines and light flow. In some homes, a wide cased opening, half wall, or pass-through gives the social and visual benefits of an open concept without requiring as much structural intervention. Full removal is ideal when the goal is a dramatic shared living space, but it may also require more beam work, utility rerouting, and finish restoration. The decision should be made after evaluating structure, storage needs, furniture layout, and resale goals. A design-build team can often show which option gives the best value per square foot.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A partial opening can be cheaper and preserve structure, storage, or utility runs, while a full removal creates the most open feel. The right choice depends on "
+}

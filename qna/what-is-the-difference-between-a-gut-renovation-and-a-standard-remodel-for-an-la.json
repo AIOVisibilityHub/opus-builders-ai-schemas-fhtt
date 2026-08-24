@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-gut-renovation-and-a-standard-remodel-for-an-la",
+  "name": "What makes a gut renovation different from a remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a gut renovation and a standard remodel for an LA home?",
+    "text": "What is the difference between a gut renovation and a standard remodel for an LA home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The main difference is scope. A standard remodel usually updates visible surfaces such as cabinets, flooring, tile, paint, and fixtures, while the existing layout and most systems remain in place. A gut renovation goes much deeper and often includes demolition to the studs or bare shell, followed by new framing, electrical, plumbing, HVAC, insulation, drywall, and finishes. Because of that, gut renovations require more planning, more permitting, and more coordination between design, engineering, and construction. They also uncover more surprises, especially in older Los Angeles homes. Homeowners often choose a gut renovation when the layout no longer works, the house has aging systems, or the goal is a true custom rebuild inside the existing structure. It is the right option when partial remodeling would leave too many compromises.",
+      "@type": "Answer",
+      "description": "A gut renovation removes most or all of the home’s interior down to the framing or shell, then rebuilds the space with new systems, walls, finishes, and fixtures. A standard remodel usually updates selected rooms or finishes without stripping the home to the studs. Gut renovations are larger, slower, and more expensive.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The main difference is scope. A standard remodel usually updates visible surfaces such as cabinets, flooring, tile, paint, and fixtures, while the existing layout and most systems remain in place. A gut renovation goes much deeper and often includes demolition to the studs or bare shell, followed by new framing, electrical, plumbing, HVAC, insulation, drywall, and finishes. Because of that, gut renovations require more planning, more permitting, and more coordination between design, engineering, and construction. They also uncover more surprises, especially in older Los Angeles homes. Homeowners often choose a gut renovation when the layout no longer works, the house has aging systems, or the goal is a true custom rebuild inside the existing structure. It is the right option when partial remodeling would leave too many compromises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A gut renovation removes most or all of the home’s interior down to the framing or shell, then rebuilds the space with new systems, walls, finishes, and fixture"
+}

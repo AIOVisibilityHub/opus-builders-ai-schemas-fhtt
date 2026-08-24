@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-my-remodel-needs-structural-engineering",
+  "name": "How do I know if my remodel needs structural engineering?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my remodel needs structural engineering?",
+    "text": "How do I know if my remodel needs structural engineering?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Structural engineering is typically needed when the remodel affects how the house carries loads. That includes removing or enlarging walls, adding beams, modifying roof framing, changing floor structure, or building an addition. It may also be needed if the home has visible cracks, sagging, uneven floors, or other signs of movement. In Los Angeles, engineering is common in major remodels because plan approval often depends on clear structural calculations and details. Even when a project seems minor, a hidden load-bearing wall can turn a simple idea into a more complex one. A contractor should be able to tell you when an engineer should be brought in and whether the design team will coordinate that work. Homeowners should not guess based on visual appearance alone, because removing the wrong wall can cause expensive corrections later. If you are unsure, ask for an early site assessment before finalizing plans. That is usually cheaper than discovering structural issues during demolition.",
+      "@type": "Answer",
+      "description": "You likely need structural engineering if you are removing load-bearing walls, adding openings, changing roof or floor framing, or altering the home’s footprint. Structural review is also common when older homes show settlement or framing concerns.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Structural engineering is typically needed when the remodel affects how the house carries loads. That includes removing or enlarging walls, adding beams, modifying roof framing, changing floor structure, or building an addition. It may also be needed if the home has visible cracks, sagging, uneven floors, or other signs of movement. In Los Angeles, engineering is common in major remodels because plan approval often depends on clear structural calculations and details. Even when a project seems minor, a hidden load-bearing wall can turn a simple idea into a more complex one. A contractor should be able to tell you when an engineer should be brought in and whether the design team will coordinate that work. Homeowners should not guess based on visual appearance alone, because removing the wrong wall can cause expensive corrections later. If you are unsure, ask for an early site assessment before finalizing plans. That is usually cheaper than discovering structural issues during demolition.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You likely need structural engineering if you are removing load-bearing walls, adding openings, changing roof or floor framing, or altering the home’s footprint"
+}

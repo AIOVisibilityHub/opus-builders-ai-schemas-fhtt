@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-the-wall-you-want-to-remove-contains-plumbing-vents-or-electrical-lines",
+  "name": "What happens if the wall hides plumbing or HVAC?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if the wall you want to remove contains plumbing, vents, or electrical lines?",
+    "text": "What if the wall you want to remove contains plumbing, vents, or electrical lines?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A wall that looks simple may still hold major utilities. If plumbing, supply lines, drains, electrical circuits, receptacles, switches, or HVAC ducts are inside the wall, the remodel must account for rerouting and code compliance. That can affect cost, timeline, and even whether the original opening size is possible. Sometimes the better option is a partial opening, a widened passthrough, or a redesigned opening that preserves key systems. Homeowners should ask for a utility scan or exploratory opening before finalizing the plan, especially in older homes where the existing layout may have been altered multiple times. This step prevents mid-project surprises that can stall construction and inflate the budget.",
+      "@type": "Answer",
+      "description": "If the wall contains plumbing, HVAC, or wiring, the opening usually becomes more expensive and more complex. Those systems may need rerouting, relocation, or redesign before the wall can be removed safely.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A wall that looks simple may still hold major utilities. If plumbing, supply lines, drains, electrical circuits, receptacles, switches, or HVAC ducts are inside the wall, the remodel must account for rerouting and code compliance. That can affect cost, timeline, and even whether the original opening size is possible. Sometimes the better option is a partial opening, a widened passthrough, or a redesigned opening that preserves key systems. Homeowners should ask for a utility scan or exploratory opening before finalizing the plan, especially in older homes where the existing layout may have been altered multiple times. This step prevents mid-project surprises that can stall construction and inflate the budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the wall contains plumbing, HVAC, or wiring, the opening usually becomes more expensive and more complex. Those systems may need rerouting, relocation, or re"
+}

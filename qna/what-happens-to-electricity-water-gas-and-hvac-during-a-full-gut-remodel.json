@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-to-electricity-water-gas-and-hvac-during-a-full-gut-remodel",
+  "name": "How do you handle utilities during a gut renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens to electricity, water, gas, and HVAC during a full gut remodel?",
+    "text": "What happens to electricity, water, gas, and HVAC during a full gut remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility planning is a major part of a gut renovation because demolition and rough construction often require temporary shutoffs or complete replacement of old systems. Electricity, water, gas, and HVAC may all be interrupted while lines are rerouted or upgraded. The contractor should coordinate shutoffs in advance, explain which utilities will be unavailable at each phase, and make sure safety procedures are followed before demolition begins. If the home will be occupied, utility continuity becomes even more important because the project may need temporary solutions or staged work. Homeowners should also ask whether the utility provider needs to be notified and whether inspections must occur before service is restored. Good utility coordination prevents delays, unsafe conditions, and failed inspections.",
+      "@type": "Answer",
+      "description": "Utilities are often temporarily shut off, rerouted, or replaced during a gut renovation, especially when plumbing, electrical, or HVAC systems are being rebuilt. The contractor should coordinate utility outages, safety shutoffs, and rough-in sequencing so the house can be worked on without hazards or inspection problems.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility planning is a major part of a gut renovation because demolition and rough construction often require temporary shutoffs or complete replacement of old systems. Electricity, water, gas, and HVAC may all be interrupted while lines are rerouted or upgraded. The contractor should coordinate shutoffs in advance, explain which utilities will be unavailable at each phase, and make sure safety procedures are followed before demolition begins. If the home will be occupied, utility continuity becomes even more important because the project may need temporary solutions or staged work. Homeowners should also ask whether the utility provider needs to be notified and whether inspections must occur before service is restored. Good utility coordination prevents delays, unsafe conditions, and failed inspections.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utilities are often temporarily shut off, rerouted, or replaced during a gut renovation, especially when plumbing, electrical, or HVAC systems are being rebuilt"
+}

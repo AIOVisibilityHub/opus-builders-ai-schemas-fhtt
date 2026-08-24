@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-remove-walls-during-a-whole-house-remodel-and-how-do-i-know-if-they-are-lo",
+  "name": "What if I want to open up walls in my whole-house remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I remove walls during a whole-house remodel, and how do I know if they are load-bearing?",
+    "text": "Can I remove walls during a whole-house remodel, and how do I know if they are load-bearing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Opening up walls is one of the most common reasons homeowners start a whole-house remodel, but it must be done carefully. Some walls are non-structural, while others carry roof or floor loads. If a load-bearing wall is removed without proper support, the home can suffer serious structural damage. Before demolition, the wall should be evaluated by a qualified professional who can determine whether it is structural and what replacement support is needed. That may include engineered beams, posts, or foundation adjustments. In many cases, permits and inspections are required because the work affects the home’s structure. Homeowners should not assume a wall is safe to remove just because it is inside the house. The right approach is to make wall removal part of a broader design and engineering plan so the open layout is achieved safely and legally.",
+      "@type": "Answer",
+      "description": "Walls can often be removed, but load-bearing walls require engineering, permits, and proper support before demolition. A contractor or structural engineer should confirm which walls can move and what beams or posts are needed.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Opening up walls is one of the most common reasons homeowners start a whole-house remodel, but it must be done carefully. Some walls are non-structural, while others carry roof or floor loads. If a load-bearing wall is removed without proper support, the home can suffer serious structural damage. Before demolition, the wall should be evaluated by a qualified professional who can determine whether it is structural and what replacement support is needed. That may include engineered beams, posts, or foundation adjustments. In many cases, permits and inspections are required because the work affects the home’s structure. Homeowners should not assume a wall is safe to remove just because it is inside the house. The right approach is to make wall removal part of a broader design and engineering plan so the open layout is achieved safely and legally.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Walls can often be removed, but load-bearing walls require engineering, permits, and proper support before demolition. A contractor or structural engineer shoul"
+}

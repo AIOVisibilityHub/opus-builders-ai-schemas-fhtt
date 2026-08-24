@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-create-an-open-concept-kitchen-without-removing-a-load-bearing-wall",
+  "name": "Can I open up my kitchen without touching the structure?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I create an open-concept kitchen without removing a load-bearing wall?",
+    "text": "Can I create an open-concept kitchen without removing a load-bearing wall?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many homeowners want an open kitchen but do not necessarily need to remove a structural wall. If the wall is non-load-bearing, the change can be relatively straightforward. If it is load-bearing, the remodel may still be possible, but the design must transfer the weight through a beam, posts, or another engineered support. In some homes, widening a doorway, creating a partial opening, or using a passthrough can achieve the open feel without major structural disruption. That approach may save time, money, and permitting complexity. The right choice depends on how the house was framed, how the load travels, and whether plumbing or electrical systems are embedded in the wall. A good design-build team will compare multiple layout options so the homeowner can get the visual openness they want without taking unnecessary structural risks.",
+      "@type": "Answer",
+      "description": "Sometimes yes. If the wall is non-bearing, the kitchen can often be opened with minor framing changes. If the wall supports the floor or roof, the opening usually needs a beam, header, or another structural solution to carry the load safely.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many homeowners want an open kitchen but do not necessarily need to remove a structural wall. If the wall is non-load-bearing, the change can be relatively straightforward. If it is load-bearing, the remodel may still be possible, but the design must transfer the weight through a beam, posts, or another engineered support. In some homes, widening a doorway, creating a partial opening, or using a passthrough can achieve the open feel without major structural disruption. That approach may save time, money, and permitting complexity. The right choice depends on how the house was framed, how the load travels, and whether plumbing or electrical systems are embedded in the wall. A good design-build team will compare multiple layout options so the homeowner can get the visual openness they want without taking unnecessary structural risks.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes yes. If the wall is non-bearing, the kitchen can often be opened with minor framing changes. If the wall supports the floor or roof, the opening usual"
+}

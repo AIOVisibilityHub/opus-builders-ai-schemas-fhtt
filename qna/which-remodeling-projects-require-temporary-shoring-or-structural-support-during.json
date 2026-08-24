@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-remodeling-projects-require-temporary-shoring-or-structural-support-during",
+  "name": "What structural remodeling projects need temporary support?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which remodeling projects require temporary shoring or structural support during construction?",
+    "text": "Which remodeling projects require temporary shoring or structural support during construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Temporary shoring is used any time the existing structure must be supported while permanent framing is removed or replaced. That typically includes load-bearing wall removal, installation of new beams, floor framing repairs, major opening enlargement, stair changes, and some foundation or roof modifications. Without temporary support, the structure can shift, crack, or fail during construction. The exact shoring design depends on the load, span, and condition of the home. In older Los Angeles-area houses, contractors often need to brace more than expected because framing is uneven or has been altered over time. Homeowners should ask who is responsible for shoring, how it will be inspected, and whether the design accounts for adjacent rooms and occupied areas. Shoring is not just a construction detail; it is a safety requirement that protects the home while the permanent repair is being built.",
+      "@type": "Answer",
+      "description": "Projects that remove load-bearing walls, enlarge openings, replace beams, modify floors, or alter roof supports often need temporary shoring. The purpose is to carry the load safely while the permanent support is being installed.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Temporary shoring is used any time the existing structure must be supported while permanent framing is removed or replaced. That typically includes load-bearing wall removal, installation of new beams, floor framing repairs, major opening enlargement, stair changes, and some foundation or roof modifications. Without temporary support, the structure can shift, crack, or fail during construction. The exact shoring design depends on the load, span, and condition of the home. In older Los Angeles-area houses, contractors often need to brace more than expected because framing is uneven or has been altered over time. Homeowners should ask who is responsible for shoring, how it will be inspected, and whether the design accounts for adjacent rooms and occupied areas. Shoring is not just a construction detail; it is a safety requirement that protects the home while the permanent repair is being built.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Projects that remove load-bearing walls, enlarge openings, replace beams, modify floors, or alter roof supports often need temporary shoring. The purpose is to "
+}

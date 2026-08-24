@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-an-exterior-remodeling-project-in-los-angeles-need-structural-engineer",
+  "name": "How do I know if I need engineering for an exterior remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does an exterior remodeling project in Los Angeles need structural engineering or calculations?",
+    "text": "When does an exterior remodeling project in Los Angeles need structural engineering or calculations?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Structural engineering becomes important when an exterior remodel changes how loads are carried or how the building resists lateral forces. Common triggers include enlarging openings, replacing load-bearing exterior walls, adding heavy patio covers, building decks, constructing retaining walls, working on hillside sites, or modifying roof and entry structures. Even when a project looks straightforward, the permit reviewer may ask for calculations if the work affects stability, seismic performance, or site conditions. Cosmetic work usually does not need engineering, but once the scope touches framing, foundations, or significant attachments, it is smart to involve an engineer early. That avoids redesign later and helps the contractor price the job correctly. Homeowners should also be aware that engineering can influence both schedule and cost, but it often prevents bigger problems during construction and inspection. If there is any uncertainty, the safest approach is to assume calculations may be required and confirm before finalizing plans or ordering materials.",
+      "@type": "Answer",
+      "description": "Engineering is often needed when the remodel changes load-bearing walls, roof support, large openings, retaining walls, decks, patio covers, or hillside conditions. If the project affects structure, slope, or lateral stability, plan check may require calculations. Cosmetic-only work is less likely to need engineering, but anything involving a major opening or heavy added load should be reviewed.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Structural engineering becomes important when an exterior remodel changes how loads are carried or how the building resists lateral forces. Common triggers include enlarging openings, replacing load-bearing exterior walls, adding heavy patio covers, building decks, constructing retaining walls, working on hillside sites, or modifying roof and entry structures. Even when a project looks straightforward, the permit reviewer may ask for calculations if the work affects stability, seismic performance, or site conditions. Cosmetic work usually does not need engineering, but once the scope touches framing, foundations, or significant attachments, it is smart to involve an engineer early. That avoids redesign later and helps the contractor price the job correctly. Homeowners should also be aware that engineering can influence both schedule and cost, but it often prevents bigger problems during construction and inspection. If there is any uncertainty, the safest approach is to assume calculations may be required and confirm before finalizing plans or ordering materials.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Engineering is often needed when the remodel changes load-bearing walls, roof support, large openings, retaining walls, decks, patio covers, or hillside conditi"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-the-same-contractor-handle-cabinetry-stone-and-fixture-installation-or-do",
+  "name": "Are custom millwork and luxury fixtures installed by the same team?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should the same contractor handle cabinetry, stone, and fixture installation, or do different specialists need to coordinate?",
+    "text": "Should the same contractor handle cabinetry, stone, and fixture installation, or do different specialists need to coordinate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Custom millwork, stone, and fixture installation can be managed by one contractor, but the work itself often requires different specialists. Cabinetry needs precise carpentry, stone needs careful fabrication and setting, plumbing fixtures need proper rough-ins, and electrical elements require code-aware installation. A single project manager or lead contractor can keep the sequence organized, but the best result usually comes from coordinated specialists working in the right order. This is especially important in luxury projects where fit and finish are more demanding. Homeowners should ask who is responsible for coordination, who approves dimensions before fabrication, and how conflicts between trades are resolved. When the team communicates well, the final result looks integrated rather than assembled piece by piece.",
+      "@type": "Answer",
+      "description": "Sometimes one company manages the whole project, but the best result still depends on specialized coordination among carpentry, stone, plumbing, electrical, and finish installers. Luxury work often succeeds when one team oversees the schedule and each trade follows a precise installation plan.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Custom millwork, stone, and fixture installation can be managed by one contractor, but the work itself often requires different specialists. Cabinetry needs precise carpentry, stone needs careful fabrication and setting, plumbing fixtures need proper rough-ins, and electrical elements require code-aware installation. A single project manager or lead contractor can keep the sequence organized, but the best result usually comes from coordinated specialists working in the right order. This is especially important in luxury projects where fit and finish are more demanding. Homeowners should ask who is responsible for coordination, who approves dimensions before fabrication, and how conflicts between trades are resolved. When the team communicates well, the final result looks integrated rather than assembled piece by piece.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes one company manages the whole project, but the best result still depends on specialized coordination among carpentry, stone, plumbing, electrical, and"
+}

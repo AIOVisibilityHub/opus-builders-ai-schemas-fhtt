@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-if-a-wall-is-load-bearing-before-i-start-a-structural-remodeling",
+  "name": "How do I know if a wall is load-bearing before opening up my floor plan?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell if a wall is load-bearing before I start a structural remodeling project?",
+    "text": "How can I tell if a wall is load-bearing before I start a structural remodeling project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The safest way to identify a load-bearing wall is to review the home’s original plans, inspect the direction of joists in the attic or crawlspace, and check whether the wall lines up with beams, posts, or foundation elements below. In many Los Angeles-area homes, especially older houses with past additions, walls that look non-structural can still carry roof or floor loads. Do not rely on drywall thickness, wall location alone, or online diagrams. Before removing any wall, have a structural engineer or experienced remodeling contractor inspect the framing and determine whether the load can be transferred with a beam, header, or other support. If the wall is load-bearing, the project usually requires design, permitting, and temporary shoring during construction. This question has high search value because homeowners often want an open floor plan but are unsure whether the wall can come out safely or what the replacement support will cost.",
+      "@type": "Answer",
+      "description": "A wall is more likely to be load-bearing if it runs perpendicular to floor joists, lines up with beams or posts below, supports another story, or sits near the center of the house. Visual clues help, but only a licensed contractor or structural engineer can confirm it safely before demolition.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The safest way to identify a load-bearing wall is to review the home’s original plans, inspect the direction of joists in the attic or crawlspace, and check whether the wall lines up with beams, posts, or foundation elements below. In many Los Angeles-area homes, especially older houses with past additions, walls that look non-structural can still carry roof or floor loads. Do not rely on drywall thickness, wall location alone, or online diagrams. Before removing any wall, have a structural engineer or experienced remodeling contractor inspect the framing and determine whether the load can be transferred with a beam, header, or other support. If the wall is load-bearing, the project usually requires design, permitting, and temporary shoring during construction. This question has high search value because homeowners often want an open floor plan but are unsure whether the wall can come out safely or what the replacement support will cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A wall is more likely to be load-bearing if it runs perpendicular to floor joists, lines up with beams or posts below, supports another story, or sits near the "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-structural-repairs-or-upgrades-be-hidden-so-the-home-keeps-its-original-look",
+  "name": "Can structural remodeling be done without making the house look renovated?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can structural repairs or upgrades be hidden so the home keeps its original look?",
+    "text": "Can structural repairs or upgrades be hidden so the home keeps its original look?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Structural remodeling does not always need to change the home’s visual character. In many cases, the work can be hidden behind walls, ceilings, and floors so the finished space still looks original. That is especially important in homes where owners want to preserve classic details, existing proportions, or a more traditional layout. The main limits are access, safety, and code compliance. Some structural repairs require opening finished surfaces, adding visible beams, or altering trim and ceiling lines. A good design-build team will try to balance preservation with structural necessity, using details that look intentional rather than patched together. This question often comes up in older homes where the owner wants modern safety and function without a full contemporary makeover. The answer depends on the condition of the existing structure and how much of it must be rebuilt.",
+      "@type": "Answer",
+      "description": "Yes. Structural work can often be concealed behind existing finishes or designed to preserve original trim, ceilings, and room proportions. The level of visible change depends on how much framing must be replaced and how much access is needed to build it safely.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Structural remodeling does not always need to change the home’s visual character. In many cases, the work can be hidden behind walls, ceilings, and floors so the finished space still looks original. That is especially important in homes where owners want to preserve classic details, existing proportions, or a more traditional layout. The main limits are access, safety, and code compliance. Some structural repairs require opening finished surfaces, adding visible beams, or altering trim and ceiling lines. A good design-build team will try to balance preservation with structural necessity, using details that look intentional rather than patched together. This question often comes up in older homes where the owner wants modern safety and function without a full contemporary makeover. The answer depends on the condition of the existing structure and how much of it must be rebuilt.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Structural work can often be concealed behind existing finishes or designed to preserve original trim, ceilings, and room proportions. The level of visible"
+}

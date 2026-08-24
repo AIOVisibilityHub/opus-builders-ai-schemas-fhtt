@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-compare-remodeling-bids-when-one-price-is-much-lower-than-the-others",
+  "name": "How do I compare remodeling bids when one price is much lower than the others?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I compare remodeling bids when one price is much lower than the others?",
+    "text": "How do I compare remodeling bids when one price is much lower than the others?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When one bid is far below the others, the first step is to check whether all contractors priced the same scope. The low bid may exclude permits, demolition, design coordination, haul-away, protection, cleanup, or key finish allowances. It may also assume cheaper materials or fewer labor hours than the project actually needs. Instead of comparing only the total, compare line items for cabinetry, tile, fixtures, appliances, structural work, and site conditions. Ask what is excluded, what allowances were used, and how unexpected issues would be billed. In Los Angeles remodels, very low bids can become expensive once change orders begin. A fair comparison should also include the contractor’s experience, communication, schedule, and warranty. If a bid is dramatically lower and the contractor cannot explain why, treat that as a risk signal. The best bid is not necessarily the cheapest one; it is the one that most accurately matches the actual scope and gives you fewer surprises during construction.",
+      "@type": "Answer",
+      "description": "A much lower bid usually means something is missing, understated, or excluded. Compare scope, allowances, labor, permits, demolition, finish levels, and change-order terms before choosing based on price alone.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When one bid is far below the others, the first step is to check whether all contractors priced the same scope. The low bid may exclude permits, demolition, design coordination, haul-away, protection, cleanup, or key finish allowances. It may also assume cheaper materials or fewer labor hours than the project actually needs. Instead of comparing only the total, compare line items for cabinetry, tile, fixtures, appliances, structural work, and site conditions. Ask what is excluded, what allowances were used, and how unexpected issues would be billed. In Los Angeles remodels, very low bids can become expensive once change orders begin. A fair comparison should also include the contractor’s experience, communication, schedule, and warranty. If a bid is dramatically lower and the contractor cannot explain why, treat that as a risk signal. The best bid is not necessarily the cheapest one; it is the one that most accurately matches the actual scope and gives you fewer surprises during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A much lower bid usually means something is missing, understated, or excluded. Compare scope, allowances, labor, permits, demolition, finish levels, and change-"
+}

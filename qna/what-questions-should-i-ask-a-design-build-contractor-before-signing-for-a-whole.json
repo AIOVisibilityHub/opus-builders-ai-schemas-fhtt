@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-questions-should-i-ask-a-design-build-contractor-before-signing-for-a-whole",
+  "name": "What should I ask before starting a whole-home renovation with a designer-build team?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What questions should I ask a design-build contractor before signing for a whole-home renovation?",
+    "text": "What questions should I ask a design-build contractor before signing for a whole-home renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong preconstruction conversation should clarify how the team works from concept through completion. Find out whether the contractor manages design, engineering, and permits in-house or coordinates with outside professionals. Ask how selections are handled, when decisions are due, and how allowances are set for cabinets, tile, plumbing fixtures, and appliances. You should also understand the communication cadence, who your daily contact will be, and how issues are escalated. Ask for examples of completed whole-home projects similar to yours in scope and style. The goal is to confirm that the team has both the process and the experience to deliver a major renovation without unnecessary surprises.",
+      "@type": "Answer",
+      "description": "Ask who handles design, permits, engineering, selections, and site supervision; how change orders are priced; what allowances are included; how often you will get updates; and what the realistic schedule is. You should also ask for examples of similar completed projects.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong preconstruction conversation should clarify how the team works from concept through completion. Find out whether the contractor manages design, engineering, and permits in-house or coordinates with outside professionals. Ask how selections are handled, when decisions are due, and how allowances are set for cabinets, tile, plumbing fixtures, and appliances. You should also understand the communication cadence, who your daily contact will be, and how issues are escalated. Ask for examples of completed whole-home projects similar to yours in scope and style. The goal is to confirm that the team has both the process and the experience to deliver a major renovation without unnecessary surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask who handles design, permits, engineering, selections, and site supervision; how change orders are priced; what allowances are included; how often you will g"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-you-have-to-replace-all-the-flooring-when-converting-to-an-open-floor-plan",
+  "name": "Does an open floor plan require new flooring throughout?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do you have to replace all the flooring when converting to an open floor plan?",
+    "text": "Do you have to replace all the flooring when converting to an open floor plan?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Full flooring replacement is not always required, but it is common in open-floor-plan conversions because the old room boundaries often show after the wall is removed. Even if the existing material remains, you may need patches where the wall stood, matching boards or tiles, and careful leveling so the space reads as one continuous room. In many homes, especially those with mixed flooring between kitchen, dining, and living areas, a unified floor finish improves the final result. Homeowners should ask early whether the existing flooring can be salvaged or whether a full replacement will actually cost less than trying to make old and new sections match. The answer depends on material availability, wear, and layout changes.",
+      "@type": "Answer",
+      "description": "Not always, but flooring often needs patching, blending, or full replacement because removed walls can leave visible seams, damaged sections, or level changes between rooms.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Full flooring replacement is not always required, but it is common in open-floor-plan conversions because the old room boundaries often show after the wall is removed. Even if the existing material remains, you may need patches where the wall stood, matching boards or tiles, and careful leveling so the space reads as one continuous room. In many homes, especially those with mixed flooring between kitchen, dining, and living areas, a unified floor finish improves the final result. Homeowners should ask early whether the existing flooring can be salvaged or whether a full replacement will actually cost less than trying to make old and new sections match. The answer depends on material availability, wear, and layout changes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Not always, but flooring often needs patching, blending, or full replacement because removed walls can leave visible seams, damaged sections, or level changes b"
+}

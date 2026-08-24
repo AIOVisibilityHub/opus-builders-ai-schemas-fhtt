@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-compare-in-contractor-bids-so-i-do-not-choose-the-cheapest-wrong-o",
+  "name": "How do I compare whole-house remodel bids correctly?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I compare in contractor bids so I do not choose the cheapest wrong option?",
+    "text": "What should I compare in contractor bids so I do not choose the cheapest wrong option?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Comparing whole-house remodel bids requires more than looking at the bottom-line number. Two bids can appear similar while covering very different scopes. Homeowners should compare detailed line items for demolition, framing, plumbing, electrical, HVAC, finishes, permits, design support, and cleanup. Allowances for tile, fixtures, countertops, and cabinetry should also be checked carefully. Exclusions matter just as much as inclusions. A lower bid may omit engineering, permit fees, disposal, temporary protection, or final touch-up work. Homeowners should also ask who manages the job, how many projects the contractor runs at once, and what warranty is provided after completion. A good comparison uses a scope matrix so each bidder is measured against the same requirements. That makes it easier to spot missing items and unrealistic allowances. The cheapest proposal is not always the best value if it creates change orders later.",
+      "@type": "Answer",
+      "description": "Compare scope, allowances, exclusions, permit handling, schedule, warranty, supervision, and material specifications, not just the total price. The lowest bid may exclude key work such as design, engineering, cleanup, or finish upgrades.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Comparing whole-house remodel bids requires more than looking at the bottom-line number. Two bids can appear similar while covering very different scopes. Homeowners should compare detailed line items for demolition, framing, plumbing, electrical, HVAC, finishes, permits, design support, and cleanup. Allowances for tile, fixtures, countertops, and cabinetry should also be checked carefully. Exclusions matter just as much as inclusions. A lower bid may omit engineering, permit fees, disposal, temporary protection, or final touch-up work. Homeowners should also ask who manages the job, how many projects the contractor runs at once, and what warranty is provided after completion. A good comparison uses a scope matrix so each bidder is measured against the same requirements. That makes it easier to spot missing items and unrealistic allowances. The cheapest proposal is not always the best value if it creates change orders later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare scope, allowances, exclusions, permit handling, schedule, warranty, supervision, and material specifications, not just the total price. The lowest bid m"
+}

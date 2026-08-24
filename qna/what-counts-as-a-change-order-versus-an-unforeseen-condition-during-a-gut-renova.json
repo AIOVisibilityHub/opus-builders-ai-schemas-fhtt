@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-counts-as-a-change-order-versus-an-unforeseen-condition-during-a-gut-renova",
+  "name": "How do change orders work in a gut renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What counts as a change order versus an unforeseen condition during a gut renovation?",
+    "text": "What counts as a change order versus an unforeseen condition during a gut renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders and unforeseen conditions are not the same, and the contract should spell out the difference. A change order is usually a homeowner-requested modification, such as upgrading finishes, altering the layout, or adding extra features after the job is underway. An unforeseen condition is something hidden in the structure, systems, or shell that was not visible during the estimate, such as damaged framing, outdated wiring, or a concealed leak. Homeowners should ask how each type is documented, priced, and approved before work continues. This is especially important in a gut renovation because hidden conditions are common and can affect budget and schedule quickly. A good builder will explain the process clearly and avoid surprises by sharing photos, written explanations, and updated pricing before proceeding with additional work.",
+      "@type": "Answer",
+      "description": "A change order usually covers owner-requested scope changes, while an unforeseen condition is something hidden in the house that could not reasonably be seen before demolition. The contract should define who approves each type, how pricing is calculated, and what documentation is required before extra work proceeds.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders and unforeseen conditions are not the same, and the contract should spell out the difference. A change order is usually a homeowner-requested modification, such as upgrading finishes, altering the layout, or adding extra features after the job is underway. An unforeseen condition is something hidden in the structure, systems, or shell that was not visible during the estimate, such as damaged framing, outdated wiring, or a concealed leak. Homeowners should ask how each type is documented, priced, and approved before work continues. This is especially important in a gut renovation because hidden conditions are common and can affect budget and schedule quickly. A good builder will explain the process clearly and avoid surprises by sharing photos, written explanations, and updated pricing before proceeding with additional work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A change order usually covers owner-requested scope changes, while an unforeseen condition is something hidden in the house that could not reasonably be seen be"
+}

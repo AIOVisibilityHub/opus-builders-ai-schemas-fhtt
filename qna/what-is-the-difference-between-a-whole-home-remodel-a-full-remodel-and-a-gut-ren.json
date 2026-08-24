@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-whole-home-remodel-a-full-remodel-and-a-gut-ren",
+  "name": "What is the difference between a whole-home remodel and a gut renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a whole-home remodel, a full remodel, and a gut renovation?",
+    "text": "What is the difference between a whole-home remodel, a full remodel, and a gut renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "These terms are often used loosely, so the exact meaning should be defined in writing. A whole-home remodel can include new kitchens, bathrooms, flooring, lighting, paint, and some layout changes. A gut renovation typically means removing most interior finishes and starting almost from scratch inside the existing structure. That often includes new framing, electrical, plumbing, HVAC, insulation, drywall, and complete finish replacement. The distinction matters because it changes cost, permit complexity, and timeline. When speaking with contractors, ask them to define the scope in plain language so there is no confusion about whether existing walls, cabinets, systems, or fixtures are being kept or replaced.",
+      "@type": "Answer",
+      "description": "A whole-home remodel usually means updating most or all major rooms in an existing house. A gut renovation goes further by stripping the interior back to the studs or structural shell and replacing systems, finishes, and sometimes layouts entirely. Gut renovations are usually more expensive and take longer.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "These terms are often used loosely, so the exact meaning should be defined in writing. A whole-home remodel can include new kitchens, bathrooms, flooring, lighting, paint, and some layout changes. A gut renovation typically means removing most interior finishes and starting almost from scratch inside the existing structure. That often includes new framing, electrical, plumbing, HVAC, insulation, drywall, and complete finish replacement. The distinction matters because it changes cost, permit complexity, and timeline. When speaking with contractors, ask them to define the scope in plain language so there is no confusion about whether existing walls, cabinets, systems, or fixtures are being kept or replaced.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A whole-home remodel usually means updating most or all major rooms in an existing house. A gut renovation goes further by stripping the interior back to the st"
+}

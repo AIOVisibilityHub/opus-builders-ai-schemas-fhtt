@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-modernize-a-vintage-or-historic-style-home-while-keeping-its-original",
+  "name": "How do I remodel an older Los Angeles home without damaging the original character?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I modernize a vintage or historic-style home while keeping its original look?",
+    "text": "How can I modernize a vintage or historic-style home while keeping its original look?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many Los Angeles homeowners want a remodel that updates function without stripping away character. The best approach is to identify the home’s defining features first, such as trim profiles, window proportions, built-ins, ceilings, or exterior details. Those elements should guide the design so the renovation feels original rather than generic. Modern systems can still be upgraded behind the scenes. Electrical, plumbing, HVAC, insulation, and insulation improvements can be hidden within walls, ceilings, and carefully planned chases. The challenge is balancing performance with preservation so the home feels more comfortable without losing its identity. A designer and contractor familiar with older homes can help source matching materials, replicate details, and avoid overly modern finishes that clash with the architecture. This is especially important in neighborhoods where home character influences property value.",
+      "@type": "Answer",
+      "description": "Preserve key architectural details, reuse matching materials where possible, and limit layout changes that erase the home’s character. Modern systems can be hidden behind finishes while trim, proportions, windows, and built-ins stay visually consistent.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many Los Angeles homeowners want a remodel that updates function without stripping away character. The best approach is to identify the home’s defining features first, such as trim profiles, window proportions, built-ins, ceilings, or exterior details. Those elements should guide the design so the renovation feels original rather than generic. Modern systems can still be upgraded behind the scenes. Electrical, plumbing, HVAC, insulation, and insulation improvements can be hidden within walls, ceilings, and carefully planned chases. The challenge is balancing performance with preservation so the home feels more comfortable without losing its identity. A designer and contractor familiar with older homes can help source matching materials, replicate details, and avoid overly modern finishes that clash with the architecture. This is especially important in neighborhoods where home character influences property value.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Preserve key architectural details, reuse matching materials where possible, and limit layout changes that erase the home’s character. Modern systems can be hid"
+}

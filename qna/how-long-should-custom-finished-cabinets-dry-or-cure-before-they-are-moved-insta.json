@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-should-custom-finished-cabinets-dry-or-cure-before-they-are-moved-insta",
+  "name": "Do cabinet finishes need to cure before installation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long should custom-finished cabinets dry or cure before they are moved, installed, or cleaned?",
+    "text": "How long should custom-finished cabinets dry or cure before they are moved, installed, or cleaned?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Cabinet finishes often feel dry long before they are fully cured, which is why timing matters during fabrication, delivery, and installation. If parts are stacked, wrapped, or installed too early, the finish can imprint, stick, or pick up damage that becomes visible later. The required cure time depends on the coating chemistry, the thickness of the application, and the shop environment. Paint, lacquer, and conversion-type systems all behave differently. In a well-managed project, the cabinet maker should tell you when the parts can be handled safely, when hardware can be installed, and when routine cleaning is allowed. This is especially important in warm-weather markets where cure rates can change with temperature and humidity. If a shop cannot explain its cure schedule, that is a warning sign. Proper curing is one of the biggest differences between a finish that looks good immediately and one that lasts.",
+      "@type": "Answer",
+      "description": "Yes. Most cabinet finishes need enough cure time to avoid imprinting, scratching, or blocking during transport and installation. Dry to the touch is not the same as fully cured. The exact time depends on the coating type, temperature, and humidity, so the cabinet maker should specify handling and cleanup windows.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Cabinet finishes often feel dry long before they are fully cured, which is why timing matters during fabrication, delivery, and installation. If parts are stacked, wrapped, or installed too early, the finish can imprint, stick, or pick up damage that becomes visible later. The required cure time depends on the coating chemistry, the thickness of the application, and the shop environment. Paint, lacquer, and conversion-type systems all behave differently. In a well-managed project, the cabinet maker should tell you when the parts can be handled safely, when hardware can be installed, and when routine cleaning is allowed. This is especially important in warm-weather markets where cure rates can change with temperature and humidity. If a shop cannot explain its cure schedule, that is a warning sign. Proper curing is one of the biggest differences between a finish that looks good immediately and one that lasts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Most cabinet finishes need enough cure time to avoid imprinting, scratching, or blocking during transport and installation. Dry to the touch is not the sam"
+}

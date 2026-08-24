@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-materials-and-fixtures-should-be-site-ready-before-the-installer-arrives",
+  "name": "What should be stored before luxury installation begins?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which materials and fixtures should be site-ready before the installer arrives?",
+    "text": "Which materials and fixtures should be site-ready before the installer arrives?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before luxury installation begins, the most important items should already be approved, ordered, and checked for accuracy. That usually includes fixtures, stone or tile, cabinetry components, hardware, trim pieces, and any custom-fabricated parts. It is also wise to confirm that extra material is available for cuts, repairs, and future matching. Missing or mismatched components can delay installation and create visual inconsistencies that are hard to fix later. The installer should know exactly what is on-site, what is still in transit, and what needs to be held until a later phase. Good material readiness prevents crews from stopping mid-project because one critical piece has not arrived. For luxury work, preparation is often the difference between a smooth install and repeated schedule changes.",
+      "@type": "Answer",
+      "description": "Critical items should be on hand before luxury installation starts, including approved fixtures, finish materials, matching trim pieces, accessories, and any custom-fabricated components. If key items are missing, the job can stall, especially when special-order parts or exact finish matches are hard to replace quickly.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before luxury installation begins, the most important items should already be approved, ordered, and checked for accuracy. That usually includes fixtures, stone or tile, cabinetry components, hardware, trim pieces, and any custom-fabricated parts. It is also wise to confirm that extra material is available for cuts, repairs, and future matching. Missing or mismatched components can delay installation and create visual inconsistencies that are hard to fix later. The installer should know exactly what is on-site, what is still in transit, and what needs to be held until a later phase. Good material readiness prevents crews from stopping mid-project because one critical piece has not arrived. For luxury work, preparation is often the difference between a smooth install and repeated schedule changes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Critical items should be on hand before luxury installation starts, including approved fixtures, finish materials, matching trim pieces, accessories, and any cu"
+}

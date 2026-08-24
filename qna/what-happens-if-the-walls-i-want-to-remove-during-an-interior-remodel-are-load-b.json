@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-walls-i-want-to-remove-during-an-interior-remodel-are-load-b",
+  "name": "What if the walls I want to remove are load-bearing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the walls I want to remove during an interior remodel are load-bearing?",
+    "text": "What happens if the walls I want to remove during an interior remodel are load-bearing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a wall is load-bearing, the remodel becomes a structural project rather than a simple layout change. The wall may still be removable, but only if a proper beam, posts, and support details are designed to carry the load safely. That typically means additional planning, engineering review, permits, and inspections. It also affects cost because the project may involve framing, temporary shoring, drywall repairs, and finish work beyond the opening itself. Homeowners should never assume a wall is safe to remove just because it looks like a partition. In older homes around Pasadena, Glendale, and Burbank, structural surprises are common, so verification should happen before any demolition. The best next step is to have the wall assessed during design so the remodel plan and budget reflect the real structure.",
+      "@type": "Answer",
+      "description": "If a wall is load-bearing, it cannot be removed without a structural replacement such as a beam and proper support design. An engineer or qualified contractor should verify the wall before demolition. Removing it without planning can cause severe structural damage and permit problems. Load-bearing changes usually add time, cost, and inspection steps.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a wall is load-bearing, the remodel becomes a structural project rather than a simple layout change. The wall may still be removable, but only if a proper beam, posts, and support details are designed to carry the load safely. That typically means additional planning, engineering review, permits, and inspections. It also affects cost because the project may involve framing, temporary shoring, drywall repairs, and finish work beyond the opening itself. Homeowners should never assume a wall is safe to remove just because it looks like a partition. In older homes around Pasadena, Glendale, and Burbank, structural surprises are common, so verification should happen before any demolition. The best next step is to have the wall assessed during design so the remodel plan and budget reflect the real structure.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a wall is load-bearing, it cannot be removed without a structural replacement such as a beam and proper support design. An engineer or qualified contractor s"
+}

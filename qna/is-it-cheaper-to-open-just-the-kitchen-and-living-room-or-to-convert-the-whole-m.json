@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-cheaper-to-open-just-the-kitchen-and-living-room-or-to-convert-the-whole-m",
+  "name": "Which is cheaper: open concept kitchen or whole-house conversion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it cheaper to open just the kitchen and living room, or to convert the whole main floor?",
+    "text": "Is it cheaper to open just the kitchen and living room, or to convert the whole main floor?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A single kitchen-living opening is usually the lower-cost path because it limits the number of walls, finishes, and systems affected. A full main-floor conversion is more expensive because it often changes circulation, storage, lighting, HVAC, flooring, and structural support across multiple rooms. The bigger project may still be worth it if the goal is a complete reconfiguration rather than a single improved sight line. Homeowners should compare both options by asking what the completed space will actually solve. If the main problem is a dark kitchen, one opening may be enough. If the house feels chopped up everywhere, a broader redesign can offer better long-term value.",
+      "@type": "Answer",
+      "description": "Opening one connected area, like the kitchen and living room, is usually cheaper than reworking an entire main floor. Whole-house conversions usually involve more structural changes, more utility relocation, and more finish work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A single kitchen-living opening is usually the lower-cost path because it limits the number of walls, finishes, and systems affected. A full main-floor conversion is more expensive because it often changes circulation, storage, lighting, HVAC, flooring, and structural support across multiple rooms. The bigger project may still be worth it if the goal is a complete reconfiguration rather than a single improved sight line. Homeowners should compare both options by asking what the completed space will actually solve. If the main problem is a dark kitchen, one opening may be enough. If the house feels chopped up everywhere, a broader redesign can offer better long-term value.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Opening one connected area, like the kitchen and living room, is usually cheaper than reworking an entire main floor. Whole-house conversions usually involve mo"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-when-an-open-floor-plan-conversion-requires-support-at-the-ceiling",
+  "name": "What if the ceiling or roof needs support after wall removal?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens when an open-floor-plan conversion requires support at the ceiling or roof line?",
+    "text": "What happens when an open-floor-plan conversion requires support at the ceiling or roof line?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Some walls carry more than just drywall and studs. If they support ceiling joists, roof framing, or upper-story loads, the remodel must replace that support with a properly engineered system. That can mean a visible beam, a flush beam concealed in the ceiling, support posts, or new footing work below. This is one reason costs vary so much from house to house. The design should be based on the load path, not on how the finished opening is expected to look. Homeowners should ask whether the proposed structure will be fully concealed, partially exposed, or left as a decorative feature. That decision affects ceiling height, room appearance, and price.",
+      "@type": "Answer",
+      "description": "If removing a wall changes the load path, the project may need a beam, concealed framing, posts, or footing upgrades to support the ceiling or roof safely.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Some walls carry more than just drywall and studs. If they support ceiling joists, roof framing, or upper-story loads, the remodel must replace that support with a properly engineered system. That can mean a visible beam, a flush beam concealed in the ceiling, support posts, or new footing work below. This is one reason costs vary so much from house to house. The design should be based on the load path, not on how the finished opening is expected to look. Homeowners should ask whether the proposed structure will be fully concealed, partially exposed, or left as a decorative feature. That decision affects ceiling height, room appearance, and price.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If removing a wall changes the load path, the project may need a beam, concealed framing, posts, or footing upgrades to support the ceiling or roof safely."
+}

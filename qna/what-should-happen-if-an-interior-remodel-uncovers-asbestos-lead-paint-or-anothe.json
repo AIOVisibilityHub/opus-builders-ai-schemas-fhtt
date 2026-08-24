@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-happen-if-an-interior-remodel-uncovers-asbestos-lead-paint-or-anothe",
+  "name": "What if my remodel reveals asbestos, lead, or other hazardous materials?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should happen if an interior remodel uncovers asbestos, lead paint, or another hazardous material during demolition?",
+    "text": "What should happen if an interior remodel uncovers asbestos, lead paint, or another hazardous material during demolition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If demolition uncovers asbestos, lead paint, or another hazardous material, the affected work should stop until the material is evaluated and handled correctly. This usually means testing, containment, specialized removal, and a revised construction sequence. These issues are more common in older homes, so they should be considered during planning even if they are not visible yet. The main risks are worker exposure, project delays, and added cost if the material is discovered after demolition has already begun. Homeowners should ask whether the contractor has a plan for testing and coordination if hazardous material is found. A good remodel team will treat this as a controlled process, not a surprise to figure out on the fly.",
+      "@type": "Answer",
+      "description": "If hazardous material is found, work should stop in the affected area until it is properly assessed and handled. The remodel may need specialized removal, added testing, and a revised schedule and budget. Older homes are more likely to contain these conditions, especially where walls, ceilings, or old finishes are being opened.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If demolition uncovers asbestos, lead paint, or another hazardous material, the affected work should stop until the material is evaluated and handled correctly. This usually means testing, containment, specialized removal, and a revised construction sequence. These issues are more common in older homes, so they should be considered during planning even if they are not visible yet. The main risks are worker exposure, project delays, and added cost if the material is discovered after demolition has already begun. Homeowners should ask whether the contractor has a plan for testing and coordination if hazardous material is found. A good remodel team will treat this as a controlled process, not a surprise to figure out on the fly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If hazardous material is found, work should stop in the affected area until it is properly assessed and handled. The remodel may need specialized removal, added"
+}

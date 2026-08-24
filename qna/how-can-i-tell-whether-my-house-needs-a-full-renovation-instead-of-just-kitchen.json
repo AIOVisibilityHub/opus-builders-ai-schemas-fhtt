@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-whether-my-house-needs-a-full-renovation-instead-of-just-kitchen",
+  "name": "How do I know if my house needs a whole-home renovation or just selective updates?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell whether my house needs a full renovation instead of just kitchen and bathroom updates?",
+    "text": "How can I tell whether my house needs a full renovation instead of just kitchen and bathroom updates?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The decision usually comes down to scope overlap. If you are already planning to open walls, replace flooring throughout, upgrade old electrical or plumbing, and remodel multiple rooms, the project is often moving into whole-home territory. A full renovation can be more cost-effective than fixing rooms one by one when the house has a dated layout or worn-out systems. Selective updates make more sense when the structure is sound, the floor plan works, and only a few spaces need attention. A contractor or designer can help you compare both paths by estimating the cost of piecemeal updates versus a coordinated whole-home plan. That comparison often reveals whether the home is a better candidate for targeted work or a complete transformation.",
+      "@type": "Answer",
+      "description": "If your home has multiple outdated systems, poor layout, recurring repairs, or finishes that no longer match the structure, a whole-home renovation may make more sense than selective updates. If only one or two rooms are tired and the rest of the home functions well, targeted remodels may be enough.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The decision usually comes down to scope overlap. If you are already planning to open walls, replace flooring throughout, upgrade old electrical or plumbing, and remodel multiple rooms, the project is often moving into whole-home territory. A full renovation can be more cost-effective than fixing rooms one by one when the house has a dated layout or worn-out systems. Selective updates make more sense when the structure is sound, the floor plan works, and only a few spaces need attention. A contractor or designer can help you compare both paths by estimating the cost of piecemeal updates versus a coordinated whole-home plan. That comparison often reveals whether the home is a better candidate for targeted work or a complete transformation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If your home has multiple outdated systems, poor layout, recurring repairs, or finishes that no longer match the structure, a whole-home renovation may make mor"
+}

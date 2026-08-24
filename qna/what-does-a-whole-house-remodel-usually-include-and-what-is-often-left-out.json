@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-does-a-whole-house-remodel-usually-include-and-what-is-often-left-out",
+  "name": "What is included in a whole-house remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What does a whole-house remodel usually include, and what is often left out?",
+    "text": "What does a whole-house remodel usually include, and what is often left out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A whole-house remodel typically means updating most or all of the main living areas under one coordinated project. Common inclusions are kitchen renovation, bathroom remodeling, new flooring, interior paint, lighting, cabinetry, countertops, doors, windows, plumbing updates, electrical upgrades, and HVAC improvements. Many projects also involve drywall repair, insulation, framing changes, and interior layout reconfiguration. What is left out depends on the contract. Exterior work, landscaping, pools, detached garages, and furniture are usually separate line items unless the homeowner specifically includes them. Some remodels are cosmetic, while others go down to the studs and replace major systems. The most important step is to define scope in writing before construction starts. A clear scope prevents disputes about what is included, helps control budget creep, and makes it easier to compare contractor bids. Homeowners should also confirm whether design services, permits, engineering, and cleanup are included in the quoted price.",
+      "@type": "Answer",
+      "description": "A whole-house remodel usually includes kitchens, bathrooms, flooring, paint, lighting, cabinetry, windows, doors, plumbing, electrical, and HVAC updates. It may also include layout changes, insulation, drywall, and structural work. Landscaping, detached structures, and furniture are often excluded unless specifically added.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A whole-house remodel typically means updating most or all of the main living areas under one coordinated project. Common inclusions are kitchen renovation, bathroom remodeling, new flooring, interior paint, lighting, cabinetry, countertops, doors, windows, plumbing updates, electrical upgrades, and HVAC improvements. Many projects also involve drywall repair, insulation, framing changes, and interior layout reconfiguration. What is left out depends on the contract. Exterior work, landscaping, pools, detached garages, and furniture are usually separate line items unless the homeowner specifically includes them. Some remodels are cosmetic, while others go down to the studs and replace major systems. The most important step is to define scope in writing before construction starts. A clear scope prevents disputes about what is included, helps control budget creep, and makes it easier to compare contractor bids. Homeowners should also confirm whether design services, permits, engineering, and cleanup are included in the quoted price.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A whole-house remodel usually includes kitchens, bathrooms, flooring, paint, lighting, cabinetry, windows, doors, plumbing, electrical, and HVAC updates. It may"
+}

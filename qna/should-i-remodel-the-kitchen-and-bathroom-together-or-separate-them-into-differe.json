@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-remodel-the-kitchen-and-bathroom-together-or-separate-them-into-differe",
+  "name": "Should I remodel my kitchen and bathroom together or separately?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I remodel the kitchen and bathroom together or separate them into different phases?",
+    "text": "Should I remodel the kitchen and bathroom together or separate them into different phases?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Doing a kitchen and bathroom remodel together can be efficient because you may only need one design process, one mobilization, and one coordinated construction schedule. It can also make sense when plumbing, electrical, or layout changes overlap. The downside is larger upfront cost, more disruption, and more complexity if materials or inspections fall behind. Separate phases are often better for homeowners who need to stay in the house, want to spread out spending, or have one room that is clearly more urgent. In Los Angeles homes, the right answer usually depends on whether the projects share trades and whether one phase would interfere with the other. A contractor should help compare both options using timeline, budget, and daily livability, not just convenience.",
+      "@type": "Answer",
+      "description": "Remodeling the kitchen and bathroom together can save time if the same contractor, design team, and procurement process are used, but it also increases the amount of disruption and cash needed at once. Separate phases are usually easier if you need to keep living in the home or want tighter budget control. The best choice depends on scope, schedule, and how much downtime you can tolerate.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Doing a kitchen and bathroom remodel together can be efficient because you may only need one design process, one mobilization, and one coordinated construction schedule. It can also make sense when plumbing, electrical, or layout changes overlap. The downside is larger upfront cost, more disruption, and more complexity if materials or inspections fall behind. Separate phases are often better for homeowners who need to stay in the house, want to spread out spending, or have one room that is clearly more urgent. In Los Angeles homes, the right answer usually depends on whether the projects share trades and whether one phase would interfere with the other. A contractor should help compare both options using timeline, budget, and daily livability, not just convenience.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Remodeling the kitchen and bathroom together can save time if the same contractor, design team, and procurement process are used, but it also increases the amou"
+}

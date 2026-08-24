@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-does-an-open-floor-plan-conversion-cost-in-los-angeles-if-the-wall-is-l",
+  "name": "How much does an open-floor-plan conversion cost in Los Angeles if one wall is load-bearing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much does an open-floor-plan conversion cost in Los Angeles if the wall is load-bearing and needs a beam?",
+    "text": "How much does an open-floor-plan conversion cost in Los Angeles if the wall is load-bearing and needs a beam?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the wall is load-bearing, the budget should include engineering, permit drawings, temporary shoring, demolition, beam fabrication and installation, post or column work, and drywall, flooring, paint, and trim repair. The opening size, span, ceiling height, accessibility, and whether electrical or HVAC lines need to move all affect the final number. In the Los Angeles area, a single structural opening can land in a wide range, while a full open-concept main level can move into much higher territory. The most useful first step is a structural assessment, because the cost difference between a non-load-bearing wall and a structural wall is substantial. Homeowners should also ask whether the quoted price includes finish restoration, permit fees, and engineering, since those items are often excluded from initial estimates.",
+      "@type": "Answer",
+      "description": "A load-bearing wall removal typically costs far more than a simple wall demo because it needs structural engineering, temporary shoring, a beam or posts, permits, and finish work. In Los Angeles, the total can range from the high teens to well over $40,000 for a single opening, and larger whole-home conversions can cost much more.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the wall is load-bearing, the budget should include engineering, permit drawings, temporary shoring, demolition, beam fabrication and installation, post or column work, and drywall, flooring, paint, and trim repair. The opening size, span, ceiling height, accessibility, and whether electrical or HVAC lines need to move all affect the final number. In the Los Angeles area, a single structural opening can land in a wide range, while a full open-concept main level can move into much higher territory. The most useful first step is a structural assessment, because the cost difference between a non-load-bearing wall and a structural wall is substantial. Homeowners should also ask whether the quoted price includes finish restoration, permit fees, and engineering, since those items are often excluded from initial estimates.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A load-bearing wall removal typically costs far more than a simple wall demo because it needs structural engineering, temporary shoring, a beam or posts, permit"
+}

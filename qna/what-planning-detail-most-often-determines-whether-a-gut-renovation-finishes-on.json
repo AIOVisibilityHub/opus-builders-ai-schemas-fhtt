@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-planning-detail-most-often-determines-whether-a-gut-renovation-finishes-on",
+  "name": "What is the most important factor in a successful gut renovation schedule?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What planning detail most often determines whether a gut renovation finishes on time?",
+    "text": "What planning detail most often determines whether a gut renovation finishes on time?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The strongest predictor of schedule success is how complete the preconstruction phase is before demolition starts. When the design, engineering, permit set, and key selections are all finalized early, the job can move through framing, rough-ins, drywall, and finishes with fewer interruptions. Long-lead items such as cabinets, windows, specialty tile, and custom fixtures often cause the biggest delays if they are not ordered early. Homeowners should also expect inspections to affect the pace, because construction often pauses until each phase is approved. A contractor who builds a realistic schedule will account for these dependencies instead of assuming every trade can work nonstop. The more decisions that are made before the first wall comes down, the better the odds of finishing on time.",
+      "@type": "Answer",
+      "description": "The biggest schedule factor is preconstruction planning, especially permits, design decisions, and long-lead materials. When plans and selections are incomplete before demolition starts, the schedule usually slips. Clear scope and early ordering of cabinets, windows, and specialty items help keep the job moving.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The strongest predictor of schedule success is how complete the preconstruction phase is before demolition starts. When the design, engineering, permit set, and key selections are all finalized early, the job can move through framing, rough-ins, drywall, and finishes with fewer interruptions. Long-lead items such as cabinets, windows, specialty tile, and custom fixtures often cause the biggest delays if they are not ordered early. Homeowners should also expect inspections to affect the pace, because construction often pauses until each phase is approved. A contractor who builds a realistic schedule will account for these dependencies instead of assuming every trade can work nonstop. The more decisions that are made before the first wall comes down, the better the odds of finishing on time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest schedule factor is preconstruction planning, especially permits, design decisions, and long-lead materials. When plans and selections are incomplete"
+}

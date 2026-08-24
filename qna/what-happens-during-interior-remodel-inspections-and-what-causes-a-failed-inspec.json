@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-during-interior-remodel-inspections-and-what-causes-a-failed-inspec",
+  "name": "What should I expect during interior remodel inspections?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens during interior remodel inspections, and what causes a failed inspection?",
+    "text": "What happens during interior remodel inspections, and what causes a failed inspection?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Interior remodel inspections typically happen after key phases such as demolition, rough framing, rough plumbing, rough electrical, and insulation, before walls and finishes are closed up. Inspectors check whether the work matches the approved plans and basic code requirements. Common reasons for failure include missing or incomplete work, unapproved changes, improper installation, inaccessible controls, or work that differs from the permit drawings. A failed inspection usually means the contractor must correct the issue and request a recheck, which can slow the project. Homeowners should understand that inspections are part of quality control, not a nuisance. The easiest way to avoid problems is to keep the scope aligned with the permit and make sure the contractor knows which work needs approval before it is covered.",
+      "@type": "Answer",
+      "description": "Inspections usually verify that framing, plumbing, electrical, ventilation, insulation, and other work match the approved plans and code requirements. Common problems include missing documentation, incorrect installation, inaccessible shutoffs, or work that does not match the permit drawings. Passing inspections depends on doing the hidden work correctly before surfaces are closed up.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Interior remodel inspections typically happen after key phases such as demolition, rough framing, rough plumbing, rough electrical, and insulation, before walls and finishes are closed up. Inspectors check whether the work matches the approved plans and basic code requirements. Common reasons for failure include missing or incomplete work, unapproved changes, improper installation, inaccessible controls, or work that differs from the permit drawings. A failed inspection usually means the contractor must correct the issue and request a recheck, which can slow the project. Homeowners should understand that inspections are part of quality control, not a nuisance. The easiest way to avoid problems is to keep the scope aligned with the permit and make sure the contractor knows which work needs approval before it is covered.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Inspections usually verify that framing, plumbing, electrical, ventilation, insulation, and other work match the approved plans and code requirements. Common pr"
+}
