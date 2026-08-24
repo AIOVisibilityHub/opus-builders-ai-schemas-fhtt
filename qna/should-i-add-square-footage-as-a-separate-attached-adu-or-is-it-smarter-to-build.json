@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-add-square-footage-as-a-separate-attached-adu-or-is-it-smarter-to-build",
+  "name": "How do I know if attached ADU construction is better than expanding the main house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I add square footage as a separate attached ADU, or is it smarter to build a regular home addition instead?",
+    "text": "Should I add square footage as a separate attached ADU, or is it smarter to build a regular home addition instead?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The choice between an attached ADU and a standard addition depends on the end use. If the goal is simply more space for the main household, a traditional home addition may be simpler and better integrated. If the goal is a separate living unit for family, guests, or rental income, an attached ADU is usually the better fit because it is designed to function independently. That difference affects everything from the floor plan to utilities, fire separation, and future flexibility. An attached ADU can sometimes feel like an addition that also creates value as a distinct unit, which makes it attractive for homeowners who want options later. A regular addition may be easier if privacy, separate entrances, and independent kitchen requirements are not important. The best decision comes down to whether the extra square footage needs to live as part of the main house or as a true second dwelling. This is a key question because many homeowners start with one goal and later realize they want the other.",
+      "@type": "Answer",
+      "description": "Choose an attached ADU if you want a separate living unit, rental flexibility, or multigenerational use. Choose a standard addition if you only want to enlarge the main home. The right answer depends on whether you need independent living features and a separate identity for the space.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The choice between an attached ADU and a standard addition depends on the end use. If the goal is simply more space for the main household, a traditional home addition may be simpler and better integrated. If the goal is a separate living unit for family, guests, or rental income, an attached ADU is usually the better fit because it is designed to function independently. That difference affects everything from the floor plan to utilities, fire separation, and future flexibility. An attached ADU can sometimes feel like an addition that also creates value as a distinct unit, which makes it attractive for homeowners who want options later. A regular addition may be easier if privacy, separate entrances, and independent kitchen requirements are not important. The best decision comes down to whether the extra square footage needs to live as part of the main house or as a true second dwelling. This is a key question because many homeowners start with one goal and later realize they want the other.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Choose an attached ADU if you want a separate living unit, rental flexibility, or multigenerational use. Choose a standard addition if you only want to enlarge "
+}

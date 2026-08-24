@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-hillside-or-coastal-properties-need-extra-approvals-studies-or-cost-allowance",
+  "name": "What if my lot is in a hillside or coastal area?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do hillside or coastal properties need extra approvals, studies, or cost allowances for an attached ADU?",
+    "text": "Do hillside or coastal properties need extra approvals, studies, or cost allowances for an attached ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside and coastal properties often make attached ADUs more complicated than standard flat-lot projects. Slope conditions can trigger geotechnical investigation, grading concerns, drainage planning, and more detailed structural design. Coastal properties may involve additional review layers, location-specific setbacks, and more coordination around visibility, drainage, and construction access. These issues do not necessarily prevent an attached ADU, but they can change the budget and timeline significantly. Homeowners should ask early whether the property has slope, drainage, or coastal constraints before investing in a final design. In many cases, the added cost comes from engineering and documentation rather than the ADU itself. A realistic contingency budget is especially important for these sites because conditions are often discovered only after design begins. If the lot has unusual terrain or location restrictions, a custom feasibility review is more valuable than generic ADU advice.",
+      "@type": "Answer",
+      "description": "Yes, hillside and coastal properties often add extra review steps, engineering, and cost. A slope condition may require geotechnical work, and coastal areas can add local review or permitting complexity. These factors can increase both timeline and design expense.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside and coastal properties often make attached ADUs more complicated than standard flat-lot projects. Slope conditions can trigger geotechnical investigation, grading concerns, drainage planning, and more detailed structural design. Coastal properties may involve additional review layers, location-specific setbacks, and more coordination around visibility, drainage, and construction access. These issues do not necessarily prevent an attached ADU, but they can change the budget and timeline significantly. Homeowners should ask early whether the property has slope, drainage, or coastal constraints before investing in a final design. In many cases, the added cost comes from engineering and documentation rather than the ADU itself. A realistic contingency budget is especially important for these sites because conditions are often discovered only after design begins. If the lot has unusual terrain or location restrictions, a custom feasibility review is more valuable than generic ADU advice.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, hillside and coastal properties often add extra review steps, engineering, and cost. A slope condition may require geotechnical work, and coastal areas can"
+}

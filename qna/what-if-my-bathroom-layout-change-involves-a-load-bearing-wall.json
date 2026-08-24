@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-my-bathroom-layout-change-involves-a-load-bearing-wall",
+  "name": "What if the bathroom has a load-bearing wall?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if my bathroom layout change involves a load-bearing wall?",
+    "text": "What if my bathroom layout change involves a load-bearing wall?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A load-bearing wall changes the project from a simple layout update to a structural redesign. The wall may be carrying loads from above, so it cannot be removed or altered casually. If the bathroom plan depends on widening the room, changing the door location, or opening the space, the structure must be reviewed first so the right support can be designed. This can affect budget, permit scope, and timing. Homeowners should not assume a wall is non-structural just because it sits inside the house. In practice, a layout change that touches a load-bearing wall may still be possible, but it needs more planning and coordination. That extra effort is usually worth it only when the spatial payoff is significant.",
+      "@type": "Answer",
+      "description": "If a bathroom layout change affects a load-bearing wall, the design must account for structural support before demolition. That usually makes the project more complex because the wall cannot simply be removed or moved without proper framing support.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A load-bearing wall changes the project from a simple layout update to a structural redesign. The wall may be carrying loads from above, so it cannot be removed or altered casually. If the bathroom plan depends on widening the room, changing the door location, or opening the space, the structure must be reviewed first so the right support can be designed. This can affect budget, permit scope, and timing. Homeowners should not assume a wall is non-structural just because it sits inside the house. In practice, a layout change that touches a load-bearing wall may still be possible, but it needs more planning and coordination. That extra effort is usually worth it only when the spatial payoff is significant.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a bathroom layout change affects a load-bearing wall, the design must account for structural support before demolition. That usually makes the project more c"
+}

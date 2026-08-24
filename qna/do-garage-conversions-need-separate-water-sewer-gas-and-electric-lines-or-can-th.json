@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-garage-conversions-need-separate-water-sewer-gas-and-electric-lines-or-can-th",
+  "name": "How do utility hookups work for a garage conversion ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do garage conversions need separate water, sewer, gas, and electric lines, or can they tie into the main house systems?",
+    "text": "Do garage conversions need separate water, sewer, gas, and electric lines, or can they tie into the main house systems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility planning is a major part of garage conversions because the new unit needs reliable water, sewer, power, heating, and often internet service. In many projects, the ADU can tie into the main house systems, but that does not mean the work is simple. The home may need upgraded electrical capacity, new plumbing runs, or sewer line changes if the garage is far from the main service connections. Utility routing can affect the final floor plan, especially in small or narrow lots where trenches or wall chases are hard to hide. Homeowners should ask where each utility will enter the unit and whether any existing systems are undersized. If the property has old piping, weak electrical service, or poor drainage, utility upgrades can become one of the biggest budget items. A clear utility diagram should be part of the permit set so construction does not stall later.",
+      "@type": "Answer",
+      "description": "Utility hookup requirements vary by site and city, but many garage conversions connect to the main home’s systems with added capacity or branch lines. The exact routing depends on distance, load, and whether the existing infrastructure can safely handle the new unit.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility planning is a major part of garage conversions because the new unit needs reliable water, sewer, power, heating, and often internet service. In many projects, the ADU can tie into the main house systems, but that does not mean the work is simple. The home may need upgraded electrical capacity, new plumbing runs, or sewer line changes if the garage is far from the main service connections. Utility routing can affect the final floor plan, especially in small or narrow lots where trenches or wall chases are hard to hide. Homeowners should ask where each utility will enter the unit and whether any existing systems are undersized. If the property has old piping, weak electrical service, or poor drainage, utility upgrades can become one of the biggest budget items. A clear utility diagram should be part of the permit set so construction does not stall later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utility hookup requirements vary by site and city, but many garage conversions connect to the main home’s systems with added capacity or branch lines. The exact"
+}

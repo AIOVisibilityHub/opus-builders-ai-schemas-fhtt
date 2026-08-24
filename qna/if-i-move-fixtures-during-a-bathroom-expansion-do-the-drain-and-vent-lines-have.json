@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-move-fixtures-during-a-bathroom-expansion-do-the-drain-and-vent-lines-have",
+  "name": "Will a bathroom expansion require new plumbing for the drain and vent lines?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I move fixtures during a bathroom expansion, do the drain and vent lines have to be redone?",
+    "text": "If I move fixtures during a bathroom expansion, do the drain and vent lines have to be redone?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A bathroom expansion often affects drain and vent lines, especially if the toilet, shower, or sink moves to a new part of the room. Small adjustments may be possible without major rework, but larger layout changes usually require new drain routing, venting, or both. Drain slope is especially important because fixtures need proper gravity flow to work correctly. In older homes, plumbing changes can also reveal outdated or undersized pipes that should be improved while the walls are open. If the new design keeps fixtures close to existing lines, the plumbing scope stays simpler and less expensive. If the layout is being reimagined for a more open or luxurious result, the plumbing plan becomes one of the most important parts of the project. A contractor should map the fixture locations early so the expansion is realistic and code-compliant before construction begins.",
+      "@type": "Answer",
+      "description": "If fixtures move far from their original locations, drain and vent lines often need to be rerouted. Small shifts may be manageable, but major layout changes usually require new plumbing connections and careful slope planning.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A bathroom expansion often affects drain and vent lines, especially if the toilet, shower, or sink moves to a new part of the room. Small adjustments may be possible without major rework, but larger layout changes usually require new drain routing, venting, or both. Drain slope is especially important because fixtures need proper gravity flow to work correctly. In older homes, plumbing changes can also reveal outdated or undersized pipes that should be improved while the walls are open. If the new design keeps fixtures close to existing lines, the plumbing scope stays simpler and less expensive. If the layout is being reimagined for a more open or luxurious result, the plumbing plan becomes one of the most important parts of the project. A contractor should map the fixture locations early so the expansion is realistic and code-compliant before construction begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If fixtures move far from their original locations, drain and vent lines often need to be rerouted. Small shifts may be manageable, but major layout changes usu"
+}

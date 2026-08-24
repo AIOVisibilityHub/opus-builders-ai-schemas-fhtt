@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-a-realistic-timeline-from-first-design-meeting-to-move-in-for-a-custom-a",
+  "name": "How long does it take to build a detached ADU from start to finish?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is a realistic timeline from first design meeting to move-in for a custom ADU in Los Angeles?",
+    "text": "What is a realistic timeline from first design meeting to move-in for a custom ADU in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A realistic ADU timeline should be broken into stages: feasibility, design, engineering, permitting, and construction. Detached custom units typically take longer than conversions because they require full site work and a complete new build. Delays often come from plan revisions, utility coordination, material lead times, and unexpected field conditions. Projects on sloped lots or narrow parcels can take even longer because engineering and access constraints increase complexity. Homeowners should ask for a schedule that includes best-case and likely-case timing, not just a single optimistic completion date. The most useful contractor is the one who explains where time is most likely to slip and what can be done early to prevent it.",
+      "@type": "Answer",
+      "description": "A custom detached ADU often takes many months from design through permit approval and construction. The timeline depends on plan revisions, site conditions, utility work, and contractor scheduling, so fast promises should be treated carefully.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A realistic ADU timeline should be broken into stages: feasibility, design, engineering, permitting, and construction. Detached custom units typically take longer than conversions because they require full site work and a complete new build. Delays often come from plan revisions, utility coordination, material lead times, and unexpected field conditions. Projects on sloped lots or narrow parcels can take even longer because engineering and access constraints increase complexity. Homeowners should ask for a schedule that includes best-case and likely-case timing, not just a single optimistic completion date. The most useful contractor is the one who explains where time is most likely to slip and what can be done early to prevent it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A custom detached ADU often takes many months from design through permit approval and construction. The timeline depends on plan revisions, site conditions, uti"
+}

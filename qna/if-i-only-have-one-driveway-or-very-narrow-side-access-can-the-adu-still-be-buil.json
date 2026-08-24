@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-only-have-one-driveway-or-very-narrow-side-access-can-the-adu-still-be-buil",
+  "name": "Can an ADU share a driveway with the main house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I only have one driveway or very narrow side access, can the ADU still be built and used comfortably?",
+    "text": "If I only have one driveway or very narrow side access, can the ADU still be built and used comfortably?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Shared driveway access is common on ADU projects, especially in established Los Angeles neighborhoods. The challenge is not just whether vehicles can reach the back of the lot, but whether the route works for construction, emergency access, future maintenance, and daily use. Narrow side yards may require smaller equipment, more hand labor, or phased construction methods that increase cost. If the ADU is tucked behind the main house, the path must also work for furniture, appliances, and utility maintenance. Homeowners should ask how the contractor plans to move materials to the site and whether any hardscape, gates, or walls need temporary removal. A good layout will make the shared access feel intentional rather than cramped.",
+      "@type": "Answer",
+      "description": "An ADU can often share existing driveway access, but the layout must still allow safe entry, emergency access, trash handling, and construction staging. Narrow access can affect both the design and the cost of building the unit.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Shared driveway access is common on ADU projects, especially in established Los Angeles neighborhoods. The challenge is not just whether vehicles can reach the back of the lot, but whether the route works for construction, emergency access, future maintenance, and daily use. Narrow side yards may require smaller equipment, more hand labor, or phased construction methods that increase cost. If the ADU is tucked behind the main house, the path must also work for furniture, appliances, and utility maintenance. Homeowners should ask how the contractor plans to move materials to the site and whether any hardscape, gates, or walls need temporary removal. A good layout will make the shared access feel intentional rather than cramped.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU can often share existing driveway access, but the layout must still allow safe entry, emergency access, trash handling, and construction staging. Narrow "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-plan-to-renovate-the-main-house-too-which-project-should-happen-first-to-av",
+  "name": "Should I build an ADU before or after a major remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I plan to renovate the main house too, which project should happen first to avoid rework and duplicate costs?",
+    "text": "If I plan to renovate the main house too, which project should happen first to avoid rework and duplicate costs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When a homeowner plans both an ADU and a major remodel, sequencing matters because the projects may share grading, utility, drainage, or structural work. If the main house renovation will change the site layout, roofline, or utility capacity, it is often smarter to coordinate the plans together before construction starts. That can reduce duplicate trenching, repeated inspections, and redesign work. On the other hand, if the ADU is independent and the main house remodel is extensive, the owner may prefer to complete the ADU first to create rental income or swing space. The best answer depends on access, budget, and whether the two scopes interfere with each other. A coordinated feasibility review can show whether the projects should be treated as one master plan or separate phases.",
+      "@type": "Answer",
+      "description": "The right sequence depends on site access, utility upgrades, and whether the main-house remodel affects the ADU footprint or services. If both projects share the same utility work or grading, coordinating them together usually avoids duplicate costs.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When a homeowner plans both an ADU and a major remodel, sequencing matters because the projects may share grading, utility, drainage, or structural work. If the main house renovation will change the site layout, roofline, or utility capacity, it is often smarter to coordinate the plans together before construction starts. That can reduce duplicate trenching, repeated inspections, and redesign work. On the other hand, if the ADU is independent and the main house remodel is extensive, the owner may prefer to complete the ADU first to create rental income or swing space. The best answer depends on access, budget, and whether the two scopes interfere with each other. A coordinated feasibility review can show whether the projects should be treated as one master plan or separate phases.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The right sequence depends on site access, utility upgrades, and whether the main-house remodel affects the ADU footprint or services. If both projects share th"
+}

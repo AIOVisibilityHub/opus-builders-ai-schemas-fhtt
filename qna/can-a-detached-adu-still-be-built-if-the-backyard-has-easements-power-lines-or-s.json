@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-detached-adu-still-be-built-if-the-backyard-has-easements-power-lines-or-s",
+  "name": "What if the property has easements or utility lines in the backyard?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a detached ADU still be built if the backyard has easements, power lines, or sewer access running through it?",
+    "text": "Can a detached ADU still be built if the backyard has easements, power lines, or sewer access running through it?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Easements and utility corridors are common hidden constraints on Los Angeles lots. If a sewer line, power easement, drainage path, or access corridor crosses the backyard, the buildable area may shrink or shift. The project can still be feasible, but the design must respect those restrictions from the start. Ignoring them usually leads to permit revisions or a redesign after more money has already been spent. Homeowners should ask for a current site analysis that overlays recorded easements with proposed building placement. In some cases, the ADU can be relocated, reduced, or reconfigured to avoid the affected area. In others, the utility issue may add cost because access must be preserved or lines need to be relocated. This is one of the strongest reasons to complete a proper feasibility study before committing to a floor plan.",
+      "@type": "Answer",
+      "description": "A detached ADU may still be possible, but easements and utility corridors can restrict where the unit may sit and how large it can be. These conditions should be mapped early because they often determine the usable building envelope.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Easements and utility corridors are common hidden constraints on Los Angeles lots. If a sewer line, power easement, drainage path, or access corridor crosses the backyard, the buildable area may shrink or shift. The project can still be feasible, but the design must respect those restrictions from the start. Ignoring them usually leads to permit revisions or a redesign after more money has already been spent. Homeowners should ask for a current site analysis that overlays recorded easements with proposed building placement. In some cases, the ADU can be relocated, reduced, or reconfigured to avoid the affected area. In others, the utility issue may add cost because access must be preserved or lines need to be relocated. This is one of the strongest reasons to complete a proper feasibility study before committing to a floor plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A detached ADU may still be possible, but easements and utility corridors can restrict where the unit may sit and how large it can be. These conditions should b"
+}

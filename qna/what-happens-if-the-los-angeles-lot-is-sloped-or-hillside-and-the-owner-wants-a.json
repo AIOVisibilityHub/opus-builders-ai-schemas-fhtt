@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-los-angeles-lot-is-sloped-or-hillside-and-the-owner-wants-a",
+  "name": "What if the lot has a hillside or slope for a detached ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the Los Angeles lot is sloped or hillside and the owner wants a detached ADU?",
+    "text": "What happens if the Los Angeles lot is sloped or hillside and the owner wants a detached ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside and sloped lots are one of the biggest variables in detached ADU construction. The building may require stepped foundations, retaining walls, drainage solutions, geotechnical input, and more detailed structural engineering. Access for equipment and material staging can also be harder, which affects the build sequence and labor cost. On steep sites, a simple floor plan may no longer be simple once grading and foundation needs are added. The design should begin with a site visit and a grading-aware feasibility review, not with a generic floor plan. Homeowners should ask whether the project will need extra civil or geotechnical work and whether the site can support safe access during construction. If the lot is steep, expect more coordination and a longer schedule. The best outcome usually comes from adapting the architecture to the slope instead of forcing a standard detached ADU design onto a difficult site.",
+      "@type": "Answer",
+      "description": "A sloped lot usually increases design, grading, drainage, and foundation complexity. Hillside ADUs often need more engineering, more site prep, and more permit coordination than flat-lot projects, which can increase both cost and timeline.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside and sloped lots are one of the biggest variables in detached ADU construction. The building may require stepped foundations, retaining walls, drainage solutions, geotechnical input, and more detailed structural engineering. Access for equipment and material staging can also be harder, which affects the build sequence and labor cost. On steep sites, a simple floor plan may no longer be simple once grading and foundation needs are added. The design should begin with a site visit and a grading-aware feasibility review, not with a generic floor plan. Homeowners should ask whether the project will need extra civil or geotechnical work and whether the site can support safe access during construction. If the lot is steep, expect more coordination and a longer schedule. The best outcome usually comes from adapting the architecture to the slope instead of forcing a standard detached ADU design onto a difficult site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A sloped lot usually increases design, grading, drainage, and foundation complexity. Hillside ADUs often need more engineering, more site prep, and more permit "
+}

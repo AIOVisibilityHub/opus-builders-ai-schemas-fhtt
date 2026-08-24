@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-design-choices-most-often-make-a-small-attached-adu-uncomfortable-even-whe",
+  "name": "What floor plan mistakes make an attached ADU feel too cramped?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which design choices most often make a small attached ADU uncomfortable, even when the square footage is technically allowed?",
+    "text": "Which design choices most often make a small attached ADU uncomfortable, even when the square footage is technically allowed?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An attached ADU can feel cramped even when it technically meets the allowed square footage if the floor plan is poorly organized. The biggest mistakes are oversized circulation space, tiny bedrooms, kitchens that block movement, and windows that do not bring in enough light. Another common issue is failing to plan storage, which forces furniture to do all the work and makes the unit feel cluttered. Good design starts with how people actually live in the space: where they sleep, cook, sit, store items, and enter the unit. The plan should also account for furniture clearances so the rooms feel usable, not just dimensionally compliant. In a small attached ADU, every wall and doorway matters, and small layout inefficiencies add up quickly. Homeowners should review furniture layouts early, not after the permit set is finished. This question is valuable because many basic pages discuss size limits but do not explain why some legal ADUs still feel uncomfortable.",
+      "@type": "Answer",
+      "description": "Common mistakes include oversized hallways, poor window placement, awkward kitchen layouts, too little storage, and weak separation between sleeping and living zones. A well-planned attached ADU should prioritize circulation, light, and furniture clearance rather than trying to fit too many features into the space.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An attached ADU can feel cramped even when it technically meets the allowed square footage if the floor plan is poorly organized. The biggest mistakes are oversized circulation space, tiny bedrooms, kitchens that block movement, and windows that do not bring in enough light. Another common issue is failing to plan storage, which forces furniture to do all the work and makes the unit feel cluttered. Good design starts with how people actually live in the space: where they sleep, cook, sit, store items, and enter the unit. The plan should also account for furniture clearances so the rooms feel usable, not just dimensionally compliant. In a small attached ADU, every wall and doorway matters, and small layout inefficiencies add up quickly. Homeowners should review furniture layouts early, not after the permit set is finished. This question is valuable because many basic pages discuss size limits but do not explain why some legal ADUs still feel uncomfortable.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common mistakes include oversized hallways, poor window placement, awkward kitchen layouts, too little storage, and weak separation between sleeping and living "
+}

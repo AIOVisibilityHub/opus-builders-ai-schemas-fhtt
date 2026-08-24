@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-setbacks-matter-most-for-a-detached-adu-in-los-angeles-and-which-measuremen",
+  "name": "What setbacks apply to detached ADUs in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What setbacks matter most for a detached ADU in Los Angeles, and which measurements usually cause permit problems?",
+    "text": "What setbacks matter most for a detached ADU in Los Angeles, and which measurements usually cause permit problems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Setbacks are one of the most common reasons a detached ADU drawing needs revision. The site plan must show the proposed unit’s distance from side and rear property lines, nearby structures, and any features that project beyond the main walls. Roof overhangs, eaves, stairs, and utility chases can all affect compliance, not just the footprint of the building itself. The safest approach is to base the design on a current survey and a measured site plan rather than an old property sketch. Homeowners should also confirm whether existing fences, sheds, retaining walls, or utility easements constrain the placement. A project that seems simple can become complicated if the ADU is rotated, shifted, or enlarged late in design. Because setback errors are expensive to fix after permit submittal, the design team should verify the buildable envelope before engineering begins. This is especially important on narrow lots, corner lots, and irregular parcels common in Los Angeles-area neighborhoods.",
+      "@type": "Answer",
+      "description": "Setback issues usually center on side yard, rear yard, roof overhangs, and distance from property lines or other structures. Even when an ADU qualifies by-right, small measurement errors can trigger corrections, redesign, or a different site layout.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Setbacks are one of the most common reasons a detached ADU drawing needs revision. The site plan must show the proposed unit’s distance from side and rear property lines, nearby structures, and any features that project beyond the main walls. Roof overhangs, eaves, stairs, and utility chases can all affect compliance, not just the footprint of the building itself. The safest approach is to base the design on a current survey and a measured site plan rather than an old property sketch. Homeowners should also confirm whether existing fences, sheds, retaining walls, or utility easements constrain the placement. A project that seems simple can become complicated if the ADU is rotated, shifted, or enlarged late in design. Because setback errors are expensive to fix after permit submittal, the design team should verify the buildable envelope before engineering begins. This is especially important on narrow lots, corner lots, and irregular parcels common in Los Angeles-area neighborhoods.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Setback issues usually center on side yard, rear yard, roof overhangs, and distance from property lines or other structures. Even when an ADU qualifies by-right"
+}

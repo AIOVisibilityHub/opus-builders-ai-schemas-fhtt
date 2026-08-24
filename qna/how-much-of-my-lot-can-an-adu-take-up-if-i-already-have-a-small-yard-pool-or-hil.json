@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-of-my-lot-can-an-adu-take-up-if-i-already-have-a-small-yard-pool-or-hil",
+  "name": "How much lot space do I actually need for an ADU in Los Angeles-area cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much of my lot can an ADU take up if I already have a small yard, pool, or hillside setback?",
+    "text": "How much of my lot can an ADU take up if I already have a small yard, pool, or hillside setback?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot can be technically eligible for an ADU even when it feels too small for a standard addition. The real question is how much usable area remains after side and rear setbacks, utility easements, pool clearances, slope conditions, and access requirements are accounted for. On constrained Los Angeles-area properties, the buildable footprint may be controlled more by fire access, grading, and drainage than by lot size alone. Homeowners should ask for a site plan early because two lots with the same square footage can support very different ADU sizes. A good feasibility review should show the maximum envelope, likely utility tie-in points, and whether the project is better suited for a detached unit, garage conversion, or attached addition. If the property has a pool, hillside, or irregular shape, those factors can significantly change the design and permit strategy.",
+      "@type": "Answer",
+      "description": "Most ADU rules focus less on minimum lot size and more on setbacks, lot coverage, height, and fire access. In many cases, even smaller lots can qualify, but the real limit is usually how much buildable area remains after required clearances, easements, and existing structures are counted.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot can be technically eligible for an ADU even when it feels too small for a standard addition. The real question is how much usable area remains after side and rear setbacks, utility easements, pool clearances, slope conditions, and access requirements are accounted for. On constrained Los Angeles-area properties, the buildable footprint may be controlled more by fire access, grading, and drainage than by lot size alone. Homeowners should ask for a site plan early because two lots with the same square footage can support very different ADU sizes. A good feasibility review should show the maximum envelope, likely utility tie-in points, and whether the project is better suited for a detached unit, garage conversion, or attached addition. If the property has a pool, hillside, or irregular shape, those factors can significantly change the design and permit strategy.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most ADU rules focus less on minimum lot size and more on setbacks, lot coverage, height, and fire access. In many cases, even smaller lots can qualify, but the"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-garage-still-be-converted-into-an-adu-if-the-slab-is-damaged-sloped-or-not",
+  "name": "What happens if the garage slab is cracked or uneven?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a garage still be converted into an ADU if the slab is damaged, sloped, or not suitable for living space?",
+    "text": "Can a garage still be converted into an ADU if the slab is damaged, sloped, or not suitable for living space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Slab condition is one of the biggest unknowns in garage conversions. If the slab is cracked, uneven, or showing signs of settlement, the project may need structural evaluation before the design is finalized. Some slabs can be repaired or leveled, while others need partial replacement or a raised floor assembly to meet comfort and code requirements. Moisture intrusion is another common issue because garages were never built to the same indoor-living standards as an ADU. This can affect flooring, insulation, and long-term durability. Homeowners should not ignore a visibly damaged slab just because the exterior shell looks usable. The right approach is to assess the slab early and build the repair into the budget. Otherwise, the project can run into delays once demolition exposes hidden damage. A contractor with ADU experience should be able to tell whether the slab is a minor fix, a major scope item, or a dealbreaker.",
+      "@type": "Answer",
+      "description": "A damaged slab does not automatically stop an ADU conversion, but it can change the scope and cost significantly. Cracks, settlement, slope, or moisture issues may require repair, reinforcement, leveling, or a new floor system before the space can be approved as habitable.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Slab condition is one of the biggest unknowns in garage conversions. If the slab is cracked, uneven, or showing signs of settlement, the project may need structural evaluation before the design is finalized. Some slabs can be repaired or leveled, while others need partial replacement or a raised floor assembly to meet comfort and code requirements. Moisture intrusion is another common issue because garages were never built to the same indoor-living standards as an ADU. This can affect flooring, insulation, and long-term durability. Homeowners should not ignore a visibly damaged slab just because the exterior shell looks usable. The right approach is to assess the slab early and build the repair into the budget. Otherwise, the project can run into delays once demolition exposes hidden damage. A contractor with ADU experience should be able to tell whether the slab is a minor fix, a major scope item, or a dealbreaker.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A damaged slab does not automatically stop an ADU conversion, but it can change the scope and cost significantly. Cracks, settlement, slope, or moisture issues "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-inspections-happen-during-framing-rough-plumbing-electrical-insulation-and",
+  "name": "What inspections are required during attached ADU construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which inspections happen during framing, rough plumbing, electrical, insulation, and final approval for an attached ADU?",
+    "text": "Which inspections happen during framing, rough plumbing, electrical, insulation, and final approval for an attached ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Attached ADU construction usually passes through a familiar inspection sequence, but the exact list depends on the scope of work. Common checkpoints include foundation or footing inspection, framing, rough plumbing, rough electrical, rough mechanical, insulation, drywall or fire separation verification, and a final inspection. If the project ties into the existing house, inspectors may pay close attention to openings, rated assemblies, and how the new and old structures connect. Homeowners should understand that missed inspections or uncovered work can delay the project, especially when work is hidden behind walls. A contractor who manages inspection timing well can save significant time and frustration. The most efficient projects schedule work so each inspection is ready the first time, rather than forcing rework or repeat visits. This topic has strong snippet potential because people search for the inspection sequence when they are trying to understand how long the project will take and what to expect on site.",
+      "@type": "Answer",
+      "description": "Typical inspections include foundation, framing, rough plumbing, rough electrical, rough mechanical, insulation, and final inspection. The exact sequence depends on the project scope and whether the ADU ties into the existing house or requires more complex structural work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Attached ADU construction usually passes through a familiar inspection sequence, but the exact list depends on the scope of work. Common checkpoints include foundation or footing inspection, framing, rough plumbing, rough electrical, rough mechanical, insulation, drywall or fire separation verification, and a final inspection. If the project ties into the existing house, inspectors may pay close attention to openings, rated assemblies, and how the new and old structures connect. Homeowners should understand that missed inspections or uncovered work can delay the project, especially when work is hidden behind walls. A contractor who manages inspection timing well can save significant time and frustration. The most efficient projects schedule work so each inspection is ready the first time, rather than forcing rework or repeat visits. This topic has strong snippet potential because people search for the inspection sequence when they are trying to understand how long the project will take and what to expect on site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Typical inspections include foundation, framing, rough plumbing, rough electrical, rough mechanical, insulation, and final inspection. The exact sequence depend"
+}

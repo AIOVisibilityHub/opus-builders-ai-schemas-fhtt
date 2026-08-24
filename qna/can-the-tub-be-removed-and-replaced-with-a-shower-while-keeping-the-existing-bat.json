@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-the-tub-be-removed-and-replaced-with-a-shower-while-keeping-the-existing-bat",
+  "name": "Can a tub-to-shower conversion be done without changing the bathroom tile floor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can the tub be removed and replaced with a shower while keeping the existing bathroom floor tile intact?",
+    "text": "Can the tub be removed and replaced with a shower while keeping the existing bathroom floor tile intact?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Keeping the existing bathroom floor tile is possible in some conversions, but it depends on how the shower is built. If the new shower footprint matches the old tub alcove and the drain work stays localized, the contractor may be able to protect most of the surrounding floor. If the floor needs to be opened for plumbing, framing, or a curbless design, some tile removal and repair is likely. Older tile can also be difficult to match, so even small repairs may be visible. Homeowners should ask the contractor how much of the floor will be protected, whether matching tile can be sourced, and what patching will look like after the work is finished. This question matters most in high-end remodels where preserving the original floor reduces cost and avoids a mismatched look. The right answer depends on the existing layout, the drain location, and the condition of the subfloor.",
+      "@type": "Answer",
+      "description": "Sometimes, yes, if the shower area can be rebuilt without disturbing the surrounding floor. However, if the drain, pan, or waterproofing changes require floor cuts, some tile removal or patching may be unavoidable.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Keeping the existing bathroom floor tile is possible in some conversions, but it depends on how the shower is built. If the new shower footprint matches the old tub alcove and the drain work stays localized, the contractor may be able to protect most of the surrounding floor. If the floor needs to be opened for plumbing, framing, or a curbless design, some tile removal and repair is likely. Older tile can also be difficult to match, so even small repairs may be visible. Homeowners should ask the contractor how much of the floor will be protected, whether matching tile can be sourced, and what patching will look like after the work is finished. This question matters most in high-end remodels where preserving the original floor reduces cost and avoids a mismatched look. The right answer depends on the existing layout, the drain location, and the condition of the subfloor.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, yes, if the shower area can be rebuilt without disturbing the surrounding floor. However, if the drain, pan, or waterproofing changes require floor c"
+}

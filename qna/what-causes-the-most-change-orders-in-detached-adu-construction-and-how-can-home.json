@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-causes-the-most-change-orders-in-detached-adu-construction-and-how-can-home",
+  "name": "How do you avoid ADU change orders during construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What causes the most change orders in detached ADU construction, and how can homeowners avoid them?",
+    "text": "What causes the most change orders in detached ADU construction, and how can homeowners avoid them?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders are one of the biggest reasons detached ADU budgets drift upward. They usually happen when the project scope was not fully defined, the site conditions were not understood early, or the homeowner changes selections after construction starts. Utility surprises, grading issues, foundation differences, and finish upgrades are common triggers. The best way to reduce change orders is to do more work before the first day on site: verify measurements, confirm utility plans, review soil and access conditions, and lock in the scope as clearly as possible. The contract should spell out allowances, exclusions, and upgrade pricing so there are fewer disputes later. Homeowners should also be realistic about finish selections, because moving from standard to premium materials can snowball quickly once the project is underway. The more complete the preconstruction phase, the fewer expensive surprises show up in the field.",
+      "@type": "Answer",
+      "description": "Change orders usually come from unclear plans, hidden site conditions, utility surprises, late material changes, and scope gaps. The best prevention is a complete preconstruction review with a detailed contract, allowance list, and site investigation.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders are one of the biggest reasons detached ADU budgets drift upward. They usually happen when the project scope was not fully defined, the site conditions were not understood early, or the homeowner changes selections after construction starts. Utility surprises, grading issues, foundation differences, and finish upgrades are common triggers. The best way to reduce change orders is to do more work before the first day on site: verify measurements, confirm utility plans, review soil and access conditions, and lock in the scope as clearly as possible. The contract should spell out allowances, exclusions, and upgrade pricing so there are fewer disputes later. Homeowners should also be realistic about finish selections, because moving from standard to premium materials can snowball quickly once the project is underway. The more complete the preconstruction phase, the fewer expensive surprises show up in the field.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Change orders usually come from unclear plans, hidden site conditions, utility surprises, late material changes, and scope gaps. The best prevention is a comple"
+}

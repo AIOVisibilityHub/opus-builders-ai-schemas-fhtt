@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-changing-a-bathroom-layout-should-i-relocate-the-vanity-first-or-the-shower",
+  "name": "Should I relocate the vanity first or the shower first?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When changing a bathroom layout, should I relocate the vanity first or the shower first?",
+    "text": "When changing a bathroom layout, should I relocate the vanity first or the shower first?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In most bathroom layouts, the shower or tub establishes the biggest spatial commitment, so it is often the first fixture to place. Once the wet area is fixed, the vanity can be sized to fit the remaining wall length while preserving comfortable circulation. This is especially important in narrow bathrooms where a few inches can determine whether the room feels balanced or cramped. The vanity should not be chosen in isolation, because an oversized cabinet can block movement or conflict with the door. A good layout sequence starts with the shower, then the toilet, then the vanity, then the door and storage details. That order helps avoid redesigning the room multiple times.",
+      "@type": "Answer",
+      "description": "The shower or tub usually needs to be planned first because it often controls the available circulation space and plumbing path. The vanity then gets sized and positioned around the remaining width, door swing, and toilet clearance.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In most bathroom layouts, the shower or tub establishes the biggest spatial commitment, so it is often the first fixture to place. Once the wet area is fixed, the vanity can be sized to fit the remaining wall length while preserving comfortable circulation. This is especially important in narrow bathrooms where a few inches can determine whether the room feels balanced or cramped. The vanity should not be chosen in isolation, because an oversized cabinet can block movement or conflict with the door. A good layout sequence starts with the shower, then the toilet, then the vanity, then the door and storage details. That order helps avoid redesigning the room multiple times.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The shower or tub usually needs to be planned first because it often controls the available circulation space and plumbing path. The vanity then gets sized and "
+}

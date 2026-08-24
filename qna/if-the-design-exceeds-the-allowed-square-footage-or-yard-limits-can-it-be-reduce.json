@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-design-exceeds-the-allowed-square-footage-or-yard-limits-can-it-be-reduce",
+  "name": "What happens if my attached ADU plan is too large for the lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the design exceeds the allowed square footage or yard limits, can it be reduced without restarting the whole permit process?",
+    "text": "If the design exceeds the allowed square footage or yard limits, can it be reduced without restarting the whole permit process?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If an attached ADU plan exceeds the allowed size or setback limits, the project usually needs to be redesigned before permits can move forward. The fix may be simple, such as reducing room depth, shortening the footprint, or removing a hallway or oversized closet. In other cases, the layout must be reconfigured to fit around the existing house and site constraints. The main advantage of catching the issue early is that it avoids wasting time on a plan that will be rejected or heavily corrected during review. Homeowners should ask the designer to test the plan against zoning rules at the concept stage, not after the drawings are nearly finished. It also helps to have a measured site plan and accurate existing home square footage. Most projects do not need to start from zero, but some do require multiple rounds of revisions. A flexible design team can usually adjust the layout while preserving the core goals of the project.",
+      "@type": "Answer",
+      "description": "Usually yes, but the plan will need revisions before approval. If the attached ADU is too large, the design can often be reduced by shrinking room dimensions, reworking the footprint, or removing nonessential space. The sooner the issue is caught, the easier and cheaper it is to fix.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If an attached ADU plan exceeds the allowed size or setback limits, the project usually needs to be redesigned before permits can move forward. The fix may be simple, such as reducing room depth, shortening the footprint, or removing a hallway or oversized closet. In other cases, the layout must be reconfigured to fit around the existing house and site constraints. The main advantage of catching the issue early is that it avoids wasting time on a plan that will be rejected or heavily corrected during review. Homeowners should ask the designer to test the plan against zoning rules at the concept stage, not after the drawings are nearly finished. It also helps to have a measured site plan and accurate existing home square footage. Most projects do not need to start from zero, but some do require multiple rounds of revisions. A flexible design team can usually adjust the layout while preserving the core goals of the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Usually yes, but the plan will need revisions before approval. If the attached ADU is too large, the design can often be reduced by shrinking room dimensions, r"
+}

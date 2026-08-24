@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-already-have-a-main-house-can-i-add-both-a-full-adu-and-a-jadu-or-even-mult",
+  "name": "Can I build two ADUs on one property in LA-area cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I already have a main house, can I add both a full ADU and a JADU, or even multiple detached units?",
+    "text": "If I already have a main house, can I add both a full ADU and a JADU, or even multiple detached units?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many homeowners are surprised that one property may be able to support more than one accessory unit, but the answer depends on the zoning category and the lot’s existing development. A common scenario is one full ADU plus one JADU on a single-family lot, while multifamily properties may have different allowances. The practical issue is not just legality, but whether the property can physically support parking, access, utility capacity, fire separation, and privacy between units. Two units may be allowed on paper but still be difficult to fit well on a small or narrow parcel. Before designing multiple units, the property should be tested for building envelope, circulation, and utility demand. A multi-unit ADU plan is often a high-value strategy, but only if the site can absorb the added complexity.",
+      "@type": "Answer",
+      "description": "Some residential lots can support more than one accessory unit, but the exact combination depends on zoning, property type, and local rules. The common question is whether one full ADU plus one JADU is allowed on a single-family lot.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many homeowners are surprised that one property may be able to support more than one accessory unit, but the answer depends on the zoning category and the lot’s existing development. A common scenario is one full ADU plus one JADU on a single-family lot, while multifamily properties may have different allowances. The practical issue is not just legality, but whether the property can physically support parking, access, utility capacity, fire separation, and privacy between units. Two units may be allowed on paper but still be difficult to fit well on a small or narrow parcel. Before designing multiple units, the property should be tested for building envelope, circulation, and utility demand. A multi-unit ADU plan is often a high-value strategy, but only if the site can absorb the added complexity.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Some residential lots can support more than one accessory unit, but the exact combination depends on zoning, property type, and local rules. The common question"
+}

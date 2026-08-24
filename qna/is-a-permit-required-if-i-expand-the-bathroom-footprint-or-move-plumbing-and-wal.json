@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-permit-required-if-i-expand-the-bathroom-footprint-or-move-plumbing-and-wal",
+  "name": "Do I need a permit to expand a bathroom in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a permit required if I expand the bathroom footprint or move plumbing and walls?",
+    "text": "Is a permit required if I expand the bathroom footprint or move plumbing and walls?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, a permit is usually required when a bathroom expansion changes the room footprint, moves walls, relocates plumbing fixtures, or adds new electrical or mechanical work. Simple cosmetic updates generally fall into a different category, but expansions are structural or systems-based work and are treated more seriously. In the Los Angeles area, permit needs can also depend on whether the work affects framing, ventilation, drainage, or load-bearing elements. Homeowners should assume that any real expansion beyond surface finishes will need plan review. This matters because a permit-friendly design can prevent delays, failed inspections, or expensive rework later. The cleanest approach is to have a contractor or designer create a scope that clearly shows the existing and proposed layout, fixture locations, and any structural changes. If the bathroom expansion is part of a larger remodel, it is better to identify permit requirements early so the schedule and budget are realistic from the start.",
+      "@type": "Answer",
+      "description": "Yes, bathroom expansions that move walls, change plumbing, add electrical, or alter the footprint usually require permits. Cosmetic updates typically do not, but once the project changes the room layout or systems, permit review is usually needed.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, a permit is usually required when a bathroom expansion changes the room footprint, moves walls, relocates plumbing fixtures, or adds new electrical or mechanical work. Simple cosmetic updates generally fall into a different category, but expansions are structural or systems-based work and are treated more seriously. In the Los Angeles area, permit needs can also depend on whether the work affects framing, ventilation, drainage, or load-bearing elements. Homeowners should assume that any real expansion beyond surface finishes will need plan review. This matters because a permit-friendly design can prevent delays, failed inspections, or expensive rework later. The cleanest approach is to have a contractor or designer create a scope that clearly shows the existing and proposed layout, fixture locations, and any structural changes. If the bathroom expansion is part of a larger remodel, it is better to identify permit requirements early so the schedule and budget are realistic from the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, bathroom expansions that move walls, change plumbing, add electrical, or alter the footprint usually require permits. Cosmetic updates typically do not, bu"
+}

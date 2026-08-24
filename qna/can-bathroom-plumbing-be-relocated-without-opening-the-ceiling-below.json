@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-bathroom-plumbing-be-relocated-without-opening-the-ceiling-below",
+  "name": "Can bathroom plumbing be relocated without opening the ceiling below?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can bathroom plumbing be relocated without opening the ceiling below?",
+    "text": "Can bathroom plumbing be relocated without opening the ceiling below?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether plumbing can be relocated without opening the ceiling below depends on how the existing drains and vents are routed. If the new fixture locations can be reached from above through the bathroom floor or walls, then ceiling demolition below may not be needed. That is more likely for small sink moves or certain wall-adjacent changes. However, toilet and shower relocations often require access to drainage paths below the floor structure, especially in upper-story bathrooms. If the piping must cross joists, change slope, or tie into a stack under the bathroom, opening the ceiling below may be the cleanest or only workable option. Homeowners should ask the contractor where the new lines will run and what surfaces will be affected before work starts. Avoiding ceiling access can save on repairs, but it should not come at the expense of proper drainage or code-compliant installation.",
+      "@type": "Answer",
+      "description": "Sometimes, but only if the new pipe route can be reached from the bathroom floor or walls. If the bathroom is above living space and the drain must cross framing or connect below the floor line, opening the ceiling below may be necessary.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether plumbing can be relocated without opening the ceiling below depends on how the existing drains and vents are routed. If the new fixture locations can be reached from above through the bathroom floor or walls, then ceiling demolition below may not be needed. That is more likely for small sink moves or certain wall-adjacent changes. However, toilet and shower relocations often require access to drainage paths below the floor structure, especially in upper-story bathrooms. If the piping must cross joists, change slope, or tie into a stack under the bathroom, opening the ceiling below may be the cleanest or only workable option. Homeowners should ask the contractor where the new lines will run and what surfaces will be affected before work starts. Avoiding ceiling access can save on repairs, but it should not come at the expense of proper drainage or code-compliant installation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but only if the new pipe route can be reached from the bathroom floor or walls. If the bathroom is above living space and the drain must cross framin"
+}

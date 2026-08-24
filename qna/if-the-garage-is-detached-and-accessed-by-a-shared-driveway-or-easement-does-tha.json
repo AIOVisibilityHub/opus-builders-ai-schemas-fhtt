@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-garage-is-detached-and-accessed-by-a-shared-driveway-or-easement-does-tha",
+  "name": "Can I convert a detached garage in the backyard if the driveway is shared?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the garage is detached and accessed by a shared driveway or easement, does that complicate an ADU conversion?",
+    "text": "If the garage is detached and accessed by a shared driveway or easement, does that complicate an ADU conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Shared driveways and easements can create practical and design issues for a garage conversion. Even if the structure itself is eligible, the project must not interfere with legal access, neighbor use rights, or required service routes. That can affect how construction is staged, where materials are stored, and whether the new ADU entry conflicts with ongoing driveway use. In some cases, the converted unit may also need a more carefully planned pedestrian path or trash access. Homeowners should review the recorded access arrangement before committing to the project. A shared driveway does not automatically stop the conversion, but it can influence privacy, construction logistics, and the final site layout. A designer should account for who uses the driveway, when they use it, and how the ADU entrance will work without causing friction. This is especially important in dense neighborhoods where space is tight and access is already limited.",
+      "@type": "Answer",
+      "description": "Yes, shared access can complicate a garage conversion because the project must preserve legal use of the driveway, access rights, and any required emergency or maintenance access. The physical conversion may still be possible, but site coordination becomes more important.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Shared driveways and easements can create practical and design issues for a garage conversion. Even if the structure itself is eligible, the project must not interfere with legal access, neighbor use rights, or required service routes. That can affect how construction is staged, where materials are stored, and whether the new ADU entry conflicts with ongoing driveway use. In some cases, the converted unit may also need a more carefully planned pedestrian path or trash access. Homeowners should review the recorded access arrangement before committing to the project. A shared driveway does not automatically stop the conversion, but it can influence privacy, construction logistics, and the final site layout. A designer should account for who uses the driveway, when they use it, and how the ADU entrance will work without causing friction. This is especially important in dense neighborhoods where space is tight and access is already limited.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, shared access can complicate a garage conversion because the project must preserve legal use of the driveway, access rights, and any required emergency or "
+}

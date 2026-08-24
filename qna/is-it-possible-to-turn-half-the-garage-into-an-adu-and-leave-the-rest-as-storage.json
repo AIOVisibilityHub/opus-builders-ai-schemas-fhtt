@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-turn-half-the-garage-into-an-adu-and-leave-the-rest-as-storage",
+  "name": "Can I convert only part of the garage and keep storage space?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to turn half the garage into an ADU and leave the rest as storage or a workshop?",
+    "text": "Is it possible to turn half the garage into an ADU and leave the rest as storage or a workshop?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Partial conversions can be attractive because they preserve some storage or workspace, but they are not always simple. The project must clearly define what becomes habitable living area and what remains accessory space. That separation affects walls, doors, fire ratings, insulation, plumbing routing, and whether the remaining area can legally stay as storage or a workshop. The city will care about the finished use, not just the floor plan. If the remaining section is too small or poorly isolated, the design may not be practical. Homeowners should also think about privacy, noise, and resale, because a half-conversion can feel awkward if it is not carefully planned. A feasibility review should test whether the compromise is worth it compared with a full conversion or detached storage solution. In many cases, the extra complexity is only worthwhile if the lot truly needs both living space and enclosed utility space.",
+      "@type": "Answer",
+      "description": "Partial garage conversions are sometimes possible if the remaining area still functions as a legal accessory space and the converted portion meets all habitability and separation requirements. The exact answer depends on zoning, fire separation, and how the remaining space is used.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Partial conversions can be attractive because they preserve some storage or workspace, but they are not always simple. The project must clearly define what becomes habitable living area and what remains accessory space. That separation affects walls, doors, fire ratings, insulation, plumbing routing, and whether the remaining area can legally stay as storage or a workshop. The city will care about the finished use, not just the floor plan. If the remaining section is too small or poorly isolated, the design may not be practical. Homeowners should also think about privacy, noise, and resale, because a half-conversion can feel awkward if it is not carefully planned. A feasibility review should test whether the compromise is worth it compared with a full conversion or detached storage solution. In many cases, the extra complexity is only worthwhile if the lot truly needs both living space and enclosed utility space.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Partial garage conversions are sometimes possible if the remaining area still functions as a legal accessory space and the converted portion meets all habitabil"
+}

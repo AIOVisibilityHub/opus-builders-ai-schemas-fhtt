@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-an-attached-adu-usually-add-more-resale-value-than-a-detached-unit-or-a-sim",
+  "name": "Do attached ADUs increase property value more than other ADU types?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does an attached ADU usually add more resale value than a detached unit or a simple interior conversion?",
+    "text": "Does an attached ADU usually add more resale value than a detached unit or a simple interior conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Attached ADUs can create significant value, but the value increase depends on how well the unit functions and how naturally it fits the property. Compared with an interior conversion, an attached ADU often offers more square footage, better privacy, and a more complete living experience. Compared with a detached ADU, it may be less private but also less expensive to build and sometimes easier to permit on constrained lots. Resale value usually improves when the ADU has its own entry, attractive exterior finish, good natural light, and a layout that feels independent from the main house. Buyers also care about parking, utility separation, and whether the addition looks cohesive with the original home. The best value tends to come from projects that balance cost and livability rather than simply maximizing square footage. Homeowners should think in terms of market appeal, not just construction cost, because the design quality can matter as much as the unit type.",
+      "@type": "Answer",
+      "description": "An attached ADU can add strong value, but the amount depends on design quality, privacy, parking, lot use, and whether the unit feels like a true separate residence. Detached ADUs often command more privacy, while attached ADUs may be more cost-efficient and easier to fit on smaller lots.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Attached ADUs can create significant value, but the value increase depends on how well the unit functions and how naturally it fits the property. Compared with an interior conversion, an attached ADU often offers more square footage, better privacy, and a more complete living experience. Compared with a detached ADU, it may be less private but also less expensive to build and sometimes easier to permit on constrained lots. Resale value usually improves when the ADU has its own entry, attractive exterior finish, good natural light, and a layout that feels independent from the main house. Buyers also care about parking, utility separation, and whether the addition looks cohesive with the original home. The best value tends to come from projects that balance cost and livability rather than simply maximizing square footage. Homeowners should think in terms of market appeal, not just construction cost, because the design quality can matter as much as the unit type.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An attached ADU can add strong value, but the amount depends on design quality, privacy, parking, lot use, and whether the unit feels like a true separate resid"
+}

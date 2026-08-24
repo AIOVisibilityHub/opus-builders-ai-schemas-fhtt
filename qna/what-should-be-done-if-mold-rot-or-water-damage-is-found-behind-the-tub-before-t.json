@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-done-if-mold-rot-or-water-damage-is-found-behind-the-tub-before-t",
+  "name": "What should you do if the bathtub area has water damage before conversion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be done if mold, rot, or water damage is found behind the tub before the shower conversion starts?",
+    "text": "What should be done if mold, rot, or water damage is found behind the tub before the shower conversion starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If water damage is discovered after the old tub is removed, the project should pause until the source and extent of the damage are understood. Common problems include rotted framing, damaged subflooring, soft drywall, or hidden mold from long-term leaks. Those issues need to be dried out, removed, and rebuilt before the new shower goes in. Installing a shower over compromised materials is a shortcut that often leads to more expensive repairs later. A reputable contractor should document the damage, explain the repair scope, and update the estimate before proceeding. Homeowners should expect some increase in cost and time if hidden damage appears, especially in older homes or bathrooms with failed caulking and old plumbing. This is one reason a good tub-to-shower conversion begins with inspection, not just demo. The best protection is full remediation and proper waterproofing before any finish materials are installed.",
+      "@type": "Answer",
+      "description": "Stop the finish work and repair the damaged area first. Water-damaged framing, subfloor, or drywall must be replaced and dried before a shower is installed, or the new conversion may trap moisture and fail early.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If water damage is discovered after the old tub is removed, the project should pause until the source and extent of the damage are understood. Common problems include rotted framing, damaged subflooring, soft drywall, or hidden mold from long-term leaks. Those issues need to be dried out, removed, and rebuilt before the new shower goes in. Installing a shower over compromised materials is a shortcut that often leads to more expensive repairs later. A reputable contractor should document the damage, explain the repair scope, and update the estimate before proceeding. Homeowners should expect some increase in cost and time if hidden damage appears, especially in older homes or bathrooms with failed caulking and old plumbing. This is one reason a good tub-to-shower conversion begins with inspection, not just demo. The best protection is full remediation and proper waterproofing before any finish materials are installed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Stop the finish work and repair the damaged area first. Water-damaged framing, subfloor, or drywall must be replaced and dried before a shower is installed, or "
+}

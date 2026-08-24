@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-detached-adu-in-los-angeles-be-two-stories-and-what-usually-limits-that-op",
+  "name": "Can you build a detached ADU with a two-story layout in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a detached ADU in Los Angeles be two stories, and what usually limits that option?",
+    "text": "Can a detached ADU in Los Angeles be two stories, and what usually limits that option?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A two-story detached ADU can be a smart way to gain space on a small lot, but it is not automatically the best or easiest option. Height limits, setbacks, view and privacy impacts, and structural engineering all become more important when the unit rises above a single story. On some lots, a second level improves usability by preserving yard space, while on others it creates design or approval complications. The architect should evaluate whether the added story actually solves the space problem or just increases cost and review complexity. Stairs also consume floor area and can make a compact layout less efficient. Homeowners should weigh the upside of extra square footage against the added framing, foundation demands, and possible neighborhood sensitivity. A one-story plan is often simpler to permit and build, but a two-story design can be the right solution when the lot is narrow or outdoor space must be preserved.",
+      "@type": "Answer",
+      "description": "A two-story detached ADU may be possible if height limits, setbacks, privacy rules, and neighborhood-specific restrictions allow it. The main constraints are usually zoning, massing, stair design, and how the added height affects neighbors and site coverage.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A two-story detached ADU can be a smart way to gain space on a small lot, but it is not automatically the best or easiest option. Height limits, setbacks, view and privacy impacts, and structural engineering all become more important when the unit rises above a single story. On some lots, a second level improves usability by preserving yard space, while on others it creates design or approval complications. The architect should evaluate whether the added story actually solves the space problem or just increases cost and review complexity. Stairs also consume floor area and can make a compact layout less efficient. Homeowners should weigh the upside of extra square footage against the added framing, foundation demands, and possible neighborhood sensitivity. A one-story plan is often simpler to permit and build, but a two-story design can be the right solution when the lot is narrow or outdoor space must be preserved.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A two-story detached ADU may be possible if height limits, setbacks, privacy rules, and neighborhood-specific restrictions allow it. The main constraints are us"
+}

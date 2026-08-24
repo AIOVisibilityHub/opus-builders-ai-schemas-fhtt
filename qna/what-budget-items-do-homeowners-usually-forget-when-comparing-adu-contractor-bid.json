@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-budget-items-do-homeowners-usually-forget-when-comparing-adu-contractor-bid",
+  "name": "What are the hidden costs of building an ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What budget items do homeowners usually forget when comparing ADU contractor bids?",
+    "text": "What budget items do homeowners usually forget when comparing ADU contractor bids?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many ADU budgets are blown by soft costs and site-specific work that were not included in the original estimate. Common misses include survey work, structural engineering, Title 24 or energy compliance, plan check corrections, utility upgrade fees, trenching, demolition, grading, retaining walls, and finish changes after design begins. Some projects also need temporary fencing, tree protection, material hauling, or restoration of hardscape and landscaping. The cheapest bid is not always the best value if it excludes these items. Homeowners should compare bids line by line and ask what happens if the city requires revisions or the field conditions differ from the plans. A realistic budget includes contingency because older LA-area properties often reveal surprises once demolition starts.",
+      "@type": "Answer",
+      "description": "Hidden ADU costs often include surveying, soils or geotechnical work, engineering, plan revisions, utility upgrades, trenching, demolition, grading, and final finish changes. These items can materially increase the total even when the base construction price looks competitive.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many ADU budgets are blown by soft costs and site-specific work that were not included in the original estimate. Common misses include survey work, structural engineering, Title 24 or energy compliance, plan check corrections, utility upgrade fees, trenching, demolition, grading, retaining walls, and finish changes after design begins. Some projects also need temporary fencing, tree protection, material hauling, or restoration of hardscape and landscaping. The cheapest bid is not always the best value if it excludes these items. Homeowners should compare bids line by line and ask what happens if the city requires revisions or the field conditions differ from the plans. A realistic budget includes contingency because older LA-area properties often reveal surprises once demolition starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hidden ADU costs often include surveying, soils or geotechnical work, engineering, plan revisions, utility upgrades, trenching, demolition, grading, and final f"
+}

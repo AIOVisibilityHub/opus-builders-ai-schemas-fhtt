@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-permit-review-for-an-attached-adu-faster-than-a-standard-addition-and-what-sl",
+  "name": "How long does an attached ADU permit review usually take in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is permit review for an attached ADU faster than a standard addition, and what slows it down?",
+    "text": "Is permit review for an attached ADU faster than a standard addition, and what slows it down?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit review for an attached ADU is often faster than a discretionary project because many ADUs qualify for ministerial processing. In a straightforward case, review can be relatively quick, but the timeline depends heavily on the quality of the drawings, the completeness of the application, and site-specific conditions. Common causes of delay include missing structural details, incorrect existing-square-footage calculations, unclear fire separation design, and conflicts between the site plan and actual property conditions. Hillside lots, coastal areas, and properties with unusual zoning can also add time. Homeowners should not assume that the official review window equals the full timeline to permit issuance, because corrections and resubmittals can extend the process. The best way to speed things up is to submit a fully coordinated set of drawings the first time and resolve structural and utility questions before filing. A project that looks simple on paper can still stall if the documents are incomplete or inconsistent.",
+      "@type": "Answer",
+      "description": "Attached ADU permit review is often ministerial and may move faster than discretionary projects, but revisions, incomplete documents, and site-specific issues can extend the timeline. Simple projects may be reviewed in about 60 days, while complex properties can take longer.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit review for an attached ADU is often faster than a discretionary project because many ADUs qualify for ministerial processing. In a straightforward case, review can be relatively quick, but the timeline depends heavily on the quality of the drawings, the completeness of the application, and site-specific conditions. Common causes of delay include missing structural details, incorrect existing-square-footage calculations, unclear fire separation design, and conflicts between the site plan and actual property conditions. Hillside lots, coastal areas, and properties with unusual zoning can also add time. Homeowners should not assume that the official review window equals the full timeline to permit issuance, because corrections and resubmittals can extend the process. The best way to speed things up is to submit a fully coordinated set of drawings the first time and resolve structural and utility questions before filing. A project that looks simple on paper can still stall if the documents are incomplete or inconsistent.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Attached ADU permit review is often ministerial and may move faster than discretionary projects, but revisions, incomplete documents, and site-specific issues c"
+}

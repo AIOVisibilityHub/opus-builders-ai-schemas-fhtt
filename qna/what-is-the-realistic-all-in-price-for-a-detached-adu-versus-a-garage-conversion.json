@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-realistic-all-in-price-for-a-detached-adu-versus-a-garage-conversion",
+  "name": "How much does an ADU cost in Los Angeles County right now?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the realistic all-in price for a detached ADU versus a garage conversion in LA, Glendale, or Pasadena?",
+    "text": "What is the realistic all-in price for a detached ADU versus a garage conversion in LA, Glendale, or Pasadena?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The real cost of an ADU depends on more than square footage. Detached units usually cost more because they require new foundation, framing, roofing, utility connections, and complete site work. Garage conversions are often less expensive, but they can still become costly if the structure needs seismic reinforcement, insulation, new plumbing, or major code upgrades. In Los Angeles-area neighborhoods, access restrictions, demolition, grading, and utility trenching can materially affect the budget. A useful estimate should break out design, permitting, engineering, utility work, site preparation, construction, finishes, and contingency. Homeowners should be cautious about low teaser prices that exclude plan check revisions, soft costs, or site-specific surprises. The best way to compare bids is to request scope-aligned estimates with the same assumptions for size, finish level, and utility strategy.",
+      "@type": "Answer",
+      "description": "ADU pricing varies widely based on size, type, site access, utility upgrades, and finish level. Garage conversions are usually less expensive than detached new construction, while hillside, tight-lot, or luxury finish projects can cost substantially more.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The real cost of an ADU depends on more than square footage. Detached units usually cost more because they require new foundation, framing, roofing, utility connections, and complete site work. Garage conversions are often less expensive, but they can still become costly if the structure needs seismic reinforcement, insulation, new plumbing, or major code upgrades. In Los Angeles-area neighborhoods, access restrictions, demolition, grading, and utility trenching can materially affect the budget. A useful estimate should break out design, permitting, engineering, utility work, site preparation, construction, finishes, and contingency. Homeowners should be cautious about low teaser prices that exclude plan check revisions, soft costs, or site-specific surprises. The best way to compare bids is to request scope-aligned estimates with the same assumptions for size, finish level, and utility strategy.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "ADU pricing varies widely based on size, type, site access, utility upgrades, and finish level. Garage conversions are usually less expensive than detached new "
+}

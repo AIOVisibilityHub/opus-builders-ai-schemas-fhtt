@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-separate-gas-electric-water-or-sewer-lines-for-an-adu-or-can-it-share",
+  "name": "How do utility hookups work for a new ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need separate gas, electric, water, or sewer lines for an ADU, or can it share the main house connections?",
+    "text": "Do I need separate gas, electric, water, or sewer lines for an ADU, or can it share the main house connections?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most ADU projects start by checking whether the existing utilities can support the new unit. Some ADUs share water, sewer, gas, or electrical service with the main house, while others need upgrades such as a larger electrical panel, a subpanel, or new trenching for underground lines. A separate meter is not always required, but utility capacity and code compliance still matter. The cost can rise quickly if the site needs long utility runs, service upgrades, or trenching across hardscape. Homeowners should ask whether the project will use shared systems, separate metering, or partial separation, because that decision affects both budget and schedule. A strong feasibility review should identify where the tie-ins will occur, whether the existing service is undersized, and whether trenching will interfere with driveway, landscaping, or retaining walls.",
+      "@type": "Answer",
+      "description": "An ADU can often share existing utility systems, but some projects need upgraded service, new subpanels, or separate meters depending on design and local utility requirements. The main issue is whether the existing systems have enough capacity for the additional load.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most ADU projects start by checking whether the existing utilities can support the new unit. Some ADUs share water, sewer, gas, or electrical service with the main house, while others need upgrades such as a larger electrical panel, a subpanel, or new trenching for underground lines. A separate meter is not always required, but utility capacity and code compliance still matter. The cost can rise quickly if the site needs long utility runs, service upgrades, or trenching across hardscape. Homeowners should ask whether the project will use shared systems, separate metering, or partial separation, because that decision affects both budget and schedule. A strong feasibility review should identify where the tie-ins will occur, whether the existing service is undersized, and whether trenching will interfere with driveway, landscaping, or retaining walls.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU can often share existing utility systems, but some projects need upgraded service, new subpanels, or separate meters depending on design and local utilit"
+}

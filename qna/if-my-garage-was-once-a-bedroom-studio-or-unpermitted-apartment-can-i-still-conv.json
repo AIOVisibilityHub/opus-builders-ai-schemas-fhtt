@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-my-garage-was-once-a-bedroom-studio-or-unpermitted-apartment-can-i-still-conv",
+  "name": "Can I convert a garage to an ADU if it was previously used as living space?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If my garage was once a bedroom, studio, or unpermitted apartment, can I still convert it into a legal ADU in Los Angeles or Pasadena?",
+    "text": "If my garage was once a bedroom, studio, or unpermitted apartment, can I still convert it into a legal ADU in Los Angeles or Pasadena?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The first step is to determine the garage’s legal history. If it was ever used as a dwelling, the city may require a different approval path than a standard garage-to-ADU conversion. That can affect plans, inspections, utility upgrades, and whether you need to restore or document prior alterations. A clean legal status matters because cities typically review what existed, what was permitted, and what work is needed to make the space code-compliant. Before design begins, confirm the structure’s original permits, any past remodel records, and whether the building has been converted or occupied before. If the history is unclear, expect extra review time and potentially more scope of work. Homeowners should ask for a feasibility review before spending money on architectural plans, especially in older neighborhoods where garages were informally repurposed years ago.",
+      "@type": "Answer",
+      "description": "A garage that was previously occupied as living space is often treated differently from a garage that has always been used only for parking or storage. In many cities, the prior use affects whether the project is a true garage conversion, an existing unpermitted unit, or a new ADU conversion path.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The first step is to determine the garage’s legal history. If it was ever used as a dwelling, the city may require a different approval path than a standard garage-to-ADU conversion. That can affect plans, inspections, utility upgrades, and whether you need to restore or document prior alterations. A clean legal status matters because cities typically review what existed, what was permitted, and what work is needed to make the space code-compliant. Before design begins, confirm the structure’s original permits, any past remodel records, and whether the building has been converted or occupied before. If the history is unclear, expect extra review time and potentially more scope of work. Homeowners should ask for a feasibility review before spending money on architectural plans, especially in older neighborhoods where garages were informally repurposed years ago.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A garage that was previously occupied as living space is often treated differently from a garage that has always been used only for parking or storage. In many "
+}

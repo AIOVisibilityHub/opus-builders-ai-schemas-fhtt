@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-adu-plans-keep-getting-rejected-for-setback-or-clearance-issues-even-when",
+  "name": "What setbacks are most often missed on ADU plans?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do ADU plans keep getting rejected for setback or clearance issues even when the lot seems large enough?",
+    "text": "Why do ADU plans keep getting rejected for setback or clearance issues even when the lot seems large enough?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Setback problems are one of the most common reasons ADU plans get revised. A lot may appear large enough, but once the existing house, fence lines, easements, pool equipment, and utility paths are plotted, the buildable area becomes much smaller. Designers also sometimes miss local clearance expectations for doors, windows, or maintenance access, especially on narrow side yards. Fire separation and access rules can further reduce placement options. The best prevention is a detailed site survey and a dimensioned plan that shows every existing improvement before design begins. Homeowners should avoid approving schematic layouts until the contractor has checked the actual lot conditions, because a pretty floor plan is not enough to prove buildability. On constrained parcels, the most practical design is often the one that fits the site cleanly the first time.",
+      "@type": "Answer",
+      "description": "The most commonly missed issues are side and rear setbacks, minimum clearances from existing structures, easements, and fire-access requirements. Projects can also get delayed when designers overlook utility corridors, drainage paths, or lot-specific constraints.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Setback problems are one of the most common reasons ADU plans get revised. A lot may appear large enough, but once the existing house, fence lines, easements, pool equipment, and utility paths are plotted, the buildable area becomes much smaller. Designers also sometimes miss local clearance expectations for doors, windows, or maintenance access, especially on narrow side yards. Fire separation and access rules can further reduce placement options. The best prevention is a detailed site survey and a dimensioned plan that shows every existing improvement before design begins. Homeowners should avoid approving schematic layouts until the contractor has checked the actual lot conditions, because a pretty floor plan is not enough to prove buildability. On constrained parcels, the most practical design is often the one that fits the site cleanly the first time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most commonly missed issues are side and rear setbacks, minimum clearances from existing structures, easements, and fire-access requirements. Projects can a"
+}

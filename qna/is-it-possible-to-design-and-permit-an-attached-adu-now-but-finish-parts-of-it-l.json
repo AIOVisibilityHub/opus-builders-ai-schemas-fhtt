@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-design-and-permit-an-attached-adu-now-but-finish-parts-of-it-l",
+  "name": "Can an attached ADU be built in phases to spread out cost?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to design and permit an attached ADU now but finish parts of it later if the budget is tight?",
+    "text": "Is it possible to design and permit an attached ADU now but finish parts of it later if the budget is tight?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phased construction can sometimes work for an attached ADU, but it needs to be planned very carefully. The safest approach is to complete all structural, envelope, fire separation, and utility work in one stage, then delay selected finish items if needed. Leaving critical systems incomplete can create permit issues, inspection delays, and safety concerns. Homeowners who want to phase the project should discuss that strategy before the drawings are finalized so the plans clearly show what will be built now and what can wait. In practice, a phased approach is more common for finishes such as cabinetry, landscaping, or certain interior upgrades than for core building work. The main risk is that changing the scope later can require new approvals or duplicate labor. If budget control is the priority, it is usually better to simplify the design than to stop mid-project. A clear phasing plan can still help, but it should never compromise the code-compliant shell of the ADU.",
+      "@type": "Answer",
+      "description": "Sometimes, but phased construction must be planned carefully so the project remains code-compliant and the unfinished areas do not create permit or safety problems. It is usually better to phase nonessential finishes than to leave structural or utility work incomplete.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phased construction can sometimes work for an attached ADU, but it needs to be planned very carefully. The safest approach is to complete all structural, envelope, fire separation, and utility work in one stage, then delay selected finish items if needed. Leaving critical systems incomplete can create permit issues, inspection delays, and safety concerns. Homeowners who want to phase the project should discuss that strategy before the drawings are finalized so the plans clearly show what will be built now and what can wait. In practice, a phased approach is more common for finishes such as cabinetry, landscaping, or certain interior upgrades than for core building work. The main risk is that changing the scope later can require new approvals or duplicate labor. If budget control is the priority, it is usually better to simplify the design than to stop mid-project. A clear phasing plan can still help, but it should never compromise the code-compliant shell of the ADU.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but phased construction must be planned carefully so the project remains code-compliant and the unfinished areas do not create permit or safety probl"
+}

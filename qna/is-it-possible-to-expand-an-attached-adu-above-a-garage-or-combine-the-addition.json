@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-expand-an-attached-adu-above-a-garage-or-combine-the-addition",
+  "name": "Can an attached ADU be built over part of the existing garage?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to expand an attached ADU above a garage or combine the addition with a garage conversion?",
+    "text": "Is it possible to expand an attached ADU above a garage or combine the addition with a garage conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Building an attached ADU above part of an existing garage can work, but it adds complexity quickly. The structure must be evaluated for load capacity, lateral stability, and foundation adequacy before any design is finalized. The project also has to address fire separation, roof transitions, stair or entry access, and how the new space connects with the main home. In many cases, combining an upper addition with a garage conversion creates a more efficient use of the site, but it also increases engineering and construction coordination. Homeowners should ask early whether the garage is a legal structure, because unpermitted garages can complicate the entire project. The design needs to solve both the living space and the structure underneath it, which is why these projects often benefit from a custom rather than standardized plan. This is a high-intent question because many homeowners want extra square footage without sacrificing parking, but the answer depends almost entirely on the existing building conditions.",
+      "@type": "Answer",
+      "description": "Yes, in some cases an attached ADU can be built above or alongside an existing garage, but the structure must be strong enough and the design must satisfy height, fire separation, and access requirements. This often requires a structural review and careful plan coordination.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Building an attached ADU above part of an existing garage can work, but it adds complexity quickly. The structure must be evaluated for load capacity, lateral stability, and foundation adequacy before any design is finalized. The project also has to address fire separation, roof transitions, stair or entry access, and how the new space connects with the main home. In many cases, combining an upper addition with a garage conversion creates a more efficient use of the site, but it also increases engineering and construction coordination. Homeowners should ask early whether the garage is a legal structure, because unpermitted garages can complicate the entire project. The design needs to solve both the living space and the structure underneath it, which is why these projects often benefit from a custom rather than standardized plan. This is a high-intent question because many homeowners want extra square footage without sacrificing parking, but the answer depends almost entirely on the existing building conditions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, in some cases an attached ADU can be built above or alongside an existing garage, but the structure must be strong enough and the design must satisfy heigh"
+}

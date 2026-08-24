@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-there-is-already-an-old-accessory-structure-on-the-lot-can-it-be-converted-re",
+  "name": "Can I add an ADU if my property already has an old garage or guest house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If there is already an old accessory structure on the lot, can it be converted, rebuilt, or expanded into an ADU?",
+    "text": "If there is already an old accessory structure on the lot, can it be converted, rebuilt, or expanded into an ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An existing structure can often be the fastest path to an ADU, but only if it is suitable for conversion. The structure may need foundation reinforcement, new insulation, upgraded windows, fire-rated assemblies, plumbing, electrical work, and ventilation changes. In some cases, a homeowner can rebuild on the same footprint or remodel the structure rather than start from scratch, which can save time and preserve yard space. However, an old garage or guest house may also bring hidden problems such as settlement, inadequate ceiling height, deteriorated framing, or nonconforming setbacks. Before committing, the property should be reviewed for permit history, structural condition, and whether the intended use will trigger major upgrades. A conversion can be excellent value, but it should not be assumed to be automatically cheaper than a new build.",
+      "@type": "Answer",
+      "description": "An existing garage, guest house, or other accessory structure can sometimes be converted into an ADU if it is permitted and can meet current safety and habitability requirements. The main issues are structural condition, code compliance, and whether the new plan stays within allowed size and placement rules.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An existing structure can often be the fastest path to an ADU, but only if it is suitable for conversion. The structure may need foundation reinforcement, new insulation, upgraded windows, fire-rated assemblies, plumbing, electrical work, and ventilation changes. In some cases, a homeowner can rebuild on the same footprint or remodel the structure rather than start from scratch, which can save time and preserve yard space. However, an old garage or guest house may also bring hidden problems such as settlement, inadequate ceiling height, deteriorated framing, or nonconforming setbacks. Before committing, the property should be reviewed for permit history, structural condition, and whether the intended use will trigger major upgrades. A conversion can be excellent value, but it should not be assumed to be automatically cheaper than a new build.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An existing garage, guest house, or other accessory structure can sometimes be converted into an ADU if it is permitted and can meet current safety and habitabi"
+}

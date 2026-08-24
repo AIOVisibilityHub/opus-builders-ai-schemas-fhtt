@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-fire-rated-walls-ceilings-and-doors-between-the-attached-adu-and-the-p",
+  "name": "Will an attached ADU require fire-rated separation from the main house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need fire-rated walls, ceilings, and doors between the attached ADU and the primary home?",
+    "text": "Do I need fire-rated walls, ceilings, and doors between the attached ADU and the primary home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Attached ADUs typically need fire-rated separation from the primary home because they are still part of a shared structure. That can mean rated wall assemblies, rated ceiling or floor assemblies, and carefully detailed penetrations for plumbing, electrical, and HVAC. If the ADU shares an attic, roof line, or framing cavity with the main house, those connections must be detailed correctly so the separation remains effective. This issue often affects cost and layout more than homeowners expect because rated assemblies can change wall thickness, ceiling height, and door placement. It also influences how the remodel is sequenced, since some existing finishes may need to be opened up during construction. A knowledgeable contractor should coordinate the plans with the structural and building code requirements early, not after framing begins. Homeowners should ask for a clear scope of rated construction before signing a proposal so the budget reflects the true build complexity.",
+      "@type": "Answer",
+      "description": "Yes, attached ADUs usually require fire-rated separation from the main house, including rated wall and ceiling assemblies and protected openings where needed. The exact requirements depend on whether the units share walls, floors, or attic space, and on the building’s existing construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Attached ADUs typically need fire-rated separation from the primary home because they are still part of a shared structure. That can mean rated wall assemblies, rated ceiling or floor assemblies, and carefully detailed penetrations for plumbing, electrical, and HVAC. If the ADU shares an attic, roof line, or framing cavity with the main house, those connections must be detailed correctly so the separation remains effective. This issue often affects cost and layout more than homeowners expect because rated assemblies can change wall thickness, ceiling height, and door placement. It also influences how the remodel is sequenced, since some existing finishes may need to be opened up during construction. A knowledgeable contractor should coordinate the plans with the structural and building code requirements early, not after framing begins. Homeowners should ask for a clear scope of rated construction before signing a proposal so the budget reflects the true build complexity.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, attached ADUs usually require fire-rated separation from the main house, including rated wall and ceiling assemblies and protected openings where needed. T"
+}

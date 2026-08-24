@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-i-need-a-new-electrical-panel-sewer-work-or-separate-hvac-for-an-attached-a",
+  "name": "What utility upgrades are usually needed for an attached ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will I need a new electrical panel, sewer work, or separate HVAC for an attached ADU?",
+    "text": "Will I need a new electrical panel, sewer work, or separate HVAC for an attached ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility planning is one of the most overlooked parts of an attached ADU. Depending on the existing house, the project may require an electrical panel upgrade, new circuits, plumbing tie-ins, upgraded water lines, additional gas capacity, or HVAC redesign. Some homes can share systems efficiently, while others need more separation to support a second kitchen and bathroom without overloading the main residence. Sewer work is not always necessary, but the added fixture load and new layout can expose old drainage issues or undersized lines. Homeowners should ask for utility coordination early because these upgrades can affect both budget and schedule. A design that looks straightforward can become expensive if the existing systems are at capacity or poorly located. The best approach is to evaluate utility needs during concept design so the plans reflect the real scope of work. This avoids mid-build surprises and helps determine whether the project is still cost-effective.",
+      "@type": "Answer",
+      "description": "Many attached ADUs need at least some utility upgrades, especially electrical capacity, plumbing tie-ins, and HVAC modifications. Whether a panel upgrade or sewer work is required depends on the existing home’s load capacity, fixture count, and how the new unit connects to current systems.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility planning is one of the most overlooked parts of an attached ADU. Depending on the existing house, the project may require an electrical panel upgrade, new circuits, plumbing tie-ins, upgraded water lines, additional gas capacity, or HVAC redesign. Some homes can share systems efficiently, while others need more separation to support a second kitchen and bathroom without overloading the main residence. Sewer work is not always necessary, but the added fixture load and new layout can expose old drainage issues or undersized lines. Homeowners should ask for utility coordination early because these upgrades can affect both budget and schedule. A design that looks straightforward can become expensive if the existing systems are at capacity or poorly located. The best approach is to evaluate utility needs during concept design so the plans reflect the real scope of work. This avoids mid-build surprises and helps determine whether the project is still cost-effective.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many attached ADUs need at least some utility upgrades, especially electrical capacity, plumbing tie-ins, and HVAC modifications. Whether a panel upgrade or sew"
+}

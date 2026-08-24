@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-building-an-attached-adu-require-me-to-add-parking-remove-parking-or-replac",
+  "name": "How do attached ADU projects handle parking questions in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will building an attached ADU require me to add parking, remove parking, or replace lost driveway space?",
+    "text": "Will building an attached ADU require me to add parking, remove parking, or replace lost driveway space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking is one of the most common sources of confusion in attached ADU projects. In many Los Angeles-area cases, ADUs benefit from relaxed parking rules, but the details depend on the property’s zoning, transit proximity, and existing parking supply. The bigger issue is often whether the ADU construction removes parking that the main house already relies on. If the project takes over a garage, driveway area, or carport, the overall property function may change even if the ADU itself does not trigger a new parking requirement. Homeowners should check both the ADU rules and the impact on the primary residence before finalizing the layout. A good design team will look at parking, access, trash pickup, and fire clearance together so the project works on a day-to-day basis. This topic is frequently underserved because many articles oversimplify parking as either required or not required, when the real answer is usually more nuanced.",
+      "@type": "Answer",
+      "description": "Parking rules for attached ADUs are often more flexible than people expect, but the answer depends on the property’s location and existing parking configuration. In many cases, new parking is not required, but removing required spaces for the main home can still matter.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking is one of the most common sources of confusion in attached ADU projects. In many Los Angeles-area cases, ADUs benefit from relaxed parking rules, but the details depend on the property’s zoning, transit proximity, and existing parking supply. The bigger issue is often whether the ADU construction removes parking that the main house already relies on. If the project takes over a garage, driveway area, or carport, the overall property function may change even if the ADU itself does not trigger a new parking requirement. Homeowners should check both the ADU rules and the impact on the primary residence before finalizing the layout. A good design team will look at parking, access, trash pickup, and fire clearance together so the project works on a day-to-day basis. This topic is frequently underserved because many articles oversimplify parking as either required or not required, when the real answer is usually more nuanced.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking rules for attached ADUs are often more flexible than people expect, but the answer depends on the property’s location and existing parking configuration"
+}

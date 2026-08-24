@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-plan-a-bathroom-layout-around-existing-plumbing-so-the-remodel-stays-af",
+  "name": "How do I plan a bathroom layout around existing plumbing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I plan a bathroom layout around existing plumbing so the remodel stays affordable?",
+    "text": "How do I plan a bathroom layout around existing plumbing so the remodel stays affordable?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Planning around existing plumbing is one of the most effective ways to control bathroom remodel cost. The first step is to identify where the current water supply, drain, and vent lines run, then design the new layout so the most expensive fixtures stay near those points. Toilets and showers are usually the most expensive to relocate, while vanity sinks are often more flexible. This approach can preserve most of the function of a new layout without triggering major structural changes. It also makes the job easier to schedule and inspect. If the current plumbing is in a bad location, the goal is to move only what truly needs to change rather than rebuilding everything. That balance often produces the best result for the budget.",
+      "@type": "Answer",
+      "description": "Start by mapping the current drain, supply, and vent locations, then place the new toilet, shower, and vanity as close to those points as possible. Keeping major fixtures near existing plumbing usually reduces demolition, labor, and slab or framing work.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Planning around existing plumbing is one of the most effective ways to control bathroom remodel cost. The first step is to identify where the current water supply, drain, and vent lines run, then design the new layout so the most expensive fixtures stay near those points. Toilets and showers are usually the most expensive to relocate, while vanity sinks are often more flexible. This approach can preserve most of the function of a new layout without triggering major structural changes. It also makes the job easier to schedule and inspect. If the current plumbing is in a bad location, the goal is to move only what truly needs to change rather than rebuilding everything. That balance often produces the best result for the budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Start by mapping the current drain, supply, and vent locations, then place the new toilet, shower, and vanity as close to those points as possible. Keeping majo"
+}

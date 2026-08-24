@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-some-adu-projects-need-zoning-building-fire-and-utility-approvals-while-o",
+  "name": "What permits are needed for an ADU in my city?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do some ADU projects need zoning, building, fire, and utility approvals while others seem simpler?",
+    "text": "Why do some ADU projects need zoning, building, fire, and utility approvals while others seem simpler?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The permit path depends on the project type and the property conditions. A simple garage conversion may need fewer structural changes than a detached new build, but it can still involve zoning, building, energy, and utility review. Site issues such as grading, hillside conditions, drainage, or fire access can trigger additional coordination. That is why two apparently similar ADUs can move through the system at very different speeds. Homeowners should ask for a permit roadmap that shows each required approval and the order in which those approvals happen. A contractor who understands local process can often save time by identifying the likely review bottlenecks before submission. The key is to treat permitting as a sequence of separate steps, not one generic city approval.",
+      "@type": "Answer",
+      "description": "ADU approval usually involves building permits and may also involve zoning review, fire-related review, grading, and utility coordination depending on the site and city. The exact permit path depends on whether the project is new construction, a conversion, or a junior ADU.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The permit path depends on the project type and the property conditions. A simple garage conversion may need fewer structural changes than a detached new build, but it can still involve zoning, building, energy, and utility review. Site issues such as grading, hillside conditions, drainage, or fire access can trigger additional coordination. That is why two apparently similar ADUs can move through the system at very different speeds. Homeowners should ask for a permit roadmap that shows each required approval and the order in which those approvals happen. A contractor who understands local process can often save time by identifying the likely review bottlenecks before submission. The key is to treat permitting as a sequence of separate steps, not one generic city approval.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "ADU approval usually involves building permits and may also involve zoning review, fire-related review, grading, and utility coordination depending on the site "
+}

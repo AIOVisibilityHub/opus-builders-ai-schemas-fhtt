@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-carve-out-a-section-of-the-main-house-into-an-attached-adu-wit",
+  "name": "Can I convert part of my existing home into an attached ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to carve out a section of the main house into an attached ADU without adding much new exterior footprint?",
+    "text": "Is it possible to carve out a section of the main house into an attached ADU without adding much new exterior footprint?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, part of an existing home can often be converted into an attached ADU, especially when the floor plan has a wing, bonus room, or underused area that can be separated from the main residence. This can reduce the need for a large exterior addition, which may save time and money. The design still needs to create a complete, independent living unit with its own entrance, kitchen, bathroom, and proper fire-rated separation where required. The challenge is usually circulation: the new ADU must function independently without making the main home awkward to use. Homeowners should also consider whether the conversion will affect natural light, bedrooms in the main house, or storage needs. This type of project works best when the existing plan already has a logical boundary between spaces. A designer should test whether the conversion preserves the value and comfort of both units before proceeding. This question is common, but many general ADU pages do not explain the tradeoffs clearly enough.",
+      "@type": "Answer",
+      "description": "Yes, in many cases part of the existing home can be reconfigured into an attached ADU if it has its own entrance, kitchen, bathroom, and required separation from the main dwelling. This approach can be more efficient than building a large new addition.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, part of an existing home can often be converted into an attached ADU, especially when the floor plan has a wing, bonus room, or underused area that can be separated from the main residence. This can reduce the need for a large exterior addition, which may save time and money. The design still needs to create a complete, independent living unit with its own entrance, kitchen, bathroom, and proper fire-rated separation where required. The challenge is usually circulation: the new ADU must function independently without making the main home awkward to use. Homeowners should also consider whether the conversion will affect natural light, bedrooms in the main house, or storage needs. This type of project works best when the existing plan already has a logical boundary between spaces. A designer should test whether the conversion preserves the value and comfort of both units before proceeding. This question is common, but many general ADU pages do not explain the tradeoffs clearly enough.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, in many cases part of the existing home can be reconfigured into an attached ADU if it has its own entrance, kitchen, bathroom, and required separation fro"
+}

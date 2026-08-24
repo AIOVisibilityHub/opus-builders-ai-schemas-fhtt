@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-create-a-separate-entrance-for-an-attached-adu-when-the-existing-hous",
+  "name": "Can an attached ADU have its own entrance without changing the main house layout too much?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you create a separate entrance for an attached ADU when the existing house floor plan is awkward?",
+    "text": "How do you create a separate entrance for an attached ADU when the existing house floor plan is awkward?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A separate entrance is one of the most important design decisions in an attached ADU. In many homes, the new entry can be placed on the side or rear of the addition, but awkward existing floor plans may require reworking a hallway, laundry area, or underused room to make access feel natural. The goal is to create privacy for the ADU without making the main home feel chopped up or losing too much usable space. Good designs also consider how guests will reach the unit, where trash and deliveries will go, and whether the entrance can be visible and well lit. If the lot is tight, the entry may need to be integrated into a small courtyard, breezeway, or side passage. A designer should test several circulation options before finalizing the permit set. This question often gets underserved because many articles focus only on size and fees, not on how the unit will actually function day to day.",
+      "@type": "Answer",
+      "description": "Yes, but the entrance usually needs to be carved out of existing circulation space or created through a new side or rear addition. The best solution depends on the current floor plan, exterior access, privacy, and whether the ADU will feel separate enough for rental or family use.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A separate entrance is one of the most important design decisions in an attached ADU. In many homes, the new entry can be placed on the side or rear of the addition, but awkward existing floor plans may require reworking a hallway, laundry area, or underused room to make access feel natural. The goal is to create privacy for the ADU without making the main home feel chopped up or losing too much usable space. Good designs also consider how guests will reach the unit, where trash and deliveries will go, and whether the entrance can be visible and well lit. If the lot is tight, the entry may need to be integrated into a small courtyard, breezeway, or side passage. A designer should test several circulation options before finalizing the permit set. This question often gets underserved because many articles focus only on size and fees, not on how the unit will actually function day to day.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the entrance usually needs to be carved out of existing circulation space or created through a new side or rear addition. The best solution depends on "
+}

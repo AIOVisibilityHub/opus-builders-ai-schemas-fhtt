@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-a-detached-adu-need-separate-water-sewer-gas-or-electric-service-in-los-ang",
+  "name": "Do detached ADUs in Los Angeles need separate utilities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does a detached ADU need separate water, sewer, gas, or electric service in Los Angeles?",
+    "text": "Does a detached ADU need separate water, sewer, gas, or electric service in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Detached ADUs do not automatically require separate utility service, but the utility plan is still a major part of the project. Many homeowners keep the ADU tied into the main property’s existing systems when that is feasible, while others choose separate metering or separate service elements for billing or management reasons. The right approach depends on capacity, distance, trenching cost, and local utility requirements. Older homes often need electrical panel upgrades or service reconfiguration before a new unit can be supported. Sewer and water routing can also influence where the unit is placed on the lot. Homeowners should ask early whether the utility plan is intended to be shared or separate, because that decision affects design, cost, and schedule. A good contractor will identify utility constraints before finalizing the layout, not after construction begins.",
+      "@type": "Answer",
+      "description": "A detached ADU does not always need separate utility meters or fully separate service lines, but utility routing and capacity still matter. Whether separate service is added depends on the property, the existing infrastructure, and the homeowner’s budgeting and operational goals.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Detached ADUs do not automatically require separate utility service, but the utility plan is still a major part of the project. Many homeowners keep the ADU tied into the main property’s existing systems when that is feasible, while others choose separate metering or separate service elements for billing or management reasons. The right approach depends on capacity, distance, trenching cost, and local utility requirements. Older homes often need electrical panel upgrades or service reconfiguration before a new unit can be supported. Sewer and water routing can also influence where the unit is placed on the lot. Homeowners should ask early whether the utility plan is intended to be shared or separate, because that decision affects design, cost, and schedule. A good contractor will identify utility constraints before finalizing the layout, not after construction begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A detached ADU does not always need separate utility meters or fully separate service lines, but utility routing and capacity still matter. Whether separate ser"
+}

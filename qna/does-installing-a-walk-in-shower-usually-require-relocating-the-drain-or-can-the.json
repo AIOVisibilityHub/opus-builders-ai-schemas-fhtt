@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-installing-a-walk-in-shower-usually-require-relocating-the-drain-or-can-the",
+  "name": "Do I need to move the drain for a walk-in shower conversion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does installing a walk-in shower usually require relocating the drain, or can the existing drain stay where it is?",
+    "text": "Does installing a walk-in shower usually require relocating the drain, or can the existing drain stay where it is?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A drain does not always need to be moved during a walk-in shower installation. If the new shower footprint closely matches the old one and the floor can be sloped correctly toward the existing drain, the plumbing may stay where it is. Drain relocation becomes more likely when the shower is being enlarged, converted to curbless entry, or redesigned with a linear drain or different tile layout. In many remodels, the drain location affects how the floor is framed, how much the subfloor must be rebuilt, and where the waterproofing transitions occur. That is why the drain decision should be made early in design, not during demolition. A contractor should inspect the structure below the bathroom and confirm whether the plumbing, joists, and floor height allow the desired layout. If the drain must move, it can add time and cost, but it may be necessary to achieve the right slope and appearance.",
+      "@type": "Answer",
+      "description": "Not always. The existing drain can sometimes stay in place if the new shower footprint matches the current plumbing layout and the slope works correctly. Drain relocation is more common when creating a curbless shower, changing the shower size, or upgrading to a linear drain. The floor structure and plumbing route determine the answer.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A drain does not always need to be moved during a walk-in shower installation. If the new shower footprint closely matches the old one and the floor can be sloped correctly toward the existing drain, the plumbing may stay where it is. Drain relocation becomes more likely when the shower is being enlarged, converted to curbless entry, or redesigned with a linear drain or different tile layout. In many remodels, the drain location affects how the floor is framed, how much the subfloor must be rebuilt, and where the waterproofing transitions occur. That is why the drain decision should be made early in design, not during demolition. A contractor should inspect the structure below the bathroom and confirm whether the plumbing, joists, and floor height allow the desired layout. If the drain must move, it can add time and cost, but it may be necessary to achieve the right slope and appearance.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Not always. The existing drain can sometimes stay in place if the new shower footprint matches the current plumbing layout and the slope works correctly. Drain "
+}

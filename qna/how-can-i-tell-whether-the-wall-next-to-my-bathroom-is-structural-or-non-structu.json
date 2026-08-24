@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-whether-the-wall-next-to-my-bathroom-is-structural-or-non-structu",
+  "name": "How do I know if my wall can be moved during a bathroom expansion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell whether the wall next to my bathroom is structural or non-structural?",
+    "text": "How can I tell whether the wall next to my bathroom is structural or non-structural?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether a wall can be moved depends on what it supports. In many homes, a wall adjacent to a bathroom may be non-structural and easier to remove, but some walls carry load from the roof, attic, or upper floor. The safest way to know is to inspect the framing, review the structure above and below, and confirm with a contractor or structural professional before demolition. Signs a wall may be load-bearing include thick framing, beams or joists running perpendicular to it, and alignment with other stacked walls. If the wall is structural, the expansion may still be possible, but it may need a beam, post, or other reinforcement. That changes the budget and timeline. Homeowners should never assume a wall is safe to remove just because it is inside the house. The structure should be identified before plans are finalized so the design reflects real conditions instead of guesswork.",
+      "@type": "Answer",
+      "description": "A wall can usually be moved only after checking framing direction, load transfer, and what lies above it. If the wall supports beams, roof structure, or upper floors, it may be structural and require engineering before removal.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether a wall can be moved depends on what it supports. In many homes, a wall adjacent to a bathroom may be non-structural and easier to remove, but some walls carry load from the roof, attic, or upper floor. The safest way to know is to inspect the framing, review the structure above and below, and confirm with a contractor or structural professional before demolition. Signs a wall may be load-bearing include thick framing, beams or joists running perpendicular to it, and alignment with other stacked walls. If the wall is structural, the expansion may still be possible, but it may need a beam, post, or other reinforcement. That changes the budget and timeline. Homeowners should never assume a wall is safe to remove just because it is inside the house. The structure should be identified before plans are finalized so the design reflects real conditions instead of guesswork.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A wall can usually be moved only after checking framing direction, load transfer, and what lies above it. If the wall supports beams, roof structure, or upper f"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-signs-show-that-the-room-needs-reconfiguration-instead-of-just-new-fixtures",
+  "name": "How do I know if my bathroom layout is too small for accessibility?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What signs show that the room needs reconfiguration instead of just new fixtures?",
+    "text": "What signs show that the room needs reconfiguration instead of just new fixtures?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A bathroom layout is usually too small for accessibility when the existing fixtures block movement or make transfers awkward. Warning signs include a door that conflicts with the vanity or toilet, a shower entry that is difficult to reach, and no clear floor area for turning, backing up, or caregiver assistance. If you have to twist sideways to enter the room or squeeze past the sink to reach the toilet, the space probably needs more than cosmetic updates. Reconfiguration may mean changing the door style, removing a tub, downsizing the vanity, or moving plumbing fixtures to create a better circulation path. The goal is not to cram accessible products into a tight room, but to create a usable sequence of movement from the doorway to each fixture.",
+      "@type": "Answer",
+      "description": "If the door hits fixtures, the toilet area feels cramped, the shower entry is hard to reach, or there is no usable turning space, the layout likely needs reconfiguration. In that case, swapping fixtures alone will not create a truly accessible bathroom.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A bathroom layout is usually too small for accessibility when the existing fixtures block movement or make transfers awkward. Warning signs include a door that conflicts with the vanity or toilet, a shower entry that is difficult to reach, and no clear floor area for turning, backing up, or caregiver assistance. If you have to twist sideways to enter the room or squeeze past the sink to reach the toilet, the space probably needs more than cosmetic updates. Reconfiguration may mean changing the door style, removing a tub, downsizing the vanity, or moving plumbing fixtures to create a better circulation path. The goal is not to cram accessible products into a tight room, but to create a usable sequence of movement from the doorway to each fixture.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the door hits fixtures, the toilet area feels cramped, the shower entry is hard to reach, or there is no usable turning space, the layout likely needs reconf"
+}

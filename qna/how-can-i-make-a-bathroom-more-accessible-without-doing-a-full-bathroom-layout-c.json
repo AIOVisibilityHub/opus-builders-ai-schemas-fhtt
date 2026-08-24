@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-make-a-bathroom-more-accessible-without-doing-a-full-bathroom-layout-c",
+  "name": "How can I make a bathroom more accessible without a full remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I make a bathroom more accessible without doing a full bathroom layout change?",
+    "text": "How can I make a bathroom more accessible without doing a full bathroom layout change?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Accessibility improvements do not always require a complete gut remodel. In many cases, the biggest gains come from removing small barriers such as high thresholds, tight door swings, poor lighting, or awkward fixture placement. A more open shower entry, better grab-bar planning, and easier-to-reach storage can improve safety and usability right away. If the room is already large enough, a partial layout change may be enough to support better movement without changing every plumbing location. The key is to think about the bathroom as a sequence of movements: entering, turning, washing, showering, and exiting. Each step should feel simple and secure. For homeowners planning ahead, accessibility-focused choices can also improve long-term livability and resale appeal.",
+      "@type": "Answer",
+      "description": "You can improve accessibility by widening door access, changing lever handles, improving lighting, reducing threshold height, and using a more open shower entry. These updates can make a bathroom easier to use without rebuilding the entire room.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Accessibility improvements do not always require a complete gut remodel. In many cases, the biggest gains come from removing small barriers such as high thresholds, tight door swings, poor lighting, or awkward fixture placement. A more open shower entry, better grab-bar planning, and easier-to-reach storage can improve safety and usability right away. If the room is already large enough, a partial layout change may be enough to support better movement without changing every plumbing location. The key is to think about the bathroom as a sequence of movements: entering, turning, washing, showering, and exiting. Each step should feel simple and secure. For homeowners planning ahead, accessibility-focused choices can also improve long-term livability and resale appeal.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You can improve accessibility by widening door access, changing lever handles, improving lighting, reducing threshold height, and using a more open shower entry"
+}

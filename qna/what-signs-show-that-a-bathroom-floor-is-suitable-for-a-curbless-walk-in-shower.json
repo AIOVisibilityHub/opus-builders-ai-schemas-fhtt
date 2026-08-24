@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-signs-show-that-a-bathroom-floor-is-suitable-for-a-curbless-walk-in-shower",
+  "name": "How do you tell if the subfloor can support a curbless shower?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What signs show that a bathroom floor is suitable for a curbless walk-in shower without major structural changes?",
+    "text": "What signs show that a bathroom floor is suitable for a curbless walk-in shower without major structural changes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A curbless shower depends on more than the surface finish. The floor structure must have enough depth for the drain assembly, slope, waterproofing, and tile while still keeping the bathroom floor transition comfortable and safe. Whether a subfloor can handle that depends on joist depth, framing condition, existing floor height, and how much material can be removed or rebuilt without weakening the room. If there is not enough space to slope the shower floor properly, the project may need a low-threshold design instead of a true curbless entry. Signs that the structure may work include enough floor depth, a stable framed opening, and room to create a proper drain pitch. Because each home is different, the best answer usually comes from a site inspection and floor evaluation rather than guesswork. This step is critical before tile or plumbing decisions are finalized.",
+      "@type": "Answer",
+      "description": "A subfloor can support a curbless shower only if there is enough depth, strength, and slope allowance to build the shower correctly. The floor structure must accommodate the drain, waterproofing, and tile assembly without creating unsafe deflection or awkward transitions. An on-site inspection is usually needed to know for sure.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A curbless shower depends on more than the surface finish. The floor structure must have enough depth for the drain assembly, slope, waterproofing, and tile while still keeping the bathroom floor transition comfortable and safe. Whether a subfloor can handle that depends on joist depth, framing condition, existing floor height, and how much material can be removed or rebuilt without weakening the room. If there is not enough space to slope the shower floor properly, the project may need a low-threshold design instead of a true curbless entry. Signs that the structure may work include enough floor depth, a stable framed opening, and room to create a proper drain pitch. Because each home is different, the best answer usually comes from a site inspection and floor evaluation rather than guesswork. This step is critical before tile or plumbing decisions are finalized.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A subfloor can support a curbless shower only if there is enough depth, strength, and slope allowance to build the shower correctly. The floor structure must ac"
+}

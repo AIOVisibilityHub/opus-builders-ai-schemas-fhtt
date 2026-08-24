@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-the-adu-get-its-own-address-and-does-that-affect-mail-delivery-utilities-or",
+  "name": "Can I build an ADU with a separate address and mailbox?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will the ADU get its own address, and does that affect mail delivery, utilities, or rentability?",
+    "text": "Will the ADU get its own address, and does that affect mail delivery, utilities, or rentability?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A separate address can make an ADU feel more independent, but it is usually a municipal or utility coordination issue rather than a design feature alone. Some properties can receive a distinct street number or unit designation, while others remain tied to the main address. Homeowners often ask about this because it affects mail, deliveries, tenant clarity, and utility setup. The availability of a separate address should be checked early so it can be coordinated with the permit and site plan. Even if the ADU stays under the same address, it can still be a fully functional dwelling unit. The important thing is to avoid assuming that address assignment will happen automatically after construction is complete.",
+      "@type": "Answer",
+      "description": "A separate address is sometimes possible, but it is not automatic and may depend on local addressing rules and utility coordination. Even without a separate address, an ADU can still function as an independent living unit.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A separate address can make an ADU feel more independent, but it is usually a municipal or utility coordination issue rather than a design feature alone. Some properties can receive a distinct street number or unit designation, while others remain tied to the main address. Homeowners often ask about this because it affects mail, deliveries, tenant clarity, and utility setup. The availability of a separate address should be checked early so it can be coordinated with the permit and site plan. Even if the ADU stays under the same address, it can still be a fully functional dwelling unit. The important thing is to avoid assuming that address assignment will happen automatically after construction is complete.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A separate address is sometimes possible, but it is not automatic and may depend on local addressing rules and utility coordination. Even without a separate add"
+}

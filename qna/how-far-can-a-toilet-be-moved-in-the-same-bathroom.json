@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-far-can-a-toilet-be-moved-in-the-same-bathroom",
+  "name": "How far can a toilet be moved in the same bathroom?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How far can a toilet be moved in the same bathroom?",
+    "text": "How far can a toilet be moved in the same bathroom?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A toilet can often be shifted within the same bathroom, but there is no universal maximum distance because the limiting factors are the drain route, vent connection, floor structure, and available space below the room. Short moves are easier when the new location can connect cleanly to the existing waste line with correct slope. Larger moves may require rerouting through joists, opening a slab, or changing the vent path, which can increase both cost and complexity. The same physical distance can be easy in one house and difficult in another depending on the plumbing stack location and subfloor access. If the desired layout moves the toilet too far from the existing drain, the remodel may need a different plan, such as keeping the toilet closer to its current position and shifting the vanity or shower instead. A site visit is usually the only reliable way to know what is practical.",
+      "@type": "Answer",
+      "description": "A toilet can often be moved a short distance in the same bathroom, but the exact limit depends on drain slope, vent access, and whether the floor is slab or framed. The farther the move, the more likely major pipe rerouting and floor repair become necessary.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A toilet can often be shifted within the same bathroom, but there is no universal maximum distance because the limiting factors are the drain route, vent connection, floor structure, and available space below the room. Short moves are easier when the new location can connect cleanly to the existing waste line with correct slope. Larger moves may require rerouting through joists, opening a slab, or changing the vent path, which can increase both cost and complexity. The same physical distance can be easy in one house and difficult in another depending on the plumbing stack location and subfloor access. If the desired layout moves the toilet too far from the existing drain, the remodel may need a different plan, such as keeping the toilet closer to its current position and shifting the vanity or shower instead. A site visit is usually the only reliable way to know what is practical.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A toilet can often be moved a short distance in the same bathroom, but the exact limit depends on drain slope, vent access, and whether the floor is slab or fra"
+}

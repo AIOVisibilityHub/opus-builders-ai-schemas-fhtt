@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-my-main-house-is-small-can-i-still-build-an-attached-adu-up-to-the-maximum-si",
+  "name": "How big can an attached ADU be in Los Angeles if the primary home is small?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If my main house is small, can I still build an attached ADU up to the maximum size, or is it limited by the existing living area?",
+    "text": "If my main house is small, can I still build an attached ADU up to the maximum size, or is it limited by the existing living area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For attached ADUs, the size limit is often controlled by the primary dwelling’s existing square footage. In Los Angeles, an attached ADU is generally allowed up to 50% of the existing living area, with a hard cap of 1,200 square feet. That means a compact main house can limit the ADU’s final size even when the lot itself appears large enough. This is one of the most common planning surprises for homeowners who expect the ADU to be sized like a small addition. Before sketching layouts, confirm the official measured living area of the main residence, because inaccurate square footage can change what is allowed. A good design team will test several massing options to see whether the ADU can include a bedroom, kitchen, bath, and living space without exceeding the limit. If the desired unit is too large, the project may need to be redesigned as a smaller attached suite or a different housing configuration. Early size verification saves time and prevents costly plan revisions.",
+      "@type": "Answer",
+      "description": "An attached ADU is often limited by the size of the primary home, not just the lot. In Los Angeles, attached ADUs are commonly capped at 50% of the existing living area, with a maximum of 1,200 square feet. That means a smaller main house may reduce the largest possible ADU size even if the lot could fit more space.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For attached ADUs, the size limit is often controlled by the primary dwelling’s existing square footage. In Los Angeles, an attached ADU is generally allowed up to 50% of the existing living area, with a hard cap of 1,200 square feet. That means a compact main house can limit the ADU’s final size even when the lot itself appears large enough. This is one of the most common planning surprises for homeowners who expect the ADU to be sized like a small addition. Before sketching layouts, confirm the official measured living area of the main residence, because inaccurate square footage can change what is allowed. A good design team will test several massing options to see whether the ADU can include a bedroom, kitchen, bath, and living space without exceeding the limit. If the desired unit is too large, the project may need to be redesigned as a smaller attached suite or a different housing configuration. Early size verification saves time and prevents costly plan revisions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An attached ADU is often limited by the size of the primary home, not just the lot. In Los Angeles, attached ADUs are commonly capped at 50% of the existing liv"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-detached-adu-permits-get-delayed-in-los-angeles-even-when-the-project-see",
+  "name": "What are the most common reasons detached ADU permits get delayed?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do detached ADU permits get delayed in Los Angeles even when the project seems straightforward?",
+    "text": "Why do detached ADU permits get delayed in Los Angeles even when the project seems straightforward?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Detached ADU permits are often delayed for reasons that have little to do with the unit itself and everything to do with documentation quality. The most common problems are inaccurate site measurements, missing utility information, incomplete structural details, zoning inconsistencies, and slow correction responses. A project that seems straightforward can still stall if the survey does not match field conditions or if the design leaves room for interpretation. Homeowners should expect plan check to ask detailed questions about setbacks, height, fire separation, utilities, grading, and drainage. The best way to avoid delay is to treat permitting as a technical package, not a concept sketch. The drawings should be coordinated across architecture, structure, and site work before submittal. Fast approvals usually come from boringly complete paperwork, not from rushing the process.",
+      "@type": "Answer",
+      "description": "The most common delays come from incomplete drawings, survey mismatches, utility issues, zoning corrections, and late responses to plan check comments. Even simple projects slow down when the site conditions are not documented accurately.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Detached ADU permits are often delayed for reasons that have little to do with the unit itself and everything to do with documentation quality. The most common problems are inaccurate site measurements, missing utility information, incomplete structural details, zoning inconsistencies, and slow correction responses. A project that seems straightforward can still stall if the survey does not match field conditions or if the design leaves room for interpretation. Homeowners should expect plan check to ask detailed questions about setbacks, height, fire separation, utilities, grading, and drainage. The best way to avoid delay is to treat permitting as a technical package, not a concept sketch. The drawings should be coordinated across architecture, structure, and site work before submittal. Fast approvals usually come from boringly complete paperwork, not from rushing the process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common delays come from incomplete drawings, survey mismatches, utility issues, zoning corrections, and late responses to plan check comments. Even sim"
+}

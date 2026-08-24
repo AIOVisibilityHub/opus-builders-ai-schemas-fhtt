@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-still-build-an-attached-adu-if-the-existing-house-has-older-unpermitted-wo",
+  "name": "What if the main house already has an unpermitted addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I still build an attached ADU if the existing house has older unpermitted work or mismatched records?",
+    "text": "Can I still build an attached ADU if the existing house has older unpermitted work or mismatched records?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Unpermitted work in the main house does not always stop an attached ADU, but it can create serious complications. The first issue is documentation: if city records do not match the actual home, the designer may not be able to rely on the existing square footage or structural layout. The second issue is construction risk, because the area adjacent to the new ADU may need to be opened up or tied into the addition, and hidden problems can appear once work begins. In some cases, the unpermitted portion must be legalized before or during the ADU process; in others, it may be left untouched but carefully excluded from the approved scope. Homeowners should disclose these conditions early so the team can plan honestly around them. This question is underserved because many ADU pages assume a clean existing house, while real properties often have older changes, garage conversions, or mismatched permits.",
+      "@type": "Answer",
+      "description": "Possibly, but unpermitted additions can complicate design, valuation, and plan approval. The existing structure may need to be documented, legalized, or excluded from calculations before the attached ADU can move forward cleanly.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Unpermitted work in the main house does not always stop an attached ADU, but it can create serious complications. The first issue is documentation: if city records do not match the actual home, the designer may not be able to rely on the existing square footage or structural layout. The second issue is construction risk, because the area adjacent to the new ADU may need to be opened up or tied into the addition, and hidden problems can appear once work begins. In some cases, the unpermitted portion must be legalized before or during the ADU process; in others, it may be left untouched but carefully excluded from the approved scope. Homeowners should disclose these conditions early so the team can plan honestly around them. This question is underserved because many ADU pages assume a clean existing house, while real properties often have older changes, garage conversions, or mismatched permits.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Possibly, but unpermitted additions can complicate design, valuation, and plan approval. The existing structure may need to be documented, legalized, or exclude"
+}

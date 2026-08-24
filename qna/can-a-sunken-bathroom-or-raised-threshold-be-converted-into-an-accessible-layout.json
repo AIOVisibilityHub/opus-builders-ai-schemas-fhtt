@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-sunken-bathroom-or-raised-threshold-be-converted-into-an-accessible-layout",
+  "name": "What if the bathroom has a step up or sunken floor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a sunken bathroom or raised threshold be converted into an accessible layout safely?",
+    "text": "Can a sunken bathroom or raised threshold be converted into an accessible layout safely?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A sunken bathroom or raised threshold can complicate accessibility, but it does not automatically block a remodel. The contractor may need to rebuild the floor transition, adjust framing, and coordinate the shower pan so the final surface is level or nearly level. The challenge is balancing accessibility with structural and waterproofing requirements. If the bathroom sits below the adjacent floor line, the transition may need ramping or floor build-up in surrounding areas to remove tripping hazards. If the height difference is large, the remodel becomes more technical and may affect doors, cabinets, and adjacent hallway transitions. This is one of the situations where a detailed site visit matters before pricing or design decisions are made.",
+      "@type": "Answer",
+      "description": "Yes, but the floor transition must be rebuilt so the entry is level or nearly level and the shower drainage still works correctly. Depending on the framing and slab, the fix may require structural changes rather than a simple finish update.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A sunken bathroom or raised threshold can complicate accessibility, but it does not automatically block a remodel. The contractor may need to rebuild the floor transition, adjust framing, and coordinate the shower pan so the final surface is level or nearly level. The challenge is balancing accessibility with structural and waterproofing requirements. If the bathroom sits below the adjacent floor line, the transition may need ramping or floor build-up in surrounding areas to remove tripping hazards. If the height difference is large, the remodel becomes more technical and may affect doors, cabinets, and adjacent hallway transitions. This is one of the situations where a detailed site visit matters before pricing or design decisions are made.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the floor transition must be rebuilt so the entry is level or nearly level and the shower drainage still works correctly. Depending on the framing and "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-many-rounds-of-corrections-are-normal-before-an-adu-permit-gets-approved-in",
+  "name": "What if the city asks for revisions after plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How many rounds of corrections are normal before an ADU permit gets approved in Los Angeles-area jurisdictions?",
+    "text": "How many rounds of corrections are normal before an ADU permit gets approved in Los Angeles-area jurisdictions?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Plan check revisions are normal, especially on projects involving older homes, conversions, or properties with unique site constraints. The main causes are missing details, conflicts between disciplines, unclear dimensions, or code interpretations that need clarification. Each correction cycle adds time, so the goal is to submit a coordinated package that reduces back-and-forth. Homeowners should ask their designer and builder how they handle city comments, who pays for resubmittals, and whether structural or energy revisions are included in the initial scope. A good contractor will anticipate common objections before submission and build that review into the design process. The fewer surprises in the drawings, the faster the approval path usually becomes.",
+      "@type": "Answer",
+      "description": "One or more revision rounds are common if the plans are incomplete or the site has unusual conditions. The best way to reduce delays is to submit a complete, coordinated set of architectural, structural, and energy documents the first time.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Plan check revisions are normal, especially on projects involving older homes, conversions, or properties with unique site constraints. The main causes are missing details, conflicts between disciplines, unclear dimensions, or code interpretations that need clarification. Each correction cycle adds time, so the goal is to submit a coordinated package that reduces back-and-forth. Homeowners should ask their designer and builder how they handle city comments, who pays for resubmittals, and whether structural or energy revisions are included in the initial scope. A good contractor will anticipate common objections before submission and build that review into the design process. The fewer surprises in the drawings, the faster the approval path usually becomes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "One or more revision rounds are common if the plans are incomplete or the site has unusual conditions. The best way to reduce delays is to submit a complete, co"
+}

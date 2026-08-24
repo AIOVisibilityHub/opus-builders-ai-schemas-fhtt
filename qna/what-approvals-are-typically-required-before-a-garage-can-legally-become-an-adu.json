@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-approvals-are-typically-required-before-a-garage-can-legally-become-an-adu",
+  "name": "What permits are needed for a garage conversion ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What approvals are typically required before a garage can legally become an ADU in Los Angeles-area cities?",
+    "text": "What approvals are typically required before a garage can legally become an ADU in Los Angeles-area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permitting is one of the biggest friction points in ADU projects because the approval path depends on the city and the property. A typical garage conversion usually needs building permit review, stamped or prepared plans, structural details, and energy documentation. Depending on location, the project may also need planning approval, utility sign-off, drainage review, or fire-related details. Older garages may trigger additional questions if the structure has been altered before or if the proposed work affects setbacks or exterior openings. Homeowners should not rely on a generic ADU checklist because each city can have its own submittal sequence and review departments. The best strategy is to prepare a complete permit package early so the plan check process is not slowed by missing forms or unresolved site issues. In practical terms, the easier the permit set is to understand, the faster the project can move to construction.",
+      "@type": "Answer",
+      "description": "Most garage conversions need building permits, and many projects also need plan check, engineering, energy compliance, and utility coordination. Some cities may also require planning review, fire review, or special submittals depending on the property and the extent of the conversion.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permitting is one of the biggest friction points in ADU projects because the approval path depends on the city and the property. A typical garage conversion usually needs building permit review, stamped or prepared plans, structural details, and energy documentation. Depending on location, the project may also need planning approval, utility sign-off, drainage review, or fire-related details. Older garages may trigger additional questions if the structure has been altered before or if the proposed work affects setbacks or exterior openings. Homeowners should not rely on a generic ADU checklist because each city can have its own submittal sequence and review departments. The best strategy is to prepare a complete permit package early so the plan check process is not slowed by missing forms or unresolved site issues. In practical terms, the easier the permit set is to understand, the faster the project can move to construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most garage conversions need building permits, and many projects also need plan check, engineering, energy compliance, and utility coordination. Some cities may"
+}

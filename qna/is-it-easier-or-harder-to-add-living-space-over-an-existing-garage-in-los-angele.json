@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-easier-or-harder-to-add-living-space-over-an-existing-garage-in-los-angele",
+  "name": "What if I want to build an ADU above the garage instead of inside it?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it easier or harder to add living space over an existing garage in Los Angeles or Pasadena?",
+    "text": "Is it easier or harder to add living space over an existing garage in Los Angeles or Pasadena?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An ADU above the garage is a different project from a garage conversion and is often more demanding structurally. The existing garage must be able to support the extra weight, or it may need substantial reinforcement to carry a second level. Stairs, headroom, egress, and fire separation also become bigger issues. The upside is that an above-garage unit can preserve parking and sometimes create a more private living space, but the tradeoff is cost and complexity. On many lots, it is easier to convert the interior of the garage than to build upward. Homeowners should treat this as a structural feasibility question first, not just a design choice. If the garage is old or lightly built, the cost of reinforcement can make the second-story option less attractive than a detached ADU or a standard conversion.",
+      "@type": "Answer",
+      "description": "Building above a garage is usually more complex than converting the garage interior because the structure must support the added load and often needs major structural upgrades. It can be done on some properties, but feasibility depends on foundation capacity, framing, and local code requirements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An ADU above the garage is a different project from a garage conversion and is often more demanding structurally. The existing garage must be able to support the extra weight, or it may need substantial reinforcement to carry a second level. Stairs, headroom, egress, and fire separation also become bigger issues. The upside is that an above-garage unit can preserve parking and sometimes create a more private living space, but the tradeoff is cost and complexity. On many lots, it is easier to convert the interior of the garage than to build upward. Homeowners should treat this as a structural feasibility question first, not just a design choice. If the garage is old or lightly built, the cost of reinforcement can make the second-story option less attractive than a detached ADU or a standard conversion.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Building above a garage is usually more complex than converting the garage interior because the structure must support the added load and often needs major stru"
+}

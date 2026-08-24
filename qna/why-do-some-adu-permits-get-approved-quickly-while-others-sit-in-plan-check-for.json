@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-some-adu-permits-get-approved-quickly-while-others-sit-in-plan-check-for",
+  "name": "How long does ADU permitting take in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do some ADU permits get approved quickly while others sit in plan check for months?",
+    "text": "Why do some ADU permits get approved quickly while others sit in plan check for months?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permitting speed varies because some ADU applications are straightforward while others need multiple rounds of corrections. A clear, code-complete plan set is much easier to approve than a vague conceptual drawing. Projects on flat lots with simple utility tie-ins usually move faster than hillside sites, tight lots, or conversions involving older structures. Revisions can also add significant time if the city requests changes to setbacks, fire separation, drainage, energy compliance, or structural details. Homeowners should ask their builder how many plan check cycles are expected, whether pre-application review is available, and who is responsible for resubmittals. The most reliable schedule is one that includes design, engineering, plan check, corrections, and final permit issuance as separate phases rather than a single promised date.",
+      "@type": "Answer",
+      "description": "ADU permit timing depends on drawing quality, site complexity, jurisdiction workload, and whether revisions are required. Simple projects can move faster, but properties with grading, slope, utilities, or code issues often take much longer.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permitting speed varies because some ADU applications are straightforward while others need multiple rounds of corrections. A clear, code-complete plan set is much easier to approve than a vague conceptual drawing. Projects on flat lots with simple utility tie-ins usually move faster than hillside sites, tight lots, or conversions involving older structures. Revisions can also add significant time if the city requests changes to setbacks, fire separation, drainage, energy compliance, or structural details. Homeowners should ask their builder how many plan check cycles are expected, whether pre-application review is available, and who is responsible for resubmittals. The most reliable schedule is one that includes design, engineering, plan check, corrections, and final permit issuance as separate phases rather than a single promised date.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "ADU permit timing depends on drawing quality, site complexity, jurisdiction workload, and whether revisions are required. Simple projects can move faster, but p"
+}

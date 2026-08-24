@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/once-the-garage-conversion-is-finished-can-it-be-rented-right-away-or-are-there",
+  "name": "Can I rent a garage conversion ADU immediately after completion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Once the garage conversion is finished, can it be rented right away, or are there extra approvals needed first?",
+    "text": "Once the garage conversion is finished, can it be rented right away, or are there extra approvals needed first?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Do not assume a finished-looking ADU is legally ready to rent. The project should go through final inspection and receive the proper sign-off from the city or county before occupancy. Depending on the jurisdiction, there may also be utility sign-offs, address assignment, and final permit closeout steps that must be completed first. If any work is incomplete or failed inspections remain open, renting too early can create compliance problems and delay income. Homeowners should ask the contractor for a closeout checklist that includes final approval, photo documentation, permit closure, and any required certificates. If the unit will be used as a rental, it is wise to confirm the lease-ready date only after the final approvals are in hand, not when construction wraps up physically. That prevents costly delays and tenant disputes.",
+      "@type": "Answer",
+      "description": "A unit usually cannot be rented until it passes final inspection and receives the required approval for occupancy. Homeowners should also confirm that all utility, address, and permit sign-off items are complete before advertising the space.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Do not assume a finished-looking ADU is legally ready to rent. The project should go through final inspection and receive the proper sign-off from the city or county before occupancy. Depending on the jurisdiction, there may also be utility sign-offs, address assignment, and final permit closeout steps that must be completed first. If any work is incomplete or failed inspections remain open, renting too early can create compliance problems and delay income. Homeowners should ask the contractor for a closeout checklist that includes final approval, photo documentation, permit closure, and any required certificates. If the unit will be used as a rental, it is wise to confirm the lease-ready date only after the final approvals are in hand, not when construction wraps up physically. That prevents costly delays and tenant disputes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A unit usually cannot be rented until it passes final inspection and receives the required approval for occupancy. Homeowners should also confirm that all utili"
+}

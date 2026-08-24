@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-close-can-a-detached-adu-be-built-to-the-main-house-without-creating-code-or",
+  "name": "How close can a detached ADU be to the main house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How close can a detached ADU be built to the main house without creating code or construction problems?",
+    "text": "How close can a detached ADU be built to the main house without creating code or construction problems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The distance between the detached ADU and the main house is not just a visual choice. It affects fire separation, privacy, circulation, maintenance access, and sometimes structural detailing. A unit placed too close to the main house can create issues with eaves, windows, fencing, drainage, and service routing. A project may still be feasible, but the design team needs to confirm the spacing early so the footprint does not create avoidable problems later. Homeowners should ask how the gap will be used: as a walkway, a courtyard, utility access, or simply clearance. In many cases, leaving a bit more room improves the project’s long-term usability and makes construction easier. The best answer is the one that balances code compliance, practical access, and the overall look of the property.",
+      "@type": "Answer",
+      "description": "The spacing depends on local rules, fire separation, roof projections, access, and how the buildings relate on the site. Even when a detached ADU is allowed near the main house, the design still needs enough separation for safety, maintenance, and inspections.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The distance between the detached ADU and the main house is not just a visual choice. It affects fire separation, privacy, circulation, maintenance access, and sometimes structural detailing. A unit placed too close to the main house can create issues with eaves, windows, fencing, drainage, and service routing. A project may still be feasible, but the design team needs to confirm the spacing early so the footprint does not create avoidable problems later. Homeowners should ask how the gap will be used: as a walkway, a courtyard, utility access, or simply clearance. In many cases, leaving a bit more room improves the project’s long-term usability and makes construction easier. The best answer is the one that balances code compliance, practical access, and the overall look of the property.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The spacing depends on local rules, fire separation, roof projections, access, and how the buildings relate on the site. Even when a detached ADU is allowed nea"
+}

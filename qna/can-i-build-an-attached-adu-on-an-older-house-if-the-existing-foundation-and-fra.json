@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-build-an-attached-adu-on-an-older-house-if-the-existing-foundation-and-fra",
+  "name": "Can an attached ADU share a wall with an older home without a full structural retrofit?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I build an attached ADU on an older house if the existing foundation and framing were not designed for added floor area?",
+    "text": "Can I build an attached ADU on an older house if the existing foundation and framing were not designed for added floor area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An attached ADU can often be built on an older home, but the existing structure usually needs to be evaluated first. The biggest risks are insufficient foundation capacity, weak shear walls, undersized framing, and difficult roof connections. In many cases, the project is less about the ADU itself and more about how well the addition can be tied into the existing house without creating settlement or seismic issues. A structural assessment should happen before design is finalized so the plans reflect real-world conditions, not just code minimums. Homeowners should also ask whether the project will trigger upgrades to adjacent walls, the roof system, or portions of the electrical and plumbing infrastructure. If the house has known movement, termite damage, or prior unpermitted alterations, those problems can complicate the build and increase cost. The best next step is to have an engineer and designer review the existing home together so the project scope is realistic before permits are submitted.",
+      "@type": "Answer",
+      "description": "Yes, but older homes often need structural upgrades before an attached ADU can be safely added. The key issues are foundation capacity, wall framing, roof tie-ins, shear strength, and seismic reinforcement. A structural engineer should verify whether the existing house can carry the new loads or whether partial retrofit work is required.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An attached ADU can often be built on an older home, but the existing structure usually needs to be evaluated first. The biggest risks are insufficient foundation capacity, weak shear walls, undersized framing, and difficult roof connections. In many cases, the project is less about the ADU itself and more about how well the addition can be tied into the existing house without creating settlement or seismic issues. A structural assessment should happen before design is finalized so the plans reflect real-world conditions, not just code minimums. Homeowners should also ask whether the project will trigger upgrades to adjacent walls, the roof system, or portions of the electrical and plumbing infrastructure. If the house has known movement, termite damage, or prior unpermitted alterations, those problems can complicate the build and increase cost. The best next step is to have an engineer and designer review the existing home together so the project scope is realistic before permits are submitted.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but older homes often need structural upgrades before an attached ADU can be safely added. The key issues are foundation capacity, wall framing, roof tie-i"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-site-conditions-or-zoning-details-determine-whether-an-attached-adu-is-feas",
+  "name": "How do I know if my property is actually eligible for an attached ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What site conditions or zoning details determine whether an attached ADU is feasible before I spend money on design?",
+    "text": "What site conditions or zoning details determine whether an attached ADU is feasible before I spend money on design?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The fastest way to determine eligibility is to review the property’s zoning, lot configuration, and existing home placement together. An attached ADU may be feasible on many residential lots, but the real constraints often come from setbacks, existing square footage, access, and whether the addition can be built without violating fire separation or height limits. A measured site plan is essential because rough estimates often miss encroachments, odd lot lines, or existing additions that reduce buildable area. Homeowners should also verify whether the property sits in a hillside, coastal, or other special review area, since that can affect both feasibility and timing. A good initial review should answer not just “is it allowed,” but also “what size, where, and at what approximate cost.” That early clarity helps prevent wasting money on drawings that cannot be approved. For attached ADUs, feasibility is usually a site-specific question rather than a one-size-fits-all answer.",
+      "@type": "Answer",
+      "description": "Eligibility depends on zoning, lot size, existing building location, setbacks, fire access, and whether the home can accommodate the addition without violating development standards. A measured site plan and zoning review are the fastest way to confirm feasibility before design work starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The fastest way to determine eligibility is to review the property’s zoning, lot configuration, and existing home placement together. An attached ADU may be feasible on many residential lots, but the real constraints often come from setbacks, existing square footage, access, and whether the addition can be built without violating fire separation or height limits. A measured site plan is essential because rough estimates often miss encroachments, odd lot lines, or existing additions that reduce buildable area. Homeowners should also verify whether the property sits in a hillside, coastal, or other special review area, since that can affect both feasibility and timing. A good initial review should answer not just “is it allowed,” but also “what size, where, and at what approximate cost.” That early clarity helps prevent wasting money on drawings that cannot be approved. For attached ADUs, feasibility is usually a site-specific question rather than a one-size-fits-all answer.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Eligibility depends on zoning, lot size, existing building location, setbacks, fire access, and whether the home can accommodate the addition without violating "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-convert-the-garage-into-living-space-do-los-angeles-glendale-pasadena-or-bu",
+  "name": "Do I need to replace parking if I convert my garage to an ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I convert the garage into living space, do Los Angeles, Glendale, Pasadena, or Burbank require replacement parking on-site?",
+    "text": "If I convert the garage into living space, do Los Angeles, Glendale, Pasadena, or Burbank require replacement parking on-site?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking rules are highly location-specific, so this is one of the first feasibility questions to answer. In some cases, converting an existing garage does not require replacing the lost parking space, while in other situations the city may still want proof that the project meets local parking standards or qualifies for an exemption. Transit proximity, street parking availability, hillside conditions, historic overlays, and multifamily vs. single-family zoning can all affect the decision. Homeowners should also remember that even when replacement parking is not required, the conversion can still affect the day-to-day livability of the property and resale expectations. A good contractor or designer should verify the exact parking impact early, before the floor plan is finalized. If the lot is constrained, the project may need a creative layout that preserves driveway function or avoids conflicts with setbacks and access paths.",
+      "@type": "Answer",
+      "description": "Parking replacement is one of the most common concerns, but many ADU projects have parking relief rules that reduce or eliminate replacement requirements depending on location, transit access, and the type of conversion. The answer depends on the city, the property type, and whether the garage is fully or partially converted.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking rules are highly location-specific, so this is one of the first feasibility questions to answer. In some cases, converting an existing garage does not require replacing the lost parking space, while in other situations the city may still want proof that the project meets local parking standards or qualifies for an exemption. Transit proximity, street parking availability, hillside conditions, historic overlays, and multifamily vs. single-family zoning can all affect the decision. Homeowners should also remember that even when replacement parking is not required, the conversion can still affect the day-to-day livability of the property and resale expectations. A good contractor or designer should verify the exact parking impact early, before the floor plan is finalized. If the lot is constrained, the project may need a creative layout that preserves driveway function or avoids conflicts with setbacks and access paths.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking replacement is one of the most common concerns, but many ADU projects have parking relief rules that reduce or eliminate replacement requirements depend"
+}

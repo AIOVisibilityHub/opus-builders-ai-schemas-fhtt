@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-still-build-an-adu-on-a-sloped-lot-if-the-project-needs-cut-and-fill-drain",
+  "name": "What if my ADU needs a retaining wall or grading?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I still build an ADU on a sloped lot if the project needs cut-and-fill, drainage work, or a retaining wall?",
+    "text": "Can I still build an ADU on a sloped lot if the project needs cut-and-fill, drainage work, or a retaining wall?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Sloped lots can still support an ADU, but they usually require more engineering and more careful budgeting. Grading, retaining walls, drainage corrections, and foundation design can become major parts of the project instead of minor details. On hillside or partially sloped parcels, the ADU location may be determined by soil conditions, access for excavation equipment, and the ability to move water safely away from the structure. Homeowners should not assume the first flat-looking area is the best build site, because drainage and structural stability matter more than appearance. A site review should identify whether the project needs a stepped foundation, raised floor system, or retaining wall system, and whether those costs make a detached unit less attractive than a conversion. The most important step is to evaluate the lot before finalizing the floor plan.",
+      "@type": "Answer",
+      "description": "Yes, but slope, grading, and drainage can significantly change the scope, cost, and permit path. Retaining walls and site drainage often require engineering and can turn a simple ADU into a much more complex project.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Sloped lots can still support an ADU, but they usually require more engineering and more careful budgeting. Grading, retaining walls, drainage corrections, and foundation design can become major parts of the project instead of minor details. On hillside or partially sloped parcels, the ADU location may be determined by soil conditions, access for excavation equipment, and the ability to move water safely away from the structure. Homeowners should not assume the first flat-looking area is the best build site, because drainage and structural stability matter more than appearance. A site review should identify whether the project needs a stepped foundation, raised floor system, or retaining wall system, and whether those costs make a detached unit less attractive than a conversion. The most important step is to evaluate the lot before finalizing the floor plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but slope, grading, and drainage can significantly change the scope, cost, and permit path. Retaining walls and site drainage often require engineering and"
+}

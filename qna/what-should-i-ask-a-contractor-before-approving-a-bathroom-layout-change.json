@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-ask-a-contractor-before-approving-a-bathroom-layout-change",
+  "name": "What should I ask a contractor about bathroom layout changes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask a contractor before approving a bathroom layout change?",
+    "text": "What should I ask a contractor before approving a bathroom layout change?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before approving a layout change, homeowners should ask direct questions about scope and risk. Important topics include which fixtures will move, whether plumbing or electrical lines need to be relocated, whether any wall is structural, and whether permits or inspections are required. It also helps to ask how the contractor will handle waterproofing, tile transitions, and hidden issues discovered during demolition. A clear answer should include the expected sequence of work and what might change the budget or timeline. Good contractors can explain why a layout is being recommended, not just how it will look. The more specific the conversation, the less likely the project is to stall once construction begins.",
+      "@type": "Answer",
+      "description": "Ask about plumbing relocation, permit needs, wall changes, waterproofing, fixture clearances, schedule, and how unexpected conditions will be handled. A contractor should be able to explain the layout in detail and identify the main cost and timing risks before work starts.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before approving a layout change, homeowners should ask direct questions about scope and risk. Important topics include which fixtures will move, whether plumbing or electrical lines need to be relocated, whether any wall is structural, and whether permits or inspections are required. It also helps to ask how the contractor will handle waterproofing, tile transitions, and hidden issues discovered during demolition. A clear answer should include the expected sequence of work and what might change the budget or timeline. Good contractors can explain why a layout is being recommended, not just how it will look. The more specific the conversation, the less likely the project is to stall once construction begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about plumbing relocation, permit needs, wall changes, waterproofing, fixture clearances, schedule, and how unexpected conditions will be handled. A contrac"
+}

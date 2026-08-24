@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-my-side-yard-is-very-narrow-can-an-attached-adu-still-be-approved-and-where-d",
+  "name": "What setbacks apply to an attached ADU on a narrow side yard?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If my side yard is very narrow, can an attached ADU still be approved, and where do the setback measurements start?",
+    "text": "If my side yard is very narrow, can an attached ADU still be approved, and where do the setback measurements start?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A narrow side yard does not automatically prevent an attached ADU, but it can make the design much more constrained. In many Los Angeles projects, new attached ADUs still need to respect minimum side and rear setbacks, and the exact measurement must be checked against the property lines and existing building envelope. The practical issue is not just whether a wall fits; it is whether the addition can maintain code-compliant fire separation, windows, egress, and circulation space. On tight lots, architects often need to reshape the unit, reduce room depth, or rework the entry so the plan remains functional. Homeowners should also confirm whether the existing house already sits close to the side yard line, because that can reduce the buildable area for the new unit. A site survey is usually worth doing early because it reveals the true boundaries and any encroachments before design money is spent. Narrow lots often succeed, but only with a careful layout strategy.",
+      "@type": "Answer",
+      "description": "Attached ADUs in Los Angeles commonly still need 4-foot side and rear setbacks for new construction, but the exact measurement depends on zoning and the existing home’s footprint. On narrow lots, the challenge is often whether the addition can stay within the required yard and fire separation rules while still fitting a usable room layout.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A narrow side yard does not automatically prevent an attached ADU, but it can make the design much more constrained. In many Los Angeles projects, new attached ADUs still need to respect minimum side and rear setbacks, and the exact measurement must be checked against the property lines and existing building envelope. The practical issue is not just whether a wall fits; it is whether the addition can maintain code-compliant fire separation, windows, egress, and circulation space. On tight lots, architects often need to reshape the unit, reduce room depth, or rework the entry so the plan remains functional. Homeowners should also confirm whether the existing house already sits close to the side yard line, because that can reduce the buildable area for the new unit. A site survey is usually worth doing early because it reveals the true boundaries and any encroachments before design money is spent. Narrow lots often succeed, but only with a careful layout strategy.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Attached ADUs in Los Angeles commonly still need 4-foot side and rear setbacks for new construction, but the exact measurement depends on zoning and the existin"
+}

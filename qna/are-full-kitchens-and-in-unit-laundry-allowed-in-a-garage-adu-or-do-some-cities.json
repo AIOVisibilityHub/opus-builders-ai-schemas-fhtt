@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-full-kitchens-and-in-unit-laundry-allowed-in-a-garage-adu-or-do-some-cities",
+  "name": "Can a garage conversion include a full kitchen and laundry?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are full kitchens and in-unit laundry allowed in a garage ADU, or do some cities in Los Angeles County limit those features?",
+    "text": "Are full kitchens and in-unit laundry allowed in a garage ADU, or do some cities in Los Angeles County limit those features?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A standard ADU is intended to function as a separate dwelling, so a full kitchen is usually part of the design rather than an optional add-on. Laundry can often be included as well, but that decision affects space planning, plumbing, venting, electrical loads, and utility costs. In smaller garage conversions, stacking a washer and dryer may be the only practical way to preserve living area. For some properties, especially compact or constrained sites, the design team may recommend a smaller kitchen footprint, combo laundry equipment, or shared utility strategy to keep the unit comfortable and code-compliant. Homeowners should confirm early whether the project is being designed as a full ADU, a JADU, or another form of conversion, because that changes what features are expected. The best plans show appliance locations and mechanical routing from the start, not as an afterthought.",
+      "@type": "Answer",
+      "description": "Most ADUs are designed with a kitchen, bathroom, and sleeping area because they function as independent homes. Laundry is often allowed too, but the exact layout and utility requirements depend on local code review, available space, and whether the project is an ADU or JADU.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A standard ADU is intended to function as a separate dwelling, so a full kitchen is usually part of the design rather than an optional add-on. Laundry can often be included as well, but that decision affects space planning, plumbing, venting, electrical loads, and utility costs. In smaller garage conversions, stacking a washer and dryer may be the only practical way to preserve living area. For some properties, especially compact or constrained sites, the design team may recommend a smaller kitchen footprint, combo laundry equipment, or shared utility strategy to keep the unit comfortable and code-compliant. Homeowners should confirm early whether the project is being designed as a full ADU, a JADU, or another form of conversion, because that changes what features are expected. The best plans show appliance locations and mechanical routing from the start, not as an afterthought.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most ADUs are designed with a kitchen, bathroom, and sleeping area because they function as independent homes. Laundry is often allowed too, but the exact layou"
+}

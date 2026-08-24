@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-my-bathroom-plumbing-move-will-require-opening-walls",
+  "name": "How do I know if my bathroom plumbing move will require opening walls?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my bathroom plumbing move will require opening walls?",
+    "text": "How do I know if my bathroom plumbing move will require opening walls?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A bathroom plumbing move usually requires opening walls when the new fixture position needs new supply lines, drain routing, or vent connections that cannot be reached from existing openings. The amount of wall removal depends on the route the pipes must take and whether there are accessible chases, closets, or adjacent rooms that make the work easier. A sink move might only require a section of wall behind the vanity, while a shower valve move could involve more extensive wall opening. If the plumbing path passes through finished areas or needs new framing adjustments, more demolition may be required. Homeowners should ask the contractor to explain exactly where access openings will be made and whether those areas can be patched cleanly after the rough-in is complete. The smaller and more direct the pipe route, the less wall damage is usually needed.",
+      "@type": "Answer",
+      "description": "If the new fixture position needs new supply, drain, or vent lines, walls will usually need to be opened at least in the rough-in areas. The amount of wall removal depends on whether the piping can be routed through existing cavities or accessible chases.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A bathroom plumbing move usually requires opening walls when the new fixture position needs new supply lines, drain routing, or vent connections that cannot be reached from existing openings. The amount of wall removal depends on the route the pipes must take and whether there are accessible chases, closets, or adjacent rooms that make the work easier. A sink move might only require a section of wall behind the vanity, while a shower valve move could involve more extensive wall opening. If the plumbing path passes through finished areas or needs new framing adjustments, more demolition may be required. Homeowners should ask the contractor to explain exactly where access openings will be made and whether those areas can be patched cleanly after the rough-in is complete. The smaller and more direct the pipe route, the less wall damage is usually needed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the new fixture position needs new supply, drain, or vent lines, walls will usually need to be opened at least in the rough-in areas. The amount of wall remo"
+}

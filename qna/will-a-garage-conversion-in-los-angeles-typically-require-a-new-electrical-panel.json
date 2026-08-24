@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-a-garage-conversion-in-los-angeles-typically-require-a-new-electrical-panel",
+  "name": "Do I need to upgrade the electrical panel for a garage ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will a garage conversion in Los Angeles typically require a new electrical panel or service upgrade?",
+    "text": "Will a garage conversion in Los Angeles typically require a new electrical panel or service upgrade?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Electrical capacity should be reviewed early because it can become a major hidden cost. A garage ADU usually adds lighting, outlets, kitchen appliances, bathroom ventilation, heating and cooling equipment, and sometimes laundry. Older homes may not have enough service capacity to support that load safely, especially if the main house already uses much of the available amperage. In those cases, the project may require a panel upgrade, new subpanel, or service coordination with the utility provider. This is not just a paperwork issue; it affects design, permits, and construction sequencing. Homeowners should ask for a load calculation before plans are locked. If the electrical system is undersized, it is better to learn that upfront than after finishes are ordered. Panel work can also affect the project timeline because utility approvals and inspections may take additional time.",
+      "@type": "Answer",
+      "description": "Many garage conversions need electrical upgrades because the added kitchen, bathroom, HVAC, and appliances increase demand. Whether a full panel replacement is required depends on the existing service size, the age of the equipment, and the total connected load for the house and ADU.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Electrical capacity should be reviewed early because it can become a major hidden cost. A garage ADU usually adds lighting, outlets, kitchen appliances, bathroom ventilation, heating and cooling equipment, and sometimes laundry. Older homes may not have enough service capacity to support that load safely, especially if the main house already uses much of the available amperage. In those cases, the project may require a panel upgrade, new subpanel, or service coordination with the utility provider. This is not just a paperwork issue; it affects design, permits, and construction sequencing. Homeowners should ask for a load calculation before plans are locked. If the electrical system is undersized, it is better to learn that upfront than after finishes are ordered. Panel work can also affect the project timeline because utility approvals and inspections may take additional time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many garage conversions need electrical upgrades because the added kitchen, bathroom, HVAC, and appliances increase demand. Whether a full panel replacement is "
+}

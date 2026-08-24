@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-building-a-detached-adu-in-los-angeles-require-adding-new-parking-spaces-on",
+  "name": "Do detached ADUs require parking in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does building a detached ADU in Los Angeles require adding new parking spaces on the property?",
+    "text": "Does building a detached ADU in Los Angeles require adding new parking spaces on the property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking is a frequent concern, but it is not always the deciding factor for a detached ADU. In many Los Angeles situations, parking requirements are reduced or waived based on location, transit access, or the property’s legal status. That said, homeowners should not assume parking is irrelevant. Some sites still face layout challenges even when no formal parking space is required, because the ADU may affect driveway circulation, garage access, or guest parking. A good feasibility review should show whether the project changes the current parking arrangement and whether any new hardscape is needed. This question often comes up late in the design process, but it should be answered before finalizing the site plan. When parking is tight, the best design is one that preserves functionality without forcing the ADU into a poor location.",
+      "@type": "Answer",
+      "description": "Parking requirements depend on the property’s location, transit access, and current rules, and many ADUs qualify for reduced or no added parking. The site should still be checked carefully because special conditions can affect the parking outcome.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking is a frequent concern, but it is not always the deciding factor for a detached ADU. In many Los Angeles situations, parking requirements are reduced or waived based on location, transit access, or the property’s legal status. That said, homeowners should not assume parking is irrelevant. Some sites still face layout challenges even when no formal parking space is required, because the ADU may affect driveway circulation, garage access, or guest parking. A good feasibility review should show whether the project changes the current parking arrangement and whether any new hardscape is needed. This question often comes up late in the design process, but it should be answered before finalizing the site plan. When parking is tight, the best design is one that preserves functionality without forcing the ADU into a poor location.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking requirements depend on the property’s location, transit access, and current rules, and many ADUs qualify for reduced or no added parking. The site shoul"
+}
