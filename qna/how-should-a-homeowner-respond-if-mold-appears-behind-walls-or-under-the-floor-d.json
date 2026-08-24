@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-homeowner-respond-if-mold-appears-behind-walls-or-under-the-floor-d",
+  "name": "What happens if mold is found during a bathroom remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a homeowner respond if mold appears behind walls or under the floor during demolition?",
+    "text": "How should a homeowner respond if mold appears behind walls or under the floor during demolition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Mold discovery changes the project because the source of moisture has to be addressed before the bathroom is rebuilt. The contractor should identify whether the issue is from a leak, failed waterproofing, or chronic humidity and then remove damaged materials as needed. Homeowners should expect added cost and time if mold remediation or replacement framing is necessary. The important point is not to cover the problem, but to solve it so the new bathroom does not inherit the same failure. A contractor should document what was found, what was removed, and what steps were taken to dry and rebuild the area. If a remodel uncovers mold, it is often a sign that the original bathroom had hidden water intrusion for a long time.",
+      "@type": "Answer",
+      "description": "If mold is found during demolition, work usually needs to pause so the damaged area can be assessed and properly removed or remediated. The cause must be fixed before rebuilding, or the problem can return after the remodel is finished.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Mold discovery changes the project because the source of moisture has to be addressed before the bathroom is rebuilt. The contractor should identify whether the issue is from a leak, failed waterproofing, or chronic humidity and then remove damaged materials as needed. Homeowners should expect added cost and time if mold remediation or replacement framing is necessary. The important point is not to cover the problem, but to solve it so the new bathroom does not inherit the same failure. A contractor should document what was found, what was removed, and what steps were taken to dry and rebuild the area. If a remodel uncovers mold, it is often a sign that the original bathroom had hidden water intrusion for a long time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If mold is found during demolition, work usually needs to pause so the damaged area can be assessed and properly removed or remediated. The cause must be fixed "
+}

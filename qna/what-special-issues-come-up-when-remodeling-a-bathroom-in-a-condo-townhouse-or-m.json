@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-special-issues-come-up-when-remodeling-a-bathroom-in-a-condo-townhouse-or-m",
+  "name": "What is the best way to remodel a bathroom in a condo or apartment building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What special issues come up when remodeling a bathroom in a condo, townhouse, or multi-unit building?",
+    "text": "What special issues come up when remodeling a bathroom in a condo, townhouse, or multi-unit building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Multi-unit buildings add coordination challenges that single-family homes do not have. The contractor may need to follow building rules for work hours, elevator use, parking, debris removal, and water shutoffs. It is also important to understand who approves the remodel and whether the building requires insurance documents or inspection coordination. Because water can affect neighboring units, waterproofing and plumbing integrity become even more critical. Homeowners should make sure the scope and schedule account for building restrictions before construction begins. A contractor experienced with condos or apartments can reduce friction by planning deliveries, protection, and cleanup around the building’s rules.",
+      "@type": "Answer",
+      "description": "Bathroom remodels in condos and apartments often require extra coordination for building rules, access, noise, debris removal, and plumbing shutoffs. Waterproofing and leak prevention are especially important because a mistake can affect neighboring units.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Multi-unit buildings add coordination challenges that single-family homes do not have. The contractor may need to follow building rules for work hours, elevator use, parking, debris removal, and water shutoffs. It is also important to understand who approves the remodel and whether the building requires insurance documents or inspection coordination. Because water can affect neighboring units, waterproofing and plumbing integrity become even more critical. Homeowners should make sure the scope and schedule account for building restrictions before construction begins. A contractor experienced with condos or apartments can reduce friction by planning deliveries, protection, and cleanup around the building’s rules.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Bathroom remodels in condos and apartments often require extra coordination for building rules, access, noise, debris removal, and plumbing shutoffs. Waterproof"
+}

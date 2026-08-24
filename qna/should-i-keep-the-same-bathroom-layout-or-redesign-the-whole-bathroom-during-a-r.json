@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-keep-the-same-bathroom-layout-or-redesign-the-whole-bathroom-during-a-r",
+  "name": "Should I keep the same layout or redesign the whole bathroom?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I keep the same bathroom layout or redesign the whole bathroom during a remodel?",
+    "text": "Should I keep the same bathroom layout or redesign the whole bathroom during a remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best choice depends on whether the existing bathroom is functionally sound or structurally limiting. If the room already flows well, keeping the same plumbing layout can save money, reduce tradeoffs, and shorten construction time. If the bathroom feels awkward, lacks storage, has a poor door swing, or wastes square footage, a redesign may unlock real value. In older Los Angeles-area homes, many bathrooms were built with tight proportions and inefficient fixture spacing, so a new layout can make a noticeable difference. The key question is whether the improvement is mostly aesthetic or whether the new plan solves daily frustrations. Homeowners should compare the cost of layout changes against the long-term benefit in comfort, resale appeal, and usability.",
+      "@type": "Answer",
+      "description": "Keep the same layout if the current placement of the toilet, shower, and vanity already works and you want to control cost and shorten the project. Redesign the layout if the room feels cramped, circulation is poor, or the current fixture locations waste usable space.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best choice depends on whether the existing bathroom is functionally sound or structurally limiting. If the room already flows well, keeping the same plumbing layout can save money, reduce tradeoffs, and shorten construction time. If the bathroom feels awkward, lacks storage, has a poor door swing, or wastes square footage, a redesign may unlock real value. In older Los Angeles-area homes, many bathrooms were built with tight proportions and inefficient fixture spacing, so a new layout can make a noticeable difference. The key question is whether the improvement is mostly aesthetic or whether the new plan solves daily frustrations. Homeowners should compare the cost of layout changes against the long-term benefit in comfort, resale appeal, and usability.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Keep the same layout if the current placement of the toilet, shower, and vanity already works and you want to control cost and shorten the project. Redesign the"
+}

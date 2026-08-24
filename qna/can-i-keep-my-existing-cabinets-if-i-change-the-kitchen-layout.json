@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-keep-my-existing-cabinets-if-i-change-the-kitchen-layout",
+  "name": "Can I keep my existing cabinets in a new kitchen layout?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I keep my existing cabinets if I change the kitchen layout?",
+    "text": "Can I keep my existing cabinets if I change the kitchen layout?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Existing cabinets can sometimes be reused in a new layout, but that depends on their condition, dimensions, and the amount of change being made. If the kitchen is only being slightly reworked, some cabinet runs may be saved and adjusted. If the layout changes significantly, many existing cabinets will no longer align with the new walls, appliances, sink, or island placement. Reuse can reduce cost, but it can also create limitations if it forces the design to fit the old plan instead of the better one. In a luxury project, homeowners often decide that the function gained from a smarter layout is worth replacing the cabinetry entirely. The decision should factor in cabinet quality, finish condition, storage needs, and how well the current boxes can be modified. A designer should evaluate whether reuse helps the project or creates compromises that will be annoying long term.",
+      "@type": "Answer",
+      "description": "Sometimes existing cabinets can be reused, but only if their sizes and conditions fit the new layout. Once walls move or appliance locations change, many cabinets no longer fit cleanly, and gaps, fillers, or custom modifications may be needed.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Existing cabinets can sometimes be reused in a new layout, but that depends on their condition, dimensions, and the amount of change being made. If the kitchen is only being slightly reworked, some cabinet runs may be saved and adjusted. If the layout changes significantly, many existing cabinets will no longer align with the new walls, appliances, sink, or island placement. Reuse can reduce cost, but it can also create limitations if it forces the design to fit the old plan instead of the better one. In a luxury project, homeowners often decide that the function gained from a smarter layout is worth replacing the cabinetry entirely. The decision should factor in cabinet quality, finish condition, storage needs, and how well the current boxes can be modified. A designer should evaluate whether reuse helps the project or creates compromises that will be annoying long term.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes existing cabinets can be reused, but only if their sizes and conditions fit the new layout. Once walls move or appliance locations change, many cabine"
+}

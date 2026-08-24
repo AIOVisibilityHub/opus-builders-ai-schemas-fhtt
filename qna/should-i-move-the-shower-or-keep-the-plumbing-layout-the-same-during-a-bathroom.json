@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-move-the-shower-or-keep-the-plumbing-layout-the-same-during-a-bathroom",
+  "name": "Should I move the shower or keep the plumbing layout the same?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I move the shower or keep the plumbing layout the same during a bathroom remodel?",
+    "text": "Should I move the shower or keep the plumbing layout the same during a bathroom remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Keeping the shower in the same location is often the simplest way to control budget and schedule. When the plumbing stays put, contractors can focus on finishes, waterproofing, and fixture upgrades instead of opening additional areas to reroute lines. Moving the shower can improve traffic flow, create a better layout, or allow a larger custom enclosure, but it usually adds demolition, plumbing labor, inspections, and more opportunities to uncover hidden issues. In older homes, a shower relocation can also expose problems with subflooring or framing. Homeowners should decide based on how much the current layout limits daily use. If the shower already works well, keeping it in place may deliver the best value. If the bathroom feels cramped or poorly arranged, a layout change may be worth the extra cost. A contractor should show both options with pricing so you can compare function against added complexity.",
+      "@type": "Answer",
+      "description": "Keeping the plumbing layout the same usually reduces cost, complexity, and delay. Moving the shower can improve the design, but it often requires more demolition, plumbing changes, waterproofing, and permitting. The decision should balance function, budget, and hidden-condition risk.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Keeping the shower in the same location is often the simplest way to control budget and schedule. When the plumbing stays put, contractors can focus on finishes, waterproofing, and fixture upgrades instead of opening additional areas to reroute lines. Moving the shower can improve traffic flow, create a better layout, or allow a larger custom enclosure, but it usually adds demolition, plumbing labor, inspections, and more opportunities to uncover hidden issues. In older homes, a shower relocation can also expose problems with subflooring or framing. Homeowners should decide based on how much the current layout limits daily use. If the shower already works well, keeping it in place may deliver the best value. If the bathroom feels cramped or poorly arranged, a layout change may be worth the extra cost. A contractor should show both options with pricing so you can compare function against added complexity.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Keeping the plumbing layout the same usually reduces cost, complexity, and delay. Moving the shower can improve the design, but it often requires more demolitio"
+}

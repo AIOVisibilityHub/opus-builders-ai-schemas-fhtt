@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-remove-a-wall-to-open-the-kitchen-into-the-living-or-dining-room",
+  "name": "Can you remove a wall to open the kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you remove a wall to open the kitchen into the living or dining room?",
+    "text": "Can you remove a wall to open the kitchen into the living or dining room?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many Los Angeles homeowners open the kitchen by removing a wall, but the feasibility depends on the structure behind that wall. If the wall is load-bearing, it cannot simply be taken out without adding proper support, often in the form of a beam or other structural solution. Even non-load-bearing walls can be complicated if they contain electrical, plumbing, HVAC, or gas lines. The best first step is to determine what the wall does structurally and what systems run through it. If the goal is better light, a larger sightline, or a more social layout, partial openings, widened cased openings, or a pass-through may sometimes achieve the same effect with less cost and disruption. A good design team will look at structure, circulation, lighting, cabinet placement, and appliance locations together so the new opening improves the kitchen instead of creating a strange or inefficient plan.",
+      "@type": "Answer",
+      "description": "Yes, many kitchens can be opened by removing a wall, but the answer depends on whether the wall is load-bearing, contains plumbing or electrical lines, or affects ventilation and structure. A wall removal may require a beam, engineering review, and revised plans before construction begins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many Los Angeles homeowners open the kitchen by removing a wall, but the feasibility depends on the structure behind that wall. If the wall is load-bearing, it cannot simply be taken out without adding proper support, often in the form of a beam or other structural solution. Even non-load-bearing walls can be complicated if they contain electrical, plumbing, HVAC, or gas lines. The best first step is to determine what the wall does structurally and what systems run through it. If the goal is better light, a larger sightline, or a more social layout, partial openings, widened cased openings, or a pass-through may sometimes achieve the same effect with less cost and disruption. A good design team will look at structure, circulation, lighting, cabinet placement, and appliance locations together so the new opening improves the kitchen instead of creating a strange or inefficient plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many kitchens can be opened by removing a wall, but the answer depends on whether the wall is load-bearing, contains plumbing or electrical lines, or affec"
+}

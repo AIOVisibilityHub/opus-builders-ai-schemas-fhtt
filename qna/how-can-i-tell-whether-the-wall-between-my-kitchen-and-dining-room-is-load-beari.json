@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-whether-the-wall-between-my-kitchen-and-dining-room-is-load-beari",
+  "name": "How do I know if the wall between my kitchen and dining room is load-bearing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell whether the wall between my kitchen and dining room is load-bearing before planning an open-concept conversion?",
+    "text": "How can I tell whether the wall between my kitchen and dining room is load-bearing before planning an open-concept conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "You usually cannot tell with certainty just by looking at the wall. Some clues help: walls running perpendicular to floor joists are more likely to carry load, walls stacked below upper-story walls or roof supports may be structural, and walls aligned with beams, posts, or foundation lines deserve extra scrutiny. But visual clues are not enough to approve demolition. A structural review is the safest next step before design work is finalized. That review can confirm whether the wall is non-load-bearing, partially load-bearing, or a major support element. In older Los Angeles-area homes, hidden framing changes, past remodels, and added weight from second stories or roof modifications can make assumptions risky. If you are considering an open plan, ask for a structural assessment early so the layout, beam size, budget, and permit path are based on facts rather than guesswork.",
+      "@type": "Answer",
+      "description": "You usually cannot confirm load-bearing status from appearance alone. Clues include the wall’s direction relative to joists, what’s above it, and whether it lines up with beams, posts, or foundation supports, but final confirmation should come from a structural professional or licensed contractor.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "You usually cannot tell with certainty just by looking at the wall. Some clues help: walls running perpendicular to floor joists are more likely to carry load, walls stacked below upper-story walls or roof supports may be structural, and walls aligned with beams, posts, or foundation lines deserve extra scrutiny. But visual clues are not enough to approve demolition. A structural review is the safest next step before design work is finalized. That review can confirm whether the wall is non-load-bearing, partially load-bearing, or a major support element. In older Los Angeles-area homes, hidden framing changes, past remodels, and added weight from second stories or roof modifications can make assumptions risky. If you are considering an open plan, ask for a structural assessment early so the layout, beam size, budget, and permit path are based on facts rather than guesswork.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You usually cannot confirm load-bearing status from appearance alone. Clues include the wall’s direction relative to joists, what’s above it, and whether it lin"
+}

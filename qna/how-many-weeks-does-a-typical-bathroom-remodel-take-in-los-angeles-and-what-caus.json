@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-many-weeks-does-a-typical-bathroom-remodel-take-in-los-angeles-and-what-caus",
+  "name": "How long does a bathroom remodel take in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How many weeks does a typical bathroom remodel take in Los Angeles, and what causes delays?",
+    "text": "How many weeks does a typical bathroom remodel take in Los Angeles, and what causes delays?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Timeline depends on the complexity of the job. A basic refresh may move quickly because the plumbing layout stays the same and the work is mostly finish replacement. A full remodel takes longer because demolition, inspections, waterproofing, tile curing, fixture installation, and final punch-list work all happen in sequence. Delays often come from backordered materials, custom cabinetry, special-order tile, subfloor repairs, permit processing, or discovering mold and rot after walls are opened. Homeowners can reduce delays by selecting all materials before construction starts, approving drawings early, and keeping change requests to a minimum. A contractor should give a realistic schedule, not just an optimistic one, and should explain what happens if hidden damage is found during demolition.",
+      "@type": "Answer",
+      "description": "A typical bathroom remodel can take a few weeks for a simple refresh or longer for a full remodel with plumbing changes, custom tile, and permit approvals. Delays are usually caused by material lead times, inspection scheduling, hidden water damage, and change orders after demolition begins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Timeline depends on the complexity of the job. A basic refresh may move quickly because the plumbing layout stays the same and the work is mostly finish replacement. A full remodel takes longer because demolition, inspections, waterproofing, tile curing, fixture installation, and final punch-list work all happen in sequence. Delays often come from backordered materials, custom cabinetry, special-order tile, subfloor repairs, permit processing, or discovering mold and rot after walls are opened. Homeowners can reduce delays by selecting all materials before construction starts, approving drawings early, and keeping change requests to a minimum. A contractor should give a realistic schedule, not just an optimistic one, and should explain what happens if hidden damage is found during demolition.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A typical bathroom remodel can take a few weeks for a simple refresh or longer for a full remodel with plumbing changes, custom tile, and permit approvals. Dela"
+}

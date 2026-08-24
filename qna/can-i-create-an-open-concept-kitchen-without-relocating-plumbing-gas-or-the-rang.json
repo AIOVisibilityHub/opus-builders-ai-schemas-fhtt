@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-create-an-open-concept-kitchen-without-relocating-plumbing-gas-or-the-rang",
+  "name": "Can I open my kitchen without moving plumbing or gas lines?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I create an open-concept kitchen without relocating plumbing, gas, or the range location?",
+    "text": "Can I create an open-concept kitchen without relocating plumbing, gas, or the range location?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, in some cases an open-concept conversion can be done without moving major utilities. If the layout is already functional and the goal is mainly to remove a wall, widen a passage, or improve sightlines, the kitchen may stay in the same rough location. That keeps plumbing, gas, and electrical changes to a minimum and can reduce both cost and permit complexity. However, many open-concept projects also involve an island, a relocated sink, added outlets, or a new appliance layout, which quickly increases trade work. The key question is whether the new plan actually improves function or just removes a wall. If the utilities can stay put, the project is usually simpler. If the new design needs more workspace, better traffic flow, or a larger island, expect more coordination and a higher budget. A design-first layout review helps identify which changes are worth making and which should be avoided.",
+      "@type": "Answer",
+      "description": "Yes, sometimes. If the wall removal only affects non-utility framing and the existing sink, range, and appliances stay in place, the project can be simpler and cheaper. Once plumbing, gas, or electrical moves, the scope becomes more complex and usually more expensive.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, in some cases an open-concept conversion can be done without moving major utilities. If the layout is already functional and the goal is mainly to remove a wall, widen a passage, or improve sightlines, the kitchen may stay in the same rough location. That keeps plumbing, gas, and electrical changes to a minimum and can reduce both cost and permit complexity. However, many open-concept projects also involve an island, a relocated sink, added outlets, or a new appliance layout, which quickly increases trade work. The key question is whether the new plan actually improves function or just removes a wall. If the utilities can stay put, the project is usually simpler. If the new design needs more workspace, better traffic flow, or a larger island, expect more coordination and a higher budget. A design-first layout review helps identify which changes are worth making and which should be avoided.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, sometimes. If the wall removal only affects non-utility framing and the existing sink, range, and appliances stay in place, the project can be simpler and "
+}

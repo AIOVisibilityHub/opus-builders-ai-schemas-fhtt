@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-a-permit-for-a-kitchen-remodel-if-i-only-move-a-sink-or-stove-in-los-a",
+  "name": "Do I need a permit for a kitchen remodel if I only move a sink or stove in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a permit for a kitchen remodel if I only move a sink or stove in Los Angeles?",
+    "text": "Do I need a permit for a kitchen remodel if I only move a sink or stove in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If you move a sink or stove in a Los Angeles-area kitchen, assume permits will be required because the project is no longer cosmetic. Relocating a sink affects plumbing, and moving a stove can involve gas, electrical, and venting changes. Even small layout changes can trigger plan review, inspections, and code-compliant installation requirements. A good contractor should identify whether the change touches plumbing, electrical, mechanical, or structural systems before work starts. Homeowners should also confirm whether the project is in a city with its own building department or under county rules, since requirements can vary by jurisdiction. The safest approach is to treat any fixture relocation as a permitted remodel and build time for approvals into the schedule. This prevents stop-work issues, redo costs, and inspection delays later.",
+      "@type": "Answer",
+      "description": "Yes, moving a sink or stove usually triggers permits because it changes plumbing, gas, or electrical connections. Cosmetic updates like paint, doors, and surface finishes often do not need permits, but layout changes usually do. The exact requirement depends on whether any utility lines, walls, or ventilation are being altered.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If you move a sink or stove in a Los Angeles-area kitchen, assume permits will be required because the project is no longer cosmetic. Relocating a sink affects plumbing, and moving a stove can involve gas, electrical, and venting changes. Even small layout changes can trigger plan review, inspections, and code-compliant installation requirements. A good contractor should identify whether the change touches plumbing, electrical, mechanical, or structural systems before work starts. Homeowners should also confirm whether the project is in a city with its own building department or under county rules, since requirements can vary by jurisdiction. The safest approach is to treat any fixture relocation as a permitted remodel and build time for approvals into the schedule. This prevents stop-work issues, redo costs, and inspection delays later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, moving a sink or stove usually triggers permits because it changes plumbing, gas, or electrical connections. Cosmetic updates like paint, doors, and surfac"
+}

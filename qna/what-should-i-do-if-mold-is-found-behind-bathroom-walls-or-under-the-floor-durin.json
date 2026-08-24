@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-do-if-mold-is-found-behind-bathroom-walls-or-under-the-floor-durin",
+  "name": "What happens if the contractor finds mold during a bathroom remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do if mold is found behind bathroom walls or under the floor during renovation?",
+    "text": "What should I do if mold is found behind bathroom walls or under the floor during renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Mold usually means there has been a moisture problem for some time, so the source must be fixed before the rebuild continues. That may involve repairing a leaking shower, replacing damaged drywall or subflooring, improving ventilation, or correcting failed waterproofing. The contractor should document the issue, show you the affected areas, and explain whether the damage appears localized or widespread. It is also important to ask how the repair will affect cost and timeline, because mold remediation can trigger additional demolition and drying time. In an older bathroom, mold is not just a cosmetic issue; it often signals hidden failure behind the finishes. The safest approach is to address the moisture source completely rather than covering over it.",
+      "@type": "Answer",
+      "description": "If mold is found during a bathroom remodel, work should stop in the affected area until the source of moisture is identified and corrected. The damaged material may need removal, drying, and replacement before the bathroom can be safely rebuilt.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Mold usually means there has been a moisture problem for some time, so the source must be fixed before the rebuild continues. That may involve repairing a leaking shower, replacing damaged drywall or subflooring, improving ventilation, or correcting failed waterproofing. The contractor should document the issue, show you the affected areas, and explain whether the damage appears localized or widespread. It is also important to ask how the repair will affect cost and timeline, because mold remediation can trigger additional demolition and drying time. In an older bathroom, mold is not just a cosmetic issue; it often signals hidden failure behind the finishes. The safest approach is to address the moisture source completely rather than covering over it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If mold is found during a bathroom remodel, work should stop in the affected area until the source of moisture is identified and corrected. The damaged material"
+}

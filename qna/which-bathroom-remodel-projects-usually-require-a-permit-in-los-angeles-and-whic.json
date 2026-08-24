@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-bathroom-remodel-projects-usually-require-a-permit-in-los-angeles-and-whic",
+  "name": "Do I need a permit for a bathroom remodel in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which bathroom remodel projects usually require a permit in Los Angeles, and which ones do not?",
+    "text": "Which bathroom remodel projects usually require a permit in Los Angeles, and which ones do not?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether a permit is required depends on the scope of work. Projects that involve moving a toilet, shower drain, vanity plumbing, electrical wiring, exhaust fans, or walls typically need approval. Cosmetic work that keeps the same footprint and same utility locations is often simpler. The key issue is not the room itself but whether the remodel affects systems that must meet code. Homeowners should ask a contractor exactly what will be pulled under permit, who is responsible for it, and whether inspections are included in the schedule. This matters because a bathroom remodel that starts as a refresh can become permit-heavy once hidden damage, code issues, or design changes appear after demolition.",
+      "@type": "Answer",
+      "description": "Bathroom remodels that change plumbing, electrical, framing, ventilation, or layout usually require permits in Los Angeles. Cosmetic updates like replacing a vanity, toilet, or tile in the same location may not. If walls are opened or fixtures move, permitting is much more likely.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether a permit is required depends on the scope of work. Projects that involve moving a toilet, shower drain, vanity plumbing, electrical wiring, exhaust fans, or walls typically need approval. Cosmetic work that keeps the same footprint and same utility locations is often simpler. The key issue is not the room itself but whether the remodel affects systems that must meet code. Homeowners should ask a contractor exactly what will be pulled under permit, who is responsible for it, and whether inspections are included in the schedule. This matters because a bathroom remodel that starts as a refresh can become permit-heavy once hidden damage, code issues, or design changes appear after demolition.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Bathroom remodels that change plumbing, electrical, framing, ventilation, or layout usually require permits in Los Angeles. Cosmetic updates like replacing a va"
+}

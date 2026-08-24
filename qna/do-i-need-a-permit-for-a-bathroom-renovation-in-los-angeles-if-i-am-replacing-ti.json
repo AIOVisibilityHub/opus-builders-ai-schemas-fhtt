@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-a-permit-for-a-bathroom-renovation-in-los-angeles-if-i-am-replacing-ti",
+  "name": "Do I need a permit for a bathroom remodel in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a permit for a bathroom renovation in Los Angeles if I am replacing tile, fixtures, or moving plumbing?",
+    "text": "Do I need a permit for a bathroom renovation in Los Angeles if I am replacing tile, fixtures, or moving plumbing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In Los Angeles-area remodels, permit needs depend on the scope. Cosmetic work such as replacing tile, paint, or a vanity may be straightforward, but moving a toilet, shower drain, plumbing lines, electrical outlets, or walls usually triggers permit review. That matters because unpermitted work can create inspection problems, delay completion, and complicate resale. Homeowners should ask the contractor which parts of the project require permits and whether inspections are included in the schedule. If the bathroom is in an older home, permitting may also uncover code upgrades for ventilation, GFCI protection, or waterproofing details. The best practice is to confirm permit responsibility in writing before work starts so there is no confusion about who is applying, paying, and coordinating inspections.",
+      "@type": "Answer",
+      "description": "A permit is usually required if the bathroom remodel involves plumbing, electrical, mechanical, or structural work. Simple like-for-like cosmetic updates may not need one, but moving fixtures, changing drains, adding circuits, or altering walls typically does.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In Los Angeles-area remodels, permit needs depend on the scope. Cosmetic work such as replacing tile, paint, or a vanity may be straightforward, but moving a toilet, shower drain, plumbing lines, electrical outlets, or walls usually triggers permit review. That matters because unpermitted work can create inspection problems, delay completion, and complicate resale. Homeowners should ask the contractor which parts of the project require permits and whether inspections are included in the schedule. If the bathroom is in an older home, permitting may also uncover code upgrades for ventilation, GFCI protection, or waterproofing details. The best practice is to confirm permit responsibility in writing before work starts so there is no confusion about who is applying, paying, and coordinating inspections.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A permit is usually required if the bathroom remodel involves plumbing, electrical, mechanical, or structural work. Simple like-for-like cosmetic updates may no"
+}

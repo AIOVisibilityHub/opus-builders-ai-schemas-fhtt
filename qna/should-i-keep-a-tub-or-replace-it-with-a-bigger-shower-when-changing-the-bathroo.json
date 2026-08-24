@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-keep-a-tub-or-replace-it-with-a-bigger-shower-when-changing-the-bathroo",
+  "name": "Should I choose a tub or a bigger shower?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I keep a tub or replace it with a bigger shower when changing the bathroom layout?",
+    "text": "Should I keep a tub or replace it with a bigger shower when changing the bathroom layout?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "This decision depends on how the bathroom is used and how much space the room can realistically give up. A bigger shower can make a bathroom feel more luxurious and practical, especially in primary suites where daily comfort matters more than having a tub. A tub can still be the better choice in family homes, guest bathrooms, or resale-sensitive projects where buyers may expect at least one bathtub in the home. The layout should not force a tub into a space where it creates awkward circulation or squeezes the vanity too tightly. Homeowners should consider the long-term use of the house, not just the current trend. In many cases, the best solution is the one that improves the room’s function without sacrificing flexibility.",
+      "@type": "Answer",
+      "description": "Choose a tub if the home needs family use, resale flexibility, or a second bathing option. Choose a bigger shower if the bathroom is used mainly by adults and the current tub makes the room feel cramped or outdated.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "This decision depends on how the bathroom is used and how much space the room can realistically give up. A bigger shower can make a bathroom feel more luxurious and practical, especially in primary suites where daily comfort matters more than having a tub. A tub can still be the better choice in family homes, guest bathrooms, or resale-sensitive projects where buyers may expect at least one bathtub in the home. The layout should not force a tub into a space where it creates awkward circulation or squeezes the vanity too tightly. Homeowners should consider the long-term use of the house, not just the current trend. In many cases, the best solution is the one that improves the room’s function without sacrificing flexibility.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Choose a tub if the home needs family use, resale flexibility, or a second bathing option. Choose a bigger shower if the bathroom is used mainly by adults and t"
+}

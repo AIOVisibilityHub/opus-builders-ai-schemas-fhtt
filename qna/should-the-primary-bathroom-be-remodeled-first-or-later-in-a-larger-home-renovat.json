@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-the-primary-bathroom-be-remodeled-first-or-later-in-a-larger-home-renovat",
+  "name": "How do I phase a primary bathroom remodel if I am renovating the whole house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should the primary bathroom be remodeled first or later in a larger home renovation project?",
+    "text": "Should the primary bathroom be remodeled first or later in a larger home renovation project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When remodeling the whole house, the primary bathroom is usually best scheduled after the main structural, plumbing, and electrical decisions are made, but before final finish work elsewhere. That allows the bathroom design to align with the overall home plan while avoiding conflicts with other trades. If the bathroom is part of the critical path, it may need to happen earlier so the project can move forward efficiently. The right phasing also depends on whether you need to live in the home during construction. If the primary bathroom is your only reliable bath, it may need to be treated as a priority so the home remains functional. A good contractor can map the sequence so materials, inspections, and labor are coordinated across the entire project instead of handled in isolation.",
+      "@type": "Answer",
+      "description": "In a whole-house renovation, the primary bathroom is often planned after major structural and utility decisions but before final finishes elsewhere. That allows plumbing, electrical, and design coordination to happen efficiently. The best order depends on whether the bathroom affects the project’s critical path or daily livability.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When remodeling the whole house, the primary bathroom is usually best scheduled after the main structural, plumbing, and electrical decisions are made, but before final finish work elsewhere. That allows the bathroom design to align with the overall home plan while avoiding conflicts with other trades. If the bathroom is part of the critical path, it may need to happen earlier so the project can move forward efficiently. The right phasing also depends on whether you need to live in the home during construction. If the primary bathroom is your only reliable bath, it may need to be treated as a priority so the home remains functional. A good contractor can map the sequence so materials, inspections, and labor are coordinated across the entire project instead of handled in isolation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In a whole-house renovation, the primary bathroom is often planned after major structural and utility decisions but before final finishes elsewhere. That allows"
+}

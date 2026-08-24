@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-reuse-my-existing-cabinets-if-i-remove-a-wall-for-an-open-concept-kitchen",
+  "name": "Can I keep my existing cabinets during an open-concept conversion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I reuse my existing cabinets if I remove a wall for an open-concept kitchen conversion?",
+    "text": "Can I reuse my existing cabinets if I remove a wall for an open-concept kitchen conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, existing cabinets can sometimes be reused, especially if the kitchen footprint stays mostly the same and the conversion is focused on removing a wall rather than redesigning the whole room. The challenge is that open-concept changes often reveal mismatched finishes, old end panels, awkward cabinet terminations, or floor areas that were hidden by the wall. If you keep the cabinets, you may still need filler panels, countertop changes, crown adjustments, or refinishing to make everything look intentional. Reuse can save money, but it works best when the cabinet style, color, and condition still fit the new plan. If the project also adds an island, moves appliances, or changes circulation, partial replacement may be the cleaner option. The decision should be based on both cost and visual continuity, because an open plan makes old cabinet shortcomings much more noticeable.",
+      "@type": "Answer",
+      "description": "Sometimes. Existing cabinets can often stay if the layout does not change, but wall removal may expose unfinished edges, create flooring gaps, or require cabinet modifications to fit the new opening and design.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, existing cabinets can sometimes be reused, especially if the kitchen footprint stays mostly the same and the conversion is focused on removing a wall rather than redesigning the whole room. The challenge is that open-concept changes often reveal mismatched finishes, old end panels, awkward cabinet terminations, or floor areas that were hidden by the wall. If you keep the cabinets, you may still need filler panels, countertop changes, crown adjustments, or refinishing to make everything look intentional. Reuse can save money, but it works best when the cabinet style, color, and condition still fit the new plan. If the project also adds an island, moves appliances, or changes circulation, partial replacement may be the cleaner option. The decision should be based on both cost and visual continuity, because an open plan makes old cabinet shortcomings much more noticeable.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes. Existing cabinets can often stay if the layout does not change, but wall removal may expose unfinished edges, create flooring gaps, or require cabine"
+}

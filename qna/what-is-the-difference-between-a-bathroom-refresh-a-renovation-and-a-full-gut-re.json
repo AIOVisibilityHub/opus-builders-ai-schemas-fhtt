@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-bathroom-refresh-a-renovation-and-a-full-gut-re",
+  "name": "What is the difference between a bathroom refresh and a full remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a bathroom refresh, a renovation, and a full gut remodel?",
+    "text": "What is the difference between a bathroom refresh, a renovation, and a full gut remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "These terms are often used loosely, which creates confusion when comparing quotes. A refresh usually means cosmetic updates such as paint, new fixtures, a vanity swap, or replacement tile while keeping the same footprint and plumbing layout. A full remodel generally involves removing more of the room and updating major components such as the shower, flooring, lighting, plumbing, and ventilation. A gut remodel is the most invasive version and may expose framing, subfloor, insulation, and hidden damage. The distinction matters because the scope directly affects cost, permit needs, timeline, and the chance of discovering repairs. Homeowners should ask each contractor to define the scope in writing so estimates can be compared fairly and there is no surprise about what is included.",
+      "@type": "Answer",
+      "description": "A bathroom refresh updates finishes while keeping the same layout and plumbing locations. A full remodel usually removes more surfaces and may change fixtures, tile, plumbing, electrical, or layout. A gut remodel takes the room down to the studs and rebuilds major systems.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "These terms are often used loosely, which creates confusion when comparing quotes. A refresh usually means cosmetic updates such as paint, new fixtures, a vanity swap, or replacement tile while keeping the same footprint and plumbing layout. A full remodel generally involves removing more of the room and updating major components such as the shower, flooring, lighting, plumbing, and ventilation. A gut remodel is the most invasive version and may expose framing, subfloor, insulation, and hidden damage. The distinction matters because the scope directly affects cost, permit needs, timeline, and the chance of discovering repairs. Homeowners should ask each contractor to define the scope in writing so estimates can be compared fairly and there is no surprise about what is included.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A bathroom refresh updates finishes while keeping the same layout and plumbing locations. A full remodel usually removes more surfaces and may change fixtures, "
+}

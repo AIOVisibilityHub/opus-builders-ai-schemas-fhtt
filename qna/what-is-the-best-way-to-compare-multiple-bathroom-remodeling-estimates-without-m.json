@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-compare-multiple-bathroom-remodeling-estimates-without-m",
+  "name": "How do I compare bathroom remodel bids from different contractors?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to compare multiple bathroom remodeling estimates without missing hidden costs?",
+    "text": "What is the best way to compare multiple bathroom remodeling estimates without missing hidden costs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The cleanest way to compare bids is to line them up by the same scope of work. Look for the exact materials included, whether waterproofing is specified, if permits and inspections are covered, and whether the price includes demolition, debris disposal, trim-out, and final cleanup. A low number can be misleading if it excludes lighting, glass, tile setting, or plumbing repairs. Ask each contractor to explain assumptions in writing, especially around hidden damage and allowances for fixtures. If one bid is much lower than the others, find out what was omitted. A transparent estimate is usually more valuable than the cheapest one because it reduces surprises once construction starts.",
+      "@type": "Answer",
+      "description": "Compare bids by scope, not just total price. Make sure each estimate includes the same fixtures, finishes, waterproofing, permits, labor, demo, and cleanup. The cheapest bid is often missing items that become change orders later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The cleanest way to compare bids is to line them up by the same scope of work. Look for the exact materials included, whether waterproofing is specified, if permits and inspections are covered, and whether the price includes demolition, debris disposal, trim-out, and final cleanup. A low number can be misleading if it excludes lighting, glass, tile setting, or plumbing repairs. Ask each contractor to explain assumptions in writing, especially around hidden damage and allowances for fixtures. If one bid is much lower than the others, find out what was omitted. A transparent estimate is usually more valuable than the cheapest one because it reduces surprises once construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids by scope, not just total price. Make sure each estimate includes the same fixtures, finishes, waterproofing, permits, labor, demo, and cleanup. The"
+}

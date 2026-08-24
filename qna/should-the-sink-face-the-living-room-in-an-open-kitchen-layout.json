@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-the-sink-face-the-living-room-in-an-open-kitchen-layout",
+  "name": "Should the sink face the living room in an open kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should the sink face the living room in an open kitchen layout?",
+    "text": "Should the sink face the living room in an open kitchen layout?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Placing the sink so it faces the living room is common in open layouts because it improves visibility and makes the person cooking feel more connected to the rest of the home. It can be a great choice for households that entertain often or want a more social kitchen. However, it also means that dishes, prep mess, and cleanup are more visible from the main living space. For that reason, the decision should be based on how the kitchen is actually used. If the household values a clean visual presentation at all times, an alternate sink orientation may be better. If conversation, supervision of children, or interaction with guests matters more, facing the sink outward can be a strong design choice. The final layout should balance aesthetics, privacy, and daily workflow rather than following a trend automatically.",
+      "@type": "Answer",
+      "description": "A sink facing the living room can improve sightlines and make the kitchen feel more connected, but it also exposes dishes and cleanup. The right choice depends on whether the priority is a social feel, a clean visual line, or a better workflow at the sink.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Placing the sink so it faces the living room is common in open layouts because it improves visibility and makes the person cooking feel more connected to the rest of the home. It can be a great choice for households that entertain often or want a more social kitchen. However, it also means that dishes, prep mess, and cleanup are more visible from the main living space. For that reason, the decision should be based on how the kitchen is actually used. If the household values a clean visual presentation at all times, an alternate sink orientation may be better. If conversation, supervision of children, or interaction with guests matters more, facing the sink outward can be a strong design choice. The final layout should balance aesthetics, privacy, and daily workflow rather than following a trend automatically.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A sink facing the living room can improve sightlines and make the kitchen feel more connected, but it also exposes dishes and cleanup. The right choice depends "
+}

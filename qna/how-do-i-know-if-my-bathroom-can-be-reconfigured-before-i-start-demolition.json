@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-my-bathroom-can-be-reconfigured-before-i-start-demolition",
+  "name": "How do I know if my bathroom can be reconfigured?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my bathroom can be reconfigured before I start demolition?",
+    "text": "How do I know if my bathroom can be reconfigured before I start demolition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The first step is to measure the room and map the existing location of doors, windows, plumbing fixtures, vents, and electrical points. Then review what is below or behind the bathroom, because slab foundations, joists, load-bearing walls, and hidden plumbing all affect what can move. Many layout problems are not visible until someone checks the structure and drain path. A good preconstruction review should answer whether the toilet, shower, and vanity can move without creating expensive conflicts. If the bathroom sits over a slab, layout changes are often more expensive than in a raised-floor home. If the proposed design forces awkward circulation or impossible clearances, the room may need a more modest reconfiguration instead of a full redesign.",
+      "@type": "Answer",
+      "description": "A bathroom can usually be reconfigured if the room has enough space for the new fixture clearances, the plumbing can be rerouted, and the walls or structure can support the change. A floor plan, measurements, and an inspection of what sits below the room are the fastest ways to confirm feasibility.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The first step is to measure the room and map the existing location of doors, windows, plumbing fixtures, vents, and electrical points. Then review what is below or behind the bathroom, because slab foundations, joists, load-bearing walls, and hidden plumbing all affect what can move. Many layout problems are not visible until someone checks the structure and drain path. A good preconstruction review should answer whether the toilet, shower, and vanity can move without creating expensive conflicts. If the bathroom sits over a slab, layout changes are often more expensive than in a raised-floor home. If the proposed design forces awkward circulation or impossible clearances, the room may need a more modest reconfiguration instead of a full redesign.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A bathroom can usually be reconfigured if the room has enough space for the new fixture clearances, the plumbing can be rerouted, and the walls or structure can"
+}

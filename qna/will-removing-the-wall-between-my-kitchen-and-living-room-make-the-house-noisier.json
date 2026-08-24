@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-removing-the-wall-between-my-kitchen-and-living-room-make-the-house-noisier",
+  "name": "Will an open-concept kitchen make my home louder?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will removing the wall between my kitchen and living room make the house noisier?",
+    "text": "Will removing the wall between my kitchen and living room make the house noisier?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, opening the kitchen often increases sound transfer. Without walls, noise from the refrigerator, dishwasher, range hood, dishes, and conversation moves more freely into the living and dining areas. In homes with hard flooring, high ceilings, and fewer soft surfaces, the effect can be even stronger. That does not mean open-concept layouts are a bad choice, but it does mean acoustic comfort should be part of the design conversation. Some homeowners choose partial walls, large islands, ceiling treatments, rugs, drapery, or soft furnishings to reduce echo. Others prefer the openness and accept the extra sound as part of the tradeoff. If quiet separation is important for work calls, children, or entertaining, ask for a layout that balances openness with acoustic control. Many people do not think about noise until after construction, when the fix becomes much harder.",
+      "@type": "Answer",
+      "description": "Yes, open-concept kitchens usually allow more sound to travel because walls no longer block cooking noise, appliance hum, voices, and TV sound. The effect is often noticeable in everyday use, especially in smaller homes and homes with hard flooring surfaces.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, opening the kitchen often increases sound transfer. Without walls, noise from the refrigerator, dishwasher, range hood, dishes, and conversation moves more freely into the living and dining areas. In homes with hard flooring, high ceilings, and fewer soft surfaces, the effect can be even stronger. That does not mean open-concept layouts are a bad choice, but it does mean acoustic comfort should be part of the design conversation. Some homeowners choose partial walls, large islands, ceiling treatments, rugs, drapery, or soft furnishings to reduce echo. Others prefer the openness and accept the extra sound as part of the tradeoff. If quiet separation is important for work calls, children, or entertaining, ask for a layout that balances openness with acoustic control. Many people do not think about noise until after construction, when the fix becomes much harder.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, open-concept kitchens usually allow more sound to travel because walls no longer block cooking noise, appliance hum, voices, and TV sound. The effect is of"
+}

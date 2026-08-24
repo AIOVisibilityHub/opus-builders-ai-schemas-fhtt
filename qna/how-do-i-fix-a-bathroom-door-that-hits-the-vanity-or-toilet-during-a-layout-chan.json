@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-fix-a-bathroom-door-that-hits-the-vanity-or-toilet-during-a-layout-chan",
+  "name": "How do I fix a bathroom door that hits the vanity?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I fix a bathroom door that hits the vanity or toilet during a layout change?",
+    "text": "How do I fix a bathroom door that hits the vanity or toilet during a layout change?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Door conflicts are one of the most common reasons a bathroom layout feels broken. If the door collides with the vanity or toilet, the room loses both comfort and usability. The best fix may be as simple as reversing the swing direction, but in tighter rooms a pocket door or barn-style sliding door can free up valuable space. If the fixture itself is oversized, reducing vanity depth or shifting the sink location may solve the problem without major plumbing work. Before choosing a fix, check whether the door leaves enough room for safe movement, storage access, and emergency egress. A small change in the entry can dramatically improve how the whole bathroom functions.",
+      "@type": "Answer",
+      "description": "A door that hits the vanity or toilet is usually fixed by changing the door swing, using a pocket door, reducing vanity depth, or repositioning the nearby fixture. The right solution depends on how much wall and floor space is available.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Door conflicts are one of the most common reasons a bathroom layout feels broken. If the door collides with the vanity or toilet, the room loses both comfort and usability. The best fix may be as simple as reversing the swing direction, but in tighter rooms a pocket door or barn-style sliding door can free up valuable space. If the fixture itself is oversized, reducing vanity depth or shifting the sink location may solve the problem without major plumbing work. Before choosing a fix, check whether the door leaves enough room for safe movement, storage access, and emergency egress. A small change in the entry can dramatically improve how the whole bathroom functions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A door that hits the vanity or toilet is usually fixed by changing the door swing, using a pocket door, reducing vanity depth, or repositioning the nearby fixtu"
+}

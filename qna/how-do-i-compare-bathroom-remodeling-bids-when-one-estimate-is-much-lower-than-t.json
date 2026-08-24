@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-compare-bathroom-remodeling-bids-when-one-estimate-is-much-lower-than-t",
+  "name": "How do I compare bathroom remodeling bids that look very different?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I compare bathroom remodeling bids when one estimate is much lower than the others?",
+    "text": "How do I compare bathroom remodeling bids when one estimate is much lower than the others?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When bids vary widely, the first step is to compare the scope, not the total number. One contractor may include permits, waterproofing, inspections, and finish details, while another may leave those items out or treat them as allowances. Homeowners should check whether each bid covers the same demolition, plumbing, electrical, tile, cabinetry, fixtures, cleanup, and final punch list. It is also important to verify whether products are named specifically or just described as allowances, because low allowances can make a bid look cheaper than it really is. In Los Angeles, hidden conditions can also create real differences in risk tolerance between contractors. The best bid is usually the one that is complete, clear, and realistic, even if it is not the lowest. Ask each contractor what is excluded and what would trigger a change order. If a price is far below the others, assume something is missing until proven otherwise.",
+      "@type": "Answer",
+      "description": "Compare bids line by line, not by total price alone. Look at scope, materials, permits, demolition, waterproofing, plumbing, electrical, and exclusions. A lower bid often omits items that become expensive later, so the cheapest estimate is not always the best value.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When bids vary widely, the first step is to compare the scope, not the total number. One contractor may include permits, waterproofing, inspections, and finish details, while another may leave those items out or treat them as allowances. Homeowners should check whether each bid covers the same demolition, plumbing, electrical, tile, cabinetry, fixtures, cleanup, and final punch list. It is also important to verify whether products are named specifically or just described as allowances, because low allowances can make a bid look cheaper than it really is. In Los Angeles, hidden conditions can also create real differences in risk tolerance between contractors. The best bid is usually the one that is complete, clear, and realistic, even if it is not the lowest. Ask each contractor what is excluded and what would trigger a change order. If a price is far below the others, assume something is missing until proven otherwise.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids line by line, not by total price alone. Look at scope, materials, permits, demolition, waterproofing, plumbing, electrical, and exclusions. A lower"
+}
