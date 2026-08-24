@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-lifespan-of-a-custom-kitchen",
+  "name": "What is the typical lifespan of a custom kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a custom kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and expertly constructed custom kitchen, utilizing high-quality materials and professional-grade appliances, can last for 20 to 30 years or even longer. The longevity depends on the durability of the chosen finishes, the quality of cabinetry construction, and regular maintenance. Opus Builders focuses on timeless design and durable materials, ensuring your custom kitchen remains both beautiful and functional for decades, providing a lasting investment in your home.",
+        "@type": "Answer",
+        "description": "A high-quality custom kitchen can last 20-30 years or more, depending on material durability, construction quality, and maintenance."
+      }
+    }
+  ],
+  "description": "A high-quality custom kitchen can last 20-30 years or more, depending on material durability, construction quality, and maintenance."
+}

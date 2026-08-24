@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-a-luxury-kitchen-remodel-in-the-los-angeles-are",
+  "name": "What is the typical timeline for a luxury kitchen remodel in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a luxury kitchen remodel in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a luxury kitchen remodel varies depending on the project's scope, custom features, and material selections. Generally, the design phase can take 4-8 weeks, followed by 2-4 weeks for material procurement. Construction itself typically spans 8-16 weeks. Factors such as unforeseen structural issues, custom cabinetry lead times, and permitting processes in Los Angeles, Glendale, or Pasadena can influence the overall duration. We provide a detailed project schedule upfront to set clear expectations.",
+        "@type": "Answer",
+        "description": "A luxury kitchen remodel typically takes 4-8 weeks for design, 2-4 weeks for material procurement, and 8-16 weeks for construction, depending on project complexity and permitting."
+      }
+    }
+  ],
+  "description": "A luxury kitchen remodel typically takes 4-8 weeks for design, 2-4 weeks for material procurement, and 8-16 weeks for construction, depending on project complex"
+}

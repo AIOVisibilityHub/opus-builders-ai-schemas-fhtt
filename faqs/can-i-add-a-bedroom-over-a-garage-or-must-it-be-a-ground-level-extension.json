@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-add-a-bedroom-over-a-garage-or-must-it-be-a-ground-level-extension",
+  "name": "Can I add a bedroom over a garage or must it be a ground-level extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bedroom over a garage or must it be a ground-level extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can add a bedroom either as a ground-level extension or as a second-story addition, such as over a garage. Adding over a garage is often more cost-effective as it utilizes existing foundation and saves yard space. However, it requires careful structural analysis to ensure the existing foundation and walls can support the new weight. Ground-level extensions offer more design flexibility regarding direct outdoor access but consume more land. The best approach depends on your property layout, budget, and desired outcome, which we assess during initial consultations.",
+        "@type": "Answer",
+        "description": "Both ground-level and second-story additions (like over a garage) are possible for a bedroom. Over-garage additions save space but require structural checks; ground-level offers more design flexibility."
+      }
+    }
+  ],
+  "description": "Both ground-level and second-story additions (like over a garage) are possible for a bedroom. Over-garage additions save space but require structural checks; gr"
+}

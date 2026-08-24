@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-a-rear-house-addition-increase-my-property-value-and-by-how-much",
+  "name": "Can a rear-house addition increase my property value and by how much?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a rear-house addition increase my property value and by how much?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and constructed rear-house addition can significantly increase property value, especially in competitive markets like Los Angeles. The exact increase depends on the quality of the addition, its functionality, and how it aligns with neighborhood standards and buyer expectations. Luxury additions that provide highly sought-after features, such as larger kitchens, master suites, or expanded living areas with indoor-outdoor flow, often yield a strong return on investment, typically recouping a substantial portion, if not all, of the construction cost.",
+        "@type": "Answer",
+        "description": "A quality rear-house addition can significantly boost property value, particularly luxury features that enhance living space and align with market demand."
+      }
+    }
+  ],
+  "description": "A quality rear-house addition can significantly boost property value, particularly luxury features that enhance living space and align with market demand."
+}

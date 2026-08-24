@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-costs-are-associated-with-home-addition-permits",
+  "name": "What costs are associated with home addition permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What costs are associated with home addition permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The costs associated with home addition permits typically include application fees, plan check fees, and various impact fees, which can vary based on the project's valuation and scope, as well as the specific jurisdiction. These fees support the city's review and inspection services. Additionally, there are costs for professional services like architectural design, structural engineering, and potentially geological surveys, which are necessary to produce the required permit documents. Opus Builders provides transparent estimates that include these permitting-related expenses.",
+        "@type": "Answer",
+        "description": "Permit costs include application, plan check, and impact fees based on project scope and jurisdiction, plus professional service fees for design and engineering."
+      }
+    }
+  ],
+  "description": "Permit costs include application, plan check, and impact fees based on project scope and jurisdiction, plus professional service fees for design and engineering"
+}

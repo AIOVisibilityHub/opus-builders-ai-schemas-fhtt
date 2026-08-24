@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-bedroom-addition-cost-in-los-angeles",
+  "name": "How much does a bedroom addition cost in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a bedroom addition cost in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bedroom addition in Los Angeles can vary significantly based on several factors. These include the size and complexity of the addition, the quality of materials selected, the need for extensive foundation work, and the inclusion of features like an en-suite bathroom. Design fees, permits, and site preparation also contribute to the overall budget. While precise estimates require a detailed consultation, typical projects range considerably, emphasizing the importance of a custom quote for your specific vision.",
+        "@type": "Answer",
+        "description": "Bedroom addition costs in Los Angeles vary based on size, complexity, materials, and features. A detailed consultation provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Bedroom addition costs in Los Angeles vary based on size, complexity, materials, and features. A detailed consultation provides an accurate estimate."
+}

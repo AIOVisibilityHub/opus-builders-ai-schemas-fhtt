@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-considerations-are-unique-to-rear-house-additions-on-sloped-lots-in-the-hol",
+  "name": "What considerations are unique to rear-house additions on sloped lots in the Hollywood Hills or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are unique to rear-house additions on sloped lots in the Hollywood Hills or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rear-house additions on sloped lots, common in areas like the Hollywood Hills, Pasadena, or La Cañada Flintridge, present unique challenges and opportunities. Considerations include complex foundation engineering, retaining wall requirements, managing drainage, and maximizing views. The design must carefully integrate with the natural topography, potentially incorporating multi-level spaces or decks. These projects often require specialized expertise in geotechnical surveys, structural engineering, and navigating hillside ordinances to ensure stability and compliance with local regulations.",
+        "@type": "Answer",
+        "description": "Sloped lots require specialized foundation engineering, drainage management, and adherence to hillside ordinances, often leading to multi-level designs and complex site integration."
+      }
+    }
+  ],
+  "description": "Sloped lots require specialized foundation engineering, drainage management, and adherence to hillside ordinances, often leading to multi-level designs and comp"
+}

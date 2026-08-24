@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-a-primary-bathroom-remodel-in-glendale",
+  "name": "Do I need permits for a primary bathroom remodel in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a primary bathroom remodel in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most primary bathroom remodels in Glendale, permits are required, especially if the project involves altering the structural integrity, changing the footprint of the room, relocating plumbing or electrical fixtures, or making significant changes to the ventilation system. Cosmetic updates like painting or replacing existing fixtures in their original locations typically do not require permits. We handle all necessary permit applications and ensure your remodel complies with Glendale's local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Most primary bathroom remodels in Glendale require permits for structural, plumbing, electrical, or significant layout changes. Cosmetic updates usually do not."
+      }
+    }
+  ],
+  "description": "Most primary bathroom remodels in Glendale require permits for structural, plumbing, electrical, or significant layout changes. Cosmetic updates usually do not."
+}

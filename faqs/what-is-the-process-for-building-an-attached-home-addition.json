@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-building-an-attached-home-addition",
+  "name": "What is the process for building an attached home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for building an attached home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation and site assessment to discuss your vision and feasibility. This is followed by design and architectural planning, where detailed blueprints are created. Next, permits are secured from local authorities, which can be a lengthy step. Construction then commences, involving foundation work, framing, roofing, utility installations, and finishing touches. The project concludes with final inspections and handover.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, construction (foundation, framing, utilities, finishes), and final inspections."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, construction (foundation, framing, utilities, finishes), and final inspections."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-high-end-kitchen-remodel-typically-cost-in-southern-california",
+  "name": "How much does a high-end kitchen remodel typically cost in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a high-end kitchen remodel typically cost in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a high-end kitchen remodel in Southern California can vary significantly based on size, materials, appliances, and custom features. A full luxury remodel typically starts from $100,000 and can exceed $250,000 for expansive, highly customized projects. Factors influencing cost include custom cabinetry, premium countertops, professional-grade appliances, structural changes, and specialized finishes. We provide a detailed, transparent estimate after the design phase, outlining all expenses.",
+        "@type": "Answer",
+        "description": "High-end kitchen remodels in Southern California typically start from $100,000 and can exceed $250,000, depending on size, materials, and customization."
+      }
+    }
+  ],
+  "description": "High-end kitchen remodels in Southern California typically start from $100,000 and can exceed $250,000, depending on size, materials, and customization."
+}

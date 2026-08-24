@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-needed-for-a-bedroom-addition-in-southern-california",
+  "name": "What permits are needed for a bedroom addition in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a bedroom addition in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a bedroom addition in Southern California, you will typically need several permits from your local building department, such as in Los Angeles or Glendale. These usually include a building permit for structural changes, electrical permits for wiring, mechanical permits for HVAC systems, and plumbing permits if new fixtures or lines are added. Obtaining these permits involves submitting detailed architectural plans for review to ensure compliance with zoning ordinances, safety regulations, and the California Building Code. Our team handles the entire permit acquisition process for you.",
+        "@type": "Answer",
+        "description": "Bedroom additions in Southern California require building, electrical, mechanical, and plumbing permits from local authorities. We manage the permit acquisition process."
+      }
+    }
+  ],
+  "description": "Bedroom additions in Southern California require building, electrical, mechanical, and plumbing permits from local authorities. We manage the permit acquisition"
+}

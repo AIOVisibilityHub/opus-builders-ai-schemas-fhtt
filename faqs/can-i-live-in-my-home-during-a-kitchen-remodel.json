@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-live-in-my-home-during-a-kitchen-remodel",
+  "name": "Can I live in my home during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during a kitchen remodel is possible but requires careful planning and flexibility. We strive to minimize disruption by containing construction dust and debris, setting up temporary kitchen solutions, and maintaining a clean work environment. However, access to your kitchen will be limited or unavailable for periods, and there will be noise from construction. We discuss strategies to make the process as comfortable as possible for your household during the planning phase.",
+        "@type": "Answer",
+        "description": "Living at home during a kitchen remodel is possible with careful planning, though kitchen access will be limited and there will be construction noise and dust."
+      }
+    }
+  ],
+  "description": "Living at home during a kitchen remodel is possible with careful planning, though kitchen access will be limited and there will be construction noise and dust."
+}

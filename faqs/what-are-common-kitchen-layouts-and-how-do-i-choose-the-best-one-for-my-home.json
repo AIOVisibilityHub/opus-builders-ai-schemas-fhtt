@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-common-kitchen-layouts-and-how-do-i-choose-the-best-one-for-my-home",
+  "name": "What are common kitchen layouts, and how do I choose the best one for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common kitchen layouts, and how do I choose the best one for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen layouts include the L-shaped, U-shaped, galley, and single-wall designs, often combined with an island. Choosing the best layout depends on your home's architecture, available space, lifestyle, and cooking habits. An L-shaped or U-shaped kitchen offers ample counter and storage space, suitable for larger families. Galley kitchens are efficient for smaller spaces, while a single-wall layout works well in open-concept homes. Our designers can help evaluate your needs and space to recommend the most functional and aesthetically pleasing option.",
+        "@type": "Answer",
+        "description": "Common layouts include L-shaped, U-shaped, galley, and single-wall. The best choice depends on your space, lifestyle, and cooking habits; designers can guide this decision."
+      }
+    }
+  ],
+  "description": "Common layouts include L-shaped, U-shaped, galley, and single-wall. The best choice depends on your space, lifestyle, and cooking habits; designers can guide th"
+}

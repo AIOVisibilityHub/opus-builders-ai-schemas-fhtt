@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-an-attached-home-addition",
+  "name": "What is an attached home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an attached home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached home addition is a new structure physically connected to an existing house, expanding its square footage. This can include adding new rooms like bedrooms, bathrooms, family rooms, or even a second story. Unlike detached structures, attached additions share walls and often utilities with the original home, creating a seamless transition and integrated living space. They are a common way to increase living area and property value without moving.",
+        "@type": "Answer",
+        "description": "An attached home addition is a new structure physically connected to an existing house, expanding its square footage and integrating with its design."
+      }
+    }
+  ],
+  "description": "An attached home addition is a new structure physically connected to an existing house, expanding its square footage and integrating with its design."
+}

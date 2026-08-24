@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-key-stages-of-a-kitchen-remodeling-project-with-opus-builders",
+  "name": "What are the key stages of a kitchen remodeling project with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key stages of a kitchen remodeling project with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our kitchen remodeling process begins with an initial consultation to understand your vision and needs. This is followed by a detailed design phase, including space planning, material selection, and 3D renderings. Once the design is approved, we handle all necessary permits. The construction phase involves demolition, structural work (if needed), plumbing and electrical rough-ins, cabinetry installation, countertop fabrication, appliance installation, and final finishing touches. Throughout, we maintain open communication and rigorous quality control.",
+        "@type": "Answer",
+        "description": "Our process includes initial consultation, detailed design, permitting, demolition, construction (plumbing, electrical, cabinetry, countertops, appliances), and final finishing, with continuous communication."
+      }
+    }
+  ],
+  "description": "Our process includes initial consultation, detailed design, permitting, demolition, construction (plumbing, electrical, cabinetry, countertops, appliances), and"
+}

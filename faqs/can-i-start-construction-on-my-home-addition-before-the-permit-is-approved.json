@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-start-construction-on-my-home-addition-before-the-permit-is-approved",
+  "name": "Can I start construction on my home addition before the permit is approved?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I start construction on my home addition before the permit is approved?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, it is strongly advised not to start construction on your home addition before receiving full permit approval. Beginning work without a valid permit can lead to significant problems, including stop-work orders, fines, mandatory demolition of unpermitted work, and difficulties selling your home in the future. Unpermitted work also typically isn't covered by homeowner's insurance. Always wait for the official permit to be issued and posted on-site before any construction begins.",
+        "@type": "Answer",
+        "description": "No, starting construction without a permit can lead to stop-work orders, fines, demolition, and insurance issues. Always wait for official approval."
+      }
+    }
+  ],
+  "description": "No, starting construction without a permit can lead to stop-work orders, fines, demolition, and insurance issues. Always wait for official approval."
+}

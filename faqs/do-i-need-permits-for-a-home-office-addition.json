@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-a-home-office-addition",
+  "name": "Do I need permits for a home office addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a home office addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, almost all home office additions require permits from your local building department, such as the City of Los Angeles Department of Building and Safety or similar departments in Glendale or Pasadena. Permits ensure that the construction meets safety codes, zoning regulations, and structural requirements. The permitting process involves submitting detailed architectural plans, and inspections are conducted at various stages of construction. As your builder, we handle the entire permitting process on your behalf, ensuring compliance and a smooth project flow.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for home office additions to ensure compliance with local building codes and zoning regulations. We manage the entire permitting process."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for home office additions to ensure compliance with local building codes and zoning regulations. We manage the entire permitting proce"
+}

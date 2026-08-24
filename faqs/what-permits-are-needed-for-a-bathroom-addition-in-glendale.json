@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-needed-for-a-bathroom-addition-in-glendale",
+  "name": "What permits are needed for a bathroom addition in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a bathroom addition in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Glendale, adding a bathroom typically requires building permits from the City of Glendale's Building and Safety Division. These permits ensure that the new construction complies with local zoning ordinances, building codes, and safety standards. You'll likely need permits for plumbing, electrical, and structural work. Our process includes managing all necessary permit applications and inspections to ensure your bathroom addition is fully compliant, avoiding potential delays or issues with local authorities. Proper permitting is essential for the safety and legality of your project.",
+        "@type": "Answer",
+        "description": "Adding a bathroom in Glendale requires building permits from the City's Building and Safety Division for plumbing, electrical, and structural work. We handle permit applications and inspections for compliance."
+      }
+    }
+  ],
+  "description": "Adding a bathroom in Glendale requires building permits from the City's Building and Safety Division for plumbing, electrical, and structural work. We handle pe"
+}

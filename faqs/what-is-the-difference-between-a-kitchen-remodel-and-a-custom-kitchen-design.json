@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-kitchen-remodel-and-a-custom-kitchen-design",
+  "name": "What is the difference between a kitchen remodel and a custom kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen remodel and a custom kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel often involves updating existing layouts with new finishes, appliances, and cabinetry while largely maintaining the original footprint. A custom kitchen design, however, is a more comprehensive process that can involve significant structural changes, reconfiguring the layout entirely, and creating bespoke elements tailored specifically to your exact needs and preferences. Custom design offers complete freedom in aesthetics and functionality, resulting in a unique, purpose-built space.",
+        "@type": "Answer",
+        "description": "A remodel updates an existing kitchen, while a custom design allows for complete transformation, including structural changes and bespoke elements tailored to your specific needs."
+      }
+    }
+  ],
+  "description": "A remodel updates an existing kitchen, while a custom design allows for complete transformation, including structural changes and bespoke elements tailored to y"
+}

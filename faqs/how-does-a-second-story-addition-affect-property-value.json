@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-a-second-story-addition-affect-property-value",
+  "name": "How does a second-story addition affect property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a second-story addition affect property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and constructed second-story addition can significantly enhance your property's value, particularly in high-demand markets like those across Los Angeles. By adding square footage, bedrooms, and bathrooms, you increase the home's functionality and appeal. Luxury additions built with quality materials and thoughtful design integrate seamlessly, offering a strong return on investment and elevating your home's standing in the luxury real estate market.",
+        "@type": "Answer",
+        "description": "A quality second-story addition significantly increases property value by adding living space and enhancing appeal, offering a strong return on investment."
+      }
+    }
+  ],
+  "description": "A quality second-story addition significantly increases property value by adding living space and enhancing appeal, offering a strong return on investment."
+}

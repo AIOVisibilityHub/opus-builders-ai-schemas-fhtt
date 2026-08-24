@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-home-addition-permit-and-why-do-i-need-one",
+  "name": "What is a home addition permit and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a home addition permit and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home addition permit is official approval from your local city or county building department to proceed with construction that expands the footprint or changes the structure of your home. It ensures that your project complies with zoning laws, building codes, and safety standards. Obtaining a permit is crucial for safety, protecting your property value, and avoiding potential legal and financial issues, such as fines, demolition orders, or difficulties selling your home in the future. Opus Builders guides clients through this permitting process to ensure compliance.",
+        "@type": "Answer",
+        "description": "A home addition permit is official approval from your local building department for construction that expands your home, ensuring compliance with safety and building codes."
+      }
+    }
+  ],
+  "description": "A home addition permit is official approval from your local building department for construction that expands your home, ensuring compliance with safety and bui"
+}

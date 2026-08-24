@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-zoning-regulations-for-home-office-additions-in-pasadena",
+  "name": "What are the zoning regulations for home office additions in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the zoning regulations for home office additions in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zoning regulations for home office additions in Pasadena are managed by the City of Pasadena Planning & Community Development Department. These regulations typically dictate setbacks from property lines, maximum allowable height, lot coverage, and architectural review requirements, especially for properties in historic districts or specific overlay zones. Certain neighborhoods may have stricter guidelines. Understanding these specific local requirements is crucial for project approval. Our team is experienced in navigating Pasadena's zoning ordinances and will ensure your design complies with all local regulations before submitting for permits.",
+        "@type": "Answer",
+        "description": "Pasadena's zoning regulations for home office additions cover setbacks, height, and lot coverage, with specific rules for historic areas. Our team handles compliance."
+      }
+    }
+  ],
+  "description": "Pasadena's zoning regulations for home office additions cover setbacks, height, and lot coverage, with specific rules for historic areas. Our team handles compl"
+}

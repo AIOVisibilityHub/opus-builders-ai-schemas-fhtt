@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-types-of-home-extensions-are-most-common-in-los-angeles",
+  "name": "What types of home extensions are most common in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home extensions are most common in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, popular home extensions often involve expanding living areas like family rooms, adding new bedrooms or bathrooms, or creating dedicated home offices. Second-story additions are also common to maximize space on smaller lots. Clients frequently seek to enhance indoor-outdoor living, integrating their extensions with patios, decks, or new pools. The choice typically depends on the homeowner's specific needs, existing property layout, and local zoning regulations, which Opus Builders can help navigate.",
+        "@type": "Answer",
+        "description": "Common home extensions in Los Angeles include expanding living areas, adding bedrooms or bathrooms, second-story additions, and integrating indoor-outdoor living spaces."
+      }
+    }
+  ],
+  "description": "Common home extensions in Los Angeles include expanding living areas, adding bedrooms or bathrooms, second-story additions, and integrating indoor-outdoor livin"
+}

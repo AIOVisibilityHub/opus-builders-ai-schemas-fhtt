@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-bump-out-and-a-full-attached-addition",
+  "name": "What is the difference between a bump-out and a full attached addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bump-out and a full attached addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bump-out is a small attached addition that extends a room slightly, typically without extending the foundation or roofline significantly. It's often used to add a bay window, expand a pantry, or create a small nook. A full attached addition, however, involves expanding the foundation, framing new walls, and often extending the roofline to create entirely new rooms or a substantial increase in living space, requiring more extensive structural work.",
+        "@type": "Answer",
+        "description": "A bump-out is a small extension, while a full attached addition creates new rooms and involves more significant structural and foundation work."
+      }
+    }
+  ],
+  "description": "A bump-out is a small extension, while a full attached addition creates new rooms and involves more significant structural and foundation work."
+}

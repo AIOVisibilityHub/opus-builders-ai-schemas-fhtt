@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-the-structural-assessment-for-removing-a-wall-in-a-kitchen-c",
+  "name": "What is involved in the structural assessment for removing a wall in a kitchen conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the structural assessment for removing a wall in a kitchen conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before removing any wall for an open-concept kitchen conversion, a thorough structural assessment is crucial. This involves inspecting whether the wall is load-bearing, which means it supports the weight of floors or the roof above. A structural engineer will evaluate the existing framework, determine if additional support, such as a new beam or column, is required, and specify the necessary modifications to ensure the home's safety and integrity. This assessment is a critical first step in the design and planning phase.",
+        "@type": "Answer",
+        "description": "A structural assessment determines if a wall is load-bearing and outlines necessary supports, like beams, to ensure home safety during a kitchen conversion."
+      }
+    }
+  ],
+  "description": "A structural assessment determines if a wall is load-bearing and outlines necessary supports, like beams, to ensure home safety during a kitchen conversion."
+}

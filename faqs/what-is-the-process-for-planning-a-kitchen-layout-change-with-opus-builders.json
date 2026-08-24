@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-planning-a-kitchen-layout-change-with-opus-builders",
+  "name": "What is the process for planning a kitchen layout change with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for planning a kitchen layout change with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for planning a kitchen layout change begins with an initial consultation to understand your vision, needs, and budget. Next, our design team develops conceptual plans and 3D renderings to visualize the proposed layout. We refine these designs based on your feedback until the perfect plan is achieved. Following design approval, we handle all necessary permitting, material selections, and project scheduling. Our experienced project managers then oversee the construction, ensuring quality craftsmanship and clear communication throughout the renovation.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design with 3D renderings, revisions, permitting, material selection, and expert construction management through to completion."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design with 3D renderings, revisions, permitting, material selection, and expert construction management through to completio"
+}

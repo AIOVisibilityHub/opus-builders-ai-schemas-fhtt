@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-range-for-a-luxury-kitchen-remodel-in-los-angeles",
+  "name": "What is the typical cost range for a luxury kitchen remodel in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a luxury kitchen remodel in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury kitchen remodel in the Los Angeles area can vary significantly based on factors such as the size of the kitchen, the extent of structural changes, and the quality of materials and appliances chosen. A high-end remodel often involves custom cabinetry, premium countertops like natural stone or high-performance composites, professional-grade appliances, and custom lighting. While a precise figure depends on the specific design, expect a substantial investment that reflects superior craftsmanship and materials, typically ranging from $75,000 to over $200,000 for a luxury project.",
+        "@type": "Answer",
+        "description": "Luxury kitchen remodels in Los Angeles typically range from $75,000 to over $200,000, depending on size, structural changes, and material choices."
+      }
+    }
+  ],
+  "description": "Luxury kitchen remodels in Los Angeles typically range from $75,000 to over $200,000, depending on size, structural changes, and material choices."
+}

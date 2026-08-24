@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-high-end-bathroom-remodel-project-usually-take",
+  "name": "How long does a high-end bathroom remodel project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a high-end bathroom remodel project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a high-end bathroom remodel depends on its complexity and scale. A typical luxury project, involving custom designs, material sourcing, and detailed craftsmanship, can take anywhere from 6 to 12 weeks from demolition to final completion. Factors like structural modifications, custom fabrication, and unforeseen conditions can extend this duration. We provide a detailed project schedule at the outset, keeping you informed of progress at every stage.",
+        "@type": "Answer",
+        "description": "A high-end bathroom remodel typically takes 6 to 12 weeks, depending on complexity and custom elements."
+      }
+    }
+  ],
+  "description": "A high-end bathroom remodel typically takes 6 to 12 weeks, depending on complexity and custom elements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-cosmetic-and-a-full-bathroom-renovation",
+  "name": "What is the difference between a cosmetic and a full bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a cosmetic and a full bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cosmetic bathroom renovation focuses on aesthetic upgrades without altering the layout or structural elements, such as painting, replacing fixtures, or updating tile. It's generally less intrusive and quicker. A full bathroom renovation, conversely, involves significant changes, including reconfiguring the layout, moving plumbing or electrical, replacing structural components, and often expanding the space. Full renovations offer a complete transformation and usually require more time, budget, and permitting due to their comprehensive nature.",
+        "@type": "Answer",
+        "description": "Cosmetic renovations update aesthetics without changing layout or structure. Full renovations involve significant layout, plumbing, and electrical changes, offering a complete transformation."
+      }
+    }
+  ],
+  "description": "Cosmetic renovations update aesthetics without changing layout or structure. Full renovations involve significant layout, plumbing, and electrical changes, offe"
+}

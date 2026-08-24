@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-changing-my-kitchen-layout-in-los-angeles",
+  "name": "Do I need permits for changing my kitchen layout in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for changing my kitchen layout in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, major kitchen layout changes in Los Angeles typically require permits from the Department of Building and Safety (LADBS). This includes modifications involving structural alterations, moving plumbing lines, or significant electrical work. Permits ensure that the renovation adheres to safety codes and local building regulations. Opus Builders manages the entire permitting process on your behalf, preparing and submitting all necessary documentation to secure approvals before construction begins, ensuring compliance and a smooth project flow.",
+        "@type": "Answer",
+        "description": "Yes, major kitchen layout changes in Los Angeles, especially those involving structural, plumbing, or electrical work, require permits from LADBS. We handle the permitting process."
+      }
+    }
+  ],
+  "description": "Yes, major kitchen layout changes in Los Angeles, especially those involving structural, plumbing, or electrical work, require permits from LADBS. We handle the"
+}

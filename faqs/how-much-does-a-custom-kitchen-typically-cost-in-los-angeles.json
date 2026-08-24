@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-custom-kitchen-typically-cost-in-los-angeles",
+  "name": "How much does a custom kitchen typically cost in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom kitchen typically cost in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom kitchen in Los Angeles varies significantly based on size, complexity, materials, and appliances. While a basic renovation might start lower, a luxury custom kitchen, characteristic of Opus Builders' projects, can range from $75,000 to well over $200,000. This estimate includes design fees, high-end cabinetry, premium countertops, professional-grade appliances, and expert installation. We provide a detailed, transparent quote after understanding your specific requirements.",
+        "@type": "Answer",
+        "description": "Custom kitchen costs in Los Angeles vary widely, typically ranging from $75,000 to over $200,000 for luxury designs, depending on materials and scope."
+      }
+    }
+  ],
+  "description": "Custom kitchen costs in Los Angeles vary widely, typically ranging from $75,000 to over $200,000 for luxury designs, depending on materials and scope."
+}

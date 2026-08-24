@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-completing-a-family-room-addition-project",
+  "name": "What is the typical timeline for completing a family room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for completing a family room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a family room addition project generally spans several months, from initial design to final construction. Design and permitting can take 2-4 months, depending on the complexity and local city planning department (e.g., Los Angeles, Pasadena, Glendale). Construction itself usually takes 3-6 months, influenced by the addition's size, material availability, and weather conditions. We establish a detailed project schedule upfront to keep you informed of every phase and ensure timely completion.",
+        "@type": "Answer",
+        "description": "The typical timeline for a family room addition, including design, permitting, and construction, can range from 5 to 10 months, depending on project complexity and local regulations."
+      }
+    }
+  ],
+  "description": "The typical timeline for a family room addition, including design, permitting, and construction, can range from 5 to 10 months, depending on project complexity"
+}

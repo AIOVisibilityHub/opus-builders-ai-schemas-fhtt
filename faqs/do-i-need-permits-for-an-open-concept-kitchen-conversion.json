@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-an-open-concept-kitchen-conversion",
+  "name": "Do I need permits for an open-concept kitchen conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for an open-concept kitchen conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an open-concept kitchen conversion almost always requires permits from your local building department, especially if it involves structural changes, significant plumbing or electrical work, or altering exterior walls. Permits ensure that the work complies with local building codes and safety standards. Opus Builders handles the entire permitting process, from preparing architectural plans to submitting applications and coordinating with inspectors, ensuring your project meets all regulatory requirements in areas like Pasadena or Glendale.",
+        "@type": "Answer",
+        "description": "Yes, open-concept kitchen conversions typically require permits, especially for structural, plumbing, or electrical changes, to comply with building codes."
+      }
+    }
+  ],
+  "description": "Yes, open-concept kitchen conversions typically require permits, especially for structural, plumbing, or electrical changes, to comply with building codes."
+}

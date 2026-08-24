@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-adding-a-new-bathroom-to-my-home",
+  "name": "What is involved in adding a new bathroom to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in adding a new bathroom to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a new bathroom is a comprehensive project that typically includes planning, design, structural modifications, plumbing installation, electrical work, ventilation, and finishing touches such as tiling, fixtures, and painting. It begins with assessing available space, considering the home's existing infrastructure, and designing a layout that integrates seamlessly with your property. Depending on whether you're converting an existing space or extending your home, the scope can vary significantly, requiring careful coordination of multiple trades to ensure a functional and aesthetically pleasing result.",
+        "@type": "Answer",
+        "description": "Adding a new bathroom involves design, structural work, plumbing, electrical, ventilation, and finishing, all coordinated to integrate with your home's existing infrastructure."
+      }
+    }
+  ],
+  "description": "Adding a new bathroom involves design, structural work, plumbing, electrical, ventilation, and finishing, all coordinated to integrate with your home's existing"
+}

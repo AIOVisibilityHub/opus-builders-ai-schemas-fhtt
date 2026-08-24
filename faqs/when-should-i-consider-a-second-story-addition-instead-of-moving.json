@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-a-second-story-addition-instead-of-moving",
+  "name": "When should I consider a second-story addition instead of moving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a second-story addition instead of moving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a second-story addition if you love your current location, neighborhood, or school district but need more space. It's often a cost-effective alternative to the expenses and upheaval of selling, buying, and moving, especially in desirable areas. If your lot size is limited, preventing ground-level expansion, or if you wish to significantly increase property value while staying in your beloved home, a second story is an excellent solution.",
+        "@type": "Answer",
+        "description": "Consider an addition if you need more space but want to stay in your current location, rather than incurring moving costs and hassle."
+      }
+    }
+  ],
+  "description": "Consider an addition if you need more space but want to stay in your current location, rather than incurring moving costs and hassle."
+}

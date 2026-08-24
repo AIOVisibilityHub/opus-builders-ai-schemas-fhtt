@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-latest-design-trends-for-luxury-bathrooms-in-los-angeles",
+  "name": "What are the latest design trends for luxury bathrooms in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the latest design trends for luxury bathrooms in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current luxury bathroom design trends in Los Angeles often feature a blend of sophisticated aesthetics and functionality. Popular elements include large-format natural stone slabs for walls and floors, freestanding soaking tubs as a focal point, and minimalist vanity designs with integrated lighting. Smart technology, such as digital showers and intelligent toilets, is also gaining traction. Additionally, eco-friendly materials and designs that prioritize natural light and a spa-like ambiance are highly sought after.",
+        "@type": "Answer",
+        "description": "Latest luxury bathroom design trends in Los Angeles include natural stone, freestanding tubs, minimalist vanities, smart technology, and eco-friendly, spa-like aesthetics."
+      }
+    }
+  ],
+  "description": "Latest luxury bathroom design trends in Los Angeles include natural stone, freestanding tubs, minimalist vanities, smart technology, and eco-friendly, spa-like"
+}

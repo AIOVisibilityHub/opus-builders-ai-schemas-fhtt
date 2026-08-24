@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-take-to-complete-a-second-story-addition",
+  "name": "How long does it take to complete a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a second-story addition typically ranges from 8 to 14 months, from initial design through final completion. This duration can vary based on project complexity, the extent of interior renovations, material selection, and permitting timelines with local authorities in areas like Glendale or Pasadena. We work diligently to adhere to projected schedules while ensuring the highest quality craftsmanship and attention to detail.",
+        "@type": "Answer",
+        "description": "A second-story addition generally takes 8 to 14 months, depending on complexity, design, and local permitting processes."
+      }
+    }
+  ],
+  "description": "A second-story addition generally takes 8 to 14 months, depending on complexity, design, and local permitting processes."
+}

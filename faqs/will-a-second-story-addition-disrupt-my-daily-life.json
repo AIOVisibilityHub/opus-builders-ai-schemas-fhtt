@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/will-a-second-story-addition-disrupt-my-daily-life",
+  "name": "Will a second-story addition disrupt my daily life?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a second-story addition disrupt my daily life?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While any major construction project involves some disruption, we strive to minimize its impact on your daily life. Our team implements strategies like establishing clear work zones, maintaining a clean site, and scheduling noisy activities at appropriate times. In some cases, temporary relocation might be recommended during intensive phases like roofing or utility tie-ins, but often, residents can remain in their homes with proper planning and communication.",
+        "@type": "Answer",
+        "description": "Some disruption is expected, but we minimize it through careful planning and communication. Temporary relocation may be advised during intensive phases."
+      }
+    }
+  ],
+  "description": "Some disruption is expected, but we minimize it through careful planning and communication. Temporary relocation may be advised during intensive phases."
+}

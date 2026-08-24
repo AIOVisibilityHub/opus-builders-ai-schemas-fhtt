@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-second-story-addition",
+  "name": "What is a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second-story addition involves building a new level directly on top of an existing single-story home. This significantly increases living space without expanding the building's footprint, making it an ideal solution for properties with limited lot size or zoning restrictions. It can include new bedrooms, bathrooms, family rooms, or a master suite, tailored to complement the existing architectural style and integrate seamlessly with the original structure.",
+        "@type": "Answer",
+        "description": "A second-story addition builds a new level atop an existing single-story home to increase living space without expanding the footprint."
+      }
+    }
+  ],
+  "description": "A second-story addition builds a new level atop an existing single-story home to increase living space without expanding the footprint."
+}

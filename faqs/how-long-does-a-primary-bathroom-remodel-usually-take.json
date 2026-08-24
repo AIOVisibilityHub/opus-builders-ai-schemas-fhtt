@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-primary-bathroom-remodel-usually-take",
+  "name": "How long does a primary bathroom remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a primary bathroom remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a primary bathroom remodel can vary significantly based on its complexity and the extent of the changes. A minor cosmetic update might take 2-4 weeks, while a more extensive renovation involving layout changes, custom cabinetry, or structural modifications could span 6-12 weeks or longer. Factors like material lead times, permitting processes in areas like Los Angeles, and unexpected discoveries during demolition can also influence the timeline. We provide a detailed project schedule upfront, factoring in all these variables.",
+        "@type": "Answer",
+        "description": "Primary bathroom remodels typically take 2-12 weeks, depending on complexity, material lead times, and permitting processes."
+      }
+    }
+  ],
+  "description": "Primary bathroom remodels typically take 2-12 weeks, depending on complexity, material lead times, and permitting processes."
+}

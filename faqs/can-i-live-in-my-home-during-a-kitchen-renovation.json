@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-live-in-my-home-during-a-kitchen-renovation",
+  "name": "Can I live in my home during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible to live in your home during a kitchen renovation, it requires careful planning and a degree of flexibility. The kitchen will be largely unusable for cooking and cleaning for a significant period. Opus Builders takes measures to minimize disruption, such as sealing off work areas to contain dust and providing temporary utility setups when feasible. Many clients choose to set up a temporary functional kitchen elsewhere in their home or plan for dining out and takeout during the most intensive phases.",
+        "@type": "Answer",
+        "description": "Living in your home during a kitchen renovation is possible but requires flexibility, as the kitchen will be unusable. We work to minimize disruption."
+      }
+    }
+  ],
+  "description": "Living in your home during a kitchen renovation is possible but requires flexibility, as the kitchen will be unusable. We work to minimize disruption."
+}

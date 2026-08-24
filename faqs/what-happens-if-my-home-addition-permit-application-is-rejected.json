@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-happens-if-my-home-addition-permit-application-is-rejected",
+  "name": "What happens if my home addition permit application is rejected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if my home addition permit application is rejected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your home addition permit application is rejected, it usually means there are specific issues or non-compliances identified by the planning or building department. This isn't necessarily the end of the project. You will typically receive a detailed list of corrections required. Your architect and builder will then revise the plans to address these concerns, and the updated application will be resubmitted for review. Understanding the reasons for rejection and making prompt, accurate revisions are key to eventual approval. Opus Builders helps navigate these revisions efficiently.",
+        "@type": "Answer",
+        "description": "If a permit application is rejected, it means there are identified issues. You'll receive a list of corrections, requiring revised plans and resubmission for approval."
+      }
+    }
+  ],
+  "description": "If a permit application is rejected, it means there are identified issues. You'll receive a list of corrections, requiring revised plans and resubmission for ap"
+}

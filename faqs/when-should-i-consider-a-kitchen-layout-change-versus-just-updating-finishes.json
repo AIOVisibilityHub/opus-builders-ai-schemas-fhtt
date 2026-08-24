@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-a-kitchen-layout-change-versus-just-updating-finishes",
+  "name": "When should I consider a kitchen layout change versus just updating finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a kitchen layout change versus just updating finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a full kitchen layout change if your current space is fundamentally inefficient, lacks proper workflow, feels cramped, or doesn't align with your desired open-concept living. If you find yourself consistently frustrated by the placement of appliances, insufficient counter space, or poor traffic flow, a layout modification is likely warranted. Conversely, if the layout works well but the aesthetics are dated, simply updating finishes, such as cabinets, countertops, and backsplashes, might be sufficient.",
+        "@type": "Answer",
+        "description": "Opt for a layout change if your kitchen's fundamental structure or flow is inefficient. Update finishes if only the aesthetics are dated and the layout functions well."
+      }
+    }
+  ],
+  "description": "Opt for a layout change if your kitchen's fundamental structure or flow is inefficient. Update finishes if only the aesthetics are dated and the layout function"
+}

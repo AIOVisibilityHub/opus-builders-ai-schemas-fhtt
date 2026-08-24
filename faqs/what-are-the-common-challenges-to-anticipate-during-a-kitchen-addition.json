@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-common-challenges-to-anticipate-during-a-kitchen-addition",
+  "name": "What are the common challenges to anticipate during a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges to anticipate during a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges during a kitchen addition include unexpected structural issues in the existing home, delays in permit approvals, changes to design plans mid-project, and material lead times. Weather can also impact construction schedules. Effective communication with your builder, detailed planning, and a contingency budget are essential to navigate these challenges smoothly. Opus Builders proactively addresses potential issues to minimize disruptions and keep the project on track.",
+        "@type": "Answer",
+        "description": "Anticipate challenges like structural issues, permit delays, design changes, and material lead times; planning and communication are key."
+      }
+    }
+  ],
+  "description": "Anticipate challenges like structural issues, permit delays, design changes, and material lead times; planning and communication are key."
+}

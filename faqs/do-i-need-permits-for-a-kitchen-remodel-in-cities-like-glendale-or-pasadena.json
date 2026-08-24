@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-a-kitchen-remodel-in-cities-like-glendale-or-pasadena",
+  "name": "Do I need permits for a kitchen remodel in cities like Glendale or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a kitchen remodel in cities like Glendale or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most significant kitchen remodels in Glendale, Pasadena, and other Southern California cities require permits. This includes projects involving changes to the structural layout, electrical systems, plumbing, or gas lines. Minor cosmetic updates typically do not require permits. We handle all necessary permit applications and ensure your remodel complies with local building codes and zoning regulations. Obtaining permits is a critical step to ensure safety, structural integrity, and legal compliance for your property.",
+        "@type": "Answer",
+        "description": "Most major kitchen remodels in Glendale, Pasadena, and surrounding cities require permits, especially for structural, electrical, or plumbing changes; we manage this process."
+      }
+    }
+  ],
+  "description": "Most major kitchen remodels in Glendale, Pasadena, and surrounding cities require permits, especially for structural, electrical, or plumbing changes; we manage"
+}

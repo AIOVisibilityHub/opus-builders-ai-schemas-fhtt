@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-should-i-consider-before-planning-a-home-extension",
+  "name": "What factors should I consider before planning a home extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider before planning a home extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before planning a home extension, consider your long-term needs and how the extension will enhance your lifestyle. Evaluate your budget, including a contingency for unforeseen issues. Research local zoning laws and building codes, especially regarding setbacks and height restrictions, as these vary by location. Assess your property's existing structure and lot size to determine feasibility. Also, think about the architectural style to ensure the new addition seamlessly integrates with your current home's design and value.",
+        "@type": "Answer",
+        "description": "Key factors for planning a home extension include long-term needs, budget, local zoning laws, property structure and size, and architectural integration with your existing home."
+      }
+    }
+  ],
+  "description": "Key factors for planning a home extension include long-term needs, budget, local zoning laws, property structure and size, and architectural integration with yo"
+}

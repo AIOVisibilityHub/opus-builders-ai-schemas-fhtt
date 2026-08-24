@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-side-house-addition-and-a-bump-out",
+  "name": "What is the difference between a side-house addition and a bump-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a side-house addition and a bump-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A side-house addition involves extending the main footprint of your home laterally, creating entirely new rooms or significantly expanding existing ones, typically with a new foundation and roofline integrated into the original structure. A bump-out, conversely, is a smaller extension that usually doesn't require a new foundation, often cantilevered, and is designed to expand a single room slightly, such as for a bay window, an expanded dining nook, or extra closet space. Additions are typically more substantial projects.",
+        "@type": "Answer",
+        "description": "A side-house addition significantly extends your home's footprint with new rooms, while a bump-out is a smaller, often cantilevered extension to a single room."
+      }
+    }
+  ],
+  "description": "A side-house addition significantly extends your home's footprint with new rooms, while a bump-out is a smaller, often cantilevered extension to a single room."
+}

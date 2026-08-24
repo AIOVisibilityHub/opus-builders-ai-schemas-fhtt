@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-design-process-for-a-custom-luxury-bathroom-remodel",
+  "name": "What is the typical design process for a custom luxury bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical design process for a custom luxury bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our design process for a custom luxury bathroom remodel begins with an initial consultation to understand your vision, needs, and lifestyle. Following this, our designers create conceptual plans and mood boards, incorporating material selections, fixture choices, and spatial layouts. We then develop detailed 3D renderings and construction drawings for your approval. This iterative process ensures every detail aligns with your expectations before construction begins, allowing for customization and refinement at each stage.",
+        "@type": "Answer",
+        "description": "The design process involves an initial consultation, conceptual plans, material selection, 3D renderings, and detailed drawings, ensuring alignment with your vision."
+      }
+    }
+  ],
+  "description": "The design process involves an initial consultation, conceptual plans, material selection, 3D renderings, and detailed drawings, ensuring alignment with your vi"
+}

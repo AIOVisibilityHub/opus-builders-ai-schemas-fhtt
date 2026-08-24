@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-should-i-consider-before-planning-a-home-addition",
+  "name": "What should I consider before planning a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before planning a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before planning a home addition, consider your long-term needs, budget, and how the addition will impact your property's overall flow and aesthetic. Research local zoning ordinances and building codes in your area, as these will dictate what you can legally build. Also, assess your current home's structural capacity and lot size. Thinking through these aspects helps ensure your addition is both practical and aligns with your vision.",
+        "@type": "Answer",
+        "description": "Consider long-term needs, budget, aesthetic impact, local zoning, and your home's structural capacity before planning an addition."
+      }
+    }
+  ],
+  "description": "Consider long-term needs, budget, aesthetic impact, local zoning, and your home's structural capacity before planning an addition."
+}

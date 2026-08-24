@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-an-attached-home-addition-instead-of-moving",
+  "name": "When should I consider an attached home addition instead of moving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider an attached home addition instead of moving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider an attached home addition when you love your current neighborhood, school district, or community but require more space or updated functionality. If relocation costs (selling fees, moving expenses, new property taxes) outweigh the cost of an addition, and your property has sufficient space for expansion, building an addition can be a financially and emotionally appealing alternative to moving, allowing you to tailor your home to your evolving needs.",
+        "@type": "Answer",
+        "description": "Consider an addition if you love your location but need more space, and if the costs of relocation outweigh the investment in expanding your current home."
+      }
+    }
+  ],
+  "description": "Consider an addition if you love your location but need more space, and if the costs of relocation outweigh the investment in expanding your current home."
+}

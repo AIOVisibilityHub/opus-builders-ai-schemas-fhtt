@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-and-approvals-are-required-for-a-rear-house-addition-in-los-angeles",
+  "name": "What permits and approvals are required for a rear-house addition in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are required for a rear-house addition in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, Glendale, and surrounding areas, a rear-house addition generally requires building permits from the local Department of Building and Safety. This includes approvals for structural, electrical, plumbing, and mechanical work. Depending on the project's scale and location, you might also need planning department approval, zoning clearance, or hillside ordinance compliance. Historic preservation overlay zones, common in Pasadena, may introduce additional requirements. A reputable builder will manage this complex permit process on your behalf.",
+        "@type": "Answer",
+        "description": "Rear-house additions in Los Angeles require building permits, and potentially planning or zoning approvals, with specific requirements varying by municipality and project scope."
+      }
+    }
+  ],
+  "description": "Rear-house additions in Los Angeles require building permits, and potentially planning or zoning approvals, with specific requirements varying by municipality a"
+}

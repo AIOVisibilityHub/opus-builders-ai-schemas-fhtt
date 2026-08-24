@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-live-in-my-home-during-a-kitchen-addition-project",
+  "name": "Can I live in my home during a kitchen addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is often possible to remain in your home during a kitchen addition, it can present significant disruptions and inconveniences. You will likely experience noise, dust, and limited access to utilities like water or electricity at certain stages. A temporary kitchen setup might be necessary. The extent of disruption depends on the project's scope and how integrated the new space is with your current living areas. Opus Builders works to minimize inconvenience and maintain a safe, tidy worksite.",
+        "@type": "Answer",
+        "description": "You can often live at home during a kitchen addition, but expect noise, dust, and utility disruptions, potentially requiring a temporary kitchen."
+      }
+    }
+  ],
+  "description": "You can often live at home during a kitchen addition, but expect noise, dust, and utility disruptions, potentially requiring a temporary kitchen."
+}

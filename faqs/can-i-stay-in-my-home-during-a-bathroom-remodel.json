@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-stay-in-my-home-during-a-bathroom-remodel",
+  "name": "Can I stay in my home during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a bathroom remodel depends on the scope of the project and the number of bathrooms in your residence. If it's your only bathroom undergoing renovation, or if the project involves extensive dust, noise, or utility shut-offs for an extended period, it might be more comfortable to arrange temporary accommodation. For projects on a secondary bathroom with good isolation, staying at home is often feasible. We discuss these logistics in detail during project planning.",
+        "@type": "Answer",
+        "description": "Staying home during a bathroom remodel depends on project scope, number of bathrooms, and disruption levels. We plan logistics during consultation."
+      }
+    }
+  ],
+  "description": "Staying home during a bathroom remodel depends on project scope, number of bathrooms, and disruption levels. We plan logistics during consultation."
+}

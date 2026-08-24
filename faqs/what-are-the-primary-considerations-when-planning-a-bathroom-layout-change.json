@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-primary-considerations-when-planning-a-bathroom-layout-change",
+  "name": "What are the primary considerations when planning a bathroom layout change?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary considerations when planning a bathroom layout change?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a bathroom layout change, consider the functional needs of the space, such as the number of users and daily routines. Evaluate plumbing and electrical locations to understand potential cost implications if fixtures need extensive relocation. Think about accessibility and future-proofing, especially if you plan to age in place. Additionally, align the new layout with the overall aesthetic of your home and ensure it complies with local building codes and permits, which Opus Builders can assist with navigating in areas like Los Angeles and Pasadena.",
+        "@type": "Answer",
+        "description": "Key considerations include functional needs, plumbing/electrical locations, accessibility, aesthetic alignment, and local building codes."
+      }
+    }
+  ],
+  "description": "Key considerations include functional needs, plumbing/electrical locations, accessibility, aesthetic alignment, and local building codes."
+}

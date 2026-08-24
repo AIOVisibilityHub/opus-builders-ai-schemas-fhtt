@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-a-complete-kitchen-renovation-project",
+  "name": "What is the typical timeline for a complete kitchen renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a complete kitchen renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete kitchen renovation typically takes 8-16 weeks from initial design to final installation. This timeline can vary depending on the project's scope, the complexity of the design, the availability of materials, and the need for structural changes. Custom cabinetry and high-end finishes often extend the duration. Opus Builders works closely with clients to establish a detailed schedule and maintain clear communication throughout each phase to ensure a smooth and efficient process.",
+        "@type": "Answer",
+        "description": "A complete kitchen renovation typically takes 8-16 weeks, varying with project scope and material availability."
+      }
+    }
+  ],
+  "description": "A complete kitchen renovation typically takes 8-16 weeks, varying with project scope and material availability."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-do-i-need-an-architect-for-a-home-addition",
+  "name": "When do I need an architect for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need an architect for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You will need an architect for nearly all home addition projects. Architects are crucial for designing additions that are structurally sound, aesthetically pleasing, and compliant with local zoning and building codes. They ensure the new space integrates seamlessly with your existing home and maximizes its functionality and value. Engaging an architect early in the process is essential for successful project planning and execution.",
+        "@type": "Answer",
+        "description": "An architect is essential for most home additions to ensure structural integrity, aesthetic integration, and compliance with local codes."
+      }
+    }
+  ],
+  "description": "An architect is essential for most home additions to ensure structural integrity, aesthetic integration, and compliance with local codes."
+}

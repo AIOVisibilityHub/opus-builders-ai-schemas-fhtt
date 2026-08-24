@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-rear-house-addition-project-usually-take-from-design-to-completi",
+  "name": "How long does a rear-house addition project usually take from design to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a rear-house addition project usually take from design to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical luxury rear-house addition project, from initial design concepts to final construction completion, can take anywhere from 10 to 18 months, sometimes longer for highly complex projects. The design and permitting phase can often take 4-7 months, influenced by city regulations in areas like Burbank or North Hollywood. Construction itself usually lasts 6-11 months. Factors like the scope of work, material availability, and the speed of permit approvals in specific municipalities can influence the timeline.",
+        "@type": "Answer",
+        "description": "From design to completion, a luxury rear-house addition typically takes 10 to 18 months, with design and permitting often consuming 4-7 months."
+      }
+    }
+  ],
+  "description": "From design to completion, a luxury rear-house addition typically takes 10 to 18 months, with design and permitting often consuming 4-7 months."
+}

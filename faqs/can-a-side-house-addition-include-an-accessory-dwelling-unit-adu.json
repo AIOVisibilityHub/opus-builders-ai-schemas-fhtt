@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-a-side-house-addition-include-an-accessory-dwelling-unit-adu",
+  "name": "Can a side-house addition include an Accessory Dwelling Unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a side-house addition include an Accessory Dwelling Unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a side-house addition can be designed to include an Accessory Dwelling Unit (ADU), provided it meets local zoning and building code requirements for ADUs. This offers an excellent opportunity to create a separate living space for family members, guests, or as a rental income source. Designing an ADU within an addition requires careful planning for independent access, kitchenettes, bathrooms, and utility hookups, aligning with specific ADU regulations in your municipality.",
+        "@type": "Answer",
+        "description": "Yes, a side-house addition can include an ADU if it meets local zoning and building codes, offering a separate living space for family or rental income."
+      }
+    }
+  ],
+  "description": "Yes, a side-house addition can include an ADU if it meets local zoning and building codes, offering a separate living space for family or rental income."
+}

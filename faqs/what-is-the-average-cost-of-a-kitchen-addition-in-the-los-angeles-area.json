@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-average-cost-of-a-kitchen-addition-in-the-los-angeles-area",
+  "name": "What is the average cost of a kitchen addition in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a kitchen addition in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen addition in the Los Angeles area can vary significantly due to factors like size, materials, finishes, and complexity of structural work. While a basic addition might start around $100,000, luxury kitchen additions with high-end appliances, custom cabinetry, and extensive architectural features can easily exceed $300,000. It's best to consult with a builder for a detailed estimate tailored to your specific design goals and property conditions.",
+        "@type": "Answer",
+        "description": "In Los Angeles, kitchen additions can range from $100,000 to over $300,000, depending on size, materials, and custom features."
+      }
+    }
+  ],
+  "description": "In Los Angeles, kitchen additions can range from $100,000 to over $300,000, depending on size, materials, and custom features."
+}

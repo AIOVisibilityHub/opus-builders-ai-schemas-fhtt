@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-an-architect-or-engineer-for-my-home-addition-permit-application",
+  "name": "Do I need an architect or engineer for my home addition permit application?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect or engineer for my home addition permit application?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most significant home additions, particularly those involving structural changes, new foundations, or complex designs, you will almost certainly need both an architect and a structural engineer. An architect designs the aesthetic and functional aspects, creating the floor plans and elevations. A structural engineer ensures the design is sound and meets safety codes, calculating loads and specifying materials. Their stamped drawings are typically required for permit submission, ensuring your addition is safe and compliant. Opus Builders collaborates with licensed professionals for all required designs.",
+        "@type": "Answer",
+        "description": "Yes, most significant home additions require both an architect for design and a structural engineer for safety and code compliance, with their stamped drawings needed for permits."
+      }
+    }
+  ],
+  "description": "Yes, most significant home additions require both an architect for design and a structural engineer for safety and code compliance, with their stamped drawings"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-luxury-bathroom-remodeling-project-take",
+  "name": "How long does a typical luxury bathroom remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical luxury bathroom remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a luxury bathroom remodeling project varies based on its scope and complexity. A full renovation, involving demolition, new plumbing, electrical work, tiling, and custom installations, can typically take anywhere from 6 to 12 weeks. Smaller updates might be completed in 3-5 weeks. Factors like material lead times, inspection schedules, and the need for custom fabrication can extend the timeline. We provide a detailed project schedule at the outset to manage expectations.",
+        "@type": "Answer",
+        "description": "A luxury bathroom remodel typically takes 6-12 weeks for a full renovation, with smaller updates completed in 3-5 weeks, depending on complexity and material availability."
+      }
+    }
+  ],
+  "description": "A luxury bathroom remodel typically takes 6-12 weeks for a full renovation, with smaller updates completed in 3-5 weeks, depending on complexity and material av"
+}

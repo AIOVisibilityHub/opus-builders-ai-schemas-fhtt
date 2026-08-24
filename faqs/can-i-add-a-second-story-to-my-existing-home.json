@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-add-a-second-story-to-my-existing-home",
+  "name": "Can I add a second story to my existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a second story to my existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a second story is a complex but feasible room addition, providing significant new living space without consuming yard area. It requires extensive structural analysis to ensure your existing foundation can support the additional weight. Zoning regulations in your specific municipality, like Glendale or Pasadena, will also dictate height restrictions and setback requirements. This type of project typically involves temporarily disrupting the lower level and requires careful planning and execution by experienced structural engineers and builders to ensure safety and seamless integration.",
+        "@type": "Answer",
+        "description": "Yes, adding a second story is possible but requires extensive structural analysis and compliance with local zoning regulations. It provides significant new space but is a complex project."
+      }
+    }
+  ],
+  "description": "Yes, adding a second story is possible but requires extensive structural analysis and compliance with local zoning regulations. It provides significant new spac"
+}

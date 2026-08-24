@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-luxury-kitchen-renovation-cost-in-los-angeles",
+  "name": "How much does a luxury kitchen renovation cost in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a luxury kitchen renovation cost in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury kitchen renovation in Los Angeles can vary significantly, typically ranging from $75,000 to over $200,000, depending on the scope and selections. Factors influencing price include the size of the kitchen, quality of materials (e.g., custom cabinetry, high-end appliances, exotic countertops), structural modifications, and labor for specialized installations. We provide detailed, transparent proposals after understanding your vision and requirements during the initial consultation.",
+        "@type": "Answer",
+        "description": "Luxury kitchen renovations in Los Angeles generally range from $75,000 to over $200,000, based on size, materials, and scope."
+      }
+    }
+  ],
+  "description": "Luxury kitchen renovations in Los Angeles generally range from $75,000 to over $200,000, based on size, materials, and scope."
+}

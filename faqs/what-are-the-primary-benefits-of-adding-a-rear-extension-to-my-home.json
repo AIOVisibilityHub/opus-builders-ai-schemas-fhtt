@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-primary-benefits-of-adding-a-rear-extension-to-my-home",
+  "name": "What are the primary benefits of adding a rear extension to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary benefits of adding a rear extension to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rear additions offer several benefits, including increased living space without sacrificing front yard aesthetics or creating an obtrusive street presence. They can improve natural light, enhance indoor-outdoor connection, and add significant value to your property. For luxury homes, this often translates into creating bespoke spaces like gourmet kitchens, grand entertaining areas, or private master suites with direct garden access. It's an effective way to modernize and expand a home within its existing plot.",
+        "@type": "Answer",
+        "description": "Benefits include increased living space, improved natural light, better indoor-outdoor connection, and enhanced property value, allowing for custom luxury spaces."
+      }
+    }
+  ],
+  "description": "Benefits include increased living space, improved natural light, better indoor-outdoor connection, and enhanced property value, allowing for custom luxury space"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-contractor-for-my-home-addition-project",
+  "name": "How do I choose the right contractor for my home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves several key steps. Look for licensed, insured, and experienced professionals specializing in home additions. Review their portfolio of past projects, check references, and ensure transparent communication. It's also important to feel comfortable with their team and their proposed project management approach. A reputable contractor will provide a detailed proposal and contract, outlining all aspects of the work.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and experienced contractor with a strong portfolio and positive references. Ensure clear communication and a detailed proposal."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and experienced contractor with a strong portfolio and positive references. Ensure clear communication and a detailed proposal."
+}

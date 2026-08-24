@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-add-a-second-story-to-my-side-house-addition",
+  "name": "Can I add a second story to my side-house addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a second story to my side-house addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, depending on local zoning regulations and the structural integrity of the existing foundation and the proposed addition, adding a second story to a side-house addition is often possible. This approach maximizes vertical space if horizontal expansion is limited. It requires careful structural engineering to ensure the foundation can support the additional weight and that the design complies with height restrictions and aesthetic guidelines in your area. This would be considered a more complex project.",
+        "@type": "Answer",
+        "description": "Adding a second story to a side-house addition is possible, but depends on local zoning, structural engineering, and the capacity of the existing foundation."
+      }
+    }
+  ],
+  "description": "Adding a second story to a side-house addition is possible, but depends on local zoning, structural engineering, and the capacity of the existing foundation."
+}

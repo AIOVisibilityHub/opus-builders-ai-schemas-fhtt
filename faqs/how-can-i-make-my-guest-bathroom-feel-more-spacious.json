@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-can-i-make-my-guest-bathroom-feel-more-spacious",
+  "name": "How can I make my guest bathroom feel more spacious?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my guest bathroom feel more spacious?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make a guest bathroom feel more spacious, consider installing a floating vanity or a pedestal sink to free up floor space. Using large format tiles for both floors and walls can create a seamless look, and a frameless glass shower enclosure minimizes visual barriers. Incorporate ample lighting, including natural light if possible, and use a large mirror to reflect light and expand the perception of space. Lighter color palettes also contribute to an airy feel.",
+        "@type": "Answer",
+        "description": "To enhance spaciousness in a guest bathroom, use floating vanities, large format tiles, frameless glass showers, ample lighting, and lighter color palettes to create an open, airy feel."
+      }
+    }
+  ],
+  "description": "To enhance spaciousness in a guest bathroom, use floating vanities, large format tiles, frameless glass showers, ample lighting, and lighter color palettes to c"
+}

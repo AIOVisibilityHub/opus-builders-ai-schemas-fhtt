@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-a-bathroom-remodel-in-areas-like-pasadena-or-glendale",
+  "name": "Do I need permits for a bathroom remodel in areas like Pasadena or Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a bathroom remodel in areas like Pasadena or Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most significant bathroom remodels, especially those involving plumbing or electrical changes, structural modifications, or layout alterations, require permits from your local city planning department (e.g., Pasadena, Glendale). This ensures the work complies with local building codes and safety standards. Opus Builders handles all necessary permit applications and inspections as part of our comprehensive service, ensuring your project meets all regulatory requirements.",
+        "@type": "Answer",
+        "description": "Significant bathroom remodels usually require permits from local city planning departments, like in Pasadena or Glendale, to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Significant bathroom remodels usually require permits from local city planning departments, like in Pasadena or Glendale, to ensure code compliance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-range-for-a-luxury-rear-house-addition-in-the-los-angel",
+  "name": "What is the typical cost range for a luxury rear-house addition in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a luxury rear-house addition in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury rear-house addition in the Los Angeles area, including Glendale and Pasadena, varies significantly based on size, complexity, materials, and finishes. Generally, expect costs to start from approximately $400-$700 per square foot for high-end construction. This excludes design fees, permits, and soft costs. Factors like custom cabinetry, advanced smart home technology, premium flooring, and unique architectural features can push costs higher. A detailed estimate requires a thorough site assessment and design consultation.",
+        "@type": "Answer",
+        "description": "Luxury rear-house additions in Los Angeles typically range from $400-$700+ per square foot, depending on size, complexity, and custom finishes."
+      }
+    }
+  ],
+  "description": "Luxury rear-house additions in Los Angeles typically range from $400-$700+ per square foot, depending on size, complexity, and custom finishes."
+}

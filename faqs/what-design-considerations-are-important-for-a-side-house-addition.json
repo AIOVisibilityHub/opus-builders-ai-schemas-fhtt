@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-design-considerations-are-important-for-a-side-house-addition",
+  "name": "What design considerations are important for a side-house addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for a side-house addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations for a side-house addition include ensuring architectural harmony with the existing structure, maximizing natural light, and planning for seamless flow between old and new spaces. You'll also need to consider setback requirements, maintaining privacy for neighbors, and integrating new utility lines. Our design team focuses on creating an addition that looks like it was always part of the original home, enhancing both aesthetics and functionality.",
+        "@type": "Answer",
+        "description": "Important design considerations include architectural harmony, natural light, seamless flow, setback compliance, neighbor privacy, and utility integration."
+      }
+    }
+  ],
+  "description": "Important design considerations include architectural harmony, natural light, seamless flow, setback compliance, neighbor privacy, and utility integration."
+}

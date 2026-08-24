@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-a-kitchen-addition-in-los-angeles-county",
+  "name": "Do I need permits for a kitchen addition in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a kitchen addition in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a kitchen addition in Los Angeles County will absolutely require multiple permits. These typically include building permits, and may also involve plumbing, electrical, and mechanical permits, as well as zoning or planning approvals. The exact permits needed depend on the scope of work and local regulations. Opus Builders handles the entire permitting process, ensuring all designs and construction adhere to local codes and ordinances, streamlining the project for homeowners.",
+        "@type": "Answer",
+        "description": "Yes, kitchen additions in Los Angeles County require building, plumbing, electrical, and other permits, which Opus Builders manages."
+      }
+    }
+  ],
+  "description": "Yes, kitchen additions in Los Angeles County require building, plumbing, electrical, and other permits, which Opus Builders manages."
+}

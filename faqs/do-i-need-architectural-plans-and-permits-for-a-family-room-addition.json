@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-architectural-plans-and-permits-for-a-family-room-addition",
+  "name": "Do I need architectural plans and permits for a family room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need architectural plans and permits for a family room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for virtually all family room additions, detailed architectural plans and building permits are required by local jurisdictions like the City of Los Angeles Department of Building and Safety. These ensure the addition meets structural, safety, and zoning codes. Opus Builders handles the entire design and permitting process, from drafting comprehensive plans to submitting applications and liaising with city officials on your behalf, streamlining the approval process for a smooth project start.",
+        "@type": "Answer",
+        "description": "Yes, architectural plans and building permits are required for family room additions to ensure compliance with local structural, safety, and zoning codes. Opus Builders manages this process."
+      }
+    }
+  ],
+  "description": "Yes, architectural plans and building permits are required for family room additions to ensure compliance with local structural, safety, and zoning codes. Opus"
+}

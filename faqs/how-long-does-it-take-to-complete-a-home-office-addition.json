@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-take-to-complete-a-home-office-addition",
+  "name": "How long does it take to complete a home office addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a home office addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home office addition generally spans from 4 to 8 months, depending on the project's scope and complexity. This includes several key phases: initial design and architectural planning (4-8 weeks), securing necessary permits from local authorities like the City of Los Angeles Department of Building and Safety (4-12 weeks, variable), and the actual construction phase (8-16 weeks). Factors such as material lead times, inspection schedules, and the level of customization can influence the overall duration. We provide a detailed project schedule during the planning phase.",
+        "@type": "Answer",
+        "description": "A home office addition typically takes 4 to 8 months, covering design, permits, and construction, with variations based on project complexity and local regulations."
+      }
+    }
+  ],
+  "description": "A home office addition typically takes 4 to 8 months, covering design, permits, and construction, with variations based on project complexity and local regulati"
+}

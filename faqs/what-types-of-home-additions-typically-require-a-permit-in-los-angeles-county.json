@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-types-of-home-additions-typically-require-a-permit-in-los-angeles-county",
+  "name": "What types of home additions typically require a permit in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home additions typically require a permit in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles County, most home additions that involve structural changes, increasing square footage, or altering utility systems will require a permit. This commonly includes new bedrooms, bathrooms, family rooms, second-story additions, garage conversions that add living space, and significant deck constructions. Minor interior cosmetic remodels that don't affect load-bearing walls or plumbing/electrical are often exempt. It's always best to consult with a professional builder or your local planning department to confirm specific requirements for your project.",
+        "@type": "Answer",
+        "description": "Most home additions involving structural changes, increased square footage, or utility alterations in Los Angeles County require a permit. Minor cosmetic remodels are often exempt."
+      }
+    }
+  ],
+  "description": "Most home additions involving structural changes, increased square footage, or utility alterations in Los Angeles County require a permit. Minor cosmetic remode"
+}

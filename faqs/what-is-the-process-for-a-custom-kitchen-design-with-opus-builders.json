@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-a-custom-kitchen-design-with-opus-builders",
+  "name": "What is the process for a custom kitchen design with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a custom kitchen design with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our custom kitchen design process begins with an initial consultation to discuss your vision, lifestyle, and budget. Next, our designers create preliminary layouts and material selections for your review. We then refine the design based on your feedback, develop detailed plans, and finalize all specifications. Throughout construction, our project managers ensure meticulous execution, culminating in a beautiful, functional kitchen tailored to your home.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation, moves to design and material selection, refines based on your feedback, and concludes with expert construction and installation."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation, moves to design and material selection, refines based on your feedback, and concludes with expert construction and insta"
+}

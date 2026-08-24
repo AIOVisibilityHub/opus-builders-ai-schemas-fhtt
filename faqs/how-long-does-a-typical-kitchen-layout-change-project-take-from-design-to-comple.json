@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-kitchen-layout-change-project-take-from-design-to-comple",
+  "name": "How long does a typical kitchen layout change project take from design to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen layout change project take from design to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen layout change project varies significantly based on its complexity and the extent of structural modifications. A comprehensive renovation involving major layout changes, plumbing, and electrical work can typically take anywhere from 8 to 20 weeks, including design, permitting, demolition, and construction phases. Smaller reconfigurations might be quicker. We work closely with clients to establish a realistic timeline during the planning stages, aiming for efficiency without compromising quality.",
+        "@type": "Answer",
+        "description": "A kitchen layout change can take 8-20 weeks, depending on complexity, from design through construction. Smaller changes may be quicker."
+      }
+    }
+  ],
+  "description": "A kitchen layout change can take 8-20 weeks, depending on complexity, from design through construction. Smaller changes may be quicker."
+}

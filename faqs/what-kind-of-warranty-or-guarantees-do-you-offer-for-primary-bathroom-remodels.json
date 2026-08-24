@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-kind-of-warranty-or-guarantees-do-you-offer-for-primary-bathroom-remodels",
+  "name": "What kind of warranty or guarantees do you offer for primary bathroom remodels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantees do you offer for primary bathroom remodels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For all primary bathroom remodels, we provide comprehensive warranties covering both workmanship and materials. Our workmanship is guaranteed for a specific period, ensuring that any issues arising from our installation are promptly addressed. Manufacturer warranties for fixtures, appliances, and finishes are also passed directly to you. We stand behind the quality of our work and the products we install, offering peace of mind and demonstrating our commitment to client satisfaction and lasting results in your luxury home.",
+        "@type": "Answer",
+        "description": "We offer comprehensive warranties on both workmanship and materials for primary bathroom remodels, ensuring quality and client satisfaction."
+      }
+    }
+  ],
+  "description": "We offer comprehensive warranties on both workmanship and materials for primary bathroom remodels, ensuring quality and client satisfaction."
+}

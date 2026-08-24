@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-bathroom-layout-change-project-take",
+  "name": "How long does a typical bathroom layout change project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom layout change project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom layout change depends on the complexity of the design and the scope of work. A minor cosmetic update might take a few weeks, while a complete layout overhaul involving moving walls, plumbing, and electrical systems can take several weeks to a few months. Factors like lead times for custom materials, permit approval processes in specific cities like Burbank or Pasadena, and unforeseen structural issues can also influence the timeline. Opus Builders provides a detailed project schedule at the outset.",
+        "@type": "Answer",
+        "description": "Project duration varies from a few weeks for minor updates to several months for complex overhauls, influenced by design complexity and material lead times."
+      }
+    }
+  ],
+  "description": "Project duration varies from a few weeks for minor updates to several months for complex overhauls, influenced by design complexity and material lead times."
+}

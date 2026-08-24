@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-range-for-a-home-office-addition-in-los-angeles",
+  "name": "What is the typical cost range for a home office addition in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a home office addition in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a home office addition in the Los Angeles area varies significantly based on factors like size, materials, complexity of design, and finishes. A basic addition might start from $50,000 to $75,000, while a more luxurious or larger space with premium features, integrated technology, and custom millwork could easily exceed $150,000 or more. This range typically includes architectural plans, permits, construction, and standard finishes. We provide detailed estimates after an initial consultation and site assessment.",
+        "@type": "Answer",
+        "description": "Costs for a home office addition in Los Angeles typically range from $50,000 for basic spaces to over $150,000 for luxury designs, depending on size and finishes."
+      }
+    }
+  ],
+  "description": "Costs for a home office addition in Los Angeles typically range from $50,000 for basic spaces to over $150,000 for luxury designs, depending on size and finishe"
+}

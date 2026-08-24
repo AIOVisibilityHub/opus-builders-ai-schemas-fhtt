@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-designing-and-building-a-home-addition",
+  "name": "What is the typical timeline for designing and building a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for designing and building a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home addition project typically involves several phases. The design phase, including architectural plans and permits, can take several months, often 3-6 months, depending on the project's scope and city review processes. Construction itself can then range from 4 months for a smaller addition to over a year for more extensive projects like a second story. We work to establish a realistic schedule upfront.",
+        "@type": "Answer",
+        "description": "Design and permitting can take 3-6 months. Construction typically ranges from 4 months to over a year, depending on the addition's scope."
+      }
+    }
+  ],
+  "description": "Design and permitting can take 3-6 months. Construction typically ranges from 4 months to over a year, depending on the addition's scope."
+}

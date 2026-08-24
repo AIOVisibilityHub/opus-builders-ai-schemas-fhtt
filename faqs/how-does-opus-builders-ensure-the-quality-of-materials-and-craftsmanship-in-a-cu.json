@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-opus-builders-ensure-the-quality-of-materials-and-craftsmanship-in-a-cu",
+  "name": "How does Opus Builders ensure the quality of materials and craftsmanship in a custom kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Opus Builders ensure the quality of materials and craftsmanship in a custom kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders maintains stringent quality control by sourcing materials from reputable, high-end suppliers known for their durability and aesthetic appeal. Our craftsmen are highly experienced and skilled in luxury home construction, adhering to exacting standards throughout every phase, from custom cabinetry fabrication to intricate installation. We conduct regular inspections and maintain open communication with clients, ensuring every detail meets our benchmark for excellence and your complete satisfaction.",
+        "@type": "Answer",
+        "description": "We ensure quality by sourcing from high-end suppliers and utilizing experienced craftsmen, with regular inspections to meet our high standards for luxury custom kitchens."
+      }
+    }
+  ],
+  "description": "We ensure quality by sourcing from high-end suppliers and utilizing experienced craftsmen, with regular inspections to meet our high standards for luxury custom"
+}

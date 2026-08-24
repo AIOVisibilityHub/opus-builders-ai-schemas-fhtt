@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-estimated-cost-for-an-open-concept-kitchen-conversion-in-los-angeles",
+  "name": "What is the estimated cost for an open-concept kitchen conversion in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the estimated cost for an open-concept kitchen conversion in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an open-concept kitchen conversion in Los Angeles depends on several factors, such as the extent of structural changes, the quality of materials, the need for new plumbing or electrical lines, and the complexity of the design. Prices can range from $75,000 for a simpler project to upwards of $200,000 for a luxury, custom conversion involving significant structural work and high-end finishes. We offer detailed consultations to provide a precise estimate tailored to your specific vision and home.",
+        "@type": "Answer",
+        "description": "Costs for an open-concept kitchen conversion in Los Angeles typically range from $75,000 to over $200,000, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Costs for an open-concept kitchen conversion in Los Angeles typically range from $75,000 to over $200,000, depending on scope and materials."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-a-home-addition-in-los-angeles-county",
+  "name": "What permits are required for a home addition in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a home addition in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a home addition in Los Angeles County typically requires a range of permits, including planning permits, building permits, and potentially separate permits for electrical, plumbing, and mechanical work. Specific requirements vary by city jurisdiction (e.g., Los Angeles vs. Pasadena) and the scope of the project. Our team assists with navigating the permitting process to ensure all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Home additions in Los Angeles County require various permits like planning, building, electrical, and plumbing. Requirements vary by city and project scope."
+      }
+    }
+  ],
+  "description": "Home additions in Los Angeles County require various permits like planning, building, electrical, and plumbing. Requirements vary by city and project scope."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/will-a-room-addition-increase-my-property-value",
+  "name": "Will a room addition increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a room addition increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and constructed room addition almost always increases property value. Adding functional square footage, especially high-demand spaces like extra bedrooms, bathrooms, or a dedicated home office, is a significant asset. The return on investment (ROI) can vary based on the type of addition, the quality of materials and workmanship, and current real estate market conditions in your specific area. In competitive markets like Los Angeles, an addition that enhances liveability and matches the home's existing aesthetic can yield substantial returns when selling.",
+        "@type": "Answer",
+        "description": "Yes, a well-designed room addition generally increases property value by adding functional square footage. The ROI depends on the addition type, quality, and local market conditions."
+      }
+    }
+  ],
+  "description": "Yes, a well-designed room addition generally increases property value by adding functional square footage. The ROI depends on the addition type, quality, and lo"
+}

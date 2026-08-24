@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-live-in-my-home-during-the-construction-of-an-addition",
+  "name": "Can I live in my home during the construction of an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during the construction of an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during an addition project depends on the scope and nature of the work. For smaller, less disruptive additions, it might be feasible. However, for extensive projects like second-story additions or major structural work, it can be challenging due to noise, dust, utility interruptions, and safety concerns. We discuss this early in the planning process to determine the best approach for your comfort and safety.",
+        "@type": "Answer",
+        "description": "Living in your home during an addition depends on the project's scope. Large structural work may require temporary relocation due to disruption and safety."
+      }
+    }
+  ],
+  "description": "Living in your home during an addition depends on the project's scope. Large structural work may require temporary relocation due to disruption and safety."
+}

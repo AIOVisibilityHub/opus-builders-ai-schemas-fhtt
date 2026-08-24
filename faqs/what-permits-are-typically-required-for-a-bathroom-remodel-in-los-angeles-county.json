@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-typically-required-for-a-bathroom-remodel-in-los-angeles-county",
+  "name": "What permits are typically required for a bathroom remodel in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for a bathroom remodel in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathroom remodels in Los Angeles County, permits are typically required for any work involving significant changes to plumbing, electrical, or structural elements. This includes relocating fixtures, altering load-bearing walls, or expanding the bathroom's footprint. Minor cosmetic updates like painting or replacing a vanity without changing plumbing might not require permits. We handle all necessary permit applications and ensure compliance with local building codes for your project.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for bathroom remodels in Los Angeles County involving significant plumbing, electrical, or structural changes. We manage permit applications."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for bathroom remodels in Los Angeles County involving significant plumbing, electrical, or structural changes. We manage permit appli"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-should-i-consider-before-converting-to-an-open-concept-kitchen",
+  "name": "What should I consider before converting to an open-concept kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before converting to an open-concept kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before committing to an open-concept kitchen conversion, consider your lifestyle and how you use your current space. Evaluate if you are comfortable with cooking noises and smells extending into living areas, and if you have alternative storage solutions if wall removal reduces cabinetry. Think about the impact on privacy and the overall aesthetic harmony with adjoining rooms. A clear understanding of your needs and preferences will guide the design process and ensure the conversion truly enhances your home.",
+        "@type": "Answer",
+        "description": "Before converting, consider your comfort with noise/smell, storage needs, privacy impact, and aesthetic harmony with adjacent rooms."
+      }
+    }
+  ],
+  "description": "Before converting, consider your comfort with noise/smell, storage needs, privacy impact, and aesthetic harmony with adjacent rooms."
+}

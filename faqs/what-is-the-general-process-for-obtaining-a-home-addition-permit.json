@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-general-process-for-obtaining-a-home-addition-permit",
+  "name": "What is the general process for obtaining a home addition permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general process for obtaining a home addition permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The general process involves several key steps. First, detailed architectural and structural plans are drafted, adhering to local zoning and building codes. Next, these plans are submitted to your city's planning and building departments for review. This often includes zoning approval, structural review, and potentially other departmental clearances (e.g., sanitation, fire). Once all departments approve the plans, the permit is issued. During construction, inspections are conducted at various stages to ensure compliance. Opus Builders manages this entire process on behalf of our clients.",
+        "@type": "Answer",
+        "description": "The permit process involves drafting detailed plans, submitting them for city review and approval, obtaining the permit, and undergoing inspections during construction."
+      }
+    }
+  ],
+  "description": "The permit process involves drafting detailed plans, submitting them for city review and approval, obtaining the permit, and undergoing inspections during const"
+}

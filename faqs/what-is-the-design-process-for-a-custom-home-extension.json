@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-design-process-for-a-custom-home-extension",
+  "name": "What is the design process for a custom home extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the design process for a custom home extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design process for a custom home extension typically begins with an initial consultation to understand your needs and vision. This leads to preliminary sketches and conceptual designs. Once a concept is approved, detailed architectural plans are developed, often involving structural engineers and interior designers. Material selections and finishes are finalized during this phase. Throughout, we collaborate closely with you to ensure the design reflects your lifestyle and preferences, culminating in a comprehensive plan ready for permitting and construction.",
+        "@type": "Answer",
+        "description": "The design process involves initial consultations, conceptual sketches, detailed architectural plans with engineers and designers, and final material selections, all in close collaboration with the client."
+      }
+    }
+  ],
+  "description": "The design process involves initial consultations, conceptual sketches, detailed architectural plans with engineers and designers, and final material selections"
+}

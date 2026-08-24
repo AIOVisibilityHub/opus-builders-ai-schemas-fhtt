@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-primary-bathroom-refresh-and-a-full-remodel",
+  "name": "What is the difference between a primary bathroom refresh and a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a primary bathroom refresh and a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary bathroom refresh involves cosmetic updates, such as repainting, replacing a vanity, upgrading light fixtures, or regrouting tiles, without altering the layout or major plumbing. It's a less invasive and typically quicker process to update the room's appearance. A full remodel, conversely, involves significant changes, including reconfiguring the layout, moving plumbing or electrical lines, replacing bathtubs/showers, and installing new flooring. This comprehensive approach transforms the entire space, addressing both aesthetics and functionality at a deeper level.",
+        "@type": "Answer",
+        "description": "A refresh is cosmetic (paint, fixtures) without layout changes, while a full remodel involves significant changes like layout reconfigurations and plumbing relocation."
+      }
+    }
+  ],
+  "description": "A refresh is cosmetic (paint, fixtures) without layout changes, while a full remodel involves significant changes like layout reconfigurations and plumbing relo"
+}

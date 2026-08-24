@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-a-side-house-addition-instead-of-other-types-of-expansion",
+  "name": "When should I consider a side-house addition instead of other types of expansions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a side-house addition instead of other types of expansions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a side-house addition when you have available space on the side of your property, lack backyard space for a rear addition, or want to avoid adding a second story. It's an excellent option for expanding horizontally to create new rooms, an ADU, or larger living areas without significant disruption to your existing roofline or yard. It’s particularly suitable if your property layout makes lateral growth the most logical and efficient solution.",
+        "@type": "Answer",
+        "description": "Consider a side-house addition when side yard space is available, backyard space is limited, or you prefer not to build a second story. It expands living areas horizontally."
+      }
+    }
+  ],
+  "description": "Consider a side-house addition when side yard space is available, backyard space is limited, or you prefer not to build a second story. It expands living areas"
+}

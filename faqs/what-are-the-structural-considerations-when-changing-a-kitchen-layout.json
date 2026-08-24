@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-structural-considerations-when-changing-a-kitchen-layout",
+  "name": "What are the structural considerations when changing a kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the structural considerations when changing a kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural considerations for a kitchen layout change primarily involve assessing the impact of removing or adding walls, especially if they are load-bearing. This requires careful evaluation by a structural engineer to ensure the home's integrity is maintained, potentially necessitating the installation of new beams or supports. Relocating windows or doors also involves structural modifications. Our team collaborates with qualified engineers to determine the safest and most effective structural solutions, ensuring your renovation is sound and compliant.",
+        "@type": "Answer",
+        "description": "Structural considerations include assessing load-bearing walls and relocating windows/doors, often requiring a structural engineer to ensure home integrity and compliance."
+      }
+    }
+  ],
+  "description": "Structural considerations include assessing load-bearing walls and relocating windows/doors, often requiring a structural engineer to ensure home integrity and"
+}

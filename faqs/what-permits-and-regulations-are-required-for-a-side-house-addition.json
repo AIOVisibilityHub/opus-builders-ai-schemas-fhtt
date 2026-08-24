@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-and-regulations-are-required-for-a-side-house-addition",
+  "name": "What permits and regulations are required for a side-house addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations are required for a side-house addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Side-house additions require various permits from your local building department, such as architectural, structural, electrical, plumbing, and mechanical permits. Regulations often include zoning ordinances, setback requirements, and specific building codes that dictate size, height, and how close you can build to property lines. Adherence to these regulations is crucial, and a professional builder will manage the entire permitting process to ensure compliance.",
+        "@type": "Answer",
+        "description": "You'll need permits for architecture, structure, electrical, plumbing, and mechanical systems. Projects must comply with local zoning ordinances, setback requirements, and building codes."
+      }
+    }
+  ],
+  "description": "You'll need permits for architecture, structure, electrical, plumbing, and mechanical systems. Projects must comply with local zoning ordinances, setback requir"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-first-steps-to-plan-a-kitchen-renovation",
+  "name": "What are the first steps to plan a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps in planning a kitchen renovation involve defining your needs, lifestyle, and aesthetic preferences. Consider your budget, desired functionality, and inspiration for styles and finishes. It's beneficial to gather ideas from various sources and create a wishlist. The next crucial step is to consult with experienced design and build professionals like Opus Builders, who can help translate your vision into a practical plan, assess structural considerations, and guide you through material selections.",
+        "@type": "Answer",
+        "description": "Start by defining your needs, budget, and style. Then, consult with design and build professionals to develop a practical plan and guide material selection."
+      }
+    }
+  ],
+  "description": "Start by defining your needs, budget, and style. Then, consult with design and build professionals to develop a practical plan and guide material selection."
+}

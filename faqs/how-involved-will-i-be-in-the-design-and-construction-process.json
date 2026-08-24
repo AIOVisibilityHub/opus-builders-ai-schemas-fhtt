@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-involved-will-i-be-in-the-design-and-construction-process",
+  "name": "How involved will I be in the design and construction process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How involved will I be in the design and construction process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At Opus Builders, client involvement is paramount, especially for luxury custom projects. We maintain open and continuous communication throughout every stage. You'll be actively engaged in initial design consultations, material selections, and regular progress meetings. Our project managers provide consistent updates and are always available to address your questions or concerns. We ensure your vision is realized while handling all the complexities of the build, making the process transparent and collaborative.",
+        "@type": "Answer",
+        "description": "You'll be highly involved in design, material selection, and regular progress meetings, with continuous communication and updates from our project managers."
+      }
+    }
+  ],
+  "description": "You'll be highly involved in design, material selection, and regular progress meetings, with continuous communication and updates from our project managers."
+}

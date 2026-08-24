@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-typically-take-to-get-a-home-addition-permit-in-the-los-angeles",
+  "name": "How long does it typically take to get a home addition permit in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to get a home addition permit in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for obtaining a home addition permit in the Los Angeles area can vary significantly, typically ranging from a few weeks to several months. Factors influencing this include the complexity of your project, the completeness of your plans, the specific city's review process (e.g., Los Angeles vs. Pasadena), and current departmental workloads. Projects requiring multiple departmental reviews (e.g., planning, engineering, fire) will generally take longer. Opus Builders prepares comprehensive plans to help expedite this process.",
+        "@type": "Answer",
+        "description": "Permit timelines in Los Angeles vary from weeks to months, depending on project complexity, plan completeness, and the specific city's review process."
+      }
+    }
+  ],
+  "description": "Permit timelines in Los Angeles vary from weeks to months, depending on project complexity, plan completeness, and the specific city's review process."
+}

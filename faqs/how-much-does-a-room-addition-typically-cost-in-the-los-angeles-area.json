@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-room-addition-typically-cost-in-the-los-angeles-area",
+  "name": "How much does a room addition typically cost in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a room addition typically cost in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a room addition in the Los Angeles area varies significantly based on size, complexity, materials, and finishes. Factors like structural engineering, foundation work, plumbing, electrical, and high-end interior selections all contribute to the overall budget. A modest bedroom or bathroom addition will naturally cost less than a multi-room expansion or a second-story addition. Due to the custom nature of these projects and regional labor/material costs, it's best to obtain a detailed quote based on your specific project requirements.",
+        "@type": "Answer",
+        "description": "Room addition costs in Los Angeles vary widely based on size, complexity, materials, and finishes. Factors include structural work, utilities, and high-end selections. A detailed quote is necessary for specific project costs."
+      }
+    }
+  ],
+  "description": "Room addition costs in Los Angeles vary widely based on size, complexity, materials, and finishes. Factors include structural work, utilities, and high-end sele"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-typically-cost-to-change-a-bathroom-layout",
+  "name": "How much does it typically cost to change a bathroom layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it typically cost to change a bathroom layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to change a bathroom layout varies significantly based on the extent of the alterations. Minor changes, like moving a vanity within existing plumbing, will be less expensive than major renovations that require relocating toilets or showers, which involve significant plumbing and structural work. Material choices for fixtures, tiling, and finishes also play a large role. A luxurious master bathroom remodel in a high-end area like Beverly Hills will naturally cost more than a powder room update. Opus Builders provides detailed estimates after a thorough assessment of your specific project.",
+        "@type": "Answer",
+        "description": "Costs vary widely depending on the extent of plumbing changes, material selections, and the size of the bathroom. Major relocations are more expensive."
+      }
+    }
+  ],
+  "description": "Costs vary widely depending on the extent of plumbing changes, material selections, and the size of the bathroom. Major relocations are more expensive."
+}

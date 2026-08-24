@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-luxury-kitchen-remodeling-project-usually-take",
+  "name": "How long does a luxury kitchen remodeling project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a luxury kitchen remodeling project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a luxury kitchen remodel generally spans from 10 to 20 weeks, from initial design consultation to project completion. This duration accounts for detailed design phases, material and appliance selection, permitting, demolition, construction, and final finishes. Projects involving extensive structural modifications or custom-fabricated elements may extend closer to the longer end of this range. A well-planned schedule minimizes disruption and ensures high-quality execution.",
+        "@type": "Answer",
+        "description": "A luxury kitchen remodel typically takes 10 to 20 weeks, encompassing design, material selection, permitting, demolition, construction, and finishing."
+      }
+    }
+  ],
+  "description": "A luxury kitchen remodel typically takes 10 to 20 weeks, encompassing design, material selection, permitting, demolition, construction, and finishing."
+}

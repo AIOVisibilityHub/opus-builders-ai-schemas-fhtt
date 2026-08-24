@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-for-a-luxury-bathroom-remodel-in-los-angeles",
+  "name": "What is the typical cost for a luxury bathroom remodel in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a luxury bathroom remodel in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury bathroom remodel in Los Angeles varies significantly based on factors such as size, the extent of structural changes, and the quality of materials and fixtures selected. High-end finishes like custom cabinetry, natural stone, premium plumbing fixtures, and advanced lighting systems will increase the overall investment. A full luxury remodel can range from $40,000 to well over $100,000, ensuring a bespoke design and superior craftsmanship. We provide detailed proposals after an initial consultation.",
+        "@type": "Answer",
+        "description": "Luxury bathroom remodel costs in Los Angeles vary based on size, structural changes, and material selections, typically ranging from $40,000 to over $100,000."
+      }
+    }
+  ],
+  "description": "Luxury bathroom remodel costs in Los Angeles vary based on size, structural changes, and material selections, typically ranging from $40,000 to over $100,000."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-kitchen-renovation-and-a-kitchen-remodel",
+  "name": "What is the difference between a kitchen renovation and a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen renovation and a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen renovation typically involves updating the aesthetics of the space without significantly altering its layout or structural elements. This might include repainting, refacing cabinets, or replacing existing appliances with similar models. A kitchen remodel, on the other hand, involves more extensive changes, often including reconfiguring the layout, moving walls, updating plumbing and electrical systems, and installing new custom cabinetry and high-end appliances. Remodels offer a complete transformation of both function and form.",
+        "@type": "Answer",
+        "description": "A renovation updates aesthetics without major layout changes, while a remodel involves extensive alterations like reconfiguring layouts, moving walls, and updating systems."
+      }
+    }
+  ],
+  "description": "A renovation updates aesthetics without major layout changes, while a remodel involves extensive alterations like reconfiguring layouts, moving walls, and updat"
+}

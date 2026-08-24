@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-a-family-room-addition-be-built-with-sustainable-or-energy-efficient-feature",
+  "name": "Can a family room addition be built with sustainable or energy-efficient features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a family room addition be built with sustainable or energy-efficient features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we prioritize integrating sustainable and energy-efficient features into family room additions. This can include high-performance insulation, energy-efficient windows and doors, LED lighting, and smart HVAC systems. We can also explore options like solar panel integration, cool roofs, and sustainable building materials. These features not only reduce your environmental footprint but also lead to significant long-term savings on utility costs and enhance the comfort of your new space.",
+        "@type": "Answer",
+        "description": "Yes, family room additions can incorporate sustainable features like energy-efficient insulation, windows, LED lighting, smart HVAC, and potentially solar integration to reduce costs and environmental impact."
+      }
+    }
+  ],
+  "description": "Yes, family room additions can incorporate sustainable features like energy-efficient insulation, windows, LED lighting, smart HVAC, and potentially solar integ"
+}

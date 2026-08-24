@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-luxury-bathroom-renovation-typically-take-to-complete",
+  "name": "How long does a luxury bathroom renovation typically take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a luxury bathroom renovation typically take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a luxury bathroom renovation generally ranges from 6 to 12 weeks, though complex projects can extend beyond this. This duration accounts for design, material selection, demolition, plumbing and electrical rough-ins, installation of fixtures and finishes, and final inspections. Factors like material lead times, unforeseen structural issues, and the intricacy of custom work can influence the overall schedule. We prioritize efficient project management to minimize disruption while maintaining quality.",
+        "@type": "Answer",
+        "description": "A luxury bathroom renovation typically takes 6 to 12 weeks, depending on complexity and material lead times. Efficient project management aims to complete work with minimal disruption."
+      }
+    }
+  ],
+  "description": "A luxury bathroom renovation typically takes 6 to 12 weeks, depending on complexity and material lead times. Efficient project management aims to complete work"
+}

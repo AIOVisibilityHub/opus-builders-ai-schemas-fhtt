@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-adding-a-new-bedroom-to-an-existing-home",
+  "name": "What is involved in adding a new bedroom to an existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in adding a new bedroom to an existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a new bedroom typically involves several stages, starting with architectural design to integrate the new space seamlessly with your home's existing structure and aesthetics. This includes planning for foundation, framing, roofing, and connecting to existing utilities like electrical and HVAC. Interior finishes, such as drywall, flooring, paint, and fixtures, are then completed. Depending on the design, plumbing for an en-suite bathroom may also be included. Throughout the process, adherence to local building codes and permits is essential to ensure safety and compliance.",
+        "@type": "Answer",
+        "description": "Adding a new bedroom involves design, structural work, utility connections, and interior finishes, all while adhering to local building codes."
+      }
+    }
+  ],
+  "description": "Adding a new bedroom involves design, structural work, utility connections, and interior finishes, all while adhering to local building codes."
+}

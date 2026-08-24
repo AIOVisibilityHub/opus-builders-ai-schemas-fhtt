@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-average-cost-of-a-guest-bathroom-remodel-in-los-angeles",
+  "name": "What is the average cost of a guest bathroom remodel in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a guest bathroom remodel in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a guest bathroom remodel in Los Angeles varies significantly based on the scope of work, material selections, and the complexity of design. Basic remodels focusing on cosmetic updates like new paint, fixtures, and tiling can range from $15,000 to $30,000. For a more extensive renovation involving layout changes, custom cabinetry, high-end finishes, or moving plumbing, costs can range from $30,000 to $60,000 or more. A detailed consultation allows us to provide a tailored estimate based on your specific vision and requirements.",
+        "@type": "Answer",
+        "description": "Average costs for a guest bathroom remodel in Los Angeles range from $15,000 for cosmetic updates to over $60,000 for extensive renovations. Final costs depend on material choices and project complexity."
+      }
+    }
+  ],
+  "description": "Average costs for a guest bathroom remodel in Los Angeles range from $15,000 for cosmetic updates to over $60,000 for extensive renovations. Final costs depend"
+}

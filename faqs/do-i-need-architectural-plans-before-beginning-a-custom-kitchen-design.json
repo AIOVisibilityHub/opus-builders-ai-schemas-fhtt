@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-architectural-plans-before-beginning-a-custom-kitchen-design",
+  "name": "Do I need architectural plans before beginning a custom kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need architectural plans before beginning a custom kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not strictly mandatory for the very first design consultation, having existing architectural plans or detailed floor plans of your home is highly beneficial. These documents provide crucial information regarding structural elements, plumbing, electrical layouts, and overall space dimensions, which are essential for accurate design and planning. If you don't have them, Opus Builders can assist in creating detailed measurements and preliminary layouts to initiate the design process effectively.",
+        "@type": "Answer",
+        "description": "While not strictly required for the initial consultation, existing architectural plans are highly beneficial for accurate custom kitchen design. We can assist if you don't have them."
+      }
+    }
+  ],
+  "description": "While not strictly required for the initial consultation, existing architectural plans are highly beneficial for accurate custom kitchen design. We can assist i"
+}

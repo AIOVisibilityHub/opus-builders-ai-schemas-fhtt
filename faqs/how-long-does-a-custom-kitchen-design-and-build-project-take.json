@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-custom-kitchen-design-and-build-project-take",
+  "name": "How long does a custom kitchen design and build project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom kitchen design and build project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom kitchen project timeline can vary greatly depending on its complexity and scale, but typically ranges from 12 to 24 weeks from initial design to final installation. The design phase usually takes 4-8 weeks, followed by material procurement and custom cabinetry fabrication which can take another 8-12 weeks. Construction and installation generally span 4-8 weeks. We provide a detailed project schedule at the outset, ensuring clear communication throughout the process.",
+        "@type": "Answer",
+        "description": "A custom kitchen design and build project typically takes 12-24 weeks, varying by complexity, with design, fabrication, and installation phases."
+      }
+    }
+  ],
+  "description": "A custom kitchen design and build project typically takes 12-24 weeks, varying by complexity, with design, fabrication, and installation phases."
+}

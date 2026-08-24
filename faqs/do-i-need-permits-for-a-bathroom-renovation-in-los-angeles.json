@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-a-bathroom-renovation-in-los-angeles",
+  "name": "Do I need permits for a bathroom renovation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a bathroom renovation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most bathroom renovations in Los Angeles require permits, especially if the project involves altering the existing plumbing, electrical, or structural components. Even minor layout changes can necessitate permits. The specific permits needed depend on the scope of work and local building codes. Opus Builders manages the permitting process, ensuring all renovations comply with City of Los Angeles Department of Building and Safety regulations, which helps avoid delays and ensures the safety and legality of your project.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required for bathroom renovations in Los Angeles, especially for plumbing, electrical, or structural changes. Opus Builders handles the permitting process."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required for bathroom renovations in Los Angeles, especially for plumbing, electrical, or structural changes. Opus Builders handles t"
+}

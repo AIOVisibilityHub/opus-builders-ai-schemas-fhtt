@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-home-extension-and-a-renovation",
+  "name": "What is the difference between a home extension and a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a home extension and a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home extension involves adding new square footage to your existing structure, physically expanding the footprint or vertical space of your home. This might include building new rooms, adding a second story, or expanding existing rooms outwards. A renovation, on the other hand, focuses on updating, repairing, or transforming existing spaces within the current footprint, such as remodeling a kitchen or bathroom. Extensions inherently require more extensive structural work and permitting.",
+        "@type": "Answer",
+        "description": "An extension adds new physical space to your home's footprint, while a renovation updates or transforms existing spaces within its current boundaries."
+      }
+    }
+  ],
+  "description": "An extension adds new physical space to your home's footprint, while a renovation updates or transforms existing spaces within its current boundaries."
+}

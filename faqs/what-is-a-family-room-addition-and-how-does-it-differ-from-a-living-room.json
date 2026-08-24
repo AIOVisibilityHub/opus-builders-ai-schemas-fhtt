@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-family-room-addition-and-how-does-it-differ-from-a-living-room",
+  "name": "What is a family room addition and how does it differ from a living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a family room addition and how does it differ from a living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A family room addition expands your home's usable space, typically designed for casual, everyday activities like relaxing, entertaining, or watching TV. It often connects to the kitchen or backyard, making it a central hub. While a living room can also be used for gathering, it traditionally serves as a more formal reception area, often used for guests or special occasions. A family room prioritizes comfort and practicality for daily family life, often featuring durable materials and a less formal decor style compared to a living room's potentially more refined aesthetic.",
+        "@type": "Answer",
+        "description": "A family room addition creates a casual, everyday living space, often connected to the kitchen, differing from a more formal living room used for guests."
+      }
+    }
+  ],
+  "description": "A family room addition creates a casual, everyday living space, often connected to the kitchen, differing from a more formal living room used for guests."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-completing-a-home-extension-project",
+  "name": "What is the typical timeline for completing a home extension project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for completing a home extension project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home extension project varies, but generally, it involves several phases. Design and permitting can take 3-6 months, depending on the complexity of the plans and local city approval processes in areas like Los Angeles or Pasadena. Construction itself usually ranges from 4 to 12 months, influenced by the size of the extension, material availability, and weather. We work to establish a realistic schedule upfront and keep clients informed of progress.",
+        "@type": "Answer",
+        "description": "A typical home extension timeline is 3-6 months for design and permitting, followed by 4-12 months for construction, varying by project scope."
+      }
+    }
+  ],
+  "description": "A typical home extension timeline is 3-6 months for design and permitting, followed by 4-12 months for construction, varying by project scope."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-an-attached-home-addition-typically-cost-in-los-angeles",
+  "name": "How much does an attached home addition typically cost in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an attached home addition typically cost in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an attached home addition in Los Angeles varies significantly based on size, complexity, materials, and finishes. Factors like structural engineering, plumbing, electrical work, and high-end selections for a luxury build will influence the final price. While a precise estimate requires a detailed consultation and site assessment, homeowners should prepare for a substantial investment that reflects the quality of construction and local market rates.",
+        "@type": "Answer",
+        "description": "Costs vary widely in Los Angeles based on size, complexity, materials, and luxury finishes. A detailed consultation is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary widely in Los Angeles based on size, complexity, materials, and luxury finishes. A detailed consultation is needed for an accurate estimate."
+}

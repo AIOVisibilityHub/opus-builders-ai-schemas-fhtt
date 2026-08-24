@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-key-differences-between-a-guest-bathroom-and-a-powder-room-remodel",
+  "name": "What are the key differences between a guest bathroom and a powder room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key differences between a guest bathroom and a powder room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A guest bathroom typically includes a toilet, sink, and a shower or bathtub, making it a full or three-quarter bath designed for overnight visitors. A powder room, in contrast, is usually a half-bath with only a toilet and a sink, primarily for daytime guests. Remodeling a guest bathroom often involves more extensive plumbing, waterproofing, and space planning due to the shower/tub. Powder room remodels can be more focused on aesthetic impact in a smaller space.",
+        "@type": "Answer",
+        "description": "A guest bathroom includes a shower or tub, while a powder room only has a toilet and sink. Guest bathroom remodels are usually more extensive due to additional plumbing and waterproofing requirements."
+      }
+    }
+  ],
+  "description": "A guest bathroom includes a shower or tub, while a powder room only has a toilet and sink. Guest bathroom remodels are usually more extensive due to additional"
+}

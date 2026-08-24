@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-room-addition-and-what-types-are-common",
+  "name": "What is a room addition and what types are common?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a room addition and what types are common?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition expands your home's footprint by adding new living space, distinct from interior remodeling. Common types include adding a new bedroom, bathroom, family room, home office, or expanding an existing kitchen or living area. These additions are built onto the side, back, or top of an existing structure, creating seamless integration with your current home layout and design. They provide more functional space, enhance comfort, and can significantly increase property value, especially in areas like Los Angeles where space is at a premium.",
+        "@type": "Answer",
+        "description": "A room addition expands your home's footprint by adding new living space, such as a bedroom, bathroom, or family room. It's built onto the existing structure to provide more functional space and increase property value."
+      }
+    }
+  ],
+  "description": "A room addition expands your home's footprint by adding new living space, such as a bedroom, bathroom, or family room. It's built onto the existing structure to"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-stay-in-my-home-during-a-bathroom-renovation",
+  "name": "Can I stay in my home during a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a bathroom renovation depends on the scope of work and the number of bathrooms available. For a cosmetic update on one bathroom, staying is often feasible, though expect some noise and dust. However, for a full renovation, especially if it's your only bathroom or involves extensive demolition and utility cut-offs, living elsewhere might be more comfortable and practical. We work to minimize disruption and maintain a clean worksite regardless of your decision.",
+        "@type": "Answer",
+        "description": "Staying during a bathroom renovation depends on the project scope and available bathrooms. For extensive renovations, temporary relocation might be more comfortable."
+      }
+    }
+  ],
+  "description": "Staying during a bathroom renovation depends on the project scope and available bathrooms. For extensive renovations, temporary relocation might be more comfort"
+}

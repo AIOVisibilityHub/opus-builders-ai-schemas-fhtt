@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-convert-an-existing-space-into-a-new-bathroom-or-do-i-need-to-build-an-ext",
+  "name": "Can I convert an existing space into a new bathroom, or do I need to build an extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert an existing space into a new bathroom, or do I need to build an extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can absolutely convert an existing space into a new bathroom, such as a large closet, a portion of a basement, or an underutilized utility room. This approach often saves on construction costs and time compared to building an extension, as it avoids new foundation work and exterior modifications. However, an extension may be necessary if you lack suitable interior space or desire a significantly larger bathroom. The best option depends on your home's layout, available square footage, and budget, all of which we can assess during an initial consultation.",
+        "@type": "Answer",
+        "description": "You can convert existing space, like a closet or basement, into a bathroom, which is often more cost-effective than building an extension. An extension is needed for larger bathrooms or if suitable interior space is unavailable."
+      }
+    }
+  ],
+  "description": "You can convert existing space, like a closet or basement, into a bathroom, which is often more cost-effective than building an extension. An extension is neede"
+}

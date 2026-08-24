@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-kitchen-addition-and-how-does-it-differ-from-a-kitchen-remodel",
+  "name": "What is a kitchen addition, and how does it differ from a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a kitchen addition, and how does it differ from a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen addition expands your home's footprint to create new kitchen space, often involving foundation work, roofing, and exterior modifications. This is distinct from a kitchen remodel, which focuses on renovating the existing kitchen within its current walls. An addition allows for significant changes in layout, size, and even the relocation of the kitchen, while a remodel updates finishes, fixtures, and appliances without altering the overall room dimensions.",
+        "@type": "Answer",
+        "description": "A kitchen addition expands your home's footprint, while a remodel updates an existing kitchen within its current space."
+      }
+    }
+  ],
+  "description": "A kitchen addition expands your home's footprint, while a remodel updates an existing kitchen within its current space."
+}

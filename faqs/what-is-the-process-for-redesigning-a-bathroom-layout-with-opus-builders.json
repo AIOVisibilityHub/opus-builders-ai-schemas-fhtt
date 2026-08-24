@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-redesigning-a-bathroom-layout-with-opus-builders",
+  "name": "What is the process for redesigning a bathroom layout with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for redesigning a bathroom layout with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and budget. Next, our design team develops preliminary layout concepts and material selections. Once a design is approved, we handle all necessary permitting, especially important in jurisdictions like Los Angeles and Glendale. Construction then commences, managed by our experienced project managers who ensure quality and adherence to the timeline. We maintain open communication throughout, culminating in the final walkthrough and project completion, ensuring your complete satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, construction management, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, construction management, and a final walkthrough to ensure satisfaction."
+}

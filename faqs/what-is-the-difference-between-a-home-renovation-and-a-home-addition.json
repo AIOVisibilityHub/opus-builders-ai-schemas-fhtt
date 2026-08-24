@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-home-renovation-and-a-home-addition",
+  "name": "What is the difference between a home renovation and a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a home renovation and a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home renovation primarily involves updating or improving existing spaces within your home's current footprint, such as remodeling a kitchen or bathroom. A home addition, however, expands the physical size of your home by adding new square footage, like building a new room or a second story. While renovations enhance existing space, additions create entirely new functional areas, often requiring more extensive structural work and permitting.",
+        "@type": "Answer",
+        "description": "A renovation updates existing space, while an addition expands your home by adding new square footage. Additions typically involve more structural work."
+      }
+    }
+  ],
+  "description": "A renovation updates existing space, while an addition expands your home by adding new square footage. Additions typically involve more structural work."
+}

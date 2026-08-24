@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-beginning-a-room-addition-project-with-opus-builders",
+  "name": "What is the process for beginning a room addition project with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for beginning a room addition project with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process with Opus Builders typically begins with an initial consultation to discuss your vision, needs, and budget. Following this, our design team develops conceptual plans, incorporating your ideas and site-specific considerations. Once a design direction is established, we proceed with detailed architectural drawings, engineering, and secure all necessary permits. The construction phase follows, with our project managers overseeing every detail. We maintain open communication throughout, culminating in the final walkthrough and project completion, ensuring your satisfaction with the new space.",
+        "@type": "Answer",
+        "description": "Our process begins with a consultation to discuss your vision, followed by conceptual design, detailed architectural plans, and permit acquisition. The construction phase is managed with open communication, concluding with a final walkthrough."
+      }
+    }
+  ],
+  "description": "Our process begins with a consultation to discuss your vision, followed by conceptual design, detailed architectural plans, and permit acquisition. The construc"
+}

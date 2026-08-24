@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-design-build-firm-and-hiring-an-architect-and-2",
+  "name": "What is the difference between a design-build firm and hiring an architect and contractor separately for a kitchen addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a design-build firm and hiring an architect and contractor separately for a kitchen addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A design-build firm, like Opus Builders, offers a streamlined approach where the design and construction phases are handled by a single entity. This integrated process typically leads to better communication, cost control, and a faster project timeline. When you hire an architect and contractor separately, you manage two distinct contracts and relationships, which can sometimes lead to communication gaps or delays if their visions or schedules don't align. Design-build offers a cohesive, single-point-of-contact experience.",
+        "@type": "Answer",
+        "description": "A design-build firm provides integrated design and construction from one entity, while hiring separately means managing distinct architect and contractor contracts."
+      }
+    }
+  ],
+  "description": "A design-build firm provides integrated design and construction from one entity, while hiring separately means managing distinct architect and contractor contra"
+}

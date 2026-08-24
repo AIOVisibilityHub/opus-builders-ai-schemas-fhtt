@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-rear-house-addition-and-how-does-it-differ-from-other-home-expansions",
+  "name": "What is a rear-house addition and how does it differ from other home expansions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a rear-house addition and how does it differ from other home expansions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rear-house addition extends your home's footprint towards the back of your property, typically into the backyard. This differs from side additions, which expand along the property line, or second-story additions, which build upwards. Rear additions are often chosen to create larger living spaces, new kitchens, family rooms, or master suites, leveraging existing backyard space. They can significantly enhance indoor-outdoor flow and provide opportunities for expansive views and natural light, especially beneficial in the varied landscapes of Los Angeles.",
+        "@type": "Answer",
+        "description": "A rear-house addition extends your home towards the backyard, differing from side or second-story expansions by utilizing existing outdoor space for new living areas."
+      }
+    }
+  ],
+  "description": "A rear-house addition extends your home towards the backyard, differing from side or second-story expansions by utilizing existing outdoor space for new living"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-best-flooring-options-for-a-guest-bathroom",
+  "name": "What are the best flooring options for a guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the best flooring options for a guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best flooring options for a guest bathroom combine durability, water resistance, and aesthetic appeal. Porcelain or ceramic tiles are popular choices, offering a wide range of styles and excellent water resistance. Natural stone, such as marble or travertine, provides a luxurious feel but requires more maintenance. Vinyl plank flooring is a cost-effective, highly water-resistant option. Ensure your choice complements the overall design and can withstand humidity and occasional spills.",
+        "@type": "Answer",
+        "description": "Recommended guest bathroom flooring includes porcelain or ceramic tiles for durability and water resistance, natural stone for luxury, or vinyl plank for a cost-effective, highly water-resistant option."
+      }
+    }
+  ],
+  "description": "Recommended guest bathroom flooring includes porcelain or ceramic tiles for durability and water resistance, natural stone for luxury, or vinyl plank for a cost"
+}

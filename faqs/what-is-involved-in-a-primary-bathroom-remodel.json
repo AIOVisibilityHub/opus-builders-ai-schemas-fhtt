@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-a-primary-bathroom-remodel",
+  "name": "What is involved in a primary bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a primary bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary bathroom remodel typically involves updating fixtures, finishes, and the layout to enhance aesthetics, functionality, and value. This can include replacing bathtubs, showers, toilets, and vanities, as well as updating flooring, lighting, and ventilation. Some remodels may also involve reconfiguring the space to create a larger shower, add a double vanity, or incorporate luxury features like heated floors or smart mirrors. The scope depends on your vision and budget, aiming to transform the space into a personalized sanctuary.",
+        "@type": "Answer",
+        "description": "A primary bathroom remodel updates fixtures, finishes, and layout, often including new showers, vanities, flooring, and lighting to enhance functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "A primary bathroom remodel updates fixtures, finishes, and layout, often including new showers, vanities, flooring, and lighting to enhance functionality and ae"
+}

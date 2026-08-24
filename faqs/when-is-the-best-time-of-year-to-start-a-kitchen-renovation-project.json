@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-is-the-best-time-of-year-to-start-a-kitchen-renovation-project",
+  "name": "When is the best time of year to start a kitchen renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to start a kitchen renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There isn't a universally 'best' time to start a kitchen renovation, as it often depends on personal schedules and preferences. However, many homeowners prefer to begin projects in late winter or early spring to have their new kitchen ready by summer or for holiday entertaining in the fall. Starting in the off-peak season might offer more flexibility with contractor availability and material lead times. Opus Builders can accommodate projects year-round, prioritizing your timeline and minimizing disruption.",
+        "@type": "Answer",
+        "description": "The best time to start a kitchen renovation depends on personal schedules, though late winter/early spring is popular to finish by summer or fall."
+      }
+    }
+  ],
+  "description": "The best time to start a kitchen renovation depends on personal schedules, though late winter/early spring is popular to finish by summer or fall."
+}

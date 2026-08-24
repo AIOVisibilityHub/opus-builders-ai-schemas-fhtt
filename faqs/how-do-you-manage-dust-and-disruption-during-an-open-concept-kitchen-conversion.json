@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-you-manage-dust-and-disruption-during-an-open-concept-kitchen-conversion",
+  "name": "How do you manage dust and disruption during an open-concept kitchen conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you manage dust and disruption during an open-concept kitchen conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an open-concept kitchen conversion, Opus Builders implements comprehensive measures to minimize dust and disruption. We utilize dust barriers, air scrubbers, and negative air pressure systems to contain debris. Daily site clean-up is performed, and pathways are protected. We communicate closely with homeowners about work schedules and provide temporary amenities where possible. Our goal is to maintain a safe and as comfortable living environment as possible throughout the renovation process, from demolition to final touches.",
+        "@type": "Answer",
+        "description": "We manage dust and disruption using barriers, air scrubbers, daily clean-ups, and clear communication to maintain a safe living environment."
+      }
+    }
+  ],
+  "description": "We manage dust and disruption using barriers, air scrubbers, daily clean-ups, and clear communication to maintain a safe living environment."
+}

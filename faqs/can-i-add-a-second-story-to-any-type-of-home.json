@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-add-a-second-story-to-any-type-of-home",
+  "name": "Can I add a second story to any type of home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a second story to any type of home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While most single-story homes can accommodate a second-story addition, it largely depends on the existing foundation and structural integrity. A thorough structural assessment is crucial to determine if the current foundation can support the added weight or if reinforcements are necessary. The architectural style, local zoning regulations, and soil conditions also play a role in feasibility. Our experts conduct detailed evaluations to ensure a safe and successful project.",
+        "@type": "Answer",
+        "description": "Most single-story homes can get a second story, but it requires a thorough structural assessment of the foundation and adherence to local zoning."
+      }
+    }
+  ],
+  "description": "Most single-story homes can get a second story, but it requires a thorough structural assessment of the foundation and adherence to local zoning."
+}

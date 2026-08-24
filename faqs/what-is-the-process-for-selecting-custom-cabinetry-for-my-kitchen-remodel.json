@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-selecting-custom-cabinetry-for-my-kitchen-remodel",
+  "name": "What is the process for selecting custom cabinetry for my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for selecting custom cabinetry for my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for selecting custom cabinetry begins during the design phase. We'll discuss your aesthetic preferences, storage needs, and desired functionality. Our designers will then present various wood species, door styles (e.g., Shaker, contemporary, traditional), finishes, and hardware options. Custom cabinetry allows for precise fit, personalized storage solutions like pull-out pantries or spice racks, and unique design elements. We'll provide detailed drawings and material samples to ensure every aspect aligns with your vision and budget, culminating in a beautiful and highly functional kitchen.",
+        "@type": "Answer",
+        "description": "Selecting custom cabinetry involves discussing preferences, storage needs, and functionality, then choosing from various wood species, door styles, finishes, and hardware with detailed drawings and samples."
+      }
+    }
+  ],
+  "description": "Selecting custom cabinetry involves discussing preferences, storage needs, and functionality, then choosing from various wood species, door styles, finishes, an"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-adding-a-bathroom-to-my-home",
+  "name": "When should I consider adding a bathroom to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider adding a bathroom to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider adding a bathroom if your current home-to-bathroom ratio is causing inconvenience, you frequently host guests, or you are looking to increase your property value. It's also a smart decision if your family is growing, or if you desire more privacy and comfort, such as an en-suite master bath. Adding a bathroom can significantly improve daily living and is a common renovation that yields a good return on investment, particularly in competitive housing markets where additional amenities are highly valued.",
+        "@type": "Answer",
+        "description": "Consider adding a bathroom if you need more convenience, host guests often, want to boost property value, or need more privacy, like an en-suite master bath."
+      }
+    }
+  ],
+  "description": "Consider adding a bathroom if you need more convenience, host guests often, want to boost property value, or need more privacy, like an en-suite master bath."
+}

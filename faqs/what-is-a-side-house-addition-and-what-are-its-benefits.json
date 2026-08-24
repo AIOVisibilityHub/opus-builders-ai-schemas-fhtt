@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-side-house-addition-and-what-are-its-benefits",
+  "name": "What is a side-house addition and what are its benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a side-house addition and what are its benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A side-house addition, also known as a lateral extension, expands your home's footprint by building onto its side. This type of addition is ideal for homeowners who need more living space but lack vertical expansion options or backyard space. Benefits include creating new bedrooms, a larger kitchen, a dedicated home office, or an accessory dwelling unit (ADU). It can significantly increase property value and improve functionality without requiring you to move or alter your existing roofline extensively.",
+        "@type": "Answer",
+        "description": "A side-house addition expands your home laterally, providing additional living space or functional areas like bedrooms, offices, or ADUs, and can increase property value."
+      }
+    }
+  ],
+  "description": "A side-house addition expands your home laterally, providing additional living space or functional areas like bedrooms, offices, or ADUs, and can increase prope"
+}

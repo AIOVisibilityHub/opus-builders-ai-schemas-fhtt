@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-of-planning-a-home-addition",
+  "name": "What is the process of planning a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of planning a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of planning a home addition typically begins with defining your needs and budget, followed by engaging an architect for design development and structural engineering. This phase involves creating detailed blueprints that comply with local building codes. Next, you'll secure necessary permits from your city's planning department. Once permits are approved, the construction phase can commence. Throughout, clear communication with your design and build team is essential to ensure the project meets your vision and expectations.",
+        "@type": "Answer",
+        "description": "Planning a home addition involves defining needs and budget, engaging an architect for design and engineering, securing necessary permits, and then starting construction. Clear communication is key throughout."
+      }
+    }
+  ],
+  "description": "Planning a home addition involves defining needs and budget, engaging an architect for design and engineering, securing necessary permits, and then starting con"
+}

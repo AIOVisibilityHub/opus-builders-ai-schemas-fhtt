@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-changing-a-kitchen-layout",
+  "name": "What factors influence the cost of changing a kitchen layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of changing a kitchen layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of changing a kitchen layout. These include the scope of structural changes (moving walls, windows, or doors), the extent of plumbing and electrical reconfigurations, the choice of materials for cabinetry, countertops, and flooring, and the selection of appliances. Permitting fees, design services, and labor costs for skilled tradespeople also contribute significantly. We provide detailed estimates after an initial consultation to ensure transparency regarding the investment required.",
+        "@type": "Answer",
+        "description": "Costs for kitchen layout changes depend on structural work, plumbing/electrical, material selections, appliances, permits, design, and labor."
+      }
+    }
+  ],
+  "description": "Costs for kitchen layout changes depend on structural work, plumbing/electrical, material selections, appliances, permits, design, and labor."
+}

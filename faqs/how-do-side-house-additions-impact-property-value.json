@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-side-house-additions-impact-property-value",
+  "name": "How do side-house additions impact property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do side-house additions impact property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and constructed side-house addition can significantly increase your property's value. By adding square footage, improving functionality, and modernizing living spaces, you make your home more appealing to potential buyers. The return on investment depends on factors like the quality of the addition, its integration with the existing home, and local market conditions. Generally, additions that add useful space like bedrooms, bathrooms, or dedicated offices yield a strong return.",
+        "@type": "Answer",
+        "description": "A well-executed side-house addition can significantly boost property value by adding functional space and modernizing the home, making it more attractive to buyers."
+      }
+    }
+  ],
+  "description": "A well-executed side-house addition can significantly boost property value by adding functional space and modernizing the home, making it more attractive to buy"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-a-guest-bathroom-remodel-in-los-angeles",
+  "name": "What permits are required for a guest bathroom remodel in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a guest bathroom remodel in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for a guest bathroom remodel in Los Angeles depend on the scope of work. Generally, permits are needed for significant changes to plumbing, electrical systems, or structural elements, as well as for expanding the room's footprint. Cosmetic updates like painting or replacing fixtures typically do not require permits. Opus Builders manages all necessary permit applications and ensures compliance with local building codes and regulations specific to Los Angeles and surrounding areas, simplifying the process for you.",
+        "@type": "Answer",
+        "description": "Permits are usually required for guest bathroom remodels in Los Angeles that involve changes to plumbing, electrical, or structural components. Opus Builders handles all necessary permit applications."
+      }
+    }
+  ],
+  "description": "Permits are usually required for guest bathroom remodels in Los Angeles that involve changes to plumbing, electrical, or structural components. Opus Builders ha"
+}

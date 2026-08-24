@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-needed-for-a-kitchen-renovation-in-los-angeles",
+  "name": "What permits are needed for a kitchen renovation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a kitchen renovation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen renovations in Los Angeles, permits are typically required for any structural changes, significant plumbing or electrical work, or modifications that alter the building's footprint. This includes moving walls, adding or relocating gas lines, or installing new windows. Minor cosmetic updates usually do not require permits. Opus Builders manages the entire permitting process on behalf of our clients, ensuring all work complies with local building codes and regulations for Los Angeles, Glendale, and Pasadena jurisdictions.",
+        "@type": "Answer",
+        "description": "Permits are usually required for structural, plumbing, or electrical changes in Los Angeles kitchen renovations. Opus Builders handles the permit process."
+      }
+    }
+  ],
+  "description": "Permits are usually required for structural, plumbing, or electrical changes in Los Angeles kitchen renovations. Opus Builders handles the permit process."
+}
