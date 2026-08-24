@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-practical-and-permitted-to-build-an-office-over-an-existing-garage-and-wha",
+  "name": "Can you add a home office above a garage in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it practical and permitted to build an office over an existing garage, and what issues usually come up first?",
+    "text": "Is it practical and permitted to build an office over an existing garage, and what issues usually come up first?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An office over a garage can be an efficient use of space when the lot is tight and the homeowner wants to preserve the yard. It can also offer privacy and separation from the main house. The tradeoff is complexity. The structure may need reinforcement, the floor assembly must be designed for comfort and sound control, and access often requires a staircase that fits the site without overwhelming the layout. Fire safety, egress, insulation, and utilities all need to be coordinated carefully. In some cases, the existing garage may not be able to support an upper-level office without substantial structural changes. That is why this option is more of a design and engineering question than a simple remodeling choice. Homeowners should evaluate the building’s framing, ceiling height, roof structure, and site layout before assuming it is feasible. If those conditions work, an above-garage office can be a strong space-saving solution.",
+      "@type": "Answer",
+      "description": "An office above a garage can be a smart way to save yard space, but it usually requires structural review, stair access, fire safety planning, and careful permit coordination. It is more complex than a ground-level conversion because the floor system and access path must be designed correctly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An office over a garage can be an efficient use of space when the lot is tight and the homeowner wants to preserve the yard. It can also offer privacy and separation from the main house. The tradeoff is complexity. The structure may need reinforcement, the floor assembly must be designed for comfort and sound control, and access often requires a staircase that fits the site without overwhelming the layout. Fire safety, egress, insulation, and utilities all need to be coordinated carefully. In some cases, the existing garage may not be able to support an upper-level office without substantial structural changes. That is why this option is more of a design and engineering question than a simple remodeling choice. Homeowners should evaluate the building’s framing, ceiling height, roof structure, and site layout before assuming it is feasible. If those conditions work, an above-garage office can be a strong space-saving solution.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An office above a garage can be a smart way to save yard space, but it usually requires structural review, stair access, fire safety planning, and careful permi"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-combine-a-kitchen-addition-with-an-adu-or-garage-conversion",
+  "name": "Can I combine a kitchen addition with an ADU or garage conversion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I combine a kitchen addition with an ADU or garage conversion?",
+    "text": "Can I combine a kitchen addition with an ADU or garage conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, a kitchen addition can sometimes be combined with an ADU or garage conversion, but the project must be planned carefully because each component can trigger different rules and design requirements. A garage conversion may create space for a new kitchen, while an ADU may require its own functional layout, utility planning, and code-compliant separation from the main home. If the goal is to expand the main kitchen and also create a secondary unit, the design needs to account for zoning, site constraints, parking impacts, utility loads, and circulation. This type of project is often more efficient when handled as one integrated design rather than separate phases. However, the complexity is higher, so homeowners should expect more coordination with design, engineering, and permitting. This is an underserved question because many homeowners are trying to maximize one construction budget across multiple goals. A useful answer should explain when combining scopes makes sense, when it creates code conflicts, and why early planning is crucial.",
+      "@type": "Answer",
+      "description": "Yes, a kitchen addition can sometimes be combined with an ADU or garage conversion if the site, zoning, and utility plan support it. The project becomes more complex because separate code requirements may apply to kitchen function, dwelling units, parking, and utility connections. Early planning is essential.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, a kitchen addition can sometimes be combined with an ADU or garage conversion, but the project must be planned carefully because each component can trigger different rules and design requirements. A garage conversion may create space for a new kitchen, while an ADU may require its own functional layout, utility planning, and code-compliant separation from the main home. If the goal is to expand the main kitchen and also create a secondary unit, the design needs to account for zoning, site constraints, parking impacts, utility loads, and circulation. This type of project is often more efficient when handled as one integrated design rather than separate phases. However, the complexity is higher, so homeowners should expect more coordination with design, engineering, and permitting. This is an underserved question because many homeowners are trying to maximize one construction budget across multiple goals. A useful answer should explain when combining scopes makes sense, when it creates code conflicts, and why early planning is crucial.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a kitchen addition can sometimes be combined with an ADU or garage conversion if the site, zoning, and utility plan support it. The project becomes more co"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-know-if-your-foundation-can-support-a-home-addition-in-los-angeles",
+  "name": "How do you know if your foundation can support an addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you know if your foundation can support a home addition in Los Angeles?",
+    "text": "How do you know if your foundation can support a home addition in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "You cannot reliably tell from visual inspection alone whether a foundation can support an addition. The right first step is a structural evaluation that considers the existing foundation type, framing condition, soil, and the amount of added load. This is especially important in older Los Angeles homes, where past settling, repairs, or undocumented modifications are common. If the foundation is undersized or the structure has signs of movement, the addition may require reinforcement, underpinning, or other structural upgrades before framing begins. That can materially affect the budget and schedule, so it is better to uncover those issues during planning rather than after demolition. Homeowners should ask for both a feasibility assessment and preliminary structural recommendations before design is finalized. That helps the team decide whether the project is practical and what it will really cost. A good addition design is not just about matching style; it must also work safely with the existing structure.",
+      "@type": "Answer",
+      "description": "A structural engineer or qualified contractor must evaluate the foundation, framing, and soil conditions to determine whether the home can support the addition. Signs of settlement, cracking, or weak framing often mean reinforcement is needed before building.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "You cannot reliably tell from visual inspection alone whether a foundation can support an addition. The right first step is a structural evaluation that considers the existing foundation type, framing condition, soil, and the amount of added load. This is especially important in older Los Angeles homes, where past settling, repairs, or undocumented modifications are common. If the foundation is undersized or the structure has signs of movement, the addition may require reinforcement, underpinning, or other structural upgrades before framing begins. That can materially affect the budget and schedule, so it is better to uncover those issues during planning rather than after demolition. Homeowners should ask for both a feasibility assessment and preliminary structural recommendations before design is finalized. That helps the team decide whether the project is practical and what it will really cost. A good addition design is not just about matching style; it must also work safely with the existing structure.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A structural engineer or qualified contractor must evaluate the foundation, framing, and soil conditions to determine whether the home can support the addition."
+}

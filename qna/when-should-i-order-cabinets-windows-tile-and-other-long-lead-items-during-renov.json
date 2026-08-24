@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-should-i-order-cabinets-windows-tile-and-other-long-lead-items-during-renov",
+  "name": "How early should I order long-lead materials for a renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When should I order cabinets, windows, tile, and other long-lead items during renovation planning?",
+    "text": "When should I order cabinets, windows, tile, and other long-lead items during renovation planning?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Long-lead materials should be planned early, but not ordered blindly before the design is locked. Cabinets, windows, specialty tile, custom doors, and high-end fixtures can take weeks or months to arrive, which means they can become the schedule bottleneck if ordered too late. At the same time, ordering too soon can create problems if measurements change during final design or permit review. The best timing is after the layout, dimensions, and major selections are stable. For complex renovations, it helps to identify long-lead items during planning and create a procurement calendar before demolition begins. Homeowners should confirm lead times with vendors, check what dimensions depend on permit approval, and coordinate deliveries with the construction schedule. A clear procurement plan prevents the common situation where framing is ready but the project stalls waiting for cabinets or windows.",
+      "@type": "Answer",
+      "description": "Long-lead items should be ordered only after the design is stable and key dimensions are confirmed. Cabinets, windows, specialty fixtures, and custom materials often take weeks or months, so they should be selected early enough to avoid delaying construction.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Long-lead materials should be planned early, but not ordered blindly before the design is locked. Cabinets, windows, specialty tile, custom doors, and high-end fixtures can take weeks or months to arrive, which means they can become the schedule bottleneck if ordered too late. At the same time, ordering too soon can create problems if measurements change during final design or permit review. The best timing is after the layout, dimensions, and major selections are stable. For complex renovations, it helps to identify long-lead items during planning and create a procurement calendar before demolition begins. Homeowners should confirm lead times with vendors, check what dimensions depend on permit approval, and coordinate deliveries with the construction schedule. A clear procurement plan prevents the common situation where framing is ready but the project stalls waiting for cabinets or windows.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Long-lead items should be ordered only after the design is stable and key dimensions are confirmed. Cabinets, windows, specialty fixtures, and custom materials "
+}

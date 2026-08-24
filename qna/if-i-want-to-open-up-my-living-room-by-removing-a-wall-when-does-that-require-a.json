@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-want-to-open-up-my-living-room-by-removing-a-wall-when-does-that-require-a",
+  "name": "Do I need a permit to remove a wall in a living room?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I want to open up my living room by removing a wall, when does that require a permit in Glendale, Pasadena, or Los Angeles?",
+    "text": "If I want to open up my living room by removing a wall, when does that require a permit in Glendale, Pasadena, or Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Any wall removal should be evaluated before work begins. If the wall supports loads from above, ties into shear elements, or contains wiring, plumbing, or ductwork, permits and engineering are usually required. In many Los Angeles-area cities, even cosmetic changes can trigger review when they affect egress, fire safety, or the building envelope. The safest approach is to have the contractor or designer inspect the wall, identify whether it is load-bearing, and confirm what the local building department will require. Skipping this step can lead to costly rework, inspection delays, or problems when you later sell the home. Homeowners should also ask whether temporary shoring, structural drawings, or plan check is needed. If the goal is an open-concept layout, the permit conversation should happen during design, not after demolition has started.",
+      "@type": "Answer",
+      "description": "Yes, wall removal usually requires a permit if the wall is structural or if the work affects electrical, plumbing, or mechanical systems. Even non-structural changes can require approval when they alter the home’s layout or safety systems. A contractor should confirm permit needs before demolition starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Any wall removal should be evaluated before work begins. If the wall supports loads from above, ties into shear elements, or contains wiring, plumbing, or ductwork, permits and engineering are usually required. In many Los Angeles-area cities, even cosmetic changes can trigger review when they affect egress, fire safety, or the building envelope. The safest approach is to have the contractor or designer inspect the wall, identify whether it is load-bearing, and confirm what the local building department will require. Skipping this step can lead to costly rework, inspection delays, or problems when you later sell the home. Homeowners should also ask whether temporary shoring, structural drawings, or plan check is needed. If the goal is an open-concept layout, the permit conversation should happen during design, not after demolition has started.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, wall removal usually requires a permit if the wall is structural or if the work affects electrical, plumbing, or mechanical systems. Even non-structural ch"
+}

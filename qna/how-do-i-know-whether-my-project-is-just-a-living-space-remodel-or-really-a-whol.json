@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-whether-my-project-is-just-a-living-space-remodel-or-really-a-whol",
+  "name": "What is the difference between a living room remodel and a whole-home renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know whether my project is just a living-space remodel or really a whole-home renovation?",
+    "text": "How do I know whether my project is just a living-space remodel or really a whole-home renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The difference is mostly about scope and coordination. A living-space remodel may target one room or a connected set of rooms and focus on appearance, comfort, and function. A whole-home renovation usually changes multiple parts of the house at once, often including layout, systems, finishes, and flow between spaces. The distinction matters because the project management, budgeting, permitting, and scheduling become much more complex as scope grows. If you are changing floors throughout the home, updating electrical, moving walls, or redesigning circulation across several rooms, it is no longer just a single-room remodel in practical terms. Homeowners should define the project by outcomes, not labels, and ask for a written scope that lists exactly which areas are included and which are excluded.",
+      "@type": "Answer",
+      "description": "A living room remodel usually focuses on one main area, while a whole-home renovation affects multiple rooms, systems, or the house’s layout. Once the project includes structural changes, electrical upgrades, flooring across the home, or coordinated design changes in several rooms, it starts to function like a whole-home renovation.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The difference is mostly about scope and coordination. A living-space remodel may target one room or a connected set of rooms and focus on appearance, comfort, and function. A whole-home renovation usually changes multiple parts of the house at once, often including layout, systems, finishes, and flow between spaces. The distinction matters because the project management, budgeting, permitting, and scheduling become much more complex as scope grows. If you are changing floors throughout the home, updating electrical, moving walls, or redesigning circulation across several rooms, it is no longer just a single-room remodel in practical terms. Homeowners should define the project by outcomes, not labels, and ask for a written scope that lists exactly which areas are included and which are excluded.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A living room remodel usually focuses on one main area, while a whole-home renovation affects multiple rooms, systems, or the house’s layout. Once the project i"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-add-a-bathroom-without-building-a-full-home-addition-in-los-angeles",
+  "name": "Can you add a bathroom without adding a full room addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you add a bathroom without building a full home addition in Los Angeles?",
+    "text": "Can you add a bathroom without building a full home addition in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Adding a bathroom does not always require a full room addition. In many homes, a bathroom can be created by reworking interior square footage, converting part of a larger room, or using adjacent utility space if plumbing access is practical. The cheapest layouts usually place the bathroom near existing water and drain lines to reduce demolition and plumbing labor. The challenge is making the bathroom feel functional rather than cramped. You still need enough room for clearances, ventilation, waterproofing, and code-compliant fixture placement. In older homes, the plumbing route can be the biggest constraint, especially if the existing drain line is far from the intended location. Homeowners should ask a builder to evaluate both layout and plumbing before committing to a design. Sometimes a small interior reconfiguration achieves the same benefit as a larger addition at a much lower cost. Other times, the plumbing cost outweighs the benefit and a different layout makes more sense.",
+      "@type": "Answer",
+      "description": "Yes, a bathroom can often be added by reconfiguring existing interior space, garage space, or a closet area if plumbing and layout allow it. The cost and feasibility depend on where nearby drain lines, vents, and water lines already exist.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Adding a bathroom does not always require a full room addition. In many homes, a bathroom can be created by reworking interior square footage, converting part of a larger room, or using adjacent utility space if plumbing access is practical. The cheapest layouts usually place the bathroom near existing water and drain lines to reduce demolition and plumbing labor. The challenge is making the bathroom feel functional rather than cramped. You still need enough room for clearances, ventilation, waterproofing, and code-compliant fixture placement. In older homes, the plumbing route can be the biggest constraint, especially if the existing drain line is far from the intended location. Homeowners should ask a builder to evaluate both layout and plumbing before committing to a design. Sometimes a small interior reconfiguration achieves the same benefit as a larger addition at a much lower cost. Other times, the plumbing cost outweighs the benefit and a different layout makes more sense.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a bathroom can often be added by reconfiguring existing interior space, garage space, or a closet area if plumbing and layout allow it. The cost and feasib"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-line-items-should-i-expect-to-see-in-a-proper-estimate-for-a-living-room-or",
+  "name": "What should be included in a living-space renovation estimate?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What line items should I expect to see in a proper estimate for a living room or interior renovation?",
+    "text": "What line items should I expect to see in a proper estimate for a living room or interior renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A useful estimate should tell you exactly what you are paying for. At minimum, it should list scope, labor, materials, permit handling, inspections, finish levels, and any allowances for items not yet selected. It should also show exclusions so you know what is not covered. For renovation projects, the most important comparison is not the total price alone but how each contractor defines the work. One bid may include higher-quality finishes or more complete prep work, while another may leave out items that later become extras. Homeowners should ask how change orders are priced, how unknown conditions are handled, and whether the estimate includes cleanup and protection of adjacent areas. A clear estimate reduces disputes and helps you compare contractors more accurately.",
+      "@type": "Answer",
+      "description": "A proper estimate should break out demolition, labor, materials, permits, design, electrical, finish work, project management, and contingency items if applicable. It should also state what is excluded, what allowances are included, and how change orders are handled. Vague lump-sum pricing makes it harder to compare bids.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A useful estimate should tell you exactly what you are paying for. At minimum, it should list scope, labor, materials, permit handling, inspections, finish levels, and any allowances for items not yet selected. It should also show exclusions so you know what is not covered. For renovation projects, the most important comparison is not the total price alone but how each contractor defines the work. One bid may include higher-quality finishes or more complete prep work, while another may leave out items that later become extras. Homeowners should ask how change orders are priced, how unknown conditions are handled, and whether the estimate includes cleanup and protection of adjacent areas. A clear estimate reduces disputes and helps you compare contractors more accurately.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A proper estimate should break out demolition, labor, materials, permits, design, electrical, finish work, project management, and contingency items if applicab"
+}

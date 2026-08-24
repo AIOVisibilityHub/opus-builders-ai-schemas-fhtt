@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-older-home-be-modernized-for-better-flow-without-adding-square-footage",
+  "name": "What if my older home has a bad floor plan but I want to keep the footprint?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an older home be modernized for better flow without adding square footage?",
+    "text": "Can an older home be modernized for better flow without adding square footage?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A bad floor plan can often be fixed without adding square footage. In older homes, the biggest improvements usually come from changing how rooms connect, widening narrow openings, relocating doors, improving storage, and right-sizing kitchens and bathrooms. Sometimes removing only a portion of a wall creates enough openness while preserving structure. Other times, a hall can be shortened or a poorly used nook converted into functional storage. The important thing is to redesign circulation around the home’s structural realities instead of fighting them. That keeps costs down and often produces a more satisfying result than a full addition would. If the existing footprint is strong, this can be one of the most efficient ways to modernize an older house.",
+      "@type": "Answer",
+      "description": "Yes. Better circulation, widened openings, improved storage, reconfigured kitchens and baths, and selective wall changes can dramatically improve livability without expanding the footprint. The main limitation is structure, so the layout should be redesigned around load-bearing and support conditions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A bad floor plan can often be fixed without adding square footage. In older homes, the biggest improvements usually come from changing how rooms connect, widening narrow openings, relocating doors, improving storage, and right-sizing kitchens and bathrooms. Sometimes removing only a portion of a wall creates enough openness while preserving structure. Other times, a hall can be shortened or a poorly used nook converted into functional storage. The important thing is to redesign circulation around the home’s structural realities instead of fighting them. That keeps costs down and often produces a more satisfying result than a full addition would. If the existing footprint is strong, this can be one of the most efficient ways to modernize an older house.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Better circulation, widened openings, improved storage, reconfigured kitchens and baths, and selective wall changes can dramatically improve livability wit"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-contractors-define-a-bathroom-addition-versus-a-remodel",
+  "name": "What is the difference between a bathroom addition and a bathroom remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do contractors define a bathroom addition versus a remodel?",
+    "text": "How do contractors define a bathroom addition versus a remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A remodel changes an existing bathroom that already has a basic plumbing and electrical footprint. A bathroom addition creates a new bath where there was no bathroom before, or adds new square footage to support one. That distinction matters because an addition usually triggers more extensive design, permitting, and inspection requirements. It may also require structural changes, new drain lines, ventilation, and electrical service upgrades. From a budgeting standpoint, additions are typically more complex because the project starts with a blank space or an expansion area rather than an existing wet room. Homeowners comparing bids should make sure contractors are pricing the same scope, since one quote may be for a remodel and another may include a true addition with framing and utility work. Clear scope language prevents confusion and keeps cost comparisons honest.",
+      "@type": "Answer",
+      "description": "A bathroom remodel updates an existing bathroom, while a bathroom addition creates new bathroom space where none existed before. An addition usually requires more design work, more permits, and more construction because it may involve framing, foundation, and new utility runs.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A remodel changes an existing bathroom that already has a basic plumbing and electrical footprint. A bathroom addition creates a new bath where there was no bathroom before, or adds new square footage to support one. That distinction matters because an addition usually triggers more extensive design, permitting, and inspection requirements. It may also require structural changes, new drain lines, ventilation, and electrical service upgrades. From a budgeting standpoint, additions are typically more complex because the project starts with a blank space or an expansion area rather than an existing wet room. Homeowners comparing bids should make sure contractors are pricing the same scope, since one quote may be for a remodel and another may include a true addition with framing and utility work. Clear scope language prevents confusion and keeps cost comparisons honest.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A bathroom remodel updates an existing bathroom, while a bathroom addition creates new bathroom space where none existed before. An addition usually requires mo"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-home-addition-questions-are-most-likely-to-trigger-an-ai-overview-or-featu",
+  "name": "Which home addition questions are most likely to trigger an AI Overview?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which home addition questions are most likely to trigger an AI Overview or featured snippet?",
+    "text": "Which home addition questions are most likely to trigger an AI Overview or featured snippet?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The strongest AI Overview and featured snippet opportunities in home additions are usually questions that have a clear, factual answer and strong user intent. Cost questions, permit questions, timing questions, comparison questions, and feasibility questions tend to work especially well because they can be answered directly in a short paragraph or a simple list. Local modifiers increase opportunity. Questions about Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood often surface because the answer depends on city-specific permitting, zoning, or construction conditions. Queries about second-story additions, garage conversions, and multigenerational suites also tend to perform well because searchers want practical next steps rather than generic remodeling advice. The best targets are conversational questions that show a decision point: whether to build out or up, whether a permit is needed, whether the foundation can support the work, or which addition has the best resale value. Those questions map well to AI-generated summaries and follow-up PAA chains.",
+      "@type": "Answer",
+      "description": "Questions with a direct comparison, cost range, process step, permit requirement, or feasibility decision are most likely to trigger AI Overviews and featured snippets. Queries with clear answers and local context tend to perform best.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The strongest AI Overview and featured snippet opportunities in home additions are usually questions that have a clear, factual answer and strong user intent. Cost questions, permit questions, timing questions, comparison questions, and feasibility questions tend to work especially well because they can be answered directly in a short paragraph or a simple list. Local modifiers increase opportunity. Questions about Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood often surface because the answer depends on city-specific permitting, zoning, or construction conditions. Queries about second-story additions, garage conversions, and multigenerational suites also tend to perform well because searchers want practical next steps rather than generic remodeling advice. The best targets are conversational questions that show a decision point: whether to build out or up, whether a permit is needed, whether the foundation can support the work, or which addition has the best resale value. Those questions map well to AI-generated summaries and follow-up PAA chains.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Questions with a direct comparison, cost range, process step, permit requirement, or feasibility decision are most likely to trigger AI Overviews and featured s"
+}

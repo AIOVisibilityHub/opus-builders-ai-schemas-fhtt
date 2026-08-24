@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-bathroom-addition-affect-assessed-value-and-taxes",
+  "name": "Will adding a bathroom trigger a property tax increase in California?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a bathroom addition affect assessed value and taxes?",
+    "text": "How does a bathroom addition affect assessed value and taxes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A bathroom addition can affect property taxes because the new construction may be added to the home’s assessed value. In California, the tax impact is typically based on the value of the improvement rather than a full reassessment of the entire property. That means the increase is usually tied to the new bathroom itself, not a reset of the home’s entire tax basis. The exact impact depends on the scope, permits, and how the local assessor records the improvement. For homeowners, this is usually a manageable tradeoff compared with the functional and resale benefits of a new bathroom. If tax sensitivity is a concern, it is worth understanding how the project will be documented and assessed before construction begins.",
+      "@type": "Answer",
+      "description": "A permitted bathroom addition can increase assessed value because the new improvement is added to the property’s taxable value. The increase is usually tied to the value of the added work, not a full reassessment of the entire home.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A bathroom addition can affect property taxes because the new construction may be added to the home’s assessed value. In California, the tax impact is typically based on the value of the improvement rather than a full reassessment of the entire property. That means the increase is usually tied to the new bathroom itself, not a reset of the home’s entire tax basis. The exact impact depends on the scope, permits, and how the local assessor records the improvement. For homeowners, this is usually a manageable tradeoff compared with the functional and resale benefits of a new bathroom. If tax sensitivity is a concern, it is worth understanding how the project will be documented and assessed before construction begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A permitted bathroom addition can increase assessed value because the new improvement is added to the property’s taxable value. The increase is usually tied to "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-a-homeowner-wants-a-bathroom-in-the-office-addition-does-that-change-the-perm",
+  "name": "Can a home office addition include a bathroom in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If a homeowner wants a bathroom in the office addition, does that change the permit path or project cost?",
+    "text": "If a homeowner wants a bathroom in the office addition, does that change the permit path or project cost?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A bathroom changes the project in several ways. First, it adds plumbing lines, drainage, venting, waterproofing, and fixture costs. Second, it usually increases design and permit complexity because the space now needs to coordinate with water, sewer, and mechanical systems. Third, the intended use may matter more, since a bathroom can move the project closer to a guest suite or accessory dwelling style layout depending on the rest of the design. For homeowners, the key question is whether the bathroom is essential to daily use or simply a convenience. If the office is going to host clients or be used all day, a powder room may improve functionality and resale appeal. But if the goal is to keep the project lean, skipping plumbing can save time and reduce cost. The decision should be made early, before plans are finalized, because adding a bathroom later can require a major redesign.",
+      "@type": "Answer",
+      "description": "Yes. Adding a bathroom to a home office addition usually increases cost, design complexity, and permit scope because it adds plumbing, venting, fixtures, and more inspection points. It may also change whether the space is treated as a simple office or something closer to a separate living unit.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A bathroom changes the project in several ways. First, it adds plumbing lines, drainage, venting, waterproofing, and fixture costs. Second, it usually increases design and permit complexity because the space now needs to coordinate with water, sewer, and mechanical systems. Third, the intended use may matter more, since a bathroom can move the project closer to a guest suite or accessory dwelling style layout depending on the rest of the design. For homeowners, the key question is whether the bathroom is essential to daily use or simply a convenience. If the office is going to host clients or be used all day, a powder room may improve functionality and resale appeal. But if the goal is to keep the project lean, skipping plumbing can save time and reduce cost. The decision should be made early, before plans are finalized, because adding a bathroom later can require a major redesign.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Adding a bathroom to a home office addition usually increases cost, design complexity, and permit scope because it adds plumbing, venting, fixtures, and mo"
+}

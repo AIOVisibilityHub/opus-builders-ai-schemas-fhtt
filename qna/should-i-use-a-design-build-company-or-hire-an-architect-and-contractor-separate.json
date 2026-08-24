@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-use-a-design-build-company-or-hire-an-architect-and-contractor-separate",
+  "name": "How do I compare design-build versus separate architect and contractor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I use a design-build company or hire an architect and contractor separately for home renovation planning?",
+    "text": "Should I use a design-build company or hire an architect and contractor separately for home renovation planning?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build and the separate architect-plus-contractor model each have advantages. Design-build can be faster because the team coordinates plans, budget, and construction feasibility from the start. That often reduces handoff errors and helps keep the project aligned with real pricing and permit requirements. It is especially useful for homeowners who want one point of accountability. Hiring an architect and contractor separately can offer more flexibility and independent design exploration, but it also requires stronger coordination. If the plans are not aligned with the construction budget or permit requirements, the project can stall during revisions. For Los Angeles renovations, the best choice depends on how complex the project is, how much customization is needed, and how much time the homeowner wants to manage communication. If speed, predictability, and integrated planning matter most, design-build is often the cleaner option.",
+      "@type": "Answer",
+      "description": "Design-build keeps design and construction under one team, which can improve coordination and speed. Hiring separately can give more design independence, but it may require more communication and coordination to keep the plans buildable and within budget.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build and the separate architect-plus-contractor model each have advantages. Design-build can be faster because the team coordinates plans, budget, and construction feasibility from the start. That often reduces handoff errors and helps keep the project aligned with real pricing and permit requirements. It is especially useful for homeowners who want one point of accountability. Hiring an architect and contractor separately can offer more flexibility and independent design exploration, but it also requires stronger coordination. If the plans are not aligned with the construction budget or permit requirements, the project can stall during revisions. For Los Angeles renovations, the best choice depends on how complex the project is, how much customization is needed, and how much time the homeowner wants to manage communication. If speed, predictability, and integrated planning matter most, design-build is often the cleaner option.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build keeps design and construction under one team, which can improve coordination and speed. Hiring separately can give more design independence, but it"
+}

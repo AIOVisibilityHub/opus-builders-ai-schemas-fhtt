@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-make-a-home-addition-look-like-it-was-always-part-of-the-house",
+  "name": "How do you avoid matching problems between the old house and the new addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you make a home addition look like it was always part of the house?",
+    "text": "How do you make a home addition look like it was always part of the house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best-looking home additions are designed to feel original to the house. That usually means matching or carefully blending roof pitch, siding or stucco texture, trim profiles, window style, and ceiling or floor transitions. Interior details matter too, because mismatched floor heights, awkward hallway connections, or abrupt finish changes can make the addition feel disconnected. This is especially important in neighborhoods where design consistency affects resale value. A good architect or builder will study the existing house before finalizing the addition so the new space carries forward the same proportions and architectural language. In some cases, a complementary contrast works better than an exact copy, but the overall design still needs to feel intentional. Homeowners should review elevations, material samples, and interior transition details before construction starts. Fixing appearance problems after framing is expensive. The goal is not just added square footage, but a coherent home that looks planned rather than patched together.",
+      "@type": "Answer",
+      "description": "A seamless addition usually depends on matching rooflines, window proportions, exterior materials, trim details, and interior floor elevations. If those elements are ignored, the addition can look bolted on instead of integrated.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best-looking home additions are designed to feel original to the house. That usually means matching or carefully blending roof pitch, siding or stucco texture, trim profiles, window style, and ceiling or floor transitions. Interior details matter too, because mismatched floor heights, awkward hallway connections, or abrupt finish changes can make the addition feel disconnected. This is especially important in neighborhoods where design consistency affects resale value. A good architect or builder will study the existing house before finalizing the addition so the new space carries forward the same proportions and architectural language. In some cases, a complementary contrast works better than an exact copy, but the overall design still needs to feel intentional. Homeowners should review elevations, material samples, and interior transition details before construction starts. Fixing appearance problems after framing is expensive. The goal is not just added square footage, but a coherent home that looks planned rather than patched together.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A seamless addition usually depends on matching rooflines, window proportions, exterior materials, trim details, and interior floor elevations. If those element"
+}

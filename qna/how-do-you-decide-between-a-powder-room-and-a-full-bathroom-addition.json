@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-decide-between-a-powder-room-and-a-full-bathroom-addition",
+  "name": "Should you add a half bath or a full bath?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you decide between a powder room and a full bathroom addition?",
+    "text": "How do you decide between a powder room and a full bathroom addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The right choice depends on how the home is used. A half bath is usually the best option when you want to add convenience near a living area, home office, or guest zone without sacrificing much square footage. A full bath is better when the home needs another shower or tub for family use, a secondary bedroom, or resale appeal. Full baths require more room, more plumbing, and typically a higher budget because of the shower, waterproofing, and ventilation requirements. Half baths are easier to fit into small spaces and can still significantly improve day-to-day livability. If space is limited, consider whether the home already has enough showers and whether the new bathroom is meant mainly for guests or for regular use. That decision should drive the layout, fixture selection, and budget.",
+      "@type": "Answer",
+      "description": "Choose a half bath when the goal is guest convenience and minimal space use. Choose a full bath when the home needs a shower or tub for family living, resale, or bedroom access. A full bath costs more and requires more space, but it usually adds more functional value.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The right choice depends on how the home is used. A half bath is usually the best option when you want to add convenience near a living area, home office, or guest zone without sacrificing much square footage. A full bath is better when the home needs another shower or tub for family use, a secondary bedroom, or resale appeal. Full baths require more room, more plumbing, and typically a higher budget because of the shower, waterproofing, and ventilation requirements. Half baths are easier to fit into small spaces and can still significantly improve day-to-day livability. If space is limited, consider whether the home already has enough showers and whether the new bathroom is meant mainly for guests or for regular use. That decision should drive the layout, fixture selection, and budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Choose a half bath when the goal is guest convenience and minimal space use. Choose a full bath when the home needs a shower or tub for family living, resale, o"
+}

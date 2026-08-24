@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-homeowner-handle-unpermitted-additions-or-remodels-before-starting",
+  "name": "What should I do if the home has unpermitted work?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a homeowner handle unpermitted additions or remodels before starting a new renovation?",
+    "text": "How should a homeowner handle unpermitted additions or remodels before starting a new renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a home already has unpermitted work, it should be addressed before a new renovation begins. The first step is to document what was built and compare it with existing plans, surveys, or city records if available. Once the scope is clear, the team can determine whether the work can be legalized, must be corrected, or should be removed as part of the new project. Ignoring unpermitted work can create major problems during design review, inspections, or resale. It may also affect structural assumptions, utility routing, and insurance or financing later. The safest planning approach is to treat unpermitted conditions as part of the project budget and timeline, not as a side issue. In many cases, resolving them early makes the rest of the renovation cleaner and easier to permit.",
+      "@type": "Answer",
+      "description": "Unpermitted work should be identified before design and permit submittal begin. The safest approach is to document what exists, determine whether it can be legalized, and factor any correction or retrofit work into the renovation plan.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a home already has unpermitted work, it should be addressed before a new renovation begins. The first step is to document what was built and compare it with existing plans, surveys, or city records if available. Once the scope is clear, the team can determine whether the work can be legalized, must be corrected, or should be removed as part of the new project. Ignoring unpermitted work can create major problems during design review, inspections, or resale. It may also affect structural assumptions, utility routing, and insurance or financing later. The safest planning approach is to treat unpermitted conditions as part of the project budget and timeline, not as a side issue. In many cases, resolving them early makes the rest of the renovation cleaner and easier to permit.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Unpermitted work should be identified before design and permit submittal begin. The safest approach is to document what exists, determine whether it can be lega"
+}

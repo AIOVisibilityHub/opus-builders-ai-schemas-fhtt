@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-common-mistakes-homeowners-make-when-planning-a-renovation",
+  "name": "What are the biggest mistakes in home renovation planning?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common mistakes homeowners make when planning a renovation?",
+    "text": "What are the most common mistakes homeowners make when planning a renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common renovation planning mistakes are easy to avoid once they are named. Homeowners often start with only a rough idea of what they want, then discover that the scope is too vague to budget or permit correctly. Others underestimate contingency, forget permit requirements, or make finish decisions before the layout and structural details are locked in. Another major mistake is ignoring hidden conditions, especially in older homes. Once demolition begins, outdated wiring, damaged framing, or previous unpermitted work can force major changes. Good planning reduces these risks by confirming scope early, coordinating design and engineering, and setting a realistic schedule. The goal is to remove uncertainty before construction starts, not after.",
+      "@type": "Answer",
+      "description": "The biggest mistakes are starting without a defined scope, underestimating budget and contingency, ignoring permit requirements, choosing finishes too early, and failing to plan for hidden conditions. These issues often cause delays, redesign, and cost overruns.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common renovation planning mistakes are easy to avoid once they are named. Homeowners often start with only a rough idea of what they want, then discover that the scope is too vague to budget or permit correctly. Others underestimate contingency, forget permit requirements, or make finish decisions before the layout and structural details are locked in. Another major mistake is ignoring hidden conditions, especially in older homes. Once demolition begins, outdated wiring, damaged framing, or previous unpermitted work can force major changes. Good planning reduces these risks by confirming scope early, coordinating design and engineering, and setting a realistic schedule. The goal is to remove uncertainty before construction starts, not after.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest mistakes are starting without a defined scope, underestimating budget and contingency, ignoring permit requirements, choosing finishes too early, an"
+}

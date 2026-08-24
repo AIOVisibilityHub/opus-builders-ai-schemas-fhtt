@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-homeowners-stay-in-the-home-during-a-major-renovation-or-should-they-move-ou",
+  "name": "Can I live in my house during a major renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can homeowners stay in the home during a major renovation, or should they move out?",
+    "text": "Can homeowners stay in the home during a major renovation, or should they move out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can stay in the house during a renovation depends on the scope. If the work is confined to one room or one floor, and the kitchen, bathrooms, and utilities remain usable, staying home may be possible. For a major renovation, however, living on-site becomes difficult fast because of dust, noise, utility shutoffs, security concerns, and limited access to essential spaces. Whole-home renovations, large kitchen remodels, additions, and projects with structural work often go smoother when the home is vacant. That gives contractors safer access, reduces disruption, and can shorten the build sequence. If staying put is important, the renovation should be phased carefully with clear containment, temporary facilities, and a realistic schedule. Homeowners should ask their contractor how many days each critical system will be offline, where materials will be stored, and whether inspections require full access to the home. A good planning decision balances comfort, safety, and total project efficiency.",
+      "@type": "Answer",
+      "description": "You can sometimes live in the house during a renovation if the work is limited to one area and utilities remain usable. For major remodels, structural work, or whole-home renovations, moving out is often safer and more practical because of dust, noise, shutoffs, and limited access to kitchens or bathrooms.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can stay in the house during a renovation depends on the scope. If the work is confined to one room or one floor, and the kitchen, bathrooms, and utilities remain usable, staying home may be possible. For a major renovation, however, living on-site becomes difficult fast because of dust, noise, utility shutoffs, security concerns, and limited access to essential spaces. Whole-home renovations, large kitchen remodels, additions, and projects with structural work often go smoother when the home is vacant. That gives contractors safer access, reduces disruption, and can shorten the build sequence. If staying put is important, the renovation should be phased carefully with clear containment, temporary facilities, and a realistic schedule. Homeowners should ask their contractor how many days each critical system will be offline, where materials will be stored, and whether inspections require full access to the home. A good planning decision balances comfort, safety, and total project efficiency.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You can sometimes live in the house during a renovation if the work is limited to one area and utilities remain usable. For major remodels, structural work, or "
+}

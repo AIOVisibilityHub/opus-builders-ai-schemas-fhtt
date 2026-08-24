@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-an-upstairs-bathroom-addition-harder-than-a-ground-floor-addition",
+  "name": "Can you add a bathroom over a garage or on a second floor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is an upstairs bathroom addition harder than a ground-floor addition?",
+    "text": "Is an upstairs bathroom addition harder than a ground-floor addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Adding a bathroom above a garage or on a second floor is often more complex than adding one on the main level. The structure may need evaluation to confirm it can support the added load, especially if heavy tile, a tub, or a large shower is included. Plumbing also has to be routed with enough slope for drainage, which can be difficult in upper-floor framing. Waterproofing becomes more important because a leak can damage the space below. Sound control is another issue, since footsteps, fan noise, and plumbing can travel between floors. These projects often work well when they are planned with the home’s framing and mechanical systems in mind from the start. Homeowners should ask whether the design needs additional joist support, venting changes, or access panels for future service.",
+      "@type": "Answer",
+      "description": "Yes. An upstairs bathroom or garage-level bath can be more complicated because of structure, drainage slope, waterproofing, and noise transfer. The project may need reinforcement, careful plumbing routing, and stronger ventilation than a ground-floor conversion.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Adding a bathroom above a garage or on a second floor is often more complex than adding one on the main level. The structure may need evaluation to confirm it can support the added load, especially if heavy tile, a tub, or a large shower is included. Plumbing also has to be routed with enough slope for drainage, which can be difficult in upper-floor framing. Waterproofing becomes more important because a leak can damage the space below. Sound control is another issue, since footsteps, fan noise, and plumbing can travel between floors. These projects often work well when they are planned with the home’s framing and mechanical systems in mind from the start. Homeowners should ask whether the design needs additional joist support, venting changes, or access panels for future service.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. An upstairs bathroom or garage-level bath can be more complicated because of structure, drainage slope, waterproofing, and noise transfer. The project may "
+}

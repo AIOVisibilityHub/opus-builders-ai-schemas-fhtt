@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-open-the-home-up-without-relocating-the-kitchen",
+  "name": "Can you convert a closed floor plan without moving the kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to open the home up without relocating the kitchen?",
+    "text": "Is it possible to open the home up without relocating the kitchen?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A kitchen does not have to move for a home to feel open. In many cases, the best value comes from removing the wall that blocks sight lines while keeping plumbing, appliances, and cabinetry in their current location. This approach lowers the chance of expensive utility rerouting and usually shortens the schedule. It can also preserve usable work triangles and limit finish disruption. The tradeoff is that the layout may have less freedom than a complete redesign, so the opening size and island placement must be chosen carefully. For many Los Angeles homes, this is the smartest middle ground between a cosmetic update and a full gut renovation.",
+      "@type": "Answer",
+      "description": "Yes. Many conversions only remove selected walls or widen openings around the existing kitchen, which reduces cost and complexity compared with a full kitchen relocation.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A kitchen does not have to move for a home to feel open. In many cases, the best value comes from removing the wall that blocks sight lines while keeping plumbing, appliances, and cabinetry in their current location. This approach lowers the chance of expensive utility rerouting and usually shortens the schedule. It can also preserve usable work triangles and limit finish disruption. The tradeoff is that the layout may have less freedom than a complete redesign, so the opening size and island placement must be chosen carefully. For many Los Angeles homes, this is the smartest middle ground between a cosmetic update and a full gut renovation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Many conversions only remove selected walls or widen openings around the existing kitchen, which reduces cost and complexity compared with a full kitchen r"
+}

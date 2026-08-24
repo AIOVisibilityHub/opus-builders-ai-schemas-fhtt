@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-new-bathroom-is-not-near-existing-plumbing-lines",
+  "name": "How do you add plumbing for a bathroom when the main stack is far away?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the new bathroom is not near existing plumbing lines?",
+    "text": "What happens if the new bathroom is not near existing plumbing lines?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When a new bathroom is far from the main plumbing stack, the project becomes harder because drains need the right slope and vents need a compliant route. Long pipe runs often mean more demolition, more framing access, and more coordination between plumbing and structural work. The farther the bathroom is from existing utility lines, the more likely the layout may need to change to keep the project practical and code-compliant. In some homes, shifting the toilet or shower closer to a shared wet wall can save significant cost and reduce risk. Before choosing a layout, contractors should confirm where the nearest stack, water supply, and vent route are located. That early planning step can prevent a design that looks good on paper but becomes expensive once walls are opened.",
+      "@type": "Answer",
+      "description": "When the new bathroom is far from existing plumbing, the project usually becomes more expensive and invasive because longer drain and vent runs are needed. That can mean opening walls or floors, extending supply lines, and sometimes changing the layout to reduce pipe length.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When a new bathroom is far from the main plumbing stack, the project becomes harder because drains need the right slope and vents need a compliant route. Long pipe runs often mean more demolition, more framing access, and more coordination between plumbing and structural work. The farther the bathroom is from existing utility lines, the more likely the layout may need to change to keep the project practical and code-compliant. In some homes, shifting the toilet or shower closer to a shared wet wall can save significant cost and reduce risk. Before choosing a layout, contractors should confirm where the nearest stack, water supply, and vent route are located. That early planning step can prevent a design that looks good on paper but becomes expensive once walls are opened.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "When the new bathroom is far from existing plumbing, the project usually becomes more expensive and invasive because longer drain and vent runs are needed. That"
+}

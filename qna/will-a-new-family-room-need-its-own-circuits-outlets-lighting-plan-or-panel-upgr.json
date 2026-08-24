@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-a-new-family-room-need-its-own-circuits-outlets-lighting-plan-or-panel-upgr",
+  "name": "What electrical upgrades are needed for a family-room addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will a new family room need its own circuits, outlets, lighting plan, or panel upgrade?",
+    "text": "Will a new family room need its own circuits, outlets, lighting plan, or panel upgrade?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Electrical work in a family-room addition can be more involved than homeowners expect. The room may need new outlets, dedicated lighting circuits, TV and media wiring, dimmers, exterior lighting near doors, and possibly network or speaker wiring. If the existing panel is already near capacity, a service or panel upgrade may be needed to support the added load safely. This becomes more likely in older Los Angeles homes that have not had recent electrical improvements. Planning electrical early is important because outlet locations, lighting layout, and media placement affect how the room functions every day. The goal is to design the infrastructure before drywall goes up, not after furniture reveals missing power where it is needed most.",
+      "@type": "Answer",
+      "description": "A family-room addition often needs new electrical circuits, additional outlets, lighting controls, and sometimes a panel upgrade if the existing system is near capacity. The exact scope depends on the home’s current electrical load and what the new room will include.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Electrical work in a family-room addition can be more involved than homeowners expect. The room may need new outlets, dedicated lighting circuits, TV and media wiring, dimmers, exterior lighting near doors, and possibly network or speaker wiring. If the existing panel is already near capacity, a service or panel upgrade may be needed to support the added load safely. This becomes more likely in older Los Angeles homes that have not had recent electrical improvements. Planning electrical early is important because outlet locations, lighting layout, and media placement affect how the room functions every day. The goal is to design the infrastructure before drywall goes up, not after furniture reveals missing power where it is needed most.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A family-room addition often needs new electrical circuits, additional outlets, lighting controls, and sometimes a panel upgrade if the existing system is near "
+}

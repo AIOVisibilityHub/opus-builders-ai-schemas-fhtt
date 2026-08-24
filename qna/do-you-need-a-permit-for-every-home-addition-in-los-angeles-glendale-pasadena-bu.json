@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-you-need-a-permit-for-every-home-addition-in-los-angeles-glendale-pasadena-bu",
+  "name": "Do you need a permit for every home addition in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do you need a permit for every home addition in Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood?",
+    "text": "Do you need a permit for every home addition in Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most home additions in Los Angeles require permits, especially when the project changes the structure, footprint, roofline, mechanical systems, or living area of the home. Even small additions often trigger multiple permit types if plumbing, electrical, or HVAC work is involved. Independent cities in the region may have their own review departments and rules, so the answer can vary slightly by jurisdiction. The safest approach is to assume a permit is required until a contractor or local building department confirms otherwise. Some homeowners mistakenly believe a small room extension or enclosed patio can be treated as minor work, but adding habitable space usually creates plan-check, inspection, and code-compliance requirements. Skipping permits can create resale problems, insurance issues, and correction orders later. Before starting, ask whether the project needs only a building permit or also separate trade permits, energy documentation, and structural calculations. That question matters because the permit package often affects both schedule and total cost.",
+      "@type": "Answer",
+      "description": "Most home additions in Los Angeles require permits, including building, plumbing, electrical, and mechanical permits when those systems are affected. Structural expansions, new bedrooms, and additions that change the footprint or roofline generally cannot be done without approval.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most home additions in Los Angeles require permits, especially when the project changes the structure, footprint, roofline, mechanical systems, or living area of the home. Even small additions often trigger multiple permit types if plumbing, electrical, or HVAC work is involved. Independent cities in the region may have their own review departments and rules, so the answer can vary slightly by jurisdiction. The safest approach is to assume a permit is required until a contractor or local building department confirms otherwise. Some homeowners mistakenly believe a small room extension or enclosed patio can be treated as minor work, but adding habitable space usually creates plan-check, inspection, and code-compliance requirements. Skipping permits can create resale problems, insurance issues, and correction orders later. Before starting, ask whether the project needs only a building permit or also separate trade permits, energy documentation, and structural calculations. That question matters because the permit package often affects both schedule and total cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most home additions in Los Angeles require permits, including building, plumbing, electrical, and mechanical permits when those systems are affected. Structural"
+}

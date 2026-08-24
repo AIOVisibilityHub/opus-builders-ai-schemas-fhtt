@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-buyers-contractors-and-permit-offices-distinguish-between-an-addition-con",
+  "name": "What is the difference between a home office addition and a home office remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do buyers, contractors, and permit offices distinguish between an addition, conversion, and remodel?",
+    "text": "How do buyers, contractors, and permit offices distinguish between an addition, conversion, and remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "These terms are often used loosely, but they are not the same. A remodel usually means changing an existing room inside the home without expanding the building envelope. An addition means creating new square footage, often through a new attached structure or a detached building. A conversion means taking existing space, such as a garage, attic, or spare room, and changing its use. Depending on the scope, a conversion may still require the same kinds of permits and inspections as an addition, especially if it adds electrical, insulation, HVAC, or plumbing. For homeowners, the distinction matters because it affects cost, timeline, and approval complexity. For buyers and appraisers, a permitted addition may be valued differently than a simple remodel. The cleanest way to think about it is this: if the house gets bigger, it is an addition; if the space changes function without growing, it is a conversion or remodel.",
+      "@type": "Answer",
+      "description": "A remodel updates an existing room without increasing the home’s footprint, while an addition creates new square footage. A conversion repurposes existing space such as a garage or spare room, which can overlap with either category depending on the scope.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "These terms are often used loosely, but they are not the same. A remodel usually means changing an existing room inside the home without expanding the building envelope. An addition means creating new square footage, often through a new attached structure or a detached building. A conversion means taking existing space, such as a garage, attic, or spare room, and changing its use. Depending on the scope, a conversion may still require the same kinds of permits and inspections as an addition, especially if it adds electrical, insulation, HVAC, or plumbing. For homeowners, the distinction matters because it affects cost, timeline, and approval complexity. For buyers and appraisers, a permitted addition may be valued differently than a simple remodel. The cleanest way to think about it is this: if the house gets bigger, it is an addition; if the space changes function without growing, it is a conversion or remodel.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A remodel updates an existing room without increasing the home’s footprint, while an addition creates new square footage. A conversion repurposes existing space"
+}

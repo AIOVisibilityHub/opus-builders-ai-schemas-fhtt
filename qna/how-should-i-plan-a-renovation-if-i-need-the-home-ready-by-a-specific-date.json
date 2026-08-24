@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-i-plan-a-renovation-if-i-need-the-home-ready-by-a-specific-date",
+  "name": "How do I plan a renovation with a strict move-in deadline?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should I plan a renovation if I need the home ready by a specific date?",
+    "text": "How should I plan a renovation if I need the home ready by a specific date?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If you have a strict move-in deadline, renovation planning needs to start from the end date and work backward. That means counting time for design, engineering, permit review, material ordering, construction, inspections, and cleanup. Most homeowners underestimate at least one of those phases, which creates pressure later. When the deadline is fixed, the scope often needs to be adjusted to fit the schedule. A smaller, cleaner project is more reliable than a large project with too many moving parts. Homeowners should also avoid late design changes and choose materials with realistic lead times. If the date is non-negotiable, the team should identify the critical path early and protect it from delays. A realistic plan is always better than a rushed one that finishes poorly.",
+      "@type": "Answer",
+      "description": "Start by building the schedule from the deadline backward and add time for design, permits, procurement, construction, and inspections. If the deadline is fixed, the scope may need to be reduced so the project can finish without rushing.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If you have a strict move-in deadline, renovation planning needs to start from the end date and work backward. That means counting time for design, engineering, permit review, material ordering, construction, inspections, and cleanup. Most homeowners underestimate at least one of those phases, which creates pressure later. When the deadline is fixed, the scope often needs to be adjusted to fit the schedule. A smaller, cleaner project is more reliable than a large project with too many moving parts. Homeowners should also avoid late design changes and choose materials with realistic lead times. If the date is non-negotiable, the team should identify the critical path early and protect it from delays. A realistic plan is always better than a rushed one that finishes poorly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Start by building the schedule from the deadline backward and add time for design, permits, procurement, construction, and inspections. If the deadline is fixed"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-i-schedule-a-renovation-if-los-angeles-permit-review-might-take-weeks",
+  "name": "How do I plan a renovation around Los Angeles permit review delays?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should I schedule a renovation if Los Angeles permit review might take weeks or months?",
+    "text": "How should I schedule a renovation if Los Angeles permit review might take weeks or months?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best way to plan around Los Angeles permit delays is to schedule backwards from the earliest realistic construction start date. For simple permits, review may take only days or weeks, but standard residential plan checks often take several weeks, and complex projects can take months once corrections are included. Homeowners should not book demolition, material deliveries, or trades based on the most optimistic timeline. A practical plan includes design completion, engineering, submittal preparation, first review, correction response, and final approval. Buffer time matters because even a well-prepared set of plans may come back with comments. The most reliable way to stay on schedule is to submit complete documents, resolve structural and MEP issues before filing, and avoid changing the scope during review. For high-end projects, it also helps to order long-lead items only after the plan direction is stable. That keeps the project from stalling while cabinets, windows, or specialty finishes are still being decided.",
+      "@type": "Answer",
+      "description": "Plan the project backwards from the desired start date and assume at least one correction cycle. Standard residential plan checks can take several weeks, while complex remodels can take months. Submitting complete drawings early, resolving engineering questions upfront, and allowing buffer time for corrections reduces the chance of construction delays.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best way to plan around Los Angeles permit delays is to schedule backwards from the earliest realistic construction start date. For simple permits, review may take only days or weeks, but standard residential plan checks often take several weeks, and complex projects can take months once corrections are included. Homeowners should not book demolition, material deliveries, or trades based on the most optimistic timeline. A practical plan includes design completion, engineering, submittal preparation, first review, correction response, and final approval. Buffer time matters because even a well-prepared set of plans may come back with comments. The most reliable way to stay on schedule is to submit complete documents, resolve structural and MEP issues before filing, and avoid changing the scope during review. For high-end projects, it also helps to order long-lead items only after the plan direction is stable. That keeps the project from stalling while cabinets, windows, or specialty finishes are still being decided.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plan the project backwards from the desired start date and assume at least one correction cycle. Standard residential plan checks can take several weeks, while "
+}

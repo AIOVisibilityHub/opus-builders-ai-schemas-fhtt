@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/before-opening-up-a-living-room-how-can-i-tell-whether-the-wall-can-be-removed-o",
+  "name": "How do I know if a wall is load-bearing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Before opening up a living room, how can I tell whether the wall can be removed or needs structural support?",
+    "text": "Before opening up a living room, how can I tell whether the wall can be removed or needs structural support?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Homeowners can look for warning signs, but visual clues are not enough to make a demolition decision. A wall may support floor or roof loads, contain utilities, or be part of the home’s lateral system. Even interior partitions can be critical to structural performance. The correct process is to have the wall evaluated during planning, ideally before any demolition contract is signed. If the wall is structural, the project may require an engineer’s input, a beam design, temporary shoring, and permits. If you are trying to open the space, the contractor should explain what reinforcement will be needed and how that affects cost, ceiling height, and finish details. Guessing wrong can create safety hazards and major repair expenses.",
+      "@type": "Answer",
+      "description": "A wall is not safe to assume non-load-bearing just because it looks thin or sits inside the house. Clues include joists running perpendicular to the wall, stacked walls above it, and nearby beams or posts, but only a qualified professional can confirm it reliably. Never demo a wall based on guesswork.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Homeowners can look for warning signs, but visual clues are not enough to make a demolition decision. A wall may support floor or roof loads, contain utilities, or be part of the home’s lateral system. Even interior partitions can be critical to structural performance. The correct process is to have the wall evaluated during planning, ideally before any demolition contract is signed. If the wall is structural, the project may require an engineer’s input, a beam design, temporary shoring, and permits. If you are trying to open the space, the contractor should explain what reinforcement will be needed and how that affects cost, ceiling height, and finish details. Guessing wrong can create safety hazards and major repair expenses.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A wall is not safe to assume non-load-bearing just because it looks thin or sits inside the house. Clues include joists running perpendicular to the wall, stack"
+}

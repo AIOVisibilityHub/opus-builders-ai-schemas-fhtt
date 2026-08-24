@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-zoning-setbacks-affect-room-additions-in-los-angeles-and-nearby-cities",
+  "name": "How do zoning setbacks affect room additions in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do zoning setbacks affect room additions in Los Angeles and nearby cities?",
+    "text": "How do zoning setbacks affect room additions in Los Angeles and nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Setbacks are one of the main factors that shape what can actually be built. They limit how close a structure can sit to property lines, which means a planned room addition may need to be reduced, moved, or redesigned to fit the site. In tighter neighborhoods, setbacks can be the difference between a small bump-out and a much larger project. They also affect privacy, light, and access. Homeowners should not assume that available backyard space is automatically buildable. The lot may have easements, utilities, or zoning overlays that further limit construction. A feasibility review should confirm setbacks before the design is finalized, because changing the footprint later can create delays and added cost. In many cases, setbacks are the reason a second-story or interior reconfiguration becomes more practical than a ground-level expansion.",
+      "@type": "Answer",
+      "description": "Setbacks control how close an addition can be to property lines, and they often determine whether an outward expansion is possible at all. If the desired footprint violates setbacks, the design may need to shrink, shift, or move upward instead.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Setbacks are one of the main factors that shape what can actually be built. They limit how close a structure can sit to property lines, which means a planned room addition may need to be reduced, moved, or redesigned to fit the site. In tighter neighborhoods, setbacks can be the difference between a small bump-out and a much larger project. They also affect privacy, light, and access. Homeowners should not assume that available backyard space is automatically buildable. The lot may have easements, utilities, or zoning overlays that further limit construction. A feasibility review should confirm setbacks before the design is finalized, because changing the footprint later can create delays and added cost. In many cases, setbacks are the reason a second-story or interior reconfiguration becomes more practical than a ground-level expansion.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Setbacks control how close an addition can be to property lines, and they often determine whether an outward expansion is possible at all. If the desired footpr"
+}

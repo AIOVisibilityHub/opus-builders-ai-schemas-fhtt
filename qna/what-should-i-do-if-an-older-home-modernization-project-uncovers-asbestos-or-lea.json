@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-do-if-an-older-home-modernization-project-uncovers-asbestos-or-lea",
+  "name": "What if the home has asbestos or lead paint?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do if an older home modernization project uncovers asbestos or lead paint?",
+    "text": "What should I do if an older home modernization project uncovers asbestos or lead paint?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If asbestos or lead paint is suspected, the priority is containment and proper evaluation before more demolition happens. Older homes can hide asbestos in some flooring, adhesives, insulation, or other building materials, and homes built before 1978 may contain lead-based paint. Disturbing those materials without planning can create health and cleanup problems and may slow the project dramatically. The practical response is to pause work in the affected area, confirm the hazard, and decide whether abatement or encapsulation is needed before construction resumes. This is one reason older-home modernization should begin with a careful diagnostic phase rather than immediate demolition. Once the issue is identified, the project team can adjust sequencing, budget, and protection measures so the remodel proceeds safely and predictably.",
+      "@type": "Answer",
+      "description": "Stop work in the affected area and have the material evaluated before continuing. Homes built before modern safety standards may contain asbestos in certain materials or lead-based paint on older surfaces. These hazards require proper testing, containment, and removal procedures before remodeling continues.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If asbestos or lead paint is suspected, the priority is containment and proper evaluation before more demolition happens. Older homes can hide asbestos in some flooring, adhesives, insulation, or other building materials, and homes built before 1978 may contain lead-based paint. Disturbing those materials without planning can create health and cleanup problems and may slow the project dramatically. The practical response is to pause work in the affected area, confirm the hazard, and decide whether abatement or encapsulation is needed before construction resumes. This is one reason older-home modernization should begin with a careful diagnostic phase rather than immediate demolition. Once the issue is identified, the project team can adjust sequencing, budget, and protection measures so the remodel proceeds safely and predictably.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Stop work in the affected area and have the material evaluated before continuing. Homes built before modern safety standards may contain asbestos in certain mat"
+}

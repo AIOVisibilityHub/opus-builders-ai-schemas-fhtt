@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-realistic-to-live-in-the-house-while-the-living-room-or-main-interior-spac",
+  "name": "Can I stay in my home during a living-space renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it realistic to live in the house while the living room or main interior space is being renovated, or should I move out?",
+    "text": "Is it realistic to live in the house while the living room or main interior space is being renovated, or should I move out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can stay depends on the size and scope of the renovation. If the project is limited to flooring, paint, trim, lighting, or built-ins, many homeowners remain in place with a controlled work zone. If the renovation includes wall removal, major demo, extensive dust, utility shutoffs, or access through key living areas, living in the home becomes difficult fast. Families with children, pets, respiratory concerns, or remote work needs often find even moderate remodels disruptive. A contractor should explain the daily work sequence, dust control plan, bathroom access, and whether critical systems will be offline. If you stay, expect noise, limited access, and temporary storage needs. If the project touches multiple rooms or runs for many weeks, relocating temporarily can reduce stress and help the schedule move faster because trades can work without constant reconfiguration.",
+      "@type": "Answer",
+      "description": "You can often stay in the home during a partial living-space renovation if the work is limited and dust barriers can isolate the construction zone. You usually should move out for full-gut renovations, major demolition, or projects that affect kitchen access, HVAC, or electrical service. Comfort and safety depend on project scope.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can stay depends on the size and scope of the renovation. If the project is limited to flooring, paint, trim, lighting, or built-ins, many homeowners remain in place with a controlled work zone. If the renovation includes wall removal, major demo, extensive dust, utility shutoffs, or access through key living areas, living in the home becomes difficult fast. Families with children, pets, respiratory concerns, or remote work needs often find even moderate remodels disruptive. A contractor should explain the daily work sequence, dust control plan, bathroom access, and whether critical systems will be offline. If you stay, expect noise, limited access, and temporary storage needs. If the project touches multiple rooms or runs for many weeks, relocating temporarily can reduce stress and help the schedule move faster because trades can work without constant reconfiguration.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You can often stay in the home during a partial living-space renovation if the work is limited and dust barriers can isolate the construction zone. You usually "
+}

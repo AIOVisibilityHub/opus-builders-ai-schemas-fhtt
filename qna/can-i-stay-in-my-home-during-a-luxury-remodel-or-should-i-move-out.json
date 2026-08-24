@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-stay-in-my-home-during-a-luxury-remodel-or-should-i-move-out",
+  "name": "Can I live in the house during a high-end remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I stay in my home during a luxury remodel, or should I move out?",
+    "text": "Can I stay in my home during a luxury remodel, or should I move out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Living in the home during a luxury remodel is possible only when the work is limited and the project can be carefully phased. If the remodel affects the kitchen, bathrooms, main utilities, or multiple bedrooms, staying in place becomes difficult fast. Dust, noise, and daily trade traffic also reduce quality of life and can slow the work. For full-home renovations, many homeowners choose to relocate temporarily so crews can work faster and fewer compromises are needed. A phased plan may work if the contractor can isolate work zones, maintain temporary access to essential rooms, and keep safety under control. Homeowners should also factor in disruption to pets, children, remote work, and furniture storage. The decision should be based on scope and schedule, not just convenience. A good builder will explain where occupancy is realistic and where it will create delays, change orders, or avoidable stress.",
+      "@type": "Answer",
+      "description": "Whether you can stay during a high-end remodel depends on the scope, dust control, utility shutdowns, kitchen and bath access, and safety. Small phased remodels may allow partial occupancy, but whole-home or structural projects often make living on-site impractical. If major systems are being replaced, temporary relocation is usually more comfortable and efficient.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Living in the home during a luxury remodel is possible only when the work is limited and the project can be carefully phased. If the remodel affects the kitchen, bathrooms, main utilities, or multiple bedrooms, staying in place becomes difficult fast. Dust, noise, and daily trade traffic also reduce quality of life and can slow the work. For full-home renovations, many homeowners choose to relocate temporarily so crews can work faster and fewer compromises are needed. A phased plan may work if the contractor can isolate work zones, maintain temporary access to essential rooms, and keep safety under control. Homeowners should also factor in disruption to pets, children, remote work, and furniture storage. The decision should be based on scope and schedule, not just convenience. A good builder will explain where occupancy is realistic and where it will create delays, change orders, or avoidable stress.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Whether you can stay during a high-end remodel depends on the scope, dust control, utility shutdowns, kitchen and bath access, and safety. Small phased remodels"
+}

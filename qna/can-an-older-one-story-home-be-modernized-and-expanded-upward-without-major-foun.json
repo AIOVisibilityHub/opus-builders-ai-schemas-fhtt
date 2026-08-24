@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-older-one-story-home-be-modernized-and-expanded-upward-without-major-foun",
+  "name": "How do I know if my older home is safe for a second-story addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an older one-story home be modernized and expanded upward without major foundation work?",
+    "text": "Can an older one-story home be modernized and expanded upward without major foundation work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A second-story addition is one of the most demanding forms of older-home modernization. Even when the first floor looks solid, the foundation and framing may not have been built to carry another level. The structure must be evaluated for vertical load capacity, lateral stability, and seismic performance. In many cases, reinforcement is needed before the addition can move forward. That can include foundation work, framing upgrades, shear improvements, and roof removal or reconfiguration. Some homes are good candidates for upward expansion, but others are better suited to rear additions or interior reconfiguration. The decision should be made after an engineering review, not based on appearance alone. If the house is in a hillside or earthquake-sensitive area, the structural bar is even higher.",
+      "@type": "Answer",
+      "description": "A second-story addition usually requires a structural review because the existing foundation, framing, and lateral support may not be designed for another level. Some homes can support an addition with upgrades, but many need reinforcement before vertical expansion is safe or practical.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A second-story addition is one of the most demanding forms of older-home modernization. Even when the first floor looks solid, the foundation and framing may not have been built to carry another level. The structure must be evaluated for vertical load capacity, lateral stability, and seismic performance. In many cases, reinforcement is needed before the addition can move forward. That can include foundation work, framing upgrades, shear improvements, and roof removal or reconfiguration. Some homes are good candidates for upward expansion, but others are better suited to rear additions or interior reconfiguration. The decision should be made after an engineering review, not based on appearance alone. If the house is in a hillside or earthquake-sensitive area, the structural bar is even higher.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A second-story addition usually requires a structural review because the existing foundation, framing, and lateral support may not be designed for another level"
+}

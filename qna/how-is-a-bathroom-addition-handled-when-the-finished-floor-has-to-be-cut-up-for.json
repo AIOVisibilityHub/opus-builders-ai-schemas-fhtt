@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-is-a-bathroom-addition-handled-when-the-finished-floor-has-to-be-cut-up-for",
+  "name": "What if the bathroom addition is on a slab and the flooring is already finished?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is a bathroom addition handled when the finished floor has to be cut up for plumbing?",
+    "text": "How is a bathroom addition handled when the finished floor has to be cut up for plumbing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A finished slab-floor bathroom addition is one of the most disruptive types of projects because it affects multiple layers at once. Contractors usually have to remove the finished flooring, cut the slab, install the plumbing, patch the concrete, and then replace or blend the finish flooring. Matching the new repair to the existing floor can be difficult, especially with tile, hardwood, or specialty finishes. That means homeowners should ask in advance how much of the original flooring can be saved and whether the repaired area will be noticeable. It is also important to plan for dust control, access routes, and temporary loss of use in the surrounding rooms. When possible, a design that keeps the new bathroom close to existing plumbing can reduce the amount of demolition required.",
+      "@type": "Answer",
+      "description": "If the bathroom addition sits on a slab with finished flooring, the project may require cutting through both the floor finish and the concrete to install drains. After plumbing work, the floor must be repaired and the finished surface restored, which can add time and cost.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A finished slab-floor bathroom addition is one of the most disruptive types of projects because it affects multiple layers at once. Contractors usually have to remove the finished flooring, cut the slab, install the plumbing, patch the concrete, and then replace or blend the finish flooring. Matching the new repair to the existing floor can be difficult, especially with tile, hardwood, or specialty finishes. That means homeowners should ask in advance how much of the original flooring can be saved and whether the repaired area will be noticeable. It is also important to plan for dust control, access routes, and temporary loss of use in the surrounding rooms. When possible, a design that keeps the new bathroom close to existing plumbing can reduce the amount of demolition required.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the bathroom addition sits on a slab with finished flooring, the project may require cutting through both the floor finish and the concrete to install drains"
+}

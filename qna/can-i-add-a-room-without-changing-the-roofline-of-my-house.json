@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-add-a-room-without-changing-the-roofline-of-my-house",
+  "name": "Can I add a room without changing the roofline?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I add a room without changing the roofline of my house?",
+    "text": "Can I add a room without changing the roofline of my house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "It is possible to add a room without a major roofline change in some cases, especially when the project is small or fits under an existing roof geometry. Interior conversions and limited bump-outs may preserve the roofline more easily than a full new wing or second-story addition. However, many additions still require roof modifications to create proper ceiling height, tie the new space into the existing structure, and maintain drainage and weatherproofing. In Los Angeles, the design choice often comes down to cost, aesthetics, and code compliance. A contractor or architect can tell you whether preserving the roofline is realistic or whether it would create awkward ceilings, water issues, or structural inefficiency. If the goal is a seamless look, roof integration should be addressed early in design rather than as an afterthought.",
+      "@type": "Answer",
+      "description": "Sometimes yes, especially with a small bump-out or interior conversion, but many additions require some roofline changes to create enough height, structure, and weather protection. Whether it works depends on the existing layout, ceiling heights, and structural system.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "It is possible to add a room without a major roofline change in some cases, especially when the project is small or fits under an existing roof geometry. Interior conversions and limited bump-outs may preserve the roofline more easily than a full new wing or second-story addition. However, many additions still require roof modifications to create proper ceiling height, tie the new space into the existing structure, and maintain drainage and weatherproofing. In Los Angeles, the design choice often comes down to cost, aesthetics, and code compliance. A contractor or architect can tell you whether preserving the roofline is realistic or whether it would create awkward ceilings, water issues, or structural inefficiency. If the goal is a seamless look, roof integration should be addressed early in design rather than as an afterthought.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes yes, especially with a small bump-out or interior conversion, but many additions require some roofline changes to create enough height, structure, and"
+}

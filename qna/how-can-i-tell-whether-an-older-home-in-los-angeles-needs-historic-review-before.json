@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-whether-an-older-home-in-los-angeles-needs-historic-review-before",
+  "name": "How do I modernize an older Los Angeles home without triggering historic-review delays?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell whether an older home in Los Angeles needs historic review before I change windows, exterior materials, or the floor plan?",
+    "text": "How can I tell whether an older home in Los Angeles needs historic review before I change windows, exterior materials, or the floor plan?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Start by confirming whether the home is officially designated historic, sits in a preservation overlay, or is in a neighborhood with special review rules. That matters more than age alone. A house can be 50, 80, or 100 years old and still have no historic restrictions, while a newer contributing property in a designated area may need review for certain changes. The safest approach is to separate the project into interior work, exterior-visible work, and structural work, then identify which parts could affect the home’s character. Windows, rooflines, porch details, massing, and front-facing materials are the most likely items to slow approvals. If you are planning a full modernization, choose design options that preserve the façade where possible and move major transformations to the rear of the home. This reduces the risk of redesigns, extra submittals, and surprise conditions during permitting.",
+      "@type": "Answer",
+      "description": "Older homes do not automatically require historic review. Review is usually triggered by historic designation, neighborhood preservation rules, or exterior changes that affect the home’s character. Interior modernization is often easier to approve than visible exterior changes. Check the property’s status early so design decisions do not create permit delays.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Start by confirming whether the home is officially designated historic, sits in a preservation overlay, or is in a neighborhood with special review rules. That matters more than age alone. A house can be 50, 80, or 100 years old and still have no historic restrictions, while a newer contributing property in a designated area may need review for certain changes. The safest approach is to separate the project into interior work, exterior-visible work, and structural work, then identify which parts could affect the home’s character. Windows, rooflines, porch details, massing, and front-facing materials are the most likely items to slow approvals. If you are planning a full modernization, choose design options that preserve the façade where possible and move major transformations to the rear of the home. This reduces the risk of redesigns, extra submittals, and surprise conditions during permitting.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older homes do not automatically require historic review. Review is usually triggered by historic designation, neighborhood preservation rules, or exterior chan"
+}

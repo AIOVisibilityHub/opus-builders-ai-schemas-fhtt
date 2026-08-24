@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-build-out-or-build-up-on-a-small-lot-in-los-angeles-glendale-pasadena-o",
+  "name": "Should I build out or build up on a small Los Angeles lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I build out or build up on a small lot in Los Angeles, Glendale, Pasadena, or Burbank?",
+    "text": "Should I build out or build up on a small lot in Los Angeles, Glendale, Pasadena, or Burbank?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Choosing between building out and building up usually comes down to lot size, zoning constraints, and structural cost. On a small Los Angeles lot, a second story can preserve yard space and avoid setback limitations, but it often requires more engineering, temporary roof removal, and major structural work. A ground-level expansion can be simpler if the home has room to extend and the foundation can support the new area with less reinforcement. The right answer also depends on how the home is used. Families often prefer a rear addition for easier access and less disruption, while homeowners seeking more privacy may prefer a second-story primary suite. Resale value matters too, because some layouts sell better than others in specific neighborhoods. Before deciding, compare three options: build out, build up, and reconfigure existing space. The most cost-effective solution is not always the one that adds the most square footage. A design that works with the property’s constraints will usually deliver a better budget, faster approvals, and fewer surprises during construction.",
+      "@type": "Answer",
+      "description": "Build up if lot coverage is tight and you need more square footage without consuming yard space. Build out if the structure, grading, and roofline make a horizontal addition simpler and cheaper. The best choice depends on zoning, setbacks, and existing structural capacity.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Choosing between building out and building up usually comes down to lot size, zoning constraints, and structural cost. On a small Los Angeles lot, a second story can preserve yard space and avoid setback limitations, but it often requires more engineering, temporary roof removal, and major structural work. A ground-level expansion can be simpler if the home has room to extend and the foundation can support the new area with less reinforcement. The right answer also depends on how the home is used. Families often prefer a rear addition for easier access and less disruption, while homeowners seeking more privacy may prefer a second-story primary suite. Resale value matters too, because some layouts sell better than others in specific neighborhoods. Before deciding, compare three options: build out, build up, and reconfigure existing space. The most cost-effective solution is not always the one that adds the most square footage. A design that works with the property’s constraints will usually deliver a better budget, faster approvals, and fewer surprises during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Build up if lot coverage is tight and you need more square footage without consuming yard space. Build out if the structure, grading, and roofline make a horizo"
+}

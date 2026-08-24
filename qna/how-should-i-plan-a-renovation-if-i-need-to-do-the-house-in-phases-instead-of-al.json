@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-i-plan-a-renovation-if-i-need-to-do-the-house-in-phases-instead-of-al",
+  "name": "How do I phase a renovation if I can only do part of the house now?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should I plan a renovation if I need to do the house in phases instead of all at once?",
+    "text": "How should I plan a renovation if I need to do the house in phases instead of all at once?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a full renovation cannot happen at once, the best strategy is to create one master plan and then phase the construction around it. That way, each stage supports the future stages instead of creating rework later. Without a master plan, homeowners often spend money twice by renovating one area and then tearing into it again when the next phase begins. The key is to define the final layout, utility routes, finish standards, and long-term goals before starting the first phase. Then the project can be broken into logical stages such as kitchen first, then bathrooms, then structural or exterior work. Phased renovations are also easier when the contractor plans temporary access, dust control, and sequencing around occupied spaces. This approach takes more upfront planning, but it reduces waste and keeps the home functional during construction.",
+      "@type": "Answer",
+      "description": "Phased renovations work best when the full master plan is defined first, even if construction happens in stages. That prevents duplicated work, mismatched finishes, and future demolition of recently completed areas.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a full renovation cannot happen at once, the best strategy is to create one master plan and then phase the construction around it. That way, each stage supports the future stages instead of creating rework later. Without a master plan, homeowners often spend money twice by renovating one area and then tearing into it again when the next phase begins. The key is to define the final layout, utility routes, finish standards, and long-term goals before starting the first phase. Then the project can be broken into logical stages such as kitchen first, then bathrooms, then structural or exterior work. Phased renovations are also easier when the contractor plans temporary access, dust control, and sequencing around occupied spaces. This approach takes more upfront planning, but it reduces waste and keeps the home functional during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Phased renovations work best when the full master plan is defined first, even if construction happens in stages. That prevents duplicated work, mismatched finis"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-my-house-can-support-a-second-story-addition-in-los-angeles",
+  "name": "How do I know if my house can support a second-story addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my house can support a second-story addition in Los Angeles?",
+    "text": "How do I know if my house can support a second-story addition in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A second-story addition should always start with a structural evaluation. The existing foundation, framing, and load paths must be checked to see whether they can carry the extra weight. Older homes, homes with past settling, and homes that were not originally built for vertical expansion often need reinforcement. The review should also account for seismic requirements, stairs, and how the new floor will connect to the old structure. If the house cannot support the addition as-is, reinforcement may still make the project possible, but the cost and scope will increase. Homeowners should not rely on visual inspection alone. A feasibility review with drawings and engineering input is the safest way to decide whether building up is realistic or whether a ground-level solution makes more sense.",
+      "@type": "Answer",
+      "description": "A structural engineer or experienced contractor must evaluate the foundation, framing, and load-bearing walls to confirm whether the house can support a second story. Many homes need reinforcement before construction, especially older properties or homes with weaker foundations.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A second-story addition should always start with a structural evaluation. The existing foundation, framing, and load paths must be checked to see whether they can carry the extra weight. Older homes, homes with past settling, and homes that were not originally built for vertical expansion often need reinforcement. The review should also account for seismic requirements, stairs, and how the new floor will connect to the old structure. If the house cannot support the addition as-is, reinforcement may still make the project possible, but the cost and scope will increase. Homeowners should not rely on visual inspection alone. A feasibility review with drawings and engineering input is the safest way to decide whether building up is realistic or whether a ground-level solution makes more sense.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A structural engineer or experienced contractor must evaluate the foundation, framing, and load-bearing walls to confirm whether the house can support a second "
+}

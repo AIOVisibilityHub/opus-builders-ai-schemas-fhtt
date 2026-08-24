@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-better-to-build-a-bathroom-near-existing-wet-areas",
+  "name": "Can you add a bathroom next to a kitchen or laundry room?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it better to build a bathroom near existing wet areas?",
+    "text": "Is it better to build a bathroom near existing wet areas?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Placing a new bathroom near a kitchen, laundry room, or existing bathroom is often one of the smartest design decisions. These areas already have plumbing and venting nearby, which can reduce the amount of new piping and limit the need to open large portions of the home. The project can still be complex, but the utility savings often make the layout more practical and less expensive. This is why many bathroom additions are created by taking space adjacent to existing wet areas rather than isolating the new bath on the far side of the house. The tradeoff is that the room arrangement must still work for privacy, traffic flow, and noise control. A good plan balances plumbing efficiency with how the home actually functions day to day.",
+      "@type": "Answer",
+      "description": "Yes. Adding a bathroom near a kitchen, laundry room, or existing bath is usually easier and less expensive because plumbing, venting, and water supply lines are already nearby. This reduces demolition and can simplify the layout.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Placing a new bathroom near a kitchen, laundry room, or existing bathroom is often one of the smartest design decisions. These areas already have plumbing and venting nearby, which can reduce the amount of new piping and limit the need to open large portions of the home. The project can still be complex, but the utility savings often make the layout more practical and less expensive. This is why many bathroom additions are created by taking space adjacent to existing wet areas rather than isolating the new bath on the far side of the house. The tradeoff is that the room arrangement must still work for privacy, traffic flow, and noise control. A good plan balances plumbing efficiency with how the home actually functions day to day.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Adding a bathroom near a kitchen, laundry room, or existing bath is usually easier and less expensive because plumbing, venting, and water supply lines are"
+}

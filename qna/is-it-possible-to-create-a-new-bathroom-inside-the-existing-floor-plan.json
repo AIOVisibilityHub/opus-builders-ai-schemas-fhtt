@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-create-a-new-bathroom-inside-the-existing-floor-plan",
+  "name": "Can you add a bathroom without expanding the house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to create a new bathroom inside the existing floor plan?",
+    "text": "Is it possible to create a new bathroom inside the existing floor plan?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, many homeowners add a bathroom without increasing the home’s footprint by converting part of an existing bedroom, hallway, closet, or bonus area. This approach is often more efficient than building a full addition because it avoids foundation work and can reduce exterior construction. The tradeoff is that the layout must fit fixture clearances, ventilation, and plumbing routing. It may also reduce the size or function of the room being converted. In older homes, the biggest feasibility question is usually whether a nearby drain, vent stack, and water supply can support the new bath without major demolition. A strong concept plan should show where the toilet, shower, and vanity will go and how the room will be ventilated. This option is often the best fit when the homeowner wants a faster, less disruptive project and does not need a brand-new wing.",
+      "@type": "Answer",
+      "description": "Yes. Many bathroom additions are created by converting part of an existing room, closet, or underused area instead of building outward. This can lower cost and avoid foundation work, but it still usually requires plumbing, electrical, ventilation, and permit review.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, many homeowners add a bathroom without increasing the home’s footprint by converting part of an existing bedroom, hallway, closet, or bonus area. This approach is often more efficient than building a full addition because it avoids foundation work and can reduce exterior construction. The tradeoff is that the layout must fit fixture clearances, ventilation, and plumbing routing. It may also reduce the size or function of the room being converted. In older homes, the biggest feasibility question is usually whether a nearby drain, vent stack, and water supply can support the new bath without major demolition. A strong concept plan should show where the toilet, shower, and vanity will go and how the room will be ventilated. This option is often the best fit when the homeowner wants a faster, less disruptive project and does not need a brand-new wing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Many bathroom additions are created by converting part of an existing room, closet, or underused area instead of building outward. This can lower cost and "
+}

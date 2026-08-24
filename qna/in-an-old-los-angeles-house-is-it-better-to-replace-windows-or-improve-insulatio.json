@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/in-an-old-los-angeles-house-is-it-better-to-replace-windows-or-improve-insulatio",
+  "name": "Should I update windows or insulation first in an older home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "In an old Los Angeles house, is it better to replace windows or improve insulation and air sealing first?",
+    "text": "In an old Los Angeles house, is it better to replace windows or improve insulation and air sealing first?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The right order depends on where the biggest performance problem is. In many older homes, insulation and air sealing provide immediate comfort benefits, especially when the house is already open for other work. That said, windows matter when the existing units are failing, hard to operate, leaky, or visually inconsistent with the home. If you replace windows first and later open walls for insulation or structural work, you may end up damaging new finishes. If the remodel already includes wall or ceiling access, it is usually smart to handle insulation, air sealing, and any needed framing repairs at the same time. In practice, the best answer is often to evaluate the enclosure as a system, not as separate products. That keeps the project efficient and reduces rework.",
+      "@type": "Answer",
+      "description": "If walls or ceilings are already open, insulation and air sealing often deliver strong comfort gains with less disruption. Window replacement is best timed with a larger exterior or interior scope so finishes are not damaged later. The right order depends on whether the main problem is heat gain, drafts, or poor enclosure performance.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The right order depends on where the biggest performance problem is. In many older homes, insulation and air sealing provide immediate comfort benefits, especially when the house is already open for other work. That said, windows matter when the existing units are failing, hard to operate, leaky, or visually inconsistent with the home. If you replace windows first and later open walls for insulation or structural work, you may end up damaging new finishes. If the remodel already includes wall or ceiling access, it is usually smart to handle insulation, air sealing, and any needed framing repairs at the same time. In practice, the best answer is often to evaluate the enclosure as a system, not as separate products. That keeps the project efficient and reduces rework.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If walls or ceilings are already open, insulation and air sealing often deliver strong comfort gains with less disruption. Window replacement is best timed with"
+}

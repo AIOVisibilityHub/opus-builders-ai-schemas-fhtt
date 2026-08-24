@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-home-renovation-projects-usually-need-permits-in-los-angeles",
+  "name": "What renovation projects need permits in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which home renovation projects usually need permits in Los Angeles?",
+    "text": "Which home renovation projects usually need permits in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In Los Angeles, permits are commonly required when a renovation changes the structure of the home or modifies plumbing, electrical, or mechanical systems. That includes wall removals, beam installations, room additions, new bathrooms, major kitchen remodels with rewiring or re-plumbing, HVAC changes, and many window or door changes if the framing is altered. ADUs and garage conversions also almost always need permits. Cosmetic work usually does not need a permit. Examples include painting, replacing flooring, swapping cabinets without changing layouts or utilities, and other finish upgrades. The challenge is that many projects start as cosmetic but become permit-worthy once hidden conditions are discovered. Homeowners should confirm the scope before demolition begins, because unpermitted structural or system work can cause delays, inspection problems, and resale issues later. A good planning process starts with a scope review, then separates permit-required work from non-permit finish work.",
+      "@type": "Answer",
+      "description": "Permits are usually required when renovation work changes structure, plumbing, electrical, or mechanical systems. In Los Angeles, that often includes wall removals, room additions, kitchen and bathroom remodels with new systems, window changes that affect structure, and ADUs. Cosmetic updates like paint, flooring, and cabinet replacement usually do not need permits.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In Los Angeles, permits are commonly required when a renovation changes the structure of the home or modifies plumbing, electrical, or mechanical systems. That includes wall removals, beam installations, room additions, new bathrooms, major kitchen remodels with rewiring or re-plumbing, HVAC changes, and many window or door changes if the framing is altered. ADUs and garage conversions also almost always need permits. Cosmetic work usually does not need a permit. Examples include painting, replacing flooring, swapping cabinets without changing layouts or utilities, and other finish upgrades. The challenge is that many projects start as cosmetic but become permit-worthy once hidden conditions are discovered. Homeowners should confirm the scope before demolition begins, because unpermitted structural or system work can cause delays, inspection problems, and resale issues later. A good planning process starts with a scope review, then separates permit-required work from non-permit finish work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permits are usually required when renovation work changes structure, plumbing, electrical, or mechanical systems. In Los Angeles, that often includes wall remov"
+}

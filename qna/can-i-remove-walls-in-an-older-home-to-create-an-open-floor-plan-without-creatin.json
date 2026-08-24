@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-remove-walls-in-an-older-home-to-create-an-open-floor-plan-without-creatin",
+  "name": "Can older homes be made open-concept without compromising structure?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I remove walls in an older home to create an open floor plan without creating structural or seismic problems?",
+    "text": "Can I remove walls in an older home to create an open floor plan without creating structural or seismic problems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Open-concept layouts are possible in many older homes, but they must be engineered carefully. Older houses often use interior walls to carry loads, support upper floors, or help resist lateral movement. Removing those walls without a replacement support system can create sagging floors, cracked finishes, or seismic weakness. The right process is to identify load-bearing and lateral-resisting walls first, then design a beam-and-post solution if openings are desired. In some cases, partial openings work better than full removal because they preserve structure while still improving sightlines and circulation. If the home is in an area where earthquake performance matters, the structural plan should be reviewed before architecture is finalized. That avoids expensive redesigns and ensures the new layout feels intentional instead of forced.",
+      "@type": "Answer",
+      "description": "Yes, but only if the walls are not carrying loads or are properly replaced with engineered beams and supports. Older homes often rely on more interior walls for structure than newer homes do. A structural review is essential before removing walls, especially in earthquake-prone areas.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Open-concept layouts are possible in many older homes, but they must be engineered carefully. Older houses often use interior walls to carry loads, support upper floors, or help resist lateral movement. Removing those walls without a replacement support system can create sagging floors, cracked finishes, or seismic weakness. The right process is to identify load-bearing and lateral-resisting walls first, then design a beam-and-post solution if openings are desired. In some cases, partial openings work better than full removal because they preserve structure while still improving sightlines and circulation. If the home is in an area where earthquake performance matters, the structural plan should be reviewed before architecture is finalized. That avoids expensive redesigns and ensures the new layout feels intentional instead of forced.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but only if the walls are not carrying loads or are properly replaced with engineered beams and supports. Older homes often rely on more interior walls for"
+}

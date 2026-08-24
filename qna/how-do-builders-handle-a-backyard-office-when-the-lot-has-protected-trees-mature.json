@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-builders-handle-a-backyard-office-when-the-lot-has-protected-trees-mature",
+  "name": "What if my home office addition needs to be built around existing trees or landscaping?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do builders handle a backyard office when the lot has protected trees, mature landscaping, or hardscape that the homeowner wants to keep?",
+    "text": "How do builders handle a backyard office when the lot has protected trees, mature landscaping, or hardscape that the homeowner wants to keep?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Existing trees and landscaping can significantly shape the project. Mature trees may limit where foundations can go because root zones need to be protected, and grading or trenching can damage them. Existing hardscape, irrigation lines, retaining walls, and drainage paths can also constrain the office location. In some cases, the best design is not the original one the homeowner imagined, but a smaller or shifted footprint that preserves the most valuable landscape elements. Builders may need to adjust foundation design, utility routes, or access paths to minimize disruption. The earlier this is addressed, the better, because moving the building later can be costly. Homeowners who care about landscape preservation should make that a top priority during site planning and not after plans are already drawn. A good builder will treat the yard as part of the design, not just empty space to build on.",
+      "@type": "Answer",
+      "description": "When an addition must work around trees or landscaping, the design usually has to shift to protect roots, preserve drainage, and avoid unnecessary grading. That can affect footprint, foundation type, utility routing, and construction access.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Existing trees and landscaping can significantly shape the project. Mature trees may limit where foundations can go because root zones need to be protected, and grading or trenching can damage them. Existing hardscape, irrigation lines, retaining walls, and drainage paths can also constrain the office location. In some cases, the best design is not the original one the homeowner imagined, but a smaller or shifted footprint that preserves the most valuable landscape elements. Builders may need to adjust foundation design, utility routes, or access paths to minimize disruption. The earlier this is addressed, the better, because moving the building later can be costly. Homeowners who care about landscape preservation should make that a top priority during site planning and not after plans are already drawn. A good builder will treat the yard as part of the design, not just empty space to build on.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "When an addition must work around trees or landscaping, the design usually has to shift to protect roots, preserve drainage, and avoid unnecessary grading. That"
+}

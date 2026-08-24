@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-add-a-room-over-my-garage-in-los-angeles-or-nearby-cities",
+  "name": "Can I add a room over my garage in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I add a room over my garage in Los Angeles or nearby cities?",
+    "text": "Can I add a room over my garage in Los Angeles or nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Adding a room over a garage is a common way to gain space without expanding the home’s footprint, but it is rarely a simple finish-out. The garage structure must be evaluated for load-bearing capacity, foundation adequacy, and framing strength. A new stair or access route may also be needed, and fire separation, insulation, ventilation, and egress requirements can shape the design. In some homes, the garage may need major reinforcement before it can support living space above it. This type of project is often best suited for homeowners who want a bedroom, office, or guest suite while preserving yard space. Before budgeting, confirm whether the garage is detached or attached, whether the roof needs to be rebuilt, and how utilities will be routed. A structural feasibility review early in the process can prevent expensive redesigns later.",
+      "@type": "Answer",
+      "description": "A room over a garage is often possible, but it usually requires structural analysis, foundation review, and code-compliant access, insulation, and fire separation details. The existing garage structure must be able to support the added load or be upgraded first.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Adding a room over a garage is a common way to gain space without expanding the home’s footprint, but it is rarely a simple finish-out. The garage structure must be evaluated for load-bearing capacity, foundation adequacy, and framing strength. A new stair or access route may also be needed, and fire separation, insulation, ventilation, and egress requirements can shape the design. In some homes, the garage may need major reinforcement before it can support living space above it. This type of project is often best suited for homeowners who want a bedroom, office, or guest suite while preserving yard space. Before budgeting, confirm whether the garage is detached or attached, whether the roof needs to be rebuilt, and how utilities will be routed. A structural feasibility review early in the process can prevent expensive redesigns later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A room over a garage is often possible, but it usually requires structural analysis, foundation review, and code-compliant access, insulation, and fire separati"
+}

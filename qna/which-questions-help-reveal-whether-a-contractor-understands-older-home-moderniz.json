@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-questions-help-reveal-whether-a-contractor-understands-older-home-moderniz",
+  "name": "What should I ask a contractor before starting an older-home remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which questions help reveal whether a contractor understands older-home modernization, not just new construction?",
+    "text": "Which questions help reveal whether a contractor understands older-home modernization, not just new construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older-home modernization requires a different mindset than building a new house. Before hiring a contractor, ask how they evaluate hidden conditions, what they do when walls are opened and unexpected problems appear, how they sequence permits and inspections, and how they protect finishes during messy system upgrades. It also helps to ask whether they have experience with historic homes, seismic upgrades, older electrical systems, and occupied-home construction. A contractor who truly understands older houses should be able to explain how they reduce redesign risk, coordinate trades, and keep the project moving when surprises appear. You want someone who plans for the home’s age instead of treating it like a blank slate. That usually leads to better budgeting, fewer delays, and a final result that works as well as it looks.",
+      "@type": "Answer",
+      "description": "Ask how they handle hidden conditions, permit sequencing, structural surprises, lead or asbestos precautions, and coordination of multiple trades in an occupied older home. A contractor experienced with older homes should explain how they investigate problems before construction and how they prevent redesigns after demolition starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older-home modernization requires a different mindset than building a new house. Before hiring a contractor, ask how they evaluate hidden conditions, what they do when walls are opened and unexpected problems appear, how they sequence permits and inspections, and how they protect finishes during messy system upgrades. It also helps to ask whether they have experience with historic homes, seismic upgrades, older electrical systems, and occupied-home construction. A contractor who truly understands older houses should be able to explain how they reduce redesign risk, coordinate trades, and keep the project moving when surprises appear. You want someone who plans for the home’s age instead of treating it like a blank slate. That usually leads to better budgeting, fewer delays, and a final result that works as well as it looks.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask how they handle hidden conditions, permit sequencing, structural surprises, lead or asbestos precautions, and coordination of multiple trades in an occupied"
+}

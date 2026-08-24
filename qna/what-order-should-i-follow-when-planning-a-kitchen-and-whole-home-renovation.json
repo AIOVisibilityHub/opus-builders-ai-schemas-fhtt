@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-order-should-i-follow-when-planning-a-kitchen-and-whole-home-renovation",
+  "name": "What is the best order to plan a kitchen and whole-home renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What order should I follow when planning a kitchen and whole-home renovation?",
+    "text": "What order should I follow when planning a kitchen and whole-home renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best renovation planning order starts with goals, budget, and scope. Once those are defined, the next steps are layout decisions, structural review, permit strategy, and utility planning. Finishes should come after the major functional decisions are stable, because cabinets, fixtures, and tile choices often depend on dimensions that can change during design development. For a kitchen and whole-home renovation, the planning process should prioritize items that affect layout and infrastructure first. That means walls, beams, plumbing, electrical, HVAC, and appliance placement need to be settled before final finish selections. This reduces redesign and prevents ordering materials that no longer fit the approved plan. A good sequence also includes lead-time review so the contractor knows which items could delay construction. The more disciplined the planning order, the fewer surprises appear during buildout.",
+      "@type": "Answer",
+      "description": "Start with goals, budget, and scope, then move to layout, engineering, permit strategy, and material selections. The most efficient order is to finalize structural and utility decisions before choosing finishes so the plan does not need to be redone later.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best renovation planning order starts with goals, budget, and scope. Once those are defined, the next steps are layout decisions, structural review, permit strategy, and utility planning. Finishes should come after the major functional decisions are stable, because cabinets, fixtures, and tile choices often depend on dimensions that can change during design development. For a kitchen and whole-home renovation, the planning process should prioritize items that affect layout and infrastructure first. That means walls, beams, plumbing, electrical, HVAC, and appliance placement need to be settled before final finish selections. This reduces redesign and prevents ordering materials that no longer fit the approved plan. A good sequence also includes lead-time review so the contractor knows which items could delay construction. The more disciplined the planning order, the fewer surprises appear during buildout.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Start with goals, budget, and scope, then move to layout, engineering, permit strategy, and material selections. The most efficient order is to finalize structu"
+}

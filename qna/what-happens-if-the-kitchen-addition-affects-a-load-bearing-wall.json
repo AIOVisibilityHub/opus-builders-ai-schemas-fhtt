@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-kitchen-addition-affects-a-load-bearing-wall",
+  "name": "What happens if the kitchen addition affects a load-bearing wall?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the kitchen addition affects a load-bearing wall?",
+    "text": "What happens if the kitchen addition affects a load-bearing wall?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a kitchen addition affects a load-bearing wall, the project becomes a structural change, not just a finish upgrade. That means the wall must be evaluated to determine how the load will be carried after the opening is enlarged or the wall is removed. The solution often involves an engineered beam, posts, footings, or other support details that must be shown on the plans. Work should not begin until the design is approved and the contractor understands the sequence for temporary shoring and final framing. This can add time and cost, but it is normal in older Los Angeles-area homes where kitchens are often compartmentalized. Homeowners should also expect that structural changes may affect permit review and inspection requirements. This is a strong featured-snippet opportunity because the answer is factual and process-oriented: structural walls cannot be treated like decorative partitions. Good content should tell readers to confirm the wall type early, because that single detail can change the entire budget and schedule.",
+      "@type": "Answer",
+      "description": "If a kitchen addition affects a load-bearing wall, the project usually needs structural design and engineering before demolition or framing begins. Temporary support, new beams, and approved plans may be required. The wall cannot be removed or altered safely until the structure is properly supported and permitted.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a kitchen addition affects a load-bearing wall, the project becomes a structural change, not just a finish upgrade. That means the wall must be evaluated to determine how the load will be carried after the opening is enlarged or the wall is removed. The solution often involves an engineered beam, posts, footings, or other support details that must be shown on the plans. Work should not begin until the design is approved and the contractor understands the sequence for temporary shoring and final framing. This can add time and cost, but it is normal in older Los Angeles-area homes where kitchens are often compartmentalized. Homeowners should also expect that structural changes may affect permit review and inspection requirements. This is a strong featured-snippet opportunity because the answer is factual and process-oriented: structural walls cannot be treated like decorative partitions. Good content should tell readers to confirm the wall type early, because that single detail can change the entire budget and schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a kitchen addition affects a load-bearing wall, the project usually needs structural design and engineering before demolition or framing begins. Temporary su"
+}

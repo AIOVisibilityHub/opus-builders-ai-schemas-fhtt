@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-a-new-bathroom-need-a-fan-or-ducting-upgrade",
+  "name": "Do bathroom additions require ventilation upgrades?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does a new bathroom need a fan or ducting upgrade?",
+    "text": "When does a new bathroom need a fan or ducting upgrade?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A bathroom addition almost always needs a ventilation plan because moisture control is essential. If the room does not have an operable window that satisfies local requirements, a mechanical exhaust fan is typically needed. Even when a fan already exists nearby, it may not be enough for the new room size or layout. Vent duct routing should be considered early because long or poorly routed ducts reduce performance and can create condensation problems. This is especially important in tighter additions, upstairs bathrooms, and interior conversions where humidity has nowhere to go. Good ventilation protects paint, drywall, cabinetry, grout, and framing from moisture damage. It also helps prevent odors from lingering. Homeowners should confirm that the fan is sized appropriately, ducted correctly, and vented to the exterior rather than into an attic or crawlspace.",
+      "@type": "Answer",
+      "description": "Most bathroom additions need proper mechanical ventilation, especially if the room has no exterior window or the existing fan is undersized. Poor ventilation can lead to moisture, mold, and premature finish failure. Fan placement and duct routing should be designed with the bathroom layout, not added at the end.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A bathroom addition almost always needs a ventilation plan because moisture control is essential. If the room does not have an operable window that satisfies local requirements, a mechanical exhaust fan is typically needed. Even when a fan already exists nearby, it may not be enough for the new room size or layout. Vent duct routing should be considered early because long or poorly routed ducts reduce performance and can create condensation problems. This is especially important in tighter additions, upstairs bathrooms, and interior conversions where humidity has nowhere to go. Good ventilation protects paint, drywall, cabinetry, grout, and framing from moisture damage. It also helps prevent odors from lingering. Homeowners should confirm that the fan is sized appropriately, ducted correctly, and vented to the exterior rather than into an attic or crawlspace.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most bathroom additions need proper mechanical ventilation, especially if the room has no exterior window or the existing fan is undersized. Poor ventilation ca"
+}
