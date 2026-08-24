@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-homeowner-do-first-before-designing-or-breaking-ground-on-a-vacant",
+  "name": "What is the first step before starting ground-up construction on a vacant lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a homeowner do first before designing or breaking ground on a vacant lot?",
+    "text": "What should a homeowner do first before designing or breaking ground on a vacant lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before investing in full design, the lot should be tested for feasibility. That means checking zoning, setback rules, lot dimensions, topography, access, utility availability, drainage, and any potential restrictions that could affect the home’s size or placement. A survey and early consultant review can reveal whether the lot supports the intended design or whether the project needs to be adjusted first. This step matters because many delays and cost overruns come from discovering site limitations too late. If the lot has slope, unusual geometry, or utility challenges, those issues should be understood before architectural plans are finalized. The best process is to start with feasibility, then move into design, engineering, and permit strategy only after the project has a realistic site plan.",
+      "@type": "Answer",
+      "description": "The first step is confirming the lot is truly buildable by reviewing zoning, setbacks, access, utilities, topography, and any special site constraints. A survey and preliminary feasibility check should happen before full design begins. That early review helps avoid expensive redesigns, permit issues, and budget surprises later.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before investing in full design, the lot should be tested for feasibility. That means checking zoning, setback rules, lot dimensions, topography, access, utility availability, drainage, and any potential restrictions that could affect the home’s size or placement. A survey and early consultant review can reveal whether the lot supports the intended design or whether the project needs to be adjusted first. This step matters because many delays and cost overruns come from discovering site limitations too late. If the lot has slope, unusual geometry, or utility challenges, those issues should be understood before architectural plans are finalized. The best process is to start with feasibility, then move into design, engineering, and permit strategy only after the project has a realistic site plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The first step is confirming the lot is truly buildable by reviewing zoning, setbacks, access, utilities, topography, and any special site constraints. A survey"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-site-evaluation-reveal-foundation-risk-before-excavation-starts",
+  "name": "Can a site evaluation reveal foundation risk before excavation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a site evaluation reveal foundation risk before excavation starts?",
+    "text": "Can a site evaluation reveal foundation risk before excavation starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A site evaluation is useful for spotting clues that foundation design may be more complicated than expected. Cracks, sloping floors in existing structures, retaining walls, uneven ground, or drainage toward the building can all suggest that the soil or site conditions may affect foundation performance. That said, a visual evaluation cannot replace subsurface testing. Its real value is deciding whether the site needs engineering study before excavation or plan finalization. In practical terms, that can save time and money because the project can be designed around likely foundation demands instead of discovering them after demo or grading starts.",
+      "@type": "Answer",
+      "description": "A site evaluation can flag signs of foundation risk, such as slope movement, settlement, soft soils, poor drainage, or nearby retaining walls, before excavation starts. It cannot confirm subsurface conditions by itself, but it can show whether geotechnical testing is needed.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A site evaluation is useful for spotting clues that foundation design may be more complicated than expected. Cracks, sloping floors in existing structures, retaining walls, uneven ground, or drainage toward the building can all suggest that the soil or site conditions may affect foundation performance. That said, a visual evaluation cannot replace subsurface testing. Its real value is deciding whether the site needs engineering study before excavation or plan finalization. In practical terms, that can save time and money because the project can be designed around likely foundation demands instead of discovering them after demo or grading starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A site evaluation can flag signs of foundation risk, such as slope movement, settlement, soft soils, poor drainage, or nearby retaining walls, before excavation"
+}

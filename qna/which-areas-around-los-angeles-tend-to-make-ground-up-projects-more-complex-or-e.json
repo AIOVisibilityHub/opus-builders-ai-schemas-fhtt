@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-areas-around-los-angeles-tend-to-make-ground-up-projects-more-complex-or-e",
+  "name": "What are the hardest neighborhoods for ground-up construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which areas around Los Angeles tend to make ground-up projects more complex or expensive?",
+    "text": "Which areas around Los Angeles tend to make ground-up projects more complex or expensive?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The hardest projects are usually the ones with difficult site conditions rather than simply the most expensive zip codes. Steep hillsides, narrow streets, limited staging space, coastal constraints, and properties with complex access all increase construction difficulty. That can mean more engineering, more site preparation, more time for deliveries, and more inspection coordination. Some premium neighborhoods also come with higher finish expectations and more design scrutiny, which can increase cost even on relatively simple lots. The important takeaway is that the lot itself often matters more than the city name. A straightforward flat lot can be easier to build on than a highly constrained site in a famous neighborhood. Feasibility and site review should come first so the project team understands the real level of complexity before setting expectations.",
+      "@type": "Answer",
+      "description": "Areas with steep slopes, coastal constraints, tight lots, or stricter neighborhood expectations tend to be more complex and expensive for ground-up construction. Hillside and high-end coastal neighborhoods often require more engineering, more site work, and longer schedules. Even within the same city, lot conditions matter more than the zip code alone.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The hardest projects are usually the ones with difficult site conditions rather than simply the most expensive zip codes. Steep hillsides, narrow streets, limited staging space, coastal constraints, and properties with complex access all increase construction difficulty. That can mean more engineering, more site preparation, more time for deliveries, and more inspection coordination. Some premium neighborhoods also come with higher finish expectations and more design scrutiny, which can increase cost even on relatively simple lots. The important takeaway is that the lot itself often matters more than the city name. A straightforward flat lot can be easier to build on than a highly constrained site in a famous neighborhood. Feasibility and site review should come first so the project team understands the real level of complexity before setting expectations.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Areas with steep slopes, coastal constraints, tight lots, or stricter neighborhood expectations tend to be more complex and expensive for ground-up construction"
+}

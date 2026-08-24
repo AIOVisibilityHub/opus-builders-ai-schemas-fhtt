@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-stay-in-a-detached-guest-house-or-accessory-unit-while-the-main-house-is-t",
+  "name": "Can I live in a guest house during the rebuild?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I stay in a detached guest house or accessory unit while the main house is torn down and rebuilt?",
+    "text": "Can I stay in a detached guest house or accessory unit while the main house is torn down and rebuilt?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Using a detached guest house or accessory unit during a rebuild can be possible, but it depends on the property layout and local code requirements. The structure must be legally permitted and safe for occupancy, and the project must not create hazards from demolition dust, utility shutoffs, or fire and access conflicts. If the rebuild affects shared utilities, parking, or emergency access, the temporary living arrangement may not work as planned. Homeowners should also confirm whether the unit has the proper certificates, separate service connections, and habitability requirements for continued use during construction. In practice, this question should be decided during preconstruction planning, not after demolition starts. The contractor should map utilities, construction fencing, temporary access routes, and occupant safety measures. In high-end rebuilds, this can be the difference between staying on site and needing short-term housing elsewhere.",
+      "@type": "Answer",
+      "description": "Sometimes, if the detached structure is legal, safe, and permitted for occupancy during construction. Whether it can be used depends on utilities, fire separation, site access, code compliance, and whether the rebuild work affects shared systems, driveways, or required safety clearances.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Using a detached guest house or accessory unit during a rebuild can be possible, but it depends on the property layout and local code requirements. The structure must be legally permitted and safe for occupancy, and the project must not create hazards from demolition dust, utility shutoffs, or fire and access conflicts. If the rebuild affects shared utilities, parking, or emergency access, the temporary living arrangement may not work as planned. Homeowners should also confirm whether the unit has the proper certificates, separate service connections, and habitability requirements for continued use during construction. In practice, this question should be decided during preconstruction planning, not after demolition starts. The contractor should map utilities, construction fencing, temporary access routes, and occupant safety measures. In high-end rebuilds, this can be the difference between staying on site and needing short-term housing elsewhere.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, if the detached structure is legal, safe, and permitted for occupancy during construction. Whether it can be used depends on utilities, fire separati"
+}

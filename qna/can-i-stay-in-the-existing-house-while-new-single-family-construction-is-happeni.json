@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-stay-in-the-existing-house-while-new-single-family-construction-is-happeni",
+  "name": "Can I live in my house while adding a new single-family structure?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I stay in the existing house while new single-family construction is happening on the same lot?",
+    "text": "Can I stay in the existing house while new single-family construction is happening on the same lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can stay in the existing house depends on how the project is staged and how much of the site is affected. If the new construction is separate and the work area can be safely isolated, staying onsite may be possible for part of the project. However, demolition, grading, foundation work, utility tie-ins, crane access, and major rough-ins often make occupancy difficult or unsafe. Noise, dust, inspections, and temporary service interruptions also affect livability. For a full teardown and rebuild, staying in the original house is usually not realistic. Homeowners should ask the builder for a phasing plan and a clear understanding of when utilities will be interrupted. If staying onsite is important, it should be discussed before design and contract signing so the project can be planned around access and safety needs.",
+      "@type": "Answer",
+      "description": "It depends on the project scope, access, safety fencing, utility shutdowns, and whether the new build is separate from the existing structure. In many cases, living onsite is possible during some phases, but demolition, major utility work, and inspections may make it impractical.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can stay in the existing house depends on how the project is staged and how much of the site is affected. If the new construction is separate and the work area can be safely isolated, staying onsite may be possible for part of the project. However, demolition, grading, foundation work, utility tie-ins, crane access, and major rough-ins often make occupancy difficult or unsafe. Noise, dust, inspections, and temporary service interruptions also affect livability. For a full teardown and rebuild, staying in the original house is usually not realistic. Homeowners should ask the builder for a phasing plan and a clear understanding of when utilities will be interrupted. If staying onsite is important, it should be discussed before design and contract signing so the project can be planned around access and safety needs.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "It depends on the project scope, access, safety fencing, utility shutdowns, and whether the new build is separate from the existing structure. In many cases, li"
+}

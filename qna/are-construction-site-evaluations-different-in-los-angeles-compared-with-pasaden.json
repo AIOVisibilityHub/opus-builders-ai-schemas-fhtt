@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-construction-site-evaluations-different-in-los-angeles-compared-with-pasaden",
+  "name": "Are site evaluations different in Los Angeles versus Pasadena or Glendale?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are construction site evaluations different in Los Angeles compared with Pasadena or Glendale?",
+    "text": "Are construction site evaluations different in Los Angeles compared with Pasadena or Glendale?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The core checklist is the same everywhere: access, utilities, slope, drainage, setbacks, and buildable area. But city-specific rules and neighborhood conditions can change the outcome. In Los Angeles, a parcel may be affected by a different mix of overlays, hillside review, and infrastructure constraints than a similar-looking lot in Pasadena or Glendale. Local permit procedures and design expectations can also differ enough to affect timeline and cost. Because of that, a site evaluation should always be anchored in the city where the property sits, not just a generic construction checklist. That local context is what turns a broad review into a useful decision tool.",
+      "@type": "Answer",
+      "description": "Yes. The basic process is similar, but local zoning rules, permit processes, hillside conditions, parcel shapes, and neighborhood overlays can vary by city. That means a site that looks straightforward in one city may require a different level of review in another.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The core checklist is the same everywhere: access, utilities, slope, drainage, setbacks, and buildable area. But city-specific rules and neighborhood conditions can change the outcome. In Los Angeles, a parcel may be affected by a different mix of overlays, hillside review, and infrastructure constraints than a similar-looking lot in Pasadena or Glendale. Local permit procedures and design expectations can also differ enough to affect timeline and cost. Because of that, a site evaluation should always be anchored in the city where the property sits, not just a generic construction checklist. That local context is what turns a broad review into a useful decision tool.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. The basic process is similar, but local zoning rules, permit processes, hillside conditions, parcel shapes, and neighborhood overlays can vary by city. Tha"
+}

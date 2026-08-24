@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-electrical-gas-water-sewer-and-panel-upgrades-significantly-change-the-cost-o",
+  "name": "How do utility upgrades affect ground-up construction budgets?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do electrical, gas, water, sewer, and panel upgrades significantly change the cost of a new build?",
+    "text": "Do electrical, gas, water, sewer, and panel upgrades significantly change the cost of a new build?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility work is one of the most commonly underestimated parts of ground-up construction. A project may need service upgrades, trenching, new meter placement, sewer connection work, water line changes, gas coordination, or a larger electrical panel to support the new home. Older Los Angeles lots often require more utility planning because the existing infrastructure may not match the needs of a modern custom home. These costs may sit outside the main builder’s base bid, so they can surprise owners if they are not identified early. Utility coordination also affects schedule because service providers, city approvals, and inspections can take time. The right approach is to verify utility needs during feasibility, not after framing starts. That helps protect both the budget and the construction timeline.",
+      "@type": "Answer",
+      "description": "Yes. Utility upgrades can materially increase the budget if the site needs new service lines, trenching, meter changes, sewer connections, or a larger electrical panel. Some lots also need coordination with utilities before construction can proceed. These items are easy to miss in early budgeting but can become major cost drivers later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility work is one of the most commonly underestimated parts of ground-up construction. A project may need service upgrades, trenching, new meter placement, sewer connection work, water line changes, gas coordination, or a larger electrical panel to support the new home. Older Los Angeles lots often require more utility planning because the existing infrastructure may not match the needs of a modern custom home. These costs may sit outside the main builder’s base bid, so they can surprise owners if they are not identified early. Utility coordination also affects schedule because service providers, city approvals, and inspections can take time. The right approach is to verify utility needs during feasibility, not after framing starts. That helps protect both the budget and the construction timeline.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Utility upgrades can materially increase the budget if the site needs new service lines, trenching, meter changes, sewer connections, or a larger electrica"
+}

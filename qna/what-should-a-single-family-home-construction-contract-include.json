@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-single-family-home-construction-contract-include",
+  "name": "What should be in a contract for a custom home build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a single-family home construction contract include?",
+    "text": "What should a single-family home construction contract include?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A construction contract should do more than set a price. It should clearly describe the scope of work, the materials and finishes included, allowances for items not yet selected, exclusions, payment milestones, and the process for approving changes. It should also state who is responsible for permits, inspections, cleanup, site security, and protection of neighboring properties. Warranty coverage and completion standards matter as well, because they define what happens after move-in. On custom homes, the contract should be specific enough that both the owner and builder understand what is included and what would trigger an extra charge. Vague language creates disputes later, especially when the project involves many finish selections and site-specific issues. A strong contract is a project management tool as much as a legal document, because it reduces uncertainty and keeps expectations aligned.",
+      "@type": "Answer",
+      "description": "A good contract should define scope, allowances, exclusions, timeline, payment schedule, change-order process, insurance, warranty terms, and dispute handling. It should also specify who is responsible for permits, inspections, and site protection.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A construction contract should do more than set a price. It should clearly describe the scope of work, the materials and finishes included, allowances for items not yet selected, exclusions, payment milestones, and the process for approving changes. It should also state who is responsible for permits, inspections, cleanup, site security, and protection of neighboring properties. Warranty coverage and completion standards matter as well, because they define what happens after move-in. On custom homes, the contract should be specific enough that both the owner and builder understand what is included and what would trigger an extra charge. Vague language creates disputes later, especially when the project involves many finish selections and site-specific issues. A strong contract is a project management tool as much as a legal document, because it reduces uncertainty and keeps expectations aligned.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A good contract should define scope, allowances, exclusions, timeline, payment schedule, change-order process, insurance, warranty terms, and dispute handling. "
+}

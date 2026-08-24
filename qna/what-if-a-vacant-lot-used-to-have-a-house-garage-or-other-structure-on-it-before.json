@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-a-vacant-lot-used-to-have-a-house-garage-or-other-structure-on-it-before",
+  "name": "What if the vacant lot was previously used for something else?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if a vacant lot used to have a house, garage, or other structure on it before it became empty?",
+    "text": "What if a vacant lot used to have a house, garage, or other structure on it before it became empty?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot that looks empty today may still carry the physical footprint of earlier use. Old foundations, slabs, driveways, septic remnants, abandoned utility lines, and buried debris can all remain below grade. If the prior use involved fuel storage, vehicles, industrial activity, or long-term dumping, environmental testing may also be needed before development proceeds. Even a former single-family site can create surprises if demolition was incomplete or undocumented. This history matters because it can change grading strategy, foundation design, and budget. Before assuming a clean slate, review old records, permits, and visible site clues. If there is any sign of prior structure or unusual use, a soils and environmental review should be considered early. Many vacant-lot budgets fail because the owner pays for the lot twice: once at purchase and again during cleanup.",
+      "@type": "Answer",
+      "description": "A previously developed lot may still contain old foundations, buried debris, utility remnants, or contaminated soil. That history can increase excavation and cleanup costs even when the parcel is now vacant.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot that looks empty today may still carry the physical footprint of earlier use. Old foundations, slabs, driveways, septic remnants, abandoned utility lines, and buried debris can all remain below grade. If the prior use involved fuel storage, vehicles, industrial activity, or long-term dumping, environmental testing may also be needed before development proceeds. Even a former single-family site can create surprises if demolition was incomplete or undocumented. This history matters because it can change grading strategy, foundation design, and budget. Before assuming a clean slate, review old records, permits, and visible site clues. If there is any sign of prior structure or unusual use, a soils and environmental review should be considered early. Many vacant-lot budgets fail because the owner pays for the lot twice: once at purchase and again during cleanup.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A previously developed lot may still contain old foundations, buried debris, utility remnants, or contaminated soil. That history can increase excavation and cl"
+}

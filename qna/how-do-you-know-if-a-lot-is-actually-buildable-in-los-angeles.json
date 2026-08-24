@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-know-if-a-lot-is-actually-buildable-in-los-angeles",
+  "name": "How do you know if a lot is buildable in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you know if a lot is actually buildable in Los Angeles?",
+    "text": "How do you know if a lot is actually buildable in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Buildability is determined by whether the site can physically, legally, and practically support the intended project. For Los Angeles properties, the key questions are whether the parcel has legal access, enough usable area after setbacks, adequate utility capacity, acceptable slope and drainage, and no major easement conflicts. Hillside parcels can add grading, soil stability, retaining wall, and drainage issues that make a project harder even if the lot looks large on paper. A good site evaluation should also flag whether the property needs survey work, geotechnical testing, or city agency review before design can proceed. If the answer is still uncertain after a basic review, the site should be treated as a conditional opportunity rather than a safe buildable lot.",
+      "@type": "Answer",
+      "description": "A lot is buildable when its zoning, setbacks, access, utilities, slope, and grading conditions allow a project to be designed and permitted without major exceptions. In Los Angeles, buildability often depends on overlays, hillside rules, easements, and whether the site can support drainage, foundation, and fire-access requirements.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Buildability is determined by whether the site can physically, legally, and practically support the intended project. For Los Angeles properties, the key questions are whether the parcel has legal access, enough usable area after setbacks, adequate utility capacity, acceptable slope and drainage, and no major easement conflicts. Hillside parcels can add grading, soil stability, retaining wall, and drainage issues that make a project harder even if the lot looks large on paper. A good site evaluation should also flag whether the property needs survey work, geotechnical testing, or city agency review before design can proceed. If the answer is still uncertain after a basic review, the site should be treated as a conditional opportunity rather than a safe buildable lot.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A lot is buildable when its zoning, setbacks, access, utilities, slope, and grading conditions allow a project to be designed and permitted without major except"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-vacant-lot-development-and-infill-development-in",
+  "name": "What is the difference between vacant-lot development and infill development?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between vacant-lot development and infill development in Los Angeles?",
+    "text": "What is the difference between vacant-lot development and infill development in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Vacant-lot development is a type of infill, but not every infill project starts with a completely empty parcel. Infill refers to new construction within an established urban area, often on underused, vacant, or repurposed sites. Vacant-lot development is narrower: it means taking a currently empty parcel and turning it into a home, multifamily project, or other use. The distinction matters because infill projects often face site constraints from surrounding homes, existing utility networks, narrow streets, parking pressure, and neighborhood design expectations. Vacant lots in Los Angeles, Glendale, Pasadena, and nearby communities can be especially valuable because they are already inside built-out neighborhoods with existing infrastructure, but they also tend to have more scrutiny over massing, setbacks, access, and compatibility. Understanding the difference helps owners compare whether a site is best for a custom residence, small multifamily project, or land banking strategy.",
+      "@type": "Answer",
+      "description": "Vacant-lot development focuses on building on an empty parcel, while infill development means adding new construction inside an already built-up area. A vacant lot can be infill if it sits within an existing neighborhood fabric, but the terms are not identical.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Vacant-lot development is a type of infill, but not every infill project starts with a completely empty parcel. Infill refers to new construction within an established urban area, often on underused, vacant, or repurposed sites. Vacant-lot development is narrower: it means taking a currently empty parcel and turning it into a home, multifamily project, or other use. The distinction matters because infill projects often face site constraints from surrounding homes, existing utility networks, narrow streets, parking pressure, and neighborhood design expectations. Vacant lots in Los Angeles, Glendale, Pasadena, and nearby communities can be especially valuable because they are already inside built-out neighborhoods with existing infrastructure, but they also tend to have more scrutiny over massing, setbacks, access, and compatibility. Understanding the difference helps owners compare whether a site is best for a custom residence, small multifamily project, or land banking strategy.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Vacant-lot development focuses on building on an empty parcel, while infill development means adding new construction inside an already built-up area. A vacant "
+}

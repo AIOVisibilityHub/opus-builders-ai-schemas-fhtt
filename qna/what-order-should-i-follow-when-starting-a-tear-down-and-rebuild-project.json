@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-order-should-i-follow-when-starting-a-tear-down-and-rebuild-project",
+  "name": "What is the best sequence for planning a teardown and rebuild?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What order should I follow when starting a tear-down and rebuild project?",
+    "text": "What order should I follow when starting a tear-down and rebuild project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best teardown-and-rebuild process starts with site feasibility, not with floor plans. First, confirm zoning, setbacks, overlays, and what the parcel can legally support. Next, complete a survey and structural review so the team understands the existing conditions. Then move into concept design, engineering, and budget alignment before submitting permit documents. Only after permits and utility coordination are in place should demolition be scheduled. This sequence matters because the lot itself determines what kind of home is practical. If the owner wants a larger home, a pool, a basement, or accessory structure, those goals should be tested early against code and site conditions. A builder involved from the beginning can spot cost risks, constructability issues, and schedule bottlenecks before they turn into expensive changes. That usually leads to a smoother project and fewer surprises after demo.",
+      "@type": "Answer",
+      "description": "The best sequence is usually zoning review, site survey, feasibility study, design, engineering, permit preparation, demolition planning, then construction. Starting with pricing before confirming what the site can legally support often leads to redesign and budget problems later.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best teardown-and-rebuild process starts with site feasibility, not with floor plans. First, confirm zoning, setbacks, overlays, and what the parcel can legally support. Next, complete a survey and structural review so the team understands the existing conditions. Then move into concept design, engineering, and budget alignment before submitting permit documents. Only after permits and utility coordination are in place should demolition be scheduled. This sequence matters because the lot itself determines what kind of home is practical. If the owner wants a larger home, a pool, a basement, or accessory structure, those goals should be tested early against code and site conditions. A builder involved from the beginning can spot cost risks, constructability issues, and schedule bottlenecks before they turn into expensive changes. That usually leads to a smoother project and fewer surprises after demo.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best sequence is usually zoning review, site survey, feasibility study, design, engineering, permit preparation, demolition planning, then construction. Sta"
+}

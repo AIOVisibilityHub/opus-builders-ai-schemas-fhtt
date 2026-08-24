@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-check-before-i-start-architectural-design-for-a-custom-home-on-a-v",
+  "name": "What should I check before designing a custom home on a vacant lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I check before I start architectural design for a custom home on a vacant lot?",
+    "text": "What should I check before I start architectural design for a custom home on a vacant lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A custom home design should begin with the site, not the wish list. Before moving into floor plans or exterior concepts, confirm the legal property lines, recorded easements, zoning constraints, setbacks, height limits, lot coverage, and whether the site has slope or drainage issues. Utility locations and service capacity should also be checked early because they can affect room placement, driveway location, and mechanical design. If the parcel is in a design-sensitive neighborhood, the project may also need to respond to local character expectations or specific plan rules. For luxury homes in Los Angeles, Glendale, Pasadena, or the surrounding areas, it is common to refine the layout several times once site realities become clear. That is normal and should be expected. Good design follows feasibility. If the project starts with strong site data, the rest of the process is smoother and less likely to produce expensive changes later.",
+      "@type": "Answer",
+      "description": "Before design starts, confirm survey boundaries, zoning, setbacks, easements, slope, utility access, drainage, and any neighborhood overlays. These items define the actual buildable envelope and prevent a design that cannot be approved or built.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A custom home design should begin with the site, not the wish list. Before moving into floor plans or exterior concepts, confirm the legal property lines, recorded easements, zoning constraints, setbacks, height limits, lot coverage, and whether the site has slope or drainage issues. Utility locations and service capacity should also be checked early because they can affect room placement, driveway location, and mechanical design. If the parcel is in a design-sensitive neighborhood, the project may also need to respond to local character expectations or specific plan rules. For luxury homes in Los Angeles, Glendale, Pasadena, or the surrounding areas, it is common to refine the layout several times once site realities become clear. That is normal and should be expected. Good design follows feasibility. If the project starts with strong site data, the rest of the process is smoother and less likely to produce expensive changes later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before design starts, confirm survey boundaries, zoning, setbacks, easements, slope, utility access, drainage, and any neighborhood overlays. These items define"
+}

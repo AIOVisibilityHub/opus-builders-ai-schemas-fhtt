@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-questions-reveal-whether-a-builder-is-a-good-fit-for-a-custom-home-project",
+  "name": "What should I ask before hiring a custom home builder in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What questions reveal whether a builder is a good fit for a custom home project?",
+    "text": "What questions reveal whether a builder is a good fit for a custom home project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best interview questions focus on process, not just portfolio photos. Homeowners should ask how the builder handles budgeting, permitting, schedule tracking, selections, and change orders. It also helps to ask who will be on-site, how often progress updates are provided, and how the builder handles surprises such as site conditions or city comments. In Los Angeles, experience with local permitting and site complexity matters as much as craftsmanship. A strong builder should be able to explain recent projects similar to yours and show how they kept clients informed. If the answers are vague or overly optimistic, that is usually a warning sign.",
+      "@type": "Answer",
+      "description": "Ask about similar completed projects, budget control, schedule management, permit handling, change orders, communication, and who will supervise the site daily. The best builders can explain their process clearly and give recent client references.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best interview questions focus on process, not just portfolio photos. Homeowners should ask how the builder handles budgeting, permitting, schedule tracking, selections, and change orders. It also helps to ask who will be on-site, how often progress updates are provided, and how the builder handles surprises such as site conditions or city comments. In Los Angeles, experience with local permitting and site complexity matters as much as craftsmanship. A strong builder should be able to explain recent projects similar to yours and show how they kept clients informed. If the answers are vague or overly optimistic, that is usually a warning sign.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about similar completed projects, budget control, schedule management, permit handling, change orders, communication, and who will supervise the site daily."
+}

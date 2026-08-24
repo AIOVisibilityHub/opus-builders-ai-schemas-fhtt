@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-water-sewer-power-and-gas-hookups-affect-the-feasibility-and-cost-of-a-va",
+  "name": "How do utility hookups affect vacant-lot development?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do water, sewer, power, and gas hookups affect the feasibility and cost of a vacant-lot project?",
+    "text": "How do water, sewer, power, and gas hookups affect the feasibility and cost of a vacant-lot project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utilities are often underestimated in vacant-lot development. A site may be physically clear but still expensive if it lacks nearby water, sewer, power, or gas service. Even when connections exist at the street, the project may require new meters, larger service capacity, trenching across the lot, or coordination with utility providers for upgrades. Sewer slope, tie-in distance, and the condition of existing laterals can all affect cost. Electric service can be especially important for larger custom homes or multifamily projects with high load demand. Gas may be optional depending on design, but if it is part of the plan, trenching and service timing still matter. The best practice is to verify utility locations and capacities early and include infrastructure estimates in the initial feasibility model. If utility work is expensive, the parcel may still be worth developing, but only if the final value supports the added investment.",
+      "@type": "Answer",
+      "description": "Utility availability can make or break a vacant-lot project because new service lines, upgrades, or off-site extensions can add major cost and delay. A lot is only truly feasible when utilities can reach the building site at a reasonable price and within code requirements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utilities are often underestimated in vacant-lot development. A site may be physically clear but still expensive if it lacks nearby water, sewer, power, or gas service. Even when connections exist at the street, the project may require new meters, larger service capacity, trenching across the lot, or coordination with utility providers for upgrades. Sewer slope, tie-in distance, and the condition of existing laterals can all affect cost. Electric service can be especially important for larger custom homes or multifamily projects with high load demand. Gas may be optional depending on design, but if it is part of the plan, trenching and service timing still matter. The best practice is to verify utility locations and capacities early and include infrastructure estimates in the initial feasibility model. If utility work is expensive, the parcel may still be worth developing, but only if the final value supports the added investment.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utility availability can make or break a vacant-lot project because new service lines, upgrades, or off-site extensions can add major cost and delay. A lot is o"
+}

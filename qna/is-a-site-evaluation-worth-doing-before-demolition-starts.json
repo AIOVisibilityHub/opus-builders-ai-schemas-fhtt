@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-site-evaluation-worth-doing-before-demolition-starts",
+  "name": "What makes a site evaluation worth it before demolition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a site evaluation worth doing before demolition starts?",
+    "text": "Is a site evaluation worth doing before demolition starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A pre-demolition evaluation is worth it when the site has any meaningful uncertainty. Once a structure is removed, owners often discover that the real challenge is not the demo itself but what the demolition reveals about access, drainage, soil conditions, or utility routing. Evaluating the site first helps the team plan sequence, protect budget, and avoid discovering a design problem too late to fix cheaply. In Los Angeles projects, where site conditions can be the main cost driver, that early review can save both time and money. It is especially useful for lots with slopes, retaining walls, or suspected infrastructure issues.",
+      "@type": "Answer",
+      "description": "Yes, especially if the project may face grading, drainage, access, or utility complications. A pre-demolition evaluation helps identify hidden constraints before the existing structure is removed, which can prevent budget mistakes and redesigns after the site is opened up.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A pre-demolition evaluation is worth it when the site has any meaningful uncertainty. Once a structure is removed, owners often discover that the real challenge is not the demo itself but what the demolition reveals about access, drainage, soil conditions, or utility routing. Evaluating the site first helps the team plan sequence, protect budget, and avoid discovering a design problem too late to fix cheaply. In Los Angeles projects, where site conditions can be the main cost driver, that early review can save both time and money. It is especially useful for lots with slopes, retaining walls, or suspected infrastructure issues.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, especially if the project may face grading, drainage, access, or utility complications. A pre-demolition evaluation helps identify hidden constraints befor"
+}

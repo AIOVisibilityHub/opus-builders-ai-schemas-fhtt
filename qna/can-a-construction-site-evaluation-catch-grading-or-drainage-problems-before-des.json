@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-construction-site-evaluation-catch-grading-or-drainage-problems-before-des",
+  "name": "Can a site evaluation catch grading or drainage problems early?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a construction site evaluation catch grading or drainage problems before design starts?",
+    "text": "Can a construction site evaluation catch grading or drainage problems before design starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A site evaluation is one of the best early tools for spotting grading and drainage problems. It can reveal whether water naturally flows toward the house, whether the lot sits below neighboring properties, whether there are signs of erosion, or whether a driveway and flat pad will require significant cut-and-fill work. In Los Angeles-area hillside and sloped neighborhoods, those issues can quickly affect feasibility and budget. While a visual evaluation cannot replace civil or geotechnical engineering, it can help determine whether those specialists should be brought in immediately. That early warning matters because drainage and grading fixes often affect foundation design, retaining walls, permit timing, and total project cost.",
+      "@type": "Answer",
+      "description": "Yes. A site evaluation can identify visible slope issues, low spots, runoff patterns, drainage conflicts, and likely grading challenges before design starts. It can also show when a geotechnical or civil engineer should be involved to confirm whether the site needs retaining walls, soil work, or drainage improvements.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A site evaluation is one of the best early tools for spotting grading and drainage problems. It can reveal whether water naturally flows toward the house, whether the lot sits below neighboring properties, whether there are signs of erosion, or whether a driveway and flat pad will require significant cut-and-fill work. In Los Angeles-area hillside and sloped neighborhoods, those issues can quickly affect feasibility and budget. While a visual evaluation cannot replace civil or geotechnical engineering, it can help determine whether those specialists should be brought in immediately. That early warning matters because drainage and grading fixes often affect foundation design, retaining walls, permit timing, and total project cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A site evaluation can identify visible slope issues, low spots, runoff patterns, drainage conflicts, and likely grading challenges before design starts. It"
+}

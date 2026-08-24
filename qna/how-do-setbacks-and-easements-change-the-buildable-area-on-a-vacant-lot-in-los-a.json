@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-setbacks-and-easements-change-the-buildable-area-on-a-vacant-lot-in-los-a",
+  "name": "How do setbacks and easements change the buildable area?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do setbacks and easements change the buildable area on a vacant lot in Los Angeles?",
+    "text": "How do setbacks and easements change the buildable area on a vacant lot in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Setbacks and easements are two of the most important hidden limitations on a vacant lot. Setbacks require the building to stay a certain distance from property lines, while easements reserve parts of the site for utilities, access, drainage, or other rights. Together, they define the true buildable envelope, which is often much smaller than the full parcel. A lot may look generous on paper but become awkward in practice if easements run through the center or if required setbacks consume too much width. This matters for everything from garage placement to window locations and outdoor space. Before design begins, a survey and title review should identify every recorded restriction so the project can be drawn around them instead of fighting them later. If the buildable area is tight, the site may still work, but the design must be efficient and intentional.",
+      "@type": "Answer",
+      "description": "Setbacks and easements reduce the area where a structure can legally be placed. Even a large lot can have a small buildable envelope if side-yard, rear-yard, utility, drainage, or access easements cut into the usable space.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Setbacks and easements are two of the most important hidden limitations on a vacant lot. Setbacks require the building to stay a certain distance from property lines, while easements reserve parts of the site for utilities, access, drainage, or other rights. Together, they define the true buildable envelope, which is often much smaller than the full parcel. A lot may look generous on paper but become awkward in practice if easements run through the center or if required setbacks consume too much width. This matters for everything from garage placement to window locations and outdoor space. Before design begins, a survey and title review should identify every recorded restriction so the project can be drawn around them instead of fighting them later. If the buildable area is tight, the site may still work, but the design must be efficient and intentional.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Setbacks and easements reduce the area where a structure can legally be placed. Even a large lot can have a small buildable envelope if side-yard, rear-yard, ut"
+}

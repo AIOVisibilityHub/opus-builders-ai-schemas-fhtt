@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-is-a-soils-report-needed-for-a-tear-down-and-rebuild",
+  "name": "Do teardown projects need a geotechnical or soils report?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When is a soils report needed for a tear-down and rebuild?",
+    "text": "When is a soils report needed for a tear-down and rebuild?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A geotechnical or soils report becomes especially important when the rebuild site has slope, unstable ground, previous fill, drainage problems, or a foundation that will be replaced. The report gives the structural engineer and builder information about bearing conditions, settlement risk, and how deep or reinforced the new foundation should be. On a simple flat lot, the report may be less complicated, but it can still be helpful for planning and cost control. In higher-end rebuilds, a soils report is often a smart early investment because foundation corrections are expensive once excavation starts. If the parcel has retaining walls, hillside access, or unusual water movement, the report can directly affect the design. Homeowners should think of it as a risk-management tool, not just a permit checkbox.",
+      "@type": "Answer",
+      "description": "A soils or geotechnical report is often required when the site has slope, fill, drainage issues, foundation replacement, or structural concerns. Even when not strictly required, it can be valuable because it helps the engineer and builder design the foundation correctly and avoid surprises during excavation.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A geotechnical or soils report becomes especially important when the rebuild site has slope, unstable ground, previous fill, drainage problems, or a foundation that will be replaced. The report gives the structural engineer and builder information about bearing conditions, settlement risk, and how deep or reinforced the new foundation should be. On a simple flat lot, the report may be less complicated, but it can still be helpful for planning and cost control. In higher-end rebuilds, a soils report is often a smart early investment because foundation corrections are expensive once excavation starts. If the parcel has retaining walls, hillside access, or unusual water movement, the report can directly affect the design. Homeowners should think of it as a risk-management tool, not just a permit checkbox.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A soils or geotechnical report is often required when the site has slope, fill, drainage issues, foundation replacement, or structural concerns. Even when not s"
+}

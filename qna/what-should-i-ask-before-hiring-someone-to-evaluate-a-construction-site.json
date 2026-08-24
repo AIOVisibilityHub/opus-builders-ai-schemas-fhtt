@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-ask-before-hiring-someone-to-evaluate-a-construction-site",
+  "name": "What should I ask before hiring a site evaluation company?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask before hiring someone to evaluate a construction site?",
+    "text": "What should I ask before hiring someone to evaluate a construction site?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring a site evaluation company, ask exactly what is included and what is not. The most important questions are whether the review covers zoning, setbacks, access, utilities, slope, grading, and environmental red flags, and whether you receive a written report or only a verbal opinion. Local experience matters because Los Angeles-area sites often have neighborhood-specific constraints that a generic reviewer may miss. You should also ask how quickly the report will be delivered, whether follow-up questions are included, and whether the company can coordinate with geotechnical, civil, or design professionals if the site needs deeper analysis. A clear scope prevents misunderstandings and helps you compare providers on substance rather than price alone.",
+      "@type": "Answer",
+      "description": "Ask what the evaluation covers, whether it includes zoning and utility review, how detailed the written report will be, whether the reviewer has local Los Angeles experience, and what issues are not included. You should also ask whether the deliverable is a quick memo or a full feasibility study.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring a site evaluation company, ask exactly what is included and what is not. The most important questions are whether the review covers zoning, setbacks, access, utilities, slope, grading, and environmental red flags, and whether you receive a written report or only a verbal opinion. Local experience matters because Los Angeles-area sites often have neighborhood-specific constraints that a generic reviewer may miss. You should also ask how quickly the report will be delivered, whether follow-up questions are included, and whether the company can coordinate with geotechnical, civil, or design professionals if the site needs deeper analysis. A clear scope prevents misunderstandings and helps you compare providers on substance rather than price alone.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask what the evaluation covers, whether it includes zoning and utility review, how detailed the written report will be, whether the reviewer has local Los Angel"
+}

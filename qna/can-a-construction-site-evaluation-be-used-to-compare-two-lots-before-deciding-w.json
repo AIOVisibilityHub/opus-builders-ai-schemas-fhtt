@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-construction-site-evaluation-be-used-to-compare-two-lots-before-deciding-w",
+  "name": "Can I use a site evaluation to compare two different lots?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a construction site evaluation be used to compare two lots before deciding which one to buy?",
+    "text": "Can a construction site evaluation be used to compare two lots before deciding which one to buy?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A site evaluation is especially useful when choosing between two or more properties because price alone does not show true buildability. One lot may be cheaper but require more grading, retaining walls, utility work, or design compromises. Another may cost more upfront but support a simpler build and faster permitting. A side-by-side evaluation should compare usable area, slope, access, infrastructure, risk, and likely budget impact. For Los Angeles buyers, that comparison can be the difference between a project that feels easy and one that becomes an expensive exception-driven process. The best decision often comes from comparing total project risk, not just land price.",
+      "@type": "Answer",
+      "description": "Yes. A site evaluation is one of the best ways to compare two lots because it highlights differences in buildability, grading, utility access, permit risk, and likely construction cost. The lot with the lower price is not always the better value if its site constraints are much worse.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A site evaluation is especially useful when choosing between two or more properties because price alone does not show true buildability. One lot may be cheaper but require more grading, retaining walls, utility work, or design compromises. Another may cost more upfront but support a simpler build and faster permitting. A side-by-side evaluation should compare usable area, slope, access, infrastructure, risk, and likely budget impact. For Los Angeles buyers, that comparison can be the difference between a project that feels easy and one that becomes an expensive exception-driven process. The best decision often comes from comparing total project risk, not just land price.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A site evaluation is one of the best ways to compare two lots because it highlights differences in buildability, grading, utility access, permit risk, and "
+}

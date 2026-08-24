@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-demolish-the-main-house-and-keep-an-existing-garage-or-accessory-structure",
+  "name": "What if I want to keep the garage but tear down the house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I demolish the main house and keep an existing garage or accessory structure?",
+    "text": "Can I demolish the main house and keep an existing garage or accessory structure?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Keeping a garage or accessory structure while tearing down the main house is possible on some properties, but it is not always practical. The retained structure has to be legal, safe, and able to function with the new site plan. It may need upgraded fire separation, new utility connections, drainage changes, or modified access. If the garage sits too close to the new build envelope or interferes with grading and construction staging, it may end up being removed anyway. This decision is best made during preconstruction planning because it affects demo scope, permit drawings, and structural coordination. Homeowners should also confirm whether the retained structure will still comply with current code once the main house is gone. Keeping one building while replacing another can save money in some cases, but it can also create complexity that outweighs the benefit.",
+      "@type": "Answer",
+      "description": "Sometimes, if the structure is legal, structurally sound, and compatible with the new site plan. Keeping part of the existing improvement can create code, fire separation, utility, and layout issues, so it has to be evaluated before demolition and not assumed to be straightforward.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Keeping a garage or accessory structure while tearing down the main house is possible on some properties, but it is not always practical. The retained structure has to be legal, safe, and able to function with the new site plan. It may need upgraded fire separation, new utility connections, drainage changes, or modified access. If the garage sits too close to the new build envelope or interferes with grading and construction staging, it may end up being removed anyway. This decision is best made during preconstruction planning because it affects demo scope, permit drawings, and structural coordination. Homeowners should also confirm whether the retained structure will still comply with current code once the main house is gone. Keeping one building while replacing another can save money in some cases, but it can also create complexity that outweighs the benefit.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, if the structure is legal, structurally sound, and compatible with the new site plan. Keeping part of the existing improvement can create code, fire "
+}

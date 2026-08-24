@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-is-the-right-time-to-do-a-construction-site-evaluation",
+  "name": "When is a site evaluation too early or too late?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When is the right time to do a construction site evaluation?",
+    "text": "When is the right time to do a construction site evaluation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best time for a site evaluation is before major money is committed. That usually means before buying the property, before architectural design gets too far along, or before a builder locks in pricing based on assumptions about the lot. If the evaluation happens too late, the owner may already be stuck with a design that does not fit the site or a budget that ignored grading, access, or utility work. In Los Angeles-area projects, early evaluation is especially valuable because hillside conditions, infill density, and agency review can quickly change scope. The earlier the site is reviewed, the more options remain open.",
+      "@type": "Answer",
+      "description": "A site evaluation is most useful before purchase, before concept design, or before finalizing scope and budget. It is too late if major design money has already been spent on a site with obvious access, grading, or zoning constraints that should have been checked earlier.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best time for a site evaluation is before major money is committed. That usually means before buying the property, before architectural design gets too far along, or before a builder locks in pricing based on assumptions about the lot. If the evaluation happens too late, the owner may already be stuck with a design that does not fit the site or a budget that ignored grading, access, or utility work. In Los Angeles-area projects, early evaluation is especially valuable because hillside conditions, infill density, and agency review can quickly change scope. The earlier the site is reviewed, the more options remain open.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A site evaluation is most useful before purchase, before concept design, or before finalizing scope and budget. It is too late if major design money has already"
+}

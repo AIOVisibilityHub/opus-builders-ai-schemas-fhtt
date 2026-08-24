@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-design-build-better-than-hiring-an-architect-and-builder-separately-for-a-hig",
+  "name": "Should I use design-build for a luxury home project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is design-build better than hiring an architect and builder separately for a high-end custom home?",
+    "text": "Is design-build better than hiring an architect and builder separately for a high-end custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build is often attractive for luxury homes because it brings design, budgeting, and construction into one coordinated process. That can improve speed, reduce conflicts, and make it easier to see how design decisions affect cost in real time. It is especially useful when the home has custom details, a complex site, or a strong need for budget discipline. The tradeoff is that the owner must choose a team that can protect design quality while also managing constructability and pricing. Separate architect and builder teams can work well too, but they usually require more owner involvement to keep everyone aligned. The better option depends on the homeowner’s priorities: design control, speed, cost visibility, or flexibility. The most important question is not which model is trendy, but which one best fits the project scope and decision style.",
+      "@type": "Answer",
+      "description": "Design-build can be a strong choice when the homeowner wants earlier pricing, tighter coordination, and fewer handoffs between design and construction. It works best when budget, schedule, and constructability need to be aligned from the start. Separate teams can also work well, but they require more coordination and decision-making from the owner.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build is often attractive for luxury homes because it brings design, budgeting, and construction into one coordinated process. That can improve speed, reduce conflicts, and make it easier to see how design decisions affect cost in real time. It is especially useful when the home has custom details, a complex site, or a strong need for budget discipline. The tradeoff is that the owner must choose a team that can protect design quality while also managing constructability and pricing. Separate architect and builder teams can work well too, but they usually require more owner involvement to keep everyone aligned. The better option depends on the homeowner’s priorities: design control, speed, cost visibility, or flexibility. The most important question is not which model is trendy, but which one best fits the project scope and decision style.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build can be a strong choice when the homeowner wants earlier pricing, tighter coordination, and fewer handoffs between design and construction. It works"
+}

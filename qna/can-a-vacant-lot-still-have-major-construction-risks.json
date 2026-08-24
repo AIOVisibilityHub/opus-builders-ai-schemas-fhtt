@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-vacant-lot-still-have-major-construction-risks",
+  "name": "What if the property is vacant but still has risks?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a vacant lot still have major construction risks?",
+    "text": "Can a vacant lot still have major construction risks?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Vacant lots can be deceptively risky because the absence of a building hides many site conditions. A lot can still have steep slope, poor drainage, undocumented fill, easements, utility constraints, or neighborhood-specific permit issues that affect what can be built. In Los Angeles, a vacant parcel may also be limited by access, fire requirements, or grading demands even if it appears clean and ready to develop. That is why a site evaluation is valuable even when there is nothing standing on the property. The key is to treat the land as a system, not just an empty space.",
+      "@type": "Answer",
+      "description": "Yes. A vacant lot can still have major risks such as drainage problems, unstable slopes, easements, utility shortages, access limits, contamination concerns, or restrictive zoning. Vacant does not mean simple, and many costly issues are only visible after a proper evaluation.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Vacant lots can be deceptively risky because the absence of a building hides many site conditions. A lot can still have steep slope, poor drainage, undocumented fill, easements, utility constraints, or neighborhood-specific permit issues that affect what can be built. In Los Angeles, a vacant parcel may also be limited by access, fire requirements, or grading demands even if it appears clean and ready to develop. That is why a site evaluation is valuable even when there is nothing standing on the property. The key is to treat the land as a system, not just an empty space.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A vacant lot can still have major risks such as drainage problems, unstable slopes, easements, utility shortages, access limits, contamination concerns, or"
+}

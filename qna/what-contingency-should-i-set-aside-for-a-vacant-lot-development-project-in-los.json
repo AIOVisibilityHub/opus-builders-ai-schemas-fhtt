@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-should-i-set-aside-for-a-vacant-lot-development-project-in-los",
+  "name": "What is a realistic budget contingency for vacant-lot projects?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency should I set aside for a vacant-lot development project in Los Angeles?",
+    "text": "What contingency should I set aside for a vacant-lot development project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Vacant-lot projects need a healthier contingency than many owners expect because the site itself often contains unknowns. Even with good due diligence, field conditions can reveal issues that were not visible during early planning. Common examples include unsuitable soils, buried debris, added foundation requirements, and utility conflicts. In Los Angeles and nearby cities, contingency should cover both hard-cost surprises and schedule-related soft-cost growth. The exact percentage depends on the complexity of the lot, but the more slope, uncertainty, or infrastructure work involved, the more cushion is needed. A practical budgeting approach is to separate base construction from site-work risk so the owner can see how much of the project is truly predictable. If the project only works when every assumption is perfect, it is not well positioned. A conservative contingency can be the difference between a manageable build and a stalled one.",
+      "@type": "Answer",
+      "description": "A larger contingency is usually needed for vacant-lot projects because site conditions are uncertain until survey, soils, and utility work are complete. Unexpected grading, drainage, access, or utility costs can quickly erode a tight budget.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Vacant-lot projects need a healthier contingency than many owners expect because the site itself often contains unknowns. Even with good due diligence, field conditions can reveal issues that were not visible during early planning. Common examples include unsuitable soils, buried debris, added foundation requirements, and utility conflicts. In Los Angeles and nearby cities, contingency should cover both hard-cost surprises and schedule-related soft-cost growth. The exact percentage depends on the complexity of the lot, but the more slope, uncertainty, or infrastructure work involved, the more cushion is needed. A practical budgeting approach is to separate base construction from site-work risk so the owner can see how much of the project is truly predictable. If the project only works when every assumption is perfect, it is not well positioned. A conservative contingency can be the difference between a manageable build and a stalled one.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A larger contingency is usually needed for vacant-lot projects because site conditions are uncertain until survey, soils, and utility work are complete. Unexpec"
+}

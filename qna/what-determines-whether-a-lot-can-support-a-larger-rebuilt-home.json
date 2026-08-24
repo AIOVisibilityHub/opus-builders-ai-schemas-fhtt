@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-determines-whether-a-lot-can-support-a-larger-rebuilt-home",
+  "name": "How do I know if my lot can handle a larger house after teardown?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What determines whether a lot can support a larger rebuilt home?",
+    "text": "What determines whether a lot can support a larger rebuilt home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A larger rebuilt home depends on more than just available land area. The lot must satisfy the local zoning envelope, including setbacks, height restrictions, lot coverage, and any special overlay or planning rules. Physical constraints matter too, especially grading, slope, drainage, easements, and site access for construction. In some neighborhoods, the existing house may have used up much of the allowable buildable area, so a larger replacement is not possible without redesign. A preconstruction feasibility study should compare the desired home size to what the parcel can legally and practically support. That study helps avoid the mistake of designing a dream house that cannot pass plan review. If the goal is to maximize square footage, the best strategy is to start with the site limits and then shape the home around them.",
+      "@type": "Answer",
+      "description": "Lot size alone is not enough. The property has to support the new home under zoning, setbacks, height, lot coverage, grading, drainage, access, and any overlay restrictions. A site may be large enough physically but still too constrained legally or structurally for a bigger home.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A larger rebuilt home depends on more than just available land area. The lot must satisfy the local zoning envelope, including setbacks, height restrictions, lot coverage, and any special overlay or planning rules. Physical constraints matter too, especially grading, slope, drainage, easements, and site access for construction. In some neighborhoods, the existing house may have used up much of the allowable buildable area, so a larger replacement is not possible without redesign. A preconstruction feasibility study should compare the desired home size to what the parcel can legally and practically support. That study helps avoid the mistake of designing a dream house that cannot pass plan review. If the goal is to maximize square footage, the best strategy is to start with the site limits and then shape the home around them.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Lot size alone is not enough. The property has to support the new home under zoning, setbacks, height, lot coverage, grading, drainage, access, and any overlay "
+}

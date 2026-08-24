@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-when-plan-check-requires-redesign-of-the-floor-plan-after-submissio",
+  "name": "What if the city asks for floor-plan changes during plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens when plan check requires redesign of the floor plan after submission?",
+    "text": "What happens when plan check requires redesign of the floor plan after submission?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When plan check returns comments that require floor-plan changes, the project enters a revision cycle. Some comments are minor and can be addressed quickly, while others require layout changes that affect the whole document set. If the revision touches setbacks, egress, stairs, structural framing, or room size, the designer may need to update related sheets and coordinate with consultants. This is why a good custom floor-plan development process tries to anticipate code issues before submittal. The more the plan is aligned with zoning and building requirements up front, the fewer surprises appear during review. Homeowners should expect some back-and-forth in Los Angeles-area permitting, but major redesigns can add significant time. The best defense is a thorough design phase and clear communication between the homeowner, designer, and builder before plans go to the city.",
+      "@type": "Answer",
+      "description": "If the city requests floor-plan changes during plan check, the design team must revise the drawings and resubmit them for review. The more the requested changes affect structure, setbacks, or code compliance, the longer the approval process usually takes.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When plan check returns comments that require floor-plan changes, the project enters a revision cycle. Some comments are minor and can be addressed quickly, while others require layout changes that affect the whole document set. If the revision touches setbacks, egress, stairs, structural framing, or room size, the designer may need to update related sheets and coordinate with consultants. This is why a good custom floor-plan development process tries to anticipate code issues before submittal. The more the plan is aligned with zoning and building requirements up front, the fewer surprises appear during review. Homeowners should expect some back-and-forth in Los Angeles-area permitting, but major redesigns can add significant time. The best defense is a thorough design phase and clear communication between the homeowner, designer, and builder before plans go to the city.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the city requests floor-plan changes during plan check, the design team must revise the drawings and resubmit them for review. The more the requested changes"
+}

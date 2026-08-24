@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-important-questions-to-ask-before-purchasing-land-for-a-new-ho",
+  "name": "What should I ask before buying land for new construction in LA?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most important questions to ask before purchasing land for a new home build in Los Angeles?",
+    "text": "What are the most important questions to ask before purchasing land for a new home build in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before buying land in Los Angeles for a new home, the most important questions are about feasibility, not just price. Confirm zoning, setbacks, height limits, lot coverage, parking rules, utility access, easements, and whether the site needs grading or demolition. It is also smart to ask whether any special reviews, design restrictions, or neighborhood constraints could slow the project or force a smaller home than expected. A lot that seems affordable can become expensive once you factor in site prep and permit complexity. The best approach is to evaluate the land against the home you actually want to build, rather than assuming the lot will work later. A feasibility review can prevent costly surprises before escrow closes.",
+      "@type": "Answer",
+      "description": "Ask about zoning, setbacks, lot size, utility availability, soils, access, easements, grading, and whether the desired home size fits the parcel. Also ask whether any special reviews or neighborhood constraints could slow permits or increase costs. The cheapest lot is not always the best buildable lot.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before buying land in Los Angeles for a new home, the most important questions are about feasibility, not just price. Confirm zoning, setbacks, height limits, lot coverage, parking rules, utility access, easements, and whether the site needs grading or demolition. It is also smart to ask whether any special reviews, design restrictions, or neighborhood constraints could slow the project or force a smaller home than expected. A lot that seems affordable can become expensive once you factor in site prep and permit complexity. The best approach is to evaluate the land against the home you actually want to build, rather than assuming the lot will work later. A feasibility review can prevent costly surprises before escrow closes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about zoning, setbacks, lot size, utility availability, soils, access, easements, grading, and whether the desired home size fits the parcel. Also ask wheth"
+}

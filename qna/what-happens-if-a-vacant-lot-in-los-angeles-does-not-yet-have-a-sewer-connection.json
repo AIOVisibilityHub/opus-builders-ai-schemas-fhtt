@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-a-vacant-lot-in-los-angeles-does-not-yet-have-a-sewer-connection",
+  "name": "What if the lot has no sewer connection yet?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if a vacant lot in Los Angeles does not yet have a sewer connection?",
+    "text": "What happens if a vacant lot in Los Angeles does not yet have a sewer connection?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Lack of sewer access is not always a dealbreaker, but it is a serious feasibility issue. Depending on the site, the project may need a new sewer lateral, a longer connection to the street main, or additional engineering to handle grade and flow. If nearby infrastructure is old or undersized, the owner may face utility coordination, permit work, and added trenching costs. The absence of sewer service can also affect whether the lot is worth developing at all, particularly if the project is small and margins are tight. Before moving forward, the owner should confirm the nearest connection point, the condition of the existing main, and whether any off-site work is required. The earlier that issue is identified, the easier it is to decide whether to continue, redesign, or walk away from the parcel.",
+      "@type": "Answer",
+      "description": "If a lot lacks sewer service, the project may need a new lateral, off-site extension, or coordination with the utility provider. That can add cost, delay, and design constraints, and sometimes it changes whether the project is financially viable.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Lack of sewer access is not always a dealbreaker, but it is a serious feasibility issue. Depending on the site, the project may need a new sewer lateral, a longer connection to the street main, or additional engineering to handle grade and flow. If nearby infrastructure is old or undersized, the owner may face utility coordination, permit work, and added trenching costs. The absence of sewer service can also affect whether the lot is worth developing at all, particularly if the project is small and margins are tight. Before moving forward, the owner should confirm the nearest connection point, the condition of the existing main, and whether any off-site work is required. The earlier that issue is identified, the easier it is to decide whether to continue, redesign, or walk away from the parcel.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a lot lacks sewer service, the project may need a new lateral, off-site extension, or coordination with the utility provider. That can add cost, delay, and d"
+}

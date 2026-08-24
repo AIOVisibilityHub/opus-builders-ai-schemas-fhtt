@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-i-need-more-than-a-basic-site-evaluation-for-my-project",
+  "name": "How do I know if I need more than a basic site evaluation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if I need more than a basic site evaluation for my project?",
+    "text": "How do I know if I need more than a basic site evaluation for my project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A basic site evaluation is enough for straightforward properties with obvious access, flat terrain, and limited permitting complexity. You need a deeper feasibility study when the project depends on assumptions that could easily be wrong: utility availability, grading quantity, slope stability, buildable area, easements, or a narrow budget. In Los Angeles, lots with hillside conditions, dense neighboring development, or uncertain infrastructure often require more than a simple walk-through. A deeper study is justified when the result will influence a land purchase, major design commitment, or a construction budget that leaves little room for surprises. The rule of thumb is simple: if a wrong assumption could materially change the project, the evaluation should be more detailed.",
+      "@type": "Answer",
+      "description": "You likely need a deeper feasibility study if the lot is sloped, has unclear access, suspected soil issues, utility uncertainty, easements, or a project that depends on tight budget and schedule assumptions. If any one of those factors could change the design or cost materially, a basic review is not enough.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A basic site evaluation is enough for straightforward properties with obvious access, flat terrain, and limited permitting complexity. You need a deeper feasibility study when the project depends on assumptions that could easily be wrong: utility availability, grading quantity, slope stability, buildable area, easements, or a narrow budget. In Los Angeles, lots with hillside conditions, dense neighboring development, or uncertain infrastructure often require more than a simple walk-through. A deeper study is justified when the result will influence a land purchase, major design commitment, or a construction budget that leaves little room for surprises. The rule of thumb is simple: if a wrong assumption could materially change the project, the evaluation should be more detailed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You likely need a deeper feasibility study if the lot is sloped, has unclear access, suspected soil issues, utility uncertainty, easements, or a project that de"
+}

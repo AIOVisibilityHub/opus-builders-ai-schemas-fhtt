@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-does-an-allowance-mean-in-a-custom-home-contract",
+  "name": "How do custom home allowances work?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What does an allowance mean in a custom home contract?",
+    "text": "What does an allowance mean in a custom home contract?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Allowances are a normal part of custom home contracts, especially when selections have not been finalized before pricing. They are used for materials or fixtures that will be chosen later, such as tile, plumbing fixtures, lighting, cabinetry, or appliances. The problem is that allowances can be set too low, making the original bid look cheaper than it really is. Homeowners should ask whether the allowance level matches their actual taste and whether the builder has based it on realistic market pricing. If the allowance is not carefully reviewed, the project can quickly become more expensive after selections are made. Clear allowance lists make it easier to compare bids and control budget drift.",
+      "@type": "Answer",
+      "description": "An allowance is a budget placeholder for an item not fully selected yet, such as tile, fixtures, or cabinetry. If the final selection costs more than the allowance, the homeowner pays the difference.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Allowances are a normal part of custom home contracts, especially when selections have not been finalized before pricing. They are used for materials or fixtures that will be chosen later, such as tile, plumbing fixtures, lighting, cabinetry, or appliances. The problem is that allowances can be set too low, making the original bid look cheaper than it really is. Homeowners should ask whether the allowance level matches their actual taste and whether the builder has based it on realistic market pricing. If the allowance is not carefully reviewed, the project can quickly become more expensive after selections are made. Clear allowance lists make it easier to compare bids and control budget drift.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An allowance is a budget placeholder for an item not fully selected yet, such as tile, fixtures, or cabinetry. If the final selection costs more than the allowa"
+}

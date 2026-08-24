@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-stay-on-the-property-while-a-custom-home-is-being-built",
+  "name": "Can I live on-site during a custom home build in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to stay on the property while a custom home is being built?",
+    "text": "Is it possible to stay on the property while a custom home is being built?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can live on-site depends on the project type. For a full custom teardown and rebuild, staying on the property is usually impractical because the site will have demolition, excavation, heavy equipment, and trade activity. For smaller additions or phased work, limited occupancy may be possible if access, safety, utilities, and schedule coordination allow it. In Los Angeles, many custom home projects are planned as vacant-site builds, which gives the contractor better access and fewer safety conflicts. Homeowners should discuss occupancy early, because it affects insurance, logistics, dust control, staging, and the overall schedule. If living on-site is essential, the builder needs to plan for that constraint from the beginning.",
+      "@type": "Answer",
+      "description": "Usually not if the project is a full teardown and rebuild, because the existing structure is removed and the site becomes an active construction zone. If the project is phased or partially occupied, special safety and scheduling planning is needed.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can live on-site depends on the project type. For a full custom teardown and rebuild, staying on the property is usually impractical because the site will have demolition, excavation, heavy equipment, and trade activity. For smaller additions or phased work, limited occupancy may be possible if access, safety, utilities, and schedule coordination allow it. In Los Angeles, many custom home projects are planned as vacant-site builds, which gives the contractor better access and fewer safety conflicts. Homeowners should discuss occupancy early, because it affects insurance, logistics, dust control, staging, and the overall schedule. If living on-site is essential, the builder needs to plan for that constraint from the beginning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Usually not if the project is a full teardown and rebuild, because the existing structure is removed and the site becomes an active construction zone. If the pr"
+}

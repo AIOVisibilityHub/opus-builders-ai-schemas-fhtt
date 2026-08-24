@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-it-usually-take-to-develop-a-vacant-lot-from-purchase-to-move-in-i",
+  "name": "How long does vacant-lot development take in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does it usually take to develop a vacant lot from purchase to move-in in Los Angeles?",
+    "text": "How long does it usually take to develop a vacant lot from purchase to move-in in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Timeline depends on what is being built and how clean the site is from a permitting standpoint. A straightforward custom home on a flat, well-served lot may move faster than a hillside or multifamily project that needs more design coordination and approvals. The longest delays usually come from feasibility studies, design revisions, plan checks, entitlement reviews, utility coordination, and grading or soils-related redesign. Construction itself can be relatively predictable once permits are in hand, but vacant-lot projects often spend significant time upfront solving land-use and infrastructure issues. A realistic schedule should include time for survey, soils, concept design, planning review, permit processing, and possible revisions. If a buyer wants a fixed move-in date, the safest approach is to assume the entitlement and preconstruction phase will take longer than expected. Rushing that phase is one of the most common reasons projects miss their targets.",
+      "@type": "Answer",
+      "description": "Vacant-lot development can take many months to several years, depending on zoning, design complexity, permitting, utility work, and construction. Sites with slope, access issues, or entitlement changes usually take longer than straightforward flat-lot projects.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Timeline depends on what is being built and how clean the site is from a permitting standpoint. A straightforward custom home on a flat, well-served lot may move faster than a hillside or multifamily project that needs more design coordination and approvals. The longest delays usually come from feasibility studies, design revisions, plan checks, entitlement reviews, utility coordination, and grading or soils-related redesign. Construction itself can be relatively predictable once permits are in hand, but vacant-lot projects often spend significant time upfront solving land-use and infrastructure issues. A realistic schedule should include time for survey, soils, concept design, planning review, permit processing, and possible revisions. If a buyer wants a fixed move-in date, the safest approach is to assume the entitlement and preconstruction phase will take longer than expected. Rushing that phase is one of the most common reasons projects miss their targets.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Vacant-lot development can take many months to several years, depending on zoning, design complexity, permitting, utility work, and construction. Sites with slo"
+}

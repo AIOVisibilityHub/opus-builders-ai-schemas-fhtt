@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-older-houses-in-los-angeles-need-asbestos-or-lead-testing-before-a-teardown",
+  "name": "Do I need to test for asbestos or lead before demolition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do older houses in Los Angeles need asbestos or lead testing before a teardown?",
+    "text": "Do older houses in Los Angeles need asbestos or lead testing before a teardown?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before a teardown, older homes should be checked for hazardous materials because demolition can disturb materials that are unsafe to remove without proper handling. Pre-demolition surveys commonly look for asbestos-containing materials and lead-based paint, especially in older buildings. If those materials are found, licensed abatement is typically required before demolition can begin. This step protects workers, neighbors, and the project schedule. Skipping the survey can lead to stop-work orders, extra disposal costs, and permit delays. Homeowners should ask the contractor whether the demo scope includes testing, abatement coordination, waste handling, and disposal documentation. It is also smart to confirm whether the local jurisdiction requires specific notifications before demolition starts. For older Los Angeles-area properties, this is one of the most common reasons teardown budgets and timelines change after the project is already approved.",
+      "@type": "Answer",
+      "description": "Yes, older homes often require hazardous-material evaluation before demolition. Houses built before common regulatory cutoffs may need asbestos and lead-paint surveys, and any confirmed materials usually have to be abated before tear-down work proceeds. This is especially important before interior demo, roofing removal, or full structural demolition.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before a teardown, older homes should be checked for hazardous materials because demolition can disturb materials that are unsafe to remove without proper handling. Pre-demolition surveys commonly look for asbestos-containing materials and lead-based paint, especially in older buildings. If those materials are found, licensed abatement is typically required before demolition can begin. This step protects workers, neighbors, and the project schedule. Skipping the survey can lead to stop-work orders, extra disposal costs, and permit delays. Homeowners should ask the contractor whether the demo scope includes testing, abatement coordination, waste handling, and disposal documentation. It is also smart to confirm whether the local jurisdiction requires specific notifications before demolition starts. For older Los Angeles-area properties, this is one of the most common reasons teardown budgets and timelines change after the project is already approved.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, older homes often require hazardous-material evaluation before demolition. Houses built before common regulatory cutoffs may need asbestos and lead-paint s"
+}

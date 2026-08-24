@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-i-need-electrical-sewer-or-water-upgrades-for-a-new-custom-home-in-los-ange",
+  "name": "How do utility upgrades affect a custom home build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will I need electrical, sewer, or water upgrades for a new custom home in Los Angeles?",
+    "text": "Will I need electrical, sewer, or water upgrades for a new custom home in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility planning is easy to overlook, but it can materially affect both cost and schedule. A custom home may need upgraded electrical service, new panels, larger water service, sewer improvements, or trenching to connect systems properly. In older Los Angeles neighborhoods, existing infrastructure may not match the needs of a new luxury build. Some utility work can be done quickly, while other parts require coordination with agencies or utility providers. Homeowners should ask for a utility review early so those upgrades are not discovered late in the project. Clear utility planning helps avoid last-minute delays and budget surprises.",
+      "@type": "Answer",
+      "description": "Utility upgrades may be needed if the new home requires more capacity than the existing service can provide. Electrical panel changes, sewer connections, water line work, and trenching can all add cost and delay if they are not planned early.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility planning is easy to overlook, but it can materially affect both cost and schedule. A custom home may need upgraded electrical service, new panels, larger water service, sewer improvements, or trenching to connect systems properly. In older Los Angeles neighborhoods, existing infrastructure may not match the needs of a new luxury build. Some utility work can be done quickly, while other parts require coordination with agencies or utility providers. Homeowners should ask for a utility review early so those upgrades are not discovered late in the project. Clear utility planning helps avoid last-minute delays and budget surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utility upgrades may be needed if the new home requires more capacity than the existing service can provide. Electrical panel changes, sewer connections, water "
+}

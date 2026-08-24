@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-makes-a-custom-floor-plan-more-likely-to-get-approved-in-los-angeles-and-ne",
+  "name": "How do you know if a custom floor plan is permit-friendly?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What makes a custom floor plan more likely to get approved in Los Angeles and nearby cities?",
+    "text": "What makes a custom floor plan more likely to get approved in Los Angeles and nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A permit-friendly floor plan is one that fits the lot and the rules without forcing the city to reject obvious conflicts. In Los Angeles-area jurisdictions, that means checking setbacks, height, lot coverage, fire access, parking, egress, and site-specific constraints early. When those items are built into the design from the start, the plan is more likely to move through review with fewer corrections. The biggest warning sign is a floor plan that looks attractive but ignores basic site realities. Those projects often end up in redesign because the layout cannot survive plan check. A permit-friendly strategy does not mean boring design. It means smart design that solves problems before they become approvals issues. If the lot is complex, ask whether the plan has been reviewed with permitting in mind before the drawings are finalized.",
+      "@type": "Answer",
+      "description": "A permit-friendly floor plan usually respects setbacks, height limits, access rules, egress requirements, and practical circulation from the beginning. Plans that fit the lot cleanly and avoid unnecessary code conflicts tend to move through review with fewer changes.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A permit-friendly floor plan is one that fits the lot and the rules without forcing the city to reject obvious conflicts. In Los Angeles-area jurisdictions, that means checking setbacks, height, lot coverage, fire access, parking, egress, and site-specific constraints early. When those items are built into the design from the start, the plan is more likely to move through review with fewer corrections. The biggest warning sign is a floor plan that looks attractive but ignores basic site realities. Those projects often end up in redesign because the layout cannot survive plan check. A permit-friendly strategy does not mean boring design. It means smart design that solves problems before they become approvals issues. If the lot is complex, ask whether the plan has been reviewed with permitting in mind before the drawings are finalized.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A permit-friendly floor plan usually respects setbacks, height limits, access rules, egress requirements, and practical circulation from the beginning. Plans th"
+}

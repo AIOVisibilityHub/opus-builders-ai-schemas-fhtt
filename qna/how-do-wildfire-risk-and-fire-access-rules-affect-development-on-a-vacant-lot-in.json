@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-wildfire-risk-and-fire-access-rules-affect-development-on-a-vacant-lot-in",
+  "name": "How do wildfire and fire-access issues change lot development?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do wildfire risk and fire-access rules affect development on a vacant lot in the Los Angeles area?",
+    "text": "How do wildfire risk and fire-access rules affect development on a vacant lot in the Los Angeles area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Fire-related requirements can shape the entire development plan, especially in hillside and edge-of-wildland areas around Los Angeles. A vacant lot may need wider or more reliable access for emergency vehicles, turnarounds, hydrant proximity, and clear routes for construction and future occupants. Site design may also need defensible space, fire-resistant construction methods, and placement changes to reduce risk exposure. In some areas, vegetation management and surrounding topography can affect whether the lot is approved without substantial modifications. These issues matter because they can alter both cost and layout before a foundation is ever poured. A lot that seems ideal for a dramatic custom home may end up needing a smaller footprint, different driveway geometry, or more expensive exterior materials. Fire-access review should happen early, because it is much easier to adjust the concept before engineering and permitting are complete.",
+      "@type": "Answer",
+      "description": "Wildfire risk can affect access, defensible-space design, material choices, and sometimes building placement. A lot with narrow streets, steep approach grades, or limited emergency access may need redesign before it becomes buildable.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Fire-related requirements can shape the entire development plan, especially in hillside and edge-of-wildland areas around Los Angeles. A vacant lot may need wider or more reliable access for emergency vehicles, turnarounds, hydrant proximity, and clear routes for construction and future occupants. Site design may also need defensible space, fire-resistant construction methods, and placement changes to reduce risk exposure. In some areas, vegetation management and surrounding topography can affect whether the lot is approved without substantial modifications. These issues matter because they can alter both cost and layout before a foundation is ever poured. A lot that seems ideal for a dramatic custom home may end up needing a smaller footprint, different driveway geometry, or more expensive exterior materials. Fire-access review should happen early, because it is much easier to adjust the concept before engineering and permitting are complete.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Wildfire risk can affect access, defensible-space design, material choices, and sometimes building placement. A lot with narrow streets, steep approach grades, "
+}

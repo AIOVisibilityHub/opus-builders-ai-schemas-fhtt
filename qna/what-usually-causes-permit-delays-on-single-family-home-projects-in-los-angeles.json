@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-usually-causes-permit-delays-on-single-family-home-projects-in-los-angeles",
+  "name": "What causes permit delays for new home construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What usually causes permit delays on single-family home projects in Los Angeles?",
+    "text": "What usually causes permit delays on single-family home projects in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit delays often start with incomplete or inconsistent documents. If the architectural plans, structural drawings, energy documents, and site information do not match, plan check will usually issue corrections that add time. Zoning questions, setback conflicts, grading concerns, hillside reviews, and utility coordination can also slow a project. Delays become more likely when owners change the scope after submission or when the design is too advanced before site constraints are fully understood. In Los Angeles, the fastest path is usually to resolve lot conditions, engineering needs, and design decisions before filing. A builder or preconstruction team can help spot issues early and prepare a more complete package. Owners should expect some back-and-forth and build time into the schedule, especially for custom homes. The more complete the initial plan set, the fewer surprises during review.",
+      "@type": "Answer",
+      "description": "Permit delays usually come from incomplete drawings, engineering mismatches, zoning issues, missing forms, plan check comments, and revisions after review. Complex sites, hillside conditions, and unclear scope can also extend the approval timeline.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit delays often start with incomplete or inconsistent documents. If the architectural plans, structural drawings, energy documents, and site information do not match, plan check will usually issue corrections that add time. Zoning questions, setback conflicts, grading concerns, hillside reviews, and utility coordination can also slow a project. Delays become more likely when owners change the scope after submission or when the design is too advanced before site constraints are fully understood. In Los Angeles, the fastest path is usually to resolve lot conditions, engineering needs, and design decisions before filing. A builder or preconstruction team can help spot issues early and prepare a more complete package. Owners should expect some back-and-forth and build time into the schedule, especially for custom homes. The more complete the initial plan set, the fewer surprises during review.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permit delays usually come from incomplete drawings, engineering mismatches, zoning issues, missing forms, plan check comments, and revisions after review. Comp"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-whether-a-los-angeles-lot-is-actually-suitable-for-a-custom-home",
+  "name": "How do I know if my lot is buildable before I buy it?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell whether a Los Angeles lot is actually suitable for a custom home?",
+    "text": "How can I tell whether a Los Angeles lot is actually suitable for a custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before buying a lot, the most important step is a feasibility review. That review should check zoning, setbacks, lot coverage, height limits, access for construction, utility connections, tree constraints, and any slope or soil issues that could affect grading or foundations. In Los Angeles, a lot can appear attractive on paper but still become expensive or difficult once engineering and city requirements are applied. A buildability review should also flag hidden costs such as demolition, export, retaining walls, or special drainage systems. Buyers should never assume that a lot can support the home they imagine without confirming the rules first. A strong early review can prevent buying land that is technically buildable but economically impractical.",
+      "@type": "Answer",
+      "description": "A lot is buildable only if zoning, setbacks, access, utility availability, grading, and site conditions support the intended home design. In Los Angeles, a property may look usable but still have major constraints from slope, easements, fire access, or soil conditions.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before buying a lot, the most important step is a feasibility review. That review should check zoning, setbacks, lot coverage, height limits, access for construction, utility connections, tree constraints, and any slope or soil issues that could affect grading or foundations. In Los Angeles, a lot can appear attractive on paper but still become expensive or difficult once engineering and city requirements are applied. A buildability review should also flag hidden costs such as demolition, export, retaining walls, or special drainage systems. Buyers should never assume that a lot can support the home they imagine without confirming the rules first. A strong early review can prevent buying land that is technically buildable but economically impractical.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A lot is buildable only if zoning, setbacks, access, utility availability, grading, and site conditions support the intended home design. In Los Angeles, a prop"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-old-house-was-nonconforming-can-the-new-house-keep-that-status-after-demo",
+  "name": "Can a rebuild project preserve a grandfathered nonconforming status?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the old house was nonconforming, can the new house keep that status after demolition?",
+    "text": "If the old house was nonconforming, can the new house keep that status after demolition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Nonconforming status is one of the most misunderstood parts of teardown planning. If the existing home had setbacks, size, or placement that do not match current code, those rights may not carry over after demolition. In many cases, tearing the building down means the new home must follow current regulations instead of the old footprint. That can affect lot size, side yards, height, parking, and accessory structures. Homeowners should review this before they commit to demolition because it can completely change the feasible design. A zoning and planning review should identify which features are legally protected, which are vulnerable, and whether any special relief might be needed. This issue matters most in older neighborhoods where homes were built under earlier rules and the owner hopes to rebuild within the same footprint or volume.",
+      "@type": "Answer",
+      "description": "Usually no, not automatically. Once a structure is demolished, many nonconforming rights tied to the old building can be lost, and the new house may need to meet current zoning and building rules. The exact outcome depends on local code, demolition scope, and whether any legal nonconforming elements remain.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Nonconforming status is one of the most misunderstood parts of teardown planning. If the existing home had setbacks, size, or placement that do not match current code, those rights may not carry over after demolition. In many cases, tearing the building down means the new home must follow current regulations instead of the old footprint. That can affect lot size, side yards, height, parking, and accessory structures. Homeowners should review this before they commit to demolition because it can completely change the feasible design. A zoning and planning review should identify which features are legally protected, which are vulnerable, and whether any special relief might be needed. This issue matters most in older neighborhoods where homes were built under earlier rules and the owner hopes to rebuild within the same footprint or volume.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Usually no, not automatically. Once a structure is demolished, many nonconforming rights tied to the old building can be lost, and the new house may need to mee"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-foundation-has-to-be-replaced-during-a-teardown-and-rebuild",
+  "name": "What if the existing foundation is unusable after demolition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the foundation has to be replaced during a teardown and rebuild?",
+    "text": "What happens if the foundation has to be replaced during a teardown and rebuild?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Foundation replacement can change a rebuild from a straightforward demolition project into a more complex site-and-structure job. Once the old foundation is removed or found to be unusable, the team may need soils review, grading approval, new structural engineering, and revised permit documents. This often adds cost because excavation, rebar, concrete, waterproofing, and drainage all become part of the new scope. In some cases, a project that seemed simple can require retaining walls or deeper footings to meet current standards. Homeowners should ask early whether the existing slab or foundation is worth preserving, and if not, what the implications are for schedule and budget. Foundation decisions are often made after demo exposes hidden conditions, so a healthy contingency is essential. A strong preconstruction plan will anticipate this risk instead of treating it as an emergency.",
+      "@type": "Answer",
+      "description": "If the foundation cannot be reused, the project may need a new foundation design, additional grading work, and extra inspections. That often increases cost and time because soil conditions, drainage, and structural loads must be re-engineered before the new house can rise.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Foundation replacement can change a rebuild from a straightforward demolition project into a more complex site-and-structure job. Once the old foundation is removed or found to be unusable, the team may need soils review, grading approval, new structural engineering, and revised permit documents. This often adds cost because excavation, rebar, concrete, waterproofing, and drainage all become part of the new scope. In some cases, a project that seemed simple can require retaining walls or deeper footings to meet current standards. Homeowners should ask early whether the existing slab or foundation is worth preserving, and if not, what the implications are for schedule and budget. Foundation decisions are often made after demo exposes hidden conditions, so a healthy contingency is essential. A strong preconstruction plan will anticipate this risk instead of treating it as an emergency.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the foundation cannot be reused, the project may need a new foundation design, additional grading work, and extra inspections. That often increases cost and "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-main-inspection-stages-during-a-new-home-build",
+  "name": "What inspections happen during ground-up construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the main inspection stages during a new home build?",
+    "text": "What are the main inspection stages during a new home build?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Inspections are built into the ground-up process because each major stage has to be approved before the next one can proceed. The exact sequence can vary, but common checkpoints include foundation, framing, rough plumbing, rough electrical, rough mechanical, insulation, and final inspection. Some projects also involve grading, shear, and special structural inspections depending on the design and site conditions. Because inspections must happen in sequence, scheduling them correctly is critical to avoid delays. If a required inspection is missed or the work is not ready, the project can stall while corrections are made. Homeowners should expect the builder to manage this process closely and keep the inspection calendar aligned with construction milestones.",
+      "@type": "Answer",
+      "description": "Ground-up construction typically goes through multiple inspections, including foundation, framing, rough mechanical, insulation, and final inspection stages. The exact sequence depends on the project and local requirements. Inspections are part of the approval path, not a last-minute formality, and missed inspection timing can delay the next phase of work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Inspections are built into the ground-up process because each major stage has to be approved before the next one can proceed. The exact sequence can vary, but common checkpoints include foundation, framing, rough plumbing, rough electrical, rough mechanical, insulation, and final inspection. Some projects also involve grading, shear, and special structural inspections depending on the design and site conditions. Because inspections must happen in sequence, scheduling them correctly is critical to avoid delays. If a required inspection is missed or the work is not ready, the project can stall while corrections are made. Homeowners should expect the builder to manage this process closely and keep the inspection calendar aligned with construction milestones.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up construction typically goes through multiple inspections, including foundation, framing, rough mechanical, insulation, and final inspection stages. Th"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-a-homeowner-hire-a-general-contractor-a-design-build-company-or-separate",
+  "name": "What is the difference between a general contractor and a design-build firm for ground-up construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should a homeowner hire a general contractor, a design-build company, or separate architect and builder for a new home?",
+    "text": "Should a homeowner hire a general contractor, a design-build company, or separate architect and builder for a new home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The right delivery method depends on the owner’s goals and how much coordination they want to manage. A general contractor usually enters after plans are developed and focuses on building the approved design. A design-build firm combines design and construction, which can speed up decisions and reduce handoff problems. Separate architect-and-builder arrangements may provide more independent oversight but often require more owner involvement and coordination. For ground-up projects in Los Angeles, the best fit often comes down to budget certainty, schedule, design complexity, and how involved the homeowner wants to be in decision-making. If the project is highly custom, integrated design and construction can help control feasibility and cost from the beginning. If the owner already has a strong design team, a separate builder may be a better fit.",
+      "@type": "Answer",
+      "description": "A general contractor typically builds from plans prepared by others, while a design-build firm manages both design and construction under one team. Separate architect-and-builder setups can give more independent oversight but require more coordination. For ground-up construction, the best choice depends on how much control, speed, and integration the owner wants.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The right delivery method depends on the owner’s goals and how much coordination they want to manage. A general contractor usually enters after plans are developed and focuses on building the approved design. A design-build firm combines design and construction, which can speed up decisions and reduce handoff problems. Separate architect-and-builder arrangements may provide more independent oversight but often require more owner involvement and coordination. For ground-up projects in Los Angeles, the best fit often comes down to budget certainty, schedule, design complexity, and how involved the homeowner wants to be in decision-making. If the project is highly custom, integrated design and construction can help control feasibility and cost from the beginning. If the owner already has a strong design team, a separate builder may be a better fit.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A general contractor typically builds from plans prepared by others, while a design-build firm manages both design and construction under one team. Separate arc"
+}

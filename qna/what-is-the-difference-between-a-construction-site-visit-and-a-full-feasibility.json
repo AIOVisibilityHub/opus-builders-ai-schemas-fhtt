@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-construction-site-visit-and-a-full-feasibility",
+  "name": "What is the difference between a site visit and a feasibility study?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a construction site visit and a full feasibility study?",
+    "text": "What is the difference between a construction site visit and a full feasibility study?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A site visit is usually the first-step inspection: it focuses on what can be seen on the ground, such as access, slope, existing improvements, drainage patterns, and obvious constraints. A feasibility study is broader and more decision-focused. It combines site observations with zoning review, permitting checks, utility availability, rough cost estimating, and risk analysis to answer whether the project should move forward at all. For owners evaluating a Los Angeles property, the feasibility study is much more useful when the site has complexity, such as a hillside lot, narrow frontage, or a teardown with unknown constraints. If the goal is to make a purchase or green-light design, a feasibility study usually provides the stronger decision-making document.",
+      "@type": "Answer",
+      "description": "A site visit is a quick on-site review of visible conditions, while a feasibility study is a deeper analysis of whether the project can be built, permitted, and budgeted realistically. A feasibility study usually adds zoning review, utility checks, risk analysis, cost ranges, and schedule implications.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A site visit is usually the first-step inspection: it focuses on what can be seen on the ground, such as access, slope, existing improvements, drainage patterns, and obvious constraints. A feasibility study is broader and more decision-focused. It combines site observations with zoning review, permitting checks, utility availability, rough cost estimating, and risk analysis to answer whether the project should move forward at all. For owners evaluating a Los Angeles property, the feasibility study is much more useful when the site has complexity, such as a hillside lot, narrow frontage, or a teardown with unknown constraints. If the goal is to make a purchase or green-light design, a feasibility study usually provides the stronger decision-making document.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A site visit is a quick on-site review of visible conditions, while a feasibility study is a deeper analysis of whether the project can be built, permitted, and"
+}

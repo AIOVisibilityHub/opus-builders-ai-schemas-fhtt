@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-a-construction-site-evaluation-reduce-change-orders-during-construction",
+  "name": "How do site evaluations help avoid change orders later?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can a construction site evaluation reduce change orders during construction?",
+    "text": "How can a construction site evaluation reduce change orders during construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders often happen when the field conditions are more difficult than the original assumptions. A site evaluation helps prevent that by exposing likely problem areas early: slope, retaining walls, utility conflicts, access constraints, and drainage corrections. Once those issues are known, they can be reflected in the design, scope, and budget before construction begins. That reduces the chance that the contractor has to stop work and request extra funds for something that should have been anticipated. For homeowners and developers in Los Angeles, this is especially valuable because tight lots and hillside conditions tend to create expensive surprises. A good evaluation does not eliminate all risk, but it significantly improves pricing accuracy and project planning.",
+      "@type": "Answer",
+      "description": "A site evaluation reduces change orders by identifying hidden conditions early, such as poor access, grading needs, utility conflicts, and drainage issues. When those risks are known before bidding or design finalization, the contract and budget can account for them instead of treating them as surprises.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders often happen when the field conditions are more difficult than the original assumptions. A site evaluation helps prevent that by exposing likely problem areas early: slope, retaining walls, utility conflicts, access constraints, and drainage corrections. Once those issues are known, they can be reflected in the design, scope, and budget before construction begins. That reduces the chance that the contractor has to stop work and request extra funds for something that should have been anticipated. For homeowners and developers in Los Angeles, this is especially valuable because tight lots and hillside conditions tend to create expensive surprises. A good evaluation does not eliminate all risk, but it significantly improves pricing accuracy and project planning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A site evaluation reduces change orders by identifying hidden conditions early, such as poor access, grading needs, utility conflicts, and drainage issues. When"
+}

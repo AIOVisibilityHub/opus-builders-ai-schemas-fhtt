@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-ever-possible-to-break-ground-while-plan-check-or-permits-are-still-in-pro",
+  "name": "Can you start construction before permits are fully approved?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it ever possible to break ground while plan check or permits are still in process?",
+    "text": "Is it ever possible to break ground while plan check or permits are still in process?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Ground-up construction should generally wait until the required approvals are in place because building too early can create expensive problems. If the plans are still being reviewed, the design may change, and any work that was started could need to be redone. Some limited preconstruction tasks may be possible depending on the project and local requirements, but the main construction phase should be tied to the approved permit set. This is especially important in Los Angeles, where plan check revisions and site-specific conditions can affect the final scope. The safest strategy is to use the waiting period to finalize selections, coordinate subcontractors, and prepare the site so construction can move quickly once approvals are secured.",
+      "@type": "Answer",
+      "description": "In most cases, full ground-up construction should not start before the required permits and approvals are in place. Starting early can create compliance problems, rework, and schedule risk if the plans change during review. Some preconstruction work may happen separately, but the main build should wait for approvals.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Ground-up construction should generally wait until the required approvals are in place because building too early can create expensive problems. If the plans are still being reviewed, the design may change, and any work that was started could need to be redone. Some limited preconstruction tasks may be possible depending on the project and local requirements, but the main construction phase should be tied to the approved permit set. This is especially important in Los Angeles, where plan check revisions and site-specific conditions can affect the final scope. The safest strategy is to use the waiting period to finalize selections, coordinate subcontractors, and prepare the site so construction can move quickly once approvals are secured.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In most cases, full ground-up construction should not start before the required permits and approvals are in place. Starting early can create compliance problem"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-vacant-lot-in-los-angeles-be-split-into-two-or-more-buildable-lots-and-wha",
+  "name": "Can I split a vacant lot into multiple home sites?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a vacant lot in Los Angeles be split into two or more buildable lots, and what makes a split feasible?",
+    "text": "Can a vacant lot in Los Angeles be split into two or more buildable lots, and what makes a split feasible?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot split is only feasible when the new parcels each meet local and state requirements for size, frontage, access, and development potential. In practice, the question is not whether the land can be divided on paper, but whether each resulting lot can support a safe, functional, code-compliant building site. That means checking setbacks, utility service, driveway access, fire clearance, drainage, and any special overlay zones before a split is pursued. Some lots are better candidates for one larger custom home, while others may support multiple homes or attached units if the geometry works. In Los Angeles-area cities, small infill parcels can sometimes be highly valuable, but a poor split can destroy buildability or reduce resale value. A feasibility review should evaluate whether splitting creates two marketable lots or just two constrained parcels with high development friction. If the goal is maximum value, the split should be coordinated with the eventual building plan, not handled as a separate afterthought.",
+      "@type": "Answer",
+      "description": "A lot split may be possible if zoning, minimum lot size, frontage, access, and utility service requirements are met. The parcel must also support independent buildable pads, not just a paper division that fails practical site rules.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot split is only feasible when the new parcels each meet local and state requirements for size, frontage, access, and development potential. In practice, the question is not whether the land can be divided on paper, but whether each resulting lot can support a safe, functional, code-compliant building site. That means checking setbacks, utility service, driveway access, fire clearance, drainage, and any special overlay zones before a split is pursued. Some lots are better candidates for one larger custom home, while others may support multiple homes or attached units if the geometry works. In Los Angeles-area cities, small infill parcels can sometimes be highly valuable, but a poor split can destroy buildability or reduce resale value. A feasibility review should evaluate whether splitting creates two marketable lots or just two constrained parcels with high development friction. If the goal is maximum value, the split should be coordinated with the eventual building plan, not handled as a separate afterthought.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A lot split may be possible if zoning, minimum lot size, frontage, access, and utility service requirements are met. The parcel must also support independent bu"
+}

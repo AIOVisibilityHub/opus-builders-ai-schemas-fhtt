@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-does-the-architect-do-compared-with-the-builder-in-single-family-home-const",
+  "name": "What is the role of an architect versus a builder in a new home project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What does the architect do compared with the builder in single-family home construction?",
+    "text": "What does the architect do compared with the builder in single-family home construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The architect and builder serve different but connected roles. The architect focuses on layout, design, code-aware planning, and preparing drawings that can be permitted and built. The builder turns those drawings into a finished home by managing trades, scheduling, procurement, inspections, and quality control. On a custom project, both roles matter early because design choices directly affect cost and constructability. If they are not coordinated, the owner may end up with a beautiful concept that is difficult or expensive to build. In the best projects, the builder provides preconstruction input while the architect develops the design, so budget and buildability are considered together. Homeowners should understand where one role ends and the other begins so responsibility is clear before construction starts.",
+      "@type": "Answer",
+      "description": "The architect designs the home, develops the drawings, and helps translate the owner’s goals into a buildable plan. The builder handles pricing, scheduling, construction, trades, site coordination, and delivery of the finished home.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The architect and builder serve different but connected roles. The architect focuses on layout, design, code-aware planning, and preparing drawings that can be permitted and built. The builder turns those drawings into a finished home by managing trades, scheduling, procurement, inspections, and quality control. On a custom project, both roles matter early because design choices directly affect cost and constructability. If they are not coordinated, the owner may end up with a beautiful concept that is difficult or expensive to build. In the best projects, the builder provides preconstruction input while the architect develops the design, so budget and buildability are considered together. Homeowners should understand where one role ends and the other begins so responsibility is clear before construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The architect designs the home, develops the drawings, and helps translate the owner’s goals into a buildable plan. The builder handles pricing, scheduling, con"
+}

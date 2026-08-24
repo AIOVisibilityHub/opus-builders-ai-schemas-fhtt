@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-permits-and-approvals-are-typically-required-for-ground-up-construction-in",
+  "name": "What permits are needed for ground-up construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which permits and approvals are typically required for ground-up construction in Los Angeles and nearby cities?",
+    "text": "Which permits and approvals are typically required for ground-up construction in Los Angeles and nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The permit path for ground-up construction depends on the property and the type of home being built. Most projects need architectural plans, structural engineering, and building permits, and some sites also need grading approvals, soils reports, or specialized review for slope, drainage, or access issues. In Los Angeles-area cities, even similar-looking lots can follow different approval paths because zoning, lot coverage, setback rules, and local overlays vary. If the site is hillside, coastal, or otherwise constrained, expect more review and a longer preconstruction phase. The smart move is to identify all likely approvals before finalizing the design, because permit surprises can force redesigns and delays. A complete preconstruction checklist should cover site survey, geotechnical report, structural design, utility coordination, and permit strategy before construction starts.",
+      "@type": "Answer",
+      "description": "Ground-up construction in Los Angeles usually requires plan check, building permits, structural review, and often grading or soils-related approvals depending on the lot. Additional reviews may apply for hillside, coastal, protected, or utility-constrained sites. The exact permit path depends on the property, zoning, and whether the project is a standard flat-lot build or a more complex custom home.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The permit path for ground-up construction depends on the property and the type of home being built. Most projects need architectural plans, structural engineering, and building permits, and some sites also need grading approvals, soils reports, or specialized review for slope, drainage, or access issues. In Los Angeles-area cities, even similar-looking lots can follow different approval paths because zoning, lot coverage, setback rules, and local overlays vary. If the site is hillside, coastal, or otherwise constrained, expect more review and a longer preconstruction phase. The smart move is to identify all likely approvals before finalizing the design, because permit surprises can force redesigns and delays. A complete preconstruction checklist should cover site survey, geotechnical report, structural design, utility coordination, and permit strategy before construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up construction in Los Angeles usually requires plan check, building permits, structural review, and often grading or soils-related approvals depending o"
+}

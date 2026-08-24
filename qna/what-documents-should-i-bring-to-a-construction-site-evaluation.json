@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-documents-should-i-bring-to-a-construction-site-evaluation",
+  "name": "What documents should I bring to a site evaluation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What documents should I bring to a construction site evaluation?",
+    "text": "What documents should I bring to a construction site evaluation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Bring anything that helps define the property and your project goals. Useful items include the parcel address, APN, current listing, survey, title information, prior permits, grading plans, soil reports, utility bills, and concept sketches. If you already have an architect or builder concept, bring that too, because the evaluation is more valuable when it is tied to a real project scope. In Los Angeles-area markets, even small details can matter, such as whether the lot has a recorded easement, a slope issue, or a prior permit history that affects what is possible today. Good documents make the evaluation faster and more actionable.",
+      "@type": "Answer",
+      "description": "Bring the parcel address, plot map or survey if available, listing materials, prior permits, design ideas, and any utility or geotechnical reports. The more property information you provide, the more accurate the evaluation will be and the faster hidden issues can be identified.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Bring anything that helps define the property and your project goals. Useful items include the parcel address, APN, current listing, survey, title information, prior permits, grading plans, soil reports, utility bills, and concept sketches. If you already have an architect or builder concept, bring that too, because the evaluation is more valuable when it is tied to a real project scope. In Los Angeles-area markets, even small details can matter, such as whether the lot has a recorded easement, a slope issue, or a prior permit history that affects what is possible today. Good documents make the evaluation faster and more actionable.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Bring the parcel address, plot map or survey if available, listing materials, prior permits, design ideas, and any utility or geotechnical reports. The more pro"
+}

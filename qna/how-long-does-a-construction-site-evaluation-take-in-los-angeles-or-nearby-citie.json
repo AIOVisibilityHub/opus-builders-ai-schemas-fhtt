@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-a-construction-site-evaluation-take-in-los-angeles-or-nearby-citie",
+  "name": "How long does a construction site evaluation take in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does a construction site evaluation take in Los Angeles or nearby cities?",
+    "text": "How long does a construction site evaluation take in Los Angeles or nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Timing depends on the scope. A simple on-site evaluation for a single-family project may take one visit and a short turnaround for a summary. More detailed reviews take longer because they may require zoning research, utility verification, aerial and parcel review, and a written risk assessment. In Los Angeles, time can increase when the property has hillside issues, nonstandard access, easements, or multiple agencies involved. Buyers or owners who need a quick decision should ask for an early verbal readout, followed by a written memo that confirms the key risks. If the site is complex, rushing the process can miss constraints that later affect permitting and construction cost.",
+      "@type": "Answer",
+      "description": "A basic construction site evaluation can often be completed in a single site visit plus a short written summary, while a more detailed feasibility review may take several days to two weeks depending on zoning, utility checks, and report depth. Complex hillside or multi-parcel sites usually take longer.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Timing depends on the scope. A simple on-site evaluation for a single-family project may take one visit and a short turnaround for a summary. More detailed reviews take longer because they may require zoning research, utility verification, aerial and parcel review, and a written risk assessment. In Los Angeles, time can increase when the property has hillside issues, nonstandard access, easements, or multiple agencies involved. Buyers or owners who need a quick decision should ask for an early verbal readout, followed by a written memo that confirms the key risks. If the site is complex, rushing the process can miss constraints that later affect permitting and construction cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A basic construction site evaluation can often be completed in a single site visit plus a short written summary, while a more detailed feasibility review may ta"
+}

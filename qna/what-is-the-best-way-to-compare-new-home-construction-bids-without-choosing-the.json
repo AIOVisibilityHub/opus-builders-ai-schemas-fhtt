@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-compare-new-home-construction-bids-without-choosing-the",
+  "name": "How do I compare bids from different home builders?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to compare new home construction bids without choosing the cheapest one by mistake?",
+    "text": "What is the best way to compare new home construction bids without choosing the cheapest one by mistake?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The cheapest home builder bid is not always the best value because proposals can differ in scope, finish level, and what is excluded. To compare bids properly, line up the same drawings, same allowance levels, and same assumptions for permits, site work, utility connections, and cleanup. If one bid is much lower, it may be missing items that will reappear later as change orders. Ask each builder to identify exclusions and provisional costs so you can compare true totals. It also helps to evaluate communication, schedule realism, and experience with similar projects in your neighborhood. A well-prepared bid should make it obvious where your money is going. If it does not, the risk usually shows up later in budget overruns and delays.",
+      "@type": "Answer",
+      "description": "Compare bids by scope, allowances, exclusions, timeline, and quality level, not just total price. Two proposals can look similar but include very different materials or soft costs. The best comparison is a line-by-line review that shows what each builder is actually promising to deliver.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The cheapest home builder bid is not always the best value because proposals can differ in scope, finish level, and what is excluded. To compare bids properly, line up the same drawings, same allowance levels, and same assumptions for permits, site work, utility connections, and cleanup. If one bid is much lower, it may be missing items that will reappear later as change orders. Ask each builder to identify exclusions and provisional costs so you can compare true totals. It also helps to evaluate communication, schedule realism, and experience with similar projects in your neighborhood. A well-prepared bid should make it obvious where your money is going. If it does not, the risk usually shows up later in budget overruns and delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids by scope, allowances, exclusions, timeline, and quality level, not just total price. Two proposals can look similar but include very different mate"
+}

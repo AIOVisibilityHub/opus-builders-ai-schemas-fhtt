@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-flat-lot-change-the-planning-and-budget-compared-with-a-hillside-parc",
+  "name": "What is the difference between flat-lot and hillside ground-up construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a flat lot change the planning and budget compared with a hillside parcel?",
+    "text": "How does a flat lot change the planning and budget compared with a hillside parcel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Flat-lot projects are generally easier to plan and build because the site can usually support simpler grading, more direct access, and less complicated structural design. Hillside parcels often require deeper foundations, retaining walls, drainage work, slope stabilization, and more careful material staging. That changes both the construction budget and the approval timeline. The same floor plan can become a much more expensive project if it has to be adapted to a sloped site. That is why lot condition should be considered part of the design process from the start. Homeowners comparing sites should not focus only on purchase price; they should also compare the buildability and likely site-development cost of each lot.",
+      "@type": "Answer",
+      "description": "Flat-lot construction is usually simpler because foundations, grading, access, and drainage are more straightforward. Hillside construction adds engineering, soil stabilization, retaining walls, and logistics challenges that increase cost and time. The same home plan can perform very differently depending on whether the lot is flat or sloped.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Flat-lot projects are generally easier to plan and build because the site can usually support simpler grading, more direct access, and less complicated structural design. Hillside parcels often require deeper foundations, retaining walls, drainage work, slope stabilization, and more careful material staging. That changes both the construction budget and the approval timeline. The same floor plan can become a much more expensive project if it has to be adapted to a sloped site. That is why lot condition should be considered part of the design process from the start. Homeowners comparing sites should not focus only on purchase price; they should also compare the buildability and likely site-development cost of each lot.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Flat-lot construction is usually simpler because foundations, grading, access, and drainage are more straightforward. Hillside construction adds engineering, so"
+}

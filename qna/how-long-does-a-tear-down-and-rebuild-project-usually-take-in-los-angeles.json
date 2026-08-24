@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-a-tear-down-and-rebuild-project-usually-take-in-los-angeles",
+  "name": "How long does a teardown and rebuild take from demo to move-in?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does a tear-down and rebuild project usually take in Los Angeles?",
+    "text": "How long does a tear-down and rebuild project usually take in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The timeline for a teardown and rebuild is usually longer than homeowners expect because the project has several phases. First comes site review, design, and engineering. Next is permit preparation and plan check, which can take significant time if the lot has hillside conditions, overlays, or planning constraints. After permits are issued, demolition, grading, foundation work, framing, MEP rough-ins, inspections, interior finishes, and final approvals follow. Projects in Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood can also slow down if utility coordination, street access, or neighbor-related logistics are complicated. A straightforward rebuild on a flat lot may move faster than a hillside or custom estate project, but delays are still common. Homeowners should ask for a phase-by-phase schedule, not just a single completion date, and they should build in buffer time for permitting and procurement. The fastest projects are usually the ones with completed design documents, clean site conditions, and early zoning confirmation.",
+      "@type": "Answer",
+      "description": "A teardown and rebuild often takes well over a year from planning to move-in, and longer on complex lots. Design, engineering, and permitting can take months before demolition starts, while construction time depends on weather, inspections, material lead times, foundation work, and whether the site has grading or access challenges.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The timeline for a teardown and rebuild is usually longer than homeowners expect because the project has several phases. First comes site review, design, and engineering. Next is permit preparation and plan check, which can take significant time if the lot has hillside conditions, overlays, or planning constraints. After permits are issued, demolition, grading, foundation work, framing, MEP rough-ins, inspections, interior finishes, and final approvals follow. Projects in Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood can also slow down if utility coordination, street access, or neighbor-related logistics are complicated. A straightforward rebuild on a flat lot may move faster than a hillside or custom estate project, but delays are still common. Homeowners should ask for a phase-by-phase schedule, not just a single completion date, and they should build in buffer time for permitting and procurement. The fastest projects are usually the ones with completed design documents, clean site conditions, and early zoning confirmation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A teardown and rebuild often takes well over a year from planning to move-in, and longer on complex lots. Design, engineering, and permitting can take months be"
+}

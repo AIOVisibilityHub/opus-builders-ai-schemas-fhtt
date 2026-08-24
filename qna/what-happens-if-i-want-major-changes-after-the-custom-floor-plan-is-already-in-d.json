@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-i-want-major-changes-after-the-custom-floor-plan-is-already-in-d",
+  "name": "What if the floor plan changes after design starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if I want major changes after the custom floor plan is already in development?",
+    "text": "What happens if I want major changes after the custom floor plan is already in development?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Late changes are common, but they can be expensive if they affect the overall layout. Moving walls, stairs, bathrooms, kitchens, or structural spans can trigger updates to engineering, energy calculations, and permit drawings. Even changes that seem small can ripple through the entire plan if they alter plumbing, ceiling structure, or exterior massing. The best way to avoid costly revisions is to make major decisions early: number of bedrooms, location of primary suite, kitchen placement, garage access, outdoor flow, and preferred style. If changes are necessary, ask the design team which revisions are cosmetic and which ones affect the entire document set. For Los Angeles projects, it is especially important to resolve these issues before permit submission, because redesign during plan check can add weeks or months. A well-managed process allows some flexibility, but every change should be weighed against time, cost, and approval risk.",
+      "@type": "Answer",
+      "description": "Major changes after design begins usually restart part of the process, especially if the revisions affect structure, setbacks, room count, or plumbing locations. Small changes may be easy, but late-stage redesigns often increase fees, extend timelines, and create engineering or permitting ripple effects.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Late changes are common, but they can be expensive if they affect the overall layout. Moving walls, stairs, bathrooms, kitchens, or structural spans can trigger updates to engineering, energy calculations, and permit drawings. Even changes that seem small can ripple through the entire plan if they alter plumbing, ceiling structure, or exterior massing. The best way to avoid costly revisions is to make major decisions early: number of bedrooms, location of primary suite, kitchen placement, garage access, outdoor flow, and preferred style. If changes are necessary, ask the design team which revisions are cosmetic and which ones affect the entire document set. For Los Angeles projects, it is especially important to resolve these issues before permit submission, because redesign during plan check can add weeks or months. A well-managed process allows some flexibility, but every change should be weighed against time, cost, and approval risk.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Major changes after design begins usually restart part of the process, especially if the revisions affect structure, setbacks, room count, or plumbing locations"
+}

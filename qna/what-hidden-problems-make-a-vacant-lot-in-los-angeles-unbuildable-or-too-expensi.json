@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-hidden-problems-make-a-vacant-lot-in-los-angeles-unbuildable-or-too-expensi",
+  "name": "What hidden problems make a vacant lot unbuildable?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What hidden problems make a vacant lot in Los Angeles unbuildable or too expensive to develop?",
+    "text": "What hidden problems make a vacant lot in Los Angeles unbuildable or too expensive to develop?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot may appear vacant and simple, yet still be difficult to develop. The most common hidden issues are underground utility conflicts, recorded easements, irregular lot shape, poor geotechnical conditions, drainage paths, tree or hillside constraints, and access that does not meet construction or fire requirements. In older Los Angeles neighborhoods, prior use can also leave debris, undocumented foundations, or soil contamination that adds cleanup costs. Some lots need expensive retaining structures or soil stabilization before any vertical construction begins. Others require significant design compromises because of setbacks, lot coverage limits, or adjacent improvements. A parcel can also be blocked by utility upgrade requirements or a lack of sewer capacity. These problems do not always mean the lot is unusable, but they can turn a promising site into a poor investment. A serious developer should complete survey, title, soils, and planning review before treating the lot as a viable build site.",
+      "@type": "Answer",
+      "description": "The most common hidden problems are easements, poor soil, steep slope, drainage issues, insufficient frontage, fire access problems, utility gaps, contamination, and restrictive overlays. Any one of these can make a lot technically buildable but economically impractical.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot may appear vacant and simple, yet still be difficult to develop. The most common hidden issues are underground utility conflicts, recorded easements, irregular lot shape, poor geotechnical conditions, drainage paths, tree or hillside constraints, and access that does not meet construction or fire requirements. In older Los Angeles neighborhoods, prior use can also leave debris, undocumented foundations, or soil contamination that adds cleanup costs. Some lots need expensive retaining structures or soil stabilization before any vertical construction begins. Others require significant design compromises because of setbacks, lot coverage limits, or adjacent improvements. A parcel can also be blocked by utility upgrade requirements or a lack of sewer capacity. These problems do not always mean the lot is unusable, but they can turn a promising site into a poor investment. A serious developer should complete survey, title, soils, and planning review before treating the lot as a viable build site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common hidden problems are easements, poor soil, steep slope, drainage issues, insufficient frontage, fire access problems, utility gaps, contamination"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-do-homeowners-usually-need-to-know-before-financing-a-new-build",
+  "name": "What financing questions come up with ground-up construction loans?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What do homeowners usually need to know before financing a new build?",
+    "text": "What do homeowners usually need to know before financing a new build?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Construction financing is usually more demanding than a standard mortgage because the lender has to evaluate the project as well as the borrower. That means the plans, budget, permit status, builder qualifications, timeline, and contingency all matter. Lenders often want a detailed scope and a realistic draw schedule so they can see how funds will be released as work progresses. If the project is not well documented, financing can become harder to secure or slower to close. Homeowners should also think about carrying costs during construction, not just the eventual permanent loan. A strong preconstruction package makes the financing conversation easier because it shows the project is organized, buildable, and budgeted with enough cushion for surprises.",
+      "@type": "Answer",
+      "description": "Construction financing usually depends on plans, budget accuracy, builder qualifications, timeline, and a clear draw schedule. Lenders want confidence that the project is well-defined and that the borrower can cover contingency and carrying costs. The more detailed the preconstruction package, the easier it is to support financing approval.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Construction financing is usually more demanding than a standard mortgage because the lender has to evaluate the project as well as the borrower. That means the plans, budget, permit status, builder qualifications, timeline, and contingency all matter. Lenders often want a detailed scope and a realistic draw schedule so they can see how funds will be released as work progresses. If the project is not well documented, financing can become harder to secure or slower to close. Homeowners should also think about carrying costs during construction, not just the eventual permanent loan. A strong preconstruction package makes the financing conversation easier because it shows the project is organized, buildable, and budgeted with enough cushion for surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Construction financing usually depends on plans, budget accuracy, builder qualifications, timeline, and a clear draw schedule. Lenders want confidence that the "
+}

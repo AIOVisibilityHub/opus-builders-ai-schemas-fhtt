@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-vacant-lot-in-an-established-neighborhood-be-developed-as-a-duplex-or-smal",
+  "name": "Can a vacant lot near me be used for a duplex or ADU-style project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a vacant lot in an established neighborhood be developed as a duplex or small attached project instead of a single house?",
+    "text": "Can a vacant lot in an established neighborhood be developed as a duplex or small attached project instead of a single house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many owners assume a vacant lot is best used for a single house, but some parcels can support small multifamily or attached housing if the local rules and site geometry allow it. The right answer depends on zoning, frontage, lot dimensions, access, and whether the proposed unit count fits the physical constraints of the parcel. In built-out neighborhoods, a duplex or small attached project can improve land value if the site is large enough and utilities are readily available. However, these projects often require more coordination than a single custom home because circulation, parking, fire access, and privacy all become more complex. The most useful next step is a unit-yield study to compare single-family, duplex, and small multifamily scenarios. That makes it easier to see which option offers the best return without creating an overbuilt or hard-to-permit site.",
+      "@type": "Answer",
+      "description": "A vacant lot may support a duplex or similar small project if the lot size, zoning, access, and design standards allow it. The key question is whether the site can support multiple units without violating setbacks, parking, or utility requirements.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many owners assume a vacant lot is best used for a single house, but some parcels can support small multifamily or attached housing if the local rules and site geometry allow it. The right answer depends on zoning, frontage, lot dimensions, access, and whether the proposed unit count fits the physical constraints of the parcel. In built-out neighborhoods, a duplex or small attached project can improve land value if the site is large enough and utilities are readily available. However, these projects often require more coordination than a single custom home because circulation, parking, fire access, and privacy all become more complex. The most useful next step is a unit-yield study to compare single-family, duplex, and small multifamily scenarios. That makes it easier to see which option offers the best return without creating an overbuilt or hard-to-permit site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A vacant lot may support a duplex or similar small project if the lot size, zoning, access, and design standards allow it. The key question is whether the site "
+}

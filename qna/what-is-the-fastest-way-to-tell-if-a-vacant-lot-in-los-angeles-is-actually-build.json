@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-fastest-way-to-tell-if-a-vacant-lot-in-los-angeles-is-actually-build",
+  "name": "What is the fastest way to tell if a vacant lot is buildable?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the fastest way to tell if a vacant lot in Los Angeles is actually buildable before I buy it?",
+    "text": "What is the fastest way to tell if a vacant lot in Los Angeles is actually buildable before I buy it?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A quick visual inspection is not enough. The fastest reliable method is a desktop feasibility check followed by a site visit. Start with zoning, parcel map, and title documents, then confirm whether the lot has legal frontage, utility access, and a practical route for construction vehicles. After that, review slope, drainage, easements, and any special restrictions that could reduce the buildable envelope. If the lot is in a hillside or fire-prone area, access and grading become especially important. Many vacant lots look inexpensive because they carry hidden costs tied to retaining walls, sewer extensions, power upgrades, or demolition of old site debris. A good preliminary review should estimate what can be built, what it will likely cost to entitle, and whether the project is worth pursuing. If the answer is unclear, the lot should be treated as speculative until a survey, soils report, and planning review are completed.",
+      "@type": "Answer",
+      "description": "The fastest buildability check is a zoning and site-feasibility review that confirms use, setbacks, access, utilities, slope, easements, and any overlays. A lot is not truly buildable until those factors match the intended project, because title and zoning issues can override the appearance of a vacant parcel.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A quick visual inspection is not enough. The fastest reliable method is a desktop feasibility check followed by a site visit. Start with zoning, parcel map, and title documents, then confirm whether the lot has legal frontage, utility access, and a practical route for construction vehicles. After that, review slope, drainage, easements, and any special restrictions that could reduce the buildable envelope. If the lot is in a hillside or fire-prone area, access and grading become especially important. Many vacant lots look inexpensive because they carry hidden costs tied to retaining walls, sewer extensions, power upgrades, or demolition of old site debris. A good preliminary review should estimate what can be built, what it will likely cost to entitle, and whether the project is worth pursuing. If the answer is unclear, the lot should be treated as speculative until a survey, soils report, and planning review are completed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The fastest buildability check is a zoning and site-feasibility review that confirms use, setbacks, access, utilities, slope, easements, and any overlays. A lot"
+}

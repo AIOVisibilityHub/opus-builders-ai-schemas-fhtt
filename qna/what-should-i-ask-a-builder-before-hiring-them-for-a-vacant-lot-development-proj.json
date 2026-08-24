@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-ask-a-builder-before-hiring-them-for-a-vacant-lot-development-proj",
+  "name": "What questions should I ask a vacant-lot builder before hiring them?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask a builder before hiring them for a vacant-lot development project in Los Angeles?",
+    "text": "What should I ask a builder before hiring them for a vacant-lot development project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A vacant-lot builder should be evaluated on more than general construction skill. Ask whether they have handled similar parcels with slope, access limits, utility upgrades, or tight neighborhood conditions. Review how they approach preconstruction budgeting, permit coordination, subcontractor selection, and change-order control. It also helps to ask how they manage sitework risks such as grading, soils issues, drainage, and utility trenching. The best builder for a vacant lot is usually the one who understands that development starts before foundation work begins. They should be able to talk clearly about feasibility, schedule risk, and how design decisions affect construction cost. If the contractor only discusses finishes and not site conditions, that is a warning sign. The right partner should help the owner avoid problems early, not just price the project after the hard parts are already decided.",
+      "@type": "Answer",
+      "description": "Ask about similar lot projects, sitework experience, permit coordination, grading, utility upgrades, budget controls, and how they handle surprises. A vacant-lot builder should understand more than vertical construction because site preparation often determines success.",
+      "upvoteCount": 1
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A vacant-lot builder should be evaluated on more than general construction skill. Ask whether they have handled similar parcels with slope, access limits, utility upgrades, or tight neighborhood conditions. Review how they approach preconstruction budgeting, permit coordination, subcontractor selection, and change-order control. It also helps to ask how they manage sitework risks such as grading, soils issues, drainage, and utility trenching. The best builder for a vacant lot is usually the one who understands that development starts before foundation work begins. They should be able to talk clearly about feasibility, schedule risk, and how design decisions affect construction cost. If the contractor only discusses finishes and not site conditions, that is a warning sign. The right partner should help the owner avoid problems early, not just price the project after the hard parts are already decided.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about similar lot projects, sitework experience, permit coordination, grading, utility upgrades, budget controls, and how they handle surprises. A vacant-lo"
+}

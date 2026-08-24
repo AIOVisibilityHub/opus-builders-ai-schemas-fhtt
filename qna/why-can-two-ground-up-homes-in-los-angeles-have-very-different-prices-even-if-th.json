@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-can-two-ground-up-homes-in-los-angeles-have-very-different-prices-even-if-th",
+  "name": "How do ground-up construction costs differ between Los Angeles neighborhoods?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why can two ground-up homes in Los Angeles have very different prices even if they are the same size?",
+    "text": "Why can two ground-up homes in Los Angeles have very different prices even if they are the same size?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Ground-up construction costs in Los Angeles are not determined by square footage alone. Neighborhoods differ in lot shape, slope, access, utility availability, zoning restrictions, and design standards, all of which affect construction difficulty and approval time. Some areas also push higher finish expectations, which changes the budget for windows, cabinetry, fixtures, exterior materials, and landscaping. Even on similar lots, one project may need more structural work, more grading, or more coordination with city review processes. That is why a cost estimate should be built from the site conditions and design goals rather than from a citywide average. For buyers or homeowners comparing properties, the right question is not just what the lot costs, but what it will cost to make that lot buildable at the level of home they want.",
+      "@type": "Answer",
+      "description": "Two same-size homes can cost very different amounts because neighborhoods vary in site conditions, access, zoning, design expectations, and permit complexity. A flat lot in one area may be far simpler than a hillside lot or a lot with tighter setbacks, stricter review, or utility constraints. In luxury neighborhoods, finish expectations also raise the total cost.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Ground-up construction costs in Los Angeles are not determined by square footage alone. Neighborhoods differ in lot shape, slope, access, utility availability, zoning restrictions, and design standards, all of which affect construction difficulty and approval time. Some areas also push higher finish expectations, which changes the budget for windows, cabinetry, fixtures, exterior materials, and landscaping. Even on similar lots, one project may need more structural work, more grading, or more coordination with city review processes. That is why a cost estimate should be built from the site conditions and design goals rather than from a citywide average. For buyers or homeowners comparing properties, the right question is not just what the lot costs, but what it will cost to make that lot buildable at the level of home they want.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Two same-size homes can cost very different amounts because neighborhoods vary in site conditions, access, zoning, design expectations, and permit complexity. A"
+}

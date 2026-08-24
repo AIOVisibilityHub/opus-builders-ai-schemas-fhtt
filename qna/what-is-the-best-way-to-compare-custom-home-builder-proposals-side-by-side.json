@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-compare-custom-home-builder-proposals-side-by-side",
+  "name": "How do I compare two custom home builder bids fairly?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to compare custom home builder proposals side by side?",
+    "text": "What is the best way to compare custom home builder proposals side by side?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A fair bid comparison starts with scope matching. Two proposals can look similar in price while including very different levels of work, materials, and responsibility. Homeowners should check whether each bid includes permits, engineering, site work, utility work, fixture allowances, cabinetry, landscaping, and cleanup. It also helps to compare timeline assumptions, payment schedules, and how changes are handled. In Los Angeles, where site conditions and permitting can vary a lot, missing items often lead to budget overruns later. The safest approach is to ask each builder to bid from the same drawings, same specifications, and same inclusion list. If that is not possible, the lowest number should not be treated as the best value.",
+      "@type": "Answer",
+      "description": "Compare bids by scope, allowances, exclusions, schedule, and quality level, not just the bottom-line price. A lower bid may leave out site work, permits, or finish allowances, making it more expensive after change orders.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A fair bid comparison starts with scope matching. Two proposals can look similar in price while including very different levels of work, materials, and responsibility. Homeowners should check whether each bid includes permits, engineering, site work, utility work, fixture allowances, cabinetry, landscaping, and cleanup. It also helps to compare timeline assumptions, payment schedules, and how changes are handled. In Los Angeles, where site conditions and permitting can vary a lot, missing items often lead to budget overruns later. The safest approach is to ask each builder to bid from the same drawings, same specifications, and same inclusion list. If that is not possible, the lowest number should not be treated as the best value.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids by scope, allowances, exclusions, schedule, and quality level, not just the bottom-line price. A lower bid may leave out site work, permits, or fin"
+}

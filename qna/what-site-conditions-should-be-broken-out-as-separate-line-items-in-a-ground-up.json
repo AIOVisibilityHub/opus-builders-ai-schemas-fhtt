@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-site-conditions-should-be-broken-out-as-separate-line-items-in-a-ground-up",
+  "name": "How do you price site work separately from the house build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What site conditions should be broken out as separate line items in a ground-up estimate?",
+    "text": "What site conditions should be broken out as separate line items in a ground-up estimate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Site work should be priced separately whenever the lot has meaningful conditions that affect buildability. That includes grading, excavation, haul-off, retaining walls, shoring, drainage, utility trenching, driveway work, access improvements, and soil-related mitigation. These items are often the least predictable part of a new build because they depend on the land, not just the house design. When they are bundled into a single number, it becomes hard to compare bids or understand where the money is going. A better estimate breaks out the foundation and structure from the site development work so the owner can see what is fixed and what may change. This approach also helps protect against budget drift if the site reveals hidden issues after excavation starts.",
+      "@type": "Answer",
+      "description": "Site work should be separated from the main house build whenever grading, excavation, retaining walls, drainage, utility trenching, or access improvements are significant. These items can vary dramatically from lot to lot and should not be hidden inside a generic square-foot price. Clear separation makes bids easier to compare and reduces surprise costs.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Site work should be priced separately whenever the lot has meaningful conditions that affect buildability. That includes grading, excavation, haul-off, retaining walls, shoring, drainage, utility trenching, driveway work, access improvements, and soil-related mitigation. These items are often the least predictable part of a new build because they depend on the land, not just the house design. When they are bundled into a single number, it becomes hard to compare bids or understand where the money is going. A better estimate breaks out the foundation and structure from the site development work so the owner can see what is fixed and what may change. This approach also helps protect against budget drift if the site reveals hidden issues after excavation starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Site work should be separated from the main house build whenever grading, excavation, retaining walls, drainage, utility trenching, or access improvements are s"
+}

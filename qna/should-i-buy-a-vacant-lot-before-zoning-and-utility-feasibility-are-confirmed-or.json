@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-buy-a-vacant-lot-before-zoning-and-utility-feasibility-are-confirmed-or",
+  "name": "Should I buy the lot before feasibility is complete?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I buy a vacant lot before zoning and utility feasibility are confirmed, or wait until due diligence is finished?",
+    "text": "Should I buy a vacant lot before zoning and utility feasibility are confirmed, or wait until due diligence is finished?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A vacant lot should not be treated like a simple real estate purchase. Unlike an existing home, the value depends on what can actually be built, and that answer can change after survey, title review, or planning analysis. If feasibility is not confirmed before closing, the buyer may inherit a parcel that is under-sized, poorly shaped, inaccessible, or too costly to improve. At minimum, buyers should verify zoning, frontage, utility availability, easements, grading conditions, and likely construction type before committing. When speed is required, the purchase contract should leave room for due diligence so the project can be canceled or renegotiated if the site fails basic tests. The right decision is usually to line up development potential first and ownership second. That is especially true in competitive Los Angeles neighborhoods, where lots can look attractive but still carry hidden limitations that only appear after professional review.",
+      "@type": "Answer",
+      "description": "Buying first is risky because zoning, access, title, utility, or slope issues can eliminate the intended project or make it much more expensive. The safest approach is to confirm feasibility before closing whenever possible.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A vacant lot should not be treated like a simple real estate purchase. Unlike an existing home, the value depends on what can actually be built, and that answer can change after survey, title review, or planning analysis. If feasibility is not confirmed before closing, the buyer may inherit a parcel that is under-sized, poorly shaped, inaccessible, or too costly to improve. At minimum, buyers should verify zoning, frontage, utility availability, easements, grading conditions, and likely construction type before committing. When speed is required, the purchase contract should leave room for due diligence so the project can be canceled or renegotiated if the site fails basic tests. The right decision is usually to line up development potential first and ownership second. That is especially true in competitive Los Angeles neighborhoods, where lots can look attractive but still carry hidden limitations that only appear after professional review.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Buying first is risky because zoning, access, title, utility, or slope issues can eliminate the intended project or make it much more expensive. The safest appr"
+}

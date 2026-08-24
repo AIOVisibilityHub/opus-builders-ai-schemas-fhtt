@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-a-construction-site-evaluation-look-at-neighboring-properties-too",
+  "name": "Does a site evaluation include neighboring property impacts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does a construction site evaluation look at neighboring properties too?",
+    "text": "Does a construction site evaluation look at neighboring properties too?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Neighboring properties matter because construction on a tight lot rarely happens in isolation. The evaluation should look at whether adjacent buildings are close enough to affect excavation, whether drainage flows from neighboring lots, whether grade changes could trigger retaining wall needs, and whether construction access will interfere with nearby driveways or fences. In dense Los Angeles neighborhoods, these issues can materially affect design and cost. They can also influence where windows, decks, and utilities can be placed. A site evaluation that ignores the surrounding context is incomplete, especially on urban infill or hillside properties.",
+      "@type": "Answer",
+      "description": "Yes, a thorough evaluation should consider neighboring structures, grade changes, shared walls, privacy constraints, drainage runoff, and access conflicts. Nearby improvements can affect retaining wall needs, foundation design, and how construction can be staged on a tight urban lot.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Neighboring properties matter because construction on a tight lot rarely happens in isolation. The evaluation should look at whether adjacent buildings are close enough to affect excavation, whether drainage flows from neighboring lots, whether grade changes could trigger retaining wall needs, and whether construction access will interfere with nearby driveways or fences. In dense Los Angeles neighborhoods, these issues can materially affect design and cost. They can also influence where windows, decks, and utilities can be placed. A site evaluation that ignores the surrounding context is incomplete, especially on urban infill or hillside properties.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a thorough evaluation should consider neighboring structures, grade changes, shared walls, privacy constraints, drainage runoff, and access conflicts. Near"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-percentage-of-the-total-project-budget-usually-goes-to-architecture-enginee",
+  "name": "How much should you budget for soft costs on a ground-up home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What percentage of the total project budget usually goes to architecture, engineering, permits, and other soft costs?",
+    "text": "What percentage of the total project budget usually goes to architecture, engineering, permits, and other soft costs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Soft costs are a major part of any ground-up project and should never be ignored. They can include architecture, structural engineering, geotechnical reports, surveys, permit fees, plan check, and other professional services needed to get the project approved and ready to build. In custom home work, especially on difficult or highly regulated sites, soft costs can grow because more analysis and coordination are needed before construction starts. The exact percentage depends on scope, but the important point is that these are real project expenses, not optional extras. Owners should budget for soft costs from the beginning so the construction budget is not accidentally inflated by items that belong in preconstruction. A clear breakdown of hard costs versus soft costs makes decision-making much easier and gives a more accurate picture of the total investment.",
+      "@type": "Answer",
+      "description": "Soft costs can take a meaningful share of the total budget because they include architecture, engineering, surveys, geotechnical work, permits, plan check, and related professional fees. The percentage varies by project complexity, but custom and hillside homes usually have higher soft-cost burdens than simple flat-lot builds. These costs should be planned early, not added later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Soft costs are a major part of any ground-up project and should never be ignored. They can include architecture, structural engineering, geotechnical reports, surveys, permit fees, plan check, and other professional services needed to get the project approved and ready to build. In custom home work, especially on difficult or highly regulated sites, soft costs can grow because more analysis and coordination are needed before construction starts. The exact percentage depends on scope, but the important point is that these are real project expenses, not optional extras. Owners should budget for soft costs from the beginning so the construction budget is not accidentally inflated by items that belong in preconstruction. A clear breakdown of hard costs versus soft costs makes decision-making much easier and gives a more accurate picture of the total investment.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Soft costs can take a meaningful share of the total budget because they include architecture, engineering, surveys, geotechnical work, permits, plan check, and "
+}

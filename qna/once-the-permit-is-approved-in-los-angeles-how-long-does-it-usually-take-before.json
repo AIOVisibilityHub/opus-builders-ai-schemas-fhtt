@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/once-the-permit-is-approved-in-los-angeles-how-long-does-it-usually-take-before",
+  "name": "How long after permit approval can construction actually start?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Once the permit is approved in Los Angeles, how long does it usually take before construction can physically begin?",
+    "text": "Once the permit is approved in Los Angeles, how long does it usually take before construction can physically begin?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "After permit approval, construction can technically begin once the builder is ready to mobilize, but the real start date depends on more than the permit. Demolition, utility disconnects, site access, material lead times, and subcontractor scheduling all affect how quickly work can physically begin. In some cases, the approved permit sits for days or weeks while the team finalizes site prep or orders long-lead items. If you want a dependable start date, ask the builder for the mobilization sequence, not just the permit status. That sequence should show when the lot will be cleared, when utilities will be handled, and when excavation or foundation work will begin. Knowing that schedule helps set expectations and prevents confusion after approval.",
+      "@type": "Answer",
+      "description": "Construction can begin soon after permit issuance, but actual start time depends on contractor scheduling, demolition, site prep, utility disconnects, and material ordering. Even after approval, a project may wait days or weeks before crews mobilize. The earliest delay is often site readiness, not the permit itself.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "After permit approval, construction can technically begin once the builder is ready to mobilize, but the real start date depends on more than the permit. Demolition, utility disconnects, site access, material lead times, and subcontractor scheduling all affect how quickly work can physically begin. In some cases, the approved permit sits for days or weeks while the team finalizes site prep or orders long-lead items. If you want a dependable start date, ask the builder for the mobilization sequence, not just the permit status. That sequence should show when the lot will be cleared, when utilities will be handled, and when excavation or foundation work will begin. Knowing that schedule helps set expectations and prevents confusion after approval.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Construction can begin soon after permit issuance, but actual start time depends on contractor scheduling, demolition, site prep, utility disconnects, and mater"
+}

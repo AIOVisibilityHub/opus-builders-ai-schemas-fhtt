@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-a-construction-site-has-no-easy-water-sewer-gas-or-power-access",
+  "name": "What happens if the lot has no easy utility access?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if a construction site has no easy water, sewer, gas, or power access?",
+    "text": "What happens if a construction site has no easy water, sewer, gas, or power access?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility access is one of the most common hidden cost drivers in a site evaluation. If water, sewer, gas, or power are not already nearby or adequately sized, the project may require new service runs, utility upgrades, trenching through constrained areas, or coordination with public agencies and utility providers. In some cases, an easement or off-site work may be needed before construction can even start. These issues can change the budget enough to make a site less attractive than it first appears. A good evaluation should identify whether utility access is straightforward, uncertain, or likely to require specialty consultants. The earlier this is discovered, the easier it is to avoid design decisions that depend on unrealistic utility assumptions.",
+      "@type": "Answer",
+      "description": "If utilities are far away or undersized, the project may need new connections, trenching, service upgrades, easements, or agency approvals. That can increase cost, extend the schedule, and affect whether the project is still financially practical.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility access is one of the most common hidden cost drivers in a site evaluation. If water, sewer, gas, or power are not already nearby or adequately sized, the project may require new service runs, utility upgrades, trenching through constrained areas, or coordination with public agencies and utility providers. In some cases, an easement or off-site work may be needed before construction can even start. These issues can change the budget enough to make a site less attractive than it first appears. A good evaluation should identify whether utility access is straightforward, uncertain, or likely to require specialty consultants. The earlier this is discovered, the easier it is to avoid design decisions that depend on unrealistic utility assumptions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If utilities are far away or undersized, the project may need new connections, trenching, service upgrades, easements, or agency approvals. That can increase co"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-ground-up-construction-make-more-sense-than-renovating-an-existing-hou",
+  "name": "Should you build new or remodel in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does ground-up construction make more sense than renovating an existing house?",
+    "text": "When does ground-up construction make more sense than renovating an existing house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The choice between building new and remodeling depends on the condition of the existing house, the value of the lot, and the homeowner’s goals. Ground-up construction gives the most freedom because the entire home can be designed around the site, the layout, and the performance goals from day one. That is often the better option when the existing house is outdated, too small, structurally compromised, or poorly aligned with the lot. Remodeling can be more cost-effective when the foundation, structure, and general layout are already strong and only targeted improvements are needed. In Los Angeles, the decision often comes down to whether the property can support the desired outcome without forcing major compromises. If the homeowner wants a fully custom result and the existing house is a mismatch, new construction is usually the cleaner path.",
+      "@type": "Answer",
+      "description": "Ground-up construction often makes more sense when the existing home has major structural limitations, poor layout, outdated systems, or site features that make a remodel inefficient. A new build gives full control over design, structure, and performance. A remodel may be better when the existing foundation and layout already fit the lot and goals.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The choice between building new and remodeling depends on the condition of the existing house, the value of the lot, and the homeowner’s goals. Ground-up construction gives the most freedom because the entire home can be designed around the site, the layout, and the performance goals from day one. That is often the better option when the existing house is outdated, too small, structurally compromised, or poorly aligned with the lot. Remodeling can be more cost-effective when the foundation, structure, and general layout are already strong and only targeted improvements are needed. In Los Angeles, the decision often comes down to whether the property can support the desired outcome without forcing major compromises. If the homeowner wants a fully custom result and the existing house is a mismatch, new construction is usually the cleaner path.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up construction often makes more sense when the existing home has major structural limitations, poor layout, outdated systems, or site features that make"
+}

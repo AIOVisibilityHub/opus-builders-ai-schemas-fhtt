@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-get-a-geotechnical-report-before-a-construction-site-evaluation",
+  "name": "Should I get a geotechnical report before site evaluation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I get a geotechnical report before a construction site evaluation?",
+    "text": "Should I get a geotechnical report before a construction site evaluation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In most cases, a site evaluation should come before a geotechnical report because the evaluation helps identify whether soil testing is even necessary and what areas deserve deeper investigation. For straightforward flat lots, a geotechnical report may not be needed immediately. For hillside, sloped, or previously disturbed sites, however, the evaluation may quickly show that subsurface conditions could control the entire project. In that case, a geotechnical report becomes essential for foundation design, grading, drainage, and retaining wall planning. The most efficient approach is to use the site evaluation to triage risk, then bring in geotechnical expertise only where the lot suggests it will materially affect feasibility, cost, or permitting.",
+      "@type": "Answer",
+      "description": "Usually no. A site evaluation comes first because it can determine whether a geotechnical report is needed and what scope it should cover. If the lot has slope, fill, retaining wall, drainage, or foundation risks, then geotechnical testing becomes a next-step requirement.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In most cases, a site evaluation should come before a geotechnical report because the evaluation helps identify whether soil testing is even necessary and what areas deserve deeper investigation. For straightforward flat lots, a geotechnical report may not be needed immediately. For hillside, sloped, or previously disturbed sites, however, the evaluation may quickly show that subsurface conditions could control the entire project. In that case, a geotechnical report becomes essential for foundation design, grading, drainage, and retaining wall planning. The most efficient approach is to use the site evaluation to triage risk, then bring in geotechnical expertise only where the lot suggests it will materially affect feasibility, cost, or permitting.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Usually no. A site evaluation comes first because it can determine whether a geotechnical report is needed and what scope it should cover. If the lot has slope,"
+}

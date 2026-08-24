@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-hillside-lot-change-the-construction-site-evaluation-process-in-los-a",
+  "name": "How do hillside lots change the evaluation process?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a hillside lot change the construction site evaluation process in Los Angeles?",
+    "text": "How does a hillside lot change the construction site evaluation process in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside lots are more complex because the land itself often becomes part of the engineering problem. The evaluation needs to look at slope, existing cuts and fills, drainage paths, signs of erosion, retaining wall needs, and whether access for excavation equipment is realistic. In Los Angeles neighborhoods with steep terrain, the site may also face additional design and permitting constraints that do not show up on a standard flat-lot review. That means the same house program can become much more expensive or even infeasible if the slope is too severe. A proper hillside evaluation helps determine whether the project should be redesigned, downsized, or supported by geotechnical and civil engineering before any major spending starts.",
+      "@type": "Answer",
+      "description": "Hillside lots require extra attention to slope stability, grading, drainage, retaining walls, access, and foundation design. In Los Angeles, they can also trigger stricter review of buildable area, height, and earthwork limits, which makes early site evaluation much more important.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside lots are more complex because the land itself often becomes part of the engineering problem. The evaluation needs to look at slope, existing cuts and fills, drainage paths, signs of erosion, retaining wall needs, and whether access for excavation equipment is realistic. In Los Angeles neighborhoods with steep terrain, the site may also face additional design and permitting constraints that do not show up on a standard flat-lot review. That means the same house program can become much more expensive or even infeasible if the slope is too severe. A proper hillside evaluation helps determine whether the project should be redesigned, downsized, or supported by geotechnical and civil engineering before any major spending starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hillside lots require extra attention to slope stability, grading, drainage, retaining walls, access, and foundation design. In Los Angeles, they can also trigg"
+}

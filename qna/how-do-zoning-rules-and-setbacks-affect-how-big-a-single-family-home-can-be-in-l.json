@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-zoning-rules-and-setbacks-affect-how-big-a-single-family-home-can-be-in-l",
+  "name": "How do Los Angeles zoning and setbacks affect the home size I can build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do zoning rules and setbacks affect how big a single-family home can be in Los Angeles?",
+    "text": "How do zoning rules and setbacks affect how big a single-family home can be in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The size of a home is often controlled more by zoning and setbacks than by the lot size alone. Setback rules define how close the building can be to each property line, and lot coverage limits can restrict how much of the site can be occupied by the structure. Height limits, floor-area rules, access requirements, and open-space standards can further reduce the feasible design. On smaller lots, these constraints can force a two-story layout or a narrower footprint. In hillside or highly developed neighborhoods, additional restrictions may also influence massing and privacy. Homeowners should not assume a lot can fit a desired square footage until the site is analyzed by a designer or builder familiar with local regulations. The right approach is to confirm the buildable area first, then design the home to fit within it rather than forcing a concept that may not be approvable.",
+      "@type": "Answer",
+      "description": "Zoning and setbacks reduce the buildable footprint by limiting where the house can sit on the lot and how close it can be to property lines. Lot coverage, height limits, driveway access, and required open space can all change the final home size.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The size of a home is often controlled more by zoning and setbacks than by the lot size alone. Setback rules define how close the building can be to each property line, and lot coverage limits can restrict how much of the site can be occupied by the structure. Height limits, floor-area rules, access requirements, and open-space standards can further reduce the feasible design. On smaller lots, these constraints can force a two-story layout or a narrower footprint. In hillside or highly developed neighborhoods, additional restrictions may also influence massing and privacy. Homeowners should not assume a lot can fit a desired square footage until the site is analyzed by a designer or builder familiar with local regulations. The right approach is to confirm the buildable area first, then design the home to fit within it rather than forcing a concept that may not be approvable.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Zoning and setbacks reduce the buildable footprint by limiting where the house can sit on the lot and how close it can be to property lines. Lot coverage, heigh"
+}

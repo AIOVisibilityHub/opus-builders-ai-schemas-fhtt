@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-the-time-of-year-change-the-build-schedule-or-pricing",
+  "name": "How do weather and season affect custom home construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does the time of year change the build schedule or pricing?",
+    "text": "Does the time of year change the build schedule or pricing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Los Angeles weather is usually less disruptive than in colder or wetter markets, but it still affects construction timing. Rain can slow excavation, grading, concrete placement, and exterior finishes, especially on hillside or clay-heavy lots. Summer demand can also affect subcontractor availability and material lead times. While weather rarely stops a project for long, it can still create schedule shifts that matter on a custom build. Homeowners should ask how the builder plans around wet-season work, material ordering, and inspection timing. A good schedule includes seasonal risk, especially for site work and exterior milestones.",
+      "@type": "Answer",
+      "description": "Weather in Los Angeles is generally favorable for construction, but season still affects scheduling, subcontractor availability, and some site activities. Rain can delay grading, excavation, and exterior work, especially on hillside sites.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Los Angeles weather is usually less disruptive than in colder or wetter markets, but it still affects construction timing. Rain can slow excavation, grading, concrete placement, and exterior finishes, especially on hillside or clay-heavy lots. Summer demand can also affect subcontractor availability and material lead times. While weather rarely stops a project for long, it can still create schedule shifts that matter on a custom build. Homeowners should ask how the builder plans around wet-season work, material ordering, and inspection timing. A good schedule includes seasonal risk, especially for site work and exterior milestones.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Weather in Los Angeles is generally favorable for construction, but season still affects scheduling, subcontractor availability, and some site activities. Rain "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-do-if-a-site-evaluation-shows-the-lot-is-not-ideal",
+  "name": "What if the evaluation finds the lot is not ideal?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do if a site evaluation shows the lot is not ideal?",
+    "text": "What should I do if a site evaluation shows the lot is not ideal?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the evaluation finds major constraints, the goal is not to force the project forward blindly. First, separate fixable issues from structural deal-breakers. Some problems, such as limited access or utility upgrades, may be manageable with a revised design and a better budget. Others, such as severe slope instability or highly restrictive site geometry, may make the site too expensive for the intended project. The evaluation should help the owner decide whether to proceed, renegotiate, redesign, or abandon the site. That decision is much easier when the report is specific about which risks are technical, which are financial, and which are likely to affect permitting or schedule.",
+      "@type": "Answer",
+      "description": "If a site evaluation shows major constraints, the next step is usually to redesign the project, bring in technical specialists, negotiate the purchase, or walk away. The report should help distinguish fixable issues from problems that make the site too costly or too risky.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the evaluation finds major constraints, the goal is not to force the project forward blindly. First, separate fixable issues from structural deal-breakers. Some problems, such as limited access or utility upgrades, may be manageable with a revised design and a better budget. Others, such as severe slope instability or highly restrictive site geometry, may make the site too expensive for the intended project. The evaluation should help the owner decide whether to proceed, renegotiate, redesign, or abandon the site. That decision is much easier when the report is specific about which risks are technical, which are financial, and which are likely to affect permitting or schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a site evaluation shows major constraints, the next step is usually to redesign the project, bring in technical specialists, negotiate the purchase, or walk "
+}

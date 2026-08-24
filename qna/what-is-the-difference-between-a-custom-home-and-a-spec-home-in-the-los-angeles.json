@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-custom-home-and-a-spec-home-in-the-los-angeles",
+  "name": "What is the difference between a custom home and a spec home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a custom home and a spec home in the Los Angeles market?",
+    "text": "What is the difference between a custom home and a spec home in the Los Angeles market?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A custom home is planned for a specific owner and site, so the layout, finishes, and design details can be tailored to the way you want to live. A spec home is built without a committed buyer and is usually designed to appeal to a broader market, which often means fewer customization choices and a more standardized finish package. In Los Angeles, the difference matters because lot constraints, permitting, and neighborhood expectations can make true customization more valuable. Custom homes usually take longer because they require more design coordination and decision-making. Spec homes can be faster to deliver, but they may not fit your exact needs. If you want a home that maximizes a difficult lot or reflects a very specific design vision, custom construction is usually the better path.",
+      "@type": "Answer",
+      "description": "A custom home is designed for a specific owner and lot, with more control over layout, materials, and finishes. A spec home is built without a buyer already in place, often with fewer customization options and a shorter path to completion. Custom homes usually take longer and cost more to design.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A custom home is planned for a specific owner and site, so the layout, finishes, and design details can be tailored to the way you want to live. A spec home is built without a committed buyer and is usually designed to appeal to a broader market, which often means fewer customization choices and a more standardized finish package. In Los Angeles, the difference matters because lot constraints, permitting, and neighborhood expectations can make true customization more valuable. Custom homes usually take longer because they require more design coordination and decision-making. Spec homes can be faster to deliver, but they may not fit your exact needs. If you want a home that maximizes a difficult lot or reflects a very specific design vision, custom construction is usually the better path.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A custom home is designed for a specific owner and lot, with more control over layout, materials, and finishes. A spec home is built without a buyer already in "
+}

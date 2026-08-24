@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-exact-steps-from-buying-a-lot-to-moving-into-a-newly-built-home-in",
+  "name": "How does the new home construction process work from lot to move-in?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the exact steps from buying a lot to moving into a newly built home in Los Angeles?",
+    "text": "What are the exact steps from buying a lot to moving into a newly built home in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The new home construction process usually begins with lot feasibility, which checks zoning, setbacks, utilities, access, and site conditions before full design begins. After that comes concept design, architectural plans, structural engineering, and any required reports such as soils or surveys. Once plans are ready, they move into permit review and corrections. After permits are issued, the builder prepares the site, handles demolition if needed, and starts grading and foundation work. The home then moves through framing, roof, rough plumbing, rough electrical, HVAC, insulation, drywall, interior finishes, cabinetry, fixtures, landscaping, and final inspections. The most common mistake is waiting to think about budget until the construction phase, when design decisions are already locked in. A better approach is to confirm scope, allowances, and contingency before permit submission so changes are less expensive later.",
+      "@type": "Answer",
+      "description": "The process usually goes from lot review to feasibility, design, engineering, permits, site prep, foundation, framing, rough utilities, insulation, finishes, inspections, and final approval. Each phase can reveal new costs or design changes. The earliest feasibility and permit steps are often the most important.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The new home construction process usually begins with lot feasibility, which checks zoning, setbacks, utilities, access, and site conditions before full design begins. After that comes concept design, architectural plans, structural engineering, and any required reports such as soils or surveys. Once plans are ready, they move into permit review and corrections. After permits are issued, the builder prepares the site, handles demolition if needed, and starts grading and foundation work. The home then moves through framing, roof, rough plumbing, rough electrical, HVAC, insulation, drywall, interior finishes, cabinetry, fixtures, landscaping, and final inspections. The most common mistake is waiting to think about budget until the construction phase, when design decisions are already locked in. A better approach is to confirm scope, allowances, and contingency before permit submission so changes are less expensive later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The process usually goes from lot review to feasibility, design, engineering, permits, site prep, foundation, framing, rough utilities, insulation, finishes, in"
+}

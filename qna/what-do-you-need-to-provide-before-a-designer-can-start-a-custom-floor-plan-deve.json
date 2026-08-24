@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-do-you-need-to-provide-before-a-designer-can-start-a-custom-floor-plan-deve",
+  "name": "What information is needed to start a custom floor plan?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What do you need to provide before a designer can start a custom floor-plan development project?",
+    "text": "What do you need to provide before a designer can start a custom floor-plan development project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "To start a custom floor-plan project, the design team needs enough information to understand both your lifestyle goals and the physical limits of the property. At minimum, expect to provide the lot size, existing site conditions, survey or plot plan, neighborhood context, budget, target square footage, bedroom and bathroom count, and any special requirements such as ADU integration, guest suites, office space, gym, or multigenerational living. Photos of the lot and nearby homes are also helpful. In Los Angeles-area cities, it is especially important to share known constraints early, such as hillside conditions, access limitations, narrow lots, easements, parking needs, and desired setbacks. If you already have inspiration images or a rough sketch, those can help the designer translate your style preferences into a workable layout. A strong floor-plan process starts with clarity. When homeowners skip this step, the first design often misses the mark, which adds time and cost later.",
+      "@type": "Answer",
+      "description": "A designer usually needs the lot dimensions, survey or plot map, budget, desired square footage, room list, number of bedrooms and bathrooms, site photos, and any zoning constraints. The more complete the information, the faster the first concept can be developed and the fewer major revisions will be needed later.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "To start a custom floor-plan project, the design team needs enough information to understand both your lifestyle goals and the physical limits of the property. At minimum, expect to provide the lot size, existing site conditions, survey or plot plan, neighborhood context, budget, target square footage, bedroom and bathroom count, and any special requirements such as ADU integration, guest suites, office space, gym, or multigenerational living. Photos of the lot and nearby homes are also helpful. In Los Angeles-area cities, it is especially important to share known constraints early, such as hillside conditions, access limitations, narrow lots, easements, parking needs, and desired setbacks. If you already have inspiration images or a rough sketch, those can help the designer translate your style preferences into a workable layout. A strong floor-plan process starts with clarity. When homeowners skip this step, the first design often misses the mark, which adds time and cost later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A designer usually needs the lot dimensions, survey or plot map, budget, desired square footage, room list, number of bedrooms and bathrooms, site photos, and a"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-custom-floor-plans-account-for-trees-easements-sewer-lines-or-utility-con",
+  "name": "Can you design around existing trees, easements, or utility lines?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do custom floor plans account for trees, easements, sewer lines, or utility conflicts on the lot?",
+    "text": "How do custom floor plans account for trees, easements, sewer lines, or utility conflicts on the lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, the design should account for existing site constraints from the start. Easements, utility lines, sewer locations, mature trees, and access corridors can all limit where the structure can sit and how deep foundations or service runs can go. Ignoring those constraints early often leads to redesign later, which is slower and more expensive. A smart custom floor-plan process uses a survey and site review to identify conflicts before the layout is finalized. For example, a tree may need protection, a sewer line may affect the footprint, or an easement may reduce buildable area. These constraints do not automatically kill the project, but they do shape the best design solution. The goal is to create a plan that works with the site instead of fighting it.",
+      "@type": "Answer",
+      "description": "Yes. A custom floor plan can and should be adjusted to respect easements, mature trees, utility routes, and access restrictions. These site features often determine where the building can go and may affect room placement, foundation design, and outdoor layout.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, the design should account for existing site constraints from the start. Easements, utility lines, sewer locations, mature trees, and access corridors can all limit where the structure can sit and how deep foundations or service runs can go. Ignoring those constraints early often leads to redesign later, which is slower and more expensive. A smart custom floor-plan process uses a survey and site review to identify conflicts before the layout is finalized. For example, a tree may need protection, a sewer line may affect the footprint, or an easement may reduce buildable area. These constraints do not automatically kill the project, but they do shape the best design solution. The goal is to create a plan that works with the site instead of fighting it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A custom floor plan can and should be adjusted to respect easements, mature trees, utility routes, and access restrictions. These site features often deter"
+}

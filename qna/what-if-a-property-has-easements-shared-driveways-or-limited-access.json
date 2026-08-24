@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-a-property-has-easements-shared-driveways-or-limited-access",
+  "name": "What if the property has easements or shared access?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if a property has easements, shared driveways, or limited access?",
+    "text": "What if a property has easements, shared driveways, or limited access?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Easements and shared access are classic hidden constraints. A site may look large enough for a custom home, but recorded easements can prevent building in key areas or force a driveway, utility line, or drainage feature into a difficult location. Shared access can also create logistics issues for construction vehicles, staging, and long-term maintenance. In dense Los Angeles neighborhoods, these problems are especially important because lots are often narrow and improvements must fit tightly within the parcel. A thorough site evaluation should flag any visible or recorded access issues early so the owner can decide whether the project is worth pursuing or whether a redesign is needed to work around the constraint.",
+      "@type": "Answer",
+      "description": "Easements and shared access can limit where a house, driveway, retaining wall, or utility line can go. They may also reduce the usable building area and create coordination issues with neighbors or utility providers, so they should be identified early in the site evaluation.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Easements and shared access are classic hidden constraints. A site may look large enough for a custom home, but recorded easements can prevent building in key areas or force a driveway, utility line, or drainage feature into a difficult location. Shared access can also create logistics issues for construction vehicles, staging, and long-term maintenance. In dense Los Angeles neighborhoods, these problems are especially important because lots are often narrow and improvements must fit tightly within the parcel. A thorough site evaluation should flag any visible or recorded access issues early so the owner can decide whether the project is worth pursuing or whether a redesign is needed to work around the constraint.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Easements and shared access can limit where a house, driveway, retaining wall, or utility line can go. They may also reduce the usable building area and create "
+}

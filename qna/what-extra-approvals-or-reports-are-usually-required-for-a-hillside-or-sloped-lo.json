@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-extra-approvals-or-reports-are-usually-required-for-a-hillside-or-sloped-lo",
+  "name": "What approvals are needed for a hillside or sloped lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What extra approvals or reports are usually required for a hillside or sloped lot in the Los Angeles area?",
+    "text": "What extra approvals or reports are usually required for a hillside or sloped lot in the Los Angeles area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside and sloped lots usually require more than a standard building permit package. In many cases, the project will need geotechnical testing, grading plans, drainage design, and structural engineering that accounts for soil movement and slope stability. Depending on the site, these requirements can create additional review cycles and more pre-construction costs. The practical issue is that the home design may need to adapt to the site rather than forcing the site to fit the design. That can affect foundation type, retaining walls, driveway design, and even room placement. Before committing to a hillside project, ask for a feasibility review that includes these site-specific factors. If the lot is steep or access is limited, treat site preparation as a major budget driver rather than a minor early cost.",
+      "@type": "Answer",
+      "description": "Hillside or sloped lots often require additional engineering, geotechnical reports, grading plans, drainage design, and sometimes more detailed plan review. These requirements can affect both the cost and the schedule before construction starts. Steeper lots usually need more site investigation and structural coordination.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside and sloped lots usually require more than a standard building permit package. In many cases, the project will need geotechnical testing, grading plans, drainage design, and structural engineering that accounts for soil movement and slope stability. Depending on the site, these requirements can create additional review cycles and more pre-construction costs. The practical issue is that the home design may need to adapt to the site rather than forcing the site to fit the design. That can affect foundation type, retaining walls, driveway design, and even room placement. Before committing to a hillside project, ask for a feasibility review that includes these site-specific factors. If the lot is steep or access is limited, treat site preparation as a major budget driver rather than a minor early cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hillside or sloped lots often require additional engineering, geotechnical reports, grading plans, drainage design, and sometimes more detailed plan review. The"
+}

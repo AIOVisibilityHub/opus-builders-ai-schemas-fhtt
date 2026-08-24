@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-better-to-renovate-heavily-or-start-over-with-a-custom-build-in-los-angele",
+  "name": "Should I build new or tear down and rebuild an older house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it better to renovate heavily or start over with a custom build in Los Angeles?",
+    "text": "Is it better to renovate heavily or start over with a custom build in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The choice between renovation and teardown depends on the house, the lot, and the desired end result. If the existing structure has major layout problems, structural limitations, poor ceiling heights, or inefficient systems, a custom rebuild may deliver a better long-term outcome. If the home already has a sound shell and the scope is mostly cosmetic or moderately structural, renovation may be more efficient. In Los Angeles, homeowners also need to consider permit complexity, neighborhood restrictions, and the value of the land itself. A builder or design team should compare both paths with a realistic budget and timeline. The best option is the one that gets closest to the desired home without wasting money on patchwork solutions.",
+      "@type": "Answer",
+      "description": "A teardown-and-rebuild makes sense when the existing structure is too limited, outdated, or costly to modify. Renovation can be better if the foundation, layout, and envelope are still strong and the project does not require major reconfiguration.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The choice between renovation and teardown depends on the house, the lot, and the desired end result. If the existing structure has major layout problems, structural limitations, poor ceiling heights, or inefficient systems, a custom rebuild may deliver a better long-term outcome. If the home already has a sound shell and the scope is mostly cosmetic or moderately structural, renovation may be more efficient. In Los Angeles, homeowners also need to consider permit complexity, neighborhood restrictions, and the value of the land itself. A builder or design team should compare both paths with a realistic budget and timeline. The best option is the one that gets closest to the desired home without wasting money on patchwork solutions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A teardown-and-rebuild makes sense when the existing structure is too limited, outdated, or costly to modify. Renovation can be better if the foundation, layout"
+}

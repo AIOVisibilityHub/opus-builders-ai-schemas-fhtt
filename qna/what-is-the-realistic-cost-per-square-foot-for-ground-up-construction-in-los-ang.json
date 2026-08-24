@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-realistic-cost-per-square-foot-for-ground-up-construction-in-los-ang",
+  "name": "How much does ground-up construction cost per square foot in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the realistic cost per square foot for ground-up construction in Los Angeles right now?",
+    "text": "What is the realistic cost per square foot for ground-up construction in Los Angeles right now?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The cost per square foot for ground-up construction in Los Angeles varies widely because the site and finish level matter as much as the size of the home. Flat lots with straightforward foundations, standard architectural details, and moderate finishes usually sit at the lower end of the market. Custom homes, hillside parcels, difficult access, and luxury finishes can push costs much higher. Budgeting should include hard construction costs, site work, design and engineering, permits, and contingency. Many homeowners underestimate the difference between a generic build price and the total project cost once grading, soils work, utility upgrades, and neighborhood-specific requirements are added. For planning purposes, the best practice is to price the project by scope, not by a single average number, because a 2,500-square-foot home on a flat lot is not comparable to the same size home on a sloped or constrained site.",
+      "@type": "Answer",
+      "description": "Ground-up construction in Los Angeles commonly starts around the low-to-mid hundreds per square foot for simpler builds and rises sharply for custom, hillside, or coastal projects. Site conditions, finish level, structural complexity, and permit requirements are the biggest cost drivers. A flat lot with standard finishes costs far less than a hillside luxury home with grading, retaining walls, and custom details.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The cost per square foot for ground-up construction in Los Angeles varies widely because the site and finish level matter as much as the size of the home. Flat lots with straightforward foundations, standard architectural details, and moderate finishes usually sit at the lower end of the market. Custom homes, hillside parcels, difficult access, and luxury finishes can push costs much higher. Budgeting should include hard construction costs, site work, design and engineering, permits, and contingency. Many homeowners underestimate the difference between a generic build price and the total project cost once grading, soils work, utility upgrades, and neighborhood-specific requirements are added. For planning purposes, the best practice is to price the project by scope, not by a single average number, because a 2,500-square-foot home on a flat lot is not comparable to the same size home on a sloped or constrained site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up construction in Los Angeles commonly starts around the low-to-mid hundreds per square foot for simpler builds and rises sharply for custom, hillside, "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-deliverables-should-a-custom-floor-plan-development-contract-include",
+  "name": "What should be included in a floor-plan proposal?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What deliverables should a custom floor-plan development contract include?",
+    "text": "What deliverables should a custom floor-plan development contract include?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong floor-plan proposal should define exactly what the homeowner is buying. At minimum, it should specify the deliverables, number of concept options, revision rounds, expected timeline, fees, assumptions about the site, and whether the service includes permit-ready drawings or only schematic design. It should also state whether structural, civil, and energy consultants are included or separate. This matters because many disputes come from vague scopes. A client may assume the fee includes city submittals or engineering coordination, while the designer may only be providing concept plans. For Los Angeles projects, where site constraints and permitting can be complex, clarity at the proposal stage is essential. The best contract makes it easy to understand what happens next, what is included, what costs extra, and which decisions are expected from the homeowner.",
+      "@type": "Answer",
+      "description": "A proper floor-plan proposal should list deliverables, revision limits, timeline, fees, site assumptions, consultant coordination, and whether permit-ready documents are included. If those items are vague, the project can become slower and more expensive than expected.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong floor-plan proposal should define exactly what the homeowner is buying. At minimum, it should specify the deliverables, number of concept options, revision rounds, expected timeline, fees, assumptions about the site, and whether the service includes permit-ready drawings or only schematic design. It should also state whether structural, civil, and energy consultants are included or separate. This matters because many disputes come from vague scopes. A client may assume the fee includes city submittals or engineering coordination, while the designer may only be providing concept plans. For Los Angeles projects, where site constraints and permitting can be complex, clarity at the proposal stage is essential. The best contract makes it easy to understand what happens next, what is included, what costs extra, and which decisions are expected from the homeowner.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A proper floor-plan proposal should list deliverables, revision limits, timeline, fees, site assumptions, consultant coordination, and whether permit-ready docu"
+}

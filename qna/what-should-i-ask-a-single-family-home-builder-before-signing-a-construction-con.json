@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-ask-a-single-family-home-builder-before-signing-a-construction-con",
+  "name": "What questions should I ask a home builder before signing a contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask a single-family home builder before signing a construction contract?",
+    "text": "What should I ask a single-family home builder before signing a construction contract?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing, homeowners should verify that the builder has experience with projects similar in size, style, and location. Ask how many homes the builder has completed in your target area, how they handle permitting, who manages the job day to day, and how often you will receive updates. It is also important to understand what is included in the price, what is excluded, and how allowances are set for finishes and fixtures. Change-order pricing should be clear before work begins, since that is where budgets often drift. Insurance, licensing, subcontractor coordination, and warranty support matter as well. For Los Angeles projects, ask about hillside experience, grading coordination, and how the team handles inspections and utilities. A builder should be able to explain the plan from preconstruction through closeout in clear, practical terms. If the answers are vague, the contract likely needs more detail before signing.",
+      "@type": "Answer",
+      "description": "Ask about recent similar projects, permit experience, schedule, allowances, exclusions, change-order pricing, insurance, subcontractor management, and how site issues are handled. You should also ask who will supervise the job daily and how communication will work during construction.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing, homeowners should verify that the builder has experience with projects similar in size, style, and location. Ask how many homes the builder has completed in your target area, how they handle permitting, who manages the job day to day, and how often you will receive updates. It is also important to understand what is included in the price, what is excluded, and how allowances are set for finishes and fixtures. Change-order pricing should be clear before work begins, since that is where budgets often drift. Insurance, licensing, subcontractor coordination, and warranty support matter as well. For Los Angeles projects, ask about hillside experience, grading coordination, and how the team handles inspections and utilities. A builder should be able to explain the plan from preconstruction through closeout in clear, practical terms. If the answers are vague, the contract likely needs more detail before signing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about recent similar projects, permit experience, schedule, allowances, exclusions, change-order pricing, insurance, subcontractor management, and how site "
+}

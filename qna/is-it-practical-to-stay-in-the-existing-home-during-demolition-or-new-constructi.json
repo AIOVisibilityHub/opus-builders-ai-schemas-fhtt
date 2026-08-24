@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-practical-to-stay-in-the-existing-home-during-demolition-or-new-constructi",
+  "name": "Can you build a ground-up home while living on the property?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it practical to stay in the existing home during demolition or new construction on the same lot?",
+    "text": "Is it practical to stay in the existing home during demolition or new construction on the same lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Living on-site during a full ground-up project is usually unrealistic once demolition or major structural work begins. The property typically becomes an active construction zone with heavy equipment, material deliveries, open trenches, utility interruptions, and safety hazards. Even when part of a structure remains, the process can make daily living uncomfortable or unsafe. The only time temporary occupancy may work is if the project is phased in a very controlled way and the builder has planned for access, protection, and utility continuity. For most Los Angeles teardown rebuilds, a vacant site is the practical assumption. Owners should plan housing arrangements early so the move-out timing aligns with demo, excavation, and the start of construction.",
+      "@type": "Answer",
+      "description": "Usually not during demolition, and often not practical during major ground-up construction because access, safety, dust, noise, and utility shutdowns become difficult to manage. If an existing structure remains, temporary living may be possible only with a carefully phased plan. Most full tear-down rebuilds require the property to be vacant.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Living on-site during a full ground-up project is usually unrealistic once demolition or major structural work begins. The property typically becomes an active construction zone with heavy equipment, material deliveries, open trenches, utility interruptions, and safety hazards. Even when part of a structure remains, the process can make daily living uncomfortable or unsafe. The only time temporary occupancy may work is if the project is phased in a very controlled way and the builder has planned for access, protection, and utility continuity. For most Los Angeles teardown rebuilds, a vacant site is the practical assumption. Owners should plan housing arrangements early so the move-out timing aligns with demo, excavation, and the start of construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Usually not during demolition, and often not practical during major ground-up construction because access, safety, dust, noise, and utility shutdowns become dif"
+}

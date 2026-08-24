@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-realistic-to-stay-in-the-existing-house-on-the-lot-while-a-new-home-is-bei",
+  "name": "Can I live on the property during new home construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it realistic to stay in the existing house on the lot while a new home is being built?",
+    "text": "Is it realistic to stay in the existing house on the lot while a new home is being built?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can live on the property during new home construction depends on the project setup and safety requirements. If the existing structure stays in place and utilities can be safely separated, temporary occupancy may be possible. But if the home is being demolished, extensively rebuilt, or surrounded by heavy site work, staying on-site is usually not realistic. Construction traffic, noise, dust, utility shutoffs, and safety hazards make daily living difficult even when it is technically possible. Before planning to remain on the property, ask the builder how access, staging, water, power, and emergency routes will be handled. In many projects, the practical answer is that you need alternative housing for at least the most disruptive phases.",
+      "@type": "Answer",
+      "description": "Living on the property during new construction is sometimes possible, but it depends on demolition plans, safety, access, and utility separation. If the existing house must be torn down or major site work is needed, staying on-site is usually not practical. Safety and access often decide the issue.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can live on the property during new home construction depends on the project setup and safety requirements. If the existing structure stays in place and utilities can be safely separated, temporary occupancy may be possible. But if the home is being demolished, extensively rebuilt, or surrounded by heavy site work, staying on-site is usually not realistic. Construction traffic, noise, dust, utility shutoffs, and safety hazards make daily living difficult even when it is technically possible. Before planning to remain on the property, ask the builder how access, staging, water, power, and emergency routes will be handled. In many projects, the practical answer is that you need alternative housing for at least the most disruptive phases.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Living on the property during new construction is sometimes possible, but it depends on demolition plans, safety, access, and utility separation. If the existin"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-is-custom-floor-plan-development-different-for-a-major-remodel-or-addition",
+  "name": "Can you develop a floor plan for a remodel instead of a new build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is custom floor-plan development different for a major remodel or addition?",
+    "text": "How is custom floor-plan development different for a major remodel or addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, custom floor-plan development is often used for major remodels and additions, not just new construction. The difference is that the design must work around existing walls, foundations, utilities, and structural elements that may remain in place. That means the floor-plan strategy has to balance what the homeowner wants with what is realistic to change. Remodel projects often succeed when the plan focuses on circulation, room function, and the parts of the house that create the most friction in daily use. The best layouts do not simply add space; they make the existing home work better. In Los Angeles, remodel floor plans can be especially challenging when additions must fit on tight lots or when the existing home has awkward geometry. A strong design team will identify which parts of the structure should be kept, opened up, or replaced before finalizing the new layout.",
+      "@type": "Answer",
+      "description": "Yes. Remodel floor plans must work around existing structure, utilities, and the parts of the home that stay in place, which makes the layout more constrained than a new build. Good remodel planning focuses on improving flow without creating unnecessary demolition.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, custom floor-plan development is often used for major remodels and additions, not just new construction. The difference is that the design must work around existing walls, foundations, utilities, and structural elements that may remain in place. That means the floor-plan strategy has to balance what the homeowner wants with what is realistic to change. Remodel projects often succeed when the plan focuses on circulation, room function, and the parts of the house that create the most friction in daily use. The best layouts do not simply add space; they make the existing home work better. In Los Angeles, remodel floor plans can be especially challenging when additions must fit on tight lots or when the existing home has awkward geometry. A strong design team will identify which parts of the structure should be kept, opened up, or replaced before finalizing the new layout.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Remodel floor plans must work around existing structure, utilities, and the parts of the home that stay in place, which makes the layout more constrained t"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-rebuild-bigger-than-the-existing-house-after-a-teardown-in-los-angeles-or",
+  "name": "Can I rebuild bigger than the house that was demolished in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I rebuild bigger than the existing house after a teardown in Los Angeles or nearby cities?",
+    "text": "Can I rebuild bigger than the existing house after a teardown in Los Angeles or nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A teardown and rebuild project can only go as large as the site’s zoning, planning overlays, and physical constraints allow. In Los Angeles-area neighborhoods, the biggest limiting factors are usually FAR, setbacks, height, lot coverage, access, hillside rules, and any special district requirements. If the existing home was nonconforming, that does not mean the replacement home can ignore current standards. The right first step is a zoning and site analysis before design begins. That review should confirm what can be built by-right, what needs discretionary approval, and whether the project is better suited to a full rebuild or a major remodel. Homeowners should also check whether the proposed footprint, second story, basement, or attached garage changes grading, drainage, or fire access requirements. A builder or designer who understands local entitlement rules can prevent expensive redesigns after demolition plans are already underway.",
+      "@type": "Answer",
+      "description": "Sometimes, but not automatically. Rebuild size is limited by zoning rules such as floor area ratio, lot coverage, setbacks, height limits, hillside or coastal overlays, and nonconforming status. A teardown does not reset those limits, so the new house may need to stay close to what the lot legally allows rather than what the old house once had.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A teardown and rebuild project can only go as large as the site’s zoning, planning overlays, and physical constraints allow. In Los Angeles-area neighborhoods, the biggest limiting factors are usually FAR, setbacks, height, lot coverage, access, hillside rules, and any special district requirements. If the existing home was nonconforming, that does not mean the replacement home can ignore current standards. The right first step is a zoning and site analysis before design begins. That review should confirm what can be built by-right, what needs discretionary approval, and whether the project is better suited to a full rebuild or a major remodel. Homeowners should also check whether the proposed footprint, second story, basement, or attached garage changes grading, drainage, or fire access requirements. A builder or designer who understands local entitlement rules can prevent expensive redesigns after demolition plans are already underway.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but not automatically. Rebuild size is limited by zoning rules such as floor area ratio, lot coverage, setbacks, height limits, hillside or coastal o"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-i-want-to-change-the-floor-plan-or-finishes-after-new-home-const",
+  "name": "What if construction starts and the design needs to change?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if I want to change the floor plan or finishes after new home construction has already started?",
+    "text": "What happens if I want to change the floor plan or finishes after new home construction has already started?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If you change the floor plan or finishes after construction has started, the builder will usually issue a change order that adjusts both cost and timing. Small finish changes can often be handled fairly quickly, but structural changes are much more disruptive because they may require revised plans, permit updates, or demolition of work already completed. The impact is usually greatest when decisions are changed after framing or rough-ins have begun. To avoid expensive revisions, confirm major design choices before permit submission and lock selections early wherever possible. If you are still undecided on some items, ask the builder which choices can remain flexible and which need to be finalized before construction begins. That simple distinction can save time and protect the budget.",
+      "@type": "Answer",
+      "description": "Changes after construction starts usually trigger a change order, which can increase cost and delay the schedule. Structural changes are more expensive than finish changes because they may require revised drawings, new permits, or rework already completed. The earlier the change is made, the lower the impact.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If you change the floor plan or finishes after construction has started, the builder will usually issue a change order that adjusts both cost and timing. Small finish changes can often be handled fairly quickly, but structural changes are much more disruptive because they may require revised plans, permit updates, or demolition of work already completed. The impact is usually greatest when decisions are changed after framing or rough-ins have begun. To avoid expensive revisions, confirm major design choices before permit submission and lock selections early wherever possible. If you are still undecided on some items, ask the builder which choices can remain flexible and which need to be finalized before construction begins. That simple distinction can save time and protect the budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Changes after construction starts usually trigger a change order, which can increase cost and delay the schedule. Structural changes are more expensive than fin"
+}

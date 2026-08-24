@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-checked-during-a-construction-site-evaluation-for-a-custom-home-project",
+  "name": "What is checked during a site evaluation for a custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is checked during a construction site evaluation for a custom home project?",
+    "text": "What is checked during a construction site evaluation for a custom home project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For a custom home, the evaluation should identify the site constraints that shape the design before architectural plans become too advanced. That includes lot width and depth, buildable envelope, setbacks, easements, driveway access, fire-truck access, slope, drainage flow, nearby structures, and any obvious soil or retaining wall concerns. In hillside or infill neighborhoods, small site problems can drive major changes to foundation type, grading quantity, and construction cost. The best evaluations also note neighborhood-specific issues such as privacy, views, tree constraints, and staging limitations for trades and material delivery. This kind of early review helps owners avoid redesigns and keeps the project aligned with what the lot can realistically support.",
+      "@type": "Answer",
+      "description": "A custom home site evaluation usually checks lot dimensions, setbacks, slope, drainage, utilities, access for trades, retaining wall needs, soil conditions, zoning limits, and any visible issues that could affect foundation design or permit approval. It also helps identify whether the design should be adjusted before plans are drawn.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For a custom home, the evaluation should identify the site constraints that shape the design before architectural plans become too advanced. That includes lot width and depth, buildable envelope, setbacks, easements, driveway access, fire-truck access, slope, drainage flow, nearby structures, and any obvious soil or retaining wall concerns. In hillside or infill neighborhoods, small site problems can drive major changes to foundation type, grading quantity, and construction cost. The best evaluations also note neighborhood-specific issues such as privacy, views, tree constraints, and staging limitations for trades and material delivery. This kind of early review helps owners avoid redesigns and keeps the project aligned with what the lot can realistically support.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A custom home site evaluation usually checks lot dimensions, setbacks, slope, drainage, utilities, access for trades, retaining wall needs, soil conditions, zon"
+}

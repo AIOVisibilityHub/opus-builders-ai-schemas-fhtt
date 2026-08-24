@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-there-are-unpermitted-additions-on-the-house-before-a-teardown",
+  "name": "What if the old house has unpermitted additions?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if there are unpermitted additions on the house before a teardown?",
+    "text": "What happens if there are unpermitted additions on the house before a teardown?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Unpermitted additions are a common complication in teardown projects. If part of the house was built without permits, that area may not be recognized as legal existing square footage, which can affect the rebuild strategy. The owner may need to document the addition, legalize it if possible, or remove it as part of the demolition plan. These issues can affect appraisal, plan review, and whether the rebuild can use the addition as a basis for design. In some cases, unpermitted work also reveals hidden structural or code problems that make the teardown path more attractive. Homeowners should disclose the condition early to the design and construction team so they can assess the risk honestly. Waiting until late in the process can create major delays and unexpected costs. A good preconstruction review will treat the addition as a legal and physical issue, not just a cosmetic one.",
+      "@type": "Answer",
+      "description": "Unpermitted additions can complicate a rebuild because they may not count as legal existing area and may need to be removed, documented, or legalized before the project moves forward. They can also affect surveys, inspections, financing, and what the city recognizes during plan review.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Unpermitted additions are a common complication in teardown projects. If part of the house was built without permits, that area may not be recognized as legal existing square footage, which can affect the rebuild strategy. The owner may need to document the addition, legalize it if possible, or remove it as part of the demolition plan. These issues can affect appraisal, plan review, and whether the rebuild can use the addition as a basis for design. In some cases, unpermitted work also reveals hidden structural or code problems that make the teardown path more attractive. Homeowners should disclose the condition early to the design and construction team so they can assess the risk honestly. Waiting until late in the process can create major delays and unexpected costs. A good preconstruction review will treat the addition as a legal and physical issue, not just a cosmetic one.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Unpermitted additions can complicate a rebuild because they may not count as legal existing area and may need to be removed, documented, or legalized before the"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-vacant-lot-in-los-angeles-be-developed-without-adding-parking-or-is-parkin",
+  "name": "Can I develop a vacant lot without parking?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a vacant lot in Los Angeles be developed without adding parking, or is parking always required?",
+    "text": "Can a vacant lot in Los Angeles be developed without adding parking, or is parking always required?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking requirements vary widely by project type and location. Some sites may qualify for reduced parking, while others still need on-site spaces or a carefully justified alternative layout. On a small vacant lot, parking can be one of the biggest design constraints because it competes with building footprint, landscaping, and access. A project that ignores parking too early may need major redesign later. The right approach is to check the applicable standards before setting the building massing. In some cases, the best design solution is to integrate parking into the architecture from the beginning so the project feels cohesive and efficient. In others, the parcel may be better suited for a smaller program that avoids forcing too much parking onto a tight lot. Either way, parking should be treated as part of feasibility, not an afterthought.",
+      "@type": "Answer",
+      "description": "Parking is not always required in the same way for every lot or project, but many developments still need to address parking based on zoning, unit count, and site conditions. The answer depends on the exact location, use, and current rules.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking requirements vary widely by project type and location. Some sites may qualify for reduced parking, while others still need on-site spaces or a carefully justified alternative layout. On a small vacant lot, parking can be one of the biggest design constraints because it competes with building footprint, landscaping, and access. A project that ignores parking too early may need major redesign later. The right approach is to check the applicable standards before setting the building massing. In some cases, the best design solution is to integrate parking into the architecture from the beginning so the project feels cohesive and efficient. In others, the parcel may be better suited for a smaller program that avoids forcing too much parking onto a tight lot. Either way, parking should be treated as part of feasibility, not an afterthought.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking is not always required in the same way for every lot or project, but many developments still need to address parking based on zoning, unit count, and si"
+}

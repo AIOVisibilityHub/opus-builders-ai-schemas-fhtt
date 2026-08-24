@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-are-required-for-a-demolition-and-rebuild-project-in-los-angeles-or",
+  "name": "What permits are needed for a tear-down and rebuild in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits are required for a demolition and rebuild project in Los Angeles or nearby cities?",
+    "text": "What permits are required for a demolition and rebuild project in Los Angeles or nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A teardown and rebuild usually involves more than one permit path. At minimum, homeowners should expect a demolition permit and a new-construction permit. Many projects also require separate approvals for electrical, plumbing, mechanical, grading, retaining walls, sewer work, and hauling. If the home is older, pre-demolition inspections for asbestos or lead-based materials may be needed. The permit list becomes more complex when the lot is in a hillside area, a coastal zone, a historic district, or a neighborhood with special planning overlays. In those cases, plan check can include additional structural, geotechnical, or environmental review. The safest approach is to confirm the full permit matrix before demo is scheduled. That prevents work stoppages, redesign costs, and utility delays. Homeowners should also verify whether temporary fencing, street use, or dumpster placement requires separate local approvals.",
+      "@type": "Answer",
+      "description": "Most projects need a demolition permit, a new-construction building permit, and often separate mechanical, electrical, plumbing, grading, or hauling approvals. Depending on the property, there may also be hazmat testing, utility disconnect sign-offs, and extra plan review for hillside, coastal, or special overlay areas.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A teardown and rebuild usually involves more than one permit path. At minimum, homeowners should expect a demolition permit and a new-construction permit. Many projects also require separate approvals for electrical, plumbing, mechanical, grading, retaining walls, sewer work, and hauling. If the home is older, pre-demolition inspections for asbestos or lead-based materials may be needed. The permit list becomes more complex when the lot is in a hillside area, a coastal zone, a historic district, or a neighborhood with special planning overlays. In those cases, plan check can include additional structural, geotechnical, or environmental review. The safest approach is to confirm the full permit matrix before demo is scheduled. That prevents work stoppages, redesign costs, and utility delays. Homeowners should also verify whether temporary fencing, street use, or dumpster placement requires separate local approvals.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most projects need a demolition permit, a new-construction building permit, and often separate mechanical, electrical, plumbing, grading, or hauling approvals. "
+}

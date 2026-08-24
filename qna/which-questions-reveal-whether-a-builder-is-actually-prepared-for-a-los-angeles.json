@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-questions-reveal-whether-a-builder-is-actually-prepared-for-a-los-angeles",
+  "name": "What should you ask a contractor before signing a ground-up build contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which questions reveal whether a builder is actually prepared for a Los Angeles custom home project?",
+    "text": "Which questions reveal whether a builder is actually prepared for a Los Angeles custom home project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing a ground-up construction contract, the owner should understand exactly how the builder manages scope, pricing, schedule, and risk. The most important questions are about permit handling, exclusions, allowances, change-order pricing, site conditions, and how the builder communicates during construction. It also helps to ask for examples of similar homes in the same type of neighborhood or terrain, because a contractor who excels at flat-lot builds may not be the best fit for hillside or luxury custom work. The contract should be specific enough to show what is included, what is not, and how extras are approved. The goal is not just to hire a builder, but to reduce surprises during a project that can be complex and expensive if details are left vague.",
+      "@type": "Answer",
+      "description": "Ask who handles permitting, who prepares the schedule, what is excluded from the bid, how change orders are priced, and how site conditions are managed. Also ask for similar local projects, not just general experience. A strong ground-up contractor should explain budget controls, contingency planning, and the approval process clearly.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing a ground-up construction contract, the owner should understand exactly how the builder manages scope, pricing, schedule, and risk. The most important questions are about permit handling, exclusions, allowances, change-order pricing, site conditions, and how the builder communicates during construction. It also helps to ask for examples of similar homes in the same type of neighborhood or terrain, because a contractor who excels at flat-lot builds may not be the best fit for hillside or luxury custom work. The contract should be specific enough to show what is included, what is not, and how extras are approved. The goal is not just to hire a builder, but to reduce surprises during a project that can be complex and expensive if details are left vague.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask who handles permitting, who prepares the schedule, what is excluded from the bid, how change orders are priced, and how site conditions are managed. Also as"
+}

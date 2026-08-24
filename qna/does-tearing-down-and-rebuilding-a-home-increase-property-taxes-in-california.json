@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-tearing-down-and-rebuilding-a-home-increase-property-taxes-in-california",
+  "name": "Will a teardown trigger property tax reassessment in California?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does tearing down and rebuilding a home increase property taxes in California?",
+    "text": "Does tearing down and rebuilding a home increase property taxes in California?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A teardown and rebuild can affect property taxes because counties may reassess value when major new construction is completed. The exact outcome depends on how much of the existing structure remains, how the project is classified, and how the county evaluates the finished property. Homeowners should not assume a rebuild will preserve the same tax basis as the original home. This is especially important for luxury projects where the new home is much larger or higher in value than the previous one. Before finalizing the budget, owners should ask how the work may be assessed and what documentation will be used to describe the project. A tax professional or local property tax advisor can help clarify the likely impact. This is one of the most overlooked parts of teardown planning because it affects long-term carrying costs, not just construction cost.",
+      "@type": "Answer",
+      "description": "A teardown and rebuild can trigger reassessment because the property is treated differently once substantial new construction is added. The tax impact depends on how the county classifies the work, the scope of new construction, and whether any remaining structure is still considered the original home.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A teardown and rebuild can affect property taxes because counties may reassess value when major new construction is completed. The exact outcome depends on how much of the existing structure remains, how the project is classified, and how the county evaluates the finished property. Homeowners should not assume a rebuild will preserve the same tax basis as the original home. This is especially important for luxury projects where the new home is much larger or higher in value than the previous one. Before finalizing the budget, owners should ask how the work may be assessed and what documentation will be used to describe the project. A tax professional or local property tax advisor can help clarify the likely impact. This is one of the most overlooked parts of teardown planning because it affects long-term carrying costs, not just construction cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A teardown and rebuild can trigger reassessment because the property is treated differently once substantial new construction is added. The tax impact depends o"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-sloped-vacant-lot-change-the-design-cost-and-approval-process-for-dev",
+  "name": "How do slope lots affect vacant-lot development?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a sloped vacant lot change the design, cost, and approval process for development in Los Angeles?",
+    "text": "How does a sloped vacant lot change the design, cost, and approval process for development in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Slope is one of the biggest variables in vacant-lot development because it affects almost every part of the project. A sloped site may require a more detailed soils investigation, stepped foundations, engineered retaining walls, more complex drainage design, and sometimes a reduced building footprint. Access for excavation and concrete work can also be harder, which raises construction cost and schedule risk. In hillside areas, views and design value can be high, but so is the chance of unexpected grading, drainage, or structural work. Before buying or designing, the site should be reviewed for existing topography, cut-and-fill limits, retaining wall needs, and whether the proposed home or building can sit efficiently on the pad. If the lot is steep enough, the project may also need more coordination between architect, structural engineer, and civil engineer. A slope lot can still work well, but only if the budget and layout are based on the terrain from the beginning.",
+      "@type": "Answer",
+      "description": "A sloped vacant lot often requires more grading, retaining walls, drainage work, and geotechnical review than a flat site. Slope can reduce the buildable area, increase foundation cost, and trigger stricter design or access requirements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Slope is one of the biggest variables in vacant-lot development because it affects almost every part of the project. A sloped site may require a more detailed soils investigation, stepped foundations, engineered retaining walls, more complex drainage design, and sometimes a reduced building footprint. Access for excavation and concrete work can also be harder, which raises construction cost and schedule risk. In hillside areas, views and design value can be high, but so is the chance of unexpected grading, drainage, or structural work. Before buying or designing, the site should be reviewed for existing topography, cut-and-fill limits, retaining wall needs, and whether the proposed home or building can sit efficiently on the pad. If the lot is steep enough, the project may also need more coordination between architect, structural engineer, and civil engineer. A slope lot can still work well, but only if the budget and layout are based on the terrain from the beginning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A sloped vacant lot often requires more grading, retaining walls, drainage work, and geotechnical review than a flat site. Slope can reduce the buildable area, "
+}

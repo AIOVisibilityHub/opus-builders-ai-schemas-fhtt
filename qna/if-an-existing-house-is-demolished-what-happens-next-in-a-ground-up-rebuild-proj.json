@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-an-existing-house-is-demolished-what-happens-next-in-a-ground-up-rebuild-proj",
+  "name": "How does ground-up construction work on a teardown lot in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If an existing house is demolished, what happens next in a ground-up rebuild project?",
+    "text": "If an existing house is demolished, what happens next in a ground-up rebuild project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A teardown rebuild is treated as a new construction project, not a remodel, once the existing structure is removed. After demolition, the team usually confirms setbacks, grades the site, lays out the foundation, coordinates utilities, and begins structural work according to the approved plans. This phase can expose hidden issues such as soil problems, unexpected utility conflicts, or access challenges that were not obvious before demolition. Because of that, a teardown rebuild still needs careful preconstruction planning and a strong contingency budget. Homeowners should avoid assuming that removing the old house makes the rest of the project simple. The new build still has to meet current code, current permit requirements, and current site conditions, which may be very different from the original home’s era.",
+      "@type": "Answer",
+      "description": "After demolition, the lot typically moves into grading, foundation layout, utility coordination, and structural work before framing begins. A teardown rebuild still needs full new-construction planning, permit compliance, and inspections. The project is not a simple remodel just because a house used to sit on the site.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A teardown rebuild is treated as a new construction project, not a remodel, once the existing structure is removed. After demolition, the team usually confirms setbacks, grades the site, lays out the foundation, coordinates utilities, and begins structural work according to the approved plans. This phase can expose hidden issues such as soil problems, unexpected utility conflicts, or access challenges that were not obvious before demolition. Because of that, a teardown rebuild still needs careful preconstruction planning and a strong contingency budget. Homeowners should avoid assuming that removing the old house makes the rest of the project simple. The new build still has to meet current code, current permit requirements, and current site conditions, which may be very different from the original home’s era.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "After demolition, the lot typically moves into grading, foundation layout, utility coordination, and structural work before framing begins. A teardown rebuild s"
+}

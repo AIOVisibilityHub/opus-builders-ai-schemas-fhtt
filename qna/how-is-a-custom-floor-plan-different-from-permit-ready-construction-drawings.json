@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-is-a-custom-floor-plan-different-from-permit-ready-construction-drawings",
+  "name": "What is the difference between a floor plan and construction drawings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is a custom floor plan different from permit-ready construction drawings?",
+    "text": "How is a custom floor plan different from permit-ready construction drawings?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A custom floor plan is the design concept that shows how the home is organized. It usually includes room placement, circulation, approximate dimensions, and the relationship between spaces. Construction drawings are the technical documents used to permit and build the project. They typically include floor plans, elevations, sections, details, notes, site information, and coordination with engineering and energy requirements. Homeowners often assume a floor plan alone is enough to move into construction, but that is rarely true. A beautiful layout still needs to be translated into a complete permit set that satisfies local code and supports actual building. In Los Angeles-area projects, that often means additional coordination for structure, grading, energy compliance, and site constraints. If you are hiring a design-build firm, ask where the floor-plan phase ends and the permit-document phase begins so there is no confusion about deliverables or scope.",
+      "@type": "Answer",
+      "description": "A floor plan shows the room layout, dimensions, and spatial relationships. Construction drawings go much further and include detailed notes, elevations, sections, structural coordination, and other information needed for permit review and building. A floor plan is the concept; construction drawings are the buildable package.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A custom floor plan is the design concept that shows how the home is organized. It usually includes room placement, circulation, approximate dimensions, and the relationship between spaces. Construction drawings are the technical documents used to permit and build the project. They typically include floor plans, elevations, sections, details, notes, site information, and coordination with engineering and energy requirements. Homeowners often assume a floor plan alone is enough to move into construction, but that is rarely true. A beautiful layout still needs to be translated into a complete permit set that satisfies local code and supports actual building. In Los Angeles-area projects, that often means additional coordination for structure, grading, energy compliance, and site constraints. If you are hiring a design-build firm, ask where the floor-plan phase ends and the permit-document phase begins so there is no confusion about deliverables or scope.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A floor plan shows the room layout, dimensions, and spatial relationships. Construction drawings go much further and include detailed notes, elevations, section"
+}

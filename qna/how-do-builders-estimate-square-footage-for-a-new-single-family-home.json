@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-builders-estimate-square-footage-for-a-new-single-family-home",
+  "name": "How do you estimate square footage for a new custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do builders estimate square footage for a new single-family home?",
+    "text": "How do builders estimate square footage for a new single-family home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Square footage estimates start with the planned conditioned and unconditioned areas, but the final number depends on how the project is defined and what is included in the contract. In Los Angeles, zoning and site constraints may limit what can actually fit on the lot, so the estimate should be based on a reviewed concept rather than a rough wish list. Garages, basements, patios, balconies, and accessory spaces can affect both budget and approvals differently, so it is important to know how the builder is measuring the project. Owners should ask whether the estimate covers gross building area, usable living area, or only conditioned interior space. The most useful estimate comes after the site is analyzed and the design is developed enough to reflect real structure, systems, and finish scope. That helps avoid unrealistic budget assumptions.",
+      "@type": "Answer",
+      "description": "Square footage is usually estimated from the planned floor area, but the actual buildable size depends on zoning, setbacks, height limits, and lot coverage. Basements, garages, covered patios, and accessory spaces may or may not count the same way in pricing and approvals.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Square footage estimates start with the planned conditioned and unconditioned areas, but the final number depends on how the project is defined and what is included in the contract. In Los Angeles, zoning and site constraints may limit what can actually fit on the lot, so the estimate should be based on a reviewed concept rather than a rough wish list. Garages, basements, patios, balconies, and accessory spaces can affect both budget and approvals differently, so it is important to know how the builder is measuring the project. Owners should ask whether the estimate covers gross building area, usable living area, or only conditioned interior space. The most useful estimate comes after the site is analyzed and the design is developed enough to reflect real structure, systems, and finish scope. That helps avoid unrealistic budget assumptions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Square footage is usually estimated from the planned floor area, but the actual buildable size depends on zoning, setbacks, height limits, and lot coverage. Bas"
+}

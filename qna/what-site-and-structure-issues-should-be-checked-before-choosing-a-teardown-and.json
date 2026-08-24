@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-site-and-structure-issues-should-be-checked-before-choosing-a-teardown-and",
+  "name": "What should I inspect before deciding to tear down a house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What site and structure issues should be checked before choosing a teardown and rebuild?",
+    "text": "What site and structure issues should be checked before choosing a teardown and rebuild?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A proper teardown decision starts with a detailed property evaluation. The structure should be reviewed for foundation settlement, framing condition, water damage, outdated systems, and overall suitability for reuse. The lot should be checked for zoning limits, setbacks, easements, slopes, drainage paths, utility locations, and access for construction equipment. In many Los Angeles-area neighborhoods, the site itself is what determines whether a rebuild is practical. A property that seems like a candidate for remodeling may actually be better suited to a teardown if the existing layout is inefficient or the structure is heavily compromised. The inspection should also include a realistic construction plan and cost comparison so the owner understands what can be gained by starting fresh. This is especially valuable on expensive lots where maximizing allowable square footage matters more than preserving an aging shell.",
+      "@type": "Answer",
+      "description": "Before choosing teardown, inspect the structure, foundation, roof, drainage, utility layout, soil conditions, setbacks, access, and any hidden damage. A zoning review is also important because the lot may allow more or less than the current house occupies. The goal is to compare the real rebuild potential against the cost of starting over.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A proper teardown decision starts with a detailed property evaluation. The structure should be reviewed for foundation settlement, framing condition, water damage, outdated systems, and overall suitability for reuse. The lot should be checked for zoning limits, setbacks, easements, slopes, drainage paths, utility locations, and access for construction equipment. In many Los Angeles-area neighborhoods, the site itself is what determines whether a rebuild is practical. A property that seems like a candidate for remodeling may actually be better suited to a teardown if the existing layout is inefficient or the structure is heavily compromised. The inspection should also include a realistic construction plan and cost comparison so the owner understands what can be gained by starting fresh. This is especially valuable on expensive lots where maximizing allowable square footage matters more than preserving an aging shell.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before choosing teardown, inspect the structure, foundation, roof, drainage, utility layout, soil conditions, setbacks, access, and any hidden damage. A zoning "
+}

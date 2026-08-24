@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-many-revisions-should-be-included-in-a-custom-floor-plan-project-before-extr",
+  "name": "How many revision rounds are normal?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How many revisions should be included in a custom floor-plan project before extra fees start?",
+    "text": "How many revisions should be included in a custom floor-plan project before extra fees start?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A custom floor-plan agreement should clearly state how many revision rounds are included. In many projects, two to four rounds is normal, though the actual number varies by designer and project complexity. More revisions may be reasonable for high-end custom homes, but every round takes time and can delay the next phase. The important issue is not just how many edits are allowed, but what qualifies as a revision versus a new direction. Minor layout refinements are different from changing the entire bedroom count or moving the staircase. Homeowners should ask whether revisions are capped by number, by hours, or by milestone. Clear revision rules prevent scope creep and help keep the project moving toward permit-ready drawings. If many people are approving the plan, choose a process that gathers feedback efficiently instead of spreading changes across too many decision cycles.",
+      "@type": "Answer",
+      "description": "Most custom floor-plan projects include a limited number of revision rounds, often two to four, before additional changes are billed separately. The exact number should be defined in the agreement so the scope, timeline, and cost stay under control.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A custom floor-plan agreement should clearly state how many revision rounds are included. In many projects, two to four rounds is normal, though the actual number varies by designer and project complexity. More revisions may be reasonable for high-end custom homes, but every round takes time and can delay the next phase. The important issue is not just how many edits are allowed, but what qualifies as a revision versus a new direction. Minor layout refinements are different from changing the entire bedroom count or moving the staircase. Homeowners should ask whether revisions are capped by number, by hours, or by milestone. Clear revision rules prevent scope creep and help keep the project moving toward permit-ready drawings. If many people are approving the plan, choose a process that gathers feedback efficiently instead of spreading changes across too many decision cycles.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most custom floor-plan projects include a limited number of revision rounds, often two to four, before additional changes are billed separately. The exact numbe"
+}

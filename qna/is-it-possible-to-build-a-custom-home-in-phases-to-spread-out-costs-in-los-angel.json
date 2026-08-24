@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-build-a-custom-home-in-phases-to-spread-out-costs-in-los-angel",
+  "name": "Can ground-up construction be phased to manage budget risk?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to build a custom home in phases to spread out costs in Los Angeles?",
+    "text": "Is it possible to build a custom home in phases to spread out costs in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phased construction can help in limited situations, but it has to be planned carefully. The structure, foundation, framing, core utilities, and envelope usually need to follow a coordinated sequence, so splitting the project too much can create inefficiency and added labor. Some owners choose to phase landscaping, detached features, interior upgrades, or specialty finishes to manage cash flow. That can work if the initial design is created with the later phases in mind. The risk is that short-term budget relief becomes long-term inefficiency if crews have to return later, materials have to be reinstalled, or temporary solutions are needed. In most ground-up projects, the best way to manage budget risk is still to plan the full build accurately and phase only the nonessential elements.",
+      "@type": "Answer",
+      "description": "Sometimes, but phasing ground-up construction can create inefficiency if the design and infrastructure are not planned for it from the start. Some projects can delay certain finish upgrades or landscape work, but the main structure and core systems usually need to be completed in a coordinated sequence. Poor phasing can increase labor and rework costs.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phased construction can help in limited situations, but it has to be planned carefully. The structure, foundation, framing, core utilities, and envelope usually need to follow a coordinated sequence, so splitting the project too much can create inefficiency and added labor. Some owners choose to phase landscaping, detached features, interior upgrades, or specialty finishes to manage cash flow. That can work if the initial design is created with the later phases in mind. The risk is that short-term budget relief becomes long-term inefficiency if crews have to return later, materials have to be reinstalled, or temporary solutions are needed. In most ground-up projects, the best way to manage budget risk is still to plan the full build accurately and phase only the nonessential elements.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but phasing ground-up construction can create inefficiency if the design and infrastructure are not planned for it from the start. Some projects can "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-common-red-flags-found-during-a-construction-site-evaluation",
+  "name": "What are the most common red flags in a site evaluation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common red flags found during a construction site evaluation?",
+    "text": "What are the most common red flags found during a construction site evaluation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common red flags are the ones that turn a simple project into a technical one. These include steep slope, difficult access for trucks and equipment, poor drainage, evidence of settlement or movement, obvious grading challenges, and uncertainty about utilities or sewer connection points. Easements, fire-access constraints, and tight lot lines are also major concerns because they can limit the project footprint before design even begins. In Los Angeles and nearby cities, hillside conditions and infill lots often combine several red flags at once. The value of a good site evaluation is not only identifying these issues, but ranking them so owners know which ones are minor inconveniences and which ones may change the entire feasibility of the project.",
+      "@type": "Answer",
+      "description": "Common red flags include steep slope, poor drainage, narrow or blocked access, unclear utility availability, easements, retaining wall needs, visible settlement, and signs that the project may need major grading or foundation work. Any of these can raise cost or delay permitting.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common red flags are the ones that turn a simple project into a technical one. These include steep slope, difficult access for trucks and equipment, poor drainage, evidence of settlement or movement, obvious grading challenges, and uncertainty about utilities or sewer connection points. Easements, fire-access constraints, and tight lot lines are also major concerns because they can limit the project footprint before design even begins. In Los Angeles and nearby cities, hillside conditions and infill lots often combine several red flags at once. The value of a good site evaluation is not only identifying these issues, but ranking them so owners know which ones are minor inconveniences and which ones may change the entire feasibility of the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common red flags include steep slope, poor drainage, narrow or blocked access, unclear utility availability, easements, retaining wall needs, visible settlement"
+}

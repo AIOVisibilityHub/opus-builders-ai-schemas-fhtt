@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-soil-or-geotechnical-problems-affect-a-custom-home-project",
+  "name": "What happens if soil tests find bad soil before construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do soil or geotechnical problems affect a custom home project?",
+    "text": "How do soil or geotechnical problems affect a custom home project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Soil testing can change a project quickly because foundation design depends on site conditions. If a geotechnical report identifies weak, expansive, or unstable soil, the home may need deeper footings, slab upgrades, compacted fill, drainage improvements, or other structural solutions. That can add cost and time, but it also reduces the risk of long-term movement or damage. In Los Angeles, this matters especially on hillside parcels, lots with prior grading, or properties with unusual drainage behavior. Homeowners should treat soil testing as a necessary part of due diligence, not an optional expense. It is much cheaper to solve a soil issue in design than after construction begins.",
+      "@type": "Answer",
+      "description": "Poor soil can require deeper foundations, compaction, soil removal, drainage upgrades, or special structural engineering. These findings can increase cost and extend the schedule, especially if the lot has expansive, unstable, or sloped conditions.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Soil testing can change a project quickly because foundation design depends on site conditions. If a geotechnical report identifies weak, expansive, or unstable soil, the home may need deeper footings, slab upgrades, compacted fill, drainage improvements, or other structural solutions. That can add cost and time, but it also reduces the risk of long-term movement or damage. In Los Angeles, this matters especially on hillside parcels, lots with prior grading, or properties with unusual drainage behavior. Homeowners should treat soil testing as a necessary part of due diligence, not an optional expense. It is much cheaper to solve a soil issue in design than after construction begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Poor soil can require deeper foundations, compaction, soil removal, drainage upgrades, or special structural engineering. These findings can increase cost and e"
+}

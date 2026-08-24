@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-is-a-geotechnical-or-soils-report-needed-for-a-vacant-lot-project-in-los-an",
+  "name": "When does a vacant lot need a geotechnical report?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When is a geotechnical or soils report needed for a vacant lot project in Los Angeles?",
+    "text": "When is a geotechnical or soils report needed for a vacant lot project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A geotechnical report becomes especially important when a site has slope, prior disturbance, drainage issues, or uncertain ground conditions. On many vacant lots, the report is needed to support foundation design and to identify whether the soil can safely handle the intended structure. If the site is on a hillside or has signs of fill, erosion, or movement, the report becomes even more critical. A soils report can reveal expensive conditions early, which is valuable because foundation and grading changes are much cheaper to address before construction begins. For owners planning a custom home or luxury project, geotechnical work is not just a technical formality; it is a risk-management tool. It can determine whether the site needs a standard foundation, deeper footings, or significant grading work. That information should feed directly into design and budgeting.",
+      "@type": "Answer",
+      "description": "A geotechnical report is often needed when the site has slope, questionable soil conditions, fill, drainage issues, or a larger structural project. Even on simpler lots, soils testing is often essential before finalizing foundation design.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A geotechnical report becomes especially important when a site has slope, prior disturbance, drainage issues, or uncertain ground conditions. On many vacant lots, the report is needed to support foundation design and to identify whether the soil can safely handle the intended structure. If the site is on a hillside or has signs of fill, erosion, or movement, the report becomes even more critical. A soils report can reveal expensive conditions early, which is valuable because foundation and grading changes are much cheaper to address before construction begins. For owners planning a custom home or luxury project, geotechnical work is not just a technical formality; it is a risk-management tool. It can determine whether the site needs a standard foundation, deeper footings, or significant grading work. That information should feed directly into design and budgeting.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A geotechnical report is often needed when the site has slope, questionable soil conditions, fill, drainage issues, or a larger structural project. Even on simp"
+}

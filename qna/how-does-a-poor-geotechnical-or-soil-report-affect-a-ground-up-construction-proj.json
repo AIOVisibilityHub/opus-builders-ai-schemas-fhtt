@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-poor-geotechnical-or-soil-report-affect-a-ground-up-construction-proj",
+  "name": "What happens if the soil report finds bad conditions on a Los Angeles lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a poor geotechnical or soil report affect a ground-up construction project?",
+    "text": "How does a poor geotechnical or soil report affect a ground-up construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A geotechnical report can change the entire project if it identifies weak soil, expansive soil, slope instability, high groundwater, or other site risks. In that case, the structural design may need deeper footings, caissons, grade beams, soil replacement, drainage upgrades, or retaining solutions. Those changes affect both budget and schedule because the home has to be redesigned to match the site conditions. This is common enough in Los Angeles that soil investigation should be treated as a core part of due diligence, not an optional extra. The earlier the issue is found, the cheaper and easier it is to solve. If a report comes back with concerns, the right response is to revise the design with the engineer and builder rather than push ahead with the original concept and hope the problem disappears.",
+      "@type": "Answer",
+      "description": "A poor soil report can require redesign, deeper foundations, grading changes, drainage improvements, or retaining structures. That can increase cost and extend the permit and build schedule. It does not automatically stop the project, but it can change the engineering and construction approach significantly.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A geotechnical report can change the entire project if it identifies weak soil, expansive soil, slope instability, high groundwater, or other site risks. In that case, the structural design may need deeper footings, caissons, grade beams, soil replacement, drainage upgrades, or retaining solutions. Those changes affect both budget and schedule because the home has to be redesigned to match the site conditions. This is common enough in Los Angeles that soil investigation should be treated as a core part of due diligence, not an optional extra. The earlier the issue is found, the cheaper and easier it is to solve. If a report comes back with concerns, the right response is to revise the design with the engineer and builder rather than push ahead with the original concept and hope the problem disappears.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A poor soil report can require redesign, deeper foundations, grading changes, drainage improvements, or retaining structures. That can increase cost and extend "
+}

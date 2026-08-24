@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-estimate-how-many-units-a-vacant-lot-in-los-angeles-could-realistically",
+  "name": "How do I estimate unit yield on a vacant lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I estimate how many units a vacant lot in Los Angeles could realistically support?",
+    "text": "How do I estimate how many units a vacant lot in Los Angeles could realistically support?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Estimating unit yield is one of the most important early steps in vacant-lot development. The process starts with zoning and lot dimensions, then moves to setbacks, height limits, parking needs, access, open-space requirements, and utility constraints. A lot may theoretically fit several units on paper, but once circulation, fire access, and buildable area are mapped, the practical count can fall. The right method is to create a simple massing or test-fit study that shows whether the site works as a single home, duplex, small apartment building, or townhome-style project. This is especially important in Los Angeles-area neighborhoods where small changes in frontage or geometry can dramatically alter the result. Yield is not just a number; it is the foundation of the project’s financial model. A developer should compare several scenarios before deciding which one is worth pursuing.",
+      "@type": "Answer",
+      "description": "Unit yield is estimated by testing zoning, setbacks, lot size, access, parking, and buildable envelope against the intended unit mix. The realistic number of units is often lower than the first number people imagine from the raw parcel size.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Estimating unit yield is one of the most important early steps in vacant-lot development. The process starts with zoning and lot dimensions, then moves to setbacks, height limits, parking needs, access, open-space requirements, and utility constraints. A lot may theoretically fit several units on paper, but once circulation, fire access, and buildable area are mapped, the practical count can fall. The right method is to create a simple massing or test-fit study that shows whether the site works as a single home, duplex, small apartment building, or townhome-style project. This is especially important in Los Angeles-area neighborhoods where small changes in frontage or geometry can dramatically alter the result. Yield is not just a number; it is the foundation of the project’s financial model. A developer should compare several scenarios before deciding which one is worth pursuing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Unit yield is estimated by testing zoning, setbacks, lot size, access, parking, and buildable envelope against the intended unit mix. The realistic number of un"
+}

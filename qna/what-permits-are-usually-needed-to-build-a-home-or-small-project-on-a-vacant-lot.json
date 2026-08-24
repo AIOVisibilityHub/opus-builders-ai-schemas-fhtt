@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-are-usually-needed-to-build-a-home-or-small-project-on-a-vacant-lot",
+  "name": "What permits do I need to build on a vacant lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits are usually needed to build a home or small project on a vacant lot in Los Angeles?",
+    "text": "What permits are usually needed to build a home or small project on a vacant lot in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The permit path depends on the site and project type, but most vacant-lot developments require more than one approval. A typical project may need planning or zoning review, architectural plan check, building permits, grading approval, and separate utility coordination for water, sewer, power, and sometimes stormwater. If the parcel has slope, drainage issues, or fire access concerns, additional technical studies may be required before permits are issued. Some neighborhoods also trigger overlay-specific review or design standards that affect massing, setbacks, and exterior character. The most efficient path is to identify all likely approvals early so design can be coordinated around them instead of corrected after submittal. A project that starts with a feasibility review can avoid repeated permit revisions, which often save both time and money. For anyone planning a custom home or luxury build, permit readiness is as important as architectural concept because a great design that cannot be approved is not a workable project.",
+      "@type": "Answer",
+      "description": "Most vacant-lot projects need planning review, building permits, grading approval if the site is disturbed, and utility approvals. Depending on the parcel, additional reviews may be needed for drainage, hillside conditions, tree protection, or access improvements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The permit path depends on the site and project type, but most vacant-lot developments require more than one approval. A typical project may need planning or zoning review, architectural plan check, building permits, grading approval, and separate utility coordination for water, sewer, power, and sometimes stormwater. If the parcel has slope, drainage issues, or fire access concerns, additional technical studies may be required before permits are issued. Some neighborhoods also trigger overlay-specific review or design standards that affect massing, setbacks, and exterior character. The most efficient path is to identify all likely approvals early so design can be coordinated around them instead of corrected after submittal. A project that starts with a feasibility review can avoid repeated permit revisions, which often save both time and money. For anyone planning a custom home or luxury build, permit readiness is as important as architectural concept because a great design that cannot be approved is not a workable project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most vacant-lot projects need planning review, building permits, grading approval if the site is disturbed, and utility approvals. Depending on the parcel, addi"
+}

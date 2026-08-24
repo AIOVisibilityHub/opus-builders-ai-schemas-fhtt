@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-has-to-happen-with-gas-water-electric-and-sewer-before-a-house-is-torn-down",
+  "name": "How do utility shutoffs work before demolition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What has to happen with gas, water, electric, and sewer before a house is torn down?",
+    "text": "What has to happen with gas, water, electric, and sewer before a house is torn down?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility coordination is a critical early step in any teardown. Before demolition, gas, electric, water, sewer, and communication services often need to be safely shut off, capped, or disconnected according to the provider’s procedures. Some jurisdictions require proof of disconnect before a demolition permit is finalized or before a demo inspection can pass. This step can take longer than expected because each utility company works on its own schedule. If the home has solar, a detached structure, or shared service connections, the coordination can be even more complicated. Homeowners should ask the contractor who is handling each shutoff, what documents are needed, and whether temporary service is required for site work. Planning utility work early helps prevent idle demo crews and costly schedule delays.",
+      "@type": "Answer",
+      "description": "Utilities usually need to be disconnected and sign-off completed before demolition starts. Gas, electric, water, telecom, and sewer coordination can take time because each provider has its own process. If this step is late, demo can be delayed even when the permit is already approved.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility coordination is a critical early step in any teardown. Before demolition, gas, electric, water, sewer, and communication services often need to be safely shut off, capped, or disconnected according to the provider’s procedures. Some jurisdictions require proof of disconnect before a demolition permit is finalized or before a demo inspection can pass. This step can take longer than expected because each utility company works on its own schedule. If the home has solar, a detached structure, or shared service connections, the coordination can be even more complicated. Homeowners should ask the contractor who is handling each shutoff, what documents are needed, and whether temporary service is required for site work. Planning utility work early helps prevent idle demo crews and costly schedule delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utilities usually need to be disconnected and sign-off completed before demolition starts. Gas, electric, water, telecom, and sewer coordination can take time b"
+}

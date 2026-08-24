@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-include-an-adu-in-a-tear-down-and-rebuild-project",
+  "name": "Can I build an accessory dwelling unit during a teardown and rebuild?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to include an ADU in a tear-down and rebuild project?",
+    "text": "Is it possible to include an ADU in a tear-down and rebuild project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An ADU can often be part of a teardown and rebuild plan, but it should be considered early because it affects site layout, setbacks, parking, utilities, drainage, and overall lot coverage. On some parcels, adding an ADU after the main house is designed creates space conflicts or forces the floor plan to shrink. In other cases, a well-planned rebuild can accommodate the ADU efficiently and improve long-term property value. Homeowners should ask whether the ADU will be detached, attached, or integrated into the site plan, and whether it will be built in the same phase or a later phase. The decision depends on zoning, lot size, access, and budget. Since ADU rules can change and local interpretation matters, this question should be resolved during initial concept planning rather than after permit submission.",
+      "@type": "Answer",
+      "description": "Often yes, but the ADU has to fit zoning, lot coverage, access, and utility rules, and it may need to be planned from the start. On some sites, the main house design, grading, or setbacks can limit whether an ADU is practical at the same time as the rebuild.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An ADU can often be part of a teardown and rebuild plan, but it should be considered early because it affects site layout, setbacks, parking, utilities, drainage, and overall lot coverage. On some parcels, adding an ADU after the main house is designed creates space conflicts or forces the floor plan to shrink. In other cases, a well-planned rebuild can accommodate the ADU efficiently and improve long-term property value. Homeowners should ask whether the ADU will be detached, attached, or integrated into the site plan, and whether it will be built in the same phase or a later phase. The decision depends on zoning, lot size, access, and budget. Since ADU rules can change and local interpretation matters, this question should be resolved during initial concept planning rather than after permit submission.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Often yes, but the ADU has to fit zoning, lot coverage, access, and utility rules, and it may need to be planned from the start. On some sites, the main house d"
+}

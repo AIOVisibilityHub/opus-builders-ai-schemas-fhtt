@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-is-a-fully-custom-floor-plan-better-than-modifying-an-existing-plan",
+  "name": "How do you compare a custom plan to a modified stock plan?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When is a fully custom floor plan better than modifying an existing plan?",
+    "text": "When is a fully custom floor plan better than modifying an existing plan?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A fully custom plan makes the most sense when the property has constraints or opportunities that a stock plan cannot handle well. Narrow lots, hillside sites, view-oriented parcels, multigenerational households, and luxury homes with specific spatial requirements usually benefit from a custom approach. The plan can be tailored around the site, the family’s routines, and the intended construction budget. A modified stock plan may work when speed and cost are the top priorities and the lot is straightforward. However, stock plans often need meaningful changes to comply with local conditions, which can reduce the initial savings. In Los Angeles-area projects, the deciding factor is usually how well the plan fits the lot and the lifestyle. If the design must be heavily reworked to fit the site, starting custom may be the better long-term choice.",
+      "@type": "Answer",
+      "description": "A fully custom floor plan is better when the lot is unusual, the lifestyle needs are specific, or the home must maximize views, privacy, and circulation. A modified stock plan can be faster and cheaper, but it may not fit Los Angeles zoning or site constraints as well.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A fully custom plan makes the most sense when the property has constraints or opportunities that a stock plan cannot handle well. Narrow lots, hillside sites, view-oriented parcels, multigenerational households, and luxury homes with specific spatial requirements usually benefit from a custom approach. The plan can be tailored around the site, the family’s routines, and the intended construction budget. A modified stock plan may work when speed and cost are the top priorities and the lot is straightforward. However, stock plans often need meaningful changes to comply with local conditions, which can reduce the initial savings. In Los Angeles-area projects, the deciding factor is usually how well the plan fits the lot and the lifestyle. If the design must be heavily reworked to fit the site, starting custom may be the better long-term choice.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A fully custom floor plan is better when the lot is unusual, the lifestyle needs are specific, or the home must maximize views, privacy, and circulation. A modi"
+}

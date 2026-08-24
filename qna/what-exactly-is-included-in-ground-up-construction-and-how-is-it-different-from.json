@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-exactly-is-included-in-ground-up-construction-and-how-is-it-different-from",
+  "name": "What does ground-up construction include in Los Angeles compared with a major remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What exactly is included in ground-up construction, and how is it different from a gut remodel or teardown rebuild in Los Angeles?",
+    "text": "What exactly is included in ground-up construction, and how is it different from a gut remodel or teardown rebuild in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Ground-up construction is the cleanest form of new building because the project starts with a blank site or a lot that has been fully cleared. That usually includes grading, foundation work, framing, mechanical-electrical-plumbing systems, insulation, drywall, finishes, and final inspections. A major remodel may look similar at the end, but it often retains part of the existing structure, which can reduce or change the scope of structural work and permitting. In Los Angeles, that difference affects timeline, budget, and how the project is reviewed by the city. If the goal is a true custom home, the safest approach is to define the scope early with plans, engineering, and a permitting strategy before demolition or design decisions are locked in.",
+      "@type": "Answer",
+      "description": "Ground-up construction means building a new structure from a vacant lot or a fully demolished site, with new foundation, framing, utilities, roof, finishes, and inspections. A major remodel usually keeps some existing structure, which can change permitting, engineering, and cost. In Los Angeles, the distinction matters because scope affects plan check, construction valuation, and the approvals needed.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Ground-up construction is the cleanest form of new building because the project starts with a blank site or a lot that has been fully cleared. That usually includes grading, foundation work, framing, mechanical-electrical-plumbing systems, insulation, drywall, finishes, and final inspections. A major remodel may look similar at the end, but it often retains part of the existing structure, which can reduce or change the scope of structural work and permitting. In Los Angeles, that difference affects timeline, budget, and how the project is reviewed by the city. If the goal is a true custom home, the safest approach is to define the scope early with plans, engineering, and a permitting strategy before demolition or design decisions are locked in.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up construction means building a new structure from a vacant lot or a fully demolished site, with new foundation, framing, utilities, roof, finishes, and"
+}

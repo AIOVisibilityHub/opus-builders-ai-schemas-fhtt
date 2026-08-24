@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-is-a-site-evaluation-different-for-an-adu-compared-with-a-full-custom-home",
+  "name": "How do site evaluations differ for ADUs versus full homes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is a site evaluation different for an ADU compared with a full custom home?",
+    "text": "How is a site evaluation different for an ADU compared with a full custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "ADU evaluations are usually more constrained because the project must fit into an existing property layout and work around the main house, yard, driveway, and utility routes. The key questions are whether the ADU can fit within setbacks, maintain access, meet local size and height limits, and connect to utilities without excessive cost. Full home evaluations are broader and usually require a deeper look at site geometry, grading, topography, drainage, and the overall buildable envelope. In Los Angeles, both types of projects can be affected by local zoning and neighborhood conditions, but ADUs often hinge on whether the existing site can absorb the new unit without creating circulation or utility problems. That makes the site evaluation especially valuable before a design is commissioned.",
+      "@type": "Answer",
+      "description": "ADU site evaluations focus more on yard layout, setbacks, access, utility connections, fire access, and utility routing within a smaller footprint. Full home evaluations usually involve broader buildable area, grading, slope, and design feasibility issues, especially on larger or more complex lots.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "ADU evaluations are usually more constrained because the project must fit into an existing property layout and work around the main house, yard, driveway, and utility routes. The key questions are whether the ADU can fit within setbacks, maintain access, meet local size and height limits, and connect to utilities without excessive cost. Full home evaluations are broader and usually require a deeper look at site geometry, grading, topography, drainage, and the overall buildable envelope. In Los Angeles, both types of projects can be affected by local zoning and neighborhood conditions, but ADUs often hinge on whether the existing site can absorb the new unit without creating circulation or utility problems. That makes the site evaluation especially valuable before a design is commissioned.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "ADU site evaluations focus more on yard layout, setbacks, access, utility connections, fire access, and utility routing within a smaller footprint. Full home ev"
+}

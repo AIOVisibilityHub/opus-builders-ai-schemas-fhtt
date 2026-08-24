@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-whether-a-north-hollywood-lot-is-suitable-for-new-home-constructi",
+  "name": "How do I know if a North Hollywood lot can support a new house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell whether a North Hollywood lot is suitable for new home construction before I buy it?",
+    "text": "How can I tell whether a North Hollywood lot is suitable for new home construction before I buy it?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before buying a North Hollywood lot for new construction, the key question is not just whether the lot is buildable, but whether it is buildable at a cost that makes sense. Start with zoning, setbacks, lot coverage, and height limits, then check utility access, easements, drainage, and whether the site needs demolition, grading, or soil correction. A lot that looks inexpensive can become costly if it needs major site prep or if the desired home size does not fit current rules. The smartest move is to do a feasibility review before closing escrow. That review should compare your target home size and layout against the site constraints so you understand what is realistic. If you already own the lot, the same review can help you decide whether to build, redesign, or adjust the project scope before spending on full plans.",
+      "@type": "Answer",
+      "description": "A North Hollywood lot should be checked for zoning, setbacks, lot size, utility access, soil conditions, and any easements before purchase. Even a buildable lot can be expensive to develop if grading, demolition, or utility upgrades are needed. A feasibility review can prevent costly mistakes.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before buying a North Hollywood lot for new construction, the key question is not just whether the lot is buildable, but whether it is buildable at a cost that makes sense. Start with zoning, setbacks, lot coverage, and height limits, then check utility access, easements, drainage, and whether the site needs demolition, grading, or soil correction. A lot that looks inexpensive can become costly if it needs major site prep or if the desired home size does not fit current rules. The smartest move is to do a feasibility review before closing escrow. That review should compare your target home size and layout against the site constraints so you understand what is realistic. If you already own the lot, the same review can help you decide whether to build, redesign, or adjust the project scope before spending on full plans.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A North Hollywood lot should be checked for zoning, setbacks, lot size, utility access, soil conditions, and any easements before purchase. Even a buildable lot"
+}

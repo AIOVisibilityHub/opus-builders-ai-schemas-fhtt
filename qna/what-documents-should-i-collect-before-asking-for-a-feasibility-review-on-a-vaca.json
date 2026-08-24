@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-documents-should-i-collect-before-asking-for-a-feasibility-review-on-a-vaca",
+  "name": "What documents should I gather for a vacant-lot feasibility review?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What documents should I collect before asking for a feasibility review on a vacant lot?",
+    "text": "What documents should I collect before asking for a feasibility review on a vacant lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong feasibility review starts with the right documents. Owners should gather the APN, parcel map, preliminary title report, existing survey, zoning designation, tax records, utility information, any previous plans or permits, and any known geotechnical or environmental reports. Photos of the lot and surrounding street are also useful, especially if there are slope, access, or drainage concerns. These documents help reveal easements, encroachments, setbacks, potential utility conflicts, and whether the site has been altered in the past. If the lot is in a neighborhood with specific design review or hillside requirements, any relevant community or planning materials should also be included. The better the document set, the faster the reviewer can identify whether the lot is a clean candidate for a custom home, a duplex, or a more complex project. In many cases, a complete early package prevents expensive surprises later.",
+      "@type": "Answer",
+      "description": "Gather the parcel map, title report, survey if available, zoning information, utility details, prior permits, and any geotechnical or environmental records. These documents let a reviewer identify constraints and likely development options much faster.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong feasibility review starts with the right documents. Owners should gather the APN, parcel map, preliminary title report, existing survey, zoning designation, tax records, utility information, any previous plans or permits, and any known geotechnical or environmental reports. Photos of the lot and surrounding street are also useful, especially if there are slope, access, or drainage concerns. These documents help reveal easements, encroachments, setbacks, potential utility conflicts, and whether the site has been altered in the past. If the lot is in a neighborhood with specific design review or hillside requirements, any relevant community or planning materials should also be included. The better the document set, the faster the reviewer can identify whether the lot is a clean candidate for a custom home, a duplex, or a more complex project. In many cases, a complete early package prevents expensive surprises later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Gather the parcel map, title report, survey if available, zoning information, utility details, prior permits, and any geotechnical or environmental records. The"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-know-whether-a-project-should-be-a-teardown-and-rebuild-or-a-major-re",
+  "name": "What is the difference between a teardown and a major remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you know whether a project should be a teardown and rebuild or a major remodel?",
+    "text": "How do you know whether a project should be a teardown and rebuild or a major remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The difference is mainly how much of the existing building is worth keeping. A major remodel preserves meaningful portions of the structure, while a teardown and rebuild removes the house and replaces it with a new one. The decision is usually driven by structural condition, layout limitations, code compliance, and what the lot can legally support. If the existing house has foundation issues, outdated systems, poor room flow, or severe damage, a teardown may actually provide a cleaner path to the desired result. On the other hand, if key structural elements are sound and the zoning advantage is already realized, a remodel may be more efficient. Homeowners should compare both paths using the same design goals and the same finish level. A good preconstruction review should test whether the current structure can realistically deliver the intended result without creating hidden expense and timeline risk.",
+      "@type": "Answer",
+      "description": "A teardown and rebuild starts from a demolished structure and creates a new house, while a major remodel keeps part of the existing building. The decision usually comes down to structure, zoning potential, hidden damage, budget, and whether the existing home can support the layout and systems the owner wants.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The difference is mainly how much of the existing building is worth keeping. A major remodel preserves meaningful portions of the structure, while a teardown and rebuild removes the house and replaces it with a new one. The decision is usually driven by structural condition, layout limitations, code compliance, and what the lot can legally support. If the existing house has foundation issues, outdated systems, poor room flow, or severe damage, a teardown may actually provide a cleaner path to the desired result. On the other hand, if key structural elements are sound and the zoning advantage is already realized, a remodel may be more efficient. Homeowners should compare both paths using the same design goals and the same finish level. A good preconstruction review should test whether the current structure can realistically deliver the intended result without creating hidden expense and timeline risk.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A teardown and rebuild starts from a demolished structure and creates a new house, while a major remodel keeps part of the existing building. The decision usual"
+}

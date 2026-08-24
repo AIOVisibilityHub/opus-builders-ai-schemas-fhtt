@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-does-a-construction-site-evaluation-cost-for-a-house-or-adu-project",
+  "name": "How much does a site evaluation cost for a house project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much does a construction site evaluation cost for a house or ADU project?",
+    "text": "How much does a construction site evaluation cost for a house or ADU project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Pricing depends heavily on scope and site complexity. A brief site visit for a straightforward residential project may be modest in cost, especially if the review is mostly visual. The fee increases when the evaluator is asked to verify zoning, access, grading, utilities, buildable area, and likely permit issues in a written report. In Los Angeles-area markets, hillside lots, teardown properties, and narrow infill parcels usually require more time and therefore cost more. The smartest way to compare proposals is to ask exactly what is included: site visit, parcel research, zoning review, red-flag memo, feasibility report, or a more complete buildability analysis. A cheaper review that misses a major constraint can cost far more later.",
+      "@type": "Answer",
+      "description": "A basic site evaluation can be relatively affordable, but the price rises with zoning research, feasibility analysis, utility checks, and written reporting. Simple residential reviews may cost a few hundred dollars, while deeper feasibility studies can cost much more when the site is complex or hillside.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Pricing depends heavily on scope and site complexity. A brief site visit for a straightforward residential project may be modest in cost, especially if the review is mostly visual. The fee increases when the evaluator is asked to verify zoning, access, grading, utilities, buildable area, and likely permit issues in a written report. In Los Angeles-area markets, hillside lots, teardown properties, and narrow infill parcels usually require more time and therefore cost more. The smartest way to compare proposals is to ask exactly what is included: site visit, parcel research, zoning review, red-flag memo, feasibility report, or a more complete buildability analysis. A cheaper review that misses a major constraint can cost far more later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A basic site evaluation can be relatively affordable, but the price rises with zoning research, feasibility analysis, utility checks, and written reporting. Sim"
+}

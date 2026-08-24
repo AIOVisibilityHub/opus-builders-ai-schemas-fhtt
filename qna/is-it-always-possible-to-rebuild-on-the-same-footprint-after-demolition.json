@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-always-possible-to-rebuild-on-the-same-footprint-after-demolition",
+  "name": "Can I rebuild on the same footprint as the old house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it always possible to rebuild on the same footprint after demolition?",
+    "text": "Is it always possible to rebuild on the same footprint after demolition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Rebuilding on the same footprint sounds simple, but it is not guaranteed. The old home may have been built under older rules or may occupy a location that is now constrained by setbacks, easements, drainage requirements, or fire access standards. In some cases, the footprint can be replicated closely, but in others the new design has to move inward, reduce massing, or change the building shape. This is why a survey and zoning review are so important before demolition is approved. Homeowners should confirm whether the desired layout fits the current code, not just the historic footprint. If the lot is narrow, irregular, sloped, or in a special overlay area, the answer may be more restrictive than expected. The best rebuild plans are designed around what the site can legally and physically support, rather than assuming the old footprint will be automatically approved.",
+      "@type": "Answer",
+      "description": "No. Rebuilding on the exact same footprint depends on current zoning, setback rules, easements, utility locations, fire access, and any planning overlays. Even if the old house sat there for decades, the new one may need to shift to satisfy today’s regulations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Rebuilding on the same footprint sounds simple, but it is not guaranteed. The old home may have been built under older rules or may occupy a location that is now constrained by setbacks, easements, drainage requirements, or fire access standards. In some cases, the footprint can be replicated closely, but in others the new design has to move inward, reduce massing, or change the building shape. This is why a survey and zoning review are so important before demolition is approved. Homeowners should confirm whether the desired layout fits the current code, not just the historic footprint. If the lot is narrow, irregular, sloped, or in a special overlay area, the answer may be more restrictive than expected. The best rebuild plans are designed around what the site can legally and physically support, rather than assuming the old footprint will be automatically approved.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "No. Rebuilding on the exact same footprint depends on current zoning, setback rules, easements, utility locations, fire access, and any planning overlays. Even "
+}

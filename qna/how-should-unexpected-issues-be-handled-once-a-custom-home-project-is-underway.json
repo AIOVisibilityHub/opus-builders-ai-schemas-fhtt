@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-unexpected-issues-be-handled-once-a-custom-home-project-is-underway",
+  "name": "What should I do if the builder finds a problem after demolition starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should unexpected issues be handled once a custom home project is underway?",
+    "text": "How should unexpected issues be handled once a custom home project is underway?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Unexpected conditions are common once demolition or excavation begins. The right process is to stop, document the issue, and get a written explanation of what was found, what it means, and what the repair or redesign will cost. This keeps the homeowner informed and prevents casual verbal approvals from creating confusion later. In Los Angeles, hidden utility conditions, prior patchwork construction, drainage problems, and structural surprises are common. A good builder will explain whether the issue is a scope change, a code-related fix, or a site condition that should have been anticipated. The key is to keep decisions documented and tie any extra work to schedule and budget updates before proceeding.",
+      "@type": "Answer",
+      "description": "Unexpected issues should trigger a written change review that explains the problem, the fix, the added cost, and the schedule impact before work continues. Common surprises include hidden damage, undocumented utility conditions, and structural issues.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Unexpected conditions are common once demolition or excavation begins. The right process is to stop, document the issue, and get a written explanation of what was found, what it means, and what the repair or redesign will cost. This keeps the homeowner informed and prevents casual verbal approvals from creating confusion later. In Los Angeles, hidden utility conditions, prior patchwork construction, drainage problems, and structural surprises are common. A good builder will explain whether the issue is a scope change, a code-related fix, or a site condition that should have been anticipated. The key is to keep decisions documented and tie any extra work to schedule and budget updates before proceeding.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Unexpected issues should trigger a written change review that explains the problem, the fix, the added cost, and the schedule impact before work continues. Comm"
+}

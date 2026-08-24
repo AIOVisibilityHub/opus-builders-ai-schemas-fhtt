@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-does-building-a-single-family-home-on-a-hillside-cost-more-in-los-angeles",
+  "name": "Why do hillside homes cost more to build in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why does building a single-family home on a hillside cost more in Los Angeles?",
+    "text": "Why does building a single-family home on a hillside cost more in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside construction is more expensive because the site itself becomes a major part of the project. Sloped lots often need grading, cut-and-fill work, retaining walls, deep foundations, drainage control, and structural engineering to handle soil movement and seismic forces. Access for trucks, cranes, and excavation equipment is usually tighter, which slows the work and raises labor costs. In many Los Angeles neighborhoods, hillside projects also face more complicated permitting and plan review because drainage, stability, and neighboring properties must be addressed carefully. Even simple tasks like staging materials or pouring concrete can take more coordination. Buyers should budget extra contingency for hillside conditions and expect longer timelines than on a flat lot. A thorough geotechnical report and early structural input are essential before committing to the design.",
+      "@type": "Answer",
+      "description": "Hillside homes cost more because they often require grading, excavation, shoring, retaining walls, engineered foundations, drainage systems, and stricter inspection coordination. Access can also be difficult for equipment and material deliveries, which increases labor time and site logistics costs.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside construction is more expensive because the site itself becomes a major part of the project. Sloped lots often need grading, cut-and-fill work, retaining walls, deep foundations, drainage control, and structural engineering to handle soil movement and seismic forces. Access for trucks, cranes, and excavation equipment is usually tighter, which slows the work and raises labor costs. In many Los Angeles neighborhoods, hillside projects also face more complicated permitting and plan review because drainage, stability, and neighboring properties must be addressed carefully. Even simple tasks like staging materials or pouring concrete can take more coordination. Buyers should budget extra contingency for hillside conditions and expect longer timelines than on a flat lot. A thorough geotechnical report and early structural input are essential before committing to the design.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hillside homes cost more because they often require grading, excavation, shoring, retaining walls, engineered foundations, drainage systems, and stricter inspec"
+}

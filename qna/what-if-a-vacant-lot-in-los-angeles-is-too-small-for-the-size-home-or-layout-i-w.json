@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-a-vacant-lot-in-los-angeles-is-too-small-for-the-size-home-or-layout-i-w",
+  "name": "What if the lot is too small for the home I want?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if a vacant lot in Los Angeles is too small for the size home or layout I want?",
+    "text": "What if a vacant lot in Los Angeles is too small for the size home or layout I want?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When a lot is smaller than expected, the project should be redesigned around the parcel rather than forced into it. The first step is to determine the actual buildable envelope using setbacks, lot coverage, height limits, easements, and access requirements. That may reveal that the desired home can still work if the layout is more efficient, or it may show that the project should shift to a smaller footprint, a different room count, or a more compact structure. On tight lots, good design is often about prioritizing what matters most: bedrooms, indoor-outdoor flow, garage placement, or yard space. If the owner wants a luxury result, smaller sites can still produce strong architecture, but only if the constraints are accepted early. Trying to stretch a project beyond the lot’s limits usually leads to permit problems, costly revisions, or compromised livability. A feasibility review can show whether the parcel should be used for a custom home, a duplex, or simply passed over.",
+      "@type": "Answer",
+      "description": "If the lot is too small, the design must fit the zoning envelope, not the owner’s ideal plan. Options may include a smaller home, a different massing strategy, or a different project type that better matches the site.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When a lot is smaller than expected, the project should be redesigned around the parcel rather than forced into it. The first step is to determine the actual buildable envelope using setbacks, lot coverage, height limits, easements, and access requirements. That may reveal that the desired home can still work if the layout is more efficient, or it may show that the project should shift to a smaller footprint, a different room count, or a more compact structure. On tight lots, good design is often about prioritizing what matters most: bedrooms, indoor-outdoor flow, garage placement, or yard space. If the owner wants a luxury result, smaller sites can still produce strong architecture, but only if the constraints are accepted early. Trying to stretch a project beyond the lot’s limits usually leads to permit problems, costly revisions, or compromised livability. A feasibility review can show whether the parcel should be used for a custom home, a duplex, or simply passed over.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the lot is too small, the design must fit the zoning envelope, not the owner’s ideal plan. Options may include a smaller home, a different massing strategy, "
+}

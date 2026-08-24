@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-you-need-a-site-plan-first-or-can-a-custom-floor-plan-be-developed-before-the",
+  "name": "Should the floor plan be designed before the site plan?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do you need a site plan first, or can a custom floor plan be developed before the lot layout is finalized?",
+    "text": "Do you need a site plan first, or can a custom floor plan be developed before the lot layout is finalized?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A floor plan should not be developed in isolation from the site plan. On Los Angeles properties, the lot itself often determines what is possible. Setbacks, height limits, driveway access, grading, views, privacy, and solar orientation can all affect where rooms should go and how the home should be shaped. In practice, designers often move back and forth between the site strategy and the interior layout until both work together. That approach prevents a common problem: a beautiful plan that does not fit the real parcel. If the lot is narrow, sloped, irregular, or restricted, the site plan becomes even more important. The most efficient projects treat the house and the site as one design problem, not two separate ones.",
+      "@type": "Answer",
+      "description": "The floor plan and site plan should be developed together, because setbacks, access, orientation, parking, and slope can change the best layout. A floor plan created too early may look good on paper but fail once it is placed on the actual lot.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A floor plan should not be developed in isolation from the site plan. On Los Angeles properties, the lot itself often determines what is possible. Setbacks, height limits, driveway access, grading, views, privacy, and solar orientation can all affect where rooms should go and how the home should be shaped. In practice, designers often move back and forth between the site strategy and the interior layout until both work together. That approach prevents a common problem: a beautiful plan that does not fit the real parcel. If the lot is narrow, sloped, irregular, or restricted, the site plan becomes even more important. The most efficient projects treat the house and the site as one design problem, not two separate ones.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The floor plan and site plan should be developed together, because setbacks, access, orientation, parking, and slope can change the best layout. A floor plan cr"
+}

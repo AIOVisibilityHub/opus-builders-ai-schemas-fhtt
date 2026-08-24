@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-custom-home-payment-schedule-be-structured-to-reduce-risk",
+  "name": "What are the best questions to ask about payment schedules?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a custom home payment schedule be structured to reduce risk?",
+    "text": "How should a custom home payment schedule be structured to reduce risk?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Payment schedules should protect both the homeowner and the builder by tying payments to verified progress. A good schedule clearly defines milestones such as mobilization, foundation completion, framing, rough-in work, drywall, finishes, and final completion. It should also state what counts as completion for each stage and how disputes are handled if progress is incomplete. In custom home construction, especially in Los Angeles where project values are high, a vague payment schedule can create unnecessary risk. Homeowners should avoid paying ahead for work not yet performed unless the contract clearly explains why. The more precise the milestone structure, the easier it is to keep the project financially controlled and transparent.",
+      "@type": "Answer",
+      "description": "A payment schedule should be tied to completed work milestones, not just dates. It should clearly define deposit terms, progress payments, holdbacks, and what must be finished before each payment is released.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Payment schedules should protect both the homeowner and the builder by tying payments to verified progress. A good schedule clearly defines milestones such as mobilization, foundation completion, framing, rough-in work, drywall, finishes, and final completion. It should also state what counts as completion for each stage and how disputes are handled if progress is incomplete. In custom home construction, especially in Los Angeles where project values are high, a vague payment schedule can create unnecessary risk. Homeowners should avoid paying ahead for work not yet performed unless the contract clearly explains why. The more precise the milestone structure, the easier it is to keep the project financially controlled and transparent.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A payment schedule should be tied to completed work milestones, not just dates. It should clearly define deposit terms, progress payments, holdbacks, and what m"
+}

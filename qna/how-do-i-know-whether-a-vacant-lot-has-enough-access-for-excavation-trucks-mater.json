@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-whether-a-vacant-lot-has-enough-access-for-excavation-trucks-mater",
+  "name": "How do I know if a vacant lot has enough access for construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know whether a vacant lot has enough access for excavation trucks, materials, and workers during construction?",
+    "text": "How do I know whether a vacant lot has enough access for excavation trucks, materials, and workers during construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Construction access is more than just whether a car can reach the property. The site must usually support excavation equipment, delivery trucks, concrete pumping, staging, and day-to-day worker access without damaging neighboring property or blocking the street. Narrow streets, tight driveways, overhead lines, steep grades, and limited turning radii can all complicate a project. Access problems can slow work, increase labor cost, and force special equipment choices. Before committing to a vacant lot, the owner should confirm the path from the street to the building area, the width and slope of that path, and whether construction can occur without major temporary easements or neighbor coordination. If access is marginal, the project may still be possible, but the plan should be adjusted early to reflect the actual logistics rather than an idealized site diagram.",
+      "@type": "Answer",
+      "description": "Construction access depends on street width, driveway geometry, clear entry, staging space, and any restrictions from easements or neighboring structures. If equipment cannot reach the site safely and efficiently, the lot may need redesign or become far more expensive to build.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Construction access is more than just whether a car can reach the property. The site must usually support excavation equipment, delivery trucks, concrete pumping, staging, and day-to-day worker access without damaging neighboring property or blocking the street. Narrow streets, tight driveways, overhead lines, steep grades, and limited turning radii can all complicate a project. Access problems can slow work, increase labor cost, and force special equipment choices. Before committing to a vacant lot, the owner should confirm the path from the street to the building area, the width and slope of that path, and whether construction can occur without major temporary easements or neighbor coordination. If access is marginal, the project may still be possible, but the plan should be adjusted early to reflect the actual logistics rather than an idealized site diagram.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Construction access depends on street width, driveway geometry, clear entry, staging space, and any restrictions from easements or neighboring structures. If eq"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-hard-costs-and-soft-costs-when-building-a-house",
+  "name": "What is the difference between hard costs and soft costs in home construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between hard costs and soft costs when building a house?",
+    "text": "What is the difference between hard costs and soft costs when building a house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hard costs are the direct costs of building the house itself. They include labor, materials, site work, framing, roofing, mechanical systems, finishes, and the trades needed to complete the structure. Soft costs are everything that supports the build but is not part of the physical construction, such as architectural design, engineering, surveys, permits, consultants, and sometimes financing or carrying costs. For Los Angeles homeowners, soft costs can be substantial and should never be treated as an afterthought. Many budget problems happen because people focus on the visible build price while underestimating the total project cost. A clear budget should separate these categories so the owner can see where money is going and where additional reserves are needed. This distinction is one of the most useful tools for planning a realistic custom home project.",
+      "@type": "Answer",
+      "description": "Hard costs are the physical construction expenses such as labor and materials. Soft costs are the non-physical expenses such as design, engineering, permits, surveys, consultant fees, and financing-related project costs.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hard costs are the direct costs of building the house itself. They include labor, materials, site work, framing, roofing, mechanical systems, finishes, and the trades needed to complete the structure. Soft costs are everything that supports the build but is not part of the physical construction, such as architectural design, engineering, surveys, permits, consultants, and sometimes financing or carrying costs. For Los Angeles homeowners, soft costs can be substantial and should never be treated as an afterthought. Many budget problems happen because people focus on the visible build price while underestimating the total project cost. A clear budget should separate these categories so the owner can see where money is going and where additional reserves are needed. This distinction is one of the most useful tools for planning a realistic custom home project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hard costs are the physical construction expenses such as labor and materials. Soft costs are the non-physical expenses such as design, engineering, permits, su"
+}
