@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-items-should-be-checked-during-the-final-walkthrough-of-a-commercial-genera",
+  "name": "What should I expect at the final walkthrough?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What items should be checked during the final walkthrough of a commercial general contracting project?",
+    "text": "What items should be checked during the final walkthrough of a commercial general contracting project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A final walkthrough should be treated as a functional test, not a casual tour. The owner should check finishes, doors, hardware, lighting, plumbing fixtures, HVAC operation, controls, safety systems, signage, accessibility items, and any specialty equipment tied to the project. The contractor should also have closeout paperwork ready, including warranties, manuals, as-builts, and inspection sign-offs where applicable. It helps to walk the space in conditions that match real use, because some problems only appear when systems are run together. Any unresolved punch-list items should be documented clearly with dates and responsibility assigned. A disciplined final walkthrough reduces post-turnover disputes and improves the chance that the space opens smoothly.",
+      "@type": "Answer",
+      "description": "The final walkthrough should verify finish quality, system operation, required corrections, labeling, cleaning, safety items, and closeout documents. Owners should test the space as it will actually be used, not just look at finishes. This is the best time to catch unresolved issues before turnover.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A final walkthrough should be treated as a functional test, not a casual tour. The owner should check finishes, doors, hardware, lighting, plumbing fixtures, HVAC operation, controls, safety systems, signage, accessibility items, and any specialty equipment tied to the project. The contractor should also have closeout paperwork ready, including warranties, manuals, as-builts, and inspection sign-offs where applicable. It helps to walk the space in conditions that match real use, because some problems only appear when systems are run together. Any unresolved punch-list items should be documented clearly with dates and responsibility assigned. A disciplined final walkthrough reduces post-turnover disputes and improves the chance that the space opens smoothly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The final walkthrough should verify finish quality, system operation, required corrections, labeling, cleaning, safety items, and closeout documents. Owners sho"
+}

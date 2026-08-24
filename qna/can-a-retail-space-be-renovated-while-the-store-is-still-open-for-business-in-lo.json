@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-retail-space-be-renovated-while-the-store-is-still-open-for-business-in-lo",
+  "name": "Can a retail space be built out while the store is still operating?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a retail space be renovated while the store is still open for business in Los Angeles?",
+    "text": "Can a retail space be renovated while the store is still open for business in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail space can often be renovated while still operating, but the project must be planned around customer traffic, safety, and store hours. Common strategies include phased work zones, overnight construction, temporary partitions, restricted access areas, and special protection for inventory and displays. This approach works best for cosmetic upgrades, partial remodels, or tenant improvements that do not shut down the entire sales floor. Larger projects involving major electrical, plumbing, or structural work may require a temporary closure or partial relocation. Retail owners should also account for noise, dust, merchandise storage, and staff coordination. The contractor should provide a logistics plan that minimizes disruption and keeps the store safe and presentable throughout the work.",
+      "@type": "Answer",
+      "description": "Yes, a retail renovation can often be done while the store stays open, but it requires phased construction, dust control, safety barriers, and careful scheduling after hours or in low-traffic periods. The project must protect customers, employees, and merchandise.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail space can often be renovated while still operating, but the project must be planned around customer traffic, safety, and store hours. Common strategies include phased work zones, overnight construction, temporary partitions, restricted access areas, and special protection for inventory and displays. This approach works best for cosmetic upgrades, partial remodels, or tenant improvements that do not shut down the entire sales floor. Larger projects involving major electrical, plumbing, or structural work may require a temporary closure or partial relocation. Retail owners should also account for noise, dust, merchandise storage, and staff coordination. The contractor should provide a logistics plan that minimizes disruption and keeps the store safe and presentable throughout the work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a retail renovation can often be done while the store stays open, but it requires phased construction, dust control, safety barriers, and careful schedulin"
+}

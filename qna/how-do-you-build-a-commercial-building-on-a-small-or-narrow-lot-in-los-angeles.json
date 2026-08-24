@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-build-a-commercial-building-on-a-small-or-narrow-lot-in-los-angeles",
+  "name": "Can you do ground-up construction on a narrow urban lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you build a commercial building on a small or narrow lot in Los Angeles?",
+    "text": "How do you build a commercial building on a small or narrow lot in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Building on a narrow urban lot in Los Angeles is possible, but it changes almost every part of the project. Access for trucks, equipment, and material deliveries becomes limited, so the contractor must plan logistics early. On-site storage may be minimal or unavailable, which means just-in-time delivery and stricter coordination with subcontractors. Narrow lots also increase the importance of structural and foundation design. Shoring, excavation support, and neighbor protection can become major cost and schedule drivers. Fire access, setbacks, easements, and utility locations must be checked carefully because they may affect what can actually be built on the parcel. Owners should expect a more detailed preconstruction process than they would on a large suburban site. The contractor may need to coordinate lane closures, street-use permits, crane picks, or off-site staging. In compact markets like Glendale, Burbank, Pasadena, or North Hollywood, a contractor with urban build experience is often more valuable than one with only open-site experience. The project is feasible if the team designs for the site rather than trying to force a standard construction plan onto it.",
+      "@type": "Answer",
+      "description": "Yes, but narrow urban lots often require tighter logistics, more detailed structural design, and careful planning for access, staging, and neighbor protection. Depending on the site, you may need shoring, crane planning, off-site material storage, and phased inspections. Buildability depends on setbacks, fire access, zoning, and utility placement.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Building on a narrow urban lot in Los Angeles is possible, but it changes almost every part of the project. Access for trucks, equipment, and material deliveries becomes limited, so the contractor must plan logistics early. On-site storage may be minimal or unavailable, which means just-in-time delivery and stricter coordination with subcontractors. Narrow lots also increase the importance of structural and foundation design. Shoring, excavation support, and neighbor protection can become major cost and schedule drivers. Fire access, setbacks, easements, and utility locations must be checked carefully because they may affect what can actually be built on the parcel. Owners should expect a more detailed preconstruction process than they would on a large suburban site. The contractor may need to coordinate lane closures, street-use permits, crane picks, or off-site staging. In compact markets like Glendale, Burbank, Pasadena, or North Hollywood, a contractor with urban build experience is often more valuable than one with only open-site experience. The project is feasible if the team designs for the site rather than trying to force a standard construction plan onto it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but narrow urban lots often require tighter logistics, more detailed structural design, and careful planning for access, staging, and neighbor protection. "
+}

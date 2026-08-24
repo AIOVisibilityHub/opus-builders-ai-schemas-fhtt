@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-included-in-a-ground-up-commercial-construction-proposal-in-los-a",
+  "name": "What is included in a ground-up commercial construction package?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in a ground-up commercial construction proposal in Los Angeles?",
+    "text": "What should be included in a ground-up commercial construction proposal in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A complete ground-up commercial construction proposal should do more than give a lump-sum price. It should define the scope in enough detail that the owner can see exactly what is covered from start to finish. Key items usually include site preparation, demolition if needed, grading, utility work, foundation, structural framing, exterior enclosure, roofing, HVAC, electrical, plumbing, fire protection, accessibility items, interior framing and finishes, inspections, testing, and final closeout documentation. In Los Angeles, the proposal should also clarify who is responsible for permit processing, plan check responses, utility coordination, and city-required corrections. Owners should look carefully at exclusions such as off-site improvements, hazardous material remediation, specialty equipment, landscape work, and tenant-specific furniture or fixtures. Allowances should be realistic and tied to current market pricing. A strong proposal also includes an expected schedule, payment milestones, change-order process, and warranty terms. If the contractor is vague about scope, the project is more likely to experience cost overruns and disputes later. The best proposals are specific enough to compare across bidders and flexible enough to handle permit-driven changes.",
+      "@type": "Answer",
+      "description": "A ground-up commercial construction proposal should clearly list site work, demolition if needed, utilities, foundation, framing, envelope, roofing, mechanical, electrical, plumbing, fire protection, interior buildout, inspections, cleanup, and closeout. It should also state allowances, exclusions, schedule assumptions, and who handles permits and agency coordination.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A complete ground-up commercial construction proposal should do more than give a lump-sum price. It should define the scope in enough detail that the owner can see exactly what is covered from start to finish. Key items usually include site preparation, demolition if needed, grading, utility work, foundation, structural framing, exterior enclosure, roofing, HVAC, electrical, plumbing, fire protection, accessibility items, interior framing and finishes, inspections, testing, and final closeout documentation. In Los Angeles, the proposal should also clarify who is responsible for permit processing, plan check responses, utility coordination, and city-required corrections. Owners should look carefully at exclusions such as off-site improvements, hazardous material remediation, specialty equipment, landscape work, and tenant-specific furniture or fixtures. Allowances should be realistic and tied to current market pricing. A strong proposal also includes an expected schedule, payment milestones, change-order process, and warranty terms. If the contractor is vague about scope, the project is more likely to experience cost overruns and disputes later. The best proposals are specific enough to compare across bidders and flexible enough to handle permit-driven changes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A ground-up commercial construction proposal should clearly list site work, demolition if needed, utilities, foundation, framing, envelope, roofing, mechanical,"
+}

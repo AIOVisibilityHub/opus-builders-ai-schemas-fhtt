@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-commercial-general-contractors-phase-work-so-a-business-can-stay-open-dur",
+  "name": "Can I open my business while construction is still going on?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do commercial general contractors phase work so a business can stay open during renovations in Los Angeles?",
+    "text": "How do commercial general contractors phase work so a business can stay open during renovations in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Occupied renovations are possible, but they require a contractor who understands phasing, logistics, and safety controls. The project may need dust partitions, temporary pathways, after-hours work, quiet-hour scheduling, temporary utility shutdown planning, and trade sequencing that protects business operations. This is common in retail, office, medical, and hospitality spaces where closing completely would be too expensive. The tradeoff is that occupied work usually takes longer and costs more because crews must work around active operations and stricter access limits. The owner should ask the contractor how they will maintain customer access, handle noise-sensitive tasks, coordinate deliveries, and protect employees and inventory. If the contractor has no plan for phasing or contingency scheduling, the project is likely to interrupt business more than expected.",
+      "@type": "Answer",
+      "description": "Yes, many commercial projects are phased so the business can stay open, but it requires careful sequencing, safety barriers, off-hours work, and clear access routes. The contractor must coordinate noisy or disruptive trades around customer and staff activity. Occupied renovations are harder, slower, and more prone to schedule changes than vacant-site construction.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Occupied renovations are possible, but they require a contractor who understands phasing, logistics, and safety controls. The project may need dust partitions, temporary pathways, after-hours work, quiet-hour scheduling, temporary utility shutdown planning, and trade sequencing that protects business operations. This is common in retail, office, medical, and hospitality spaces where closing completely would be too expensive. The tradeoff is that occupied work usually takes longer and costs more because crews must work around active operations and stricter access limits. The owner should ask the contractor how they will maintain customer access, handle noise-sensitive tasks, coordinate deliveries, and protect employees and inventory. If the contractor has no plan for phasing or contingency scheduling, the project is likely to interrupt business more than expected.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many commercial projects are phased so the business can stay open, but it requires careful sequencing, safety barriers, off-hours work, and clear access ro"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-signs-show-a-commercial-general-contractor-is-giving-an-unrealistic-timelin",
+  "name": "How do I know if a commercial contractor is overpromising the schedule?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What signs show a commercial general contractor is giving an unrealistic timeline?",
+    "text": "What signs show a commercial general contractor is giving an unrealistic timeline?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An unrealistic schedule usually shows up in the details. If the contractor gives a fast completion date but does not account for permit review, material lead times, inspection failures, design revisions, or owner approvals, the timeline is probably too aggressive. Another warning sign is a schedule that treats every trade as if it can start immediately without coordination. Commercial projects depend on sequencing, so the contractor should be able to explain the critical path and any dependencies. Owners should ask what could move the end date and how much float exists in the schedule. A credible contractor will include buffer time for corrections and will explain where delays are most likely to occur. If the answer sounds like a sales pitch rather than a project plan, caution is warranted.",
+      "@type": "Answer",
+      "description": "Warning signs include a schedule that ignores permits, inspections, long-lead materials, or owner decisions. Overpromising contractors also avoid explaining assumptions or leave no time for corrections. A realistic schedule has built-in review time and clear milestones, not just one optimistic finish date.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An unrealistic schedule usually shows up in the details. If the contractor gives a fast completion date but does not account for permit review, material lead times, inspection failures, design revisions, or owner approvals, the timeline is probably too aggressive. Another warning sign is a schedule that treats every trade as if it can start immediately without coordination. Commercial projects depend on sequencing, so the contractor should be able to explain the critical path and any dependencies. Owners should ask what could move the end date and how much float exists in the schedule. A credible contractor will include buffer time for corrections and will explain where delays are most likely to occur. If the answer sounds like a sales pitch rather than a project plan, caution is warranted.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Warning signs include a schedule that ignores permits, inspections, long-lead materials, or owner decisions. Overpromising contractors also avoid explaining ass"
+}

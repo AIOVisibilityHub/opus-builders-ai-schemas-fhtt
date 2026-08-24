@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-retailer-plan-merchandising-fixtures-and-inventory-around-the-build",
+  "name": "What is the best way to stage a retail opening during construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a retailer plan merchandising, fixtures, and inventory around the build-out schedule?",
+    "text": "How should a retailer plan merchandising, fixtures, and inventory around the build-out schedule?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail opening should be staged carefully so construction, fixture installation, and inventory move in the right order. The store should not be fully stocked before dusty or noisy work is finished, because merchandise can be damaged and access becomes difficult. Instead, the build-out schedule should identify when flooring, painting, millwork, lighting, and final punch list work will be complete so fixtures and inventory can be brought in at the right time. Merchandising teams often need a short window after construction for display setup, POS installation, and final cleaning. If those steps are not planned early, the opening date can be reached before the space is actually ready to sell. The best approach is to build a move-in checklist that aligns construction milestones with inventory delivery and staff training.",
+      "@type": "Answer",
+      "description": "Inventory and merchandising should be staged after the core construction milestones are complete, with fixtures and displays coordinated to arrive before final installation. The goal is to avoid stocking the store too early and risking damage, clutter, or rework.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail opening should be staged carefully so construction, fixture installation, and inventory move in the right order. The store should not be fully stocked before dusty or noisy work is finished, because merchandise can be damaged and access becomes difficult. Instead, the build-out schedule should identify when flooring, painting, millwork, lighting, and final punch list work will be complete so fixtures and inventory can be brought in at the right time. Merchandising teams often need a short window after construction for display setup, POS installation, and final cleaning. If those steps are not planned early, the opening date can be reached before the space is actually ready to sell. The best approach is to build a move-in checklist that aligns construction milestones with inventory delivery and staff training.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Inventory and merchandising should be staged after the core construction milestones are complete, with fixtures and displays coordinated to arrive before final "
+}

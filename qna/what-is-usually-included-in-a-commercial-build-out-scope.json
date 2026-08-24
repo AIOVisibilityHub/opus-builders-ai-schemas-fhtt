@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-usually-included-in-a-commercial-build-out-scope",
+  "name": "What does a commercial build-out include?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is usually included in a commercial build-out scope?",
+    "text": "What is usually included in a commercial build-out scope?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A commercial build-out typically starts with demolition and layout work, then moves into framing, drywall, electrical, plumbing, and HVAC. Depending on the tenant’s use, it may also require fire sprinkler changes, access compliance, flooring, paint, millwork, signage, data cabling, and specialty equipment installation. For restaurants, medical suites, and retail stores, the scope may extend to ventilation systems, cabinetry, casework, refrigeration, or patient/service areas. Owners should confirm exactly what is included in the contractor’s price and what belongs to the landlord or separate vendors. Build-out scopes often cause disputes when utility tie-ins, permits, inspections, or closeout items are assumed rather than written into the contract.",
+      "@type": "Answer",
+      "description": "A commercial build-out usually includes demolition, framing, drywall, electrical, plumbing, HVAC, fire protection, finishes, fixtures, and final inspections. Depending on the use, it may also include ADA work, specialty equipment, and utility upgrades.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A commercial build-out typically starts with demolition and layout work, then moves into framing, drywall, electrical, plumbing, and HVAC. Depending on the tenant’s use, it may also require fire sprinkler changes, access compliance, flooring, paint, millwork, signage, data cabling, and specialty equipment installation. For restaurants, medical suites, and retail stores, the scope may extend to ventilation systems, cabinetry, casework, refrigeration, or patient/service areas. Owners should confirm exactly what is included in the contractor’s price and what belongs to the landlord or separate vendors. Build-out scopes often cause disputes when utility tie-ins, permits, inspections, or closeout items are assumed rather than written into the contract.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A commercial build-out usually includes demolition, framing, drywall, electrical, plumbing, HVAC, fire protection, finishes, fixtures, and final inspections. De"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-contingency-should-a-retail-construction-budget-include-for-los-angeles",
+  "name": "How much contingency should a retail build-out budget include?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much contingency should a retail construction budget include for Los Angeles projects?",
+    "text": "How much contingency should a retail construction budget include for Los Angeles projects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail construction contingency protects the budget from surprises such as hidden conditions, permit revisions, price changes, or minor scope changes during construction. For a straightforward project with a clear scope and a well-understood space, a 5% to 10% contingency is common. For older buildings, first-generation spaces, or projects with custom millwork, HVAC changes, or accessibility work, a larger reserve is safer. In Los Angeles, contingency is especially important because plan check comments, inspection corrections, and subcontractor pricing shifts can affect the final cost. Retail owners should treat contingency as part of the real budget, not as optional padding. It is much easier to return unused contingency than to stop a project because the reserve is missing.",
+      "@type": "Answer",
+      "description": "A retail build-out budget should usually include a contingency of about 5% to 10% for straightforward projects and more for complex or uncertain scopes. Older buildings, permit-heavy projects, and custom retail concepts often need a larger reserve.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail construction contingency protects the budget from surprises such as hidden conditions, permit revisions, price changes, or minor scope changes during construction. For a straightforward project with a clear scope and a well-understood space, a 5% to 10% contingency is common. For older buildings, first-generation spaces, or projects with custom millwork, HVAC changes, or accessibility work, a larger reserve is safer. In Los Angeles, contingency is especially important because plan check comments, inspection corrections, and subcontractor pricing shifts can affect the final cost. Retail owners should treat contingency as part of the real budget, not as optional padding. It is much easier to return unused contingency than to stop a project because the reserve is missing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A retail build-out budget should usually include a contingency of about 5% to 10% for straightforward projects and more for complex or uncertain scopes. Older b"
+}

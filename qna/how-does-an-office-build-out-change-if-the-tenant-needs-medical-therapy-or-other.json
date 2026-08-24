@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-an-office-build-out-change-if-the-tenant-needs-medical-therapy-or-other",
+  "name": "What if the office build-out is for a medical or specialty-use practice?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does an office build-out change if the tenant needs medical, therapy, or other specialty-use rooms?",
+    "text": "How does an office build-out change if the tenant needs medical, therapy, or other specialty-use rooms?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When an office build-out supports a medical, therapy, or other specialty use, the project usually becomes more complex than a standard administrative office. These spaces often need additional plumbing, more HVAC control, enhanced privacy, accessibility considerations, and layout coordination for equipment or specialized workflows. That can increase both cost and permitting complexity. In the Los Angeles area, specialty-use projects may also face more detailed review because the building systems must support the intended operation safely and consistently. Even if the overall square footage is modest, the build-out can be significantly more involved than a typical office. Tenants should define operational requirements before design begins so the contractor can identify system needs early. It is much easier to plan for specialty infrastructure up front than to retrofit it after plans are submitted.",
+      "@type": "Answer",
+      "description": "Specialty-use spaces usually require more complex plumbing, HVAC, accessibility, privacy, and code coordination than standard office build-outs. They often need more detailed planning, more inspections, and higher budgets because the rooms must support specialized equipment and operational requirements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When an office build-out supports a medical, therapy, or other specialty use, the project usually becomes more complex than a standard administrative office. These spaces often need additional plumbing, more HVAC control, enhanced privacy, accessibility considerations, and layout coordination for equipment or specialized workflows. That can increase both cost and permitting complexity. In the Los Angeles area, specialty-use projects may also face more detailed review because the building systems must support the intended operation safely and consistently. Even if the overall square footage is modest, the build-out can be significantly more involved than a typical office. Tenants should define operational requirements before design begins so the contractor can identify system needs early. It is much easier to plan for specialty infrastructure up front than to retrofit it after plans are submitted.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Specialty-use spaces usually require more complex plumbing, HVAC, accessibility, privacy, and code coordination than standard office build-outs. They often need"
+}

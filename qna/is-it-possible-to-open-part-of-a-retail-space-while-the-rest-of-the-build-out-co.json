@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-open-part-of-a-retail-space-while-the-rest-of-the-build-out-co",
+  "name": "Can retail build-outs be phased so a store opens sooner?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to open part of a retail space while the rest of the build-out continues?",
+    "text": "Is it possible to open part of a retail space while the rest of the build-out continues?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phased retail openings are possible when the layout allows safe separation between finished and unfinished areas. This approach is useful when a tenant needs to start revenue sooner or when part of the build-out depends on long-lead items. The completed area must still meet safety, accessibility, and occupancy requirements, and the unfinished portion must be isolated from customer traffic. In practice, phasing works best for larger retail spaces with clear zoning between the sales floor, storage, and back-of-house areas. It is much harder to phase a small storefront because customer circulation and life-safety requirements leave little room for partial occupancy. The contractor, designer, and landlord should confirm whether a phased opening is acceptable before relying on it. If the city or property manager will not allow partial occupancy, the plan can create false expectations and opening delays.",
+      "@type": "Answer",
+      "description": "Yes, some retail projects can be phased so a store opens in stages, but only if life-safety, egress, and customer access are properly separated. Phasing works best when the core sales area is complete and unfinished areas are safely isolated.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phased retail openings are possible when the layout allows safe separation between finished and unfinished areas. This approach is useful when a tenant needs to start revenue sooner or when part of the build-out depends on long-lead items. The completed area must still meet safety, accessibility, and occupancy requirements, and the unfinished portion must be isolated from customer traffic. In practice, phasing works best for larger retail spaces with clear zoning between the sales floor, storage, and back-of-house areas. It is much harder to phase a small storefront because customer circulation and life-safety requirements leave little room for partial occupancy. The contractor, designer, and landlord should confirm whether a phased opening is acceptable before relying on it. If the city or property manager will not allow partial occupancy, the plan can create false expectations and opening delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, some retail projects can be phased so a store opens in stages, but only if life-safety, egress, and customer access are properly separated. Phasing works b"
+}

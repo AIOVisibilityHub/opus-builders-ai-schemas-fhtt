@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-a-retail-tenant-improvement-permit-take-in-pasadena-compared-with",
+  "name": "How long does a retail tenant improvement permit take in Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does a retail tenant improvement permit take in Pasadena compared with Glendale or Burbank?",
+    "text": "How long does a retail tenant improvement permit take in Pasadena compared with Glendale or Burbank?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail TI timelines vary widely by city and by the complexity of the plans. A simple interior refresh may move relatively quickly, but once the project includes plumbing, mechanical, fire, accessibility, or occupancy-related changes, plan review usually takes longer. Pasadena and nearby cities can also differ in how they process corrections and issue trade approvals. The biggest schedule risk is incomplete drawings, missing consultant documents, or landlord approval not being ready when the submittal goes in. For a smoother schedule, prepare a complete plan set, confirm the permit path before submission, and build in time for corrections and trade coordination. If opening date is fixed, start permitting well before lease milestones or merchandising deadlines.",
+      "@type": "Answer",
+      "description": "Timeline depends on scope, plan review workload, and how complete the drawings are. Simple retail build-outs can move faster, while projects involving occupancy changes, structural work, or multiple trade reviews often take several rounds and longer approval times.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail TI timelines vary widely by city and by the complexity of the plans. A simple interior refresh may move relatively quickly, but once the project includes plumbing, mechanical, fire, accessibility, or occupancy-related changes, plan review usually takes longer. Pasadena and nearby cities can also differ in how they process corrections and issue trade approvals. The biggest schedule risk is incomplete drawings, missing consultant documents, or landlord approval not being ready when the submittal goes in. For a smoother schedule, prepare a complete plan set, confirm the permit path before submission, and build in time for corrections and trade coordination. If opening date is fixed, start permitting well before lease milestones or merchandising deadlines.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Timeline depends on scope, plan review workload, and how complete the drawings are. Simple retail build-outs can move faster, while projects involving occupancy"
+}

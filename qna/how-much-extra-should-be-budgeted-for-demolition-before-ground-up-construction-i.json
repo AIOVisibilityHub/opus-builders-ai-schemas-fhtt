@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-extra-should-be-budgeted-for-demolition-before-ground-up-construction-i",
+  "name": "How much does a commercial site demo add to the budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much extra should be budgeted for demolition before ground-up construction in Los Angeles?",
+    "text": "How much extra should be budgeted for demolition before ground-up construction in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Demolition can range from a minor line item to a major budget driver on a ground-up commercial project. The cost depends on the size and type of existing structure, whether hazardous materials are present, how much haul-off is required, and how hard it is for equipment to access the site. In Los Angeles, demo can become more expensive when the site is tight, adjacent properties need protection, or street-use permits are required. Owners should never assume demolition is a simple add-on. It may require separate permitting, utility disconnects, environmental testing, and abatement if asbestos or other hazards are found. If the demo scope is not fully defined before pricing, the contractor may have to carry a large allowance. The most accurate budget separates demolition from new construction and identifies any special conditions early. That helps owners understand whether the site is truly ready for build-out or whether preconstruction work will be needed first. A clear demo scope also reduces the risk of surprises once the project starts moving.",
+      "@type": "Answer",
+      "description": "Demolition can add a small or very large amount to the budget depending on building size, hazardous materials, haul-off, and site access. Simple demo may be relatively modest, while occupied urban sites, asbestos abatement, and tight access can significantly increase costs. It should always be priced separately from the new build.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Demolition can range from a minor line item to a major budget driver on a ground-up commercial project. The cost depends on the size and type of existing structure, whether hazardous materials are present, how much haul-off is required, and how hard it is for equipment to access the site. In Los Angeles, demo can become more expensive when the site is tight, adjacent properties need protection, or street-use permits are required. Owners should never assume demolition is a simple add-on. It may require separate permitting, utility disconnects, environmental testing, and abatement if asbestos or other hazards are found. If the demo scope is not fully defined before pricing, the contractor may have to carry a large allowance. The most accurate budget separates demolition from new construction and identifies any special conditions early. That helps owners understand whether the site is truly ready for build-out or whether preconstruction work will be needed first. A clear demo scope also reduces the risk of surprises once the project starts moving.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Demolition can add a small or very large amount to the budget depending on building size, hazardous materials, haul-off, and site access. Simple demo may be rel"
+}

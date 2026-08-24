@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-inspections-most-often-slow-down-commercial-general-contracting-projects-in",
+  "name": "How do Los Angeles inspections affect the schedule?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What inspections most often slow down commercial general contracting projects in Los Angeles and nearby cities?",
+    "text": "What inspections most often slow down commercial general contracting projects in Los Angeles and nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Inspection timing matters because a commercial project cannot move to the next step until the prior work is approved. In practice, delays happen when one trade is not finished, the plans do not match field conditions, or a required correction was not addressed before the inspector arrives. This is especially important for projects with fire alarm, sprinkler, accessibility, or utility coordination. In cities like Los Angeles, Glendale, Pasadena, and Burbank, a contractor needs to plan inspection windows carefully and keep all subs aligned. Owners should ask how the contractor sequences rough inspections, what happens if an inspection fails, and whether they keep a correction-response process in place. A disciplined contractor reduces downtime by making sure the site is truly ready before calling for inspection.",
+      "@type": "Answer",
+      "description": "Inspections can slow a project when rough framing, electrical, plumbing, fire-safety, or final sign-off steps are not ready at the same time. Missed sequencing often creates repeat visits and delays occupancy. A contractor who schedules inspections too early or without trade coordination can easily push back opening dates.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Inspection timing matters because a commercial project cannot move to the next step until the prior work is approved. In practice, delays happen when one trade is not finished, the plans do not match field conditions, or a required correction was not addressed before the inspector arrives. This is especially important for projects with fire alarm, sprinkler, accessibility, or utility coordination. In cities like Los Angeles, Glendale, Pasadena, and Burbank, a contractor needs to plan inspection windows carefully and keep all subs aligned. Owners should ask how the contractor sequences rough inspections, what happens if an inspection fails, and whether they keep a correction-response process in place. A disciplined contractor reduces downtime by making sure the site is truly ready before calling for inspection.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Inspections can slow a project when rough framing, electrical, plumbing, fire-safety, or final sign-off steps are not ready at the same time. Missed sequencing "
+}

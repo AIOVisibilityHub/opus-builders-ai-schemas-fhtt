@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-does-core-and-shell-mean-in-office-construction-and-how-is-it-different-fro",
+  "name": "What is the difference between core and shell and tenant improvement in office construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What does core and shell mean in office construction, and how is it different from tenant improvement work?",
+    "text": "What does core and shell mean in office construction, and how is it different from tenant improvement work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Core and shell describes the base building that is delivered before a tenant customizes the interior. It usually includes the structure, envelope, basic utilities, and core building systems, but not the finished office layout. Tenant improvement is the work that turns that shell into a usable office with rooms, finishes, lighting, HVAC adjustments, and any other tenant-specific features. The distinction matters because the cost, permit scope, and responsibility split are different. If a project starts with an unfinished shell in Los Angeles, the tenant improvement budget must account for more systems work than a simple remodel of an existing office suite. If the space already has a finished office layout, the TI may only involve demolition and reconfiguration. Understanding where core and shell ends and tenant improvement begins helps owners, tenants, and contractors avoid scope disputes.",
+      "@type": "Answer",
+      "description": "Core and shell refers to the base building structure and essential systems delivered by the developer or owner. Tenant improvement is the interior construction that adapts that shell for a specific occupant. Core and shell is the blank canvas; tenant improvement is the customized office build-out.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Core and shell describes the base building that is delivered before a tenant customizes the interior. It usually includes the structure, envelope, basic utilities, and core building systems, but not the finished office layout. Tenant improvement is the work that turns that shell into a usable office with rooms, finishes, lighting, HVAC adjustments, and any other tenant-specific features. The distinction matters because the cost, permit scope, and responsibility split are different. If a project starts with an unfinished shell in Los Angeles, the tenant improvement budget must account for more systems work than a simple remodel of an existing office suite. If the space already has a finished office layout, the TI may only involve demolition and reconfiguration. Understanding where core and shell ends and tenant improvement begins helps owners, tenants, and contractors avoid scope disputes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Core and shell refers to the base building structure and essential systems delivered by the developer or owner. Tenant improvement is the interior construction "
+}

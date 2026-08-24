@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-typical-cost-per-square-foot-for-commercial-tenant-improvements-in-l",
+  "name": "How much do commercial tenant improvements cost per square foot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the typical cost per square foot for commercial tenant improvements in Los Angeles?",
+    "text": "What is the typical cost per square foot for commercial tenant improvements in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Tenant improvement pricing varies mostly by use, finish level, and how much hidden infrastructure must be replaced. Office build-outs are often the lowest among common commercial uses, while retail, medical, and restaurant spaces cost more because they need more mechanical, electrical, plumbing, fire, and code-related work. In Los Angeles, older buildings can push costs higher because you may discover seismic, accessibility, or utility upgrades that were not obvious at bid time. A useful budget should separate hard construction costs from soft costs such as design, engineering, permits, testing, and contingency. Owners should also ask whether the quote includes demolition, utility tie-ins, sprinkler changes, and after-hours work, because those items can materially change the final number. The best comparisons are apples-to-apples scopes with the same finish level and same assumption about permit and utility work.",
+      "@type": "Answer",
+      "description": "Commercial tenant improvements in Los Angeles can range widely by use: office work is often lower, retail is mid-range, medical space is higher, and restaurant construction is usually the most expensive. Cost rises with code upgrades, MEP work, finishes, and permit complexity.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Tenant improvement pricing varies mostly by use, finish level, and how much hidden infrastructure must be replaced. Office build-outs are often the lowest among common commercial uses, while retail, medical, and restaurant spaces cost more because they need more mechanical, electrical, plumbing, fire, and code-related work. In Los Angeles, older buildings can push costs higher because you may discover seismic, accessibility, or utility upgrades that were not obvious at bid time. A useful budget should separate hard construction costs from soft costs such as design, engineering, permits, testing, and contingency. Owners should also ask whether the quote includes demolition, utility tie-ins, sprinkler changes, and after-hours work, because those items can materially change the final number. The best comparisons are apples-to-apples scopes with the same finish level and same assumption about permit and utility work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Commercial tenant improvements in Los Angeles can range widely by use: office work is often lower, retail is mid-range, medical space is higher, and restaurant "
+}

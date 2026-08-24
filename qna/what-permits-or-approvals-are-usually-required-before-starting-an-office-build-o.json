@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-or-approvals-are-usually-required-before-starting-an-office-build-o",
+  "name": "What permits are needed for an office build-out in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits or approvals are usually required before starting an office build-out in Los Angeles or nearby cities?",
+    "text": "What permits or approvals are usually required before starting an office build-out in Los Angeles or nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The exact permit path depends on scope, but most office build-outs in Los Angeles require some combination of plan check, building permits, and trade permits for electrical, mechanical, and plumbing work. If the project changes occupancy features, adds new restrooms, modifies egress, or affects fire-life-safety systems, additional approvals may be needed. Building owners and property managers often require their own review process before city submittal, which can add time. In Glendale, Pasadena, Burbank, and North Hollywood, older buildings may also trigger added scrutiny for accessibility, energy compliance, or existing-condition verification. The smartest move is to confirm permit responsibilities before lease execution and have the contractor identify which items need separate review. That helps avoid starting design work with an incomplete scope.",
+      "@type": "Answer",
+      "description": "Most office build-outs need plan review and permits for interior construction, and some projects also require electrical, mechanical, plumbing, fire-safety, or accessibility-related approvals. Landlord review and building management approval are often required before city permits are issued or construction starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The exact permit path depends on scope, but most office build-outs in Los Angeles require some combination of plan check, building permits, and trade permits for electrical, mechanical, and plumbing work. If the project changes occupancy features, adds new restrooms, modifies egress, or affects fire-life-safety systems, additional approvals may be needed. Building owners and property managers often require their own review process before city submittal, which can add time. In Glendale, Pasadena, Burbank, and North Hollywood, older buildings may also trigger added scrutiny for accessibility, energy compliance, or existing-condition verification. The smartest move is to confirm permit responsibilities before lease execution and have the contractor identify which items need separate review. That helps avoid starting design work with an incomplete scope.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most office build-outs need plan review and permits for interior construction, and some projects also require electrical, mechanical, plumbing, fire-safety, or "
+}

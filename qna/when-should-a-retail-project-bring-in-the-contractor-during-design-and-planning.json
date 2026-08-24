@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-should-a-retail-project-bring-in-the-contractor-during-design-and-planning",
+  "name": "When should a retail project bring in the contractor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When should a retail project bring in the contractor during design and planning?",
+    "text": "When should a retail project bring in the contractor during design and planning?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The contractor should be brought in early in a retail project, not after the design is already locked. Early collaboration helps identify budget risks, permit issues, utility needs, lead times, and layout choices that may affect the final cost. It also gives the owner a better chance to value-engineer the project without compromising the brand or function of the space. In retail construction, small decisions about lighting, plumbing, storage, or display walls can have big cost consequences later. Early contractor input is especially useful in Los Angeles-area projects where permitting, landlord review, and inspections can affect schedule. The sooner the contractor is involved, the easier it is to build a realistic budget and timeline.",
+      "@type": "Answer",
+      "description": "A retail contractor should be involved early, ideally during concept and budgeting, before plans are finalized. Early input helps identify cost drivers, permit issues, long-lead items, and layout choices that can affect the opening date.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The contractor should be brought in early in a retail project, not after the design is already locked. Early collaboration helps identify budget risks, permit issues, utility needs, lead times, and layout choices that may affect the final cost. It also gives the owner a better chance to value-engineer the project without compromising the brand or function of the space. In retail construction, small decisions about lighting, plumbing, storage, or display walls can have big cost consequences later. Early contractor input is especially useful in Los Angeles-area projects where permitting, landlord review, and inspections can affect schedule. The sooner the contractor is involved, the easier it is to build a realistic budget and timeline.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A retail contractor should be involved early, ideally during concept and budgeting, before plans are finalized. Early input helps identify cost drivers, permit "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-retail-tenant-improvement-projects-in-los-angeles-go-over-budget-even-whe",
+  "name": "What causes retail build-out budgets to go over estimate?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do retail tenant improvement projects in Los Angeles go over budget even when the square-foot price looked reasonable?",
+    "text": "Why do retail tenant improvement projects in Los Angeles go over budget even when the square-foot price looked reasonable?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail build-out budgets often fail because the initial estimate is based on assumptions that later change. Hidden conditions behind walls or above ceilings can require unexpected electrical, plumbing, framing, or HVAC work. In Los Angeles, permit review can also force revisions that add code-required upgrades, accessibility changes, or life-safety improvements. Change orders are another major cause, especially when a tenant selects finishes after pricing, changes the layout midstream, or adds custom millwork and specialty lighting. Landlord requirements can also create extra costs if the base-building connection points are not what the drawings assumed. To reduce overruns, the scope should be documented in detail, allowances should be realistic, and a contingency should be built into the budget from the beginning. The best budgets separate hard costs, soft costs, contingency, and tenant-opening expenses so the project is not underfunded before construction even starts.",
+      "@type": "Answer",
+      "description": "Budgets usually overrun because of change orders, permit revisions, hidden existing conditions, long-lead material upgrades, and scope gaps between the lease and drawings. The biggest surprise costs often come from MEP changes, accessibility upgrades, and landlord-required corrections.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail build-out budgets often fail because the initial estimate is based on assumptions that later change. Hidden conditions behind walls or above ceilings can require unexpected electrical, plumbing, framing, or HVAC work. In Los Angeles, permit review can also force revisions that add code-required upgrades, accessibility changes, or life-safety improvements. Change orders are another major cause, especially when a tenant selects finishes after pricing, changes the layout midstream, or adds custom millwork and specialty lighting. Landlord requirements can also create extra costs if the base-building connection points are not what the drawings assumed. To reduce overruns, the scope should be documented in detail, allowances should be realistic, and a contingency should be built into the budget from the beginning. The best budgets separate hard costs, soft costs, contingency, and tenant-opening expenses so the project is not underfunded before construction even starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Budgets usually overrun because of change orders, permit revisions, hidden existing conditions, long-lead material upgrades, and scope gaps between the lease an"
+}

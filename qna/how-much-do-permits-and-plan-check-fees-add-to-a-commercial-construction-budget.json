@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-do-permits-and-plan-check-fees-add-to-a-commercial-construction-budget",
+  "name": "How do permit fees affect the total project budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much do permits and plan check fees add to a commercial construction budget?",
+    "text": "How much do permits and plan check fees add to a commercial construction budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit and plan check fees are not the largest part of most commercial budgets, but they can materially affect the final number because commercial projects often need multiple reviews. Fees may include plan check, building permits, mechanical, electrical, plumbing, fire, accessibility-related review, and possible additional agency charges. The amount depends on project valuation, use type, and location. In older or more complex buildings, the soft-cost burden can rise further because of corrections, resubmittals, consultant work, and required reports. Owners should budget for more than just the initial filing fee. A realistic preconstruction budget should include permits, design, engineering, testing, and contingency so the project does not stall when the first review comments arrive.",
+      "@type": "Answer",
+      "description": "Permit and plan check fees can add a meaningful soft-cost layer to commercial projects, especially when multiple departments review the plans. The total varies by scope, valuation, use, and city requirements, so they should be budgeted early rather than treated as a minor line item.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit and plan check fees are not the largest part of most commercial budgets, but they can materially affect the final number because commercial projects often need multiple reviews. Fees may include plan check, building permits, mechanical, electrical, plumbing, fire, accessibility-related review, and possible additional agency charges. The amount depends on project valuation, use type, and location. In older or more complex buildings, the soft-cost burden can rise further because of corrections, resubmittals, consultant work, and required reports. Owners should budget for more than just the initial filing fee. A realistic preconstruction budget should include permits, design, engineering, testing, and contingency so the project does not stall when the first review comments arrive.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permit and plan check fees can add a meaningful soft-cost layer to commercial projects, especially when multiple departments review the plans. The total varies "
+}

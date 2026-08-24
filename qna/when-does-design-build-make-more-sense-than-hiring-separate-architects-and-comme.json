@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-design-build-make-more-sense-than-hiring-separate-architects-and-comme",
+  "name": "Can one contractor handle both design and construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does design-build make more sense than hiring separate architects and commercial contractors?",
+    "text": "When does design-build make more sense than hiring separate architects and commercial contractors?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build can simplify commercial projects because one team manages both design coordination and construction delivery. That reduces handoff issues between architect, engineer, and contractor, which is especially useful when time is tight or the project has many moving parts. It can also help owners get earlier pricing feedback, which improves budget control. The model works best when the owner values speed and wants a single point of responsibility. It may be less ideal when the project needs highly specialized design oversight or when separate bidding is preferred for competitive pricing. Owners should ask how the design-build team handles scope definition, permit drawings, value engineering, and change control. A good design-build arrangement should improve clarity, not reduce it.",
+      "@type": "Answer",
+      "description": "Design-build can be a strong choice when speed, coordination, and budget control matter more than separating design from construction. One team can shorten communication gaps and reduce redraw cycles. It works best when the owner wants a more integrated process and the project scope can be defined early enough.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build can simplify commercial projects because one team manages both design coordination and construction delivery. That reduces handoff issues between architect, engineer, and contractor, which is especially useful when time is tight or the project has many moving parts. It can also help owners get earlier pricing feedback, which improves budget control. The model works best when the owner values speed and wants a single point of responsibility. It may be less ideal when the project needs highly specialized design oversight or when separate bidding is preferred for competitive pricing. Owners should ask how the design-build team handles scope definition, permit drawings, value engineering, and change control. A good design-build arrangement should improve clarity, not reduce it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build can be a strong choice when speed, coordination, and budget control matter more than separating design from construction. One team can shorten comm"
+}

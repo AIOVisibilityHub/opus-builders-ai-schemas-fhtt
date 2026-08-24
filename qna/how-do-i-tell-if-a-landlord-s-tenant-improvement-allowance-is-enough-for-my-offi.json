@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-tell-if-a-landlord-s-tenant-improvement-allowance-is-enough-for-my-offi",
+  "name": "How do I estimate office construction costs from a landlord allowance?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I tell if a landlord’s tenant improvement allowance is enough for my office build-out?",
+    "text": "How do I tell if a landlord’s tenant improvement allowance is enough for my office build-out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "To judge whether a landlord allowance is enough, start by pricing the full office scope instead of only the visible construction items. Include demolition, framing, doors, finishes, electrical, plumbing, HVAC, fire protection, design, engineering, permit fees, low-voltage work, furniture, and a contingency reserve. Then compare that total to the allowance amount and reimbursement structure. Some leases reimburse after completion, which means the tenant still needs cash flow during construction. Others pay only for approved line items or only up to a fixed cap. In Los Angeles, a tenant improvement allowance that looks large on paper can still fall short once plan check, higher-end finishes, or building-required upgrades are included. The cleanest approach is to request a contractor budget before signing the lease or before finalizing tenant improvements. That lets you negotiate a better allowance, choose simpler finishes, or reduce scope before costs become locked in.",
+      "@type": "Answer",
+      "description": "Compare the allowance against the full scope, not just the construction shell. Add design, permits, plan check, low-voltage, furniture, and contingency to the projected hard costs. If the allowance is below the total project budget, the tenant must pay the difference, often up front or through reimbursement terms.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "To judge whether a landlord allowance is enough, start by pricing the full office scope instead of only the visible construction items. Include demolition, framing, doors, finishes, electrical, plumbing, HVAC, fire protection, design, engineering, permit fees, low-voltage work, furniture, and a contingency reserve. Then compare that total to the allowance amount and reimbursement structure. Some leases reimburse after completion, which means the tenant still needs cash flow during construction. Others pay only for approved line items or only up to a fixed cap. In Los Angeles, a tenant improvement allowance that looks large on paper can still fall short once plan check, higher-end finishes, or building-required upgrades are included. The cleanest approach is to request a contractor budget before signing the lease or before finalizing tenant improvements. That lets you negotiate a better allowance, choose simpler finishes, or reduce scope before costs become locked in.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare the allowance against the full scope, not just the construction shell. Add design, permits, plan check, low-voltage, furniture, and contingency to the p"
+}

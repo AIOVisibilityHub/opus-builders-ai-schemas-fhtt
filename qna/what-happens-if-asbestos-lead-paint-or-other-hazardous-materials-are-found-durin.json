@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-asbestos-lead-paint-or-other-hazardous-materials-are-found-durin",
+  "name": "What if the office building has asbestos or lead paint?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if asbestos, lead paint, or other hazardous materials are found during demolition?",
+    "text": "What happens if asbestos, lead paint, or other hazardous materials are found during demolition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Finding asbestos, lead paint, or other hazardous materials during demolition is a common reason office renovations run over budget and behind schedule in older buildings. When suspected materials are found, the affected area should be isolated and evaluated before demolition continues. The contractor may need to bring in environmental testing, abatement planning, and specialized removal crews before construction resumes. That work adds direct cost and can also affect permitting and inspection timing. The safest approach is to investigate older buildings early, before demolition starts, so the project team can include contingency money and schedule buffer from the beginning. This reduces the risk of surprise shutdowns once walls or ceilings are opened up.",
+      "@type": "Answer",
+      "description": "If hazardous materials are discovered during an office renovation, work usually has to stop in the affected area until the material is tested, contained, and removed by properly qualified specialists. This can add cost and time, especially in older buildings.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Finding asbestos, lead paint, or other hazardous materials during demolition is a common reason office renovations run over budget and behind schedule in older buildings. When suspected materials are found, the affected area should be isolated and evaluated before demolition continues. The contractor may need to bring in environmental testing, abatement planning, and specialized removal crews before construction resumes. That work adds direct cost and can also affect permitting and inspection timing. The safest approach is to investigate older buildings early, before demolition starts, so the project team can include contingency money and schedule buffer from the beginning. This reduces the risk of surprise shutdowns once walls or ceilings are opened up.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If hazardous materials are discovered during an office renovation, work usually has to stop in the affected area until the material is tested, contained, and re"
+}

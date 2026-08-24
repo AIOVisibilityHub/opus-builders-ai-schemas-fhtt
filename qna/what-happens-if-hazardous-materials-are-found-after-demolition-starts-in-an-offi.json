@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-hazardous-materials-are-found-after-demolition-starts-in-an-offi",
+  "name": "What if my office build-out discovers asbestos or other hazardous materials?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if hazardous materials are found after demolition starts in an office build-out?",
+    "text": "What happens if hazardous materials are found after demolition starts in an office build-out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If hazardous materials are found during an office build-out, the contractor typically has to stop work in the affected area and bring in qualified specialists for testing and remediation. This can affect demolition, schedule, and budget immediately. Older Los Angeles-area buildings may have greater risk because prior materials and construction methods can be harder to verify in advance. The best protection is early inspection and environmental review before the project reaches demolition. Tenants should also make sure the lease and contract clearly define who is responsible for hazardous-material conditions if they are discovered. When this issue is handled late, it can delay occupancy and create expensive change orders. Early diligence is far less costly than discovering the issue after construction has already started.",
+      "@type": "Answer",
+      "description": "If hazardous materials are discovered, work usually stops in the affected area until testing, removal, clearance, and any required reporting are completed. This can add time and cost, so older buildings should be investigated early before demolition begins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If hazardous materials are found during an office build-out, the contractor typically has to stop work in the affected area and bring in qualified specialists for testing and remediation. This can affect demolition, schedule, and budget immediately. Older Los Angeles-area buildings may have greater risk because prior materials and construction methods can be harder to verify in advance. The best protection is early inspection and environmental review before the project reaches demolition. Tenants should also make sure the lease and contract clearly define who is responsible for hazardous-material conditions if they are discovered. When this issue is handled late, it can delay occupancy and create expensive change orders. Early diligence is far less costly than discovering the issue after construction has already started.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If hazardous materials are discovered, work usually stops in the affected area until testing, removal, clearance, and any required reporting are completed. This"
+}

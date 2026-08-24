@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-extra-permits-does-a-commercial-restaurant-build-out-usually-need-in-los-an",
+  "name": "What permits are needed for a restaurant build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What extra permits does a commercial restaurant build-out usually need in Los Angeles?",
+    "text": "What extra permits does a commercial restaurant build-out usually need in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Restaurant projects are usually more permit-heavy than office or retail tenant improvements because they involve cooking equipment, ventilation, plumbing, fire suppression, and customer accessibility. A typical build-out may require review for the building shell, kitchen hood and suppression system, exhaust routing, grease interceptor capacity, plumbing fixture counts, electrical loads, mechanical equipment, and path-of-travel accessibility. If the space changes from another use, zoning and occupancy review can also come into play. Restaurant owners should expect more coordination than with a simple interior remodel, especially if the space is in an older building with limited utility capacity. Early code review is critical because equipment selections, grease management, and ventilation design affect both the permit set and the construction budget. Delays often happen when the kitchen layout is designed before confirming what the building can actually support.",
+      "@type": "Answer",
+      "description": "Restaurant build-outs often need building, plumbing, electrical, mechanical, fire, and accessibility review, plus approvals for grease interceptors, hood systems, and sometimes health-related requirements. Change-of-use or occupancy issues can add more review time.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Restaurant projects are usually more permit-heavy than office or retail tenant improvements because they involve cooking equipment, ventilation, plumbing, fire suppression, and customer accessibility. A typical build-out may require review for the building shell, kitchen hood and suppression system, exhaust routing, grease interceptor capacity, plumbing fixture counts, electrical loads, mechanical equipment, and path-of-travel accessibility. If the space changes from another use, zoning and occupancy review can also come into play. Restaurant owners should expect more coordination than with a simple interior remodel, especially if the space is in an older building with limited utility capacity. Early code review is critical because equipment selections, grease management, and ventilation design affect both the permit set and the construction budget. Delays often happen when the kitchen layout is designed before confirming what the building can actually support.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Restaurant build-outs often need building, plumbing, electrical, mechanical, fire, and accessibility review, plus approvals for grease interceptors, hood system"
+}

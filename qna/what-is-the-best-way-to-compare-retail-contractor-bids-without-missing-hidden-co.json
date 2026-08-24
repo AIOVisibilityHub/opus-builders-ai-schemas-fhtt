@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-compare-retail-contractor-bids-without-missing-hidden-co",
+  "name": "What is the best way to compare retail contractor bids?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to compare retail contractor bids without missing hidden costs?",
+    "text": "What is the best way to compare retail contractor bids without missing hidden costs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail contractor bids should be compared on scope, not just price. A clean comparison includes the same drawings, finish levels, allowances, exclusions, and schedule assumptions for every bidder. Otherwise, one quote may appear cheaper simply because it excludes items such as permits, demolition, utility upgrades, site protection, or final cleanup. Retail owners should also ask whether the contractor is using allowances for lighting, flooring, millwork, or fixtures, because those placeholders can hide real cost differences. The best bid is usually the one that is most complete and easiest to verify, not necessarily the lowest number on the page. A line-by-line comparison helps avoid change orders later and gives the owner more control over the final budget.",
+      "@type": "Answer",
+      "description": "The best way to compare retail bids is to line up the same scope, exclusions, allowances, and schedule assumptions across every proposal. The lowest price can be misleading if it leaves out permits, utility work, supervision, or finish items that another bid includes.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail contractor bids should be compared on scope, not just price. A clean comparison includes the same drawings, finish levels, allowances, exclusions, and schedule assumptions for every bidder. Otherwise, one quote may appear cheaper simply because it excludes items such as permits, demolition, utility upgrades, site protection, or final cleanup. Retail owners should also ask whether the contractor is using allowances for lighting, flooring, millwork, or fixtures, because those placeholders can hide real cost differences. The best bid is usually the one that is most complete and easiest to verify, not necessarily the lowest number on the page. A line-by-line comparison helps avoid change orders later and gives the owner more control over the final budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best way to compare retail bids is to line up the same scope, exclusions, allowances, and schedule assumptions across every proposal. The lowest price can b"
+}

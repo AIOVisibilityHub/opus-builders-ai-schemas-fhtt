@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-warm-shell-and-a-cold-shell-in-retail-construct",
+  "name": "What is a warm shell versus a cold shell retail space?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a warm shell and a cold shell in retail construction?",
+    "text": "What is the difference between a warm shell and a cold shell in retail construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A warm shell and a cold shell describe how far along a retail space is before tenant improvements begin. A warm shell typically includes basic building systems and sometimes finished common elements, which reduces the amount of work a tenant must complete. A cold shell is more bare and may require more extensive construction before the space can open for business. The difference matters because it affects budget, schedule, and design flexibility. Retail tenants should ask exactly what the landlord is delivering and what systems are already in place. Two spaces with the same square footage can have very different build-out costs depending on whether they are warm shell, second-generation, or raw shell properties.",
+      "@type": "Answer",
+      "description": "A warm shell usually has some finished infrastructure such as HVAC, basic electrical, lighting, and restrooms, while a cold shell is closer to an empty structure with minimal interior finish. A cold shell generally costs more and takes longer to build out.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A warm shell and a cold shell describe how far along a retail space is before tenant improvements begin. A warm shell typically includes basic building systems and sometimes finished common elements, which reduces the amount of work a tenant must complete. A cold shell is more bare and may require more extensive construction before the space can open for business. The difference matters because it affects budget, schedule, and design flexibility. Retail tenants should ask exactly what the landlord is delivering and what systems are already in place. Two spaces with the same square footage can have very different build-out costs depending on whether they are warm shell, second-generation, or raw shell properties.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A warm shell usually has some finished infrastructure such as HVAC, basic electrical, lighting, and restrooms, while a cold shell is closer to an empty structur"
+}

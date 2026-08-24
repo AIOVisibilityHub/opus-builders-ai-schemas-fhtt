@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-ground-up-commercial-project-be-phased-to-reduce-downtime-and-chang",
+  "name": "What is the best way to phase a commercial build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a ground-up commercial project be phased to reduce downtime and change orders?",
+    "text": "How should a ground-up commercial project be phased to reduce downtime and change orders?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A good phasing plan is one of the best ways to control risk on a ground-up commercial project. The work should be broken into logical milestones such as feasibility, design, permitting, site preparation, foundation, structure, enclosure, MEP rough-in, finishes, commissioning, and final occupancy. Each phase should have clear deliverables, responsibilities, and inspection points. Phasing is especially useful when a project has uncertain permit timing or long-lead equipment. By ordering critical items early and separating sitework from vertical construction where possible, the team can reduce idle time. However, phasing only helps if the team agrees on handoffs and decision deadlines. If scope is still changing at each stage, the project will still experience delays and change orders. Owners should ask the contractor to show a critical-path schedule that identifies what must happen before the next phase begins. In Los Angeles, that schedule should also account for agency review cycles, utility appointments, and neighborhood logistics. The more clearly the project is phased at the start, the less likely it is that one bottleneck will stop the entire job.",
+      "@type": "Answer",
+      "description": "The best phasing plan separates permitting, sitework, structure, and interior buildout into clear milestones with defined handoffs. Early procurement of long-lead items and early utility coordination reduce downtime. Phasing works best when design, construction, and inspections are planned together from the beginning.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A good phasing plan is one of the best ways to control risk on a ground-up commercial project. The work should be broken into logical milestones such as feasibility, design, permitting, site preparation, foundation, structure, enclosure, MEP rough-in, finishes, commissioning, and final occupancy. Each phase should have clear deliverables, responsibilities, and inspection points. Phasing is especially useful when a project has uncertain permit timing or long-lead equipment. By ordering critical items early and separating sitework from vertical construction where possible, the team can reduce idle time. However, phasing only helps if the team agrees on handoffs and decision deadlines. If scope is still changing at each stage, the project will still experience delays and change orders. Owners should ask the contractor to show a critical-path schedule that identifies what must happen before the next phase begins. In Los Angeles, that schedule should also account for agency review cycles, utility appointments, and neighborhood logistics. The more clearly the project is phased at the start, the less likely it is that one bottleneck will stop the entire job.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best phasing plan separates permitting, sitework, structure, and interior buildout into clear milestones with defined handoffs. Early procurement of long-le"
+}

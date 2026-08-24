@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-happen-if-a-commercial-construction-inspection-fails-in-los-angeles",
+  "name": "What happens if a commercial project fails inspection?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should happen if a commercial construction inspection fails in Los Angeles?",
+    "text": "What should happen if a commercial construction inspection fails in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A failed inspection usually means one or more items do not match the approved plans or current code requirements. The inspector will list the deficiencies, and the contractor must correct them before a reinspection can be scheduled. Common issues include incomplete fire protection, missing signage, improper accessibility details, exposed work not matching the permit set, or unfinished electrical and mechanical items. The permit remains open until the project passes final inspection, so repeated failures can create schedule and budget problems. Owners should treat inspection coordination as part of project management, not an afterthought. The best way to reduce risk is to maintain clear field documentation, keep the permit set on site, and resolve issues as soon as they appear instead of waiting for the final walkthrough.",
+      "@type": "Answer",
+      "description": "If an inspection fails, the contractor must correct the cited issues and schedule a reinspection. The permit stays open until the corrections pass, and repeated failures can delay occupancy, final payment, and opening dates.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A failed inspection usually means one or more items do not match the approved plans or current code requirements. The inspector will list the deficiencies, and the contractor must correct them before a reinspection can be scheduled. Common issues include incomplete fire protection, missing signage, improper accessibility details, exposed work not matching the permit set, or unfinished electrical and mechanical items. The permit remains open until the project passes final inspection, so repeated failures can create schedule and budget problems. Owners should treat inspection coordination as part of project management, not an afterthought. The best way to reduce risk is to maintain clear field documentation, keep the permit set on site, and resolve issues as soon as they appear instead of waiting for the final walkthrough.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If an inspection fails, the contractor must correct the cited issues and schedule a reinspection. The permit stays open until the corrections pass, and repeated"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-questions-should-a-retail-owner-ask-a-contractor-before-starting-a-lease-sp",
+  "name": "What questions should a retail owner ask a contractor about a lease space?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What questions should a retail owner ask a contractor before starting a lease-space build-out?",
+    "text": "What questions should a retail owner ask a contractor before starting a lease-space build-out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before starting a lease-space build-out, a retail owner should ask the contractor about the permit path, likely code issues, utility capacity, landlord requirements, expected schedule, and the biggest cost risks in the space. It is also important to ask what is excluded from the bid, whether the contractor has experience with similar retail concepts, and how long materials will take to arrive. If the space is older or partially built, the contractor should also identify likely hidden conditions behind walls or above ceilings. These questions help the owner compare proposals and understand whether the contractor is simply pricing labor or truly managing the full opening process. The best contractor conversations happen before plans are finalized, when there is still time to adjust scope and budget.",
+      "@type": "Answer",
+      "description": "A retail owner should ask about permit strategy, landlord rules, utility capacity, schedule risks, allowances, hidden conditions, and what work is excluded from the bid. Those answers help prevent surprises during construction.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before starting a lease-space build-out, a retail owner should ask the contractor about the permit path, likely code issues, utility capacity, landlord requirements, expected schedule, and the biggest cost risks in the space. It is also important to ask what is excluded from the bid, whether the contractor has experience with similar retail concepts, and how long materials will take to arrive. If the space is older or partially built, the contractor should also identify likely hidden conditions behind walls or above ceilings. These questions help the owner compare proposals and understand whether the contractor is simply pricing labor or truly managing the full opening process. The best contractor conversations happen before plans are finalized, when there is still time to adjust scope and budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A retail owner should ask about permit strategy, landlord rules, utility capacity, schedule risks, allowances, hidden conditions, and what work is excluded from"
+}

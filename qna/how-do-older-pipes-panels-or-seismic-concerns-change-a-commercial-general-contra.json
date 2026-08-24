@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-older-pipes-panels-or-seismic-concerns-change-a-commercial-general-contra",
+  "name": "What if my building has older utilities or seismic issues?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do older pipes, panels, or seismic concerns change a commercial general contracting plan in Southern California?",
+    "text": "How do older pipes, panels, or seismic concerns change a commercial general contracting plan in Southern California?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older commercial buildings in Southern California often hide the biggest surprises behind walls and ceilings. Outdated electrical panels, undersized plumbing, deteriorated piping, and structural or seismic deficiencies can all affect the scope of a remodel. When those issues appear, the contractor may need to coordinate engineering, utility upgrades, and additional inspections before the visible finish work can continue. This can change both cost and schedule significantly. Owners should ask whether the contractor has experience with older buildings, what they do when systems are undersized, and how they isolate upgrade work from the rest of the project. The right contractor will identify likely risk areas early and avoid pretending the job is only cosmetic when the existing building may require deeper correction.",
+      "@type": "Answer",
+      "description": "Older utilities and seismic-related issues can turn a simple remodel into a larger upgrade project because hidden systems may not support the new use. The contractor may need engineering review, phased shutoffs, and more inspection coordination. These conditions often affect cost, schedule, and the final scope more than the visible finishes do.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older commercial buildings in Southern California often hide the biggest surprises behind walls and ceilings. Outdated electrical panels, undersized plumbing, deteriorated piping, and structural or seismic deficiencies can all affect the scope of a remodel. When those issues appear, the contractor may need to coordinate engineering, utility upgrades, and additional inspections before the visible finish work can continue. This can change both cost and schedule significantly. Owners should ask whether the contractor has experience with older buildings, what they do when systems are undersized, and how they isolate upgrade work from the rest of the project. The right contractor will identify likely risk areas early and avoid pretending the job is only cosmetic when the existing building may require deeper correction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older utilities and seismic-related issues can turn a simple remodel into a larger upgrade project because hidden systems may not support the new use. The contr"
+}

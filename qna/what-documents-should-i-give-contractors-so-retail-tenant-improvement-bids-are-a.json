@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-documents-should-i-give-contractors-so-retail-tenant-improvement-bids-are-a",
+  "name": "What should be included in a retail TI bid package?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What documents should I give contractors so retail tenant improvement bids are accurate?",
+    "text": "What documents should I give contractors so retail tenant improvement bids are accurate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail TI bids are only as accurate as the documents contractors receive. A strong bid package should include architectural plans, demo plans, finish schedules, reflected ceiling plans, electrical, mechanical, plumbing, fire protection details if applicable, landlord standards, and a clear scope narrative. If the project has phasing, special equipment, branded fixtures, or opening-date constraints, those should be included too. Missing information usually turns into assumptions, exclusions, or change orders. The goal is to make every bidder price the same scope so comparisons are meaningful. For retail, where timing matters and the lease may include penalties or opening commitments, a complete bid package is one of the easiest ways to control cost risk.",
+      "@type": "Answer",
+      "description": "A strong bid package should include plans, reflected ceiling layouts, finish schedules, scope notes, consultant drawings, tenant criteria, and any landlord requirements. The more complete the package, the less likely contractors are to exclude important work or add change orders later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail TI bids are only as accurate as the documents contractors receive. A strong bid package should include architectural plans, demo plans, finish schedules, reflected ceiling plans, electrical, mechanical, plumbing, fire protection details if applicable, landlord standards, and a clear scope narrative. If the project has phasing, special equipment, branded fixtures, or opening-date constraints, those should be included too. Missing information usually turns into assumptions, exclusions, or change orders. The goal is to make every bidder price the same scope so comparisons are meaningful. For retail, where timing matters and the lease may include penalties or opening commitments, a complete bid package is one of the easiest ways to control cost risk.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A strong bid package should include plans, reflected ceiling layouts, finish schedules, scope notes, consultant drawings, tenant criteria, and any landlord requ"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-percentage-is-smart-for-ground-up-commercial-construction-in-lo",
+  "name": "How much contingency should you carry for LA construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency percentage is smart for ground-up commercial construction in Los Angeles?",
+    "text": "What contingency percentage is smart for ground-up commercial construction in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The right contingency for ground-up commercial construction depends on how complete the design is and how risky the site is. For an early-stage concept, a larger contingency is often appropriate because permit comments, utility upgrades, structural changes, and scope growth are still unknown. For a well-developed set of drawings and a relatively simple site, the contingency can often be lower. In Los Angeles, contingency planning should be more conservative than in many suburban markets because urban projects face permit uncertainty, utility coordination challenges, access restrictions, and higher labor and material volatility. Ground-up work also tends to uncover hidden conditions once demolition or excavation begins. For that reason, contingency should be treated as a real project reserve, not just a placeholder. Owners should separate contingency from allowances. Allowances cover known-but-not-yet-selected items, while contingency covers unknowns. A contractor’s preconstruction budget should clearly show which is which. The best practice is to review contingency use at each budget update so it is not spent too early on low-priority changes. A disciplined contingency plan protects the project when surprises appear.",
+      "@type": "Answer",
+      "description": "A common planning contingency for ground-up commercial construction is about 5% to 15%, with higher amounts for early-stage projects, complex sites, or incomplete design. In Los Angeles, contingency should reflect permitting risk, utility issues, seismic requirements, and market volatility. Less defined scopes usually need more contingency, not less.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The right contingency for ground-up commercial construction depends on how complete the design is and how risky the site is. For an early-stage concept, a larger contingency is often appropriate because permit comments, utility upgrades, structural changes, and scope growth are still unknown. For a well-developed set of drawings and a relatively simple site, the contingency can often be lower. In Los Angeles, contingency planning should be more conservative than in many suburban markets because urban projects face permit uncertainty, utility coordination challenges, access restrictions, and higher labor and material volatility. Ground-up work also tends to uncover hidden conditions once demolition or excavation begins. For that reason, contingency should be treated as a real project reserve, not just a placeholder. Owners should separate contingency from allowances. Allowances cover known-but-not-yet-selected items, while contingency covers unknowns. A contractor’s preconstruction budget should clearly show which is which. The best practice is to review contingency use at each budget update so it is not spent too early on low-priority changes. A disciplined contingency plan protects the project when surprises appear.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A common planning contingency for ground-up commercial construction is about 5% to 15%, with higher amounts for early-stage projects, complex sites, or incomple"
+}

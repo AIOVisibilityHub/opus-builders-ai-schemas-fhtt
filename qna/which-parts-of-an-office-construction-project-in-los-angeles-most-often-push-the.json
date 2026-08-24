@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-parts-of-an-office-construction-project-in-los-angeles-most-often-push-the",
+  "name": "What office build-out scope causes the biggest budget overruns?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which parts of an office construction project in Los Angeles most often push the budget over the original estimate?",
+    "text": "Which parts of an office construction project in Los Angeles most often push the budget over the original estimate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The biggest office build-out overruns usually come from hidden field conditions and late scope changes. In Los Angeles-area buildings, once demolition starts, teams may find outdated wiring, insufficient HVAC capacity, uneven slabs, moisture issues, or code-related upgrades that were not visible during bidding. Budget can also move when clients add more private offices, upgrade to glass fronts, change finishes, or accelerate the schedule. Permit revisions and landlord comments can also trigger extra architectural or construction work. If the building is older or has multiple tenants, the risk is even higher because coordination issues can affect fire alarms, accessibility, and common-area interfaces. To control overruns, insist on a detailed scope, a clear exclusion list, and a contingency line item. Ask the contractor to flag potential unknowns before demolition and to separate base pricing from allowance-based upgrades. That makes it easier to make decisions without losing control of the budget.",
+      "@type": "Answer",
+      "description": "Budget overruns usually come from hidden conditions, electrical or HVAC upgrades, permit revisions, and finish changes after pricing. Older buildings often reveal code issues once walls are opened. Glass partitions, custom millwork, and accelerated schedules also raise costs quickly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The biggest office build-out overruns usually come from hidden field conditions and late scope changes. In Los Angeles-area buildings, once demolition starts, teams may find outdated wiring, insufficient HVAC capacity, uneven slabs, moisture issues, or code-related upgrades that were not visible during bidding. Budget can also move when clients add more private offices, upgrade to glass fronts, change finishes, or accelerate the schedule. Permit revisions and landlord comments can also trigger extra architectural or construction work. If the building is older or has multiple tenants, the risk is even higher because coordination issues can affect fire alarms, accessibility, and common-area interfaces. To control overruns, insist on a detailed scope, a clear exclusion list, and a contingency line item. Ask the contractor to flag potential unknowns before demolition and to separate base pricing from allowance-based upgrades. That makes it easier to make decisions without losing control of the budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Budget overruns usually come from hidden conditions, electrical or HVAC upgrades, permit revisions, and finish changes after pricing. Older buildings often reve"
+}

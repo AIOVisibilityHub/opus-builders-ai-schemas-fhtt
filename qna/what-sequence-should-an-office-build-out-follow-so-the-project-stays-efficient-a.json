@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-sequence-should-an-office-build-out-follow-so-the-project-stays-efficient-a",
+  "name": "What is the best order of work in an office build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What sequence should an office build-out follow so the project stays efficient and avoids rework?",
+    "text": "What sequence should an office build-out follow so the project stays efficient and avoids rework?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A well-run office build-out follows a predictable order so trades do not work over one another. The typical sequence starts with design and approvals, followed by demolition and layout verification. After that come framing, rough mechanical, electrical, and plumbing work, then inspections, drywall, finishes, trim, lighting, and final fixtures. Testing, commissioning, punch list completion, and closeout finish the project. This sequence matters because any late change to walls or systems can force rework. In Los Angeles-area projects, especially in occupied buildings or spaces with strict landlord oversight, the schedule should also account for access restrictions, delivery timing, and inspection windows. A contractor who can explain the sequence clearly is more likely to keep the job moving efficiently.",
+      "@type": "Answer",
+      "description": "The usual sequence is design, approvals, demo, framing, mechanical/electrical/plumbing rough-in, inspections, drywall, finishes, trim, final fixtures, testing, punch list, and closeout. Skipping steps or changing the order can cause delays and rework.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A well-run office build-out follows a predictable order so trades do not work over one another. The typical sequence starts with design and approvals, followed by demolition and layout verification. After that come framing, rough mechanical, electrical, and plumbing work, then inspections, drywall, finishes, trim, lighting, and final fixtures. Testing, commissioning, punch list completion, and closeout finish the project. This sequence matters because any late change to walls or systems can force rework. In Los Angeles-area projects, especially in occupied buildings or spaces with strict landlord oversight, the schedule should also account for access restrictions, delivery timing, and inspection windows. A contractor who can explain the sequence clearly is more likely to keep the job moving efficiently.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The usual sequence is design, approvals, demo, framing, mechanical/electrical/plumbing rough-in, inspections, drywall, finishes, trim, final fixtures, testing, "
+}

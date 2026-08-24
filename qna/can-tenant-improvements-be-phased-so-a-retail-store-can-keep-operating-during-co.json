@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-tenant-improvements-be-phased-so-a-retail-store-can-keep-operating-during-co",
+  "name": "Can a retail TI be done in phases while the store stays open?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can tenant improvements be phased so a retail store can keep operating during construction?",
+    "text": "Can tenant improvements be phased so a retail store can keep operating during construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phased retail tenant improvements are possible when a store needs to keep operating, but they require much tighter planning than a full shutdown. The team has to separate active customer areas from construction zones, maintain safe egress, manage dust and noise, and coordinate inspections around business hours. Phasing can protect revenue, but it usually increases labor, supervision, and schedule complexity. It also creates more dependency on temporary partitions and after-hours work. Before choosing a phased approach, compare the cost of lost sales from closure versus the added construction premium. In many cases, a short full shutdown is cheaper and cleaner than a long partial build-out.",
+      "@type": "Answer",
+      "description": "Yes, many retail tenant improvements can be phased, but the project must be carefully sequenced for safety, customer access, dust control, and permit compliance. Phased work often takes longer and usually costs more because temporary barriers, night work, and logistics add complexity.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phased retail tenant improvements are possible when a store needs to keep operating, but they require much tighter planning than a full shutdown. The team has to separate active customer areas from construction zones, maintain safe egress, manage dust and noise, and coordinate inspections around business hours. Phasing can protect revenue, but it usually increases labor, supervision, and schedule complexity. It also creates more dependency on temporary partitions and after-hours work. Before choosing a phased approach, compare the cost of lost sales from closure versus the added construction premium. In many cases, a short full shutdown is cheaper and cleaner than a long partial build-out.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many retail tenant improvements can be phased, but the project must be carefully sequenced for safety, customer access, dust control, and permit compliance"
+}

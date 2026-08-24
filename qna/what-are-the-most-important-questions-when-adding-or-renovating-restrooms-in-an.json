@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-important-questions-when-adding-or-renovating-restrooms-in-an",
+  "name": "What should I ask about restroom upgrades in an office renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most important questions when adding or renovating restrooms in an office build-out?",
+    "text": "What are the most important questions when adding or renovating restrooms in an office build-out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Restroom work can become one of the most technical parts of an office renovation because it touches plumbing, ventilation, accessibility, and finish durability. Before starting, confirm whether the current lines can handle any added fixtures or reconfiguration. Ask how the contractor will address waterproofing, exhaust, partitions, ADA compliance, and surface materials that can stand up to heavy use. Restroom upgrades also tend to affect permit scope because even small changes can trigger plumbing and mechanical review. If the office is in an older building, existing drain locations and venting may limit how much the layout can change without higher costs.",
+      "@type": "Answer",
+      "description": "Ask whether the existing plumbing can support the new fixtures, whether the restrooms meet accessibility and code requirements, and whether ventilation, waterproofing, and tile details are included. Restroom changes often affect permits, layout, and cost more than expected.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Restroom work can become one of the most technical parts of an office renovation because it touches plumbing, ventilation, accessibility, and finish durability. Before starting, confirm whether the current lines can handle any added fixtures or reconfiguration. Ask how the contractor will address waterproofing, exhaust, partitions, ADA compliance, and surface materials that can stand up to heavy use. Restroom upgrades also tend to affect permit scope because even small changes can trigger plumbing and mechanical review. If the office is in an older building, existing drain locations and venting may limit how much the layout can change without higher costs.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask whether the existing plumbing can support the new fixtures, whether the restrooms meet accessibility and code requirements, and whether ventilation, waterpr"
+}

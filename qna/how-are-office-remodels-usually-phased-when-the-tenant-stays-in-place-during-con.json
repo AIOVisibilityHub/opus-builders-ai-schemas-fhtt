@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-are-office-remodels-usually-phased-when-the-tenant-stays-in-place-during-con",
+  "name": "How do office renovations get phased in occupied buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How are office remodels usually phased when the tenant stays in place during construction?",
+    "text": "How are office remodels usually phased when the tenant stays in place during construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phasing an occupied office renovation starts with understanding how the business uses the space every day. The contractor typically divides the project into manageable zones, then sequences demolition, rough work, inspections, and finishes so employees can keep working in the remaining areas. Temporary walls, dust control, and protected corridors are essential. Some jobs are phased by department, others by floor, and larger projects may require swing spaces or temporary relocations. The key is making sure utilities, access points, restrooms, and life-safety systems stay functional during each phase. A phased plan should be built before construction begins, not improvised after the office is already disrupted.",
+      "@type": "Answer",
+      "description": "Occupied office renovations are usually phased by zone, floor, or department so only a small area is under construction at a time. Contractors use temporary barriers, controlled access, and scheduled shutdowns to keep the rest of the office usable.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phasing an occupied office renovation starts with understanding how the business uses the space every day. The contractor typically divides the project into manageable zones, then sequences demolition, rough work, inspections, and finishes so employees can keep working in the remaining areas. Temporary walls, dust control, and protected corridors are essential. Some jobs are phased by department, others by floor, and larger projects may require swing spaces or temporary relocations. The key is making sure utilities, access points, restrooms, and life-safety systems stay functional during each phase. A phased plan should be built before construction begins, not improvised after the office is already disrupted.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Occupied office renovations are usually phased by zone, floor, or department so only a small area is under construction at a time. Contractors use temporary bar"
+}

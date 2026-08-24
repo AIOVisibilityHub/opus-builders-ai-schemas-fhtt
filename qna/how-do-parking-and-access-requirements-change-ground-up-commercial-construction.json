@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-parking-and-access-requirements-change-ground-up-commercial-construction",
+  "name": "How do parking requirements affect commercial build design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do parking and access requirements change ground-up commercial construction plans in Los Angeles?",
+    "text": "How do parking and access requirements change ground-up commercial construction plans in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking and access requirements can shape a ground-up commercial project from day one. On many Los Angeles sites, the number of required spaces, driveway configuration, accessible stalls, fire access route, and circulation pattern can determine how much of the lot is left for the building itself. If the site is small or irregular, these rules can reduce the usable footprint significantly. This is why parking should be studied during early feasibility, not after the building is already designed. The architect and civil engineer need to confirm what can physically fit on the parcel and whether shared parking, reduced parking, or alternative access arrangements are possible. If the project is near transit or in a special zoning area, the rules may be different, but they still need to be reviewed carefully. For owners, the key question is not just how many spaces are required, but how parking affects cost, circulation, grading, fire access, and overall project yield. A contractor can help identify construction impacts, but the design team must verify code and zoning compliance. Parking mistakes are expensive because they can force redesign late in the process.",
+      "@type": "Answer",
+      "description": "Parking requirements can determine the building footprint, circulation, accessibility layout, and even whether the project is feasible on a site. In Los Angeles, parking ratios, driveway placement, fire access, and ADA access can affect both design and permitting. A small site may need creative layout or shared parking to work.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking and access requirements can shape a ground-up commercial project from day one. On many Los Angeles sites, the number of required spaces, driveway configuration, accessible stalls, fire access route, and circulation pattern can determine how much of the lot is left for the building itself. If the site is small or irregular, these rules can reduce the usable footprint significantly. This is why parking should be studied during early feasibility, not after the building is already designed. The architect and civil engineer need to confirm what can physically fit on the parcel and whether shared parking, reduced parking, or alternative access arrangements are possible. If the project is near transit or in a special zoning area, the rules may be different, but they still need to be reviewed carefully. For owners, the key question is not just how many spaces are required, but how parking affects cost, circulation, grading, fire access, and overall project yield. A contractor can help identify construction impacts, but the design team must verify code and zoning compliance. Parking mistakes are expensive because they can force redesign late in the process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking requirements can determine the building footprint, circulation, accessibility layout, and even whether the project is feasible on a site. In Los Angeles"
+}

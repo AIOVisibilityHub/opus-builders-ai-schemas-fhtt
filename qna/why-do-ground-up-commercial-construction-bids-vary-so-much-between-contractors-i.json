@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-ground-up-commercial-construction-bids-vary-so-much-between-contractors-i",
+  "name": "How do ground-up commercial bids compare in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do ground-up commercial construction bids vary so much between contractors in Los Angeles?",
+    "text": "Why do ground-up commercial construction bids vary so much between contractors in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Ground-up commercial bids in Los Angeles often differ because each contractor is pricing a different version of the project. One bid may include full site clearing, grading, utility trenching, and permit closeout, while another may exclude those items or carry them as allowances. Differences also come from subcontractor relationships, schedule assumptions, bond requirements, insurance, and whether the contractor has included realistic contingency for urban construction risk. Owners should compare bids line by line rather than focusing only on the bottom line. Look for major exclusions, allowance values, responsibility for permit revisions, utility coordination, temporary facilities, and testing and inspection costs. A bid that appears lower may simply be less complete. The best way to normalize bids is to issue a detailed scope sheet and ask all bidders to price the same documents. That makes comparison easier and reduces arguments later. For a project in Glendale, Pasadena, Burbank, or North Hollywood, local experience also matters because city review habits and site access constraints can affect the true construction cost. A good contractor explains what is included, what is not, and where the budget is still exposed.",
+      "@type": "Answer",
+      "description": "Bids vary because contractors may include different scopes, assumptions, contingency levels, subcontractor pricing, and permit-related responsibilities. One bid may include sitework, utility upgrades, and allowance for plan-check corrections, while another may not. The lowest bid is not always the best value if major scope items are missing.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Ground-up commercial bids in Los Angeles often differ because each contractor is pricing a different version of the project. One bid may include full site clearing, grading, utility trenching, and permit closeout, while another may exclude those items or carry them as allowances. Differences also come from subcontractor relationships, schedule assumptions, bond requirements, insurance, and whether the contractor has included realistic contingency for urban construction risk. Owners should compare bids line by line rather than focusing only on the bottom line. Look for major exclusions, allowance values, responsibility for permit revisions, utility coordination, temporary facilities, and testing and inspection costs. A bid that appears lower may simply be less complete. The best way to normalize bids is to issue a detailed scope sheet and ask all bidders to price the same documents. That makes comparison easier and reduces arguments later. For a project in Glendale, Pasadena, Burbank, or North Hollywood, local experience also matters because city review habits and site access constraints can affect the true construction cost. A good contractor explains what is included, what is not, and where the budget is still exposed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Bids vary because contractors may include different scopes, assumptions, contingency levels, subcontractor pricing, and permit-related responsibilities. One bid"
+}

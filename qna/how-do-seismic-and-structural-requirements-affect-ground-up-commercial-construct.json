@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-seismic-and-structural-requirements-affect-ground-up-commercial-construct",
+  "name": "How do seismic rules affect new commercial buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do seismic and structural requirements affect ground-up commercial construction in Los Angeles?",
+    "text": "How do seismic and structural requirements affect ground-up commercial construction in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Seismic requirements are a major factor in ground-up commercial construction in Los Angeles. Because the region has strict structural expectations, the building’s foundation, framing, lateral force-resisting system, and connection details all need to be designed to perform under earthquake loads. This can affect the choice of steel, concrete, wood, or mixed structural systems, as well as the overall cost and schedule. The impact is greater on buildings with unusual shapes, large openings, heavy rooftop equipment, or tight lot lines. Those conditions can increase engineering complexity and may require deeper foundations, stronger lateral bracing, or more detailed special inspections. The earlier the structural concept is settled, the easier it is to control permitting and pricing. Owners should ask how the structure affects both the design and the budget before the project is fully committed. A contractor who understands seismic construction can identify likely cost drivers and inspection requirements early. On Los Angeles projects, structural clarity is not optional; it is one of the biggest determinants of whether the project can move smoothly through plan check and into construction.",
+      "@type": "Answer",
+      "description": "Seismic requirements influence the building’s foundation, framing, lateral system, connections, and materials. In Los Angeles, these requirements can increase engineering complexity and cost, especially for taller or irregular buildings. Structural design should be coordinated early so the building can pass plan check and support the intended use safely.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Seismic requirements are a major factor in ground-up commercial construction in Los Angeles. Because the region has strict structural expectations, the building’s foundation, framing, lateral force-resisting system, and connection details all need to be designed to perform under earthquake loads. This can affect the choice of steel, concrete, wood, or mixed structural systems, as well as the overall cost and schedule. The impact is greater on buildings with unusual shapes, large openings, heavy rooftop equipment, or tight lot lines. Those conditions can increase engineering complexity and may require deeper foundations, stronger lateral bracing, or more detailed special inspections. The earlier the structural concept is settled, the easier it is to control permitting and pricing. Owners should ask how the structure affects both the design and the budget before the project is fully committed. A contractor who understands seismic construction can identify likely cost drivers and inspection requirements early. On Los Angeles projects, structural clarity is not optional; it is one of the biggest determinants of whether the project can move smoothly through plan check and into construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Seismic requirements influence the building’s foundation, framing, lateral system, connections, and materials. In Los Angeles, these requirements can increase e"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-office-build-out-expenses-are-commonly-excluded-from-a-tenant-improvement",
+  "name": "What office build-out costs are usually not covered by a landlord allowance?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which office build-out expenses are commonly excluded from a tenant improvement allowance?",
+    "text": "Which office build-out expenses are commonly excluded from a tenant improvement allowance?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many office tenants assume a landlord allowance will cover the entire project, but that is rarely true. Common exclusions include furniture, moving expenses, IT hardware, audio-visual systems, access control, security cameras, specialty branding elements, and any finish level above the base allowance scope. Soft costs such as architecture, engineering, permit fees, plan check corrections, expediting, and project management may also fall outside the allowance depending on the lease. In Los Angeles and nearby cities, these exclusions matter because office build-outs can require more coordination than tenants expect, especially when local building rules or older infrastructure create added design work. Before signing, tenants should ask for a line-item list of covered and excluded costs and confirm whether the allowance is based on direct construction only or includes soft costs too. This is one of the easiest ways to avoid budget overruns.",
+      "@type": "Answer",
+      "description": "Landlord allowances often exclude furniture, moving costs, IT equipment, security systems, premium finishes, scope changes, and costs above the agreed standard. They may also exclude design fees, permits, consulting fees, and any upgrades that exceed the base building specification.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many office tenants assume a landlord allowance will cover the entire project, but that is rarely true. Common exclusions include furniture, moving expenses, IT hardware, audio-visual systems, access control, security cameras, specialty branding elements, and any finish level above the base allowance scope. Soft costs such as architecture, engineering, permit fees, plan check corrections, expediting, and project management may also fall outside the allowance depending on the lease. In Los Angeles and nearby cities, these exclusions matter because office build-outs can require more coordination than tenants expect, especially when local building rules or older infrastructure create added design work. Before signing, tenants should ask for a line-item list of covered and excluded costs and confirm whether the allowance is based on direct construction only or includes soft costs too. This is one of the easiest ways to avoid budget overruns.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Landlord allowances often exclude furniture, moving costs, IT equipment, security systems, premium finishes, scope changes, and costs above the agreed standard."
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-causes-change-orders-in-office-build-outs-and-how-can-i-reduce-them-before",
+  "name": "How do I avoid change orders during an office build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What causes change orders in office build-outs, and how can I reduce them before construction starts?",
+    "text": "What causes change orders in office build-outs, and how can I reduce them before construction starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders are one of the biggest frustrations in office build-outs because they can increase cost and delay occupancy. They usually happen when the scope was not fully defined, the drawings missed existing conditions, or the tenant changed finishes after the contract was signed. They can also result from landlord comments, permit corrections, or unseen issues found during demolition. To reduce change orders, the project should start with a detailed scope, field verification, and a clear allowance breakdown. The tenant and contractor should agree on what is included, what is excluded, and how pricing will be approved if conditions change. In Los Angeles-area projects, where buildings often differ significantly from one another, this discipline is especially important. A well-managed preconstruction phase is the best defense against budget drift.",
+      "@type": "Answer",
+      "description": "Change orders often come from unclear scope, incomplete drawings, hidden site conditions, landlord revisions, and design changes after the bid is signed. The best way to reduce them is to finalize the scope early, verify field conditions, and document every allowance and exclusion clearly.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders are one of the biggest frustrations in office build-outs because they can increase cost and delay occupancy. They usually happen when the scope was not fully defined, the drawings missed existing conditions, or the tenant changed finishes after the contract was signed. They can also result from landlord comments, permit corrections, or unseen issues found during demolition. To reduce change orders, the project should start with a detailed scope, field verification, and a clear allowance breakdown. The tenant and contractor should agree on what is included, what is excluded, and how pricing will be approved if conditions change. In Los Angeles-area projects, where buildings often differ significantly from one another, this discipline is especially important. A well-managed preconstruction phase is the best defense against budget drift.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Change orders often come from unclear scope, incomplete drawings, hidden site conditions, landlord revisions, and design changes after the bid is signed. The be"
+}

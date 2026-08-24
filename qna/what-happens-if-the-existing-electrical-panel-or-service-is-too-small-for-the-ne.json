@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-existing-electrical-panel-or-service-is-too-small-for-the-ne",
+  "name": "What if the retail space has outdated electrical service?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the existing electrical panel or service is too small for the new retail use?",
+    "text": "What happens if the existing electrical panel or service is too small for the new retail use?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Outdated electrical service is a common retail TI surprise, especially in older buildings. If the existing panel cannot support the new lighting, HVAC, refrigeration, signage, or POS loads, the project may require a service upgrade or new distribution equipment. That can add design, utility coordination, and inspection time. Electrical work also tends to affect other trades, because the layout, equipment locations, and store opening date may all depend on power availability. The right approach is to evaluate loads early and not assume the existing service is adequate. A quick field survey and load check can prevent expensive redesign later.",
+      "@type": "Answer",
+      "description": "If the existing electrical service is undersized, the TI may need a panel upgrade, new feeders, utility coordination, or load management changes. This can affect both cost and schedule because utility and inspection lead times may be longer than the interior build-out itself.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Outdated electrical service is a common retail TI surprise, especially in older buildings. If the existing panel cannot support the new lighting, HVAC, refrigeration, signage, or POS loads, the project may require a service upgrade or new distribution equipment. That can add design, utility coordination, and inspection time. Electrical work also tends to affect other trades, because the layout, equipment locations, and store opening date may all depend on power availability. The right approach is to evaluate loads early and not assume the existing service is adequate. A quick field survey and load check can prevent expensive redesign later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the existing electrical service is undersized, the TI may need a panel upgrade, new feeders, utility coordination, or load management changes. This can affec"
+}

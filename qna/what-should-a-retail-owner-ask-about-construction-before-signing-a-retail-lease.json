@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-retail-owner-ask-about-construction-before-signing-a-retail-lease",
+  "name": "What should a retail owner ask before signing a lease?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a retail owner ask about construction before signing a retail lease?",
+    "text": "What should a retail owner ask about construction before signing a retail lease?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing a retail lease, owners should understand the full construction picture, not just the rent. Key questions include what condition the landlord delivers the space in, whether utilities and restrooms are already in place, how much tenant improvement allowance is available, and what approvals are needed for plans, signage, and contractor access. It is also important to ask about construction hours, building rules, parking limitations, and any requirements for using approved vendors. These terms can materially affect budget and timeline. A lease that looks affordable on paper can become expensive if the tenant must fund major infrastructure work or wait months for approvals. Retail owners should review construction obligations before committing so they know the true startup cost.",
+      "@type": "Answer",
+      "description": "Before signing a lease, a retail owner should ask what the landlord delivers, what the tenant must build, what approvals are required, how much the allowance covers, and whether there are restrictions on construction hours, signage, or contractors. These details can change the real cost of opening.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing a retail lease, owners should understand the full construction picture, not just the rent. Key questions include what condition the landlord delivers the space in, whether utilities and restrooms are already in place, how much tenant improvement allowance is available, and what approvals are needed for plans, signage, and contractor access. It is also important to ask about construction hours, building rules, parking limitations, and any requirements for using approved vendors. These terms can materially affect budget and timeline. A lease that looks affordable on paper can become expensive if the tenant must fund major infrastructure work or wait months for approvals. Retail owners should review construction obligations before committing so they know the true startup cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before signing a lease, a retail owner should ask what the landlord delivers, what the tenant must build, what approvals are required, how much the allowance co"
+}

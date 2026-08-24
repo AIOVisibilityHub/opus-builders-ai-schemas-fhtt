@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-usually-delays-ground-up-commercial-construction-the-most-in-los-angeles",
+  "name": "What is the biggest cause of delay in LA ground-up builds?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What usually delays ground-up commercial construction the most in Los Angeles?",
+    "text": "What usually delays ground-up commercial construction the most in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common delay on Los Angeles ground-up commercial projects is not the construction phase itself but the time spent getting the project fully approved and ready to build. Plan check cycles, zoning issues, fire review comments, and utility coordination often create delays before crews even mobilize. Once construction begins, long-lead materials such as switchgear, rooftop equipment, steel, and specialty glass can become the next bottleneck. Site conditions matter a lot in dense areas like Glendale, Pasadena, Burbank, and North Hollywood. Tight access, limited laydown space, neighbor protection requirements, and street-use restrictions can slow production even when the work is otherwise straightforward. Midstream design changes are another major cause of delay because they can trigger revised drawings, re-review, and procurement changes. To reduce delays, owners should insist on early utility research, permit sequencing, and a procurement log for critical materials. A contractor should also flag items that need early decisions, such as HVAC, structural systems, and façade selections. Projects move fastest when design, permitting, and procurement are managed together instead of one after another.",
+      "@type": "Answer",
+      "description": "The biggest delays in Los Angeles ground-up commercial construction are usually permitting, plan-check corrections, utility coordination, long-lead materials, and site constraints. Design changes late in the process also slow projects significantly. On urban sites, access limits, neighboring properties, and inspection scheduling can add more delay than the actual building work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common delay on Los Angeles ground-up commercial projects is not the construction phase itself but the time spent getting the project fully approved and ready to build. Plan check cycles, zoning issues, fire review comments, and utility coordination often create delays before crews even mobilize. Once construction begins, long-lead materials such as switchgear, rooftop equipment, steel, and specialty glass can become the next bottleneck. Site conditions matter a lot in dense areas like Glendale, Pasadena, Burbank, and North Hollywood. Tight access, limited laydown space, neighbor protection requirements, and street-use restrictions can slow production even when the work is otherwise straightforward. Midstream design changes are another major cause of delay because they can trigger revised drawings, re-review, and procurement changes. To reduce delays, owners should insist on early utility research, permit sequencing, and a procurement log for critical materials. A contractor should also flag items that need early decisions, such as HVAC, structural systems, and façade selections. Projects move fastest when design, permitting, and procurement are managed together instead of one after another.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest delays in Los Angeles ground-up commercial construction are usually permitting, plan-check corrections, utility coordination, long-lead materials, a"
+}

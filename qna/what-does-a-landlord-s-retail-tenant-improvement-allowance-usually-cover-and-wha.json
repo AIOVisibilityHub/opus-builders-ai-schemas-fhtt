@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-does-a-landlord-s-retail-tenant-improvement-allowance-usually-cover-and-wha",
+  "name": "What is included in a retail tenant improvement allowance?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What does a landlord’s retail tenant improvement allowance usually cover, and what is excluded?",
+    "text": "What does a landlord’s retail tenant improvement allowance usually cover, and what is excluded?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail tenant improvement allowance is typically the landlord’s contribution toward making the space usable for your business. In many leases, it can be applied to permanent improvements like framing, finishes, lighting, HVAC distribution, plumbing rough-in, restrooms, and storefront upgrades. It is usually not meant for movable equipment, inventory, display fixtures, or operations technology unless the lease specifically allows it. The important detail is how the allowance is paid: some landlords reimburse after work is completed, while others pay directly against approved invoices. Before signing, confirm whether the allowance is fixed, reimbursable, subject to retention, or tied to specific contractors or design standards. That wording can have a major impact on your cash flow.",
+      "@type": "Answer",
+      "description": "A tenant improvement allowance usually covers permanent improvements that stay with the space, such as walls, flooring, HVAC distribution, electrical rough-in, plumbing, restrooms, and storefront work. It usually excludes furniture, inventory, point-of-sale systems, signage, and other movable fixtures unless the lease says otherwise.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail tenant improvement allowance is typically the landlord’s contribution toward making the space usable for your business. In many leases, it can be applied to permanent improvements like framing, finishes, lighting, HVAC distribution, plumbing rough-in, restrooms, and storefront upgrades. It is usually not meant for movable equipment, inventory, display fixtures, or operations technology unless the lease specifically allows it. The important detail is how the allowance is paid: some landlords reimburse after work is completed, while others pay directly against approved invoices. Before signing, confirm whether the allowance is fixed, reimbursable, subject to retention, or tied to specific contractors or design standards. That wording can have a major impact on your cash flow.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A tenant improvement allowance usually covers permanent improvements that stay with the space, such as walls, flooring, HVAC distribution, electrical rough-in, "
+}

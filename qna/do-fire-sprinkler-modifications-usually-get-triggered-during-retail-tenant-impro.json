@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-fire-sprinkler-modifications-usually-get-triggered-during-retail-tenant-impro",
+  "name": "What if the retail build-out needs fire sprinkler changes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do fire sprinkler modifications usually get triggered during retail tenant improvements?",
+    "text": "Do fire sprinkler modifications usually get triggered during retail tenant improvements?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Fire sprinkler changes are often triggered when a retail TI alters walls, ceiling heights, soffits, occupancy patterns, or tenant layout in a way that affects coverage or code compliance. Even a project that seems mostly interior can end up needing sprinkler shop drawings, fire department coordination, and additional inspection time. These items are easy to overlook until late in design, which is why sprinkler review should happen early on projects with any significant layout changes. The risk is not only delay but also redesign if heads, pipe runs, or ceiling conditions conflict with the intended store layout.",
+      "@type": "Answer",
+      "description": "Yes, sprinkler changes may be required if walls, ceiling layouts, occupancy, or fixture placement affect coverage. Fire protection review can add separate drawings, permits, coordination, and inspection steps to the project.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Fire sprinkler changes are often triggered when a retail TI alters walls, ceiling heights, soffits, occupancy patterns, or tenant layout in a way that affects coverage or code compliance. Even a project that seems mostly interior can end up needing sprinkler shop drawings, fire department coordination, and additional inspection time. These items are easy to overlook until late in design, which is why sprinkler review should happen early on projects with any significant layout changes. The risk is not only delay but also redesign if heads, pipe runs, or ceiling conditions conflict with the intended store layout.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, sprinkler changes may be required if walls, ceiling layouts, occupancy, or fixture placement affect coverage. Fire protection review can add separate drawi"
+}

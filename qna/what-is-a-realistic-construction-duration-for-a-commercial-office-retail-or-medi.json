@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-a-realistic-construction-duration-for-a-commercial-office-retail-or-medi",
+  "name": "How long does a commercial tenant improvement usually take?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is a realistic construction duration for a commercial office, retail, or medical tenant improvement in Los Angeles?",
+    "text": "What is a realistic construction duration for a commercial office, retail, or medical tenant improvement in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Commercial tenant improvement schedules are often underestimated because owners focus on field construction and ignore preconstruction, permitting, and procurement. A straightforward build-out may complete quickly once work starts, but permit review, long-lead materials, utility coordination, and inspection timing can extend the total timeline. Medical, restaurant, and heavily customized office spaces usually take longer than simple refreshes because they involve more trades and more approvals. A reliable contractor should separate design, permitting, procurement, and field work in the schedule so the owner can see where time is actually being spent. It is also important to ask whether the project will be done in a vacant space or an occupied one, because phasing usually adds duration. If a contractor gives a single finish date without explaining assumptions, the estimate is too thin.",
+      "@type": "Answer",
+      "description": "A simple commercial tenant improvement may take a few weeks of construction, while more complex spaces can take several months once permits, inspections, and procurement are included. The schedule depends on scope, city review, lead times, and whether the space is occupied. The construction phase is only part of the total timeline.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Commercial tenant improvement schedules are often underestimated because owners focus on field construction and ignore preconstruction, permitting, and procurement. A straightforward build-out may complete quickly once work starts, but permit review, long-lead materials, utility coordination, and inspection timing can extend the total timeline. Medical, restaurant, and heavily customized office spaces usually take longer than simple refreshes because they involve more trades and more approvals. A reliable contractor should separate design, permitting, procurement, and field work in the schedule so the owner can see where time is actually being spent. It is also important to ask whether the project will be done in a vacant space or an occupied one, because phasing usually adds duration. If a contractor gives a single finish date without explaining assumptions, the estimate is too thin.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A simple commercial tenant improvement may take a few weeks of construction, while more complex spaces can take several months once permits, inspections, and pr"
+}

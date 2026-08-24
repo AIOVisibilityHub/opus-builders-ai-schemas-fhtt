@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-included-in-a-complete-retail-construction-budget-beyond-contract",
+  "name": "What should be included in a retail construction budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in a complete retail construction budget beyond contractor labor and materials?",
+    "text": "What should be included in a complete retail construction budget beyond contractor labor and materials?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A complete retail construction budget should go beyond basic labor and materials. Owners should plan for design fees, engineering, permits, plan check charges, demolition, utility connections, finishes, fixtures, equipment coordination, inspections, and contingency. Depending on the project, signage, storefront upgrades, accessibility work, and landlord-required improvements may also be part of the total. Soft costs can be significant, especially in Los Angeles where permit timing and plan revisions can add expense. Retail owners should also budget for items related to opening the store, such as displays, point-of-sale setup, and merchandise staging, because those costs often get overlooked. A full budget gives a more accurate picture of the capital needed to open on time.",
+      "@type": "Answer",
+      "description": "A complete retail construction budget should include design, permits, inspections, utility work, demolition, finishes, fixtures, contingency, and soft costs such as engineering and plan review. It should also account for landlord requirements and business-opening expenses tied to the build-out.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A complete retail construction budget should go beyond basic labor and materials. Owners should plan for design fees, engineering, permits, plan check charges, demolition, utility connections, finishes, fixtures, equipment coordination, inspections, and contingency. Depending on the project, signage, storefront upgrades, accessibility work, and landlord-required improvements may also be part of the total. Soft costs can be significant, especially in Los Angeles where permit timing and plan revisions can add expense. Retail owners should also budget for items related to opening the store, such as displays, point-of-sale setup, and merchandise staging, because those costs often get overlooked. A full budget gives a more accurate picture of the capital needed to open on time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A complete retail construction budget should include design, permits, inspections, utility work, demolition, finishes, fixtures, contingency, and soft costs suc"
+}

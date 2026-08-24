@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-does-the-starting-condition-of-a-space-mean-for-the-cost-and-scope-of-an-of",
+  "name": "How do I know if my office space is a shell, vanilla shell, or second-generation space?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What does the starting condition of a space mean for the cost and scope of an office build-out?",
+    "text": "What does the starting condition of a space mean for the cost and scope of an office build-out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The starting condition of the space is one of the biggest predictors of build-out cost and schedule. A shell space generally needs the most work because nearly everything inside must be built. A vanilla shell may already have basic HVAC, lighting, and restroom infrastructure, which lowers the amount of new construction. Second-generation space is usually the cheapest starting point if the existing layout is close to what the tenant wants, because many components can be reused or lightly modified. In Los Angeles-area markets, knowing whether the space is shell, vanilla shell, or second-gen helps you compare leases accurately and avoid underestimating construction scope. Ask for as-built drawings, verify what works and what does not, and inspect hidden conditions before signing.",
+      "@type": "Answer",
+      "description": "A shell space is largely unfinished, a vanilla shell usually includes basic finishes and building systems, and second-generation space is a former tenant space that may already have walls, ceilings, lighting, and restrooms. The starting condition directly affects budget, design flexibility, and timeline.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The starting condition of the space is one of the biggest predictors of build-out cost and schedule. A shell space generally needs the most work because nearly everything inside must be built. A vanilla shell may already have basic HVAC, lighting, and restroom infrastructure, which lowers the amount of new construction. Second-generation space is usually the cheapest starting point if the existing layout is close to what the tenant wants, because many components can be reused or lightly modified. In Los Angeles-area markets, knowing whether the space is shell, vanilla shell, or second-gen helps you compare leases accurately and avoid underestimating construction scope. Ask for as-built drawings, verify what works and what does not, and inspect hidden conditions before signing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A shell space is largely unfinished, a vanilla shell usually includes basic finishes and building systems, and second-generation space is a former tenant space "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-is-ground-up-commercial-construction-better-than-renovating-an-existing-bui",
+  "name": "Can you renovate instead of build new?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When is ground-up commercial construction better than renovating an existing building in Los Angeles?",
+    "text": "When is ground-up commercial construction better than renovating an existing building in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In many Los Angeles projects, owners debate whether to renovate an existing building or start with ground-up commercial construction. Ground-up is usually the better choice when the existing structure has major limitations, such as poor seismic performance, low ceilings, bad column spacing, outdated mechanical systems, inaccessible layouts, or code constraints that make a remodel expensive and inefficient. Renovation can seem cheaper at first, but hidden conditions often erode the savings. Once demolition starts, owners may discover asbestos, structural deterioration, outdated utilities, or layout constraints that require more work than expected. If the existing building cannot support the intended use efficiently, new construction can produce a better long-term asset even if the upfront cost is higher. The best decision comes from a side-by-side feasibility study comparing renovation and new build on cost, schedule, permitting risk, and functional performance. A contractor and design team can help estimate both paths early. In some cases, the right answer is partial reuse plus new construction. In others, starting fresh creates a cleaner, faster, and more valuable result.",
+      "@type": "Answer",
+      "description": "Ground-up construction is often better when the existing building has poor structural capacity, outdated systems, inefficient layout, major code limitations, or a cost to renovate that approaches new-build pricing. Renovation can be cheaper on paper, but hidden conditions often reduce the savings. A feasibility study should compare both options before deciding.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In many Los Angeles projects, owners debate whether to renovate an existing building or start with ground-up commercial construction. Ground-up is usually the better choice when the existing structure has major limitations, such as poor seismic performance, low ceilings, bad column spacing, outdated mechanical systems, inaccessible layouts, or code constraints that make a remodel expensive and inefficient. Renovation can seem cheaper at first, but hidden conditions often erode the savings. Once demolition starts, owners may discover asbestos, structural deterioration, outdated utilities, or layout constraints that require more work than expected. If the existing building cannot support the intended use efficiently, new construction can produce a better long-term asset even if the upfront cost is higher. The best decision comes from a side-by-side feasibility study comparing renovation and new build on cost, schedule, permitting risk, and functional performance. A contractor and design team can help estimate both paths early. In some cases, the right answer is partial reuse plus new construction. In others, starting fresh creates a cleaner, faster, and more valuable result.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up construction is often better when the existing building has poor structural capacity, outdated systems, inefficient layout, major code limitations, or"
+}

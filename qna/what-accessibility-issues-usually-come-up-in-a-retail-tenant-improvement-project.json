@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-accessibility-issues-usually-come-up-in-a-retail-tenant-improvement-project",
+  "name": "How do accessibility requirements affect a retail build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What accessibility issues usually come up in a retail tenant improvement project?",
+    "text": "What accessibility issues usually come up in a retail tenant improvement project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Accessibility is a major factor in retail build-outs because even an interior remodel can trigger upgrades if the layout, fixtures, or entry points change. Common issues include door widths, maneuvering clearances, accessible paths through the sales area, restroom compliance, counter heights, and accessible parking or route connections if the project touches those elements. In older spaces, what already exists may not match current requirements, so a tenant improvement can uncover gaps that need to be corrected during design or construction. Those corrections can affect cost and permit timing, especially if they require layout changes after the first drawings are complete. The best way to avoid surprises is to have accessibility reviewed early, before pricing and permit submittal, so the space can be designed correctly the first time.",
+      "@type": "Answer",
+      "description": "Accessibility requirements can affect entrances, door clearances, routes through the store, restrooms, counters, signage, and parking access. If the build-out changes layout or fixtures, the project may need upgrades to meet current accessibility rules.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Accessibility is a major factor in retail build-outs because even an interior remodel can trigger upgrades if the layout, fixtures, or entry points change. Common issues include door widths, maneuvering clearances, accessible paths through the sales area, restroom compliance, counter heights, and accessible parking or route connections if the project touches those elements. In older spaces, what already exists may not match current requirements, so a tenant improvement can uncover gaps that need to be corrected during design or construction. Those corrections can affect cost and permit timing, especially if they require layout changes after the first drawings are complete. The best way to avoid surprises is to have accessibility reviewed early, before pricing and permit submittal, so the space can be designed correctly the first time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Accessibility requirements can affect entrances, door clearances, routes through the store, restrooms, counters, signage, and parking access. If the build-out c"
+}

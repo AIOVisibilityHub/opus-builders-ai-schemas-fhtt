@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-ground-up-commercial-building-in-los-angeles-open-in-phases-before-the-who",
+  "name": "What if a project needs phased occupancy?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a ground-up commercial building in Los Angeles open in phases before the whole project is done?",
+    "text": "Can a ground-up commercial building in Los Angeles open in phases before the whole project is done?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phased occupancy can work on some ground-up commercial projects, but it has to be planned very early. The occupied area must be fully safe, code-compliant, and separated from unfinished work with proper barriers, access control, fire protection, and egress. The city and fire reviewer must agree that the partial occupancy does not create a safety issue or interfere with required inspections. This approach is often used when a tenant wants to open part of a building before the entire project is finished, or when one wing of a larger commercial development is ready sooner than the rest. However, phased occupancy adds coordination complexity because the contractor must sequence inspections, temporary utilities, and final punch list items around the occupied area. Owners should not assume phased occupancy will save time automatically. If the project is not designed for it, the partial opening can create more delay and rework. The contractor, architect, and inspection team should all confirm the strategy before construction reaches the final stages. When it is planned correctly, phased occupancy can help a business start generating revenue sooner.",
+      "@type": "Answer",
+      "description": "Yes, some projects can open in phases if the building, life-safety systems, access routes, and inspections support partial occupancy. The city and fire review process must approve the occupied portion, and the contractor must separate unfinished areas safely. Phased occupancy requires early planning and clear inspection sequencing.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phased occupancy can work on some ground-up commercial projects, but it has to be planned very early. The occupied area must be fully safe, code-compliant, and separated from unfinished work with proper barriers, access control, fire protection, and egress. The city and fire reviewer must agree that the partial occupancy does not create a safety issue or interfere with required inspections. This approach is often used when a tenant wants to open part of a building before the entire project is finished, or when one wing of a larger commercial development is ready sooner than the rest. However, phased occupancy adds coordination complexity because the contractor must sequence inspections, temporary utilities, and final punch list items around the occupied area. Owners should not assume phased occupancy will save time automatically. If the project is not designed for it, the partial opening can create more delay and rework. The contractor, architect, and inspection team should all confirm the strategy before construction reaches the final stages. When it is planned correctly, phased occupancy can help a business start generating revenue sooner.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, some projects can open in phases if the building, life-safety systems, access routes, and inspections support partial occupancy. The city and fire review p"
+}

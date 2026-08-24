@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-retailer-verify-in-the-lease-before-committing-to-a-build-out-in-l",
+  "name": "What should be checked before signing a retail lease for build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a retailer verify in the lease before committing to a build-out in Los Angeles or nearby cities?",
+    "text": "What should a retailer verify in the lease before committing to a build-out in Los Angeles or nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing a retail lease, the tenant should verify every item that affects the build-out. That includes the exact shell condition, whether a tenant improvement allowance is included, who is responsible for permits, who pays for utility upgrades, what the landlord must deliver, and how construction approvals work. The lease should also define contractor access rules, work hours, insurance requirements, signage rights, and any deadline tied to opening. These details matter because retail build-outs are often delayed or over budget when the lease is vague. A strong lease review process prevents the tenant from discovering later that the space needs more work than expected or that landlord approvals take longer than the schedule assumed. If anything in the lease is unclear, it should be resolved before design and pricing begin, not during construction.",
+      "@type": "Answer",
+      "description": "Before signing, verify the shell condition, tenant improvement allowance, permit responsibility, landlord approval process, opening-date deadlines, and any restrictions on signage, hours, or contractor access. Lease language can materially change the build-out budget and timeline.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing a retail lease, the tenant should verify every item that affects the build-out. That includes the exact shell condition, whether a tenant improvement allowance is included, who is responsible for permits, who pays for utility upgrades, what the landlord must deliver, and how construction approvals work. The lease should also define contractor access rules, work hours, insurance requirements, signage rights, and any deadline tied to opening. These details matter because retail build-outs are often delayed or over budget when the lease is vague. A strong lease review process prevents the tenant from discovering later that the space needs more work than expected or that landlord approvals take longer than the schedule assumed. If anything in the lease is unclear, it should be resolved before design and pricing begin, not during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before signing, verify the shell condition, tenant improvement allowance, permit responsibility, landlord approval process, opening-date deadlines, and any rest"
+}

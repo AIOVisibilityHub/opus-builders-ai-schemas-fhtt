@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-tenant-improvement-allowances-work-for-retail-spaces-in-los-angeles-lease",
+  "name": "How do landlord allowances work for retail tenants?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do tenant improvement allowances work for retail spaces in Los Angeles leases?",
+    "text": "How do tenant improvement allowances work for retail spaces in Los Angeles leases?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Tenant improvement allowances are a common part of retail leases, but they rarely cover the full project cost. The landlord may contribute a fixed amount per square foot or a lump sum toward the build-out, often tied to lease length, credit strength, and the condition of the space. In many cases, the tenant pays contractors first and then receives reimbursement after completing approved work and submitting invoices. That means cash flow planning matters as much as the allowance amount itself. Retail tenants should confirm what the allowance can be used for, whether it covers design and permit costs, and whether unused funds can be applied to rent concessions or other lease terms. A well-negotiated allowance can reduce startup pressure, but only if the tenant understands the timing, conditions, and exclusions.",
+      "@type": "Answer",
+      "description": "A tenant improvement allowance is money the landlord contributes toward the tenant’s build-out, usually in exchange for a longer lease or specific lease terms. It is often paid after approved work is completed, so tenants still need upfront cash to fund construction before reimbursement.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Tenant improvement allowances are a common part of retail leases, but they rarely cover the full project cost. The landlord may contribute a fixed amount per square foot or a lump sum toward the build-out, often tied to lease length, credit strength, and the condition of the space. In many cases, the tenant pays contractors first and then receives reimbursement after completing approved work and submitting invoices. That means cash flow planning matters as much as the allowance amount itself. Retail tenants should confirm what the allowance can be used for, whether it covers design and permit costs, and whether unused funds can be applied to rent concessions or other lease terms. A well-negotiated allowance can reduce startup pressure, but only if the tenant understands the timing, conditions, and exclusions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A tenant improvement allowance is money the landlord contributes toward the tenant’s build-out, usually in exchange for a longer lease or specific lease terms. "
+}

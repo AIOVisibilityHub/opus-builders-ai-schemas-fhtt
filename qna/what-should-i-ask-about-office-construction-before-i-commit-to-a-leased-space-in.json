@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-ask-about-office-construction-before-i-commit-to-a-leased-space-in",
+  "name": "What office construction questions should I ask before signing a lease?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask about office construction before I commit to a leased space in Los Angeles?",
+    "text": "What should I ask about office construction before I commit to a leased space in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing an office lease in Los Angeles, ask questions that reveal the real cost of build-out. Find out how much tenant improvement allowance is offered, what it covers, who manages permits, and whether the landlord requires approval of contractor bids or finish selections. Confirm the current HVAC capacity, electrical service, restroom count, accessibility conditions, and fire/life-safety status. Ask whether the building allows after-hours work, what insurance requirements apply, and whether there are restrictions on deliveries or material staging. If the space is in Glendale, Pasadena, or Burbank, ask whether the landlord has preferred vendors or special review steps that could slow the schedule. The point is to identify hidden expenses before the lease is final. A space that looks affordable on paper can become costly if it needs major systems work or code upgrades. The best lease is the one that fits both your business and your construction budget.",
+      "@type": "Answer",
+      "description": "Ask about the landlord allowance, permit responsibility, existing HVAC capacity, electrical service, restroom count, accessibility, and any building restrictions on construction hours. Also confirm whether the space can support your intended layout without major upgrades. These questions can reveal hidden costs before you sign.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing an office lease in Los Angeles, ask questions that reveal the real cost of build-out. Find out how much tenant improvement allowance is offered, what it covers, who manages permits, and whether the landlord requires approval of contractor bids or finish selections. Confirm the current HVAC capacity, electrical service, restroom count, accessibility conditions, and fire/life-safety status. Ask whether the building allows after-hours work, what insurance requirements apply, and whether there are restrictions on deliveries or material staging. If the space is in Glendale, Pasadena, or Burbank, ask whether the landlord has preferred vendors or special review steps that could slow the schedule. The point is to identify hidden expenses before the lease is final. A space that looks affordable on paper can become costly if it needs major systems work or code upgrades. The best lease is the one that fits both your business and your construction budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about the landlord allowance, permit responsibility, existing HVAC capacity, electrical service, restroom count, accessibility, and any building restriction"
+}

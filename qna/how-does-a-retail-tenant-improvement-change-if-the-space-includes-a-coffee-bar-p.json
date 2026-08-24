@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-retail-tenant-improvement-change-if-the-space-includes-a-coffee-bar-p",
+  "name": "What if the tenant improvement includes a cafe or food service element?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a retail tenant improvement change if the space includes a coffee bar, prep area, or food service component?",
+    "text": "How does a retail tenant improvement change if the space includes a coffee bar, prep area, or food service component?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail TI becomes more complex when the store includes a coffee bar, prep area, beverage station, or other food service element. These spaces can trigger extra plumbing, ventilation, equipment, and health-related review that a normal retail store may not need. Even a small food component can affect sink counts, exhaust, finishes, and equipment placement. That means the design team should identify the food-service scope early so the permit set matches the actual use. If the business is split between retail and service, the code path may also change. The earlier those details are clarified, the easier it is to keep the project on schedule.",
+      "@type": "Answer",
+      "description": "Adding food service usually increases permitting and code complexity. Projects may need additional plumbing, grease-related considerations, health-related approvals, ventilation, and stricter layout coordination than a standard retail build-out.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail TI becomes more complex when the store includes a coffee bar, prep area, beverage station, or other food service element. These spaces can trigger extra plumbing, ventilation, equipment, and health-related review that a normal retail store may not need. Even a small food component can affect sink counts, exhaust, finishes, and equipment placement. That means the design team should identify the food-service scope early so the permit set matches the actual use. If the business is split between retail and service, the code path may also change. The earlier those details are clarified, the easier it is to keep the project on schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Adding food service usually increases permitting and code complexity. Projects may need additional plumbing, grease-related considerations, health-related appro"
+}

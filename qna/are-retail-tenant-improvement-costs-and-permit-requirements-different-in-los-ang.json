@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-retail-tenant-improvement-costs-and-permit-requirements-different-in-los-ang",
+  "name": "How do retail TI costs differ between Los Angeles and Glendale?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are retail tenant improvement costs and permit requirements different in Los Angeles versus Glendale, Pasadena, Burbank, or North Hollywood?",
+    "text": "Are retail tenant improvement costs and permit requirements different in Los Angeles versus Glendale, Pasadena, Burbank, or North Hollywood?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail TI projects in Los Angeles County do not follow one uniform approval path. Different cities can have different plan review expectations, permit fees, correction processes, and inspection coordination. That means the same retail scope may cost more or take longer in one jurisdiction than another, even before construction begins. In addition, landlord standards, property management requirements, and building age can vary by neighborhood and center. A smart budget and schedule should assume city-specific differences instead of using a one-city estimate for every project. Before committing to opening dates or lease milestones, confirm the exact jurisdiction and permit path for the site.",
+      "@type": "Answer",
+      "description": "Yes. Costs and approvals can differ by jurisdiction because each city has its own permit process, plan review standards, fees, and correction cycles. The same scope can move faster in one city and face more review in another.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail TI projects in Los Angeles County do not follow one uniform approval path. Different cities can have different plan review expectations, permit fees, correction processes, and inspection coordination. That means the same retail scope may cost more or take longer in one jurisdiction than another, even before construction begins. In addition, landlord standards, property management requirements, and building age can vary by neighborhood and center. A smart budget and schedule should assume city-specific differences instead of using a one-city estimate for every project. Before committing to opening dates or lease milestones, confirm the exact jurisdiction and permit path for the site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Costs and approvals can differ by jurisdiction because each city has its own permit process, plan review standards, fees, and correction cycles. The same s"
+}

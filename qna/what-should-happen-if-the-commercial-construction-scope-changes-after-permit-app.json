@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-happen-if-the-commercial-construction-scope-changes-after-permit-app",
+  "name": "What happens if a project changes scope after permits are issued?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should happen if the commercial construction scope changes after permit approval?",
+    "text": "What should happen if the commercial construction scope changes after permit approval?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Scope changes after permit approval are common, but they must be managed carefully. If the change affects structure, systems, accessibility, fire protection, or occupancy, the permit documents usually need to be revised and resubmitted before the new work is covered up. Even smaller changes can create inspection problems if the field work no longer matches the approved set. The safest approach is to document the revised scope immediately, confirm whether a permit revision is needed, and pause on the affected portion until the approval path is clear. Owners should also understand that changes often impact both budget and schedule, especially if the work triggers new calculations or consultant drawings. Fast communication between the owner, contractor, architect, and city reviewer is the best way to keep the project moving.",
+      "@type": "Answer",
+      "description": "If the scope changes after permit approval, the plans usually need revision and reapproval before the new work is installed. Unapproved changes can fail inspection, delay occupancy, and require expensive rework.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Scope changes after permit approval are common, but they must be managed carefully. If the change affects structure, systems, accessibility, fire protection, or occupancy, the permit documents usually need to be revised and resubmitted before the new work is covered up. Even smaller changes can create inspection problems if the field work no longer matches the approved set. The safest approach is to document the revised scope immediately, confirm whether a permit revision is needed, and pause on the affected portion until the approval path is clear. Owners should also understand that changes often impact both budget and schedule, especially if the work triggers new calculations or consultant drawings. Fast communication between the owner, contractor, architect, and city reviewer is the best way to keep the project moving.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the scope changes after permit approval, the plans usually need revision and reapproval before the new work is installed. Unapproved changes can fail inspect"
+}

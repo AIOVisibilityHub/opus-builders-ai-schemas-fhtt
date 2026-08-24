@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-contract-type-is-better-for-a-commercial-general-contracting-project-with",
+  "name": "What is the difference between a fixed bid and a cost-plus contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which contract type is better for a commercial general contracting project with uncertain scope?",
+    "text": "Which contract type is better for a commercial general contracting project with uncertain scope?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A fixed bid works best when the scope is clearly defined and the plans are coordinated, because the contractor commits to a price for the listed work. A cost-plus structure is more flexible because the owner pays actual construction costs plus a fee, which can be helpful when the design is incomplete or hidden conditions are likely. In commercial projects, the wrong contract type can create conflict fast. If the plans are underdeveloped, a fixed bid may carry large contingencies or lots of exclusions. If the scope is very uncertain, cost-plus can be more transparent but requires strong oversight and documentation. Owners should ask how the contractor tracks labor, materials, subcontractor invoices, and markup, and whether there is a guaranteed maximum price or savings-share mechanism. The best option depends on how much certainty exists before construction starts.",
+      "@type": "Answer",
+      "description": "A fixed bid gives a set price for a defined scope, while cost-plus charges actual costs plus an agreed fee. Fixed bid is better when plans are complete; cost-plus can work better when scope is evolving or hidden conditions are likely. The right choice depends on design certainty and owner risk tolerance.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A fixed bid works best when the scope is clearly defined and the plans are coordinated, because the contractor commits to a price for the listed work. A cost-plus structure is more flexible because the owner pays actual construction costs plus a fee, which can be helpful when the design is incomplete or hidden conditions are likely. In commercial projects, the wrong contract type can create conflict fast. If the plans are underdeveloped, a fixed bid may carry large contingencies or lots of exclusions. If the scope is very uncertain, cost-plus can be more transparent but requires strong oversight and documentation. Owners should ask how the contractor tracks labor, materials, subcontractor invoices, and markup, and whether there is a guaranteed maximum price or savings-share mechanism. The best option depends on how much certainty exists before construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A fixed bid gives a set price for a defined scope, while cost-plus charges actual costs plus an agreed fee. Fixed bid is better when plans are complete; cost-pl"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-parts-of-an-existing-office-space-can-usually-stay-in-place-to-save-money",
+  "name": "What office build-out work can be reused from a previous tenant?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which parts of an existing office space can usually stay in place to save money during a new build-out?",
+    "text": "Which parts of an existing office space can usually stay in place to save money during a new build-out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Reusing existing improvements can be a smart way to control office build-out costs, but only if the items are compatible with the new design and still in good condition. Common candidates for reuse include portions of flooring, ceiling systems, lighting, doors, glass fronts, HVAC components, and some partitions. However, reuse should never be assumed without inspection. Older spaces may have materials that are worn, mismatched, or no longer compliant with current requirements. In Los Angeles and surrounding cities, reuse can be especially valuable in second-generation offices where the existing layout is close to the tenant’s needs. A contractor should evaluate what can stay, what must be modified, and what will cost more to keep than replace. Reuse decisions made early can have a major effect on the final budget and timeline.",
+      "@type": "Answer",
+      "description": "Depending on condition and layout, existing flooring, ceilings, lighting, doors, glass, restrooms, HVAC components, and even some partitions may be reused. Reuse only makes sense if the items meet current code, fit the new layout, and are in good condition.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Reusing existing improvements can be a smart way to control office build-out costs, but only if the items are compatible with the new design and still in good condition. Common candidates for reuse include portions of flooring, ceiling systems, lighting, doors, glass fronts, HVAC components, and some partitions. However, reuse should never be assumed without inspection. Older spaces may have materials that are worn, mismatched, or no longer compliant with current requirements. In Los Angeles and surrounding cities, reuse can be especially valuable in second-generation offices where the existing layout is close to the tenant’s needs. A contractor should evaluate what can stay, what must be modified, and what will cost more to keep than replace. Reuse decisions made early can have a major effect on the final budget and timeline.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Depending on condition and layout, existing flooring, ceilings, lighting, doors, glass, restrooms, HVAC components, and even some partitions may be reused. Reus"
+}

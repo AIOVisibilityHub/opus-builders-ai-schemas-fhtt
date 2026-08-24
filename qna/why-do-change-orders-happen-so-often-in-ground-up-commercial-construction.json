@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-change-orders-happen-so-often-in-ground-up-commercial-construction",
+  "name": "How do change orders happen on new builds?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do change orders happen so often in ground-up commercial construction?",
+    "text": "Why do change orders happen so often in ground-up commercial construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders are common in ground-up commercial construction because many variables are still moving during design and permitting. The original contract may assume one set of site conditions, drawings, and agency approvals, but the actual field conditions or permit comments may be different. Hidden soil issues, utility conflicts, owner-driven design changes, and code corrections are all common triggers. In Los Angeles, change orders also happen when the city or fire reviewer requests revisions after the contract is signed. If the drawings were not fully coordinated before bidding, conflicts between architecture, structure, and MEP systems can surface during construction. That makes preconstruction coordination extremely important. Owners can reduce change orders by insisting on detailed drawings, fixed allowances where possible, early utility research, and a clear process for approving revisions. The contractor should explain what is included in the base bid and what would trigger a change. The goal is not to eliminate every change order, but to make them predictable and justified rather than constant and reactive.",
+      "@type": "Answer",
+      "description": "Change orders happen when the scope, site conditions, drawings, or permit requirements differ from the original contract assumptions. Common causes include hidden site conditions, design revisions, owner changes, utility conflicts, and inspection-driven corrections. The best way to reduce them is to define scope clearly before construction starts.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders are common in ground-up commercial construction because many variables are still moving during design and permitting. The original contract may assume one set of site conditions, drawings, and agency approvals, but the actual field conditions or permit comments may be different. Hidden soil issues, utility conflicts, owner-driven design changes, and code corrections are all common triggers. In Los Angeles, change orders also happen when the city or fire reviewer requests revisions after the contract is signed. If the drawings were not fully coordinated before bidding, conflicts between architecture, structure, and MEP systems can surface during construction. That makes preconstruction coordination extremely important. Owners can reduce change orders by insisting on detailed drawings, fixed allowances where possible, early utility research, and a clear process for approving revisions. The contractor should explain what is included in the base bid and what would trigger a change. The goal is not to eliminate every change order, but to make them predictable and justified rather than constant and reactive.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Change orders happen when the scope, site conditions, drawings, or permit requirements differ from the original contract assumptions. Common causes include hidd"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-questions-best-reveal-whether-a-commercial-general-contractor-in-los-angel",
+  "name": "What should I ask before hiring a commercial general contractor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which questions best reveal whether a commercial general contractor in Los Angeles is truly experienced?",
+    "text": "Which questions best reveal whether a commercial general contractor in Los Angeles is truly experienced?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most useful questions are the ones that force the contractor to prove how they work, not just that they can build. Ask what similar projects they completed recently, who will run the job daily, how they track budget changes, how they handle permit corrections, and how they keep occupied spaces safe. Also ask for recent references in the same city or a comparable market, because local permitting and inspection habits matter. If the project is time-sensitive, ask how they prevent delays from long-lead materials and subcontractor gaps. If the contractor answers vaguely, focuses only on price, or avoids discussing change orders, that is a warning sign. Strong commercial GCs are comfortable discussing process, not just outcomes. They should be able to explain sequencing, communication cadence, and what happens when the unexpected comes up.",
+      "@type": "Answer",
+      "description": "Ask about similar recent projects, permit experience, site safety, subcontractor management, change-order controls, schedule updates, and how they handle occupied buildings. Strong contractors can explain the exact process, not just give general promises. The best answers are specific, local, and backed by recent project examples.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most useful questions are the ones that force the contractor to prove how they work, not just that they can build. Ask what similar projects they completed recently, who will run the job daily, how they track budget changes, how they handle permit corrections, and how they keep occupied spaces safe. Also ask for recent references in the same city or a comparable market, because local permitting and inspection habits matter. If the project is time-sensitive, ask how they prevent delays from long-lead materials and subcontractor gaps. If the contractor answers vaguely, focuses only on price, or avoids discussing change orders, that is a warning sign. Strong commercial GCs are comfortable discussing process, not just outcomes. They should be able to explain sequencing, communication cadence, and what happens when the unexpected comes up.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about similar recent projects, permit experience, site safety, subcontractor management, change-order controls, schedule updates, and how they handle occupi"
+}

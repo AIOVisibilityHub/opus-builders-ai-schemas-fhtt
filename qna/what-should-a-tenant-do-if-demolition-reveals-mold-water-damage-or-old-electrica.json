@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-tenant-do-if-demolition-reveals-mold-water-damage-or-old-electrica",
+  "name": "What happens if the existing retail space has hidden damage?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a tenant do if demolition reveals mold, water damage, or old electrical problems during a retail build-out?",
+    "text": "What should a tenant do if demolition reveals mold, water damage, or old electrical problems during a retail build-out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hidden damage is a common reason retail build-outs change course after demolition begins. Older spaces may reveal water intrusion, mold, damaged framing, deteriorated wiring, unsafe plumbing, or abandoned systems that do not meet current code. Once discovered, the contractor should stop affected work, document the condition, and determine whether the issue belongs to the tenant scope, landlord scope, or a separate remediation effort. In Los Angeles, serious hidden conditions can trigger plan revisions or additional inspection requirements before the job can move forward. The key is to avoid covering the issue quickly just to stay on schedule, because that often creates bigger problems later. A good project team will explain the remediation options, the likely cost impact, and whether the opening date needs to move. This is another reason contingency is essential on retail projects, especially in older buildings.",
+      "@type": "Answer",
+      "description": "Hidden damage should be documented immediately, photographed, and reviewed before work continues. Mold, water intrusion, or outdated electrical systems can require redesign, additional permits, and budget changes, so the contractor and landlord should be notified right away.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hidden damage is a common reason retail build-outs change course after demolition begins. Older spaces may reveal water intrusion, mold, damaged framing, deteriorated wiring, unsafe plumbing, or abandoned systems that do not meet current code. Once discovered, the contractor should stop affected work, document the condition, and determine whether the issue belongs to the tenant scope, landlord scope, or a separate remediation effort. In Los Angeles, serious hidden conditions can trigger plan revisions or additional inspection requirements before the job can move forward. The key is to avoid covering the issue quickly just to stay on schedule, because that often creates bigger problems later. A good project team will explain the remediation options, the likely cost impact, and whether the opening date needs to move. This is another reason contingency is essential on retail projects, especially in older buildings.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hidden damage should be documented immediately, photographed, and reviewed before work continues. Mold, water intrusion, or outdated electrical systems can requ"
+}

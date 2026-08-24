@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-split-an-office-build-out-into-phases-instead-of-shutting-down",
+  "name": "Can I phase an office build-out so my business can keep operating?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to split an office build-out into phases instead of shutting down the whole space at once?",
+    "text": "Is it possible to split an office build-out into phases instead of shutting down the whole space at once?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phased office build-outs are often the best option when a business needs to remain open during construction. The project can be divided by suite, floor, department, or work area so the contractor completes one section before moving to the next. This usually requires temporary partitions, dust control, restricted access routes, and planned shutdowns for noisy or utility-connected work. In busy Los Angeles buildings, phasing may also require night or weekend work to reduce disruption. The tradeoff is that phased work can cost more and take longer because mobilization, protection, and coordination are repeated. Still, for many tenants, the operational continuity is worth it. The key is to plan phasing before construction starts so the schedule, permit strategy, and move sequence all align.",
+      "@type": "Answer",
+      "description": "Yes, many office build-outs can be phased so work happens in sections while the business keeps operating. Phasing requires careful sequencing, temporary barriers, after-hours work, and clear coordination so staff, clients, and contractors can share the space safely.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phased office build-outs are often the best option when a business needs to remain open during construction. The project can be divided by suite, floor, department, or work area so the contractor completes one section before moving to the next. This usually requires temporary partitions, dust control, restricted access routes, and planned shutdowns for noisy or utility-connected work. In busy Los Angeles buildings, phasing may also require night or weekend work to reduce disruption. The tradeoff is that phased work can cost more and take longer because mobilization, protection, and coordination are repeated. Still, for many tenants, the operational continuity is worth it. The key is to plan phasing before construction starts so the schedule, permit strategy, and move sequence all align.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many office build-outs can be phased so work happens in sections while the business keeps operating. Phasing requires careful sequencing, temporary barrier"
+}

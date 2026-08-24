@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-kinds-of-commercial-construction-work-require-permits-in-los-angeles-and-ne",
+  "name": "What commercial projects need permits in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What kinds of commercial construction work require permits in Los Angeles and nearby cities?",
+    "text": "What kinds of commercial construction work require permits in Los Angeles and nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most commercial projects need permits when they change the building structure, occupancy, systems, or life-safety conditions. That includes new buildings, expansions, interior tenant improvements, restroom upgrades, electrical and mechanical changes, plumbing work, ADA-related alterations, and change-of-use projects such as office-to-restaurant conversions. Even work that looks minor can require permits if it affects load-bearing walls, exits, fire protection, accessibility routes, or energy systems. The best rule is to assume a permit is needed unless the scope is clearly exempt. Owners should verify requirements with the local building department before signing construction contracts, because starting work without the right approvals can delay inspections, financing, and opening dates. For multi-city projects, permit rules can differ slightly between Los Angeles, Glendale, Pasadena, Burbank, and unincorporated county areas, so location-specific review matters.",
+      "@type": "Answer",
+      "description": "Most commercial construction projects require permits if they involve new construction, additions, tenant improvements, structural changes, electrical, plumbing, HVAC, or a change in occupancy or use. Even interior remodels usually need review when walls, systems, or life-safety features are affected.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most commercial projects need permits when they change the building structure, occupancy, systems, or life-safety conditions. That includes new buildings, expansions, interior tenant improvements, restroom upgrades, electrical and mechanical changes, plumbing work, ADA-related alterations, and change-of-use projects such as office-to-restaurant conversions. Even work that looks minor can require permits if it affects load-bearing walls, exits, fire protection, accessibility routes, or energy systems. The best rule is to assume a permit is needed unless the scope is clearly exempt. Owners should verify requirements with the local building department before signing construction contracts, because starting work without the right approvals can delay inspections, financing, and opening dates. For multi-city projects, permit rules can differ slightly between Los Angeles, Glendale, Pasadena, Burbank, and unincorporated county areas, so location-specific review matters.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most commercial construction projects require permits if they involve new construction, additions, tenant improvements, structural changes, electrical, plumbing"
+}

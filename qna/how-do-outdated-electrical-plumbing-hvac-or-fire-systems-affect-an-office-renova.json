@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-outdated-electrical-plumbing-hvac-or-fire-systems-affect-an-office-renova",
+  "name": "What if my office is in an older LA building with outdated systems?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do outdated electrical, plumbing, HVAC, or fire systems affect an office renovation in an older building?",
+    "text": "How do outdated electrical, plumbing, HVAC, or fire systems affect an office renovation in an older building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older office buildings can create some of the biggest surprises in a renovation. If the electrical service is undersized, the HVAC system is inefficient, plumbing is corroded, or fire protection needs updating, the project may need more than surface-level improvements. These issues can affect layout choices, ceiling design, equipment placement, and permit requirements. In some cases, the contractor may recommend upgrading infrastructure before finishing the space so the new build-out is not damaged by future system failures. A thorough preconstruction review, including existing conditions verification and field investigation, helps identify these issues before bidding. That reduces the chance of expensive revisions once construction starts.",
+      "@type": "Answer",
+      "description": "Older office buildings often need hidden system upgrades before or during renovation, especially for electrical capacity, HVAC performance, plumbing, and fire protection. Those issues can add permits, coordination with building systems, and extra time once walls or ceilings are opened.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older office buildings can create some of the biggest surprises in a renovation. If the electrical service is undersized, the HVAC system is inefficient, plumbing is corroded, or fire protection needs updating, the project may need more than surface-level improvements. These issues can affect layout choices, ceiling design, equipment placement, and permit requirements. In some cases, the contractor may recommend upgrading infrastructure before finishing the space so the new build-out is not damaged by future system failures. A thorough preconstruction review, including existing conditions verification and field investigation, helps identify these issues before bidding. That reduces the chance of expensive revisions once construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older office buildings often need hidden system upgrades before or during renovation, especially for electrical capacity, HVAC performance, plumbing, and fire p"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-exactly-is-included-in-a-retail-tenant-improvement-versus-a-simple-cosmetic",
+  "name": "What is included in a retail tenant improvement scope?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What exactly is included in a retail tenant improvement versus a simple cosmetic remodel?",
+    "text": "What exactly is included in a retail tenant improvement versus a simple cosmetic remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail tenant improvement is broader than a cosmetic refresh. It typically covers demolition of the existing interior, new partitions, storefront or entry adjustments, flooring, wall finishes, ceiling work, lighting, electrical distribution, HVAC modifications, plumbing for restrooms or sinks, millwork, fixtures, and code-required upgrades tied to occupancy or accessibility. A cosmetic remodel is usually limited to visible finish work such as paint, flooring, lighting replacement, shelving, and display updates. The difference matters because once you change layout, egress, life-safety systems, electrical loads, or plumbing, the project often moves into permit and inspection territory. Before signing a lease or starting design, ask for a clear scope breakdown that separates landlord work, base-building items, and tenant responsibility. That prevents confusion about who pays for improvements, what gets permitted, and what can delay opening.",
+      "@type": "Answer",
+      "description": "A retail tenant improvement usually includes interior demolition, framing, drywall, flooring, lighting, power, HVAC changes, restrooms, finishes, and fixture installation. A cosmetic remodel is narrower and may only cover paint, flooring, lighting swaps, and display updates without major MEP or layout changes.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail tenant improvement is broader than a cosmetic refresh. It typically covers demolition of the existing interior, new partitions, storefront or entry adjustments, flooring, wall finishes, ceiling work, lighting, electrical distribution, HVAC modifications, plumbing for restrooms or sinks, millwork, fixtures, and code-required upgrades tied to occupancy or accessibility. A cosmetic remodel is usually limited to visible finish work such as paint, flooring, lighting replacement, shelving, and display updates. The difference matters because once you change layout, egress, life-safety systems, electrical loads, or plumbing, the project often moves into permit and inspection territory. Before signing a lease or starting design, ask for a clear scope breakdown that separates landlord work, base-building items, and tenant responsibility. That prevents confusion about who pays for improvements, what gets permitted, and what can delay opening.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A retail tenant improvement usually includes interior demolition, framing, drywall, flooring, lighting, power, HVAC changes, restrooms, finishes, and fixture in"
+}

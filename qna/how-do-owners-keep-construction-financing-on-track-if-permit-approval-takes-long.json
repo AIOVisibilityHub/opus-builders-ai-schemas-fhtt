@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-owners-keep-construction-financing-on-track-if-permit-approval-takes-long",
+  "name": "What if financing depends on permit timing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do owners keep construction financing on track if permit approval takes longer than expected?",
+    "text": "How do owners keep construction financing on track if permit approval takes longer than expected?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When financing depends on permit timing, delays can quickly become a serious problem. Ground-up commercial construction loans often rely on a clear path to permit issuance and mobilization, so if approvals move slower than expected, the owner should update the lender immediately. Provide a revised schedule, current plan-check status, and an explanation of what changed. The lender usually wants to see that the project still has a credible path forward and that the budget includes enough reserve for the delay. If the permit timeline affects carry costs, soft costs, or pricing commitments, those impacts should be documented too. That helps avoid surprises during draw requests or loan extension discussions. Owners can reduce risk by phasing design and permit submittals, locking in long-lead procurement where possible, and keeping contingency available for holding costs. The contractor should support the lender’s questions with current status reports and realistic milestones. Good communication matters because financing problems often start as schedule problems. If everyone sees the delay early, the project is much easier to stabilize.",
+      "@type": "Answer",
+      "description": "If permit approval is delayed, owners should communicate early with the lender, update the project schedule, and provide revised milestones and budget assumptions. Financing often depends on permit status, so document every delay and keep contingency plans for preconstruction costs. Clear reporting helps prevent funding gaps.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When financing depends on permit timing, delays can quickly become a serious problem. Ground-up commercial construction loans often rely on a clear path to permit issuance and mobilization, so if approvals move slower than expected, the owner should update the lender immediately. Provide a revised schedule, current plan-check status, and an explanation of what changed. The lender usually wants to see that the project still has a credible path forward and that the budget includes enough reserve for the delay. If the permit timeline affects carry costs, soft costs, or pricing commitments, those impacts should be documented too. That helps avoid surprises during draw requests or loan extension discussions. Owners can reduce risk by phasing design and permit submittals, locking in long-lead procurement where possible, and keeping contingency available for holding costs. The contractor should support the lender’s questions with current status reports and realistic milestones. Good communication matters because financing problems often start as schedule problems. If everyone sees the delay early, the project is much easier to stabilize.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If permit approval is delayed, owners should communicate early with the lender, update the project schedule, and provide revised milestones and budget assumptio"
+}

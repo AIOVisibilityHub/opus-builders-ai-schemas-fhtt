@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-percentage-is-realistic-for-an-office-construction-project-in-l",
+  "name": "How much contingency should I keep for an office build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency percentage is realistic for an office construction project in Los Angeles?",
+    "text": "What contingency percentage is realistic for an office construction project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A reasonable contingency for an office build-out is usually 10% to 15% for a fairly clear project, and more if the building is older or the scope is not fully defined. Contingency protects against hidden conditions, pricing gaps, permit revisions, and owner-driven changes. In Los Angeles, older office buildings often reveal issues behind walls or above ceilings once construction begins, so a low contingency can be risky. If the space is being converted from a different use, or if the tenant wants premium finishes and custom features, contingency should be even more carefully planned. The important thing is to treat contingency as real money, not leftover budget. Decide early whether it will be held by the owner, contractor, or tenant, and define what triggers its use. That makes it easier to manage change orders without losing control of the project.",
+      "@type": "Answer",
+      "description": "A realistic office build-out contingency is often around 10% to 15% for straightforward projects and higher for older buildings or unclear scopes. The more unknowns in the space, the more contingency you should carry. Hidden conditions, permit changes, and scope additions are the main reasons budgets move.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A reasonable contingency for an office build-out is usually 10% to 15% for a fairly clear project, and more if the building is older or the scope is not fully defined. Contingency protects against hidden conditions, pricing gaps, permit revisions, and owner-driven changes. In Los Angeles, older office buildings often reveal issues behind walls or above ceilings once construction begins, so a low contingency can be risky. If the space is being converted from a different use, or if the tenant wants premium finishes and custom features, contingency should be even more carefully planned. The important thing is to treat contingency as real money, not leftover budget. Decide early whether it will be held by the owner, contractor, or tenant, and define what triggers its use. That makes it easier to manage change orders without losing control of the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A realistic office build-out contingency is often around 10% to 15% for straightforward projects and higher for older buildings or unclear scopes. The more unkn"
+}

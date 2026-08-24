@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-commercial-general-contracting-bids-cost-more-when-the-building-stays-occ",
+  "name": "What is the difference between occupied and vacant site pricing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do commercial general contracting bids cost more when the building stays occupied during work?",
+    "text": "Why do commercial general contracting bids cost more when the building stays occupied during work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When a building stays occupied, the contractor must protect people, inventory, and daily operations while still moving the work forward. That usually means more dust control, temporary barriers, after-hours labor, restricted delivery windows, phased shutdowns, and more supervisory time. Trades may also work slower because they cannot fully shut down an area or stack materials freely. As a result, the occupied-job bid is often higher than a vacant-site bid. Owners sometimes compare the two prices without realizing that the scope of logistics is very different. A good contractor will spell out the added costs and explain what is necessary to keep operations safe and uninterrupted. If the extra cost is not described clearly, the bid may be hiding operational risk that will appear later.",
+      "@type": "Answer",
+      "description": "Occupied-site pricing is often higher because the contractor must add protection, phasing, off-hours labor, noise control, access limits, and extra coordination. Crews work slower around tenants, customers, or staff. The project also carries a higher risk of delays and change management.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When a building stays occupied, the contractor must protect people, inventory, and daily operations while still moving the work forward. That usually means more dust control, temporary barriers, after-hours labor, restricted delivery windows, phased shutdowns, and more supervisory time. Trades may also work slower because they cannot fully shut down an area or stack materials freely. As a result, the occupied-job bid is often higher than a vacant-site bid. Owners sometimes compare the two prices without realizing that the scope of logistics is very different. A good contractor will spell out the added costs and explain what is necessary to keep operations safe and uninterrupted. If the extra cost is not described clearly, the bid may be hiding operational risk that will appear later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Occupied-site pricing is often higher because the contractor must add protection, phasing, off-hours labor, noise control, access limits, and extra coordination"
+}

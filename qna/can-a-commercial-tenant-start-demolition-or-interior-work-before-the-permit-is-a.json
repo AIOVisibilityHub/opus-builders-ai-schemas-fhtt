@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-commercial-tenant-start-demolition-or-interior-work-before-the-permit-is-a",
+  "name": "Can a tenant start work before the permit is issued?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a commercial tenant start demolition or interior work before the permit is approved?",
+    "text": "Can a commercial tenant start demolition or interior work before the permit is approved?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A tenant should not start construction before the required permits are in hand. Even limited demolition can create problems if it affects approved plans, life-safety items, or concealed conditions that need inspection. If work begins early, the project may be forced to stop, and any completed work could have to be opened up or redone to satisfy the approved permit set. This can be especially risky for commercial spaces where multiple trades are involved and where occupancy cannot happen until final sign-off is complete. If the schedule is tight, the better solution is to phase the work, submit a complete plan set early, and coordinate procurement so the contractor can mobilize immediately after approval. Owners should never assume a verbal okay or partial review is enough to begin construction.",
+      "@type": "Answer",
+      "description": "No, work should not begin before the required permits are issued. Starting early can lead to stop-work orders, rework, inspection problems, and delays to final approval, even if the work seems minor.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A tenant should not start construction before the required permits are in hand. Even limited demolition can create problems if it affects approved plans, life-safety items, or concealed conditions that need inspection. If work begins early, the project may be forced to stop, and any completed work could have to be opened up or redone to satisfy the approved permit set. This can be especially risky for commercial spaces where multiple trades are involved and where occupancy cannot happen until final sign-off is complete. If the schedule is tight, the better solution is to phase the work, submit a complete plan set early, and coordinate procurement so the contractor can mobilize immediately after approval. Owners should never assume a verbal okay or partial review is enough to begin construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "No, work should not begin before the required permits are issued. Starting early can lead to stop-work orders, rework, inspection problems, and delays to final "
+}

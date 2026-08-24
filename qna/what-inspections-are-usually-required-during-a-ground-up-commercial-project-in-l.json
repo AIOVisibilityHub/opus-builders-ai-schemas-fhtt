@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-inspections-are-usually-required-during-a-ground-up-commercial-project-in-l",
+  "name": "What inspections happen during commercial construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What inspections are usually required during a ground-up commercial project in Los Angeles?",
+    "text": "What inspections are usually required during a ground-up commercial project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Ground-up commercial construction in Los Angeles usually requires many inspections at different stages, and the exact list depends on the project scope. Common inspections include footing and foundation, underground utilities, structural framing, shear and hold-down components, electrical rough-in, plumbing rough-in, mechanical rough-in, fire sprinkler and fire alarm, insulation, drywall, accessibility, and final building approval. Many projects also require special inspections for items like concrete, welding, anchors, soil compaction, and fireproofing. The contractor should build an inspection calendar from the start so work is not ready before the inspector is available. Missing one inspection can halt the next trade from closing up walls or pouring concrete. In practice, inspection sequencing is as important as the physical work itself. Owners should ask how the contractor manages inspection requests, correction notices, and re-inspections. A well-run project keeps the inspection log current and assigns responsibility for each sign-off. This is especially important on projects in busy city jurisdictions where scheduling delays can quickly affect the critical path. Clear inspection management helps prevent costly downtime and rework.",
+      "@type": "Answer",
+      "description": "Typical inspections include foundation, framing, shear, underground utilities, electrical, plumbing, mechanical, fire sprinkler, fire alarm, insulation, drywall, accessibility, and final building inspections. Some projects also need special inspections for structural elements, soils, welding, or concrete. Missing an inspection can delay the next phase of work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Ground-up commercial construction in Los Angeles usually requires many inspections at different stages, and the exact list depends on the project scope. Common inspections include footing and foundation, underground utilities, structural framing, shear and hold-down components, electrical rough-in, plumbing rough-in, mechanical rough-in, fire sprinkler and fire alarm, insulation, drywall, accessibility, and final building approval. Many projects also require special inspections for items like concrete, welding, anchors, soil compaction, and fireproofing. The contractor should build an inspection calendar from the start so work is not ready before the inspector is available. Missing one inspection can halt the next trade from closing up walls or pouring concrete. In practice, inspection sequencing is as important as the physical work itself. Owners should ask how the contractor manages inspection requests, correction notices, and re-inspections. A well-run project keeps the inspection log current and assigns responsibility for each sign-off. This is especially important on projects in busy city jurisdictions where scheduling delays can quickly affect the critical path. Clear inspection management helps prevent costly downtime and rework.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Typical inspections include foundation, framing, shear, underground utilities, electrical, plumbing, mechanical, fire sprinkler, fire alarm, insulation, drywall"
+}

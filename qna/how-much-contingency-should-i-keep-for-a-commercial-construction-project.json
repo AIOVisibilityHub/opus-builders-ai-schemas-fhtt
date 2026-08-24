@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-contingency-should-i-keep-for-a-commercial-construction-project",
+  "name": "How do I budget contingency for commercial construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much contingency should I keep for a commercial construction project?",
+    "text": "How much contingency should I keep for a commercial construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A commercial construction contingency is the budget cushion that protects the project from unknowns. It helps cover hidden damage, scope changes, permit revisions, and material or labor surprises. The right amount depends on how complete the plans are, how old the building is, and how complicated the work will be. Simple interior refreshes may need a smaller reserve, while older buildings, restaurants, medical suites, and projects with structural or MEP changes often need more. In Los Angeles-area cities, contingency planning is especially important because permit revisions and hidden site conditions can quickly affect both cost and schedule. Owners should separate contingency from allowances so the reserve is not accidentally spent on expected items. It also helps to define who can approve use of contingency funds and under what conditions. A disciplined contingency plan can be the difference between a controlled project and a budget overrun.",
+      "@type": "Answer",
+      "description": "Contingency is a reserve set aside for unknowns such as hidden conditions, design changes, permit corrections, and price fluctuations. The right amount depends on project type, building age, and how complete the plans are before bidding. Older buildings and complex tenant improvements usually need a larger contingency than simple cosmetic work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A commercial construction contingency is the budget cushion that protects the project from unknowns. It helps cover hidden damage, scope changes, permit revisions, and material or labor surprises. The right amount depends on how complete the plans are, how old the building is, and how complicated the work will be. Simple interior refreshes may need a smaller reserve, while older buildings, restaurants, medical suites, and projects with structural or MEP changes often need more. In Los Angeles-area cities, contingency planning is especially important because permit revisions and hidden site conditions can quickly affect both cost and schedule. Owners should separate contingency from allowances so the reserve is not accidentally spent on expected items. It also helps to define who can approve use of contingency funds and under what conditions. A disciplined contingency plan can be the difference between a controlled project and a budget overrun.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Contingency is a reserve set aside for unknowns such as hidden conditions, design changes, permit corrections, and price fluctuations. The right amount depends "
+}

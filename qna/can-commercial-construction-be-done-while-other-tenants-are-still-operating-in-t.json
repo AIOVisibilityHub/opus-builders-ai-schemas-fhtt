@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-commercial-construction-be-done-while-other-tenants-are-still-operating-in-t",
+  "name": "Can commercial construction happen in occupied buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can commercial construction be done while other tenants are still operating in the building?",
+    "text": "Can commercial construction be done while other tenants are still operating in the building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Commercial construction can absolutely happen in occupied buildings, but it requires careful phasing and coordination. Contractors may need to separate work zones, manage dust and noise, preserve emergency exits, and schedule disruptive work after hours or on weekends. Occupied projects also tend to move more slowly because crews must work around tenant operations and building management requirements. The upside is that the building stays functional during construction, which can be critical for retail centers, office buildings, and medical facilities. The downside is higher coordination costs and a greater chance of schedule changes. Owners should ask their contractor how they will protect occupants, maintain access, and handle unforeseen conditions without shutting down the whole site.",
+      "@type": "Answer",
+      "description": "Yes, commercial construction can happen in occupied buildings, but it requires phasing, safety barriers, noise control, access planning, and tighter inspection coordination. Occupied projects usually cost more and take longer because work must avoid disrupting tenants and customers.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Commercial construction can absolutely happen in occupied buildings, but it requires careful phasing and coordination. Contractors may need to separate work zones, manage dust and noise, preserve emergency exits, and schedule disruptive work after hours or on weekends. Occupied projects also tend to move more slowly because crews must work around tenant operations and building management requirements. The upside is that the building stays functional during construction, which can be critical for retail centers, office buildings, and medical facilities. The downside is higher coordination costs and a greater chance of schedule changes. Owners should ask their contractor how they will protect occupants, maintain access, and handle unforeseen conditions without shutting down the whole site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, commercial construction can happen in occupied buildings, but it requires phasing, safety barriers, noise control, access planning, and tighter inspection "
+}

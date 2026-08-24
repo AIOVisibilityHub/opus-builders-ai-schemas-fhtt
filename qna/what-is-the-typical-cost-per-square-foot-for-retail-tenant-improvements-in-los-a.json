@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-typical-cost-per-square-foot-for-retail-tenant-improvements-in-los-a",
+  "name": "How much does retail tenant improvement cost per square foot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the typical cost per square foot for retail tenant improvements in Los Angeles-area cities?",
+    "text": "What is the typical cost per square foot for retail tenant improvements in Los Angeles-area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail TI pricing in the Los Angeles area depends heavily on whether the space is a light refresh, a mid-range build-out, or a high-end branded fit-out. The main cost drivers are demolition, framing, flooring, lighting, HVAC, plumbing, restrooms, storefront changes, millwork, and permit-related design work. Projects in older buildings or cold-shell spaces usually cost more because more systems must be added from scratch. Landlord allowances can offset part of the budget, but they rarely cover everything. A realistic budget should include hard construction, soft costs, permit fees, design fees, and contingency. The best way to avoid surprises is to price the project after scope is defined and before lease commitments are finalized.",
+      "@type": "Answer",
+      "description": "Retail tenant improvement costs vary by finish level and scope. Basic refreshes cost much less than full build-outs with storefront work, custom millwork, restrooms, HVAC changes, and specialty electrical. Costs rise quickly when the space needs code upgrades or new utility rough-ins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail TI pricing in the Los Angeles area depends heavily on whether the space is a light refresh, a mid-range build-out, or a high-end branded fit-out. The main cost drivers are demolition, framing, flooring, lighting, HVAC, plumbing, restrooms, storefront changes, millwork, and permit-related design work. Projects in older buildings or cold-shell spaces usually cost more because more systems must be added from scratch. Landlord allowances can offset part of the budget, but they rarely cover everything. A realistic budget should include hard construction, soft costs, permit fees, design fees, and contingency. The best way to avoid surprises is to price the project after scope is defined and before lease commitments are finalized.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Retail tenant improvement costs vary by finish level and scope. Basic refreshes cost much less than full build-outs with storefront work, custom millwork, restr"
+}

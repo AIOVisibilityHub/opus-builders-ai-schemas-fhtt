@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-when-office-build-out-work-has-to-happen-in-an-occupied-building-wi",
+  "name": "Can an office build-out be done while other tenants are still in the building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens when office build-out work has to happen in an occupied building with shared corridors, elevators, or parking?",
+    "text": "What happens when office build-out work has to happen in an occupied building with shared corridors, elevators, or parking?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Office build-outs in occupied buildings are common, especially in multi-tenant properties throughout Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood. The challenge is not whether the work can be done, but how well it is coordinated. Contractors need approved work hours, delivery windows, elevator access, staging areas, and dust and noise controls. Property management may also require insurance certificates, after-hours work, and tenant notices before disruptive activities. If the building remains open during construction, the project schedule often needs extra padding because work may be limited to nights or weekends. Occupied-building experience is a key contractor qualification because poor coordination can create delays, complaints, and change-order pressure. Tenants should ask exactly how site logistics will be managed before work begins.",
+      "@type": "Answer",
+      "description": "Yes, office build-outs can be completed in occupied buildings, but the contractor must coordinate access, noise, dust control, elevator use, delivery times, and safety barriers. Work in occupied buildings usually requires tighter scheduling and more communication with property management.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Office build-outs in occupied buildings are common, especially in multi-tenant properties throughout Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood. The challenge is not whether the work can be done, but how well it is coordinated. Contractors need approved work hours, delivery windows, elevator access, staging areas, and dust and noise controls. Property management may also require insurance certificates, after-hours work, and tenant notices before disruptive activities. If the building remains open during construction, the project schedule often needs extra padding because work may be limited to nights or weekends. Occupied-building experience is a key contractor qualification because poor coordination can create delays, complaints, and change-order pressure. Tenants should ask exactly how site logistics will be managed before work begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, office build-outs can be completed in occupied buildings, but the contractor must coordinate access, noise, dust control, elevator use, delivery times, and"
+}

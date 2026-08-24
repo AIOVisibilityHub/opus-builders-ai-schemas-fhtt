@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-do-i-need-for-a-retail-tenant-improvement-in-los-angeles-glendale-p",
+  "name": "What permits are needed for a retail tenant improvement in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits do I need for a retail tenant improvement in Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood?",
+    "text": "What permits do I need for a retail tenant improvement in Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail tenant improvement permits are not one-size-fits-all in Los Angeles County. A basic cosmetic refresh may only need a limited permit package, but once the scope includes walls, restrooms, HVAC changes, lighting, plumbing, sprinklers, accessibility upgrades, or storefront modifications, separate trade permits are often required. If the use is changing, or if the space is being reconfigured for a new tenant, plan on a fuller review. The exact package depends on the city, the scope, and whether the work triggers code upgrades. The safest next step is to define the scope early, then confirm requirements with the local building department before finalizing drawings. That helps avoid resubmittals, scope creep, and opening delays.",
+      "@type": "Answer",
+      "description": "Most retail tenant improvements need a building permit plus separate trade permits for electrical, plumbing, mechanical, and sometimes fire protection work. If the project changes occupancy, adds restrooms, alters storefronts, or includes structural work, the permit set usually becomes more complex and city-specific.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail tenant improvement permits are not one-size-fits-all in Los Angeles County. A basic cosmetic refresh may only need a limited permit package, but once the scope includes walls, restrooms, HVAC changes, lighting, plumbing, sprinklers, accessibility upgrades, or storefront modifications, separate trade permits are often required. If the use is changing, or if the space is being reconfigured for a new tenant, plan on a fuller review. The exact package depends on the city, the scope, and whether the work triggers code upgrades. The safest next step is to define the scope early, then confirm requirements with the local building department before finalizing drawings. That helps avoid resubmittals, scope creep, and opening delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most retail tenant improvements need a building permit plus separate trade permits for electrical, plumbing, mechanical, and sometimes fire protection work. If "
+}

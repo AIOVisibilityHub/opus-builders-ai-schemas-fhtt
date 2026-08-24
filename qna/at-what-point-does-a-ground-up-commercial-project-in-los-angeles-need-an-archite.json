@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/at-what-point-does-a-ground-up-commercial-project-in-los-angeles-need-an-archite",
+  "name": "What size project needs an architect and engineer first?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "At what point does a ground-up commercial project in Los Angeles need an architect and structural engineer before pricing?",
+    "text": "At what point does a ground-up commercial project in Los Angeles need an architect and structural engineer before pricing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For ground-up commercial construction, pricing without an architect and structural engineer is usually too speculative to trust. Even relatively small buildings need enough design development to define the structure, roof system, exterior envelope, egress, accessibility features, and utility requirements. If those items are not defined, any contractor number will include large allowances that may hide the real budget. A practical rule is that once the project is more than a shell idea or site acquisition concept, design professionals should be involved. The earlier they are engaged, the easier it is to control cost, permit risk, and constructability. For Los Angeles-area projects, that early team often needs to include civil, structural, mechanical, electrical, plumbing, and possibly fire protection consultants. Owners should ask for a preconstruction package that is detailed enough to support realistic budgeting, not just a conceptual sketch. If a contractor is asked to price too early, the proposal should clearly identify exclusions, assumptions, and allowances. That makes it easier to compare bids and avoid surprise change orders later.",
+      "@type": "Answer",
+      "description": "Most ground-up commercial projects need an architect and structural engineer before reliable pricing can happen. Even small buildings usually require a code-aware concept plan, structural concept, and MEP coordination before a contractor can give a usable budget. Without those documents, estimates are often rough allowances rather than real bids.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For ground-up commercial construction, pricing without an architect and structural engineer is usually too speculative to trust. Even relatively small buildings need enough design development to define the structure, roof system, exterior envelope, egress, accessibility features, and utility requirements. If those items are not defined, any contractor number will include large allowances that may hide the real budget. A practical rule is that once the project is more than a shell idea or site acquisition concept, design professionals should be involved. The earlier they are engaged, the easier it is to control cost, permit risk, and constructability. For Los Angeles-area projects, that early team often needs to include civil, structural, mechanical, electrical, plumbing, and possibly fire protection consultants. Owners should ask for a preconstruction package that is detailed enough to support realistic budgeting, not just a conceptual sketch. If a contractor is asked to price too early, the proposal should clearly identify exclusions, assumptions, and allowances. That makes it easier to compare bids and avoid surprise change orders later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most ground-up commercial projects need an architect and structural engineer before reliable pricing can happen. Even small buildings usually require a code-awa"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-the-geotechnical-report-shows-poor-soil-or-fill-on-a-los-angeles-commerc",
+  "name": "What happens if the soil report is bad?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if the geotechnical report shows poor soil or fill on a Los Angeles commercial site?",
+    "text": "What if the geotechnical report shows poor soil or fill on a Los Angeles commercial site?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the geotechnical report shows poor soil, undocumented fill, expansive material, or groundwater issues, the project design may need to change before construction can proceed efficiently. Depending on the site, the solution might involve over-excavation and recompaction, pier or pile foundations, soil stabilization, or revised slab and footing design. These changes can significantly affect both budget and timeline. In Los Angeles-area ground-up commercial construction, soil conditions should be reviewed early because they influence structural engineering, excavation planning, haul-off, and permit submittals. If poor soil is found late, the contractor may need to issue a change order, the engineer may need to revise foundation details, and the city may need to re-review the updated drawings. Owners should never treat the geotechnical report as a formality. It is one of the most important documents for preventing budget surprises. The right response to bad soil is not to ignore it but to design around it before the building permit is fully locked in. A contractor and engineer who work together early can often find the least disruptive solution.",
+      "@type": "Answer",
+      "description": "Poor soil or fill can require over-excavation, compaction, deep foundations, structural redesign, or soil improvement, which can raise cost and extend the schedule. The geotechnical report should guide the foundation system before final pricing. If soil issues are discovered late, change orders and permit revisions are common.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the geotechnical report shows poor soil, undocumented fill, expansive material, or groundwater issues, the project design may need to change before construction can proceed efficiently. Depending on the site, the solution might involve over-excavation and recompaction, pier or pile foundations, soil stabilization, or revised slab and footing design. These changes can significantly affect both budget and timeline. In Los Angeles-area ground-up commercial construction, soil conditions should be reviewed early because they influence structural engineering, excavation planning, haul-off, and permit submittals. If poor soil is found late, the contractor may need to issue a change order, the engineer may need to revise foundation details, and the city may need to re-review the updated drawings. Owners should never treat the geotechnical report as a formality. It is one of the most important documents for preventing budget surprises. The right response to bad soil is not to ignore it but to design around it before the building permit is fully locked in. A contractor and engineer who work together early can often find the least disruptive solution.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Poor soil or fill can require over-excavation, compaction, deep foundations, structural redesign, or soil improvement, which can raise cost and extend the sched"
+}

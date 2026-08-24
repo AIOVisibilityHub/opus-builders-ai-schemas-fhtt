@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-usually-delays-commercial-construction-projects-the-most-in-los-angeles",
+  "name": "What causes the biggest delays in commercial construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What usually delays commercial construction projects the most in Los Angeles?",
+    "text": "What usually delays commercial construction projects the most in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Commercial projects usually get delayed by a combination of paperwork, procurement, and hidden field conditions. The most common causes are incomplete plans, slow permit corrections, long-lead equipment, utility service changes, inspection backlogs, and discoveries behind the walls after demolition begins. In Los Angeles-area projects, older buildings often create additional surprises such as outdated electrical panels, structural deficiencies, or accessibility issues that were not obvious during bidding. Change-of-use work, restaurant conversions, and projects with complex fire or mechanical systems tend to take longer because more agencies must approve the work. The best protection is to complete preconstruction due diligence, lock in long-lead items early, and allow contingency time in both budget and schedule. Projects rarely run smoothly if they begin with assumptions instead of verified conditions.",
+      "@type": "Answer",
+      "description": "The biggest delays are usually permit corrections, incomplete drawings, long-lead materials, utility coordination, inspection scheduling, and unexpected conditions in older buildings. Projects with change-of-use, accessibility, or fire-safety issues are especially likely to run late.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Commercial projects usually get delayed by a combination of paperwork, procurement, and hidden field conditions. The most common causes are incomplete plans, slow permit corrections, long-lead equipment, utility service changes, inspection backlogs, and discoveries behind the walls after demolition begins. In Los Angeles-area projects, older buildings often create additional surprises such as outdated electrical panels, structural deficiencies, or accessibility issues that were not obvious during bidding. Change-of-use work, restaurant conversions, and projects with complex fire or mechanical systems tend to take longer because more agencies must approve the work. The best protection is to complete preconstruction due diligence, lock in long-lead items early, and allow contingency time in both budget and schedule. Projects rarely run smoothly if they begin with assumptions instead of verified conditions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest delays are usually permit corrections, incomplete drawings, long-lead materials, utility coordination, inspection scheduling, and unexpected conditi"
+}

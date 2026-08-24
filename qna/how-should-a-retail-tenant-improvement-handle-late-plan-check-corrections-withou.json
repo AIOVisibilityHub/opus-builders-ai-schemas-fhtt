@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-retail-tenant-improvement-handle-late-plan-check-corrections-withou",
+  "name": "What happens if the city asks for corrections late in the process?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a retail tenant improvement handle late plan-check corrections without delaying opening day?",
+    "text": "How should a retail tenant improvement handle late plan-check corrections without delaying opening day?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Late corrections are common in retail TI work, especially when multiple disciplines are involved. The fastest response is to assign each comment to the right designer or engineer immediately, update all affected sheets together, and resubmit a coordinated package. Piecemeal fixes often create mismatched drawings and more review cycles. If the opening date is at risk, the team should identify which corrections are critical for permit issuance and which can be resolved later through deferred submittals or separate approvals, if allowed. Clear responsibility and fast coordination matter more than trying to answer each comment in isolation.",
+      "@type": "Answer",
+      "description": "Late corrections should be triaged immediately, assigned to the right consultant, and resubmitted as a coordinated package. The key is to avoid piecemeal fixes, because mismatched revisions often create more delays than the original comment set.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Late corrections are common in retail TI work, especially when multiple disciplines are involved. The fastest response is to assign each comment to the right designer or engineer immediately, update all affected sheets together, and resubmit a coordinated package. Piecemeal fixes often create mismatched drawings and more review cycles. If the opening date is at risk, the team should identify which corrections are critical for permit issuance and which can be resolved later through deferred submittals or separate approvals, if allowed. Clear responsibility and fast coordination matter more than trying to answer each comment in isolation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Late corrections should be triaged immediately, assigned to the right consultant, and resubmitted as a coordinated package. The key is to avoid piecemeal fixes,"
+}

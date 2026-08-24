@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-most-office-floor-plans-be-reconfigured-without-moving-structural-walls-or-a",
+  "name": "How do I know if an office layout can be changed without major structural work?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can most office floor plans be reconfigured without moving structural walls or adding expensive structural engineering?",
+    "text": "Can most office floor plans be reconfigured without moving structural walls or adding expensive structural engineering?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot of office remodels can be done without major structural work if the new layout uses existing structural conditions wisely. Non-load-bearing partitions, glass walls, casework, and finish changes can often create a new feel without touching the building frame. But if the design requires new openings, relocated stairs, slab penetrations, or changes near structural walls and columns, engineering review becomes more likely. Ceiling height, HVAC routing, and fire protection can also limit how far the layout can move. A preconstruction field review is the best way to identify what can change easily and what would trigger engineering, permit revisions, or added cost.",
+      "@type": "Answer",
+      "description": "Many office layouts can be changed with non-structural partitions, but anything tied to columns, shear walls, slab openings, or major mechanical systems may require structural review. The existing building layout and ceiling infrastructure usually determine how flexible the redesign can be.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot of office remodels can be done without major structural work if the new layout uses existing structural conditions wisely. Non-load-bearing partitions, glass walls, casework, and finish changes can often create a new feel without touching the building frame. But if the design requires new openings, relocated stairs, slab penetrations, or changes near structural walls and columns, engineering review becomes more likely. Ceiling height, HVAC routing, and fire protection can also limit how far the layout can move. A preconstruction field review is the best way to identify what can change easily and what would trigger engineering, permit revisions, or added cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many office layouts can be changed with non-structural partitions, but anything tied to columns, shear walls, slab openings, or major mechanical systems may req"
+}

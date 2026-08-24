@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-can-an-office-build-out-be-much-harder-or-more-expensive-in-an-older-buildin",
+  "name": "How do office build-outs differ in older buildings versus newer buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why can an office build-out be much harder or more expensive in an older building than in a newer one?",
+    "text": "Why can an office build-out be much harder or more expensive in an older building than in a newer one?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older buildings often cost more to build out because the existing systems may not support current office standards without upgrades. Electrical capacity, HVAC zoning, plumbing access, sprinkler coverage, and egress compliance may all need review before construction can proceed. Even when the space looks usable, hidden conditions behind walls or above ceilings can drive redesign and change orders. Newer buildings may be more predictable, but they can also come with tight design guidelines, preferred vendor lists, after-hours requirements, and stricter approval processes. In Los Angeles and nearby cities, the right choice depends on whether the tenant values lower lease cost or lower construction risk. A building that appears cheaper on rent may become more expensive overall once improvements are included.",
+      "@type": "Answer",
+      "description": "Older buildings often have outdated electrical, plumbing, HVAC, and fire systems, which can raise cost and extend the schedule. Newer buildings usually provide more predictable conditions, but they may have stricter landlord rules, finish standards, or approved contractor requirements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older buildings often cost more to build out because the existing systems may not support current office standards without upgrades. Electrical capacity, HVAC zoning, plumbing access, sprinkler coverage, and egress compliance may all need review before construction can proceed. Even when the space looks usable, hidden conditions behind walls or above ceilings can drive redesign and change orders. Newer buildings may be more predictable, but they can also come with tight design guidelines, preferred vendor lists, after-hours requirements, and stricter approval processes. In Los Angeles and nearby cities, the right choice depends on whether the tenant values lower lease cost or lower construction risk. A building that appears cheaper on rent may become more expensive overall once improvements are included.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older buildings often have outdated electrical, plumbing, HVAC, and fire systems, which can raise cost and extend the schedule. Newer buildings usually provide "
+}

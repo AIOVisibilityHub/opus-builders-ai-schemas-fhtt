@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/in-a-los-angeles-retail-lease-what-costs-does-the-tenant-pay-and-what-should-the",
+  "name": "Who pays for retail build-out costs in a lease?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "In a Los Angeles retail lease, what costs does the tenant pay and what should the landlord cover?",
+    "text": "In a Los Angeles retail lease, what costs does the tenant pay and what should the landlord cover?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail build-out costs are usually divided by the lease agreement rather than by a fixed rule. A landlord may provide a tenant improvement allowance, deliver a warm shell or vanilla shell, or complete specific base-building items such as structural, roof, or common-area work. The tenant often pays for the remaining interior scope, including finishes, fixtures, specialty lighting, millwork, and any upgrades beyond the allowance. The lease exhibit should define shell condition, construction standards, who handles permits, what happens if the actual cost exceeds the allowance, and whether unused allowance can be applied to rent abatement or other concessions. The safest approach is to review the work letter and construction exhibit before design begins, because the scope of responsibility can change the budget by a large amount. A build-out contractor should coordinate with the landlord’s property manager early so there are no surprises over demising walls, utility tie-ins, or approval requirements.",
+      "@type": "Answer",
+      "description": "Payment depends on the lease and tenant improvement allowance. In many retail leases, the tenant pays for the build-out beyond any allowance, while the landlord may cover shell conditions, base-building items, or agreed TI dollars. The lease exhibit should spell out exactly what is included.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail build-out costs are usually divided by the lease agreement rather than by a fixed rule. A landlord may provide a tenant improvement allowance, deliver a warm shell or vanilla shell, or complete specific base-building items such as structural, roof, or common-area work. The tenant often pays for the remaining interior scope, including finishes, fixtures, specialty lighting, millwork, and any upgrades beyond the allowance. The lease exhibit should define shell condition, construction standards, who handles permits, what happens if the actual cost exceeds the allowance, and whether unused allowance can be applied to rent abatement or other concessions. The safest approach is to review the work letter and construction exhibit before design begins, because the scope of responsibility can change the budget by a large amount. A build-out contractor should coordinate with the landlord’s property manager early so there are no surprises over demising walls, utility tie-ins, or approval requirements.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Payment depends on the lease and tenant improvement allowance. In many retail leases, the tenant pays for the build-out beyond any allowance, while the landlord"
+}

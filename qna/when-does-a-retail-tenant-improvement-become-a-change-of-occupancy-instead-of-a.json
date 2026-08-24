@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-a-retail-tenant-improvement-become-a-change-of-occupancy-instead-of-a",
+  "name": "What triggers a change of occupancy in a retail TI?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does a retail tenant improvement become a change of occupancy instead of a simple remodel?",
+    "text": "When does a retail tenant improvement become a change of occupancy instead of a simple remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail TI becomes more complex when the project does more than refresh finishes. If the new use changes the occupancy classification, occupant load, or code requirements for exits, accessibility, restrooms, fire protection, or mechanical systems, the city may treat it as a change of occupancy rather than a simple remodel. That can trigger a broader plan review and more required drawings. This is common when a former bank, office, or non-retail use becomes a retail store or when a retail concept introduces food service or assembly-like elements. The key question is not just what is being built, but how the space will be classified after the work is complete.",
+      "@type": "Answer",
+      "description": "A project may become a change of occupancy when the space’s use shifts to a different building occupancy classification or the new tenant use requires a different code path. That usually means more review, more consultants, and potentially additional upgrades beyond cosmetic tenant work.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail TI becomes more complex when the project does more than refresh finishes. If the new use changes the occupancy classification, occupant load, or code requirements for exits, accessibility, restrooms, fire protection, or mechanical systems, the city may treat it as a change of occupancy rather than a simple remodel. That can trigger a broader plan review and more required drawings. This is common when a former bank, office, or non-retail use becomes a retail store or when a retail concept introduces food service or assembly-like elements. The key question is not just what is being built, but how the space will be classified after the work is complete.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A project may become a change of occupancy when the space’s use shifts to a different building occupancy classification or the new tenant use requires a differe"
+}

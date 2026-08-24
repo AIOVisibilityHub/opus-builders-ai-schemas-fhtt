@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-for-a-commercial-general-contractor-to-manage-change-orders",
+  "name": "How do change orders get controlled on commercial projects?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way for a commercial general contractor to manage change orders without blowing the budget?",
+    "text": "What is the best way for a commercial general contractor to manage change orders without blowing the budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders are one of the fastest ways a commercial project loses budget control. The best process is simple: identify the change, price it in writing, explain the schedule impact, and get approval before the extra work is performed. Good contractors also maintain a live allowance log, updated budget summary, and clear records of any owner-requested revisions or unforeseen field conditions. On commercial jobs, change orders often come from design revisions, concealed conditions, utility conflicts, code corrections, or owner decisions made after procurement has started. If the contractor waits until the end of the month to report changes, the owner loses the chance to respond strategically. A strong GC should be able to explain how they track cost exposure, who signs off, and how they separate legitimate scope changes from avoidable overruns. Owners should insist on written approval procedures, especially on fast-track projects or occupied renovations where field changes are common.",
+      "@type": "Answer",
+      "description": "Change orders should be documented before extra work starts, with the reason, cost, schedule impact, and approval signature clearly stated. The strongest commercial contractors use written tracking, allowance logs, and regular budget updates so owners can see changes early. Verbal approvals create the biggest cost disputes and delay risks.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders are one of the fastest ways a commercial project loses budget control. The best process is simple: identify the change, price it in writing, explain the schedule impact, and get approval before the extra work is performed. Good contractors also maintain a live allowance log, updated budget summary, and clear records of any owner-requested revisions or unforeseen field conditions. On commercial jobs, change orders often come from design revisions, concealed conditions, utility conflicts, code corrections, or owner decisions made after procurement has started. If the contractor waits until the end of the month to report changes, the owner loses the chance to respond strategically. A strong GC should be able to explain how they track cost exposure, who signs off, and how they separate legitimate scope changes from avoidable overruns. Owners should insist on written approval procedures, especially on fast-track projects or occupied renovations where field changes are common.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Change orders should be documented before extra work starts, with the reason, cost, schedule impact, and approval signature clearly stated. The strongest commer"
+}

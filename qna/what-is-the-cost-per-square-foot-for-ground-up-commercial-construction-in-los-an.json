@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-cost-per-square-foot-for-ground-up-commercial-construction-in-los-an",
+  "name": "What does ground-up commercial construction cost per square foot in LA?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the cost per square foot for ground-up commercial construction in Los Angeles?",
+    "text": "What is the cost per square foot for ground-up commercial construction in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no single reliable cost-per-square-foot number for ground-up commercial construction in Los Angeles because the final price depends on building use, height, finish level, structural system, seismic requirements, parking, grading, and utility upgrades. A straightforward single-story shell project may land in a very different range than a multi-tenant retail, office, medical, or mixed-use building with premium finishes and complex MEP systems. For early budgeting, many owners use a wide planning range and then refine it after schematic design. In LA, sitework can be a major cost driver because old structures, soil conditions, stormwater requirements, utility relocation, and tight urban access can all increase labor and equipment costs. Soft costs such as design, engineering, surveys, permits, fees, and insurance should also be included, since they can materially affect total project cost. The most accurate budget comes from a contractor-preconstruction estimate based on a concept plan and current subcontractor pricing. Owners should ask for line items covering site work, shell, interiors, tenant improvements, contingencies, and allowances for long-lead items. A low initial square-foot number is often misleading if it excludes off-site work, utility upgrades, or permit-driven scope changes.",
+      "@type": "Answer",
+      "description": "Ground-up commercial construction costs in Los Angeles can vary widely, but small commercial buildings often fall in a broad range of roughly $300 to $700+ per square foot depending on use, finish level, structural requirements, parking, site conditions, and permit complexity. High-end or specialty projects can exceed that range. Sitework, utilities, and entitlement costs can materially change the total budget.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no single reliable cost-per-square-foot number for ground-up commercial construction in Los Angeles because the final price depends on building use, height, finish level, structural system, seismic requirements, parking, grading, and utility upgrades. A straightforward single-story shell project may land in a very different range than a multi-tenant retail, office, medical, or mixed-use building with premium finishes and complex MEP systems. For early budgeting, many owners use a wide planning range and then refine it after schematic design. In LA, sitework can be a major cost driver because old structures, soil conditions, stormwater requirements, utility relocation, and tight urban access can all increase labor and equipment costs. Soft costs such as design, engineering, surveys, permits, fees, and insurance should also be included, since they can materially affect total project cost. The most accurate budget comes from a contractor-preconstruction estimate based on a concept plan and current subcontractor pricing. Owners should ask for line items covering site work, shell, interiors, tenant improvements, contingencies, and allowances for long-lead items. A low initial square-foot number is often misleading if it excludes off-site work, utility upgrades, or permit-driven scope changes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up commercial construction costs in Los Angeles can vary widely, but small commercial buildings often fall in a broad range of roughly $300 to $700+ per "
+}

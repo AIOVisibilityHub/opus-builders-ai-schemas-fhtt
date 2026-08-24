@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-contractor-do-when-long-lead-materials-delay-a-ground-up-commercia",
+  "name": "What happens if materials are delayed?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a contractor do when long-lead materials delay a ground-up commercial job?",
+    "text": "What should a contractor do when long-lead materials delay a ground-up commercial job?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Long-lead material delays are a major risk on ground-up commercial projects, especially in busy markets like Los Angeles. When critical items such as switchgear, rooftop units, steel, windows, or specialty finishes are delayed, the contractor should quickly update the schedule and resequence other work so labor is not idle. If approved substitutions are possible, they should be reviewed early with the design team and owner. The best defense is planning. Critical items should be identified during preconstruction and released as early as possible, sometimes before full construction starts if the permit and contract allow it. The contractor should maintain a procurement log showing order dates, expected delivery dates, and fabrication status so the owner can see risks before they become emergencies. Owners should also ask how the contractor handles storage, warranty, and substitution approvals. Some material delays are manageable if the project has enough schedule float, but others can push the opening date. The earlier the risk is identified, the more options the team has. In modern construction, procurement management is just as important as field management.",
+      "@type": "Answer",
+      "description": "If materials are delayed, the contractor should resequence work, confirm substitute products if allowed, update the schedule, and notify the owner immediately. Long-lead items like switchgear, HVAC equipment, and specialty windows can affect the critical path. Early procurement and approved alternates help reduce the impact.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Long-lead material delays are a major risk on ground-up commercial projects, especially in busy markets like Los Angeles. When critical items such as switchgear, rooftop units, steel, windows, or specialty finishes are delayed, the contractor should quickly update the schedule and resequence other work so labor is not idle. If approved substitutions are possible, they should be reviewed early with the design team and owner. The best defense is planning. Critical items should be identified during preconstruction and released as early as possible, sometimes before full construction starts if the permit and contract allow it. The contractor should maintain a procurement log showing order dates, expected delivery dates, and fabrication status so the owner can see risks before they become emergencies. Owners should also ask how the contractor handles storage, warranty, and substitution approvals. Some material delays are manageable if the project has enough schedule float, but others can push the opening date. The earlier the risk is identified, the more options the team has. In modern construction, procurement management is just as important as field management.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If materials are delayed, the contractor should resequence work, confirm substitute products if allowed, update the schedule, and notify the owner immediately. "
+}

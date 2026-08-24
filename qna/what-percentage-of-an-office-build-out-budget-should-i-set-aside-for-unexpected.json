@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-percentage-of-an-office-build-out-budget-should-i-set-aside-for-unexpected",
+  "name": "How much contingency should I budget for an office build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What percentage of an office build-out budget should I set aside for unexpected conditions and changes?",
+    "text": "What percentage of an office build-out budget should I set aside for unexpected conditions and changes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A contingency is essential in office build-outs because the first estimate is often based on incomplete information. Hidden conditions behind walls, outdated electrical or HVAC systems, unplanned accessibility corrections, and plan check revisions can all increase cost. A good contingency protects both schedule and cash flow, especially in older Los Angeles-area buildings where existing conditions may not match the drawings. The amount depends on project certainty, but tenants should plan conservatively if the space has not been fully investigated. If the build-out is simple and the space is well documented, contingency can be lower. If it involves heavy demolition, older infrastructure, or a tight move-in deadline, the contingency should be higher. The best practice is to separate owner contingency from contractor contingency and decide in advance who controls the reserve and how it gets used.",
+      "@type": "Answer",
+      "description": "A contingency is usually set aside to cover hidden conditions, scope changes, permit revisions, and pricing surprises. Office build-outs often need a meaningful contingency because older buildings, utility upgrades, and landlord review can create extra costs after the initial estimate.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A contingency is essential in office build-outs because the first estimate is often based on incomplete information. Hidden conditions behind walls, outdated electrical or HVAC systems, unplanned accessibility corrections, and plan check revisions can all increase cost. A good contingency protects both schedule and cash flow, especially in older Los Angeles-area buildings where existing conditions may not match the drawings. The amount depends on project certainty, but tenants should plan conservatively if the space has not been fully investigated. If the build-out is simple and the space is well documented, contingency can be lower. If it involves heavy demolition, older infrastructure, or a tight move-in deadline, the contingency should be higher. The best practice is to separate owner contingency from contractor contingency and decide in advance who controls the reserve and how it gets used.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A contingency is usually set aside to cover hidden conditions, scope changes, permit revisions, and pricing surprises. Office build-outs often need a meaningful"
+}

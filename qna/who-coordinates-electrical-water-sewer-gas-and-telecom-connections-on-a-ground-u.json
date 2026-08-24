@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/who-coordinates-electrical-water-sewer-gas-and-telecom-connections-on-a-ground-u",
+  "name": "How are utilities handled on a new commercial build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Who coordinates electrical, water, sewer, gas, and telecom connections on a ground-up commercial project?",
+    "text": "Who coordinates electrical, water, sewer, gas, and telecom connections on a ground-up commercial project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility coordination on a ground-up commercial project is a major task, not a simple last-step item. The owner typically approves the service needs, the engineer designs the utility layout, the contractor handles field execution, and the utility companies control their own review and connection schedules. Water, sewer, gas, electrical, telecom, and sometimes fire service all have separate requirements and lead times. In Los Angeles, utility work can become a schedule driver because service upgrades or meter set appointments may take much longer than expected. If the project needs a transformer, switchgear, backflow device, grease interceptor, or fire line work, those items should be identified early and tracked on a procurement log. Trenching, street cuts, easements, and off-site tie-ins may also require extra permits. Owners should ask the contractor exactly who is responsible for each utility and when applications will be submitted. A strong team will map the utility path during preconstruction so the building is not finished before the services are ready. That avoids costly delays at the end of the project.",
+      "@type": "Answer",
+      "description": "Utility coordination is usually shared between the owner, contractor, civil engineer, and utility companies, but the contractor often manages the field work and scheduling. New service connections may require separate applications, utility company reviews, trenching, meter set appointments, and inspections. Long-lead utility equipment should be ordered early.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility coordination on a ground-up commercial project is a major task, not a simple last-step item. The owner typically approves the service needs, the engineer designs the utility layout, the contractor handles field execution, and the utility companies control their own review and connection schedules. Water, sewer, gas, electrical, telecom, and sometimes fire service all have separate requirements and lead times. In Los Angeles, utility work can become a schedule driver because service upgrades or meter set appointments may take much longer than expected. If the project needs a transformer, switchgear, backflow device, grease interceptor, or fire line work, those items should be identified early and tracked on a procurement log. Trenching, street cuts, easements, and off-site tie-ins may also require extra permits. Owners should ask the contractor exactly who is responsible for each utility and when applications will be submitted. A strong team will map the utility path during preconstruction so the building is not finished before the services are ready. That avoids costly delays at the end of the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utility coordination is usually shared between the owner, contractor, civil engineer, and utility companies, but the contractor often manages the field work and"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-a-commercial-remodel-in-los-angeles-trigger-ada-or-path-of-travel-upgrades",
+  "name": "Do I need ADA upgrades for a commercial remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will a commercial remodel in Los Angeles trigger ADA or path-of-travel upgrades?",
+    "text": "Will a commercial remodel in Los Angeles trigger ADA or path-of-travel upgrades?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Accessibility upgrades are often triggered when a commercial remodel affects areas used by the public, such as entrances, restrooms, counters, corridors, parking, or the path from parking to the entry. Even interior tenant improvements can create accessibility obligations if the project is large enough or if the work changes what customers or employees use. In older Los Angeles buildings, the cost can be significant because improving one element may force related path-of-travel corrections elsewhere. Owners should check accessibility early, not after finish selections are made, because ADA-related changes can affect layout, door swings, restroom sizing, slopes, and fixture placement. If the project budget is tight, getting an accessibility review before design is finalized is one of the best ways to avoid surprises.",
+      "@type": "Answer",
+      "description": "Many commercial remodels can trigger accessibility upgrades, especially when the project affects entrances, restrooms, routes, parking, or major tenant improvements. The exact requirement depends on scope, building condition, and whether the work alters areas used by the public.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Accessibility upgrades are often triggered when a commercial remodel affects areas used by the public, such as entrances, restrooms, counters, corridors, parking, or the path from parking to the entry. Even interior tenant improvements can create accessibility obligations if the project is large enough or if the work changes what customers or employees use. In older Los Angeles buildings, the cost can be significant because improving one element may force related path-of-travel corrections elsewhere. Owners should check accessibility early, not after finish selections are made, because ADA-related changes can affect layout, door swings, restroom sizing, slopes, and fixture placement. If the project budget is tight, getting an accessibility review before design is finalized is one of the best ways to avoid surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many commercial remodels can trigger accessibility upgrades, especially when the project affects entrances, restrooms, routes, parking, or major tenant improvem"
+}

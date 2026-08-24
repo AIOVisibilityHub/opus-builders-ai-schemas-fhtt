@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-percentage-makes-sense-for-a-retail-build-out-in-los-angeles",
+  "name": "How much contingency should a retail build-out budget include?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency percentage makes sense for a retail build-out in Los Angeles?",
+    "text": "What contingency percentage makes sense for a retail build-out in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail build-out budget should include a contingency because commercial interiors almost always uncover unknowns. In Los Angeles, where permitting and existing conditions can be unpredictable, contingency protects the project from small scope changes turning into major delays or budget gaps. The right amount depends on project clarity. A simple refresh with well-documented existing conditions may need a smaller reserve, while a full gut renovation or a space with older infrastructure should carry more. Contingency is especially important if the lease does not clearly define landlord responsibilities, if the existing mechanical or electrical systems are outdated, or if the design is still evolving. The reserve should be treated as part of the real budget, not extra money added only if there is a problem. That approach helps prevent opening-date stress, scope cuts, and rushed finish selections late in the job.",
+      "@type": "Answer",
+      "description": "A retail build-out budget should usually include a contingency for unknown conditions, permit revisions, and design changes. The exact percentage depends on how complete the drawings are and how much existing work must be demolished or upgraded.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail build-out budget should include a contingency because commercial interiors almost always uncover unknowns. In Los Angeles, where permitting and existing conditions can be unpredictable, contingency protects the project from small scope changes turning into major delays or budget gaps. The right amount depends on project clarity. A simple refresh with well-documented existing conditions may need a smaller reserve, while a full gut renovation or a space with older infrastructure should carry more. Contingency is especially important if the lease does not clearly define landlord responsibilities, if the existing mechanical or electrical systems are outdated, or if the design is still evolving. The reserve should be treated as part of the real budget, not extra money added only if there is a problem. That approach helps prevent opening-date stress, scope cuts, and rushed finish selections late in the job.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A retail build-out budget should usually include a contingency for unknown conditions, permit revisions, and design changes. The exact percentage depends on how"
+}

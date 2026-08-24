@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-ground-up-commercial-project-in-los-angeles-start-construction-before-all",
+  "name": "Can you build first and permit later for commercial projects?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a ground-up commercial project in Los Angeles start construction before all permits are fully approved?",
+    "text": "Can a ground-up commercial project in Los Angeles start construction before all permits are fully approved?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For ground-up commercial construction, starting full work before permits are issued is usually a major risk and often not allowed. Some cities may allow limited early activities under separate approvals, such as demolition, grading, utility potholing, or shoring, but those are not the same as authorization for the entire building scope. Vertical construction, structural work, and MEP installation typically require approved plans and issued permits first. Owners sometimes want to accelerate the schedule, but beginning too early can lead to stop-work orders, wasted labor, rejected inspections, and problems with lender draw approvals or insurance coverage. If the project is on a tight timeline, the better strategy is to phase the work legally: finish design early, submit permit sets sooner, and separate sitework or foundation packages if the jurisdiction allows it. A contractor should explain exactly which activities can begin under partial approvals and which cannot. This matters especially in Los Angeles, where multiple agencies may review the same project. The right answer is not “start and hope,” but rather “sequence the work so each phase is properly permitted.” A realistic preconstruction plan can save months without taking compliance risks.",
+      "@type": "Answer",
+      "description": "In most cases, no. Ground-up commercial construction generally should not begin until the required permits and approvals are issued. Some jurisdictions may allow limited early work such as demolition, grading, or shoring under separate permits, but full vertical construction usually requires complete building permit approval. Starting early can create stop-work risk, rework, and insurance problems.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For ground-up commercial construction, starting full work before permits are issued is usually a major risk and often not allowed. Some cities may allow limited early activities under separate approvals, such as demolition, grading, utility potholing, or shoring, but those are not the same as authorization for the entire building scope. Vertical construction, structural work, and MEP installation typically require approved plans and issued permits first. Owners sometimes want to accelerate the schedule, but beginning too early can lead to stop-work orders, wasted labor, rejected inspections, and problems with lender draw approvals or insurance coverage. If the project is on a tight timeline, the better strategy is to phase the work legally: finish design early, submit permit sets sooner, and separate sitework or foundation packages if the jurisdiction allows it. A contractor should explain exactly which activities can begin under partial approvals and which cannot. This matters especially in Los Angeles, where multiple agencies may review the same project. The right answer is not “start and hope,” but rather “sequence the work so each phase is properly permitted.” A realistic preconstruction plan can save months without taking compliance risks.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In most cases, no. Ground-up commercial construction generally should not begin until the required permits and approvals are issued. Some jurisdictions may allo"
+}

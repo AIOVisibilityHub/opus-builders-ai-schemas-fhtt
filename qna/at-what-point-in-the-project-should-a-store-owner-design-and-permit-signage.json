@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/at-what-point-in-the-project-should-a-store-owner-design-and-permit-signage",
+  "name": "When should signage be planned in a retail build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "At what point in the project should a store owner design and permit signage?",
+    "text": "At what point in the project should a store owner design and permit signage?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Signage should be part of the early retail build-out conversation, not a late-stage add-on. The sign design can affect storefront dimensions, electrical routing, attachment points, visibility, and landlord approval. In some cases, signage also needs its own permit process, which can become a bottleneck if it is not started early. Retail owners often underestimate how much sign placement and fabrication impact the opening timeline. If the sign is connected to the building facade or coordinated with exterior lighting, it may need to be integrated into the architectural drawings rather than treated as a separate item. Planning signage early reduces the risk of opening without a completed brand presence or having to redo exterior work to match the final sign package.",
+      "@type": "Answer",
+      "description": "Signage should be planned early, ideally during design, because it can affect storefront coordination, electrical needs, landlord approvals, and separate permit requirements. Waiting until the end can delay opening if the sign needs revisions or additional review.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Signage should be part of the early retail build-out conversation, not a late-stage add-on. The sign design can affect storefront dimensions, electrical routing, attachment points, visibility, and landlord approval. In some cases, signage also needs its own permit process, which can become a bottleneck if it is not started early. Retail owners often underestimate how much sign placement and fabrication impact the opening timeline. If the sign is connected to the building facade or coordinated with exterior lighting, it may need to be integrated into the architectural drawings rather than treated as a separate item. Planning signage early reduces the risk of opening without a completed brand presence or having to redo exterior work to match the final sign package.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Signage should be planned early, ideally during design, because it can affect storefront coordination, electrical needs, landlord approvals, and separate permit"
+}

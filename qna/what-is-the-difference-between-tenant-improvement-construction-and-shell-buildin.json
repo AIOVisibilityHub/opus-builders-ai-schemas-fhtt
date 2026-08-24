@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-tenant-improvement-construction-and-shell-buildin",
+  "name": "What is the difference between tenant improvement and shell construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between tenant improvement construction and shell building construction?",
+    "text": "What is the difference between tenant improvement construction and shell building construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Shell construction delivers the unfinished or partially finished base building that future occupants can customize. It usually includes the structure, exterior envelope, core utilities, and sometimes lobbies, restrooms, or common circulation areas. Tenant improvement work happens after that and adapts the interior to a tenant’s operating needs, such as offices, retail displays, treatment rooms, kitchens, or conference areas. The distinction matters because it affects budget, permitting, schedule, and who is responsible for code compliance. Shell projects are usually broader and more capital-intensive, while tenant improvements are more targeted but can still be complicated if they change occupancy, accessibility, or mechanical systems. Owners and tenants should confirm exactly where shell responsibilities end and interior scope begins before bids are issued, because gaps in scope often become change orders later.",
+      "@type": "Answer",
+      "description": "Shell construction creates the base building envelope and core systems, while tenant improvement work builds out the interior for a specific occupant. Shell work focuses on structure, roof, exterior walls, utilities, and common areas; tenant improvement focuses on layout and usable interior space.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Shell construction delivers the unfinished or partially finished base building that future occupants can customize. It usually includes the structure, exterior envelope, core utilities, and sometimes lobbies, restrooms, or common circulation areas. Tenant improvement work happens after that and adapts the interior to a tenant’s operating needs, such as offices, retail displays, treatment rooms, kitchens, or conference areas. The distinction matters because it affects budget, permitting, schedule, and who is responsible for code compliance. Shell projects are usually broader and more capital-intensive, while tenant improvements are more targeted but can still be complicated if they change occupancy, accessibility, or mechanical systems. Owners and tenants should confirm exactly where shell responsibilities end and interior scope begins before bids are issued, because gaps in scope often become change orders later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Shell construction creates the base building envelope and core systems, while tenant improvement work builds out the interior for a specific occupant. Shell wor"
+}

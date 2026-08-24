@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-commercial-general-contractors-and-tenant-improvement-contractors-the-same-t",
+  "name": "What is the difference between a commercial GC and a tenant improvement contractor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are commercial general contractors and tenant improvement contractors the same thing in practice?",
+    "text": "Are commercial general contractors and tenant improvement contractors the same thing in practice?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The terms overlap, but they are not always interchangeable. A tenant improvement contractor usually concentrates on interior build-outs and remodels within an existing commercial shell, such as offices, retail, clinics, or restaurant spaces. A commercial general contractor may do tenant improvements as well, but also manage larger or more complex work such as structural modifications, shell construction, site work, phased occupied renovations, or mixed-trade coordination across multiple buildings. For an owner, the key issue is not the title on the website but whether the contractor has recent experience with the exact type of project. Ask for similar jobs, recent permits, and examples of occupied-space coordination. If the project involves more than basic cosmetic finish work, or if schedule and compliance issues are sensitive, a broader commercial GC is usually the safer fit.",
+      "@type": "Answer",
+      "description": "A tenant improvement contractor usually focuses on interior finish-outs, office build-outs, and remodels inside existing commercial spaces. A commercial general contractor may handle tenant improvements plus larger ground-up, shell, structural, or multi-phase projects. The difference is mainly scope, complexity, and how much coordination the contractor can manage.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The terms overlap, but they are not always interchangeable. A tenant improvement contractor usually concentrates on interior build-outs and remodels within an existing commercial shell, such as offices, retail, clinics, or restaurant spaces. A commercial general contractor may do tenant improvements as well, but also manage larger or more complex work such as structural modifications, shell construction, site work, phased occupied renovations, or mixed-trade coordination across multiple buildings. For an owner, the key issue is not the title on the website but whether the contractor has recent experience with the exact type of project. Ask for similar jobs, recent permits, and examples of occupied-space coordination. If the project involves more than basic cosmetic finish work, or if schedule and compliance issues are sensitive, a broader commercial GC is usually the safer fit.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A tenant improvement contractor usually focuses on interior finish-outs, office build-outs, and remodels inside existing commercial spaces. A commercial general"
+}

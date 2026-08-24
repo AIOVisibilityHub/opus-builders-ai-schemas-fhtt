@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-owners-do-if-the-budget-no-longer-works-after-city-plan-check-commen",
+  "name": "What if the budget changes after plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should owners do if the budget no longer works after city plan check comments change the scope?",
+    "text": "What should owners do if the budget no longer works after city plan check comments change the scope?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When plan check comments change the project scope, the budget should be revisited right away. In ground-up commercial construction, city comments can force design revisions that affect structure, fire protection, accessibility, plumbing, or site layout. Even modest changes can create new drawing revisions, additional engineering, and price increases from subcontractors. Owners should separate mandatory compliance items from optional upgrades. If a comment can be solved by a small design revision, the cost impact may be limited. If it requires a larger structural or system change, the project may need a formal re-budget before work continues. Repricing early is much better than discovering the problem after mobilization. A contractor should be able to explain which comments affect cost, which affect schedule, and which can be handled within existing allowances. That conversation is critical in Los Angeles because agency review cycles can produce several rounds of changes. The best move is to keep a current budget version tied to the latest drawings so decision-making is based on real numbers, not the original concept estimate.",
+      "@type": "Answer",
+      "description": "If plan check comments change the scope, the owner should update the budget immediately, identify which changes are mandatory, and reprice the revised documents before proceeding. Some comments may be resolved through design adjustments, but others can trigger real cost increases. Waiting until construction starts usually makes the problem more expensive.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When plan check comments change the project scope, the budget should be revisited right away. In ground-up commercial construction, city comments can force design revisions that affect structure, fire protection, accessibility, plumbing, or site layout. Even modest changes can create new drawing revisions, additional engineering, and price increases from subcontractors. Owners should separate mandatory compliance items from optional upgrades. If a comment can be solved by a small design revision, the cost impact may be limited. If it requires a larger structural or system change, the project may need a formal re-budget before work continues. Repricing early is much better than discovering the problem after mobilization. A contractor should be able to explain which comments affect cost, which affect schedule, and which can be handled within existing allowances. That conversation is critical in Los Angeles because agency review cycles can produce several rounds of changes. The best move is to keep a current budget version tied to the latest drawings so decision-making is based on real numbers, not the original concept estimate.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If plan check comments change the scope, the owner should update the budget immediately, identify which changes are mandatory, and reprice the revised documents"
+}

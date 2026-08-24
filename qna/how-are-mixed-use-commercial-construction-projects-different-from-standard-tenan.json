@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-are-mixed-use-commercial-construction-projects-different-from-standard-tenan",
+  "name": "How do mixed-use commercial projects differ from standard tenant improvements?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How are mixed-use commercial construction projects different from standard tenant improvements?",
+    "text": "How are mixed-use commercial construction projects different from standard tenant improvements?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Mixed-use projects are more complicated than standard tenant improvements because they combine multiple uses in one structure. That can mean retail below, offices above, residential nearby, or other combinations that require careful coordination of fire separation, egress, acoustics, utilities, and access control. The construction team must also account for how one use affects the others during and after the build. In Los Angeles-area markets, mixed-use work often demands more design coordination and more detailed permit review than a single-tenant interior build-out. Owners should expect greater scrutiny around life safety, shared infrastructure, and phasing. The upside is that mixed-use buildings can create strong long-term value, but the tradeoff is a more involved preconstruction process and a higher risk of change if tenant needs shift. Clear early planning is essential to keep the project efficient.",
+      "@type": "Answer",
+      "description": "Mixed-use commercial projects are more complex because they combine different occupancies, shared systems, access control, and often residential or office components in one building. They usually require more coordination for fire separation, egress, utilities, and phasing than a standard tenant improvement. That makes design and permitting more involved.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Mixed-use projects are more complicated than standard tenant improvements because they combine multiple uses in one structure. That can mean retail below, offices above, residential nearby, or other combinations that require careful coordination of fire separation, egress, acoustics, utilities, and access control. The construction team must also account for how one use affects the others during and after the build. In Los Angeles-area markets, mixed-use work often demands more design coordination and more detailed permit review than a single-tenant interior build-out. Owners should expect greater scrutiny around life safety, shared infrastructure, and phasing. The upside is that mixed-use buildings can create strong long-term value, but the tradeoff is a more involved preconstruction process and a higher risk of change if tenant needs shift. Clear early planning is essential to keep the project efficient.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Mixed-use commercial projects are more complex because they combine different occupancies, shared systems, access control, and often residential or office compo"
+}

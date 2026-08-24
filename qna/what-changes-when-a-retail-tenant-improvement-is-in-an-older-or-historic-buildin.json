@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-changes-when-a-retail-tenant-improvement-is-in-an-older-or-historic-buildin",
+  "name": "Can a retail TI be done in a historic or older building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What changes when a retail tenant improvement is in an older or historic building in Los Angeles?",
+    "text": "What changes when a retail tenant improvement is in an older or historic building in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail tenant improvements in older or historic buildings often require more investigation than modern strip-center work. Existing conditions may be undocumented, structural capacity may be limited, and mechanical or electrical systems may be outdated. Accessibility and life-safety upgrades can also become more significant because the building may not match current expectations. If the property has historic status or design controls, exterior and storefront changes may face additional review. That does not make the project impossible, but it does mean the team should inspect early, verify existing conditions, and budget for unknowns. In older buildings, the initial walkthrough is rarely enough to understand the full scope.",
+      "@type": "Answer",
+      "description": "Older and historic buildings often add extra constraints, including structural limitations, accessibility upgrades, utility restrictions, and more complex review. Even a modest retail TI may need more investigation before pricing and permitting.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail tenant improvements in older or historic buildings often require more investigation than modern strip-center work. Existing conditions may be undocumented, structural capacity may be limited, and mechanical or electrical systems may be outdated. Accessibility and life-safety upgrades can also become more significant because the building may not match current expectations. If the property has historic status or design controls, exterior and storefront changes may face additional review. That does not make the project impossible, but it does mean the team should inspect early, verify existing conditions, and budget for unknowns. In older buildings, the initial walkthrough is rarely enough to understand the full scope.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older and historic buildings often add extra constraints, including structural limitations, accessibility upgrades, utility restrictions, and more complex revie"
+}

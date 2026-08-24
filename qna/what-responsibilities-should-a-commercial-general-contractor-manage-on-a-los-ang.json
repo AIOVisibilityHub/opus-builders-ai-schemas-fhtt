@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-responsibilities-should-a-commercial-general-contractor-manage-on-a-los-ang",
+  "name": "What does a commercial general contractor actually handle?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What responsibilities should a commercial general contractor manage on a Los Angeles project versus the owner or designer?",
+    "text": "What responsibilities should a commercial general contractor manage on a Los Angeles project versus the owner or designer?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A commercial general contractor is the project coordinator responsible for turning drawings into a finished space. That usually includes bidding and hiring subcontractors, sequencing trades, managing site logistics, ordering materials, coordinating inspections, enforcing safety, tracking changes, and keeping the job moving. The owner typically makes budget and design decisions, approves selections, and handles business operations. The architect or engineer provides the technical drawings and responds to design questions, while the contractor manages construction means and methods. Problems happen when those lines blur, especially on occupied buildings or fast-track tenant improvements. Owners should ask who controls schedule updates, who submits RFIs, who handles permit corrections, and who manages punch-list completion. A good contractor does not just build; they keep the project organized enough that the owner can make timely decisions without getting buried in trade-level details.",
+      "@type": "Answer",
+      "description": "A commercial general contractor typically manages subcontractors, schedule, site safety, procurement, inspections, quality control, and day-to-day coordination. The owner usually handles business decisions, approvals, and financing, while the architect or engineer handles design intent and technical documents. Clear role separation helps prevent delays, change-order confusion, and inspection issues.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A commercial general contractor is the project coordinator responsible for turning drawings into a finished space. That usually includes bidding and hiring subcontractors, sequencing trades, managing site logistics, ordering materials, coordinating inspections, enforcing safety, tracking changes, and keeping the job moving. The owner typically makes budget and design decisions, approves selections, and handles business operations. The architect or engineer provides the technical drawings and responds to design questions, while the contractor manages construction means and methods. Problems happen when those lines blur, especially on occupied buildings or fast-track tenant improvements. Owners should ask who controls schedule updates, who submits RFIs, who handles permit corrections, and who manages punch-list completion. A good contractor does not just build; they keep the project organized enough that the owner can make timely decisions without getting buried in trade-level details.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A commercial general contractor typically manages subcontractors, schedule, site safety, procurement, inspections, quality control, and day-to-day coordination."
+}

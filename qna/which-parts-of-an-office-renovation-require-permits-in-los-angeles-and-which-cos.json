@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-parts-of-an-office-renovation-require-permits-in-los-angeles-and-which-cos",
+  "name": "Do office renovations in Los Angeles always need permits?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which parts of an office renovation require permits in Los Angeles, and which cosmetic updates usually do not?",
+    "text": "Which parts of an office renovation require permits in Los Angeles, and which cosmetic updates usually do not?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit needs depend on the exact scope of work. In Los Angeles, most tenant improvements require permits once the work goes beyond cosmetic updates. Moving walls, adding restrooms, changing electrical layouts, replacing HVAC equipment, relocating plumbing fixtures, or altering fire protection systems typically requires plan check and inspections. Even projects that seem minor can trigger permit requirements if they affect life-safety systems, accessibility, or egress. Before construction starts, ask the contractor to identify all permit triggers and explain whether the project will also need specialty approvals from mechanical, electrical, plumbing, or fire reviewers. That step prevents delays and surprise revisions later.",
+      "@type": "Answer",
+      "description": "Most office renovations need permits if they involve structural changes, electrical work, plumbing, HVAC, fire sprinklers, or changes to exits and occupancy. Purely cosmetic updates like paint, simple flooring replacement, or furniture changes may not require permits, but even small projects can trigger review if building systems are touched.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit needs depend on the exact scope of work. In Los Angeles, most tenant improvements require permits once the work goes beyond cosmetic updates. Moving walls, adding restrooms, changing electrical layouts, replacing HVAC equipment, relocating plumbing fixtures, or altering fire protection systems typically requires plan check and inspections. Even projects that seem minor can trigger permit requirements if they affect life-safety systems, accessibility, or egress. Before construction starts, ask the contractor to identify all permit triggers and explain whether the project will also need specialty approvals from mechanical, electrical, plumbing, or fire reviewers. That step prevents delays and surprise revisions later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most office renovations need permits if they involve structural changes, electrical work, plumbing, HVAC, fire sprinklers, or changes to exits and occupancy. Pu"
+}

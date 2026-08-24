@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-shell-ground-up-commercial-construction-and-turn",
+  "name": "What is the difference between shell and turn-key?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between shell ground-up commercial construction and turn-key delivery?",
+    "text": "What is the difference between shell ground-up commercial construction and turn-key delivery?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Shell and turn-key are two very different ways to approach ground-up commercial construction. A shell project typically includes the structure, envelope, roof, core utilities, and sometimes common areas, but it leaves the interior unfinished or only partially finished. That gives the owner or future tenant flexibility to complete the space later. Turn-key delivery goes further and provides a space that is ready for immediate use. That usually means more complete interior finishes, fixtures, and coordinated systems, along with a clearer opening date. Turn-key is often the better choice for owners who want one team responsible for the full result and fewer coordination issues between base building work and tenant improvements. The choice affects cost, schedule, permits, and financing. Shell construction may look cheaper at first, but it can create a second round of design and construction later. Turn-key costs more up front but can simplify the path to occupancy. In Los Angeles, the right delivery method depends on how the property will be used, whether tenants are known, and whether the owner wants to phase the investment. The contract should define the handoff point very clearly.",
+      "@type": "Answer",
+      "description": "Shell construction delivers the basic building structure and core systems, while turn-key delivery includes the completed interior ready for use. Shell projects often leave tenant improvements for a later phase or separate contract. Turn-key projects cost more upfront but reduce owner coordination because more scope is included in one contract.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Shell and turn-key are two very different ways to approach ground-up commercial construction. A shell project typically includes the structure, envelope, roof, core utilities, and sometimes common areas, but it leaves the interior unfinished or only partially finished. That gives the owner or future tenant flexibility to complete the space later. Turn-key delivery goes further and provides a space that is ready for immediate use. That usually means more complete interior finishes, fixtures, and coordinated systems, along with a clearer opening date. Turn-key is often the better choice for owners who want one team responsible for the full result and fewer coordination issues between base building work and tenant improvements. The choice affects cost, schedule, permits, and financing. Shell construction may look cheaper at first, but it can create a second round of design and construction later. Turn-key costs more up front but can simplify the path to occupancy. In Los Angeles, the right delivery method depends on how the property will be used, whether tenants are known, and whether the owner wants to phase the investment. The contract should define the handoff point very clearly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Shell construction delivers the basic building structure and core systems, while turn-key delivery includes the completed interior ready for use. Shell projects"
+}

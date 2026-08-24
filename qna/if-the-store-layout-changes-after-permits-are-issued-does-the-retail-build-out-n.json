@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-store-layout-changes-after-permits-are-issued-does-the-retail-build-out-n",
+  "name": "What happens if a retail tenant wants to reconfigure the space after permit approval?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the store layout changes after permits are issued, does the retail build-out need a revision?",
+    "text": "If the store layout changes after permits are issued, does the retail build-out need a revision?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the store layout changes after permit approval, the project may need a revision or supplemental approval depending on the scope of the change. Minor finish-only adjustments may be easy to manage, but changes that affect exits, occupancy, accessibility, electrical loads, plumbing, HVAC, or fire safety can require updated drawings and additional review. Even when the city does not require a formal revision, undocumented changes can create inspection problems at the end of the job. That is why it is smart to finalize the layout as early as possible and avoid moving walls or fixtures after construction begins. If a change is unavoidable, the contractor and designer should evaluate whether the update affects permit compliance before work proceeds.",
+      "@type": "Answer",
+      "description": "Yes, layout changes after permit approval may require a revision, depending on how much the plans change and whether the new work affects life safety, accessibility, structure, or MEP systems. Even small changes can create inspection issues if they were not documented.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the store layout changes after permit approval, the project may need a revision or supplemental approval depending on the scope of the change. Minor finish-only adjustments may be easy to manage, but changes that affect exits, occupancy, accessibility, electrical loads, plumbing, HVAC, or fire safety can require updated drawings and additional review. Even when the city does not require a formal revision, undocumented changes can create inspection problems at the end of the job. That is why it is smart to finalize the layout as early as possible and avoid moving walls or fixtures after construction begins. If a change is unavoidable, the contractor and designer should evaluate whether the update affects permit compliance before work proceeds.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, layout changes after permit approval may require a revision, depending on how much the plans change and whether the new work affects life safety, accessibi"
+}

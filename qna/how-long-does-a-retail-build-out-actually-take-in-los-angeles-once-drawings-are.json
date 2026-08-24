@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-a-retail-build-out-actually-take-in-los-angeles-once-drawings-are",
+  "name": "How long does a retail build-out take in Los Angeles if permits are already in review?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does a retail build-out actually take in Los Angeles once drawings are submitted, and what parts of the schedule usually slip the most?",
+    "text": "How long does a retail build-out actually take in Los Angeles once drawings are submitted, and what parts of the schedule usually slip the most?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail build-out in Los Angeles usually has three timing buckets: design and permit preparation, permit review, and construction. Even when a project is straightforward, the full path from lease signing to opening often runs 4 to 8 months because landlord approvals, city plan check, revisions, and inspections all add time. Once permits are issued, a typical interior retail construction phase may take 6 to 12 weeks for a standard tenant improvement, but custom millwork, special lighting, signage, and long-lead finishes can extend that timeline. The most common delays are incomplete drawings, changes during permit review, utility coordination, and waiting on final sign-offs. If opening date matters, the best approach is to lock the scope early, order long-lead items before construction starts, and build a schedule with milestone dates instead of a single completion target.",
+      "@type": "Answer",
+      "description": "A standard retail tenant improvement in Los Angeles often takes about 4 to 8 months from lease signing to opening, with construction itself commonly lasting 6 to 12 weeks after permit approval. The biggest schedule risks are permit corrections, landlord review delays, long-lead materials, and final inspection scheduling.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail build-out in Los Angeles usually has three timing buckets: design and permit preparation, permit review, and construction. Even when a project is straightforward, the full path from lease signing to opening often runs 4 to 8 months because landlord approvals, city plan check, revisions, and inspections all add time. Once permits are issued, a typical interior retail construction phase may take 6 to 12 weeks for a standard tenant improvement, but custom millwork, special lighting, signage, and long-lead finishes can extend that timeline. The most common delays are incomplete drawings, changes during permit review, utility coordination, and waiting on final sign-offs. If opening date matters, the best approach is to lock the scope early, order long-lead items before construction starts, and build a schedule with milestone dates instead of a single completion target.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A standard retail tenant improvement in Los Angeles often takes about 4 to 8 months from lease signing to opening, with construction itself commonly lasting 6 t"
+}

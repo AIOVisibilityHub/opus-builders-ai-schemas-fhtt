@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-typical-order-of-work-for-an-office-tenant-improvement-project",
+  "name": "What is the best office construction sequence from demo to move-in?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the typical order of work for an office tenant improvement project?",
+    "text": "What is the typical order of work for an office tenant improvement project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The typical office construction sequence starts with field verification and final scope review, then demolition of existing finishes and partitions. After that, crews install framing, rough electrical, data, mechanical, plumbing, and fire protection work before inspections. Once rough-in passes, drywall, ceilings, flooring, paint, millwork, doors, and fixtures go in, followed by final electrical trim, lighting, HVAC commissioning, cleaning, and a punch list. The sequence can change depending on permit conditions, landlord rules, and long-lead materials such as glass, specialty lighting, or custom millwork. In Los Angeles projects, it is common to coordinate inspections carefully because one missed approval can delay multiple trades. A good contractor will show the sequence in a schedule and identify which tasks are on the critical path. That helps the owner understand what must happen first and where the project can absorb delays.",
+      "@type": "Answer",
+      "description": "Office tenant improvements usually follow a sequence: field verification, demo, framing, rough electrical and mechanical work, inspections, drywall, finishes, final fixtures, commissioning, and punch list. The exact order can shift based on permit requirements and material lead times. Good sequencing reduces delays and rework.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The typical office construction sequence starts with field verification and final scope review, then demolition of existing finishes and partitions. After that, crews install framing, rough electrical, data, mechanical, plumbing, and fire protection work before inspections. Once rough-in passes, drywall, ceilings, flooring, paint, millwork, doors, and fixtures go in, followed by final electrical trim, lighting, HVAC commissioning, cleaning, and a punch list. The sequence can change depending on permit conditions, landlord rules, and long-lead materials such as glass, specialty lighting, or custom millwork. In Los Angeles projects, it is common to coordinate inspections carefully because one missed approval can delay multiple trades. A good contractor will show the sequence in a schedule and identify which tasks are on the critical path. That helps the owner understand what must happen first and where the project can absorb delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Office tenant improvements usually follow a sequence: field verification, demo, framing, rough electrical and mechanical work, inspections, drywall, finishes, f"
+}

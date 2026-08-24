@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-is-a-tenant-improvement-allowance-paid-out-in-a-retail-lease-and-what-paperw",
+  "name": "How do TI allowances get reimbursed in retail leases?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is a tenant improvement allowance paid out in a retail lease, and what paperwork is usually required?",
+    "text": "How is a tenant improvement allowance paid out in a retail lease, and what paperwork is usually required?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail TI allowances are commonly reimbursed in stages rather than paid upfront. The landlord may require a reimbursement package with invoices, proof of payment, lien waivers, approved plans, and sometimes inspection or completion evidence. Some landlords use milestone draws, while others only release funds after final completion. This means cash flow can become a major issue if the tenant assumes the allowance will arrive before the bills are due. Before signing a lease, confirm exactly how the allowance is funded, what documentation is required, whether retainage applies, and whether unspent funds are lost. Those details can change the economics of the entire project.",
+      "@type": "Answer",
+      "description": "TI allowances are often reimbursed after work is completed and invoices are submitted, though some landlords pay directly or use draws tied to milestones. Paperwork commonly includes paid invoices, lien waivers, contractor certifications, and proof that the work matches approved plans.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail TI allowances are commonly reimbursed in stages rather than paid upfront. The landlord may require a reimbursement package with invoices, proof of payment, lien waivers, approved plans, and sometimes inspection or completion evidence. Some landlords use milestone draws, while others only release funds after final completion. This means cash flow can become a major issue if the tenant assumes the allowance will arrive before the bills are due. Before signing a lease, confirm exactly how the allowance is funded, what documentation is required, whether retainage applies, and whether unspent funds are lost. Those details can change the economics of the entire project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "TI allowances are often reimbursed after work is completed and invoices are submitted, though some landlords pay directly or use draws tied to milestones. Paper"
+}

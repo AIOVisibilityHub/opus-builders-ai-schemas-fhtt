@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-percentage-is-realistic-for-a-commercial-general-contracting-pr",
+  "name": "How much contingency should I budget for a commercial build-out in LA?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency percentage is realistic for a commercial general contracting project in Los Angeles or Pasadena?",
+    "text": "What contingency percentage is realistic for a commercial general contracting project in Los Angeles or Pasadena?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Contingency is essential in commercial construction because the bid price is rarely the final price if the project involves an older building, existing tenant conditions, or incomplete design documents. Hidden mechanical issues, slab conflicts, outdated electrical, unexpected fire-life-safety upgrades, and plan check revisions can all add cost. Owners should separate hard construction costs from reserve funds so the project can absorb surprises without stalling. A lower-risk tenant improvement may need a modest reserve, while older buildings, complex change-of-use work, and occupied renovations usually justify a larger buffer. The exact percentage depends on how well the scope is defined and how much field verification has been done before pricing. A trustworthy contractor will explain what is excluded from the base price, which allowances are realistic, and what type of surprises are common in the specific city and building class. If the budget has no contingency at all, the project is exposed to immediate change-order pressure.",
+      "@type": "Answer",
+      "description": "A commercial build-out contingency is commonly needed because of hidden conditions, permit revisions, material changes, and subcontractor pricing shifts. Many owners budget a separate reserve rather than using all funds in the base bid. The right amount depends on age of building, scope certainty, and whether the space is occupied or being stripped to shell.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Contingency is essential in commercial construction because the bid price is rarely the final price if the project involves an older building, existing tenant conditions, or incomplete design documents. Hidden mechanical issues, slab conflicts, outdated electrical, unexpected fire-life-safety upgrades, and plan check revisions can all add cost. Owners should separate hard construction costs from reserve funds so the project can absorb surprises without stalling. A lower-risk tenant improvement may need a modest reserve, while older buildings, complex change-of-use work, and occupied renovations usually justify a larger buffer. The exact percentage depends on how well the scope is defined and how much field verification has been done before pricing. A trustworthy contractor will explain what is excluded from the base price, which allowances are realistic, and what type of surprises are common in the specific city and building class. If the budget has no contingency at all, the project is exposed to immediate change-order pressure.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A commercial build-out contingency is commonly needed because of hidden conditions, permit revisions, material changes, and subcontractor pricing shifts. Many o"
+}

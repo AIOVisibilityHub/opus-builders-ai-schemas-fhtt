@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-custom-millwork-be-added-to-a-retail-build-out-without-causing-major-sch",
+  "name": "Can retail build-outs include custom millwork without delaying opening?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can custom millwork be added to a retail build-out without causing major schedule problems?",
+    "text": "How can custom millwork be added to a retail build-out without causing major schedule problems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Custom millwork can be part of a retail build-out without causing major delays, but only if it is handled early. The biggest schedule risk is treating millwork like a final finishing detail when it actually affects layout, electrical coordination, clearances, and fabrication time. To keep the opening on track, millwork should be designed early, dimensions should be confirmed before fabrication, and finish selections should be approved before the job reaches the shop. If the millwork is highly customized, the contractor should coordinate it with the overall construction schedule so fabrication happens while other field work is in progress. Waiting until the end of the job to finalize cabinetry, display fixtures, or checkout counters often pushes the opening date back. Early coordination is the key to keeping custom pieces from becoming critical-path delays.",
+      "@type": "Answer",
+      "description": "Custom millwork can fit into a retail schedule if it is designed early, approved before permit completion, and fabricated while field work is underway. The risk is waiting too long to finalize dimensions, finishes, or hardware, which creates long-lead delays.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Custom millwork can be part of a retail build-out without causing major delays, but only if it is handled early. The biggest schedule risk is treating millwork like a final finishing detail when it actually affects layout, electrical coordination, clearances, and fabrication time. To keep the opening on track, millwork should be designed early, dimensions should be confirmed before fabrication, and finish selections should be approved before the job reaches the shop. If the millwork is highly customized, the contractor should coordinate it with the overall construction schedule so fabrication happens while other field work is in progress. Waiting until the end of the job to finalize cabinetry, display fixtures, or checkout counters often pushes the opening date back. Early coordination is the key to keeping custom pieces from becoming critical-path delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Custom millwork can fit into a retail schedule if it is designed early, approved before permit completion, and fabricated while field work is underway. The risk"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-accessibility-upgrades-often-get-triggered-during-retail-tenant-improvemen",
+  "name": "What accessibility upgrades are usually required in a retail TI?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which accessibility upgrades often get triggered during retail tenant improvements?",
+    "text": "Which accessibility upgrades often get triggered during retail tenant improvements?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Accessibility is one of the most common hidden issues in retail tenant improvements. Depending on the scope, the project may trigger upgrades to routes of travel, entrances, doors, hardware, restrooms, counters, clearances, and signage. Even if the tenant only plans a modest remodel, the permit review may require certain accessibility corrections tied to the area of work. This is why older retail spaces can become more expensive than expected. The best way to control the issue is to review accessibility early in design instead of treating it as a final checklist item. That reduces redesign and helps avoid delays during plan check or inspection.",
+      "@type": "Answer",
+      "description": "Accessibility upgrades may include path-of-travel improvements, door clearances, restroom changes, signage, counter heights, and accessible routes. The required scope depends on the work being done and the existing condition of the space.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Accessibility is one of the most common hidden issues in retail tenant improvements. Depending on the scope, the project may trigger upgrades to routes of travel, entrances, doors, hardware, restrooms, counters, clearances, and signage. Even if the tenant only plans a modest remodel, the permit review may require certain accessibility corrections tied to the area of work. This is why older retail spaces can become more expensive than expected. The best way to control the issue is to review accessibility early in design instead of treating it as a final checklist item. That reduces redesign and helps avoid delays during plan check or inspection.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Accessibility upgrades may include path-of-travel improvements, door clearances, restroom changes, signage, counter heights, and accessible routes. The required"
+}

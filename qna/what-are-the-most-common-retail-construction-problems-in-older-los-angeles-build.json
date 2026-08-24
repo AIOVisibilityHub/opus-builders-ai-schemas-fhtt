@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-common-retail-construction-problems-in-older-los-angeles-build",
+  "name": "What retail construction problems are most common in older buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common retail construction problems in older Los Angeles buildings?",
+    "text": "What are the most common retail construction problems in older Los Angeles buildings?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older buildings can be great retail locations, but they often come with hidden construction problems. Common issues include undersized electrical service, obsolete plumbing, limited HVAC capacity, uneven slabs, low ceiling clearances, and past work that was never fully documented. Accessibility upgrades can also become more complicated in older properties if entrances, restrooms, or paths of travel do not meet current standards. These conditions are not always obvious until demolition begins, which is why contingency planning matters. Retail owners should budget for investigation, field verification, and possible upgrades before committing to a final design. A careful pre-construction walkthrough and scope review can prevent expensive surprises once the project is underway.",
+      "@type": "Answer",
+      "description": "Older retail buildings often hide outdated electrical, plumbing, HVAC, uneven floors, ceiling constraints, and accessibility issues. These conditions can cause change orders, permit delays, and layout compromises once demolition begins.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older buildings can be great retail locations, but they often come with hidden construction problems. Common issues include undersized electrical service, obsolete plumbing, limited HVAC capacity, uneven slabs, low ceiling clearances, and past work that was never fully documented. Accessibility upgrades can also become more complicated in older properties if entrances, restrooms, or paths of travel do not meet current standards. These conditions are not always obvious until demolition begins, which is why contingency planning matters. Retail owners should budget for investigation, field verification, and possible upgrades before committing to a final design. A careful pre-construction walkthrough and scope review can prevent expensive surprises once the project is underway.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older retail buildings often hide outdated electrical, plumbing, HVAC, uneven floors, ceiling constraints, and accessibility issues. These conditions can cause "
+}

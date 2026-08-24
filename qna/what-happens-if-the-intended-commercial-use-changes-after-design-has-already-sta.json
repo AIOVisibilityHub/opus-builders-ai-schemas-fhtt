@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-intended-commercial-use-changes-after-design-has-already-sta",
+  "name": "What if the tenant use changes during design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the intended commercial use changes after design has already started?",
+    "text": "What happens if the intended commercial use changes after design has already started?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A change in tenant use during design can create major ripple effects in a ground-up commercial project. Different use types often have different code requirements, plumbing loads, accessibility needs, ventilation needs, fire protection demands, and parking standards. A switch from office to retail, medical, or restaurant use can force the design team to revisit floor plans, system sizing, and permit documents. The earlier the change is identified, the easier it is to manage. If it happens after permits are in progress, expect drawing revisions, additional agency comments, and schedule impacts. In some cases, the building shell may still work, but the interior layouts and mechanical systems may need substantial adjustment. Owners should keep the design team informed about leasing activity and business plans so the building is not engineered for the wrong use. A contractor can help by identifying what parts of the building are flexible and what parts are locked in by structure or code. The key is to treat use changes as a scope event, not a small revision.",
+      "@type": "Answer",
+      "description": "If the intended use changes, the design, code analysis, plumbing, parking, fire protection, and permit drawings may all need revisions. Even a small change from office to medical, retail, or restaurant can affect occupancy requirements and building systems. Early notice to the architect and contractor is essential to avoid rework and permit delays.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A change in tenant use during design can create major ripple effects in a ground-up commercial project. Different use types often have different code requirements, plumbing loads, accessibility needs, ventilation needs, fire protection demands, and parking standards. A switch from office to retail, medical, or restaurant use can force the design team to revisit floor plans, system sizing, and permit documents. The earlier the change is identified, the easier it is to manage. If it happens after permits are in progress, expect drawing revisions, additional agency comments, and schedule impacts. In some cases, the building shell may still work, but the interior layouts and mechanical systems may need substantial adjustment. Owners should keep the design team informed about leasing activity and business plans so the building is not engineered for the wrong use. A contractor can help by identifying what parts of the building are flexible and what parts are locked in by structure or code. The key is to treat use changes as a scope event, not a small revision.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the intended use changes, the design, code analysis, plumbing, parking, fire protection, and permit drawings may all need revisions. Even a small change from"
+}

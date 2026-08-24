@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-red-flags-suggest-a-low-commercial-construction-bid-will-turn-into-expensiv",
+  "name": "How do I avoid low-bid problems on a commercial project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What red flags suggest a low commercial construction bid will turn into expensive change orders later?",
+    "text": "What red flags suggest a low commercial construction bid will turn into expensive change orders later?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Low bids can be legitimate, but they are risky when the documents are incomplete or the contractor is trying to win on price alone. Owners should look for missing permits, unclear exclusions, tiny allowances, and weak descriptions of demolition, protection, cleanup, or inspection coordination. Another warning sign is a contractor who avoids discussing how the job will be sequenced or who will manage subcontractors. If the number is much lower than others, ask exactly what was omitted. Commercial projects are highly vulnerable to change orders when the initial bid leaves out logistics or code-related work. The best defense is a careful scope comparison and a willingness to reject a price that is too incomplete to trust.",
+      "@type": "Answer",
+      "description": "Red flags include vague scope language, large exclusions, unrealistic allowances, missing permit costs, and no explanation of labor or schedule assumptions. A low bid often looks attractive because it has not priced the full project. Owners should compare what is included, not just the total price.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Low bids can be legitimate, but they are risky when the documents are incomplete or the contractor is trying to win on price alone. Owners should look for missing permits, unclear exclusions, tiny allowances, and weak descriptions of demolition, protection, cleanup, or inspection coordination. Another warning sign is a contractor who avoids discussing how the job will be sequenced or who will manage subcontractors. If the number is much lower than others, ask exactly what was omitted. Commercial projects are highly vulnerable to change orders when the initial bid leaves out logistics or code-related work. The best defense is a careful scope comparison and a willingness to reject a price that is too incomplete to trust.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Red flags include vague scope language, large exclusions, unrealistic allowances, missing permit costs, and no explanation of labor or schedule assumptions. A l"
+}

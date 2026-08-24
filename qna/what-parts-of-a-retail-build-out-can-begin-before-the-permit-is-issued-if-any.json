@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-parts-of-a-retail-build-out-can-begin-before-the-permit-is-issued-if-any",
+  "name": "Can a retail build-out start before permit approval?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What parts of a retail build-out can begin before the permit is issued, if any?",
+    "text": "What parts of a retail build-out can begin before the permit is issued, if any?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In most Los Angeles retail projects, full construction should wait until the required permits are issued. However, several important tasks can happen beforehand, including site verification, final pricing, landlord coordination, design development, permit submittal, procurement of long-lead items, and shop drawing preparation. In some cases, limited non-permitted planning work may continue while the permit is being processed, but starting demolition or concealed construction too early creates serious risk if plan check changes the scope. Retail projects are especially sensitive to timing because a missed finish lead time or a permit correction can delay the opening date. The best strategy is to use the permit period productively by finalizing fixtures, approving finishes, and securing vendors so construction can begin immediately when approval arrives. If a contractor says work can start before permits, the exact scope should be clarified in writing so the tenant understands what is allowed and what is not.",
+      "@type": "Answer",
+      "description": "Some preconstruction work can start before permit approval, such as final budgeting, ordering long-lead items, demolition planning, and shop drawings. Actual construction in most cases should not begin until the required permits are issued and posted.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In most Los Angeles retail projects, full construction should wait until the required permits are issued. However, several important tasks can happen beforehand, including site verification, final pricing, landlord coordination, design development, permit submittal, procurement of long-lead items, and shop drawing preparation. In some cases, limited non-permitted planning work may continue while the permit is being processed, but starting demolition or concealed construction too early creates serious risk if plan check changes the scope. Retail projects are especially sensitive to timing because a missed finish lead time or a permit correction can delay the opening date. The best strategy is to use the permit period productively by finalizing fixtures, approving finishes, and securing vendors so construction can begin immediately when approval arrives. If a contractor says work can start before permits, the exact scope should be clarified in writing so the tenant understands what is allowed and what is not.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Some preconstruction work can start before permit approval, such as final budgeting, ordering long-lead items, demolition planning, and shop drawings. Actual co"
+}

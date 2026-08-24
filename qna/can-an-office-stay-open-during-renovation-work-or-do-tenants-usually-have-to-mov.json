@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-office-stay-open-during-renovation-work-or-do-tenants-usually-have-to-mov",
+  "name": "Can we stay open during an office renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an office stay open during renovation work, or do tenants usually have to move out temporarily?",
+    "text": "Can an office stay open during renovation work, or do tenants usually have to move out temporarily?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most office renovations can be designed so the business stays open, but the project has to be planned around operations from the start. Phased construction is the most common approach, especially when only part of the space is being updated at a time. Temporary partitions, negative-air dust control, evening or weekend work, and coordinated shutdowns of utilities all help reduce disruption. However, if the renovation affects main entries, restrooms, fire alarms, sprinklers, or critical power, the building may need temporary closures or relocation of staff. The earlier the contractor understands daily office use, peak hours, security needs, and conference room schedules, the easier it is to keep the business functioning during construction.",
+      "@type": "Answer",
+      "description": "In many office renovations, the business can stay open if the project is phased carefully. Contractors often use temporary walls, dust barriers, off-hours work, and sequence planning to keep teams operating. The real limit is whether the work affects safety, access, utilities, or occupied work zones.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most office renovations can be designed so the business stays open, but the project has to be planned around operations from the start. Phased construction is the most common approach, especially when only part of the space is being updated at a time. Temporary partitions, negative-air dust control, evening or weekend work, and coordinated shutdowns of utilities all help reduce disruption. However, if the renovation affects main entries, restrooms, fire alarms, sprinklers, or critical power, the building may need temporary closures or relocation of staff. The earlier the contractor understands daily office use, peak hours, security needs, and conference room schedules, the easier it is to keep the business functioning during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In many office renovations, the business can stay open if the project is phased carefully. Contractors often use temporary walls, dust barriers, off-hours work,"
+}

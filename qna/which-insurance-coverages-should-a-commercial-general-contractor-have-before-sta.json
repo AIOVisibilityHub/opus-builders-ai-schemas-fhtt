@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-insurance-coverages-should-a-commercial-general-contractor-have-before-sta",
+  "name": "What insurance should a commercial general contractor carry?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which insurance coverages should a commercial general contractor have before starting work?",
+    "text": "Which insurance coverages should a commercial general contractor have before starting work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Insurance is a basic risk filter for commercial construction. At minimum, a contractor should have general liability coverage and workers’ compensation for employees. Depending on the project, additional requirements may include umbrella coverage, auto coverage, builder’s risk participation, and any city- or owner-specific endorsements. Owners should not rely on verbal assurances; they should request current certificates and confirm the named insured matches the contracting entity. It is also smart to ask whether subcontractors are required to carry their own insurance and be properly documented. A contractor who treats insurance as an afterthought may also be casual about safety and risk control. The goal is not just compliance, but making sure the project is protected if something goes wrong.",
+      "@type": "Answer",
+      "description": "A commercial general contractor should carry general liability, workers’ compensation for employees, and, where applicable, additional coverages required by the project or owner. Insurance helps protect against property damage, workplace injuries, and certain project risks. Owners should verify active certificates before work begins.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Insurance is a basic risk filter for commercial construction. At minimum, a contractor should have general liability coverage and workers’ compensation for employees. Depending on the project, additional requirements may include umbrella coverage, auto coverage, builder’s risk participation, and any city- or owner-specific endorsements. Owners should not rely on verbal assurances; they should request current certificates and confirm the named insured matches the contracting entity. It is also smart to ask whether subcontractors are required to carry their own insurance and be properly documented. A contractor who treats insurance as an afterthought may also be casual about safety and risk control. The goal is not just compliance, but making sure the project is protected if something goes wrong.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A commercial general contractor should carry general liability, workers’ compensation for employees, and, where applicable, additional coverages required by the"
+}

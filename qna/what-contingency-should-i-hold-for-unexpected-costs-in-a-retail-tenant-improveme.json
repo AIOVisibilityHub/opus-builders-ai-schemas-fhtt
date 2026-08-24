@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-should-i-hold-for-unexpected-costs-in-a-retail-tenant-improveme",
+  "name": "How much contingency should I budget for a retail TI?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency should I hold for unexpected costs in a retail tenant improvement project?",
+    "text": "What contingency should I hold for unexpected costs in a retail tenant improvement project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail build-outs rarely stay exactly on the first budget. Contingency is important because hidden conditions behind walls, outdated systems, utility conflicts, code upgrades, and plan revisions can add cost quickly. Projects in older buildings often need more contingency than newer spaces, especially when restrooms, HVAC, electrical service, or storefront systems are involved. If the scope is still evolving, a larger reserve helps absorb surprises without stopping the project. A strong budget should separate hard construction, soft costs, permit fees, allowance gaps, and contingency so the team knows what is truly available. The right reserve depends on risk, but leaving no cushion is usually the most expensive mistake.",
+      "@type": "Answer",
+      "description": "A retail TI budget usually needs contingency because hidden conditions, plan corrections, utility changes, and code upgrades are common. Older buildings, cold-shell spaces, and projects with plumbing or HVAC changes generally need a larger contingency than simple cosmetic refreshes.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail build-outs rarely stay exactly on the first budget. Contingency is important because hidden conditions behind walls, outdated systems, utility conflicts, code upgrades, and plan revisions can add cost quickly. Projects in older buildings often need more contingency than newer spaces, especially when restrooms, HVAC, electrical service, or storefront systems are involved. If the scope is still evolving, a larger reserve helps absorb surprises without stopping the project. A strong budget should separate hard construction, soft costs, permit fees, allowance gaps, and contingency so the team knows what is truly available. The right reserve depends on risk, but leaving no cushion is usually the most expensive mistake.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A retail TI budget usually needs contingency because hidden conditions, plan corrections, utility changes, and code upgrades are common. Older buildings, cold-s"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-retail-tenant-improvement-delay-lease-commencement-or-rent-start",
+  "name": "How do retail tenant improvements affect lease start dates?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a retail tenant improvement delay lease commencement or rent start?",
+    "text": "Can a retail tenant improvement delay lease commencement or rent start?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail tenant improvements can directly affect when rent starts, when the lease officially begins, and when the tenant is allowed to open. Some leases tie commencement to permit issuance, substantial completion, or delivery of the premises, while others use a fixed date regardless of construction progress. If the TI runs late, the tenant may lose sales time or face rent before the store is ready. That is why lease dates should be aligned with realistic permit and construction schedules. Before signing, confirm whether delays in approvals, landlord work, or city review shift the commencement date or leave the tenant responsible for carrying costs during construction.",
+      "@type": "Answer",
+      "description": "Yes. If the build-out takes longer than expected, lease commencement, rent commencement, or opening-date milestones may be delayed or triggered by specific completion conditions. The lease language matters more than the construction schedule alone.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail tenant improvements can directly affect when rent starts, when the lease officially begins, and when the tenant is allowed to open. Some leases tie commencement to permit issuance, substantial completion, or delivery of the premises, while others use a fixed date regardless of construction progress. If the TI runs late, the tenant may lose sales time or face rent before the store is ready. That is why lease dates should be aligned with realistic permit and construction schedules. Before signing, confirm whether delays in approvals, landlord work, or city review shift the commencement date or leave the tenant responsible for carrying costs during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. If the build-out takes longer than expected, lease commencement, rent commencement, or opening-date milestones may be delayed or triggered by specific comp"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-the-landlord-have-to-approve-my-retail-tenant-improvement-plans-before-i-su",
+  "name": "Do I need landlord approval for retail tenant improvements?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does the landlord have to approve my retail tenant improvement plans before I submit for permits?",
+    "text": "Does the landlord have to approve my retail tenant improvement plans before I submit for permits?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Landlord approval is one of the most overlooked parts of a retail tenant improvement. Even when the city permit path is clear, many leases require the owner’s written approval before plans are submitted or construction starts. In shopping centers and managed properties, landlords may also have design criteria, tenant coordination rules, approved contractor requirements, insurance thresholds, and documentation rules for payment draws and lien waivers. If those conditions are not handled early, the project can stall even with city-ready drawings. The best practice is to review the lease and landlord criteria at the beginning, not after design is done. That keeps the permit process and the lease process moving together.",
+      "@type": "Answer",
+      "description": "Usually yes. Most retail leases require written landlord approval before construction or permit submittal, especially in shopping centers, mixed-use buildings, and branded retail properties. Landlords may also require specific contractors, design standards, insurance, and lien waivers.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Landlord approval is one of the most overlooked parts of a retail tenant improvement. Even when the city permit path is clear, many leases require the owner’s written approval before plans are submitted or construction starts. In shopping centers and managed properties, landlords may also have design criteria, tenant coordination rules, approved contractor requirements, insurance thresholds, and documentation rules for payment draws and lien waivers. If those conditions are not handled early, the project can stall even with city-ready drawings. The best practice is to review the lease and landlord criteria at the beginning, not after design is done. That keeps the permit process and the lease process moving together.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Usually yes. Most retail leases require written landlord approval before construction or permit submittal, especially in shopping centers, mixed-use buildings, "
+}

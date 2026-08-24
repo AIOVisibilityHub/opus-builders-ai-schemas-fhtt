@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-approvals-or-coordination-are-usually-needed-from-the-landlord-or-building",
+  "name": "How do office renovations handle building management approvals?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What approvals or coordination are usually needed from the landlord or building manager before an office remodel starts?",
+    "text": "What approvals or coordination are usually needed from the landlord or building manager before an office remodel starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In leased office spaces, the landlord or building manager often has its own approval process in addition to city permitting. That process may cover contractor credentials, insurance, construction hours, elevator access, loading dock rules, dust control, noise limits, and protection of common areas. Some buildings also require review of drawings before permit submission or before any demolition starts. If these approvals are not handled early, the project can stall even when the city permit is moving forward. It is best to confirm the building’s renovation rules at the very beginning so the contractor can plan a compliant schedule and avoid conflicts with property management.",
+      "@type": "Answer",
+      "description": "Many office renovations require landlord or building management approval before work begins, especially in leased buildings. Approval often covers scope, work hours, insurance, contractor access, protection of common areas, and compliance with building rules.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In leased office spaces, the landlord or building manager often has its own approval process in addition to city permitting. That process may cover contractor credentials, insurance, construction hours, elevator access, loading dock rules, dust control, noise limits, and protection of common areas. Some buildings also require review of drawings before permit submission or before any demolition starts. If these approvals are not handled early, the project can stall even when the city permit is moving forward. It is best to confirm the building’s renovation rules at the very beginning so the contractor can plan a compliant schedule and avoid conflicts with property management.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many office renovations require landlord or building management approval before work begins, especially in leased buildings. Approval often covers scope, work h"
+}

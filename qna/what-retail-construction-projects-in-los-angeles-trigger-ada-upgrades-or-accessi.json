@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-retail-construction-projects-in-los-angeles-trigger-ada-upgrades-or-accessi",
+  "name": "What retail construction projects need ADA upgrades?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What retail construction projects in Los Angeles trigger ADA upgrades or accessibility work?",
+    "text": "What retail construction projects in Los Angeles trigger ADA upgrades or accessibility work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "ADA-related upgrades often come up in retail construction when a project changes anything customers use directly. Common triggers include entry doors, routes from parking to the entrance, checkout counter heights, restroom accessibility, aisle widths, and turning clearances. Even a project that appears cosmetic can trigger accessibility work if it alters paths of travel or public-facing fixtures. In Los Angeles and nearby cities, this can affect budget and layout decisions early in design. Retail owners should address accessibility from the start rather than treating it as a late-stage correction, because fixes after plan review or inspection can be expensive. A good contractor should flag likely ADA impacts before construction begins and coordinate with the designer so the final layout works for both compliance and customer experience.",
+      "@type": "Answer",
+      "description": "ADA upgrades are often required when a retail project changes entrances, restrooms, paths of travel, counters, parking access, or customer circulation. Even a partial remodel can trigger accessibility improvements if the work affects public areas or routes used by customers.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "ADA-related upgrades often come up in retail construction when a project changes anything customers use directly. Common triggers include entry doors, routes from parking to the entrance, checkout counter heights, restroom accessibility, aisle widths, and turning clearances. Even a project that appears cosmetic can trigger accessibility work if it alters paths of travel or public-facing fixtures. In Los Angeles and nearby cities, this can affect budget and layout decisions early in design. Retail owners should address accessibility from the start rather than treating it as a late-stage correction, because fixes after plan review or inspection can be expensive. A good contractor should flag likely ADA impacts before construction begins and coordinate with the designer so the final layout works for both compliance and customer experience.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "ADA upgrades are often required when a retail project changes entrances, restrooms, paths of travel, counters, parking access, or customer circulation. Even a p"
+}

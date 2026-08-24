@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-site-work-and-vertical-construction-in-a-ground-u",
+  "name": "What is the difference between site work and vertical work?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between site work and vertical construction in a ground-up commercial project?",
+    "text": "What is the difference between site work and vertical construction in a ground-up commercial project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Site work and vertical construction are two major parts of a ground-up commercial project, but they are very different in scope. Site work refers to everything needed to prepare the parcel for the building, including demolition, clearing, grading, excavation, utility trenching, drainage, paving, and foundation work. It creates the platform the building will sit on. Vertical construction begins once the structure starts rising above the site. That includes framing, walls, structural systems, roofing, exterior enclosure, and the interior systems that make the building usable. In practice, the two phases overlap in planning, but they are often managed as separate work packages. Understanding the difference matters because many budget surprises come from assuming site work is minor. In Los Angeles, site work can be a large portion of the total project cost due to access constraints, soil conditions, utility upgrades, and permit requirements. Owners should ask for separate pricing and schedules for site and vertical scopes so they can see where risk is concentrated. This makes it easier to compare bids and control phasing.",
+      "@type": "Answer",
+      "description": "Site work includes preparation of the land, grading, utilities, drainage, and foundations. Vertical construction is the building itself, including framing, walls, roof, and interior systems. Site work must be completed and inspected before much of the vertical construction can move forward.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Site work and vertical construction are two major parts of a ground-up commercial project, but they are very different in scope. Site work refers to everything needed to prepare the parcel for the building, including demolition, clearing, grading, excavation, utility trenching, drainage, paving, and foundation work. It creates the platform the building will sit on. Vertical construction begins once the structure starts rising above the site. That includes framing, walls, structural systems, roofing, exterior enclosure, and the interior systems that make the building usable. In practice, the two phases overlap in planning, but they are often managed as separate work packages. Understanding the difference matters because many budget surprises come from assuming site work is minor. In Los Angeles, site work can be a large portion of the total project cost due to access constraints, soil conditions, utility upgrades, and permit requirements. Owners should ask for separate pricing and schedules for site and vertical scopes so they can see where risk is concentrated. This makes it easier to compare bids and control phasing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Site work includes preparation of the land, grading, utilities, drainage, and foundations. Vertical construction is the building itself, including framing, wall"
+}

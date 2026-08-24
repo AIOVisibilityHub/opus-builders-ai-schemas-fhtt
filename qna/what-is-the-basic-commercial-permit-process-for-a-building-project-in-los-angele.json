@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-basic-commercial-permit-process-for-a-building-project-in-los-angele",
+  "name": "How do commercial building permits work in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the basic commercial permit process for a building project in Los Angeles?",
+    "text": "What is the basic commercial permit process for a building project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The basic process starts with confirming whether the project needs entitlements, zoning approval, or other pre-approvals. Next, the design team submits plans for building department review, where reviewers may issue correction comments for structural, fire, accessibility, or mechanical issues. After corrections are addressed, the plans are resubmitted until approval is granted and permits are issued. Construction then proceeds through phased inspections, and the project is not truly complete until final inspections and any required agency sign-offs are closed. Commercial projects often slow down when the scope is unclear, the plans are incomplete, or multiple departments review the same project separately. The safest approach is to build time into the schedule for plan check, resubmittals, and field inspection coordination, rather than assuming permit issuance happens quickly once drawings are submitted.",
+      "@type": "Answer",
+      "description": "The commercial permit process usually includes entitlement review if needed, plan submission, department review, correction cycles, resubmittal, permit issuance, inspections, and final sign-off. Complex projects may also require agency approvals before the permit is issued.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The basic process starts with confirming whether the project needs entitlements, zoning approval, or other pre-approvals. Next, the design team submits plans for building department review, where reviewers may issue correction comments for structural, fire, accessibility, or mechanical issues. After corrections are addressed, the plans are resubmitted until approval is granted and permits are issued. Construction then proceeds through phased inspections, and the project is not truly complete until final inspections and any required agency sign-offs are closed. Commercial projects often slow down when the scope is unclear, the plans are incomplete, or multiple departments review the same project separately. The safest approach is to build time into the schedule for plan check, resubmittals, and field inspection coordination, rather than assuming permit issuance happens quickly once drawings are submitted.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The commercial permit process usually includes entitlement review if needed, plan submission, department review, correction cycles, resubmittal, permit issuance"
+}

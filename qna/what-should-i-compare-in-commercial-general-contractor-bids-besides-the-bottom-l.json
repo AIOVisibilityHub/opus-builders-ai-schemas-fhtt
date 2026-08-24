@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-compare-in-commercial-general-contractor-bids-besides-the-bottom-l",
+  "name": "How do I compare bids from commercial contractors?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I compare in commercial general contractor bids besides the bottom-line price?",
+    "text": "What should I compare in commercial general contractor bids besides the bottom-line price?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A commercial bid should be evaluated as a scope document, not just a number. Owners should compare what is included, what is excluded, how allowances are used, and whether the schedule assumptions are realistic. Also check who is responsible for permits, inspections, temporary protections, hauling, after-hours work, and cleanup. If one bid is far lower than the others, it may simply be missing items that will return later as change orders. Ask each bidder to clarify long-lead material risks, warranty terms, and how they handle owner-driven revisions. The best comparisons are based on completeness and risk, not just price. A bid that looks higher but includes more of the actual work can be the safer and cheaper choice over the life of the project.",
+      "@type": "Answer",
+      "description": "Compare scope completeness, exclusions, allowances, schedule assumptions, subcontractor coverage, permit responsibility, and change-order terms. The cheapest bid is often the least complete, especially when drawings are incomplete or site conditions are uncertain. A well-structured bid should let you compare apples to apples.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A commercial bid should be evaluated as a scope document, not just a number. Owners should compare what is included, what is excluded, how allowances are used, and whether the schedule assumptions are realistic. Also check who is responsible for permits, inspections, temporary protections, hauling, after-hours work, and cleanup. If one bid is far lower than the others, it may simply be missing items that will return later as change orders. Ask each bidder to clarify long-lead material risks, warranty terms, and how they handle owner-driven revisions. The best comparisons are based on completeness and risk, not just price. A bid that looks higher but includes more of the actual work can be the safer and cheaper choice over the life of the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare scope completeness, exclusions, allowances, schedule assumptions, subcontractor coverage, permit responsibility, and change-order terms. The cheapest bi"
+}

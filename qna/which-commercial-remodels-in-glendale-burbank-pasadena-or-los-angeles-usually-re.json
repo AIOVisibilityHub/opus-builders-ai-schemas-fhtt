@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-commercial-remodels-in-glendale-burbank-pasadena-or-los-angeles-usually-re",
+  "name": "How do I know if my project needs a tenant improvement permit?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which commercial remodels in Glendale, Burbank, Pasadena, or Los Angeles usually require a tenant improvement permit?",
+    "text": "Which commercial remodels in Glendale, Burbank, Pasadena, or Los Angeles usually require a tenant improvement permit?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A tenant improvement permit is usually needed when the work affects how the space functions or how people safely enter, exit, or use it. That often includes partition changes, restrooms, kitchen or breakroom plumbing, electrical upgrades, HVAC modifications, fire alarm or sprinkler changes, and any alteration that affects accessibility or occupant load. Purely cosmetic work may sometimes avoid a permit, but in commercial buildings the line is narrower than many owners expect. Local rules also vary by city and by building type, so a project that seems simple in one area may trigger plan check in another. The practical question is not just whether a permit might be required, but whether the work can pass inspection without design documents. A strong general contractor will flag permit triggers early, coordinate with the design team if needed, and avoid starting scope that could later be stopped by inspectors.",
+      "@type": "Answer",
+      "description": "Most commercial interior remodels that change walls, plumbing, electrical, HVAC, occupancy layout, or egress need permit review. Cosmetic work may not, but anything affecting safety systems, accessibility, or building use usually does. A contractor should confirm permit needs before pricing the job, because unpermitted work can delay opening and create rework.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A tenant improvement permit is usually needed when the work affects how the space functions or how people safely enter, exit, or use it. That often includes partition changes, restrooms, kitchen or breakroom plumbing, electrical upgrades, HVAC modifications, fire alarm or sprinkler changes, and any alteration that affects accessibility or occupant load. Purely cosmetic work may sometimes avoid a permit, but in commercial buildings the line is narrower than many owners expect. Local rules also vary by city and by building type, so a project that seems simple in one area may trigger plan check in another. The practical question is not just whether a permit might be required, but whether the work can pass inspection without design documents. A strong general contractor will flag permit triggers early, coordinate with the design team if needed, and avoid starting scope that could later be stopped by inspectors.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most commercial interior remodels that change walls, plumbing, electrical, HVAC, occupancy layout, or egress need permit review. Cosmetic work may not, but anyt"
+}

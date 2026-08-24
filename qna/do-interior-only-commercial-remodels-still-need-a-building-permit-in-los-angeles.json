@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-interior-only-commercial-remodels-still-need-a-building-permit-in-los-angeles",
+  "name": "Do I need a permit for interior commercial remodels?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do interior-only commercial remodels still need a building permit in Los Angeles?",
+    "text": "Do interior-only commercial remodels still need a building permit in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Interior-only does not automatically mean permit-free. Many tenant improvements need permits because even inside work can affect building code items such as exits, restroom counts, fire sprinklers, smoke detection, accessibility, and energy compliance. Cosmetic changes like paint, flooring, or non-structural finishes may be exempt in some cases, but once the project includes new partitions, kitchen equipment, plumbing fixtures, lighting, or HVAC modifications, permit review is likely. The practical question is not whether the work is visible from the street, but whether it changes safety, systems, or occupancy. Owners should confirm the scope before construction begins so the contractor can price plan check, inspection coordination, and any correction cycles. This is especially important for restaurants, medical suites, retail stores, and office conversions, where interior work often triggers multiple code reviews.",
+      "@type": "Answer",
+      "description": "Yes, many interior commercial remodels still need permits if they involve walls, plumbing, electrical, HVAC, accessibility, fire protection, or a change in occupancy. Pure cosmetic work may be exempt, but tenant improvements usually require plan check and inspections.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Interior-only does not automatically mean permit-free. Many tenant improvements need permits because even inside work can affect building code items such as exits, restroom counts, fire sprinklers, smoke detection, accessibility, and energy compliance. Cosmetic changes like paint, flooring, or non-structural finishes may be exempt in some cases, but once the project includes new partitions, kitchen equipment, plumbing fixtures, lighting, or HVAC modifications, permit review is likely. The practical question is not whether the work is visible from the street, but whether it changes safety, systems, or occupancy. Owners should confirm the scope before construction begins so the contractor can price plan check, inspection coordination, and any correction cycles. This is especially important for restaurants, medical suites, retail stores, and office conversions, where interior work often triggers multiple code reviews.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many interior commercial remodels still need permits if they involve walls, plumbing, electrical, HVAC, accessibility, fire protection, or a change in occu"
+}

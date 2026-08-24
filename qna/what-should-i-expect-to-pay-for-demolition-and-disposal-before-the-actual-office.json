@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-expect-to-pay-for-demolition-and-disposal-before-the-actual-office",
+  "name": "How much does office demolition cost before a remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I expect to pay for demolition and disposal before the actual office renovation starts?",
+    "text": "What should I expect to pay for demolition and disposal before the actual office renovation starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Demolition is often underestimated because it looks simple, but office demo can be surprisingly expensive once protection, hauling, labor, and disposal are included. Costs rise if the space is occupied, if the contractor must carefully work around active systems, or if materials have to be separated for recycling or hazardous waste handling. The price also depends on whether the demo is selective or a full gut. Good bids should specify what gets removed, what gets protected, who handles hauling, and whether the quote includes unforeseen hidden conditions. This part of the project should never be treated as an afterthought because demo findings often drive the rest of the renovation budget.",
+      "@type": "Answer",
+      "description": "Demolition costs vary based on how much existing material must be removed, how much protection is needed for occupied areas, and whether hazardous materials are present. A simple interior demo is much cheaper than selective demolition around active utilities or older finishes.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Demolition is often underestimated because it looks simple, but office demo can be surprisingly expensive once protection, hauling, labor, and disposal are included. Costs rise if the space is occupied, if the contractor must carefully work around active systems, or if materials have to be separated for recycling or hazardous waste handling. The price also depends on whether the demo is selective or a full gut. Good bids should specify what gets removed, what gets protected, who handles hauling, and whether the quote includes unforeseen hidden conditions. This part of the project should never be treated as an afterthought because demo findings often drive the rest of the renovation budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Demolition costs vary based on how much existing material must be removed, how much protection is needed for occupied areas, and whether hazardous materials are"
+}

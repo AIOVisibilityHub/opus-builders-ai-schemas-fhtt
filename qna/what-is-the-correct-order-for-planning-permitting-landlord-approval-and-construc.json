@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-correct-order-for-planning-permitting-landlord-approval-and-construc",
+  "name": "What is the best sequence for a retail TI project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the correct order for planning, permitting, landlord approval, and construction on a retail tenant improvement?",
+    "text": "What is the correct order for planning, permitting, landlord approval, and construction on a retail tenant improvement?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The cleanest retail TI sequence starts with scope definition and lease review, then moves to landlord approval, design development, code coordination, and permit submittal. After that comes plan check, corrections, permit issuance, construction, inspections, and final sign-off or occupancy clearance. This order matters because retail projects often depend on both landlord requirements and city approvals. If those tracks are out of sync, a project can be fully designed but still unable to start. Good sequencing protects the opening date and reduces rework. For tenants under a lease deadline, the most important step is to confirm the permit path before the construction schedule is locked in.",
+      "@type": "Answer",
+      "description": "The usual sequence is scope definition, landlord approval, design, code review, permit submittal, corrections, permit issuance, construction, inspections, and final sign-off. Skipping steps often causes delays or change orders.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The cleanest retail TI sequence starts with scope definition and lease review, then moves to landlord approval, design development, code coordination, and permit submittal. After that comes plan check, corrections, permit issuance, construction, inspections, and final sign-off or occupancy clearance. This order matters because retail projects often depend on both landlord requirements and city approvals. If those tracks are out of sync, a project can be fully designed but still unable to start. Good sequencing protects the opening date and reduces rework. For tenants under a lease deadline, the most important step is to confirm the permit path before the construction schedule is locked in.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The usual sequence is scope definition, landlord approval, design, code review, permit submittal, corrections, permit issuance, construction, inspections, and f"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-a-retail-space-need-shell-build-out-work-instead-of-only-interior-tena",
+  "name": "How do I know if I need shell work or just tenant improvement work?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does a retail space need shell build-out work instead of only interior tenant improvements?",
+    "text": "When does a retail space need shell build-out work instead of only interior tenant improvements?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you need shell work or only tenant improvement work depends on how complete the base space is. If the space already has the necessary structure, utilities, and core systems, the project may be a standard TI. If it is a cold shell or partially unfinished space, the scope may need base-building or shell completion before the tenant-specific build-out can begin. That can include utility rough-ins, restrooms, HVAC infrastructure, fire protection, or storefront preparation. The distinction matters because it changes cost, permit scope, and timing. A clear site walkthrough with the contractor and design team helps define which responsibilities belong to the landlord and which belong to the tenant.",
+      "@type": "Answer",
+      "description": "If the space lacks basic systems, demising walls, restrooms, HVAC distribution, or storefront readiness, shell work may be needed before the tenant improvement begins. A true TI assumes the base building is already close to usable condition.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you need shell work or only tenant improvement work depends on how complete the base space is. If the space already has the necessary structure, utilities, and core systems, the project may be a standard TI. If it is a cold shell or partially unfinished space, the scope may need base-building or shell completion before the tenant-specific build-out can begin. That can include utility rough-ins, restrooms, HVAC infrastructure, fire protection, or storefront preparation. The distinction matters because it changes cost, permit scope, and timing. A clear site walkthrough with the contractor and design team helps define which responsibilities belong to the landlord and which belong to the tenant.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the space lacks basic systems, demising walls, restrooms, HVAC distribution, or storefront readiness, shell work may be needed before the tenant improvement "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-for-an-owner-to-verify-the-subs-a-commercial-general-contra",
+  "name": "How do I make sure subcontractors are actually qualified?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way for an owner to verify the subs a commercial general contractor plans to use?",
+    "text": "What is the best way for an owner to verify the subs a commercial general contractor plans to use?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Subcontractor quality matters because the general contractor’s reputation depends on the teams doing the actual work. Owners should ask for the trade list, verify that each company has relevant commercial experience, and confirm that insurance and license status are current where applicable. It also helps to ask which subs are long-term partners and which are being brought in for a special scope. The best commercial GCs can explain how they evaluate performance, keep trades accountable, and replace a subcontractor if schedule or quality drops. If the contractor is unwilling to share trade information or gives only vague reassurance, that is a warning sign. On complex projects, the wrong sub can create delays, failed inspections, and rework that cost far more than any initial savings.",
+      "@type": "Answer",
+      "description": "Ask for the subcontractor list, recent comparable work, license and insurance details, and who will supervise each trade. Qualified subcontractors should have experience in the project type, not just general trade experience. The contractor should be willing to explain how subs are selected and replaced if performance slips.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Subcontractor quality matters because the general contractor’s reputation depends on the teams doing the actual work. Owners should ask for the trade list, verify that each company has relevant commercial experience, and confirm that insurance and license status are current where applicable. It also helps to ask which subs are long-term partners and which are being brought in for a special scope. The best commercial GCs can explain how they evaluate performance, keep trades accountable, and replace a subcontractor if schedule or quality drops. If the contractor is unwilling to share trade information or gives only vague reassurance, that is a warning sign. On complex projects, the wrong sub can create delays, failed inspections, and rework that cost far more than any initial savings.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask for the subcontractor list, recent comparable work, license and insurance details, and who will supervise each trade. Qualified subcontractors should have e"
+}

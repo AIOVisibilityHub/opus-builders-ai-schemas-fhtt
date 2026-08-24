@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-look-for-when-comparing-contractor-estimates-for-an-office-build-o",
+  "name": "How do I compare office build-out bids without missing hidden costs?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I look for when comparing contractor estimates for an office build-out?",
+    "text": "What should I look for when comparing contractor estimates for an office build-out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The cheapest office build-out bid is not always the best value. A proper comparison starts by checking whether each contractor priced the same scope, finishes, and trade work. Look closely at exclusions, allowances, permit handling, demolition assumptions, material specifications, and whether the contractor included supervision, cleanup, testing, and closeout. Also compare schedule assumptions, because a fast but unrealistic timeline can cause cost overruns. In Los Angeles-area projects, experienced contractors should be able to explain how they handle city approvals, landlord coordination, and occupied-building constraints. If one proposal is much lower than the others, it may be missing work or using unrealistically low allowances. The goal is to compare complete, buildable scopes rather than just headline numbers.",
+      "@type": "Answer",
+      "description": "Compare bids by scope, exclusions, allowances, labor assumptions, permit responsibility, contingency, and schedule, not just total price. A lower bid may leave out demolition, inspections, coordination, or finish details, which makes the final cost higher later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The cheapest office build-out bid is not always the best value. A proper comparison starts by checking whether each contractor priced the same scope, finishes, and trade work. Look closely at exclusions, allowances, permit handling, demolition assumptions, material specifications, and whether the contractor included supervision, cleanup, testing, and closeout. Also compare schedule assumptions, because a fast but unrealistic timeline can cause cost overruns. In Los Angeles-area projects, experienced contractors should be able to explain how they handle city approvals, landlord coordination, and occupied-building constraints. If one proposal is much lower than the others, it may be missing work or using unrealistically low allowances. The goal is to compare complete, buildable scopes rather than just headline numbers.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids by scope, exclusions, allowances, labor assumptions, permit responsibility, contingency, and schedule, not just total price. A lower bid may leave "
+}

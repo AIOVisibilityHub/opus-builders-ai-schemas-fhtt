@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-contractor-finds-accessibility-fire-or-egress-issues-once-th",
+  "name": "What if the office renovation uncovers code issues?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the contractor finds accessibility, fire, or egress issues once the walls are opened up?",
+    "text": "What happens if the contractor finds accessibility, fire, or egress issues once the walls are opened up?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Code issues often appear only after demolition reveals what is really inside the walls or ceilings. Problems may include outdated accessibility features, insufficient exits, missing fire protection, or previous work that does not match current standards. When that happens, the contractor and design team usually need to revise drawings, coordinate with reviewers, and update the scope before continuing. This can extend the schedule and increase costs, but ignoring the issue can create bigger problems later during inspections or occupancy sign-off. The best defense is to expect some level of corrective work in older buildings and keep a contingency reserve for code-related upgrades.",
+      "@type": "Answer",
+      "description": "If code-related issues are uncovered during renovation, the project may need revised drawings, added scope, and extra inspections before work can continue. These discoveries are common in older office buildings and can affect both budget and timeline.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Code issues often appear only after demolition reveals what is really inside the walls or ceilings. Problems may include outdated accessibility features, insufficient exits, missing fire protection, or previous work that does not match current standards. When that happens, the contractor and design team usually need to revise drawings, coordinate with reviewers, and update the scope before continuing. This can extend the schedule and increase costs, but ignoring the issue can create bigger problems later during inspections or occupancy sign-off. The best defense is to expect some level of corrective work in older buildings and keep a contingency reserve for code-related upgrades.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If code-related issues are uncovered during renovation, the project may need revised drawings, added scope, and extra inspections before work can continue. Thes"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-are-usually-required-for-ground-up-commercial-construction-in-los-a",
+  "name": "What permits are needed for ground-up commercial construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits are usually required for ground-up commercial construction in Los Angeles and nearby cities?",
+    "text": "What permits are usually required for ground-up commercial construction in Los Angeles and nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The permits needed for ground-up commercial construction in Los Angeles depend on the exact site, building use, and jurisdiction. In many cases, owners need zoning or planning clearance first, followed by building permits for structural work, mechanical, electrical, plumbing, fire/life safety systems, and sometimes grading or shoring. If the project affects the sidewalk, curb, driveway, or street frontage, separate public works or encroachment approvals may also be required. Nearby cities such as Glendale, Pasadena, Burbank, and North Hollywood often have their own review workflows, so the process is not identical from one city to the next. Some projects also trigger environmental review, stormwater management requirements, accessibility review, and utility company coordination. Fire department comments can affect layouts, hydrant placement, sprinkler design, and access routes. The safest approach is to complete a permit matrix during preconstruction that lists every required agency, submittal package, and estimated review time. That matrix should also identify who is responsible for each application and what drawings or calculations must be included. A contractor with local experience can help reduce delays by flagging missing documents before the city issues corrections.",
+      "@type": "Answer",
+      "description": "Ground-up commercial construction in Los Angeles typically requires zoning review, building permits, structural and MEP permits, grading or excavation permits if needed, fire department review, and utility approvals. Depending on the site, you may also need planning approvals, environmental review, stormwater compliance, and street-use permits. Requirements vary by city and by project scope, so early permit review is essential.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The permits needed for ground-up commercial construction in Los Angeles depend on the exact site, building use, and jurisdiction. In many cases, owners need zoning or planning clearance first, followed by building permits for structural work, mechanical, electrical, plumbing, fire/life safety systems, and sometimes grading or shoring. If the project affects the sidewalk, curb, driveway, or street frontage, separate public works or encroachment approvals may also be required. Nearby cities such as Glendale, Pasadena, Burbank, and North Hollywood often have their own review workflows, so the process is not identical from one city to the next. Some projects also trigger environmental review, stormwater management requirements, accessibility review, and utility company coordination. Fire department comments can affect layouts, hydrant placement, sprinkler design, and access routes. The safest approach is to complete a permit matrix during preconstruction that lists every required agency, submittal package, and estimated review time. That matrix should also identify who is responsible for each application and what drawings or calculations must be included. A contractor with local experience can help reduce delays by flagging missing documents before the city issues corrections.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ground-up commercial construction in Los Angeles typically requires zoning review, building permits, structural and MEP permits, grading or excavation permits i"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-an-owner-tell-if-a-commercial-lot-in-los-angeles-is-actually-buildable-b",
+  "name": "How do you know if a site is buildable?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can an owner tell if a commercial lot in Los Angeles is actually buildable before buying it?",
+    "text": "How can an owner tell if a commercial lot in Los Angeles is actually buildable before buying it?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A commercial lot may look buildable, but that does not mean it is practical or profitable to develop. Before buying a site in Los Angeles, owners should complete a feasibility review that checks zoning, allowable use, setbacks, lot coverage, parking, fire access, grading, utility availability, and environmental conditions. If any one of those items is weak, the project can become much more expensive or even unworkable. The most important question is not just whether a building can fit, but whether it can fit efficiently and legally. A site with unusual shape, easements, slope, poor access, or utility limitations may require design compromises that reduce value. In some cases, a lot is technically buildable but only with major cost premiums. Owners should use a design-build or preconstruction team to test the site before closing. That team can estimate whether the concept is realistic and identify red flags early. A buildability review is far cheaper than discovering the problem after escrow closes. If the parcel cannot support the desired project, the owner can walk away or renegotiate before committing capital.",
+      "@type": "Answer",
+      "description": "A lot is buildable only if zoning, setbacks, access, utilities, fire requirements, parking, grading, and environmental conditions all support the intended project. A feasibility review should be done before purchase, not after. A site that looks usable on paper may still have hidden constraints that make construction expensive or impossible.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A commercial lot may look buildable, but that does not mean it is practical or profitable to develop. Before buying a site in Los Angeles, owners should complete a feasibility review that checks zoning, allowable use, setbacks, lot coverage, parking, fire access, grading, utility availability, and environmental conditions. If any one of those items is weak, the project can become much more expensive or even unworkable. The most important question is not just whether a building can fit, but whether it can fit efficiently and legally. A site with unusual shape, easements, slope, poor access, or utility limitations may require design compromises that reduce value. In some cases, a lot is technically buildable but only with major cost premiums. Owners should use a design-build or preconstruction team to test the site before closing. That team can estimate whether the concept is realistic and identify red flags early. A buildability review is far cheaper than discovering the problem after escrow closes. If the parcel cannot support the desired project, the owner can walk away or renegotiate before committing capital.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A lot is buildable only if zoning, setbacks, access, utilities, fire requirements, parking, grading, and environmental conditions all support the intended proje"
+}

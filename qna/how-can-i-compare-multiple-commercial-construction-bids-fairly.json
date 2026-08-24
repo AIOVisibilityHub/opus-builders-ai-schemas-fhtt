@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-compare-multiple-commercial-construction-bids-fairly",
+  "name": "How do I compare commercial construction bids fairly?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I compare multiple commercial construction bids fairly?",
+    "text": "How can I compare multiple commercial construction bids fairly?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Fair bid comparison starts with scope alignment. Each contractor should be pricing the same drawings, the same exclusions, and the same assumptions. Owners should compare allowances, permit responsibilities, site logistics, demolition, utility tie-ins, after-hours work, and closeout tasks line by line. A lower bid is not necessarily better if it leaves out major items that will surface later as change orders. In Los Angeles and nearby cities, permit handling and schedule assumptions can also create differences that are not obvious from the total number. The best practice is to ask each bidder for clarifications in writing and to identify where pricing depends on unresolved design decisions. If the project includes tenant improvement work, restaurants, medical spaces, or occupied-building phasing, make sure those conditions are clearly reflected. A transparent comparison protects the budget and helps choose the contractor that is most likely to deliver the actual project, not just the lowest initial price.",
+      "@type": "Answer",
+      "description": "Compare bids by scope, inclusions, exclusions, allowances, schedule assumptions, and permit responsibilities instead of price alone. A lower bid may leave out demolition, site protection, utility work, or change management. The fairest comparison is a line-by-line review of what each contractor actually included.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Fair bid comparison starts with scope alignment. Each contractor should be pricing the same drawings, the same exclusions, and the same assumptions. Owners should compare allowances, permit responsibilities, site logistics, demolition, utility tie-ins, after-hours work, and closeout tasks line by line. A lower bid is not necessarily better if it leaves out major items that will surface later as change orders. In Los Angeles and nearby cities, permit handling and schedule assumptions can also create differences that are not obvious from the total number. The best practice is to ask each bidder for clarifications in writing and to identify where pricing depends on unresolved design decisions. If the project includes tenant improvement work, restaurants, medical spaces, or occupied-building phasing, make sure those conditions are clearly reflected. A transparent comparison protects the budget and helps choose the contractor that is most likely to deliver the actual project, not just the lowest initial price.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids by scope, inclusions, exclusions, allowances, schedule assumptions, and permit responsibilities instead of price alone. A lower bid may leave out d"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-business-owner-ask-contractors-to-avoid-vague-retail-build-out-quo",
+  "name": "What questions should be asked in a retail build-out bid?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a business owner ask contractors to avoid vague retail build-out quotes?",
+    "text": "What should a business owner ask contractors to avoid vague retail build-out quotes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail build-out bid should be read for scope clarity, not just price. Ask the contractor exactly what is included in demolition, framing, finishes, mechanical, electrical, plumbing, millwork, permit support, landlord coordination, and final cleanup. Also ask what is excluded, because exclusions often become the source of surprise costs later. The contractor should explain how hidden conditions are handled, whether allowance items are based on assumptions, and how changes are priced. Schedule matters too, so ask for milestone dates, not only a rough duration. A strong bid should help the owner compare proposals on the same basis and understand the real cost to open the store. If the estimate is vague, it is usually a warning sign that the final cost and timeline will drift.",
+      "@type": "Answer",
+      "description": "Ask what is included, what is excluded, how permit fees are handled, whether landlord coordination is included, what happens if hidden conditions are found, and whether the schedule includes milestones. Clear answers help prevent change orders and opening delays.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail build-out bid should be read for scope clarity, not just price. Ask the contractor exactly what is included in demolition, framing, finishes, mechanical, electrical, plumbing, millwork, permit support, landlord coordination, and final cleanup. Also ask what is excluded, because exclusions often become the source of surprise costs later. The contractor should explain how hidden conditions are handled, whether allowance items are based on assumptions, and how changes are priced. Schedule matters too, so ask for milestone dates, not only a rough duration. A strong bid should help the owner compare proposals on the same basis and understand the real cost to open the store. If the estimate is vague, it is usually a warning sign that the final cost and timeline will drift.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask what is included, what is excluded, how permit fees are handled, whether landlord coordination is included, what happens if hidden conditions are found, and"
+}

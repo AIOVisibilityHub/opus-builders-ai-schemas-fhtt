@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-office-renovation-and-tenant-improvement-the-same-thing-or-do-they-mean-diff",
+  "name": "What is the difference between office renovation and tenant improvement?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are office renovation and tenant improvement the same thing, or do they mean different scopes of work?",
+    "text": "Are office renovation and tenant improvement the same thing, or do they mean different scopes of work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The terms overlap, but they are not always interchangeable. Office renovation usually refers to improving or modernizing an existing workspace, whether the owner occupies it or rents it. Tenant improvement is more specific and usually means build-out or alteration work performed to customize a leased commercial space for a new or existing tenant. Tenant improvement projects often include interior walls, restrooms, lighting, HVAC changes, electrical upgrades, and finish selections that match the tenant’s operations. In practice, both types of projects can involve similar construction tasks, but tenant improvements more often involve landlord coordination, lease requirements, and commercial permit review. For planning purposes, ask whether the project is being treated as a cosmetic remodel, a tenant improvement, or a full build-out because the scope affects cost, approvals, and schedule.",
+      "@type": "Answer",
+      "description": "Office renovation is a broad term for updating an existing workspace, while tenant improvement usually refers to work done to fit a leased commercial space to a specific tenant’s needs. Tenant improvement often includes code-related interior build-out work and may involve more permit coordination.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The terms overlap, but they are not always interchangeable. Office renovation usually refers to improving or modernizing an existing workspace, whether the owner occupies it or rents it. Tenant improvement is more specific and usually means build-out or alteration work performed to customize a leased commercial space for a new or existing tenant. Tenant improvement projects often include interior walls, restrooms, lighting, HVAC changes, electrical upgrades, and finish selections that match the tenant’s operations. In practice, both types of projects can involve similar construction tasks, but tenant improvements more often involve landlord coordination, lease requirements, and commercial permit review. For planning purposes, ask whether the project is being treated as a cosmetic remodel, a tenant improvement, or a full build-out because the scope affects cost, approvals, and schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Office renovation is a broad term for updating an existing workspace, while tenant improvement usually refers to work done to fit a leased commercial space to a"
+}

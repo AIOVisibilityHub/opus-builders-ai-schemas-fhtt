@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-retail-tenant-improvement-plans-get-rejected-or-sent-back-for-corrections",
+  "name": "What are the most common reasons TI plans are rejected?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do retail tenant improvement plans get rejected or sent back for corrections in Los Angeles-area cities?",
+    "text": "Why do retail tenant improvement plans get rejected or sent back for corrections in Los Angeles-area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail TI plan check comments usually come from incomplete or inconsistent documents. Common problems include missing sheet references, unclear tenant scope, accessibility issues, inconsistent floor plans, incomplete electrical or mechanical details, wrong occupancy assumptions, and missing fire or plumbing information. Projects also get delayed when landlord review requirements were not addressed or when the design team did not coordinate across all disciplines. To reduce corrections, submit a complete plan set, verify code assumptions early, and make sure architectural, structural, mechanical, electrical, plumbing, and fire protection documents all match. A coordinated package is much more likely to pass review with fewer rounds.",
+      "@type": "Answer",
+      "description": "Common rejection reasons include incomplete drawings, missing calculations, unclear scope, accessibility issues, code conflicts, wrong occupancy assumptions, and missing trade sheets. Landlord standards, fire review, and jurisdiction-specific requirements can also create corrections.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail TI plan check comments usually come from incomplete or inconsistent documents. Common problems include missing sheet references, unclear tenant scope, accessibility issues, inconsistent floor plans, incomplete electrical or mechanical details, wrong occupancy assumptions, and missing fire or plumbing information. Projects also get delayed when landlord review requirements were not addressed or when the design team did not coordinate across all disciplines. To reduce corrections, submit a complete plan set, verify code assumptions early, and make sure architectural, structural, mechanical, electrical, plumbing, and fire protection documents all match. A coordinated package is much more likely to pass review with fewer rounds.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common rejection reasons include incomplete drawings, missing calculations, unclear scope, accessibility issues, code conflicts, wrong occupancy assumptions, an"
+}

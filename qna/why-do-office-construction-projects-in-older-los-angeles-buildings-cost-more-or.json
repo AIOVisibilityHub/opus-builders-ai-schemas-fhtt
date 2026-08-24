@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-office-construction-projects-in-older-los-angeles-buildings-cost-more-or",
+  "name": "How do office build-outs change in older Los Angeles buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do office construction projects in older Los Angeles buildings cost more or take longer than newer ones?",
+    "text": "Why do office construction projects in older Los Angeles buildings cost more or take longer than newer ones?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Office build-outs in older Los Angeles buildings tend to cost more and take longer because the existing infrastructure is less predictable. Older electrical service may not support the new layout, HVAC may be undersized, plumbing can be difficult to reroute, and fire protection or accessibility items may need upgrading. Once demolition begins, contractors often find conditions that were not visible during the walk-through, which can trigger redesign or change orders. Older buildings in neighborhoods like Pasadena, North Hollywood, and Burbank may also have layout quirks that make coordination harder. The best way to manage the risk is to inspect early, price conservatively, and expect some unknowns. A space with lower rent can still be a poor deal if the building requires extensive work to support a modern office layout. Preconstruction due diligence is especially valuable in older inventory.",
+      "@type": "Answer",
+      "description": "Older buildings often have outdated electrical, HVAC, plumbing, and fire protection systems that must be upgraded when the office is reconfigured. Hidden conditions are common behind walls and above ceilings. That uncertainty usually increases cost, schedule risk, and permit complexity.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Office build-outs in older Los Angeles buildings tend to cost more and take longer because the existing infrastructure is less predictable. Older electrical service may not support the new layout, HVAC may be undersized, plumbing can be difficult to reroute, and fire protection or accessibility items may need upgrading. Once demolition begins, contractors often find conditions that were not visible during the walk-through, which can trigger redesign or change orders. Older buildings in neighborhoods like Pasadena, North Hollywood, and Burbank may also have layout quirks that make coordination harder. The best way to manage the risk is to inspect early, price conservatively, and expect some unknowns. A space with lower rent can still be a poor deal if the building requires extensive work to support a modern office layout. Preconstruction due diligence is especially valuable in older inventory.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older buildings often have outdated electrical, HVAC, plumbing, and fire protection systems that must be upgraded when the office is reconfigured. Hidden condit"
+}

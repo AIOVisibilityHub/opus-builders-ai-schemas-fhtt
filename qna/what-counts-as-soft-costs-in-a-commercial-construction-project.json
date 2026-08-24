@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-counts-as-soft-costs-in-a-commercial-construction-project",
+  "name": "What is a soft cost in commercial construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What counts as soft costs in a commercial construction project?",
+    "text": "What counts as soft costs in a commercial construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Soft costs are the expenses that support the build but are not part of physical construction. They commonly include architecture, structural and MEP engineering, surveys, geotechnical reports, permits, plan check, testing, inspections, financing costs, and sometimes legal or entitlement work. In commercial projects, soft costs can become substantial because the approval process often requires multiple reviewers and technical consultants. Older buildings, change-of-use projects, and restaurant or medical build-outs can push soft costs even higher. Owners should plan for these expenses early so the budget reflects the full cost of getting from idea to occupancy. A construction estimate that only covers labor and materials can look affordable but still be far short of the actual project total.",
+      "@type": "Answer",
+      "description": "Soft costs are non-construction expenses such as design, engineering, permits, plan check, surveys, testing, inspections, and project management. They can be a significant portion of the budget, especially in complex Los Angeles projects.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Soft costs are the expenses that support the build but are not part of physical construction. They commonly include architecture, structural and MEP engineering, surveys, geotechnical reports, permits, plan check, testing, inspections, financing costs, and sometimes legal or entitlement work. In commercial projects, soft costs can become substantial because the approval process often requires multiple reviewers and technical consultants. Older buildings, change-of-use projects, and restaurant or medical build-outs can push soft costs even higher. Owners should plan for these expenses early so the budget reflects the full cost of getting from idea to occupancy. A construction estimate that only covers labor and materials can look affordable but still be far short of the actual project total.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Soft costs are non-construction expenses such as design, engineering, permits, plan check, surveys, testing, inspections, and project management. They can be a "
+}

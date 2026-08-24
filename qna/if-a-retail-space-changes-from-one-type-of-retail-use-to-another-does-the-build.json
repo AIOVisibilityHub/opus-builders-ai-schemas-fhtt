@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-a-retail-space-changes-from-one-type-of-retail-use-to-another-does-the-build",
+  "name": "What happens if the retail project changes use category?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If a retail space changes from one type of retail use to another, does the build-out need extra approvals?",
+    "text": "If a retail space changes from one type of retail use to another, does the build-out need extra approvals?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A retail project can need extra approvals if the new concept changes how the space is used. For example, a standard boutique, a showroom, a specialty goods store, and a retail space with food service support can all be treated differently if the use affects occupant load, plumbing, ventilation, fire protection, or accessibility. Even when the overall category remains retail, the building department may require a different permit path if the layout, equipment, or customer flow changes enough. That is why existing use verification matters before design is finalized. The safest approach is to confirm the intended use early and compare it against the current approved use of the space. If there is a mismatch, the project team can address it during design instead of discovering it late in plan check.",
+      "@type": "Answer",
+      "description": "Possibly. A change in use category can trigger additional review if the new retail concept affects occupancy, fire life safety, plumbing, ventilation, or accessibility. Even when the space stays retail, the specific use can change the permit path.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A retail project can need extra approvals if the new concept changes how the space is used. For example, a standard boutique, a showroom, a specialty goods store, and a retail space with food service support can all be treated differently if the use affects occupant load, plumbing, ventilation, fire protection, or accessibility. Even when the overall category remains retail, the building department may require a different permit path if the layout, equipment, or customer flow changes enough. That is why existing use verification matters before design is finalized. The safest approach is to confirm the intended use early and compare it against the current approved use of the space. If there is a mismatch, the project team can address it during design instead of discovering it late in plan check.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Possibly. A change in use category can trigger additional review if the new retail concept affects occupancy, fire life safety, plumbing, ventilation, or access"
+}

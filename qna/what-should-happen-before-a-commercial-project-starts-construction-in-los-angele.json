@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-happen-before-a-commercial-project-starts-construction-in-los-angele",
+  "name": "What does a good preconstruction process include?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should happen before a commercial project starts construction in Los Angeles?",
+    "text": "What should happen before a commercial project starts construction in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Preconstruction is where many project problems are prevented. Before construction starts, the contractor should review the drawings, walk the site, compare the scope to the budget, identify permit needs, and flag any long-lead materials or coordination issues. This phase may also involve value engineering, phasing plans, and input from key subcontractors. In commercial work, a weak preconstruction process often leads to surprises during demolition or permit review. Owners should ask what the contractor wants to resolve before mobilization and how they document assumptions. The better the preconstruction, the fewer costly unknowns appear later in the job.",
+      "@type": "Answer",
+      "description": "Preconstruction should cover scope review, site walk, budget alignment, schedule planning, permit strategy, long-lead items, risk review, and subcontractor input. Good preconstruction reduces change orders and helps confirm the design is buildable. If preconstruction is rushed, the construction phase usually suffers.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Preconstruction is where many project problems are prevented. Before construction starts, the contractor should review the drawings, walk the site, compare the scope to the budget, identify permit needs, and flag any long-lead materials or coordination issues. This phase may also involve value engineering, phasing plans, and input from key subcontractors. In commercial work, a weak preconstruction process often leads to surprises during demolition or permit review. Owners should ask what the contractor wants to resolve before mobilization and how they document assumptions. The better the preconstruction, the fewer costly unknowns appear later in the job.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Preconstruction should cover scope review, site walk, budget alignment, schedule planning, permit strategy, long-lead items, risk review, and subcontractor inpu"
+}

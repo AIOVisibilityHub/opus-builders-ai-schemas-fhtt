@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-hidden-costs-usually-surprise-owners-during-retail-tenant-improvement-proje",
+  "name": "What are the biggest hidden costs in a retail TI?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What hidden costs usually surprise owners during retail tenant improvement projects?",
+    "text": "What hidden costs usually surprise owners during retail tenant improvement projects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail tenant improvements often cost more than the initial estimate because the obvious construction is only part of the total. Hidden costs can include redesign, plan corrections, landlord coordination fees, utility upgrades, temporary protection, overtime work, permit revisions, and code-triggered changes. Older buildings can also reveal structural, electrical, or plumbing conditions that were not visible during early walkthroughs. The best defense is to budget for soft costs and contingency, not just visible finishes. A clear scope, complete site survey, and early code review reduce the chance of surprises, but they do not eliminate them. Owners who plan only for the lowest bid often end up spending more once change orders begin.",
+      "@type": "Answer",
+      "description": "Common hidden costs include code upgrades, utility improvements, after-hours work, design revisions, landlord review fees, and city corrections. Older buildings and projects with plumbing, HVAC, or accessibility changes are especially prone to unexpected costs.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail tenant improvements often cost more than the initial estimate because the obvious construction is only part of the total. Hidden costs can include redesign, plan corrections, landlord coordination fees, utility upgrades, temporary protection, overtime work, permit revisions, and code-triggered changes. Older buildings can also reveal structural, electrical, or plumbing conditions that were not visible during early walkthroughs. The best defense is to budget for soft costs and contingency, not just visible finishes. A clear scope, complete site survey, and early code review reduce the chance of surprises, but they do not eliminate them. Owners who plan only for the lowest bid often end up spending more once change orders begin.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common hidden costs include code upgrades, utility improvements, after-hours work, design revisions, landlord review fees, and city corrections. Older buildings"
+}

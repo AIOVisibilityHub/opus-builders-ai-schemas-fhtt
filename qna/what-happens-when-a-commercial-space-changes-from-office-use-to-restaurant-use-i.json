@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-when-a-commercial-space-changes-from-office-use-to-restaurant-use-i",
+  "name": "What if a building use changes from office to restaurant?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens when a commercial space changes from office use to restaurant use in Los Angeles?",
+    "text": "What happens when a commercial space changes from office use to restaurant use in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Changing a space from office to restaurant is one of the most complex commercial transitions because restaurant use brings heavier plumbing, ventilation, grease management, fire suppression, and occupancy demands. The building may also need updated restroom counts, accessibility corrections, and stronger electrical and mechanical systems. Depending on location and scope, zoning or other use approvals may also be required before construction can proceed. This type of project should be treated as a full code exercise, not just an interior redesign. Owners should confirm whether the existing building can support the new use before committing to a lease or design package. Early feasibility review can prevent expensive surprises such as undersized utilities, insufficient exhaust routing, or a layout that cannot pass plan check.",
+      "@type": "Answer",
+      "description": "An office-to-restaurant change usually triggers more code review, including occupancy, plumbing, ventilation, fire protection, accessibility, and sometimes zoning approval. It often costs more and takes longer than a standard office remodel because the building systems must support kitchen operations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Changing a space from office to restaurant is one of the most complex commercial transitions because restaurant use brings heavier plumbing, ventilation, grease management, fire suppression, and occupancy demands. The building may also need updated restroom counts, accessibility corrections, and stronger electrical and mechanical systems. Depending on location and scope, zoning or other use approvals may also be required before construction can proceed. This type of project should be treated as a full code exercise, not just an interior redesign. Owners should confirm whether the existing building can support the new use before committing to a lease or design package. Early feasibility review can prevent expensive surprises such as undersized utilities, insufficient exhaust routing, or a layout that cannot pass plan check.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An office-to-restaurant change usually triggers more code review, including occupancy, plumbing, ventilation, fire protection, accessibility, and sometimes zoni"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-safe-process-for-scheduling-water-power-or-hvac-shutdowns-during-a-c",
+  "name": "How do commercial contractors handle utility shutoffs?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the safe process for scheduling water, power, or HVAC shutdowns during a commercial build-out?",
+    "text": "What is the safe process for scheduling water, power, or HVAC shutdowns during a commercial build-out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility shutdowns are one of the most disruptive parts of a commercial project, so they need careful coordination. The contractor should identify which shutoffs are needed, how long they will last, who must approve them, and whether temporary service is required. In occupied buildings, shutdowns may need to happen after hours or in tightly controlled windows. The contractor should also coordinate with affected tenants, building management, and specialty trades so that one outage does not cascade into multiple delays. Owners should ask for the shutdown plan before work begins, especially if the project includes plumbing, electrical, fire systems, or HVAC changes. A contractor who handles utility coordination well will usually keep the rest of the project moving more smoothly.",
+      "@type": "Answer",
+      "description": "Utility shutoffs should be planned in advance, coordinated with the owner and affected tenants, and scheduled when impact is lowest. The contractor should confirm who authorizes each shutdown and how temporary service will be maintained if needed. Poorly planned outages can stop work and disrupt business operations.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility shutdowns are one of the most disruptive parts of a commercial project, so they need careful coordination. The contractor should identify which shutoffs are needed, how long they will last, who must approve them, and whether temporary service is required. In occupied buildings, shutdowns may need to happen after hours or in tightly controlled windows. The contractor should also coordinate with affected tenants, building management, and specialty trades so that one outage does not cascade into multiple delays. Owners should ask for the shutdown plan before work begins, especially if the project includes plumbing, electrical, fire systems, or HVAC changes. A contractor who handles utility coordination well will usually keep the rest of the project moving more smoothly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utility shutoffs should be planned in advance, coordinated with the owner and affected tenants, and scheduled when impact is lowest. The contractor should confi"
+}

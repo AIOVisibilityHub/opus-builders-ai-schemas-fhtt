@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-storefront-changes-and-retail-signage-need-separate-approvals-in-los-angeles",
+  "name": "How do storefront and signage approvals work together?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do storefront changes and retail signage need separate approvals in Los Angeles-area projects?",
+    "text": "Do storefront changes and retail signage need separate approvals in Los Angeles-area projects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Storefront work and signage are often related, but they are not always approved on the same track. A storefront change may need architectural and building review, while signs may require separate landlord approval, design review, and city compliance. This is especially true in centers with strict tenant criteria or in districts where sign size, placement, illumination, and materials are regulated. If signage is treated as an afterthought, the store may be finished but still not fully ready to open. The safest strategy is to coordinate storefront and signage from the beginning so the brand package, permit drawings, and landlord standards all match.",
+      "@type": "Answer",
+      "description": "Often yes. Storefront alterations may go through building and design review, while signage may require separate landlord and city approvals. If the project is in a shopping center or district with design controls, signage can become a separate bottleneck.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Storefront work and signage are often related, but they are not always approved on the same track. A storefront change may need architectural and building review, while signs may require separate landlord approval, design review, and city compliance. This is especially true in centers with strict tenant criteria or in districts where sign size, placement, illumination, and materials are regulated. If signage is treated as an afterthought, the store may be finished but still not fully ready to open. The safest strategy is to coordinate storefront and signage from the beginning so the brand package, permit drawings, and landlord standards all match.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Often yes. Storefront alterations may go through building and design review, while signage may require separate landlord and city approvals. If the project is i"
+}

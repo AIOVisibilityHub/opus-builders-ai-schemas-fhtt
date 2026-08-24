@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-important-questions-to-ask-a-commercial-builder-before-startin",
+  "name": "What questions should I ask before signing a commercial construction contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most important questions to ask a commercial builder before starting a project?",
+    "text": "What are the most important questions to ask a commercial builder before starting a project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing, owners should ask about permit responsibility, scope boundaries, schedule assumptions, and how corrections or changes are priced. It is also important to know who coordinates inspections, submittals, utility tie-ins, and closeout documents. Ask for recent project references that match your type of build-out, because commercial construction is highly specialized. Insurance, licensing, and subcontractor management should be verified, along with how the contractor handles delays caused by plan check or unforeseen field conditions. The goal is to avoid vague proposals that look complete but leave out critical items such as demolition, utility fees, fire protection changes, or final cleanup. A clear, detailed contract protects both budget and timeline.",
+      "@type": "Answer",
+      "description": "Ask who handles permits, what is included and excluded, how change orders work, who manages inspections, what the schedule is, and how long-lead items are handled. Also confirm insurance, licensing, subcontractor coordination, and closeout responsibilities.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing, owners should ask about permit responsibility, scope boundaries, schedule assumptions, and how corrections or changes are priced. It is also important to know who coordinates inspections, submittals, utility tie-ins, and closeout documents. Ask for recent project references that match your type of build-out, because commercial construction is highly specialized. Insurance, licensing, and subcontractor management should be verified, along with how the contractor handles delays caused by plan check or unforeseen field conditions. The goal is to avoid vague proposals that look complete but leave out critical items such as demolition, utility fees, fire protection changes, or final cleanup. A clear, detailed contract protects both budget and timeline.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask who handles permits, what is included and excluded, how change orders work, who manages inspections, what the schedule is, and how long-lead items are handl"
+}

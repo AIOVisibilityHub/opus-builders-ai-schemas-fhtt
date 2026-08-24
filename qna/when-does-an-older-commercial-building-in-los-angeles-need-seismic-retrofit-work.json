@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-an-older-commercial-building-in-los-angeles-need-seismic-retrofit-work",
+  "name": "How do I know if a commercial building needs seismic upgrades?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does an older commercial building in Los Angeles need seismic retrofit work?",
+    "text": "When does an older commercial building in Los Angeles need seismic retrofit work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Seismic retrofit needs depend on the building’s age, structural system, and what work is being done. Older buildings can trigger retrofit requirements if the project uncovers weak lateral systems, major structural modifications, or a use change that increases code scrutiny. The issue is common in Los Angeles-area projects because many commercial buildings were built before modern seismic standards and may require strengthening before a new layout can be approved. Owners should not guess based on appearance alone; a structural assessment is the right first step. If retrofit work is needed, it should be coordinated early so the budget, design, and permit documents reflect the real scope. Waiting until after demolition can create major delays and expensive redesigns.",
+      "@type": "Answer",
+      "description": "Older commercial buildings may need seismic upgrades when structural deficiencies, change of use, or substantial renovations trigger code review. The need depends on the building’s age, framing system, and scope of work, so structural evaluation is essential before design begins.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Seismic retrofit needs depend on the building’s age, structural system, and what work is being done. Older buildings can trigger retrofit requirements if the project uncovers weak lateral systems, major structural modifications, or a use change that increases code scrutiny. The issue is common in Los Angeles-area projects because many commercial buildings were built before modern seismic standards and may require strengthening before a new layout can be approved. Owners should not guess based on appearance alone; a structural assessment is the right first step. If retrofit work is needed, it should be coordinated early so the budget, design, and permit documents reflect the real scope. Waiting until after demolition can create major delays and expensive redesigns.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older commercial buildings may need seismic upgrades when structural deficiencies, change of use, or substantial renovations trigger code review. The need depen"
+}

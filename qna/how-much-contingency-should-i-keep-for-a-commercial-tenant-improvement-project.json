@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-contingency-should-i-keep-for-a-commercial-tenant-improvement-project",
+  "name": "How do I budget for tenant improvement contingency?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much contingency should I keep for a commercial tenant improvement project?",
+    "text": "How much contingency should I keep for a commercial tenant improvement project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A contingency is the safety margin that protects the project when real conditions differ from the plan. For commercial tenant improvements, the right amount depends on building age, scope complexity, and how complete the design is before bidding. Older buildings and projects that involve restaurants, medical spaces, or structural changes usually deserve a higher contingency because hidden conditions are more likely. Good contingency planning also covers permit corrections, utility surprises, minor design revisions, and small contractor gaps that can appear after the work starts. Owners should not treat contingency as wasted money; it is a practical tool that keeps the project moving without constant scope fights. The best time to set it is before final pricing, after the team has a realistic view of the building and the permit path.",
+      "@type": "Answer",
+      "description": "A tenant improvement contingency should cover hidden conditions, permit corrections, pricing changes, and small scope gaps. Older buildings and complex uses usually need a larger contingency than simple, newly serviced spaces.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A contingency is the safety margin that protects the project when real conditions differ from the plan. For commercial tenant improvements, the right amount depends on building age, scope complexity, and how complete the design is before bidding. Older buildings and projects that involve restaurants, medical spaces, or structural changes usually deserve a higher contingency because hidden conditions are more likely. Good contingency planning also covers permit corrections, utility surprises, minor design revisions, and small contractor gaps that can appear after the work starts. Owners should not treat contingency as wasted money; it is a practical tool that keeps the project moving without constant scope fights. The best time to set it is before final pricing, after the team has a realistic view of the building and the permit path.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A tenant improvement contingency should cover hidden conditions, permit corrections, pricing changes, and small scope gaps. Older buildings and complex uses usu"
+}

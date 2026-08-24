@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-included-in-an-office-renovation-estimate-so-i-can-compare-bids-a",
+  "name": "What is included in an office tenant improvement bid?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in an office renovation estimate so I can compare bids accurately?",
+    "text": "What should be included in an office renovation estimate so I can compare bids accurately?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A complete office renovation estimate should be detailed enough to show exactly what is being priced and what is not. Look for line items covering demolition, framing, drywall, doors, glazing, flooring, paint, electrical, plumbing, HVAC, fire protection, millwork, fixtures, and finish materials. The proposal should also identify permit coordination, site supervision, dumpster costs, cleanup, protection of existing areas, and any allowance items for final selections. Exclusions matter just as much as inclusions because unclear bids often lead to change orders later. The most reliable proposals also note assumptions about working hours, access, and existing conditions so you can compare contractors on equal terms.",
+      "@type": "Answer",
+      "description": "A good office renovation bid should clearly separate demolition, framing, drywall, electrical, plumbing, HVAC, finishes, permit fees, general conditions, and allowances. It should also state what is excluded, who handles inspections, and whether the price includes cleanup, supervision, and contingency items.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A complete office renovation estimate should be detailed enough to show exactly what is being priced and what is not. Look for line items covering demolition, framing, drywall, doors, glazing, flooring, paint, electrical, plumbing, HVAC, fire protection, millwork, fixtures, and finish materials. The proposal should also identify permit coordination, site supervision, dumpster costs, cleanup, protection of existing areas, and any allowance items for final selections. Exclusions matter just as much as inclusions because unclear bids often lead to change orders later. The most reliable proposals also note assumptions about working hours, access, and existing conditions so you can compare contractors on equal terms.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A good office renovation bid should clearly separate demolition, framing, drywall, electrical, plumbing, HVAC, finishes, permit fees, general conditions, and al"
+}

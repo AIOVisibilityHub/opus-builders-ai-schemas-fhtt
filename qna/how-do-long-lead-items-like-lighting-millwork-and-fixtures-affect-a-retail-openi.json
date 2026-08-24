@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-long-lead-items-like-lighting-millwork-and-fixtures-affect-a-retail-openi",
+  "name": "How do long-lead items affect a retail opening date?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do long-lead items like lighting, millwork, and fixtures affect a retail opening date?",
+    "text": "How do long-lead items like lighting, millwork, and fixtures affect a retail opening date?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Long-lead items are a frequent cause of retail opening delays because they must be ordered well before the project is finished. Custom millwork, specialty lighting, branded fixtures, display systems, and signage often take weeks or months to fabricate and deliver. If these items are not selected early, they can hold up installation, inspections, or merchandising. Retail owners should identify long-lead items during design and confirm lead times before finalizing the schedule. A construction plan that ignores procurement timing can look on paper like a short project but still miss the opening date. Early ordering and clear approval deadlines help keep the project moving and reduce last-minute substitutions.",
+      "@type": "Answer",
+      "description": "Long-lead items can delay a retail opening if they are ordered too late or depend on custom fabrication. Lighting, millwork, signage, and specialty fixtures often need early approval so they arrive before finish work is complete.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Long-lead items are a frequent cause of retail opening delays because they must be ordered well before the project is finished. Custom millwork, specialty lighting, branded fixtures, display systems, and signage often take weeks or months to fabricate and deliver. If these items are not selected early, they can hold up installation, inspections, or merchandising. Retail owners should identify long-lead items during design and confirm lead times before finalizing the schedule. A construction plan that ignores procurement timing can look on paper like a short project but still miss the opening date. Early ordering and clear approval deadlines help keep the project moving and reduce last-minute substitutions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Long-lead items can delay a retail opening if they are ordered too late or depend on custom fabrication. Lighting, millwork, signage, and specialty fixtures oft"
+}

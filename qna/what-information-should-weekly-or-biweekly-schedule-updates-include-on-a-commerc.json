@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-information-should-weekly-or-biweekly-schedule-updates-include-on-a-commerc",
+  "name": "What should a commercial contractor include in a schedule update?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What information should weekly or biweekly schedule updates include on a commercial project?",
+    "text": "What information should weekly or biweekly schedule updates include on a commercial project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Schedule updates should be actionable, not generic. The owner needs to know what was completed, what is coming next, what is blocking progress, and whether the completion date has changed. Good updates also identify long-lead materials, pending inspection dates, subcontractor sequencing issues, and any decisions the owner must make to keep work moving. On commercial projects, a contractor should be able to explain the critical path and not just say the job is “on track.” This matters because a small delay in one trade can affect the whole chain of work. If the contractor provides only a percentage complete without context, the report is too shallow to manage a real project. Owners should expect regular, specific updates tied to actual milestones.",
+      "@type": "Answer",
+      "description": "A useful schedule update should list completed work, next milestones, critical path items, delays, material lead times, inspection dates, and decisions needed from the owner. Updates should also show whether the finish date is changing and why. Vague progress notes do not help owners manage risk.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Schedule updates should be actionable, not generic. The owner needs to know what was completed, what is coming next, what is blocking progress, and whether the completion date has changed. Good updates also identify long-lead materials, pending inspection dates, subcontractor sequencing issues, and any decisions the owner must make to keep work moving. On commercial projects, a contractor should be able to explain the critical path and not just say the job is “on track.” This matters because a small delay in one trade can affect the whole chain of work. If the contractor provides only a percentage complete without context, the report is too shallow to manage a real project. Owners should expect regular, specific updates tied to actual milestones.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A useful schedule update should list completed work, next milestones, critical path items, delays, material lead times, inspection dates, and decisions needed f"
+}

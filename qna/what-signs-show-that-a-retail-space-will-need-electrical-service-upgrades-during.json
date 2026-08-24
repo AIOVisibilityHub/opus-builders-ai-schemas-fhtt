@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-signs-show-that-a-retail-space-will-need-electrical-service-upgrades-during",
+  "name": "When do retail build-outs need electrical upgrades?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What signs show that a retail space will need electrical service upgrades during the build-out?",
+    "text": "What signs show that a retail space will need electrical service upgrades during the build-out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail spaces often need electrical upgrades when the planned tenant uses more power than the existing system was designed to handle. Common triggers include extensive lighting, illuminated signage, display refrigeration, specialty equipment, upgraded HVAC, multiple point-of-sale stations, and custom millwork with integrated power. Older storefronts are especially risky because the existing panel, circuit capacity, or wiring may be outdated. If the electrical system cannot support the new layout, the project may require panel upgrades, new circuits, or coordination with the utility and permit reviewers. That can affect both cost and timeline. Before design is finalized, the contractor or engineer should verify available service capacity so the project does not reach construction only to find out the power system is undersized.",
+      "@type": "Answer",
+      "description": "Electrical upgrades are often needed when the store has heavier lighting loads, more displays, POS equipment, signage, HVAC changes, or custom fixtures than the existing service can handle. Older spaces and previously underpowered units are especially likely to need upgrades.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail spaces often need electrical upgrades when the planned tenant uses more power than the existing system was designed to handle. Common triggers include extensive lighting, illuminated signage, display refrigeration, specialty equipment, upgraded HVAC, multiple point-of-sale stations, and custom millwork with integrated power. Older storefronts are especially risky because the existing panel, circuit capacity, or wiring may be outdated. If the electrical system cannot support the new layout, the project may require panel upgrades, new circuits, or coordination with the utility and permit reviewers. That can affect both cost and timeline. Before design is finalized, the contractor or engineer should verify available service capacity so the project does not reach construction only to find out the power system is undersized.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Electrical upgrades are often needed when the store has heavier lighting loads, more displays, POS equipment, signage, HVAC changes, or custom fixtures than the"
+}

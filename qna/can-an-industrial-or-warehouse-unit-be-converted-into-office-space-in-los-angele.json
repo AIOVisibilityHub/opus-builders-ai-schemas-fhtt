@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-industrial-or-warehouse-unit-be-converted-into-office-space-in-los-angele",
+  "name": "Can I build an office in a warehouse space in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an industrial or warehouse unit be converted into office space in Los Angeles, Glendale, or Burbank?",
+    "text": "Can an industrial or warehouse unit be converted into office space in Los Angeles, Glendale, or Burbank?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A warehouse can sometimes be converted into office space, but it is rarely a simple cosmetic remodel. The building must be evaluated for zoning, occupancy classification, parking requirements, accessibility, fire/life safety, and mechanical capacity. Industrial spaces often have limited daylight, different restroom counts, minimal insulation, and HVAC systems not sized for office occupancy. In Los Angeles, Glendale, and Burbank, the approval path can also depend on the property’s exact use and the level of tenant improvement required. If the plan is to create conference rooms, private offices, or client-facing areas, the project may need more code work than expected. Before committing to the lease or concept, confirm the space can legally support office use and estimate the cost of bringing it up to standard. If the building cannot reasonably support the conversion, the cheapest-looking space can become the most expensive project.",
+      "@type": "Answer",
+      "description": "A warehouse can sometimes be converted into office space, but the feasibility depends on zoning, occupancy, parking, accessibility, fire protection, and HVAC capacity. Industrial buildings often need significant upgrades before they can support code-compliant office use. The space must be checked before design begins.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A warehouse can sometimes be converted into office space, but it is rarely a simple cosmetic remodel. The building must be evaluated for zoning, occupancy classification, parking requirements, accessibility, fire/life safety, and mechanical capacity. Industrial spaces often have limited daylight, different restroom counts, minimal insulation, and HVAC systems not sized for office occupancy. In Los Angeles, Glendale, and Burbank, the approval path can also depend on the property’s exact use and the level of tenant improvement required. If the plan is to create conference rooms, private offices, or client-facing areas, the project may need more code work than expected. Before committing to the lease or concept, confirm the space can legally support office use and estimate the cost of bringing it up to standard. If the building cannot reasonably support the conversion, the cheapest-looking space can become the most expensive project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A warehouse can sometimes be converted into office space, but the feasibility depends on zoning, occupancy, parking, accessibility, fire protection, and HVAC ca"
+}

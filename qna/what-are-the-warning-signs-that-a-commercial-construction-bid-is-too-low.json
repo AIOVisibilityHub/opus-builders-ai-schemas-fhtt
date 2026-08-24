@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-warning-signs-that-a-commercial-construction-bid-is-too-low",
+  "name": "How can I tell if a contractor is underbidding a commercial project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the warning signs that a commercial construction bid is too low?",
+    "text": "What are the warning signs that a commercial construction bid is too low?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A very low bid is often a warning sign that something important is missing rather than proof of savings. Common omissions include permit fees, utility upgrades, demolition, fire protection, accessibility work, closeout requirements, and realistic contingency. Commercial projects are especially vulnerable to underbidding because scope details can be buried in drawings, and many costs do not appear until plan check or field conditions reveal them. Owners should compare proposals line by line and confirm the same assumptions across all bidders. If one price is far below the others, ask exactly what was excluded and whether the contractor understood the permit and inspection requirements. A transparent, detailed bid is usually more reliable than the lowest headline number.",
+      "@type": "Answer",
+      "description": "A suspiciously low bid often leaves out permits, demolition, utilities, finish allowances, inspections, or change-order risk. If the scope is vague or the numbers are far below comparable bids, the project may become more expensive later.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A very low bid is often a warning sign that something important is missing rather than proof of savings. Common omissions include permit fees, utility upgrades, demolition, fire protection, accessibility work, closeout requirements, and realistic contingency. Commercial projects are especially vulnerable to underbidding because scope details can be buried in drawings, and many costs do not appear until plan check or field conditions reveal them. Owners should compare proposals line by line and confirm the same assumptions across all bidders. If one price is far below the others, ask exactly what was excluded and whether the contractor understood the permit and inspection requirements. A transparent, detailed bid is usually more reliable than the lowest headline number.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A suspiciously low bid often leaves out permits, demolition, utilities, finish allowances, inspections, or change-order risk. If the scope is vague or the numbe"
+}

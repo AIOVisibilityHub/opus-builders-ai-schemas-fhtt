@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-an-office-renovation-trigger-a-new-certificate-of-occupancy-or-other-occupa",
+  "name": "Do I need a new Certificate of Occupancy after an office renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will an office renovation trigger a new Certificate of Occupancy or other occupancy sign-off?",
+    "text": "Will an office renovation trigger a new Certificate of Occupancy or other occupancy sign-off?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether a new Certificate of Occupancy is needed depends on how much the renovation changes the space. Simple cosmetic work usually does not affect occupancy status, but more substantial office renovations can trigger final approvals if they change layout, occupant load, exits, restrooms, accessibility, or life-safety systems. Even when a project does not require a brand-new certificate, it often still needs final inspections and sign-offs before the space can be legally occupied. The contractor should confirm this early because occupancy timing can affect move-in plans, furniture delivery, and staff scheduling. If the project is being done in a leased building, building management may also have its own closeout requirements.",
+      "@type": "Answer",
+      "description": "A new or revised occupancy approval may be needed if the renovation changes use, occupancy load, egress, or major building systems. Cosmetic upgrades usually do not trigger a new certificate, but tenant improvements often require final sign-off before the space can be occupied.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether a new Certificate of Occupancy is needed depends on how much the renovation changes the space. Simple cosmetic work usually does not affect occupancy status, but more substantial office renovations can trigger final approvals if they change layout, occupant load, exits, restrooms, accessibility, or life-safety systems. Even when a project does not require a brand-new certificate, it often still needs final inspections and sign-offs before the space can be legally occupied. The contractor should confirm this early because occupancy timing can affect move-in plans, furniture delivery, and staff scheduling. If the project is being done in a leased building, building management may also have its own closeout requirements.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A new or revised occupancy approval may be needed if the renovation changes use, occupancy load, egress, or major building systems. Cosmetic upgrades usually do"
+}

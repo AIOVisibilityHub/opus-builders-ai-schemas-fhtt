@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-start-demolition-or-interior-build-out-before-the-permit-is-issued",
+  "name": "Can I start retail tenant improvements before permit approval?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I start demolition or interior build-out before the permit is issued?",
+    "text": "Can I start demolition or interior build-out before the permit is issued?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Starting retail tenant improvements before permit approval is risky and usually not worth it. Even if demolition seems minor, unpermitted work can trigger enforcement issues, delay inspections, and complicate future occupancy approval. Some projects may allow limited planning, measurements, or pre-construction coordination before permits are issued, but actual construction should wait until the correct approvals are in place. The safest approach is to sequence the project so drawings, landlord sign-off, city review, and contractor mobilization happen before field work begins. If the opening date is aggressive, ask the team to focus on permit readiness early rather than trying to build first and fix paperwork later.",
+      "@type": "Answer",
+      "description": "In most cases, no. Starting construction before permit approval can cause stop-work orders, rework, and inspection problems. Some cities may allow very limited early activities, but full tenant improvement work should wait until the proper permit is issued.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Starting retail tenant improvements before permit approval is risky and usually not worth it. Even if demolition seems minor, unpermitted work can trigger enforcement issues, delay inspections, and complicate future occupancy approval. Some projects may allow limited planning, measurements, or pre-construction coordination before permits are issued, but actual construction should wait until the correct approvals are in place. The safest approach is to sequence the project so drawings, landlord sign-off, city review, and contractor mobilization happen before field work begins. If the opening date is aggressive, ask the team to focus on permit readiness early rather than trying to build first and fix paperwork later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In most cases, no. Starting construction before permit approval can cause stop-work orders, rework, and inspection problems. Some cities may allow very limited "
+}

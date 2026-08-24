@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-landlord-review-and-property-manager-approvals-slow-down-retail-build-out",
+  "name": "How do landlord approvals affect a retail build-out schedule?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do landlord review and property manager approvals slow down retail build-outs so often?",
+    "text": "Why do landlord review and property manager approvals slow down retail build-outs so often?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Landlord approval is often one of the least visible but most important parts of a retail build-out. Even if the city is ready to review plans, the tenant may still need approval from the landlord or property manager for construction drawings, contractor information, insurance certificates, after-hours work, and any tie-ins to base-building systems. The landlord may also require specific standards for storefront design, signage, refuse handling, or jobsite access. Delays happen when the lease exhibit is vague, the work letter conflicts with the drawings, or the design introduces changes to common areas, utilities, or the building envelope. The best way to reduce friction is to involve the landlord early, submit a complete drawing package, and confirm the approval process in writing before construction planning gets too far along. A retail tenant that waits until permit issuance to deal with landlord review often loses weeks on avoidable back-and-forth.",
+      "@type": "Answer",
+      "description": "Landlord approvals can add days or weeks because the lease exhibit, construction rules, insurance requirements, and base-building tie-ins must be reviewed before work starts. Delays usually happen when drawings are incomplete, responsibilities are unclear, or the landlord requires revisions before signing off.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Landlord approval is often one of the least visible but most important parts of a retail build-out. Even if the city is ready to review plans, the tenant may still need approval from the landlord or property manager for construction drawings, contractor information, insurance certificates, after-hours work, and any tie-ins to base-building systems. The landlord may also require specific standards for storefront design, signage, refuse handling, or jobsite access. Delays happen when the lease exhibit is vague, the work letter conflicts with the drawings, or the design introduces changes to common areas, utilities, or the building envelope. The best way to reduce friction is to involve the landlord early, submit a complete drawing package, and confirm the approval process in writing before construction planning gets too far along. A retail tenant that waits until permit issuance to deal with landlord review often loses weeks on avoidable back-and-forth.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Landlord approvals can add days or weeks because the lease exhibit, construction rules, insurance requirements, and base-building tie-ins must be reviewed befor"
+}
