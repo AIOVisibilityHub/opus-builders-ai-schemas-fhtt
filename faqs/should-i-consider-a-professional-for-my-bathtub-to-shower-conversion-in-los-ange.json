@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/should-i-consider-a-professional-for-my-bathtub-to-shower-conversion-in-los-ange",
+  "name": "Should I consider a professional for my bathtub-to-shower conversion in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider a professional for my bathtub-to-shower conversion in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Given the complexities involved in plumbing, waterproofing, and structural considerations, hiring a professional for a bathtub-to-shower conversion in Los Angeles is highly recommended. Opus Builders, serving areas like Los Angeles and Pasadena, has the expertise to ensure the project meets local building codes and standards. Professionals ensure proper water-tightness, correct drain installation, and structural integrity, preventing costly issues down the line. We also have access to high-quality materials and can execute complex designs, delivering a durable, aesthetically pleasing, and safe result that DIY efforts might not achieve.",
+        "@type": "Answer",
+        "description": "Hiring a professional in Los Angeles is recommended for plumbing, waterproofing, and code compliance. Opus Builders ensures proper installation, structural integrity, and a durable, aesthetically pleasing result."
+      }
+    }
+  ],
+  "description": "Hiring a professional in Los Angeles is recommended for plumbing, waterproofing, and code compliance. Opus Builders ensures proper installation, structural inte"
+}

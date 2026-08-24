@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-estimated-cost-of-a-bathtub-to-shower-conversion",
+  "name": "What is the estimated cost of a bathtub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the estimated cost of a bathtub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathtub-to-shower conversion can vary significantly. Factors influencing the price include the size of the shower, type of materials chosen (e.g., acrylic, fiberglass, custom tile, natural stone), plumbing modifications, the complexity of the design, and labor costs. A basic conversion might start from a certain range, while a luxurious, custom-tiled walk-in shower with high-end fixtures and significant structural changes would be considerably more. It is essential to receive a personalized quote based on your specific design choices and existing bathroom conditions. Opus Builders offers detailed consultations to provide accurate estimates.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on size, materials, plumbing modifications, design complexity, and labor. A basic conversion is less expensive than a custom, high-end tiled shower. Get a personalized quote."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on size, materials, plumbing modifications, design complexity, and labor. A basic conversion is less expensive than a custom, high-end t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-customize-the-unit-layouts-and-finishes-in-a-fourplex",
+  "name": "Can I customize the unit layouts and finishes in a fourplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the unit layouts and finishes in a fourplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, customization of unit layouts and finishes is a key aspect of building a new fourplex. During the design phase, you have the opportunity to specify the number of bedrooms and bathrooms per unit, kitchen configurations, material selections, and overall aesthetic. This allows for tailored designs that meet your specific investment goals, target tenant demographics, or personal preferences if you plan to occupy a unit. Our design team works closely with you to integrate your vision while ensuring practicality, budget adherence, and structural feasibility.",
+        "@type": "Answer",
+        "description": "Yes, you can fully customize fourplex unit layouts, finishes, and aesthetics during the design phase to meet your investment goals or personal preferences."
+      }
+    }
+  ],
+  "description": "Yes, you can fully customize fourplex unit layouts, finishes, and aesthetics during the design phase to meet your investment goals or personal preferences."
+}

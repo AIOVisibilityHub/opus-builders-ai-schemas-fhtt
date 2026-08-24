@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-contractor-for-my-attached-adu-project",
+  "name": "How do I choose the right contractor for my attached ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my attached ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your attached ADU, look for one with specific experience in ADU construction, particularly in your local area of Los Angeles, Glendale, or Pasadena. Verify their licensing, insurance, and reputation through references and online reviews. Request detailed proposals that outline costs, timelines, and scope of work. A good contractor should demonstrate strong communication skills, a clear understanding of local building codes, and a portfolio showcasing quality craftsmanship relevant to your project's scale and design preferences.",
+        "@type": "Answer",
+        "description": "Choose a contractor with ADU experience, verified licenses and insurance, positive references, clear communication, and a strong understanding of local building codes."
+      }
+    }
+  ],
+  "description": "Choose a contractor with ADU experience, verified licenses and insurance, positive references, clear communication, and a strong understanding of local building"
+}

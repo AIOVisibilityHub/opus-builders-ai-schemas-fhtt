@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-build-an-adu-on-my-property-if-it-s-zoned-for-single-family-residential",
+  "name": "Can I build an ADU on my property if it's zoned for single-family residential?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build an ADU on my property if it's zoned for single-family residential?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, under California state law, homeowners in single-family residential zones are generally allowed to build ADUs, regardless of specific local zoning designations. Recent state legislation has streamlined this process, overriding many previous local restrictions. However, cities like Glendale and Pasadena still maintain local ordinances that dictate specific dimensional standards, setbacks, and other design requirements that must be met. Zoning coordination ensures your proposed ADU meets these local interpretations of state law.",
+        "@type": "Answer",
+        "description": "Yes, state law generally allows ADUs in single-family zones, but local ordinances still dictate specific dimensional and setback requirements."
+      }
+    }
+  ],
+  "description": "Yes, state law generally allows ADUs in single-family zones, but local ordinances still dictate specific dimensional and setback requirements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-build-a-luxury-duplex-in-los-angeles",
+  "name": "How much does it cost to build a luxury duplex in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a luxury duplex in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a luxury duplex in Los Angeles varies significantly based on factors like lot size, square footage, architectural complexity, materials chosen, and interior finishes. Custom luxury duplexes can range from $400 to $800+ per square foot, excluding land acquisition. This estimate typically covers design, permitting, site preparation, and construction. For a detailed and accurate estimate tailored to your specific project and the local Los Angeles market, we recommend a consultation with Opus Builders.",
+        "@type": "Answer",
+        "description": "The cost of a luxury duplex in Los Angeles varies greatly, typically ranging from $400 to $800+ per square foot depending on design, materials, and finishes. A consultation provides a tailored estimate."
+      }
+    }
+  ],
+  "description": "The cost of a luxury duplex in Los Angeles varies greatly, typically ranging from $400 to $800+ per square foot depending on design, materials, and finishes. A"
+}

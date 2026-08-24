@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-information-do-i-need-to-provide-for-adu-zoning-coordination",
+  "name": "What information do I need to provide for ADU zoning coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for ADU zoning coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To initiate ADU zoning coordination, you will typically need to provide your property address, a current property survey (if available), and any existing architectural plans or site maps. Information regarding your desired ADU type (e.g., attached, detached, junior ADU) and preliminary size estimates is also helpful. Providing these documents allows zoning specialists to quickly assess your property's potential and identify applicable regulations, forming the foundation for a compliant and efficient design process.",
+        "@type": "Answer",
+        "description": "You'll need your property address, current survey, existing plans, and desired ADU type/size for zoning coordination."
+      }
+    }
+  ],
+  "description": "You'll need your property address, current survey, existing plans, and desired ADU type/size for zoning coordination."
+}

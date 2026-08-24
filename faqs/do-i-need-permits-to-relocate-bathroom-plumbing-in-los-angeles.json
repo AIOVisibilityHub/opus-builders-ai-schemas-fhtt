@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-to-relocate-bathroom-plumbing-in-los-angeles",
+  "name": "Do I need permits to relocate bathroom plumbing in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to relocate bathroom plumbing in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, relocating bathroom plumbing in Los Angeles typically requires permits from the Los Angeles Department of Building and Safety (LADBS). This is to ensure that the work complies with local plumbing, building, and safety codes. Attempting to proceed without the necessary permits can lead to fines, required demolition of work, and difficulties during future property sales. A reputable contractor will handle the permit application process as part of your project.",
+        "@type": "Answer",
+        "description": "Yes, permits from LADBS are generally required for plumbing relocation in Los Angeles to ensure code compliance and avoid penalties."
+      }
+    }
+  ],
+  "description": "Yes, permits from LADBS are generally required for plumbing relocation in Los Angeles to ensure code compliance and avoid penalties."
+}

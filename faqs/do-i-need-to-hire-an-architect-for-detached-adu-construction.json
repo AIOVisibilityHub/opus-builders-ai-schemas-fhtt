@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-to-hire-an-architect-for-detached-adu-construction",
+  "name": "Do I need to hire an architect for detached ADU construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire an architect for detached ADU construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it depends on local regulations and the complexity of your project, hiring an experienced architect is highly recommended for detached ADU construction. Architects ensure your ADU meets all local zoning and building codes, optimize space and functionality, and create a design that complements your existing property. They can also help navigate the permitting process and oversee the construction to ensure quality and adherence to plans. For custom, high-quality ADUs, an architect's expertise is invaluable.",
+        "@type": "Answer",
+        "description": "Hiring an architect for detached ADU construction is highly recommended to ensure compliance with codes, optimize design, and streamline the permitting process."
+      }
+    }
+  ],
+  "description": "Hiring an architect for detached ADU construction is highly recommended to ensure compliance with codes, optimize design, and streamline the permitting process."
+}

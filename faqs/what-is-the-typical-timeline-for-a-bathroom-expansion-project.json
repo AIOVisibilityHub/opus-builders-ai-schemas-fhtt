@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-a-bathroom-expansion-project",
+  "name": "What is the typical timeline for a bathroom expansion project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a bathroom expansion project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bathroom expansion project can range from several weeks to a few months, depending on its complexity and scope. Key factors influencing duration include the need for structural modifications, relocation of plumbing lines, electrical upgrades, and the availability of chosen materials and custom fixtures. Design finalization, permitting, demolition, construction, and finishing work all contribute to the overall schedule. A clear project plan outlines specific milestones and estimated completion dates.",
+        "@type": "Answer",
+        "description": "A bathroom expansion typically takes several weeks to a few months, depending on structural changes, material lead times, and the overall project scope."
+      }
+    }
+  ],
+  "description": "A bathroom expansion typically takes several weeks to a few months, depending on structural changes, material lead times, and the overall project scope."
+}

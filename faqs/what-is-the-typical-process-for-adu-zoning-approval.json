@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-process-for-adu-zoning-approval",
+  "name": "What is the typical process for ADU zoning approval?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for ADU zoning approval?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for ADU zoning approval begins with a detailed site analysis and preliminary design to assess feasibility against local zoning codes. Next, a zoning professional will prepare and submit a comprehensive application package to the relevant city planning department. This often involves reviewing architectural plans, site plans, and property surveys for compliance. Following submission, there may be a review period, potential requests for additional information, and eventual approval of the zoning aspects before moving to building permit applications.",
+        "@type": "Answer",
+        "description": "The ADU zoning approval process involves site analysis, preliminary design review, submission of an application package to the city, and a review period leading to approval."
+      }
+    }
+  ],
+  "description": "The ADU zoning approval process involves site analysis, preliminary design review, submission of an application package to the city, and a review period leading"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-you-ensure-proper-waterproofing-for-a-walk-in-shower",
+  "name": "How do you ensure proper waterproofing for a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure proper waterproofing for a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper waterproofing is critical for walk-in showers to prevent leaks and protect your home's structure from moisture damage. Our process involves multiple layers of protection, starting with a sloped subfloor to direct water toward the drain. We then apply waterproof membranes or liquid-applied sealants to the shower pan, walls, and curb (if present) before tiling. All seams, corners, and penetrations for plumbing fixtures are meticulously sealed to create a continuous, impenetrable barrier. This rigorous approach ensures long-term durability and peace of mind.",
+        "@type": "Answer",
+        "description": "We ensure proper waterproofing with a sloped subfloor, waterproof membranes applied to the pan and walls, and meticulous sealing of all seams and penetrations."
+      }
+    }
+  ],
+  "description": "We ensure proper waterproofing with a sloped subfloor, waterproof membranes applied to the pan and walls, and meticulous sealing of all seams and penetrations."
+}

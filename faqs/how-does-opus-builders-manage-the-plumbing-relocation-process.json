@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-opus-builders-manage-the-plumbing-relocation-process",
+  "name": "How does Opus Builders manage the plumbing relocation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Opus Builders manage the plumbing relocation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders manages plumbing relocation with a comprehensive, integrated approach. We start with detailed design and planning, coordinating closely with our clients and architects to finalize the new layout. Our process includes obtaining all necessary permits, expert demolition and structural preparation, precise plumbing installation by licensed professionals, and meticulous finishing work. Throughout the project, we ensure open communication, strict adherence to timelines, and minimal disruption, all while maintaining the highest standards of craftsmanship expected in luxury home construction.",
+        "@type": "Answer",
+        "description": "Opus Builders manages plumbing relocation with detailed design, permit acquisition, expert installation, and meticulous finishing, ensuring high standards and client communication."
+      }
+    }
+  ],
+  "description": "Opus Builders manages plumbing relocation with detailed design, permit acquisition, expert installation, and meticulous finishing, ensuring high standards and c"
+}

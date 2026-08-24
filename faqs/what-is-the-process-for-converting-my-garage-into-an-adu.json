@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-converting-my-garage-into-an-adu",
+  "name": "What is the process for converting my garage into an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for converting my garage into an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and site assessment to discuss your vision and feasibility. Next, architectural plans are developed, incorporating structural, electrical, and plumbing details. These plans are then submitted to the local planning department for permit approval. Once permits are secured, construction commences, involving demolition, framing, utility rough-ins, insulation, drywall, and finishing touches. A final inspection ensures compliance.",
+        "@type": "Answer",
+        "description": "The process involves consultation, architectural design, permit acquisition, construction, and final inspection to convert your garage into an ADU."
+      }
+    }
+  ],
+  "description": "The process involves consultation, architectural design, permit acquisition, construction, and final inspection to convert your garage into an ADU."
+}

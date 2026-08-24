@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-benefits-of-building-a-triplex-compared-to-a-duplex-or-a-single-fam",
+  "name": "What are the benefits of building a triplex compared to a duplex or a single-family home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building a triplex compared to a duplex or a single-family home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a triplex offers increased rental income potential compared to a duplex or single-family home, as it accommodates three tenants. This higher density can also maximize land use, which is particularly advantageous in areas with rising property values or limited space. For homeowners, it can provide significant mortgage offset opportunities through rental income from the other two units, making homeownership more accessible or profitable. Triplexes can also cater to multi-generational family living while maintaining privacy for each household.",
+        "@type": "Answer",
+        "description": "A triplex offers higher rental income potential and maximizes land use compared to a duplex or single-family home, providing greater financial flexibility."
+      }
+    }
+  ],
+  "description": "A triplex offers higher rental income potential and maximizes land use compared to a duplex or single-family home, providing greater financial flexibility."
+}

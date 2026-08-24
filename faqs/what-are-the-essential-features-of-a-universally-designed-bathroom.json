@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-essential-features-of-a-universally-designed-bathroom",
+  "name": "What are the essential features of a universally designed bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the essential features of a universally designed bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Essential features of a universally designed bathroom aim to make the space functional for everyone, regardless of age or ability. These include a curbless or roll-in shower, ample clear floor space (at least 30x48 inches), grab bars near the toilet and in the shower, a comfort-height toilet, and an accessible vanity with knee clearance. Other important elements are lever-style faucet handles, non-slip flooring, and appropriate lighting. These features combine to create a safe, convenient, and aesthetically pleasing environment for all users.",
+        "@type": "Answer",
+        "description": "Key features of a universally designed bathroom include a roll-in shower, clear floor space, grab bars, comfort-height toilet, accessible vanity, and lever-style handles. These ensure safety and ease of use for all."
+      }
+    }
+  ],
+  "description": "Key features of a universally designed bathroom include a roll-in shower, clear floor space, grab bars, comfort-height toilet, accessible vanity, and lever-styl"
+}

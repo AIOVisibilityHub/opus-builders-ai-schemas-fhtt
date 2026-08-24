@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-designing-a-luxury-duplex-with-opus-builders",
+  "name": "What is the process for designing a luxury duplex with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a luxury duplex with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our design process for a luxury duplex begins with an initial consultation to understand your vision, needs, and budget. We then proceed to conceptual design, developing floor plans and elevations. This is followed by detailed architectural drawings and material selection, incorporating high-end finishes and innovative features. Throughout this collaborative process, our team ensures the design aligns with local building codes and your aesthetic preferences, leading to a comprehensive plan ready for permitting and construction. We focus on creating functional yet exquisite living spaces.",
+        "@type": "Answer",
+        "description": "Our design process involves an initial consultation, conceptual design, detailed architectural drawings, and material selection, all while ensuring compliance and aligning with your luxury vision."
+      }
+    }
+  ],
+  "description": "Our design process involves an initial consultation, conceptual design, detailed architectural drawings, and material selection, all while ensuring compliance a"
+}

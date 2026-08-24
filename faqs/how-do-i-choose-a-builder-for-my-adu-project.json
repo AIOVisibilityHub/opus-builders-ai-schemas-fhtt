@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-a-builder-for-my-adu-project",
+  "name": "How do I choose a builder for my ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a builder for my ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right builder for your ADU project involves evaluating their experience with ADU-specific regulations and local permitting processes. Look for builders with a strong portfolio of completed ADU projects, positive client references, and transparent pricing. Ensure they are licensed, insured, and communicate clearly. A good builder will guide you through design, permitting, and construction, ensuring the project aligns with your vision and budget. Prioritize expertise in your specific local area for smooth navigation of local nuances.",
+        "@type": "Answer",
+        "description": "Choose a builder with ADU experience, a strong portfolio, positive references, transparent pricing, and local expertise to ensure a smooth project."
+      }
+    }
+  ],
+  "description": "Choose a builder with ADU experience, a strong portfolio, positive references, transparent pricing, and local expertise to ensure a smooth project."
+}

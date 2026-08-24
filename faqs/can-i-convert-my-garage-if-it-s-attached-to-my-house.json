@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-convert-my-garage-if-it-s-attached-to-my-house",
+  "name": "Can I convert my garage if it's attached to my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my garage if it's attached to my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, both attached and detached garages can be converted into living spaces. Attached garages often present fewer challenges for connecting utilities like plumbing and electricity, potentially simplifying the process. However, specific structural considerations and fire-rated wall requirements between the living space and other parts of the house still apply. Design and planning will address these integration aspects.",
+        "@type": "Answer",
+        "description": "Both attached and detached garages can be converted. Attached garages may simplify utility connections but require specific structural and fire-rating considerations."
+      }
+    }
+  ],
+  "description": "Both attached and detached garages can be converted. Attached garages may simplify utility connections but require specific structural and fire-rating considera"
+}

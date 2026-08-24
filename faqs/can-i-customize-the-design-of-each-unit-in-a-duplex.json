@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-customize-the-design-of-each-unit-in-a-duplex",
+  "name": "Can I customize the design of each unit in a duplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the design of each unit in a duplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, customization is a hallmark of luxury duplex construction. While the exterior and structural elements of a duplex are often unified, the interior design of each unit can be highly personalized to suit the occupants' preferences. This includes unique floor plans, kitchen layouts, bathroom finishes, and material selections. Opus Builders collaborates closely with clients to create distinct living spaces within a cohesive structure, ensuring both units meet specific aesthetic and functional requirements.",
+        "@type": "Answer",
+        "description": "Absolutely, luxury duplex construction allows for extensive customization of each unit's interior design, including floor plans, finishes, and materials, while maintaining a unified exterior."
+      }
+    }
+  ],
+  "description": "Absolutely, luxury duplex construction allows for extensive customization of each unit's interior design, including floor plans, finishes, and materials, while"
+}

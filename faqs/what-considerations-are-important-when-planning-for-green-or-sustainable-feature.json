@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-considerations-are-important-when-planning-for-green-or-sustainable-feature",
+  "name": "What considerations are important when planning for green or sustainable features in a new townhome?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important when planning for green or sustainable features in a new townhome?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning for sustainable features, consider aspects like energy-efficient HVAC systems, solar panel integration, water-saving fixtures, high-performance insulation, and durable, recycled, or locally sourced materials. These choices impact long-term operational costs, environmental footprint, and comfort. Our team can advise on incorporating sustainable design principles and technologies that align with your goals and local regulations.",
+        "@type": "Answer",
+        "description": "Consider energy-efficient systems, solar, water-saving fixtures, and sustainable materials to reduce costs and environmental impact."
+      }
+    }
+  ],
+  "description": "Consider energy-efficient systems, solar, water-saving fixtures, and sustainable materials to reduce costs and environmental impact."
+}

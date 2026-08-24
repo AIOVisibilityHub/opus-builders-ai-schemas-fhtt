@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/should-i-build-an-attached-or-detached-adu",
+  "name": "Should I build an attached or detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build an attached or detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between an attached and detached ADU depends on your property layout, privacy needs, and budget. Detached ADUs offer more privacy for both the main house occupants and the ADU residents, often resembling a small independent home. Attached ADUs, which might be a garage conversion or an addition, can be more cost-effective as they share a wall and potentially utilities with the main house. Consider available yard space, access points, and desired aesthetic when making this decision.",
+        "@type": "Answer",
+        "description": "Choose between an attached or detached ADU based on property layout, privacy requirements, and budget. Detached offers more independence, while attached can be more cost-efficient."
+      }
+    }
+  ],
+  "description": "Choose between an attached or detached ADU based on property layout, privacy requirements, and budget. Detached offers more independence, while attached can be"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-considered-a-multi-unit-property-for-construction-purposes",
+  "name": "What is considered a multi-unit property for construction purposes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a multi-unit property for construction purposes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A multi-unit property, in construction terms, refers to a building designed to house multiple independent residential units. This can include duplexes, townhouses, condominiums, and apartment buildings. Each unit typically has its own kitchen, bathroom, and living space. Construction focuses on efficient use of space, shared infrastructure, and adherence to specific zoning and building codes that differ from single-family homes.",
+        "@type": "Answer",
+        "description": "A multi-unit property is a building designed with multiple independent residential units, such as duplexes or condominiums. Construction involves specific zoning and shared infrastructure considerations."
+      }
+    }
+  ],
+  "description": "A multi-unit property is a building designed with multiple independent residential units, such as duplexes or condominiums. Construction involves specific zonin"
+}

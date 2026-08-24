@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-typically-take-to-construct-a-custom-luxury-triplex",
+  "name": "How long does it typically take to construct a custom luxury triplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to construct a custom luxury triplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a custom luxury triplex can vary significantly based on design complexity, site conditions, permitting processes, and material availability. Generally, once permits are secured, the actual construction phase can range from 12 to 24 months. This estimate includes framing, utility installation, interior finishing, and landscaping. Bespoke architectural features, high-end finishes, and specific local regulations in areas like Los Angeles can extend this timeframe. We provide a detailed schedule after the design and planning stages are complete.",
+        "@type": "Answer",
+        "description": "Construction of a custom luxury triplex typically takes 12-24 months after permits are secured, depending on design complexity and site conditions."
+      }
+    }
+  ],
+  "description": "Construction of a custom luxury triplex typically takes 12-24 months after permits are secured, depending on design complexity and site conditions."
+}

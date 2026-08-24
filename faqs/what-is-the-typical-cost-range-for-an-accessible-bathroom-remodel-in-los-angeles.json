@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-range-for-an-accessible-bathroom-remodel-in-los-angeles",
+  "name": "What is the typical cost range for an accessible bathroom remodel in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for an accessible bathroom remodel in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an accessible bathroom remodel in Los Angeles can vary significantly based on the scope of work, materials selected, and existing bathroom layout. Minor updates like grab bar installations and comfort-height toilets might range from a few hundred to a few thousand dollars. A full remodel, including roll-in showers, wider doorways, and extensive modifications, can range from $15,000 to over $40,000. Factors like plumbing reconfigurations, structural changes, and luxury finishes will influence the final price. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "The cost for an accessible bathroom remodel in Los Angeles varies widely, from a few thousand for minor updates to over $40,000 for a full renovation. Factors like scope, materials, and structural changes influence pricing."
+      }
+    }
+  ],
+  "description": "The cost for an accessible bathroom remodel in Los Angeles varies widely, from a few thousand for minor updates to over $40,000 for a full renovation. Factors l"
+}

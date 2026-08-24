@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-an-accessory-dwelling-unit-adu",
+  "name": "What is an Accessory Dwelling Unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an Accessory Dwelling Unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU), also known as a granny flat, in-law unit, or secondary dwelling, is a smaller, independent residential living unit located on the same lot as a primary single-family home. It includes a kitchen, bathroom, and sleeping area, functioning as a complete home. ADUs can be detached, attached, or converted from existing space like a garage. They offer versatile solutions for additional living space, rental income, or housing family members.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary, independent living unit on the same property as a primary home, complete with kitchen, bathroom, and sleeping area."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary, independent living unit on the same property as a primary home, complete with kitchen, bathroom, and sleeping area."
+}

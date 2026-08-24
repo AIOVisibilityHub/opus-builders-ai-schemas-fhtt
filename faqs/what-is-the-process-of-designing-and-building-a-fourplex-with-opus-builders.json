@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-of-designing-and-building-a-fourplex-with-opus-builders",
+  "name": "What is the process of designing and building a fourplex with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of designing and building a fourplex with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for designing and building a fourplex begins with an initial consultation to understand your vision, needs, and site specifics. This leads to preliminary design concepts and feasibility studies. Once approved, we move to detailed architectural and engineering plans, followed by permitting. Upon securing permits, we manage the entire construction phase, from site preparation and foundation to framing, finishes, and final inspections. Throughout, we maintain open communication, ensuring quality and adherence to your specifications and budget.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design concepts, detailed plans, permitting, and comprehensive construction management, with continuous client communication."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design concepts, detailed plans, permitting, and comprehensive construction management, with continuous client communication."
+}

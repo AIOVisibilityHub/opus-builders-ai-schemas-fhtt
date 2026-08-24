@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-start-planning-the-adu-kitchen-during-the-overall-adu-project",
+  "name": "When should I start planning the ADU kitchen during the overall ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning the ADU kitchen during the overall ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is highly recommended to start planning the ADU kitchen design as early as possible in the overall ADU project, ideally during the initial architectural design phase. This allows for seamless integration of plumbing, electrical, and ventilation systems within the structural plans. Early planning helps avoid costly changes later, ensures adequate space allocation, and allows for precise budgeting for finishes and appliances. Involving your builder and designer from the outset ensures that the kitchen's functionality and aesthetic align with the overall vision and compliance requirements for the entire ADU.",
+        "@type": "Answer",
+        "description": "Plan the ADU kitchen design early, during the initial architectural phase, to integrate systems smoothly and avoid costly changes. Early involvement of your builder and designer is crucial."
+      }
+    }
+  ],
+  "description": "Plan the ADU kitchen design early, during the initial architectural phase, to integrate systems smoothly and avoid costly changes. Early involvement of your bui"
+}

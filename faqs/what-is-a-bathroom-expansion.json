@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-bathroom-expansion",
+  "name": "What is a bathroom expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a bathroom expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom expansion involves increasing the physical footprint of an existing bathroom. This can be achieved by incorporating adjacent spaces like a closet, unused corner of a bedroom, or part of a hallway. The goal is to create a larger, more functional, or more luxurious bathroom, often accommodating additional fixtures such as a separate shower and tub, double vanity, or an expanded walk-in shower. It's a significant renovation that impacts the home's layout.",
+        "@type": "Answer",
+        "description": "A bathroom expansion increases the size of an existing bathroom by utilizing adjacent space, creating more room for features or better functionality."
+      }
+    }
+  ],
+  "description": "A bathroom expansion increases the size of an existing bathroom by utilizing adjacent space, creating more room for features or better functionality."
+}

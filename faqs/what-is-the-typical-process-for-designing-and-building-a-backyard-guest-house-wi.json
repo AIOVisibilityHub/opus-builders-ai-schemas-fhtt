@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-process-for-designing-and-building-a-backyard-guest-house-wi",
+  "name": "What is the typical process for designing and building a backyard guest house with a professional builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and building a backyard guest house with a professional builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your vision, needs, and budget. This is followed by a site assessment to evaluate feasibility. Next, our design team develops architectural plans and obtains necessary permits. Once approvals are secured, construction commences, managed by our project team. We maintain open communication throughout, culminating in the final walkthrough and handover of your completed guest house.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, site assessment, architectural design, permitting, construction management, and final handover, with continuous communication throughout."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, site assessment, architectural design, permitting, construction management, and final handover, with continuous co"
+}

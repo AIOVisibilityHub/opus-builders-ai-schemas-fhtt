@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-benefits-of-building-a-detached-vs-attached-backyard-guest-house",
+  "name": "What are the benefits of building a detached vs. attached backyard guest house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building a detached vs. attached backyard guest house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both detached and attached backyard guest houses offer distinct advantages. A detached unit provides maximum privacy and separation from the main home, making it ideal for rentals or independent living spaces. An attached unit, often an addition to the existing home or a garage conversion, can be more cost-effective due to shared walls and utilities, and may offer easier access to the main house. The choice depends on your property layout, budget, and intended use.",
+        "@type": "Answer",
+        "description": "Detached guest houses offer maximum privacy for independent living or rentals. Attached units, like garage conversions, can be more cost-effective due to shared elements and easier access to the main home."
+      }
+    }
+  ],
+  "description": "Detached guest houses offer maximum privacy for independent living or rentals. Attached units, like garage conversions, can be more cost-effective due to shared"
+}

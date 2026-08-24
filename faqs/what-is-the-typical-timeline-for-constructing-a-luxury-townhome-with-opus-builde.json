@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-constructing-a-luxury-townhome-with-opus-builde",
+  "name": "What is the typical timeline for constructing a luxury townhome with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a luxury townhome with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a luxury townhome with Opus Builders generally ranges from 12 to 18 months, depending on the complexity of the design, chosen finishes, and site-specific conditions. This includes phases such as architectural design, permitting, site preparation, foundation, framing, utility installation, interior finishing, and final landscaping. Our team provides a detailed project schedule at the outset.",
+        "@type": "Answer",
+        "description": "Luxury townhome construction typically takes 12-18 months, influenced by design complexity, finishes, and site conditions."
+      }
+    }
+  ],
+  "description": "Luxury townhome construction typically takes 12-18 months, influenced by design complexity, finishes, and site conditions."
+}

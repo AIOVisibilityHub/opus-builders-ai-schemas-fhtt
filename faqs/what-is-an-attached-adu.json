@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-an-attached-adu",
+  "name": "What is an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached ADU (Accessory Dwelling Unit) is a secondary housing unit on a single-family residential lot that shares a wall, roof, or foundation with the primary residence. It functions as an independent living space with its own kitchen, bathroom, and entrance. Attached ADUs offer benefits such as increased property value, flexible living arrangements for family or rental income, and efficient use of existing land. They are distinct from detached ADUs, which are separate structures on the property.",
+        "@type": "Answer",
+        "description": "An attached ADU is a secondary, independent living unit built onto an existing primary residence, featuring its own kitchen, bathroom, and entrance."
+      }
+    }
+  ],
+  "description": "An attached ADU is a secondary, independent living unit built onto an existing primary residence, featuring its own kitchen, bathroom, and entrance."
+}

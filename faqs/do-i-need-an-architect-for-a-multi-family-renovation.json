@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-an-architect-for-a-multi-family-renovation",
+  "name": "Do I need an architect for a multi-family renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for a multi-family renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most significant multi-family renovations, especially those involving structural changes, alterations to the building envelope, or reconfigurations of interior spaces, engaging a licensed architect is highly recommended, and often legally required. An architect can provide critical design expertise, ensure compliance with building codes and accessibility standards, and help maximize the property's potential. They develop detailed plans and specifications that are essential for permitting and construction. Opus Builders frequently collaborates with architects to integrate design vision with constructability, ensuring a cohesive and successful project outcome.",
+        "@type": "Answer",
+        "description": "Yes, for significant multi-family renovations, especially those with structural changes, an architect is typically recommended or required. They provide design expertise, ensure code compliance, and develop essential plans."
+      }
+    }
+  ],
+  "description": "Yes, for significant multi-family renovations, especially those with structural changes, an architect is typically recommended or required. They provide design"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-backyard-guest-houses-increase-property-value",
+  "name": "Do backyard guest houses increase property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do backyard guest houses increase property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, backyard guest houses, or ADUs, significantly increase property value. They add usable square footage, provide flexible living options, and can generate rental income, all of which are attractive to potential buyers. The exact increase varies based on the quality of the build, size, functionality, and local market demand. A well-designed and constructed ADU is considered a valuable asset that enhances a property's overall appeal and marketability.",
+        "@type": "Answer",
+        "description": "Yes, backyard guest houses (ADUs) significantly increase property value by adding usable space, flexible living options, and potential rental income, enhancing marketability."
+      }
+    }
+  ],
+  "description": "Yes, backyard guest houses (ADUs) significantly increase property value by adding usable space, flexible living options, and potential rental income, enhancing"
+}

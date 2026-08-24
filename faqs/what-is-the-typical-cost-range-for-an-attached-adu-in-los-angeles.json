@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-range-for-an-attached-adu-in-los-angeles",
+  "name": "What is the typical cost range for an attached ADU in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for an attached ADU in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building an attached ADU in Los Angeles can vary significantly based on size, complexity, finishes, and site conditions. Generally, prices can range from $150,000 to over $350,000. Factors influencing cost include the need for foundation work, utility hookups, interior finishes (standard vs. luxury), and any necessary structural modifications to the existing home. Design fees, permits, and impact fees are additional considerations. We provide detailed estimates after an initial site assessment and design consultation.",
+        "@type": "Answer",
+        "description": "Costs for an attached ADU in Los Angeles typically range from $150,000 to over $350,000, depending on size, finishes, and site-specific conditions."
+      }
+    }
+  ],
+  "description": "Costs for an attached ADU in Los Angeles typically range from $150,000 to over $350,000, depending on size, finishes, and site-specific conditions."
+}

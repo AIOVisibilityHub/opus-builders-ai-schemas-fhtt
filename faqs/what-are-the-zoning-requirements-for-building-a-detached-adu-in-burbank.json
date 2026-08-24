@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-zoning-requirements-for-building-a-detached-adu-in-burbank",
+  "name": "What are the zoning requirements for building a detached ADU in Burbank?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the zoning requirements for building a detached ADU in Burbank?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Burbank, zoning requirements for detached ADUs typically address setbacks from property lines and existing structures, maximum allowable height, and overall size limits. The maximum square footage for a detached ADU is often limited, regardless of the primary lot size, and there are specific requirements for lot coverage and open space. Parking requirements may also apply, though many jurisdictions have relaxed these for ADUs near public transit. Consulting with a local expert or the City of Burbank's planning department is crucial to understand the exact, up-to-date regulations for your specific property.",
+        "@type": "Answer",
+        "description": "Burbank's zoning for detached ADUs dictates setbacks, maximum height, size limits, and often lot coverage and parking requirements."
+      }
+    }
+  ],
+  "description": "Burbank's zoning for detached ADUs dictates setbacks, maximum height, size limits, and often lot coverage and parking requirements."
+}

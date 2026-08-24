@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-contractor-for-a-bathtub-to-shower-conversion",
+  "name": "How do I choose the right contractor for a bathtub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a bathtub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your conversion, prioritize experience, licensing, and a strong portfolio of similar projects. Look for contractors with positive client testimonials and transparent communication practices. Request detailed proposals that outline the scope of work, materials, timeline, and cost. Ensure they are insured and can provide references. It's also important to choose a contractor who understands your vision and can offer expert advice on design and material choices. Opus Builders encourages you to review our past projects and discuss your specific needs in detail.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, licensing, portfolio, and client testimonials. Request detailed proposals, ensure they are insured, and verify they understand your vision. Opus Builders offers proven expertise."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, licensing, portfolio, and client testimonials. Request detailed proposals, ensure they are insured, and verify they und"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-zoning-requirements-for-building-a-triplex-in-cities-like-glendale",
+  "name": "What are the zoning requirements for building a triplex in cities like Glendale or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the zoning requirements for building a triplex in cities like Glendale or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zoning requirements for building a triplex in cities such as Glendale or Pasadena are highly specific and depend on the property's designated zoning district. Factors like lot size, setbacks, maximum height, parking provisions, and density limits are regulated by the local municipal code. Many cities now encourage multi-family housing near transit corridors or in specific zones. It's crucial to consult the city's planning department or engage a builder familiar with local ordinances early in the process to determine feasibility and specific requirements for your lot.",
+        "@type": "Answer",
+        "description": "Zoning requirements for triplexes in Glendale or Pasadena depend on the specific zoning district, regulating lot size, setbacks, height, and density."
+      }
+    }
+  ],
+  "description": "Zoning requirements for triplexes in Glendale or Pasadena depend on the specific zoning district, regulating lot size, setbacks, height, and density."
+}

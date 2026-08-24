@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-specific-accessibility-regulations-or-codes-apply-to-residential-remodels-i",
+  "name": "What specific accessibility regulations or codes apply to residential remodels in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What specific accessibility regulations or codes apply to residential remodels in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential accessible bathroom remodels in Glendale generally follow the California Building Code (CBC) which incorporates elements of the Americans with Disabilities Act (ADA) for accessibility, especially when significant structural or layout changes are made. While ADA primarily targets public spaces, its principles guide residential modifications for safety and usability. Local Glendale building ordinances will also apply for permits and construction standards. Opus Builders stays current with all relevant state and local codes to ensure your remodel is fully compliant and safe.",
+        "@type": "Answer",
+        "description": "Residential accessible remodels in Glendale follow the California Building Code, which includes accessibility principles. Local Glendale ordinances also apply for permits. Opus Builders ensures compliance with all relevant state and local codes."
+      }
+    }
+  ],
+  "description": "Residential accessible remodels in Glendale follow the California Building Code, which includes accessibility principles. Local Glendale ordinances also apply f"
+}

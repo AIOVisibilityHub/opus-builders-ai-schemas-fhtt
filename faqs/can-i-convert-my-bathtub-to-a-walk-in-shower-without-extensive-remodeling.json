@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-convert-my-bathtub-to-a-walk-in-shower-without-extensive-remodeling",
+  "name": "Can I convert my bathtub to a walk-in shower without extensive remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my bathtub to a walk-in shower without extensive remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to convert a bathtub to a walk-in shower without a complete bathroom overhaul. If the existing plumbing for the tub is sufficient and does not require significant relocation, a new shower pan can be installed in the footprint of the old tub. This limits the scope of work to the shower area itself, replacing the tub surround with new wall panels or tile. The extent of remodeling depends on your desired aesthetics, whether you want to move fixtures, and if any structural changes are needed. Simple conversions focus on utilizing the existing space efficiently.",
+        "@type": "Answer",
+        "description": "Yes, you can often convert a bathtub to a walk-in shower without extensive remodeling if plumbing stays in place. A new shower pan replaces the tub, and walls are updated, limiting work to the shower area."
+      }
+    }
+  ],
+  "description": "Yes, you can often convert a bathtub to a walk-in shower without extensive remodeling if plumbing stays in place. A new shower pan replaces the tub, and walls a"
+}

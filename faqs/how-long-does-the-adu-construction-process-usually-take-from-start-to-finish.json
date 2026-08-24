@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-the-adu-construction-process-usually-take-from-start-to-finish",
+  "name": "How long does the ADU construction process usually take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the ADU construction process usually take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ADU construction process typically spans 8 to 18 months, depending on the project's complexity and local permitting timelines. Design and permitting can take 3 to 9 months, influenced by plan revisions and city review backlogs. The actual construction phase generally lasts 5 to 9 months, affected by weather, material availability, and inspection schedules. A well-prepared design and efficient project management can help streamline these timelines.",
+        "@type": "Answer",
+        "description": "The entire process, from design to completion, usually takes 8 to 18 months, with design and permitting being a significant part of that timeline."
+      }
+    }
+  ],
+  "description": "The entire process, from design to completion, usually takes 8 to 18 months, with design and permitting being a significant part of that timeline."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-utilities-are-needed-for-a-detached-adu-and-how-are-they-connected",
+  "name": "What utilities are needed for a detached ADU, and how are they connected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What utilities are needed for a detached ADU, and how are they connected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detached ADU requires its own utility connections for water, sewer (or septic), electricity, and sometimes gas. These utilities can either be sub-metered from the main house's existing connections or, in some cases, require entirely new, separate utility hookups with their own meters. The method of connection depends on local regulations, the capacity of existing utilities, and the desired independence of the ADU. Proper planning ensures sufficient utility service and compliance with all safety and building codes for both the new unit and the primary residence.",
+        "@type": "Answer",
+        "description": "Detached ADUs require separate connections for water, sewer, electricity, and sometimes gas, which can be sub-metered from the main house or have independent new hookups."
+      }
+    }
+  ],
+  "description": "Detached ADUs require separate connections for water, sewer, electricity, and sometimes gas, which can be sub-metered from the main house or have independent ne"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-townhome-and-how-does-it-differ-from-a-condominium-or-single-family-ho",
+  "name": "What is a townhome and how does it differ from a condominium or single-family home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a townhome and how does it differ from a condominium or single-family home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A townhome is typically a multi-story home that shares one or two walls with adjacent properties, but generally has its own private entrance and directly accesses the outdoors. Unlike a condominium, townhome owners usually own the land directly beneath their unit. It differs from a single-family home by sharing walls and often having a smaller lot, making it a distinct housing type that combines aspects of both detached and attached living.",
+        "@type": "Answer",
+        "description": "A townhome is a multi-story home sharing walls with neighbors, typically owning the land beneath, distinct from condos (land ownership) and single-family homes (no shared walls)."
+      }
+    }
+  ],
+  "description": "A townhome is a multi-story home sharing walls with neighbors, typically owning the land beneath, distinct from condos (land ownership) and single-family homes"
+}

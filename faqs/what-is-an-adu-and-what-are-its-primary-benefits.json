@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-an-adu-and-what-are-its-primary-benefits",
+  "name": "What is an ADU and what are its primary benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and what are its primary benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. It can be attached or detached from the main house. Benefits include increasing property value, generating rental income, providing housing for family members, or creating dedicated office space. ADUs offer flexible living arrangements and can adapt to changing family needs without requiring a new property purchase.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on a single-family lot, offering benefits like increased property value, rental income, or flexible living space for family."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on a single-family lot, offering benefits like increased property value, rental income, or flexible living space for family."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-an-attached-adu-in-los-angeles-county",
+  "name": "What permits are required for an attached ADU in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for an attached ADU in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles County, building an attached ADU requires several permits to ensure compliance with local zoning and building codes. These typically include a building permit, planning review (if applicable), and possibly permits for plumbing, electrical, and mechanical systems. The specific requirements can vary slightly between municipalities like Glendale, Pasadena, or Burbank, but generally align with state ADU laws. Our process includes managing all necessary permit applications and ensuring designs meet local regulations to streamline approval.",
+        "@type": "Answer",
+        "description": "Attached ADUs in Los Angeles County require building permits, along with plumbing, electrical, and mechanical permits, with specific requirements varying by city."
+      }
+    }
+  ],
+  "description": "Attached ADUs in Los Angeles County require building permits, along with plumbing, electrical, and mechanical permits, with specific requirements varying by cit"
+}

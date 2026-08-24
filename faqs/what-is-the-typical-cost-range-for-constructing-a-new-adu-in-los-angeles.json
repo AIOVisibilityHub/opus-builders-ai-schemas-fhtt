@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-range-for-constructing-a-new-adu-in-los-angeles",
+  "name": "What is the typical cost range for constructing a new ADU in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for constructing a new ADU in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of constructing a new ADU in Los Angeles varies significantly based on factors like size, design complexity, chosen materials, and site conditions. A basic detached ADU can start from approximately $150,000, while a larger, custom-designed unit with luxury finishes might exceed $300,000. These figures typically include design, permits, and construction. Garage conversions can be less expensive, ranging from $80,000 to $150,000. It's essential to obtain detailed quotes for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs for a new ADU in Los Angeles typically range from $150,000 to over $300,000 for detached units, and $80,000 to $150,000 for garage conversions."
+      }
+    }
+  ],
+  "description": "Costs for a new ADU in Los Angeles typically range from $150,000 to over $300,000 for detached units, and $80,000 to $150,000 for garage conversions."
+}

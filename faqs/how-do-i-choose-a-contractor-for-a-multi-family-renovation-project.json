@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-a-contractor-for-a-multi-family-renovation-project",
+  "name": "How do I choose a contractor for a multi-family renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for a multi-family renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for a multi-family renovation, prioritize experience with similar-scale projects, proven financial stability, and a strong track record of successful completions. Look for contractors who offer comprehensive services, including design coordination, project management, and permit handling. Verify their licensing, insurance, and client references. A reputable contractor should provide transparent communication, detailed proposals, and a clear understanding of your specific goals. Opus Builders specializes in luxury multi-family renovations, focusing on quality craftsmanship and efficient project execution.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in multi-family projects, financial stability, and strong references. Verify licensing, insurance, and seek transparent communication and detailed proposals."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in multi-family projects, financial stability, and strong references. Verify licensing, insurance, and seek transparent comm"
+}

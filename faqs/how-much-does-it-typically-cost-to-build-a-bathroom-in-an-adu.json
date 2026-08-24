@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-typically-cost-to-build-a-bathroom-in-an-adu",
+  "name": "How much does it typically cost to build a bathroom in an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it typically cost to build a bathroom in an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building an ADU bathroom can vary significantly based on factors such as fixture selection, material quality, labor rates, and the complexity of plumbing extensions. For a standard ADU bathroom, costs might range from $15,000 to $30,000 or more. High-end finishes, custom cabinetry, or challenging site conditions requiring extensive utility trenching can increase this. It's important to budget for permits, inspections, and unforeseen issues. A detailed proposal from a contractor will provide a more accurate estimate for your specific project.",
+        "@type": "Answer",
+        "description": "ADU bathroom construction costs typically range from $15,000 to $30,000+, depending on fixture choices, material quality, and plumbing complexity."
+      }
+    }
+  ],
+  "description": "ADU bathroom construction costs typically range from $15,000 to $30,000+, depending on fixture choices, material quality, and plumbing complexity."
+}

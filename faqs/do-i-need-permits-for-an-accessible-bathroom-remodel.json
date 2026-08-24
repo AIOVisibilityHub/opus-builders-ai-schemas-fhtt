@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-an-accessible-bathroom-remodel",
+  "name": "Do I need permits for an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most accessible bathroom remodels, especially those involving structural changes, plumbing alterations, or electrical work, require permits from the local building department in cities like Los Angeles or Pasadena. This ensures that the modifications comply with safety codes and accessibility standards. Opus Builders handles all necessary permit applications and inspections as part of our service, streamlining the process for you. Attempting a remodel without proper permits can lead to delays, fines, and potential safety issues.",
+        "@type": "Answer",
+        "description": "Most accessible bathroom remodels require permits for structural, plumbing, or electrical changes. Opus Builders handles all necessary permit applications to ensure compliance with local building codes."
+      }
+    }
+  ],
+  "description": "Most accessible bathroom remodels require permits for structural, plumbing, or electrical changes. Opus Builders handles all necessary permit applications to en"
+}

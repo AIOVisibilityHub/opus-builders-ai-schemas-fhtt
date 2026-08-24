@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-constructing-an-adu-or-completing-a-garage-conv",
+  "name": "What is the typical timeline for constructing an ADU or completing a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing an ADU or completing a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an ADU or garage conversion project can range from several months to over a year, depending on various factors. This includes time for design, permitting, and construction. Permitting can take weeks to months, especially in jurisdictions like Los Angeles where specific reviews are required. Construction itself typically takes 3 to 6 months for most projects, assuming no major unforeseen site challenges or design changes. Planning ahead for each phase can help streamline the process.",
+        "@type": "Answer",
+        "description": "The typical timeline is 6-12 months, including design, permitting, and construction, which can vary based on project complexity and local regulations."
+      }
+    }
+  ],
+  "description": "The typical timeline is 6-12 months, including design, permitting, and construction, which can vary based on project complexity and local regulations."
+}

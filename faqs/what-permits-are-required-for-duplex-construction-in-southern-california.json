@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-duplex-construction-in-southern-california",
+  "name": "What permits are required for duplex construction in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for duplex construction in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a duplex in Southern California, particularly in cities like Pasadena or Burbank, requires various permits. These typically include zoning clearance, building permits, plumbing permits, electrical permits, and mechanical permits. Depending on the site and design, additional permits for grading, demolitions, or environmental review may also be necessary. Opus Builders assists clients in navigating the complex permitting process, ensuring all necessary approvals are secured before construction begins to avoid delays.",
+        "@type": "Answer",
+        "description": "Duplex construction in Southern California requires zoning, building, plumbing, electrical, and mechanical permits, with additional permits possibly needed based on site and design."
+      }
+    }
+  ],
+  "description": "Duplex construction in Southern California requires zoning, building, plumbing, electrical, and mechanical permits, with additional permits possibly needed base"
+}

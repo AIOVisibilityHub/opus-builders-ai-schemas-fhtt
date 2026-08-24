@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-a-garage-conversio",
+  "name": "What factors should I consider when choosing a contractor for a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a contractor for a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your garage conversion, look for experience specifically with ADUs and conversions in your local area, such as Los Angeles or Pasadena. Verify their licensing, insurance, and reputation through client references and online reviews. A good contractor should provide a detailed proposal, clear communication, and demonstrate a strong understanding of local building codes and permitting processes. Prioritize those who offer comprehensive services, from design to construction.",
+        "@type": "Answer",
+        "description": "Choose a contractor with local experience in ADU and garage conversions, verifying their license, insurance, and references. They should offer clear communication and understand local building codes."
+      }
+    }
+  ],
+  "description": "Choose a contractor with local experience in ADU and garage conversions, verifying their license, insurance, and references. They should offer clear communicati"
+}

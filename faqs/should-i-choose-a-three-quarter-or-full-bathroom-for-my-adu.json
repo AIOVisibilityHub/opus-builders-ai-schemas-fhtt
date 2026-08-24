@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/should-i-choose-a-three-quarter-or-full-bathroom-for-my-adu",
+  "name": "Should I choose a three-quarter or full bathroom for my ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a three-quarter or full bathroom for my ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision between a three-quarter (toilet, sink, shower) or full bathroom (toilet, sink, tub/shower combo) for your ADU depends on its intended use and available space. A full bathroom is often preferred for long-term rentals or larger ADUs, offering more amenities and potentially increasing rental appeal. A three-quarter bath is a space-efficient option for smaller ADUs or guest houses where a bathtub isn't a priority. Consider the overall footprint of the ADU and the preferences of potential occupants when making this choice.",
+        "@type": "Answer",
+        "description": "Choose a full bathroom for greater appeal and amenities in larger ADUs, or a space-saving three-quarter bath for smaller units or specific guest needs."
+      }
+    }
+  ],
+  "description": "Choose a full bathroom for greater appeal and amenities in larger ADUs, or a space-saving three-quarter bath for smaller units or specific guest needs."
+}

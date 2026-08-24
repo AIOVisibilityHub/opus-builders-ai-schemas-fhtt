@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-ground-up-multi-family-development",
+  "name": "What is ground-up multi-family development?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is ground-up multi-family development?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-up multi-family development refers to the construction of a new residential building from the ground up, designed to house multiple separate dwelling units. This includes projects like apartment complexes, condominiums, or townhomes. It involves acquiring land, designing the structure, obtaining permits, and managing the entire construction process to create a complete, ready-to-occupy residential property. This type of development offers new housing opportunities and can range from small duplexes to large, multi-story buildings.",
+        "@type": "Answer",
+        "description": "Ground-up multi-family development is the construction of a new residential building with multiple dwelling units from the ground up. It involves land acquisition, design, permitting, and construction."
+      }
+    }
+  ],
+  "description": "Ground-up multi-family development is the construction of a new residential building with multiple dwelling units from the ground up. It involves land acquisiti"
+}

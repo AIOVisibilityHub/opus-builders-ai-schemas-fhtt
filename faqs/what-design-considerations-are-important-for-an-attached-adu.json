@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-design-considerations-are-important-for-an-attached-adu",
+  "name": "What design considerations are important for an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations for an attached ADU include maximizing natural light and ventilation, ensuring sound insulation from the main house, and creating an efficient layout for compact living. Integrating the ADU's aesthetic with the existing home while maintaining its independent character is also important. We consider factors like separate entrances, privacy for both units, and access to outdoor space. Additionally, meeting local zoning requirements for setbacks, height, and overall size is crucial to a successful design.",
+        "@type": "Answer",
+        "description": "Important design considerations for an attached ADU include maximizing light, sound insulation, efficient layout, aesthetic integration, and ensuring privacy for both units while meeting local codes."
+      }
+    }
+  ],
+  "description": "Important design considerations for an attached ADU include maximizing light, sound insulation, efficient layout, aesthetic integration, and ensuring privacy fo"
+}

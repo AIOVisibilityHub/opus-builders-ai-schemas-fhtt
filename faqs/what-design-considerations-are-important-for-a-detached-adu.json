@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-design-considerations-are-important-for-a-detached-adu",
+  "name": "What design considerations are important for a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations for a detached ADU include its size and footprint to comply with local zoning, its aesthetic integration with the existing main house, and functional layout to maximize living space within a smaller area. Efficient use of space, natural light, and privacy from the main residence are crucial. Consideration for utility connections, access, and outdoor space is also vital. We focus on creating designs that are both beautiful and highly functional, ensuring they enhance the overall property.",
+        "@type": "Answer",
+        "description": "Important design considerations for a detached ADU include size, aesthetic integration, functional layout, privacy, utility connections, and maximizing natural light and space."
+      }
+    }
+  ],
+  "description": "Important design considerations for a detached ADU include size, aesthetic integration, functional layout, privacy, utility connections, and maximizing natural"
+}

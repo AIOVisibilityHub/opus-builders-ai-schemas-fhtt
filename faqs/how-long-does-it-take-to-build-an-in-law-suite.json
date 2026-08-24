@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-take-to-build-an-in-law-suite",
+  "name": "How long does it take to build an in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build an in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building an in-law suite can vary, typically ranging from 6 to 12 months from initial design to completion. This includes several key stages: design development (1-2 months), permit acquisition (2-4 months, depending on local jurisdiction and complexity), and actual construction (3-6 months). Factors such as the size and complexity of the suite, material availability, and the efficiency of the permitting process in areas like Los Angeles or Pasadena can influence the overall duration. We provide a detailed project schedule early in the process.",
+        "@type": "Answer",
+        "description": "Building an in-law suite generally takes 6 to 12 months, encompassing design, permitting, and construction, with variations based on project complexity and local regulations."
+      }
+    }
+  ],
+  "description": "Building an in-law suite generally takes 6 to 12 months, encompassing design, permitting, and construction, with variations based on project complexity and loca"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-contractor-for-a-multi-family-development-project",
+  "name": "How do I choose the right contractor for a multi-family development project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a multi-family development project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for a multi-family development project involves evaluating their experience, portfolio, and local expertise. Look for contractors with a proven track record in similar projects, strong references, and a clear understanding of local building codes and regulations, especially in areas like Los Angeles, Pasadena, or Glendale. Assess their communication style, project management approach, and financial stability. Opus Builders demonstrates extensive experience in luxury multi-family construction, ensuring quality and efficient project delivery.",
+        "@type": "Answer",
+        "description": "Choose a multi-family contractor based on their experience, portfolio, local expertise, references, communication, and project management approach."
+      }
+    }
+  ],
+  "description": "Choose a multi-family contractor based on their experience, portfolio, local expertise, references, communication, and project management approach."
+}

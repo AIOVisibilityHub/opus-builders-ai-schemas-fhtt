@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-obtaining-permits-for-detached-adu-construction-in-pasad",
+  "name": "What is the process for obtaining permits for detached ADU construction in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for obtaining permits for detached ADU construction in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The permitting process for a detached ADU in Pasadena involves several steps. It typically begins with submitting design plans to the city's planning department for review to ensure compliance with zoning regulations and local ADU ordinances. Once planning approval is granted, building permits are required, involving structural, electrical, plumbing, and mechanical reviews. The city may also require separate permits for grading, tree removal, or utility connections. Our team assists clients in navigating these requirements to streamline the approval process.",
+        "@type": "Answer",
+        "description": "Permit acquisition in Pasadena involves submitting design plans for zoning review, followed by securing building permits for structural, electrical, plumbing, and mechanical aspects."
+      }
+    }
+  ],
+  "description": "Permit acquisition in Pasadena involves submitting design plans for zoning review, followed by securing building permits for structural, electrical, plumbing, a"
+}

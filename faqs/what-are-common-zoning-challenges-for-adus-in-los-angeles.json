@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-common-zoning-challenges-for-adus-in-los-angeles",
+  "name": "What are common zoning challenges for ADUs in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common zoning challenges for ADUs in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, common ADU zoning challenges often include navigating specific parking requirements, fire safety setbacks, and understanding variations in local overlay zones. Properties within historic districts or hillside areas may have additional stringent requirements impacting design and construction. Understanding the intricacies of the Los Angeles Municipal Code, particularly regarding lot coverage and size limits for ADUs, is crucial. Expert coordination helps address these challenges to ensure project feasibility and compliance.",
+        "@type": "Answer",
+        "description": "Common ADU zoning challenges in Los Angeles include parking, fire safety setbacks, and navigating requirements for historic or hillside properties."
+      }
+    }
+  ],
+  "description": "Common ADU zoning challenges in Los Angeles include parking, fire safety setbacks, and navigating requirements for historic or hillside properties."
+}

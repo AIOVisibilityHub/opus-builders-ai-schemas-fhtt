@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-contractor-for-my-adu-or-garage-conversion-project",
+  "name": "How do I choose the right contractor for my ADU or garage conversion project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my ADU or garage conversion project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is crucial for a successful ADU or garage conversion project. Look for a licensed and insured contractor with specific experience in ADUs and local building codes. Review their portfolio, check references, and ensure transparent communication regarding timelines, budgets, and change orders. A reputable contractor will provide detailed proposals, adhere to schedules, and maintain high-quality craftsmanship, ensuring your project meets your expectations and complies with all regulations.",
+        "@type": "Answer",
+        "description": "Choose a licensed and insured contractor with ADU experience, review their portfolio and references, and ensure clear communication and transparent proposals."
+      }
+    }
+  ],
+  "description": "Choose a licensed and insured contractor with ADU experience, review their portfolio and references, and ensure clear communication and transparent proposals."
+}

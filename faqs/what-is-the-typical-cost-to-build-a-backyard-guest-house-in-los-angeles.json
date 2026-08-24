@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-to-build-a-backyard-guest-house-in-los-angeles",
+  "name": "What is the typical cost to build a backyard guest house in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to build a backyard guest house in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a backyard guest house in Los Angeles varies significantly based on size, complexity, materials, and finishes. Smaller, more basic units might start around $150,000 to $250,000, while larger, custom, and luxury builds with high-end finishes can easily exceed $400,000. This includes design, permits, site preparation, construction, and utility connections. Engaging with a builder for a detailed quote is essential.",
+        "@type": "Answer",
+        "description": "Costs for a backyard guest house in Los Angeles range from $150,000 for basic units to over $400,000 for luxury builds, depending on size, materials, and complexity."
+      }
+    }
+  ],
+  "description": "Costs for a backyard guest house in Los Angeles range from $150,000 for basic units to over $400,000 for luxury builds, depending on size, materials, and comple"
+}

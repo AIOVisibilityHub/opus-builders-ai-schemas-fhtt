@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-adu-zoning-coordination",
+  "name": "What is ADU zoning coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is ADU zoning coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADU zoning coordination involves navigating local regulations and ordinances related to Accessory Dwelling Units. This process ensures your ADU project complies with specific zoning codes, setback requirements, height restrictions, and lot coverage rules set by cities like Los Angeles, Glendale, and Pasadena. Proper coordination prevents delays, avoids costly redesigns, and ensures your ADU permit application is approved efficiently. It's a critical step to guarantee your ADU meets all legal requirements for construction and occupancy.",
+        "@type": "Answer",
+        "description": "ADU zoning coordination ensures your Accessory Dwelling Unit project complies with local regulations and zoning codes to facilitate permit approval."
+      }
+    }
+  ],
+  "description": "ADU zoning coordination ensures your Accessory Dwelling Unit project complies with local regulations and zoning codes to facilitate permit approval."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-benefits-of-building-a-fourplex-compared-to-a-single-family-home",
+  "name": "What are the benefits of building a fourplex compared to a single-family home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building a fourplex compared to a single-family home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a fourplex offers several advantages over a single-family home, primarily related to potential income generation and efficient land use. Owners can live in one unit and rent out the others, providing a consistent revenue stream that can offset mortgage payments. Fourplexes also contribute to housing density, making efficient use of urban land. From an investment perspective, they can offer a strong return on investment and portfolio diversification, while providing multiple affordable housing options within a single structure.",
+        "@type": "Answer",
+        "description": "Fourplexes offer income generation potential by allowing owners to rent out multiple units, making efficient use of land compared to a single-family home."
+      }
+    }
+  ],
+  "description": "Fourplexes offer income generation potential by allowing owners to rent out multiple units, making efficient use of land compared to a single-family home."
+}

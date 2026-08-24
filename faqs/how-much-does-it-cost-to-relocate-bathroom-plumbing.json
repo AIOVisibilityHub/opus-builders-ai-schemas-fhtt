@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-relocate-bathroom-plumbing",
+  "name": "How much does it cost to relocate bathroom plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to relocate bathroom plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to relocate bathroom plumbing varies significantly based on factors like the complexity of the re-route, the number of fixtures moved, distance of the move, and necessary structural modifications. Materials, labor, and finishing work (patching drywall, flooring) all contribute to the final price. For a luxury home, costs can be higher due to specialized materials or complex designs. A detailed on-site assessment is required to provide an accurate estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Costs vary based on complexity, number of fixtures, distance, and structural changes. An on-site assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on complexity, number of fixtures, distance, and structural changes. An on-site assessment provides an accurate estimate."
+}

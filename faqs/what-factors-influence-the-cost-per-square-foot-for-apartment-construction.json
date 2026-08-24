@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-per-square-foot-for-apartment-construction",
+  "name": "What factors influence the cost per square foot for apartment construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost per square foot for apartment construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for apartment construction is influenced by numerous factors. These include the type and quality of materials used (e.g., standard vs. luxury finishes), the complexity of the design and architectural features, the number of stories, and the efficiency of the floor plans. Other significant factors are site conditions, such as the need for extensive excavation or soil remediation, and the local labor and permitting costs. Building system choices (e.g., HVAC, plumbing, electrical) and sustainable building requirements also play a role.",
+        "@type": "Answer",
+        "description": "Cost per square foot is influenced by material quality, design complexity, building height, site conditions, local labor, and system choices."
+      }
+    }
+  ],
+  "description": "Cost per square foot is influenced by material quality, design complexity, building height, site conditions, local labor, and system choices."
+}

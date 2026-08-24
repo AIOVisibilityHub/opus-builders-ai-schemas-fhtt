@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-plumbing-considerations-are-unique-to-adu-kitchen-construction",
+  "name": "What plumbing considerations are unique to ADU kitchen construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing considerations are unique to ADU kitchen construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADU kitchen construction requires careful plumbing considerations, especially regarding connections to existing utility lines. You may need to assess the capacity of your main sewer and water lines to accommodate the additional demand from the ADU. Proper venting for drainage systems is crucial to prevent odors and ensure efficient water flow. Additionally, local codes may have specific requirements for grease traps or backflow prevention devices, depending on the kitchen's intended use. Integrating these new lines without impacting the main residence’s plumbing system is a key challenge that requires expert planning.",
+        "@type": "Answer",
+        "description": "Unique ADU kitchen plumbing considerations include assessing main utility line capacity, proper drainage venting, and compliance with local codes for grease traps or backflow prevention. Expert planning is essential for integration."
+      }
+    }
+  ],
+  "description": "Unique ADU kitchen plumbing considerations include assessing main utility line capacity, proper drainage venting, and compliance with local codes for grease tra"
+}

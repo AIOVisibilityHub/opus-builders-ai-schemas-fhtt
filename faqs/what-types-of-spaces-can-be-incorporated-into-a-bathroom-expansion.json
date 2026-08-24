@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-types-of-spaces-can-be-incorporated-into-a-bathroom-expansion",
+  "name": "What types of spaces can be incorporated into a bathroom expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of spaces can be incorporated into a bathroom expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common spaces incorporated into a bathroom expansion include adjacent closets, portions of a large bedroom, underutilized hallway areas, or even small, rarely used rooms. The feasibility depends on the home's existing layout and structural considerations. For example, a walk-in closet next to a primary bathroom is often a prime candidate for conversion into a larger shower, toilet area, or additional vanity space. A design-build team can identify optimal solutions for your specific property.",
+        "@type": "Answer",
+        "description": "Adjacent closets, parts of large bedrooms, or underutilized hallway areas are common spaces that can be incorporated into a bathroom expansion."
+      }
+    }
+  ],
+  "description": "Adjacent closets, parts of large bedrooms, or underutilized hallway areas are common spaces that can be incorporated into a bathroom expansion."
+}

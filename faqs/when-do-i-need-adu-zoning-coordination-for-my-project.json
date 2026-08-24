@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-do-i-need-adu-zoning-coordination-for-my-project",
+  "name": "When do I need ADU zoning coordination for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need ADU zoning coordination for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need ADU zoning coordination at the very beginning of your project, typically during the initial planning and design phase, even before architectural drawings are finalized. Engaging in zoning coordination early helps identify potential challenges or opportunities based on your property's specific location and local ordinances. This proactive approach ensures your design aligns with all regulatory requirements, preventing unexpected issues that could delay permitting or necessitate costly revisions later in the process.",
+        "@type": "Answer",
+        "description": "ADU zoning coordination is needed at the beginning of your project, during the initial planning and design phase, to ensure compliance with local ordinances."
+      }
+    }
+  ],
+  "description": "ADU zoning coordination is needed at the beginning of your project, during the initial planning and design phase, to ensure compliance with local ordinances."
+}

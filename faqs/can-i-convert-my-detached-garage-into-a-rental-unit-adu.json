@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-convert-my-detached-garage-into-a-rental-unit-adu",
+  "name": "Can I convert my detached garage into a rental unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my detached garage into a rental unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a detached garage into an Accessory Dwelling Unit (ADU) is a common and often advantageous option in many Southern California cities. This typically involves adding a kitchen, bathroom, and separate entrance to make it a self-sufficient living space. Local zoning laws and specific city ordinances, such as those in Los Angeles, govern the feasibility and requirements for ADU conversions. We help navigate these regulations to ensure your detached garage conversion meets all legal standards for a rental unit.",
+        "@type": "Answer",
+        "description": "Yes, converting a detached garage into a rental ADU is common, involving adding a kitchen, bathroom, and separate entrance. Local zoning laws dictate specific requirements."
+      }
+    }
+  ],
+  "description": "Yes, converting a detached garage into a rental ADU is common, involving adding a kitchen, bathroom, and separate entrance. Local zoning laws dictate specific r"
+}

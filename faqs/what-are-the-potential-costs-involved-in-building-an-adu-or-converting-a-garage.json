@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-potential-costs-involved-in-building-an-adu-or-converting-a-garage",
+  "name": "What are the potential costs involved in building an ADU or converting a garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential costs involved in building an ADU or converting a garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs for ADUs and garage conversions vary widely based on size, complexity, materials, finishes, site conditions, and necessary utility upgrades. Factors like foundation work, structural modifications, plumbing, electrical, HVAC, and interior design all contribute. While a basic garage conversion might start at a certain price point, a custom-designed, detached ADU with high-end finishes will be significantly more. It's essential to get a detailed estimate based on your specific project scope.",
+        "@type": "Answer",
+        "description": "Costs vary significantly based on size, complexity, materials, and necessary upgrades. A detailed estimate is crucial for your specific project."
+      }
+    }
+  ],
+  "description": "Costs vary significantly based on size, complexity, materials, and necessary upgrades. A detailed estimate is crucial for your specific project."
+}

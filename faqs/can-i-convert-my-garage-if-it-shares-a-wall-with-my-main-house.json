@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-convert-my-garage-if-it-shares-a-wall-with-my-main-house",
+  "name": "Can I convert my garage if it shares a wall with my main house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my garage if it shares a wall with my main house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can convert an attached garage that shares a wall with your main house into a new living space. This type of conversion is very common and often more straightforward than converting a detached garage, as existing utility lines might be more accessible. Key considerations include ensuring proper fire separation between the new living space and the main dwelling, adequate insulation for noise and temperature control, and seamless integration of the new area with your home's aesthetic and structural integrity.",
+        "@type": "Answer",
+        "description": "Yes, converting an attached garage is common and often easier due to utility access. Key considerations include fire separation, insulation, and seamless integration with the main house."
+      }
+    }
+  ],
+  "description": "Yes, converting an attached garage is common and often easier due to utility access. Key considerations include fire separation, insulation, and seamless integr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-per-square-foot-for-luxury-multi-family-construction-in",
+  "name": "What is the typical cost per square foot for luxury multi-family construction in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost per square foot for luxury multi-family construction in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for luxury multi-family construction in Southern California can vary significantly based on factors such as location, finishes, amenities, and project complexity. Generally, it ranges from $350 to $600+ per square foot. This includes expenses for design, materials, labor, permits, and site development. Opus Builders provides detailed cost estimates tailored to each project's unique specifications, ensuring transparency and alignment with client expectations for high-end finishes and features.",
+        "@type": "Answer",
+        "description": "Luxury multi-family construction in Southern California typically ranges from $350-$600+ per square foot, influenced by location, finishes, and project complexity."
+      }
+    }
+  ],
+  "description": "Luxury multi-family construction in Southern California typically ranges from $350-$600+ per square foot, influenced by location, finishes, and project complexi"
+}

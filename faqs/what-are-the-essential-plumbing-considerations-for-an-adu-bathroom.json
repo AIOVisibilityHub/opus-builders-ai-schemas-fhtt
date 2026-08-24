@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-essential-plumbing-considerations-for-an-adu-bathroom",
+  "name": "What are the essential plumbing considerations for an ADU bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the essential plumbing considerations for an ADU bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning an ADU bathroom, essential plumbing considerations include connecting to existing sewer or septic systems, ensuring adequate water pressure, and sizing water heaters appropriately for the ADU's needs. Depending on your property's existing infrastructure, you might need to upgrade or extend main lines. Proper venting is crucial to prevent drainage issues and odors. Additionally, local codes in areas like Los Angeles or Pasadena will dictate specific requirements for pipe materials, fixture installation, and permits to ensure safety and compliance.",
+        "@type": "Answer",
+        "description": "Key plumbing considerations for an ADU bathroom include connecting to existing utilities, water pressure, water heater sizing, and proper venting, all while adhering to local building codes."
+      }
+    }
+  ],
+  "description": "Key plumbing considerations for an ADU bathroom include connecting to existing utilities, water pressure, water heater sizing, and proper venting, all while adh"
+}

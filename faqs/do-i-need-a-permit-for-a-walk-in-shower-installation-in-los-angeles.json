@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-a-permit-for-a-walk-in-shower-installation-in-los-angeles",
+  "name": "Do I need a permit for a walk-in shower installation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a walk-in shower installation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most walk-in shower installations in Los Angeles, a building permit is required, especially if the project involves changes to plumbing lines, structural modifications, or altering the footprint of the bathroom. This ensures the work complies with local building codes for safety and quality. As part of our service, Opus Builders will assist you in navigating the permitting process, preparing the necessary documentation, and ensuring all work meets city regulations, providing you with peace of mind.",
+        "@type": "Answer",
+        "description": "Most walk-in shower installations in Los Angeles require a building permit, especially for plumbing or structural changes. Opus Builders assists with this process."
+      }
+    }
+  ],
+  "description": "Most walk-in shower installations in Los Angeles require a building permit, especially for plumbing or structural changes. Opus Builders assists with this proce"
+}

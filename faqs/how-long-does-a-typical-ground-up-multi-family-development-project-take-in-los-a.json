@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-ground-up-multi-family-development-project-take-in-los-a",
+  "name": "How long does a typical ground-up multi-family development project take in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical ground-up multi-family development project take in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a ground-up multi-family development in the Los Angeles area can vary significantly, typically ranging from 18 to 36 months, or even longer for larger projects. This duration includes phases such as initial planning, architectural design, permitting (which can be a substantial portion of the timeline due to local regulations), and the actual construction period. Factors like project size, complexity, site conditions, and the efficiency of the local permitting process heavily influence the overall schedule.",
+        "@type": "Answer",
+        "description": "A typical ground-up multi-family development in Los Angeles generally takes 18 to 36 months. This includes planning, design, permitting, and construction phases."
+      }
+    }
+  ],
+  "description": "A typical ground-up multi-family development in Los Angeles generally takes 18 to 36 months. This includes planning, design, permitting, and construction phases"
+}

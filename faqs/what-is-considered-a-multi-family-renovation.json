@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-considered-a-multi-family-renovation",
+  "name": "What is considered a multi-family renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a multi-family renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A multi-family renovation involves updating or improving residential properties that house multiple separate dwelling units, such as apartment buildings, duplexes, condominiums, or townhouses. These projects can range from cosmetic upgrades to full structural overhauls, addressing common areas, individual units, or building exteriors. The goal is typically to enhance property value, improve tenant experience, increase energy efficiency, or modernize facilities to meet current standards and market demands. This differs significantly from single-family home renovations due to the scale, complexity, and often regulatory considerations.",
+        "@type": "Answer",
+        "description": "A multi-family renovation updates residential properties with multiple dwelling units, like apartment buildings or condos. Projects can range from cosmetic to structural, improving value and tenant experience."
+      }
+    }
+  ],
+  "description": "A multi-family renovation updates residential properties with multiple dwelling units, like apartment buildings or condos. Projects can range from cosmetic to s"
+}

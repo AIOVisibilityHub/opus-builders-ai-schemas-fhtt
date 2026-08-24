@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-an-adu-and-how-does-it-differ-from-a-garage-conversion",
+  "name": "What is an ADU and how does it differ from a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and how does it differ from a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. It can be attached or detached from the primary home. A garage conversion is a specific type of ADU where an existing garage structure is transformed into a living space. While all garage conversions resulting in independent living spaces are ADUs, not all ADUs are garage conversions; ADUs can also be newly built detached structures, attached additions, or conversions of other existing spaces like basements.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary dwelling on a property; a garage conversion is a specific type of ADU that transforms an existing garage into living space."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary dwelling on a property; a garage conversion is a specific type of ADU that transforms an existing garage into living space."
+}

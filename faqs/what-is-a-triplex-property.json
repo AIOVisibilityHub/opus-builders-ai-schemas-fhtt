@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-triplex-property",
+  "name": "What is a triplex property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a triplex property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A triplex property is a single building that contains three distinct residential units. Each unit typically has its own entrance, kitchen, and bathroom facilities, allowing for independent living. These properties are often favored by investors for their income potential or by homeowners looking for multi-generational living solutions. Triplexes efficiently utilize land, providing more housing density than a single-family home while still maintaining a residential feel, which can be beneficial in urban or suburban areas.",
+        "@type": "Answer",
+        "description": "A triplex property is a single building comprising three separate residential units, each with independent living facilities."
+      }
+    }
+  ],
+  "description": "A triplex property is a single building comprising three separate residential units, each with independent living facilities."
+}

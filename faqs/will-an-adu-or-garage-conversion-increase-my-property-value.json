@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/will-an-adu-or-garage-conversion-increase-my-property-value",
+  "name": "Will an ADU or garage conversion increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an ADU or garage conversion increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An ADU or garage conversion can significantly increase your property value, especially in high-demand real estate markets like Los Angeles. By adding functional living space, you enhance the property's appeal and potential rental income, which are attractive to future buyers. The exact increase depends on factors like the quality of construction, size of the unit, and local market conditions. Many homeowners find that the investment provides a strong return.",
+        "@type": "Answer",
+        "description": "Yes, an ADU or garage conversion can increase property value by adding functional living space and potential rental income."
+      }
+    }
+  ],
+  "description": "Yes, an ADU or garage conversion can increase property value by adding functional living space and potential rental income."
+}

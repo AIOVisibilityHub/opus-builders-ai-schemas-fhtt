@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-multi-family-construction-project-take-in-the-los-angele",
+  "name": "How long does a typical multi-family construction project take in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical multi-family construction project take in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a multi-family construction project varies greatly depending on its size, complexity, and local permitting processes in Los Angeles. A smaller duplex might take 10-14 months, while a large-scale apartment complex could extend to 18-36 months or more. Key factors include design finalization, securing permits, site preparation, and the construction phase itself. We work diligently to establish realistic timelines and communicate progress transparently with our clients.",
+        "@type": "Answer",
+        "description": "Project duration for multi-family construction in Los Angeles varies from 10-14 months for smaller projects to 18-36+ months for larger complexes, depending on scale and permitting."
+      }
+    }
+  ],
+  "description": "Project duration for multi-family construction in Los Angeles varies from 10-14 months for smaller projects to 18-36+ months for larger complexes, depending on"
+}

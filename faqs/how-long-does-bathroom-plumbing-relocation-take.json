@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-bathroom-plumbing-relocation-take",
+  "name": "How long does bathroom plumbing relocation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does bathroom plumbing relocation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for relocating bathroom plumbing depends on the project's scale. A simple relocation of a single fixture within the same wall might take a few days. More extensive reconfigurations involving multiple fixtures, floor penetration, or significant structural work can extend to several weeks, especially when factoring in inspection times and finishing work. Planning and preparation, including obtaining necessary permits, also impact the overall timeline. Your contractor can provide a more precise schedule after a detailed project evaluation.",
+        "@type": "Answer",
+        "description": "Timeline depends on project scale; simple moves take days, complex ones several weeks. Permits and finishing work also affect duration."
+      }
+    }
+  ],
+  "description": "Timeline depends on project scale; simple moves take days, complex ones several weeks. Permits and finishing work also affect duration."
+}

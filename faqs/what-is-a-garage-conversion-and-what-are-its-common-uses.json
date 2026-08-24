@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-garage-conversion-and-what-are-its-common-uses",
+  "name": "What is a garage conversion and what are its common uses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a garage conversion and what are its common uses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage conversion transforms an existing garage space into a habitable living area, rather than for vehicle parking. This can involve structural modifications, insulation, plumbing, electrical work, and new finishes to integrate it seamlessly with your home. Common uses include creating an Accessory Dwelling Unit (ADU) for rental income or multi-generational living, a home office, a gym, an art studio, or an additional bedroom suite. It's a popular way to expand living space without building a new structure from the ground up.",
+        "@type": "Answer",
+        "description": "A garage conversion transforms an existing garage into a habitable living space, such as an ADU, home office, or extra bedroom. It involves structural, electrical, and plumbing modifications."
+      }
+    }
+  ],
+  "description": "A garage conversion transforms an existing garage into a habitable living space, such as an ADU, home office, or extra bedroom. It involves structural, electric"
+}

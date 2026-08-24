@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-multi-family-renovations-in-california",
+  "name": "What permits are required for multi-family renovations in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for multi-family renovations in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-family renovations in California typically require a range of permits from local building and planning departments, which can vary slightly by city (e.g., Los Angeles vs. Pasadena). Common requirements include building permits for structural changes, electrical permits for wiring upgrades, plumbing permits for new fixtures, and mechanical permits for HVAC systems. Depending on the project, you might also need permits for grading, demolitions, or environmental review. Our team manages the entire permitting process, ensuring compliance with all local and state regulations for your project.",
+        "@type": "Answer",
+        "description": "Permits vary by city but commonly include building, electrical, plumbing, and mechanical. Our team manages all necessary permitting processes for multi-family renovations in California."
+      }
+    }
+  ],
+  "description": "Permits vary by city but commonly include building, electrical, plumbing, and mechanical. Our team manages all necessary permitting processes for multi-family r"
+}

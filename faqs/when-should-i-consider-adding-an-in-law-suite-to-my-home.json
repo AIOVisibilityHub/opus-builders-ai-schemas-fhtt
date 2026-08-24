@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-adding-an-in-law-suite-to-my-home",
+  "name": "When should I consider adding an in-law suite to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider adding an in-law suite to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider adding an in-law suite if you anticipate needing dedicated living space for aging parents, adult children returning home, or regular long-term guests. It's also an excellent option if you're looking to generate passive rental income from your property or need a versatile space like a home office, gym, or art studio that requires full amenities and privacy. Furthermore, if you plan to stay in your current home long-term and desire to enhance its value and functionality, an ADU is a strategic investment.",
+        "@type": "Answer",
+        "description": "Consider an in-law suite for family accommodation, rental income, a versatile private space, or to increase your property's long-term value and functionality."
+      }
+    }
+  ],
+  "description": "Consider an in-law suite for family accommodation, rental income, a versatile private space, or to increase your property's long-term value and functionality."
+}

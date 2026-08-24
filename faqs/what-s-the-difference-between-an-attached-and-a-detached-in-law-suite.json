@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-s-the-difference-between-an-attached-and-a-detached-in-law-suite",
+  "name": "What's the difference between an attached and a detached in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between an attached and a detached in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached in-law suite shares one or more walls with the primary residence, often built as an extension or by converting existing space like a garage. Detached in-law suites are separate, standalone structures on the property, providing maximum privacy and often feeling like a small independent home. Attached suites typically have lower construction costs due to shared utilities and foundations, while detached units offer more design flexibility and a greater sense of autonomy for occupants. Your choice depends on property layout, budget, and desired level of privacy.",
+        "@type": "Answer",
+        "description": "Attached suites share walls with the main house, costing less, while detached suites are standalone structures offering greater privacy and design flexibility."
+      }
+    }
+  ],
+  "description": "Attached suites share walls with the main house, costing less, while detached suites are standalone structures offering greater privacy and design flexibility."
+}

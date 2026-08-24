@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-rent-out-my-adu-or-converted-garage-in-los-angeles",
+  "name": "Can I rent out my ADU or converted garage in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out my ADU or converted garage in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Los Angeles, you are generally permitted to rent out your ADU or converted garage, subject to local regulations. ADUs are seen as a way to address housing needs. However, specific rules regarding short-term rentals (like Airbnb) versus long-term rentals may apply and can change. It is advisable to consult current city ordinances or a legal professional to understand any restrictions or requirements, such as tenant protections, that might impact your ability to rent the unit.",
+        "@type": "Answer",
+        "description": "Yes, ADUs and converted garages can generally be rented out in Los Angeles, but specific regulations for short-term vs. long-term rentals may apply."
+      }
+    }
+  ],
+  "description": "Yes, ADUs and converted garages can generally be rented out in Los Angeles, but specific regulations for short-term vs. long-term rentals may apply."
+}

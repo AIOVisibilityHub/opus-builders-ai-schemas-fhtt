@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-essential-components-of-an-adu-kitchen",
+  "name": "What are the essential components of an ADU kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the essential components of an ADU kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An ADU kitchen typically includes a sink with hot and cold running water, a refrigerator, and a cooking appliance such as a stove or oven. Essential components also involve adequate counter space for food preparation, storage solutions like cabinets, and proper ventilation. Depending on the ADU's size and intended use, additional features like a dishwasher, microwave, or a larger pantry might be incorporated to enhance functionality and comfort for the occupants. Local building codes and the ADU's design will influence specific requirements.",
+        "@type": "Answer",
+        "description": "An ADU kitchen requires a sink, refrigerator, cooking appliance, counter space, storage, and ventilation. Additional features like dishwashers can be added based on design and local codes."
+      }
+    }
+  ],
+  "description": "An ADU kitchen requires a sink, refrigerator, cooking appliance, counter space, storage, and ventilation. Additional features like dishwashers can be added base"
+}

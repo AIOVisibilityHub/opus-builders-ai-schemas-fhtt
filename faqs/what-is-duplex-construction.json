@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-duplex-construction",
+  "name": "What is duplex construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is duplex construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Duplex construction involves building a single residential structure that contains two separate living units. These units typically share a common wall and utilities but function as independent homes, each with its own entrance, kitchen, and bathrooms. It's an efficient way to maximize land use and can be beneficial for multi-generational living or as an investment property. Opus Builders designs and constructs high-quality duplexes, blending luxury with functionality.",
+        "@type": "Answer",
+        "description": "Duplex construction creates a single building with two independent living units, often sharing a common wall and utilities. It maximizes land use for multi-generational living or investment."
+      }
+    }
+  ],
+  "description": "Duplex construction creates a single building with two independent living units, often sharing a common wall and utilities. It maximizes land use for multi-gene"
+}

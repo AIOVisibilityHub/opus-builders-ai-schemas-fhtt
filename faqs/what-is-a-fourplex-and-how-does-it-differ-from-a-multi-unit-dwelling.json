@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-fourplex-and-how-does-it-differ-from-a-multi-unit-dwelling",
+  "name": "What is a fourplex and how does it differ from a multi-unit dwelling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a fourplex and how does it differ from a multi-unit dwelling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A fourplex is a single residential building containing four independent living units. Each unit typically has its own entrance, kitchen, and bathroom facilities. While it is a type of multi-unit dwelling, the term 'fourplex' specifically denotes a structure with exactly four units, often under a single property title. Other multi-unit dwellings can include duplexes (two units), triplexes (three units), or larger apartment complexes. Fourplexes are often chosen for their balance of rental income potential and manageable scale.",
+        "@type": "Answer",
+        "description": "A fourplex is a single residential building with four separate living units. It is a specific type of multi-unit dwelling, distinct from duplexes or larger apartment buildings."
+      }
+    }
+  ],
+  "description": "A fourplex is a single residential building with four separate living units. It is a specific type of multi-unit dwelling, distinct from duplexes or larger apar"
+}

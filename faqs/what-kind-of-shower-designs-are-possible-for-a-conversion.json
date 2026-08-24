@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-kind-of-shower-designs-are-possible-for-a-conversion",
+  "name": "What kind of shower designs are possible for a conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of shower designs are possible for a conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathtub-to-shower conversions offer a wide range of design possibilities. You can choose from simple, functional designs with pre-fabricated units to luxurious, custom-tiled walk-in showers with built-in benches, niches for toiletries, and multiple showerheads. Options include barrier-free showers for seamless entry, curbed showers, and various enclosure styles like frameless glass, semi-frameless, or framed. Material choices range from classic ceramic and porcelain tiles to natural stone, acrylic, and solid surface panels, allowing for extensive personalization to match your bathroom's aesthetic.",
+        "@type": "Answer",
+        "description": "Design options range from simple pre-fabricated units to custom-tiled walk-in showers with benches and niches. Choices include barrier-free or curbed showers, various glass enclosures, and diverse material selections."
+      }
+    }
+  ],
+  "description": "Design options range from simple pre-fabricated units to custom-tiled walk-in showers with benches and niches. Choices include barrier-free or curbed showers, v"
+}

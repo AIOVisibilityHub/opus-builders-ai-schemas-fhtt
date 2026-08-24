@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-to-build-a-triplex",
+  "name": "What permits are required to build a triplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required to build a triplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a triplex requires securing several permits from local municipal authorities before construction can begin. These typically include a planning or zoning permit to ensure compliance with land use regulations, a building permit for structural integrity and safety, and various sub-permits for mechanical, electrical, and plumbing systems. Depending on the site and scope, additional permits might be needed for grading, demolition, or environmental considerations. An experienced builder or architect will manage the complex permit application and approval process.",
+        "@type": "Answer",
+        "description": "Building a triplex requires planning, building, mechanical, electrical, and plumbing permits, with others potentially needed for specific site conditions."
+      }
+    }
+  ],
+  "description": "Building a triplex requires planning, building, mechanical, electrical, and plumbing permits, with others potentially needed for specific site conditions."
+}

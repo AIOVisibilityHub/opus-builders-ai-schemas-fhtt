@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/should-i-build-an-attached-or-detached-duplex",
+  "name": "Should I build an attached or detached duplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build an attached or detached duplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between an attached and detached duplex depends on your property's size, local zoning regulations, and specific goals. Attached duplexes, where units share a common wall, are more common and often more cost-effective as they utilize less land and simplify utility runs. Detached duplexes, featuring two completely separate structures on one lot, offer greater privacy and design flexibility for each unit, though they require more land and typically incur higher construction costs. We can help assess which option best suits your project in regions like Glendale or North Hollywood.",
+        "@type": "Answer",
+        "description": "Choose an attached duplex for cost-effectiveness and land efficiency, or a detached duplex for greater privacy and design flexibility if space and budget allow."
+      }
+    }
+  ],
+  "description": "Choose an attached duplex for cost-effectiveness and land efficiency, or a detached duplex for greater privacy and design flexibility if space and budget allow."
+}

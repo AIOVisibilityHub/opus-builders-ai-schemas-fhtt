@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-common-design-considerations-for-a-garage-conversion",
+  "name": "What are common design considerations for a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design considerations for a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common design considerations for a garage conversion include maximizing natural light through new windows or skylights, ensuring proper ventilation, and planning for efficient use of the often-compact space. Thoughtful layout for kitchens and bathrooms in ADUs is crucial. Additionally, integrating the new exterior with your existing home's aesthetic is important for curb appeal, as is selecting durable and attractive interior finishes. Accessibility, soundproofing, and energy efficiency are also key elements to consider during the design phase.",
+        "@type": "Answer",
+        "description": "Design considerations for garage conversions include maximizing natural light, ensuring proper ventilation, efficient space planning for kitchens/bathrooms, and aesthetic integration with the existing home."
+      }
+    }
+  ],
+  "description": "Design considerations for garage conversions include maximizing natural light, ensuring proper ventilation, efficient space planning for kitchens/bathrooms, and"
+}

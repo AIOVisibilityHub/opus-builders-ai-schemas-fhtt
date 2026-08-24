@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-rent-out-my-backyard-guest-house-for-additional-income",
+  "name": "Can I rent out my backyard guest house for additional income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out my backyard guest house for additional income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many parts of Los Angeles, including Glendale and Pasadena, you are generally allowed to rent out your backyard guest house (ADU). ADUs were specifically legalized to help address housing shortages, and renting them out is a common way homeowners offset construction costs and generate passive income. However, specific rental regulations and restrictions, such as short-term rental rules, can vary by city. We recommend reviewing local ordinances.",
+        "@type": "Answer",
+        "description": "Yes, renting out your backyard guest house (ADU) is generally permitted in Los Angeles and surrounding areas, providing income. Check local city ordinances for specific rental regulations."
+      }
+    }
+  ],
+  "description": "Yes, renting out your backyard guest house (ADU) is generally permitted in Los Angeles and surrounding areas, providing income. Check local city ordinances for"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-a-bathroom-expansion",
+  "name": "Do I need permits for a bathroom expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a bathroom expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a bathroom expansion almost always requires permits from your local building department, especially in areas like Los Angeles, Glendale, or Pasadena. This is because expansions involve structural changes, alterations to plumbing and electrical systems, and potentially changes to the home's exterior footprint. Obtaining the necessary permits ensures that the renovation complies with local building codes, safety standards, and zoning regulations. Your contractor should handle the permit application process.",
+        "@type": "Answer",
+        "description": "Yes, permits are nearly always required for bathroom expansions due to structural, plumbing, and electrical changes, ensuring compliance with local building codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are nearly always required for bathroom expansions due to structural, plumbing, and electrical changes, ensuring compliance with local building cod"
+}

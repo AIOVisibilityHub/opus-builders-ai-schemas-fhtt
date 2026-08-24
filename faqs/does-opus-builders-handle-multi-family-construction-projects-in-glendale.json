@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/does-opus-builders-handle-multi-family-construction-projects-in-glendale",
+  "name": "Does Opus Builders handle multi-family construction projects in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Opus Builders handle multi-family construction projects in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Opus Builders proudly handles multi-family construction projects across various communities in the greater Los Angeles area, including Glendale. Our team possesses in-depth knowledge of Glendale's specific zoning ordinances, building codes, and community design guidelines. We apply our expertise in luxury home design and construction to create exceptional multi-family residences that enhance the urban landscape while meeting our clients' investment and aesthetic goals within the Glendale market.",
+        "@type": "Answer",
+        "description": "Yes, Opus Builders handles multi-family construction in Glendale, applying our expertise in luxury design and local building codes."
+      }
+    }
+  ],
+  "description": "Yes, Opus Builders handles multi-family construction in Glendale, applying our expertise in luxury design and local building codes."
+}

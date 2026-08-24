@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-remodeling-for-an-accessible-bathroom",
+  "name": "When should I consider remodeling for an accessible bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider remodeling for an accessible bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider remodeling for an accessible bathroom proactively before an immediate need arises, such as when planning for aging in place or anticipating future mobility challenges. It's also appropriate if a family member's mobility changes, or if you simply want to enhance the long-term safety and usability of your home. Early planning allows for thoughtful design integration and avoids rushed decisions during a crisis. Many homeowners also choose to remodel if they are renovating their entire home to ensure consistent design and accessibility throughout.",
+        "@type": "Answer",
+        "description": "Consider remodeling for an accessible bathroom proactively for aging in place, if a family member's mobility changes, or to enhance long-term home safety and usability. Early planning allows for thoughtful design integration."
+      }
+    }
+  ],
+  "description": "Consider remodeling for an accessible bathroom proactively for aging in place, if a family member's mobility changes, or to enhance long-term home safety and us"
+}

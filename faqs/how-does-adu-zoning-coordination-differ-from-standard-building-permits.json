@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-adu-zoning-coordination-differ-from-standard-building-permits",
+  "name": "How does ADU zoning coordination differ from standard building permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does ADU zoning coordination differ from standard building permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADU zoning coordination focuses specifically on ensuring your project's design and placement comply with a municipality's land use laws, such as setback distances, height limits, and unit size. Standard building permits, conversely, concentrate on the structural integrity, safety, and construction methods of the proposed ADU. While both are essential for legal construction, zoning coordination is the preliminary step that dictates what *can* be built according to land use rules, before the how it's built is addressed by building codes.",
+        "@type": "Answer",
+        "description": "Zoning coordination ensures your ADU design complies with land use laws, while building permits focus on structural integrity and construction methods."
+      }
+    }
+  ],
+  "description": "Zoning coordination ensures your ADU design complies with land use laws, while building permits focus on structural integrity and construction methods."
+}

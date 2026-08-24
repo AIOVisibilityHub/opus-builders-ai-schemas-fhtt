@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-opus-builders-ensure-the-quality-and-durability-of-townhome-constructio",
+  "name": "How does Opus Builders ensure the quality and durability of townhome construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Opus Builders ensure the quality and durability of townhome construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders maintains quality and durability through rigorous construction standards, use of premium materials, and adherence to all local building codes. Our experienced project managers oversee every phase, conducting regular inspections. We partner with skilled craftsmen and utilize proven construction techniques, ensuring each townhome is built to last and exceeds client expectations for luxury and performance.",
+        "@type": "Answer",
+        "description": "We ensure quality through rigorous standards, premium materials, expert supervision, and adherence to all building codes."
+      }
+    }
+  ],
+  "description": "We ensure quality through rigorous standards, premium materials, expert supervision, and adherence to all building codes."
+}

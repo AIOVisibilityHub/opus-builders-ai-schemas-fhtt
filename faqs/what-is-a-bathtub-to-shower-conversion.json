@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-bathtub-to-shower-conversion",
+  "name": "What is a bathtub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a bathtub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathtub-to-shower conversion involves removing an existing bathtub and replacing it with a new shower unit. This can range from a simple replacement with a pre-fabricated shower pan and walls to a custom-designed, tiled walk-in shower. The primary goal is often to create a more accessible, modern, or space-efficient bathroom. Conversions may include updating plumbing, adding new fixtures like showerheads and grab bars, and improving ventilation. This process transforms a multi-purpose bathing area into a dedicated shower space, catering to specific user needs and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "A bathtub-to-shower conversion replaces an existing bathtub with a new shower unit, ranging from simple replacements to custom walk-in designs. It aims to create a more accessible, modern, or space-efficient bathroom."
+      }
+    }
+  ],
+  "description": "A bathtub-to-shower conversion replaces an existing bathtub with a new shower unit, ranging from simple replacements to custom walk-in designs. It aims to creat"
+}

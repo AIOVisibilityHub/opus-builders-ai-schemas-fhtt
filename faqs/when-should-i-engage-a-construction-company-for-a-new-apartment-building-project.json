@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-engage-a-construction-company-for-a-new-apartment-building-project",
+  "name": "When should I engage a construction company for a new apartment building project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a construction company for a new apartment building project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to engage a construction company or general contractor early in the project lifecycle, ideally during the design development phase, sometimes referred to as pre-construction. This early involvement allows the contractor to provide valuable input on constructability, cost-effectiveness of design choices, material selection, and accurate project scheduling. Their expertise can help identify potential issues before they become costly problems during actual construction. Early engagement ensures a smoother transition from design to groundbreaking and helps optimize the overall project outcome.",
+        "@type": "Answer",
+        "description": "Engage a construction company early, during the design development phase, for input on constructability, cost, and scheduling to optimize the project."
+      }
+    }
+  ],
+  "description": "Engage a construction company early, during the design development phase, for input on constructability, cost, and scheduling to optimize the project."
+}

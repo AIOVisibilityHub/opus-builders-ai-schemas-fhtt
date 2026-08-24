@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/will-a-garage-conversion-impact-my-property-taxes",
+  "name": "Will a garage conversion impact my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a garage conversion impact my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a garage conversion, especially when it results in adding habitable square footage or creating a new Accessory Dwelling Unit (ADU), typically impacts your property taxes. This is because the assessed value of your property is likely to increase due to the improvement and expanded utility. The exact increase will depend on the scope of the conversion and the assessment practices of your local county assessor's office. It's advisable to consult with a tax professional or your local assessor for specific details regarding your property.",
+        "@type": "Answer",
+        "description": "Yes, a garage conversion usually increases property taxes because it adds habitable square footage and raises your property's assessed value. Consult a tax professional for details."
+      }
+    }
+  ],
+  "description": "Yes, a garage conversion usually increases property taxes because it adds habitable square footage and raises your property's assessed value. Consult a tax prof"
+}

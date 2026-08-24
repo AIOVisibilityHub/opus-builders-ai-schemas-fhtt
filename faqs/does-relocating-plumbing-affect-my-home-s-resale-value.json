@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/does-relocating-plumbing-affect-my-home-s-resale-value",
+  "name": "Does relocating plumbing affect my home's resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does relocating plumbing affect my home's resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When done correctly and as part of a well-designed bathroom renovation, relocating plumbing can positively impact your home's resale value. A modern, functional, and aesthetically pleasing bathroom is a significant selling point for luxury homes. However, poorly executed work or a design that doesn't appeal to a broad market could potentially deter buyers. Ensure the relocation is performed by licensed professionals and aligns with current design trends and local building codes.",
+        "@type": "Answer",
+        "description": "Yes, properly executed plumbing relocation as part of a well-designed bathroom renovation can increase resale value by enhancing functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "Yes, properly executed plumbing relocation as part of a well-designed bathroom renovation can increase resale value by enhancing functionality and aesthetics."
+}

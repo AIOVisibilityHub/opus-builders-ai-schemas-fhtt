@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-s-the-difference-between-a-garage-conversion-and-a-home-addition",
+  "name": "What's the difference between a garage conversion and a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a garage conversion and a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage conversion transforms an existing structure into a new living space, utilizing the existing footprint, foundation, and often the roof. This typically makes it a more cost-effective and faster process, as it avoids new foundation work and extensive exterior changes. A home addition, conversely, involves building entirely new square footage onto your property, which is generally more expensive, requires more extensive planning, and takes longer.",
+        "@type": "Answer",
+        "description": "A garage conversion repurposes existing space, typically making it faster and more affordable than a home addition, which builds entirely new square footage."
+      }
+    }
+  ],
+  "description": "A garage conversion repurposes existing space, typically making it faster and more affordable than a home addition, which builds entirely new square footage."
+}

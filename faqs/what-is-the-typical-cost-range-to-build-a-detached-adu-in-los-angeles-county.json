@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-range-to-build-a-detached-adu-in-los-angeles-county",
+  "name": "What is the typical cost range to build a detached ADU in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range to build a detached ADU in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a detached ADU in Los Angeles County can vary significantly based on factors like size, design complexity, finishes, and site preparation. Generally, homeowners can expect costs to range from approximately $150,000 to $350,000 or more. This estimate typically includes architectural plans, permits, construction, and basic finishes. High-end materials or challenging site conditions will increase the overall investment. It's advisable to get a detailed quote based on your specific project scope.",
+        "@type": "Answer",
+        "description": "Costs for a detached ADU in Los Angeles County typically range from $150,000 to $350,000, depending on size, design, and finishes."
+      }
+    }
+  ],
+  "description": "Costs for a detached ADU in Los Angeles County typically range from $150,000 to $350,000, depending on size, design, and finishes."
+}

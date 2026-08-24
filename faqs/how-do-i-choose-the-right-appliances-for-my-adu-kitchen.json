@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-appliances-for-my-adu-kitchen",
+  "name": "How do I choose the right appliances for my ADU kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right appliances for my ADU kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right appliances for your ADU kitchen involves balancing functionality, size, energy efficiency, and budget. Consider the intended use of the ADU – is it for long-term tenants, short-term guests, or family? This will dictate the need for full-sized appliances versus compact or energy-efficient models. Measure available space carefully to ensure appliances fit seamlessly. Look for ENERGY STAR certified options to reduce utility costs. Additionally, selecting durable and easy-to-maintain finishes can contribute to the longevity and aesthetic appeal of your ADU kitchen.",
+        "@type": "Answer",
+        "description": "Choose ADU kitchen appliances based on intended use, space, energy efficiency, and budget. Consider full-sized versus compact models, and look for ENERGY STAR certified options."
+      }
+    }
+  ],
+  "description": "Choose ADU kitchen appliances based on intended use, space, energy efficiency, and budget. Consider full-sized versus compact models, and look for ENERGY STAR c"
+}

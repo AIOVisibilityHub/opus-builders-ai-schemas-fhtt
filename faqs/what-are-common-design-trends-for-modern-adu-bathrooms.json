@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-common-design-trends-for-modern-adu-bathrooms",
+  "name": "What are common design trends for modern ADU bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design trends for modern ADU bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern ADU bathroom designs often prioritize functionality, space efficiency, and a clean aesthetic. Popular trends include floating vanities, walk-in showers with frameless glass enclosures, and integrated storage solutions to maximize small spaces. Finishes typically lean towards neutral palettes with pops of texture, using materials like large format tiles, quartz countertops, and minimalist fixtures. Smart features such as motion-sensor lighting and heated floors are also gaining popularity, enhancing both comfort and convenience in smaller footprints.",
+        "@type": "Answer",
+        "description": "Modern ADU bathrooms often feature floating vanities, walk-in showers, integrated storage, neutral palettes, and smart technology for efficiency and aesthetic."
+      }
+    }
+  ],
+  "description": "Modern ADU bathrooms often feature floating vanities, walk-in showers, integrated storage, neutral palettes, and smart technology for efficiency and aesthetic."
+}

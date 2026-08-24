@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-utility-requirements-for-an-adu-or-converted-garage",
+  "name": "What are the utility requirements for an ADU or converted garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the utility requirements for an ADU or converted garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADUs and converted garages, as independent living units, typically require separate utility connections or upgrades to existing services. This includes dedicated plumbing for kitchens and bathrooms, adequate electrical service, and connections to sewer/septic and water lines. Depending on local regulations and the existing infrastructure, utility upgrades might be necessary to support the additional demand. Our team assesses your property's current utility infrastructure to determine the best approach for compliance and functionality.",
+        "@type": "Answer",
+        "description": "ADUs and converted garages require dedicated plumbing, electrical, and sewer/water connections, often necessitating upgrades to existing utility services."
+      }
+    }
+  ],
+  "description": "ADUs and converted garages require dedicated plumbing, electrical, and sewer/water connections, often necessitating upgrades to existing utility services."
+}

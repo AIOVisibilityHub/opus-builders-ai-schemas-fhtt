@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-an-accessible-bathroom-remodel-usually-take",
+  "name": "How long does an accessible bathroom remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an accessible bathroom remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an accessible bathroom remodel depends on its complexity. A basic remodel involving fixture replacements and minor modifications might take 2-4 weeks. More extensive projects that require structural changes, reconfiguring plumbing, or custom tile work can extend to 6-10 weeks or longer. We provide a detailed project schedule outlining each phase, from demolition to final installation, during the planning stages. Our goal is to complete your project efficiently while maintaining high standards of quality and craftsmanship.",
+        "@type": "Answer",
+        "description": "An accessible bathroom remodel typically takes 2-4 weeks for minor changes, and 6-10 weeks or more for extensive projects involving structural or plumbing reconfigurations. We provide a detailed project schedule."
+      }
+    }
+  ],
+  "description": "An accessible bathroom remodel typically takes 2-4 weeks for minor changes, and 6-10 weeks or more for extensive projects involving structural or plumbing recon"
+}

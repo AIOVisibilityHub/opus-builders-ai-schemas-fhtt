@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-adu-kitchen-construction",
+  "name": "What is the typical timeline for ADU kitchen construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for ADU kitchen construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for ADU kitchen construction can range from several weeks to a few months, depending on the project's complexity and scope. This includes phases such as design finalization, permit acquisition, material procurement, rough-ins for plumbing and electrical, installation of cabinets and countertops, and appliance setup. External factors like inspection schedules, material availability, and weather conditions can also influence the duration. Engaging an experienced builder can help streamline the process and manage expectations for completion.",
+        "@type": "Answer",
+        "description": "ADU kitchen construction typically takes several weeks to a few months, depending on complexity, design, permits, and material availability. Experienced builders can help streamline the process."
+      }
+    }
+  ],
+  "description": "ADU kitchen construction typically takes several weeks to a few months, depending on complexity, design, permits, and material availability. Experienced builder"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-an-architect-for-my-adu-project",
+  "name": "Do I need an architect for my ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for my ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some simple ADU projects, especially garage conversions, might utilize pre-approved plans or require only drafting services, most custom ADU builds benefit significantly from an architect. An architect can maximize space efficiency, ensure aesthetic integration with the main property, navigate complex zoning codes, and create detailed plans necessary for permitting and construction. Their expertise helps optimize natural light, ventilation, and flow, leading to a higher quality and more functional living space. For more complex designs or unique site conditions, an architect's involvement is often essential.",
+        "@type": "Answer",
+        "description": "For most custom ADU projects, an architect is beneficial for optimizing space, ensuring code compliance, and creating detailed plans. Simple conversions might use pre-approved plans."
+      }
+    }
+  ],
+  "description": "For most custom ADU projects, an architect is beneficial for optimizing space, ensuring code compliance, and creating detailed plans. Simple conversions might u"
+}

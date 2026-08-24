@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-do-i-need-for-a-garage-conversion-in-glendale",
+  "name": "What permits do I need for a garage conversion in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits do I need for a garage conversion in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Glendale, a garage conversion, often classified as an Accessory Dwelling Unit (ADU) or junior ADU, requires specific permits from the City of Glendale's Planning and Building & Safety Departments. This typically includes a building permit, and may involve planning review, zoning clearance, and potentially plumbing, electrical, and mechanical permits. Adhering to local zoning codes and building regulations is crucial for a successful project.",
+        "@type": "Answer",
+        "description": "In Glendale, garage conversions usually require permits from the City's Planning and Building & Safety Departments, including building permits and zoning clearance."
+      }
+    }
+  ],
+  "description": "In Glendale, garage conversions usually require permits from the City's Planning and Building & Safety Departments, including building permits and zoning cleara"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-common-challenges-in-adu-kitchen-design",
+  "name": "What are the common challenges in ADU kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges in ADU kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in ADU kitchen design often revolve around maximizing functionality within limited space. This includes strategic placement of appliances, optimizing storage solutions, and designing layouts that promote efficient workflow, such as a compact work triangle. Integrating proper ventilation and ensuring adequate natural light can also be challenging in smaller footprints. Additionally, adhering to specific local building codes and accessibility requirements, which may differ from the main residence, needs careful attention. Balancing aesthetic appeal with practical utility is key to overcoming these design hurdles.",
+        "@type": "Answer",
+        "description": "Challenges in ADU kitchen design include maximizing functionality in limited space, strategic appliance placement, optimizing storage, and integrating ventilation and light. Adhering to local codes is also crucial."
+      }
+    }
+  ],
+  "description": "Challenges in ADU kitchen design include maximizing functionality in limited space, strategic appliance placement, optimizing storage, and integrating ventilati"
+}

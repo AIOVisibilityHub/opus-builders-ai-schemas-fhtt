@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-initial-steps-for-beginning-a-multi-unit-property-construction-proj",
+  "name": "What are the initial steps for beginning a multi-unit property construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the initial steps for beginning a multi-unit property construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps for multi-unit property construction involve feasibility studies, site selection, and securing financing. Following this, architectural design and engineering are crucial to develop detailed plans that comply with local zoning and building codes. Permitting is a significant phase, requiring approvals from various city departments before construction can commence. Engaging a reputable builder early in the process helps streamline these stages.",
+        "@type": "Answer",
+        "description": "Initial steps include feasibility studies, site selection, financing, architectural design, and securing necessary permits before construction begins."
+      }
+    }
+  ],
+  "description": "Initial steps include feasibility studies, site selection, financing, architectural design, and securing necessary permits before construction begins."
+}

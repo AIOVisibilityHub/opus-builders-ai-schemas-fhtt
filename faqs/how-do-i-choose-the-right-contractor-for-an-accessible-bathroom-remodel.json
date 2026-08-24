@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-contractor-for-an-accessible-bathroom-remodel",
+  "name": "How do I choose the right contractor for an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for an accessible bathroom remodel involves looking for experience in universal design and ADA compliance. Seek a company with a strong portfolio of similar projects, excellent references, and proper licensing and insurance. Ensure they offer clear communication, detailed proposals, and a transparent process for managing permits and inspections. A contractor who understands your specific mobility needs and can integrate accessibility without compromising aesthetics is crucial for a successful outcome.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in universal design and ADA compliance, a strong portfolio, and excellent references. They should be licensed, insured, offer clear communication, and handle permits."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in universal design and ADA compliance, a strong portfolio, and excellent references. They should be licensed, insured, offe"
+}

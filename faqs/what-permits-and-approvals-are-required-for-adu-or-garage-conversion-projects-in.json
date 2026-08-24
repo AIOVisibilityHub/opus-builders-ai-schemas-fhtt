@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-and-approvals-are-required-for-adu-or-garage-conversion-projects-in",
+  "name": "What permits and approvals are required for ADU or garage conversion projects in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are required for ADU or garage conversion projects in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, ADU and garage conversion projects typically require planning approval, building permits, and potentially other specific permits depending on the scope. The City of Los Angeles Department of Building and Safety (LADBS) reviews plans for compliance with zoning codes, building codes, and ADU-specific ordinances. This includes ensuring setbacks, lot coverage, height limits, and safety standards are met. Our process includes managing these permit applications to ensure compliance and a smooth approval process.",
+        "@type": "Answer",
+        "description": "Projects in Los Angeles require planning and building permits from the LADBS, ensuring compliance with local zoning and building codes."
+      }
+    }
+  ],
+  "description": "Projects in Los Angeles require planning and building permits from the LADBS, ensuring compliance with local zoning and building codes."
+}

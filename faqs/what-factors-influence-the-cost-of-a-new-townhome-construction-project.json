@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-a-new-townhome-construction-project",
+  "name": "What factors influence the cost of a new townhome construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a new townhome construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of new townhome construction, including the size and number of units, the complexity of the architectural design, the quality of materials and finishes selected, site preparation requirements, and permitting fees. Custom features, advanced smart home technology, and landscaping also contribute to the overall budget. Opus Builders provides detailed cost breakdowns based on your specific project scope.",
+        "@type": "Answer",
+        "description": "Costs are influenced by size, design complexity, material quality, site work, permitting, and custom features."
+      }
+    }
+  ],
+  "description": "Costs are influenced by size, design complexity, material quality, site work, permitting, and custom features."
+}

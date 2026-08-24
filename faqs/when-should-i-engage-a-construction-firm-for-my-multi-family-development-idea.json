@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-engage-a-construction-firm-for-my-multi-family-development-idea",
+  "name": "When should I engage a construction firm for my multi-family development idea?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a construction firm for my multi-family development idea?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to engage a construction firm, or a firm with integrated development and construction expertise, early in your multi-family development process. Ideally, this should occur during the initial feasibility and design phase, even before finalizing architectural plans. Early involvement allows the firm to provide valuable input on constructability, cost estimates, scheduling, and potential challenges. Their expertise can optimize designs, identify cost-saving opportunities, and ensure the project remains viable and efficient from its conception.",
+        "@type": "Answer",
+        "description": "Engage a construction firm early, ideally during the initial feasibility and design phase. Their early input can optimize designs, provide accurate cost estimates, and prevent future issues."
+      }
+    }
+  ],
+  "description": "Engage a construction firm early, ideally during the initial feasibility and design phase. Their early input can optimize designs, provide accurate cost estimat"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/will-a-garage-conversion-increase-my-property-taxes",
+  "name": "Will a garage conversion increase my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a garage conversion increase my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting your garage into a habitable living space, particularly an ADU, typically increases your property's assessed value, which can lead to higher property taxes. The extent of the increase depends on the added value and local assessment policies. It's advisable to consult with a local tax assessor or real estate professional to understand the potential impact before starting your project.",
+        "@type": "Answer",
+        "description": "Yes, converting your garage usually increases your property's assessed value, which can result in higher property taxes."
+      }
+    }
+  ],
+  "description": "Yes, converting your garage usually increases your property's assessed value, which can result in higher property taxes."
+}

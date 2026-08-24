@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-placement-of-an-adu-bathroom-within-the-unit",
+  "name": "What factors influence the placement of an ADU bathroom within the unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the placement of an ADU bathroom within the unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The placement of an ADU bathroom is primarily influenced by plumbing access, structural considerations, and overall layout efficiency. Locating the bathroom close to existing plumbing lines in the main house or an existing ADU can significantly reduce construction costs and complexity. Structural walls and available space also dictate placement. Designers aim to integrate bathrooms seamlessly into the floor plan, often positioning them to minimize noise transfer and maximize usable living space. Ventilation requirements are also a key factor in placement decisions.",
+        "@type": "Answer",
+        "description": "ADU bathroom placement is influenced by plumbing access, structural limitations, overall layout efficiency, and ventilation requirements to optimize space and cost."
+      }
+    }
+  ],
+  "description": "ADU bathroom placement is influenced by plumbing access, structural limitations, overall layout efficiency, and ventilation requirements to optimize space and c"
+}

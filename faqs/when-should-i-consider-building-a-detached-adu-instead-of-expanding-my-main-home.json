@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-building-a-detached-adu-instead-of-expanding-my-main-home",
+  "name": "When should I consider building a detached ADU instead of expanding my main home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider building a detached ADU instead of expanding my main home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider building a detached ADU if you require a separate, private living space that is distinct from your main home. This is ideal for rental income, housing extended family while maintaining independence, or creating a dedicated workspace without impacting the primary residence's layout or privacy. It's also a strong option if your property has sufficient space and zoning allows for a new separate structure, and if adding onto your main home would be too disruptive or functionally awkward.",
+        "@type": "Answer",
+        "description": "Consider a detached ADU for separate, private living space, rental income, or housing family independently, especially if property space and zoning permit a new structure."
+      }
+    }
+  ],
+  "description": "Consider a detached ADU for separate, private living space, rental income, or housing family independently, especially if property space and zoning permit a new"
+}

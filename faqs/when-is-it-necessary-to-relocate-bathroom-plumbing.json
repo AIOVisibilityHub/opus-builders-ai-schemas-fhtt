@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-is-it-necessary-to-relocate-bathroom-plumbing",
+  "name": "When is it necessary to relocate bathroom plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to relocate bathroom plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating bathroom plumbing is necessary when you are significantly changing your bathroom layout, such as moving a toilet, shower, or sink to a different wall or area of the room. This is common during full bathroom renovations, conversions of existing spaces into new bathrooms, or when expanding a bathroom. It's also required if you're addressing significant drainage issues that necessitate re-piping or if current pipework is incompatible with a desired new fixture type.",
+        "@type": "Answer",
+        "description": "It's necessary when significantly changing your bathroom layout, converting spaces, expanding a bathroom, or addressing major drainage issues."
+      }
+    }
+  ],
+  "description": "It's necessary when significantly changing your bathroom layout, converting spaces, expanding a bathroom, or addressing major drainage issues."
+}

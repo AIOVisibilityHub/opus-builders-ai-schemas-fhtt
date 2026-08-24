@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-an-in-law-suite-be-rented-out-for-income",
+  "name": "Can an in-law suite be rented out for income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an in-law suite be rented out for income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many areas of Los Angeles, an in-law suite (ADU) can be legally rented out to provide rental income. Recent state laws have eased restrictions, making it more feasible for homeowners to utilize ADUs as long-term rentals. This can be a significant financial benefit, helping offset mortgage payments or construction costs. However, local regulations regarding short-term rentals (like Airbnb) may vary and could be more restrictive. We recommend consulting with us to understand the specific rental opportunities and regulations applicable to your property.",
+        "@type": "Answer",
+        "description": "Yes, in-law suites can often be rented out for long-term income in Los Angeles, but local regulations on short-term rentals may vary."
+      }
+    }
+  ],
+  "description": "Yes, in-law suites can often be rented out for long-term income in Los Angeles, but local regulations on short-term rentals may vary."
+}

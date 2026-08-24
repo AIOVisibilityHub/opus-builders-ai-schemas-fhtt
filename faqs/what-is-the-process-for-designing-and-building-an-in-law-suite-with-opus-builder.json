@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-designing-and-building-an-in-law-suite-with-opus-builder",
+  "name": "What is the process for designing and building an in-law suite with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing and building an in-law suite with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your needs, vision, and property specifics. Next, our design team develops custom plans that meet local zoning regulations and aesthetic preferences. Once designs are finalized and permits secured, our construction phase commences, managed by experienced project leaders. We maintain transparent communication throughout, ensuring quality craftsmanship and adherence to timelines. The final step involves a thorough walkthrough and handover, ensuring your complete satisfaction with your new in-law suite.",
+        "@type": "Answer",
+        "description": "Our process includes initial consultation, custom design, permit acquisition, professional construction management, and final walkthrough to ensure your complete satisfaction."
+      }
+    }
+  ],
+  "description": "Our process includes initial consultation, custom design, permit acquisition, professional construction management, and final walkthrough to ensure your complet"
+}

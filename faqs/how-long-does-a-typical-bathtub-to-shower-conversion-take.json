@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-bathtub-to-shower-conversion-take",
+  "name": "How long does a typical bathtub-to-shower conversion take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathtub-to-shower conversion take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathtub-to-shower conversion varies based on the complexity of the project. A basic conversion using a pre-fabricated shower pan and wall system might be completed in as little as 3-5 days. More elaborate custom projects involving tiling, plumbing relocation, or structural modifications could take 1-2 weeks or longer. Factors like material availability, drying times for grout and sealants, and the extent of demolition required all influence the timeline. Opus Builders will provide a detailed project schedule during the initial consultation.",
+        "@type": "Answer",
+        "description": "A basic conversion can take 3-5 days, while more complex custom projects with tiling or plumbing relocation may require 1-2 weeks or more. The timeline depends on project complexity and materials."
+      }
+    }
+  ],
+  "description": "A basic conversion can take 3-5 days, while more complex custom projects with tiling or plumbing relocation may require 1-2 weeks or more. The timeline depends"
+}

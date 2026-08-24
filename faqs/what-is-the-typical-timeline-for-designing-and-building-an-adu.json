@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-designing-and-building-an-adu",
+  "name": "What is the typical timeline for designing and building an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for designing and building an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for an ADU project, from initial design to final construction, generally ranges from 8 to 18 months. This includes several phases: conceptual design (1-2 months), architectural and engineering plans (2-4 months), permitting review and approval (2-6 months, highly variable), and actual construction (3-6 months). Factors like design complexity, site conditions, and city permitting office workload can significantly influence the overall duration.",
+        "@type": "Answer",
+        "description": "Designing and building an ADU typically takes 8 to 18 months, encompassing design, planning, permitting, and construction phases. Permitting time is highly variable."
+      }
+    }
+  ],
+  "description": "Designing and building an ADU typically takes 8 to 18 months, encompassing design, planning, permitting, and construction phases. Permitting time is highly vari"
+}

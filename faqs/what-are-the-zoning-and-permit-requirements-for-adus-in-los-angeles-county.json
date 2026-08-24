@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-zoning-and-permit-requirements-for-adus-in-los-angeles-county",
+  "name": "What are the zoning and permit requirements for ADUs in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the zoning and permit requirements for ADUs in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles County, ADU regulations are largely governed by state laws and local ordinances, which generally aim to streamline their construction. Key requirements often include specific setbacks from property lines, maximum square footage limits based on lot size or existing primary home size, and parking provisions. Detached ADUs typically have a maximum size of 1,200 square feet. Attached ADUs must generally be smaller than 50% of the primary dwelling's floor area. Opus Builders navigates these complexities, ensuring your design and construction adhere to all necessary permits and local zoning codes.",
+        "@type": "Answer",
+        "description": "ADU requirements in Los Angeles County involve specific setbacks, maximum size limits (e.g., 1,200 sq ft for detached), and parking, all of which Opus Builders manages during design and permitting."
+      }
+    }
+  ],
+  "description": "ADU requirements in Los Angeles County involve specific setbacks, maximum size limits (e.g., 1,200 sq ft for detached), and parking, all of which Opus Builders"
+}

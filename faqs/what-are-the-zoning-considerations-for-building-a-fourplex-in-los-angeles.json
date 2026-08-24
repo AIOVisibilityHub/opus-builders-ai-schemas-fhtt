@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-zoning-considerations-for-building-a-fourplex-in-los-angeles",
+  "name": "What are the zoning considerations for building a fourplex in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the zoning considerations for building a fourplex in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a fourplex in Los Angeles involves specific zoning regulations, which vary depending on the property's location and specific designation. Generally, properties zoned R2 (Residential, Two Units) or R3 (Residential, Multiple Units) may be eligible, especially with recent state legislation (SB 9 and SB 10) promoting denser housing. It is crucial to verify the exact zoning for your specific parcel and understand local overlay zones, hillside restrictions, or historical preservation requirements. Consulting with a local planning expert is recommended to navigate these complexities.",
+        "@type": "Answer",
+        "description": "Zoning for fourplex construction in Los Angeles depends on the property's specific designation, typically R2 or R3. Recent state laws may also impact eligibility."
+      }
+    }
+  ],
+  "description": "Zoning for fourplex construction in Los Angeles depends on the property's specific designation, typically R2 or R3. Recent state laws may also impact eligibilit"
+}

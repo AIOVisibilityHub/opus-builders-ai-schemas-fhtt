@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-detached-adu-and-what-are-its-primary-benefits",
+  "name": "What is a detached ADU and what are its primary benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a detached ADU and what are its primary benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detached ADU (Accessory Dwelling Unit) is a separate, independent living space built on the same property as a primary residence. It offers a range of benefits, including increased property value, potential rental income, and flexible space for family members, guests, or a home office. Unlike attached ADUs, detached units often provide greater privacy for both the main home residents and the ADU occupants. They can also offer more design flexibility, allowing them to complement the existing property while maintaining their own distinct character.",
+        "@type": "Answer",
+        "description": "A detached ADU is a separate living unit on the same property, offering benefits like increased property value, rental income, and flexible space for family or guests."
+      }
+    }
+  ],
+  "description": "A detached ADU is a separate living unit on the same property, offering benefits like increased property value, rental income, and flexible space for family or"
+}

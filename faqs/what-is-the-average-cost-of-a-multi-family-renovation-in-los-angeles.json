@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-average-cost-of-a-multi-family-renovation-in-los-angeles",
+  "name": "What is the average cost of a multi-family renovation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a multi-family renovation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a multi-family renovation in Los Angeles is highly variable, depending on the project's scope, materials selected, and the building's current condition. A basic unit refresh might cost less per door, while luxury upgrades or extensive structural work will be significantly more. Costs can range from tens of thousands for minor updates per unit to millions for a full building overhaul. Factors like permitting fees, labor rates in the LA area, and choice of finishes (e.g., custom cabinetry vs. standard) all contribute to the final budget. We provide detailed estimates after an initial consultation and assessment.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on scope, materials, and building condition, ranging from thousands per unit for minor updates to millions for full overhauls. LA labor and permitting also influence pricing."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on scope, materials, and building condition, ranging from thousands per unit for minor updates to millions for full overhauls. LA labor"
+}

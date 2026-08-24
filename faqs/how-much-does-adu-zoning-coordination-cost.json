@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-adu-zoning-coordination-cost",
+  "name": "How much does ADU zoning coordination cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does ADU zoning coordination cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of ADU zoning coordination varies significantly based on the complexity of your project, the specific city's regulations (e.g., Pasadena versus North Hollywood), and the scope of services required. Factors influencing cost include the need for detailed site analysis, preparation of specialized reports, multiple rounds of city reviews, or addressing unique property challenges. It's an investment that helps avoid costly delays and redesigns, typically provided as part of a comprehensive design and permitting service package.",
+        "@type": "Answer",
+        "description": "The cost of ADU zoning coordination varies by project complexity and city regulations, covering site analysis and application preparation."
+      }
+    }
+  ],
+  "description": "The cost of ADU zoning coordination varies by project complexity and city regulations, covering site analysis and application preparation."
+}

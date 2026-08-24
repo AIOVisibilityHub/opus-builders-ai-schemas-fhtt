@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-relocating-bathroom-plumbing",
+  "name": "What is involved in relocating bathroom plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in relocating bathroom plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating bathroom plumbing involves re-routing water supply lines, drain pipes, and vent pipes to a new layout. This can be a complex process depending on the new location of fixtures, existing structural elements, and local building codes. It often requires opening up walls and floors to access and modify the pipework, followed by patching and finishing. The project scope ranges from minor adjustments within the same wall to significant reconfigurations affecting multiple floors or new room additions.",
+        "@type": "Answer",
+        "description": "Relocating bathroom plumbing means re-routing water supply, drain, and vent pipes to support a new fixture layout, often requiring structural modifications."
+      }
+    }
+  ],
+  "description": "Relocating bathroom plumbing means re-routing water supply, drain, and vent pipes to support a new fixture layout, often requiring structural modifications."
+}

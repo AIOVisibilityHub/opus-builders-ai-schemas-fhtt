@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-a-general-contractor-or-a-development-firm-for-a-multi-family-project",
+  "name": "Do I need a general contractor or a development firm for a multi-family project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a general contractor or a development firm for a multi-family project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a ground-up multi-family project, you typically need a development firm or a general contractor with extensive experience in multi-family construction. A development firm can offer a more comprehensive, end-to-end service, managing everything from conception, financing, and permitting to construction and lease-up. A general contractor primarily focuses on the construction phase itself. The choice depends on your level of involvement, expertise, and resources. Many clients opt for firms that integrate both development and construction expertise.",
+        "@type": "Answer",
+        "description": "You need a development firm or an experienced general contractor for a multi-family project. A development firm offers end-to-end management, while a general contractor focuses on construction."
+      }
+    }
+  ],
+  "description": "You need a development firm or an experienced general contractor for a multi-family project. A development firm offers end-to-end management, while a general co"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-take-to-build-an-attached-adu",
+  "name": "How long does it take to build an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for constructing an attached ADU typically ranges from 6 to 12 months, from initial design to final inspection. This includes several key phases: architectural design and planning (2-4 months), permit acquisition (2-3 months, which can vary significantly by city department workload), and construction (3-5 months). Factors that can influence the timeline include the complexity of the design, lead times for materials, and the efficiency of local permitting offices. We strive to provide clear timelines and regular progress updates.",
+        "@type": "Answer",
+        "description": "An attached ADU construction typically takes 6 to 12 months, covering design, permitting, and construction, though timelines can vary based on project complexity and permitting processes."
+      }
+    }
+  ],
+  "description": "An attached ADU construction typically takes 6 to 12 months, covering design, permitting, and construction, though timelines can vary based on project complexit"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-getting-an-adu-project-approved-in-a-city-like-glendale",
+  "name": "What is the process for getting an ADU project approved in a city like Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting an ADU project approved in a city like Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The approval process for an ADU in Glendale generally starts with design and plan development, ensuring compliance with local zoning ordinances and building codes. This includes architectural drawings, structural engineering, and utility plans. Once prepared, plans are submitted to the City of Glendale's Planning and Building & Safety Departments for review. This review ensures adherence to all regulations, including height restrictions, setbacks, and parking requirements. After plan checks are completed and fees paid, permits are issued, allowing construction to begin. Inspections are conducted throughout the build.",
+        "@type": "Answer",
+        "description": "ADU approval in Glendale involves designing plans compliant with local zoning, submitting them to the city for review and permitting, and then proceeding with construction and inspections."
+      }
+    }
+  ],
+  "description": "ADU approval in Glendale involves designing plans compliant with local zoning, submitting them to the city for review and permitting, and then proceeding with c"
+}

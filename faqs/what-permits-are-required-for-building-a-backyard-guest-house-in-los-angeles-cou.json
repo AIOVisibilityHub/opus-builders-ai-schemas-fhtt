@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-building-a-backyard-guest-house-in-los-angeles-cou",
+  "name": "What permits are required for building a backyard guest house in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for building a backyard guest house in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a backyard guest house (ADU) in Los Angeles County requires several permits, primarily a building permit, but also potentially plumbing, electrical, and mechanical permits. Additionally, zoning compliance and approval from the local planning department are mandatory. The specific requirements can vary slightly between different cities within Los Angeles County. We manage the entire permitting process to ensure compliance with all local regulations.",
+        "@type": "Answer",
+        "description": "Building an ADU in Los Angeles County requires building, plumbing, electrical, and mechanical permits, plus zoning approval. Requirements vary by city, and we handle the permitting process."
+      }
+    }
+  ],
+  "description": "Building an ADU in Los Angeles County requires building, plumbing, electrical, and mechanical permits, plus zoning approval. Requirements vary by city, and we h"
+}

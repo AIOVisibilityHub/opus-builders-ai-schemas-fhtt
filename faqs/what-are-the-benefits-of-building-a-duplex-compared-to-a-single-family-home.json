@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-benefits-of-building-a-duplex-compared-to-a-single-family-home",
+  "name": "What are the benefits of building a duplex compared to a single-family home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building a duplex compared to a single-family home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a duplex offers several advantages over a single-family home. It allows for potential rental income from one unit, helping to offset mortgage costs or generate passive income. Duplexes are also ideal for families seeking proximity with independence, such as housing aging parents or adult children. From an investment perspective, they can offer a higher return on a single lot and may provide more flexibility than a single-family residence. Opus Builders specializes in designing duplexes that combine luxury and practical living solutions.",
+        "@type": "Answer",
+        "description": "Duplexes offer rental income potential, ideal solutions for multi-generational living, and often a higher return on investment compared to single-family homes."
+      }
+    }
+  ],
+  "description": "Duplexes offer rental income potential, ideal solutions for multi-generational living, and often a higher return on investment compared to single-family homes."
+}

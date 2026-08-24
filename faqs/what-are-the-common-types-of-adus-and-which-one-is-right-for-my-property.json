@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-common-types-of-adus-and-which-one-is-right-for-my-property",
+  "name": "What are the common types of ADUs, and which one is right for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of ADUs, and which one is right for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common ADU types include detached (stand-alone structure), attached (part of the main house), junior ADU (JADU, within an existing single-family structure with a separate entrance), and garage conversion. The best type for your property depends on available space, zoning regulations, budget, and intended use. Detached ADUs offer maximum privacy, while garage conversions are often the most cost-effective. We can assess your property to determine the optimal solution.",
+        "@type": "Answer",
+        "description": "ADU types include detached, attached, junior, and garage conversions. The best option depends on space, budget, regulations, and how you plan to use it."
+      }
+    }
+  ],
+  "description": "ADU types include detached, attached, junior, and garage conversions. The best option depends on space, budget, regulations, and how you plan to use it."
+}

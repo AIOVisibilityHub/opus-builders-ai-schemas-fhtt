@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-convert-an-existing-garage-into-an-adu",
+  "name": "Can I convert an existing garage into an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert an existing garage into an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting an existing garage into an ADU is a popular and often more cost-effective option than new construction. This process typically involves insulating walls and ceilings, upgrading electrical and plumbing systems, adding a kitchen and bathroom, and potentially modifying the entrance and windows. Structural modifications might also be required to meet residential standards. While it often avoids extensive foundation work, it's crucial to ensure the existing structure can safely support the conversion and meets all current building codes for habitability.",
+        "@type": "Answer",
+        "description": "Yes, converting an existing garage into an ADU is common and cost-effective, involving insulation, utility upgrades, and structural modifications to meet residential building codes."
+      }
+    }
+  ],
+  "description": "Yes, converting an existing garage into an ADU is common and cost-effective, involving insulation, utility upgrades, and structural modifications to meet reside"
+}

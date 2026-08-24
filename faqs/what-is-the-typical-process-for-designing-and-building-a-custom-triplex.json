@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-process-for-designing-and-building-a-custom-triplex",
+  "name": "What is the typical process for designing and building a custom triplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for designing and building a custom triplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for designing and building a custom triplex typically begins with an initial consultation to discuss your vision, budget, and site. This moves into architectural design, where preliminary plans are developed, refined, and eventually finalized. Concurrently, engineering plans are created. After design completion, we submit for necessary permits from local authorities. Once permits are approved, construction commences, managed by a dedicated project team. This includes foundation work, framing, roofing, utility installations, interior and exterior finishes, and final inspections, leading to project completion and handover.",
+        "@type": "Answer",
+        "description": "The process involves consultation, architectural design, engineering, permit acquisition, construction (foundation to finishes), and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, architectural design, engineering, permit acquisition, construction (foundation to finishes), and final inspection."
+}

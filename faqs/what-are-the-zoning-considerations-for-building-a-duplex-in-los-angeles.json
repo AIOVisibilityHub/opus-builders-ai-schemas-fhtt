@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-zoning-considerations-for-building-a-duplex-in-los-angeles",
+  "name": "What are the zoning considerations for building a duplex in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the zoning considerations for building a duplex in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zoning regulations are critical when planning a duplex in Los Angeles. Many residential zones permit duplexes, but specific rules regarding lot size, setbacks, height limits, and parking requirements must be met. These regulations vary by specific neighborhood and zone designation. It's essential to verify the zoning for your specific property to ensure duplex construction is permissible and to understand any limitations on size or density. Opus Builders provides expertise in navigating local zoning codes to ensure project compliance.",
+        "@type": "Answer",
+        "description": "Zoning in Los Angeles dictates if duplex construction is allowed on a property and sets rules for lot size, setbacks, height, and parking. It's crucial to verify local zoning codes."
+      }
+    }
+  ],
+  "description": "Zoning in Los Angeles dictates if duplex construction is allowed on a property and sets rules for lot size, setbacks, height, and parking. It's crucial to verif"
+}

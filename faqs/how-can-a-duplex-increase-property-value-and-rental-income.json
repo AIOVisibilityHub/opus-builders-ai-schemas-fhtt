@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-can-a-duplex-increase-property-value-and-rental-income",
+  "name": "How can a duplex increase property value and rental income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can a duplex increase property value and rental income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and constructed duplex can significantly enhance property value and generate substantial rental income. The presence of two independent units on a single lot offers increased density, which is often attractive in high-demand areas. The ability to rent out one unit provides a consistent revenue stream, which can cover mortgage payments or act as a standalone investment. Furthermore, high-quality, luxury duplexes built by Opus Builders are perceived as premium assets, appealing to both renters and future buyers, thus boosting overall market value.",
+        "@type": "Answer",
+        "description": "A duplex increases property value by offering two units on one lot and generates rental income from one or both units, providing a strong return on investment."
+      }
+    }
+  ],
+  "description": "A duplex increases property value by offering two units on one lot and generates rental income from one or both units, providing a strong return on investment."
+}

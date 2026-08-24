@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-ada-compliant-and-universally-designed-bathrooms",
+  "name": "What is the difference between ADA compliant and universally designed bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ADA compliant and universally designed bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA compliant bathrooms adhere to specific legal standards set by the Americans with Disabilities Act, primarily for public and commercial spaces, ensuring minimum accessibility requirements. Universally designed bathrooms, on the other hand, go beyond these minimums, aiming to create spaces that are usable and comfortable for the widest range of people, regardless of age, size, or ability, without stigmatizing any particular group. While ADA provides a baseline, universal design focuses on optimal usability and aesthetics for everyone in a residential context.",
+        "@type": "Answer",
+        "description": "ADA compliant bathrooms meet legal accessibility minimums for public spaces, while universally designed bathrooms aim for optimal usability and comfort for everyone in residential settings, often exceeding ADA standards."
+      }
+    }
+  ],
+  "description": "ADA compliant bathrooms meet legal accessibility minimums for public spaces, while universally designed bathrooms aim for optimal usability and comfort for ever"
+}

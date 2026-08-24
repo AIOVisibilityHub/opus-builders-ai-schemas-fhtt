@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-types-of-glass-enclosures-are-available-for-walk-in-showers",
+  "name": "What types of glass enclosures are available for walk-in showers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of glass enclosures are available for walk-in showers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For walk-in showers, various glass enclosure options are available to suit different aesthetic preferences and functional needs. These include frameless glass, which offers a sleek, minimalist look with minimal hardware, enhancing the open feel of the bathroom. Semi-frameless enclosures use some framing, typically around the perimeter, providing a balance of modern aesthetics and structural support. Framed enclosures offer the most support and a traditional look. Glass types can also vary from clear to frosted or textured for privacy. We can help you select the ideal option for your design.",
+        "@type": "Answer",
+        "description": "Glass enclosures include frameless, semi-frameless, and framed options, with various glass types like clear, frosted, or textured, to suit design and privacy needs."
+      }
+    }
+  ],
+  "description": "Glass enclosures include frameless, semi-frameless, and framed options, with various glass types like clear, frosted, or textured, to suit design and privacy ne"
+}

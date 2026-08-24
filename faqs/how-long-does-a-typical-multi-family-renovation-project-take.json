@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-multi-family-renovation-project-take",
+  "name": "How long does a typical multi-family renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical multi-family renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a multi-family renovation project varies significantly based on its scope and scale. A minor common area refresh might take a few weeks, while a comprehensive modernization of an entire apartment complex could extend for several months, or even over a year. Factors influencing the timeline include the number of units, the extent of structural work, material lead times, necessary permitting processes, and whether tenants remain on-site during construction. Opus Builders develops detailed project schedules to keep stakeholders informed and minimize disruption.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; minor refreshes take weeks, while full modernizations can take months or over a year. Factors include unit count, structural work, and permitting."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; minor refreshes take weeks, while full modernizations can take months or over a year. Factors include unit count, structural w"
+}

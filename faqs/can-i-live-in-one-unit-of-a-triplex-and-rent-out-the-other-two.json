@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-live-in-one-unit-of-a-triplex-and-rent-out-the-other-two",
+  "name": "Can I live in one unit of a triplex and rent out the other two?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in one unit of a triplex and rent out the other two?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, living in one unit of a triplex and renting out the other two is a common and often financially advantageous strategy. This arrangement is known as owner-occupancy with rental income. The rental income from the other two units can significantly offset your mortgage payments, property taxes, and maintenance costs, effectively reducing your personal housing expenses. It also allows you to be on-site for property management, which can be beneficial. Many financing options are available specifically for owner-occupied multi-unit properties.",
+        "@type": "Answer",
+        "description": "Yes, you can live in one unit and rent out the other two, which can significantly offset your mortgage and housing costs."
+      }
+    }
+  ],
+  "description": "Yes, you can live in one unit and rent out the other two, which can significantly offset your mortgage and housing costs."
+}

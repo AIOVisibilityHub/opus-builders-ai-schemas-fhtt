@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-determine-if-my-property-is-suitable-for-a-backyard-guest-house",
+  "name": "How do I determine if my property is suitable for a backyard guest house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine if my property is suitable for a backyard guest house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine suitability, consider your property's zoning, lot size, setback requirements, and available utility connections. Local zoning ordinances dictate minimum lot size, maximum ADU size, and placement. You'll also need adequate space for access and potential parking. A professional site assessment by a design-build firm can evaluate these factors, identify potential challenges, and confirm feasibility based on your specific location and local regulations.",
+        "@type": "Answer",
+        "description": "Property suitability for a guest house depends on zoning, lot size, setback requirements, and utility access. A professional assessment can confirm feasibility based on local regulations."
+      }
+    }
+  ],
+  "description": "Property suitability for a guest house depends on zoning, lot size, setback requirements, and utility access. A professional assessment can confirm feasibility"
+}

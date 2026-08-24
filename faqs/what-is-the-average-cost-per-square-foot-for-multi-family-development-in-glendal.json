@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-average-cost-per-square-foot-for-multi-family-development-in-glendal",
+  "name": "What is the average cost per square foot for multi-family development in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for multi-family development in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for multi-family development in Glendale can fluctuate based on numerous factors, but typically ranges from $250 to $450 or more for new construction. These costs include materials, labor, land acquisition, permits, architectural and engineering fees, and site preparation. The final price depends on the quality of finishes, building complexity, height, subterranean parking requirements, and current market conditions. It's crucial to obtain a detailed estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Average costs per square foot for multi-family development in Glendale typically range from $250 to $450+. This includes materials, labor, land, permits, and fees."
+      }
+    }
+  ],
+  "description": "Average costs per square foot for multi-family development in Glendale typically range from $250 to $450+. This includes materials, labor, land, permits, and fe"
+}

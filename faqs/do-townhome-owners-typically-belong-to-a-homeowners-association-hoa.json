@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-townhome-owners-typically-belong-to-a-homeowners-association-hoa",
+  "name": "Do townhome owners typically belong to a Homeowners Association (HOA)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do townhome owners typically belong to a Homeowners Association (HOA)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most townhome developments include a Homeowners Association (HOA). The HOA is responsible for maintaining common areas, shared amenities, and often the exterior of the units. Owners pay monthly or annual dues, which cover these services and contribute to reserve funds for future repairs. It's important to understand the specific HOA rules and fees before purchasing or building a townhome.",
+        "@type": "Answer",
+        "description": "Most townhome developments have an HOA that manages common areas and exteriors, requiring owners to pay dues."
+      }
+    }
+  ],
+  "description": "Most townhome developments have an HOA that manages common areas and exteriors, requiring owners to pay dues."
+}

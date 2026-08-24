@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-adu-kitchen-construction-in-los-angeles",
+  "name": "What permits are required for ADU kitchen construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for ADU kitchen construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Constructing an ADU kitchen in Los Angeles typically requires several permits from the Los Angeles Department of Building and Safety (LADBS). These commonly include building permits for structural changes, plumbing permits for water and drainage lines, electrical permits for wiring and fixtures, and mechanical permits for ventilation systems. Depending on the scope of work and existing structures, additional permits may be needed for grading, zoning, or public works. It is advisable to consult with a qualified contractor or architect to ensure all necessary permits are obtained before starting construction.",
+        "@type": "Answer",
+        "description": "ADU kitchen construction in Los Angeles requires building, plumbing, electrical, and mechanical permits from LADBS. A contractor or architect can help identify all necessary permits."
+      }
+    }
+  ],
+  "description": "ADU kitchen construction in Los Angeles requires building, plumbing, electrical, and mechanical permits from LADBS. A contractor or architect can help identify"
+}

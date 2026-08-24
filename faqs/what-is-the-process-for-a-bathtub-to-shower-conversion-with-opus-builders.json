@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-a-bathtub-to-shower-conversion-with-opus-builders",
+  "name": "What is the process for a bathtub-to-shower conversion with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a bathtub-to-shower conversion with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your vision, needs, and budget. Next, our design team creates detailed plans and material selections tailored to your preferences. Once approved, our experienced craftsmen handle the demolition of your existing tub and prepare the area. We then proceed with plumbing adjustments, shower pan installation, waterproofing, wall finishing (e.g., tile, panels), and fixture installation. The final steps include installing glass enclosures and a thorough clean-up. Throughout the project, we maintain clear communication and ensure minimal disruption to your home.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design planning, demolition, plumbing adjustments, waterproofing, wall finishing, fixture installation, and glass enclosure setup. We prioritize clear communication and minimal disruption."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design planning, demolition, plumbing adjustments, waterproofing, wall finishing, fixture installation, and glass enclosure s"
+}

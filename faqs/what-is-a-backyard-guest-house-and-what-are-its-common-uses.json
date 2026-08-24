@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-backyard-guest-house-and-what-are-its-common-uses",
+  "name": "What is a backyard guest house and what are its common uses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a backyard guest house and what are its common uses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backyard guest house, often called an Accessory Dwelling Unit (ADU) or granny flat, is a secondary residential structure on the same property as a primary home. They typically include a living area, kitchen, and bathroom. Common uses include housing for family members, a dedicated home office, a rental unit for additional income, or a private space for visitors. ADUs offer flexibility and can significantly enhance property value and functionality.",
+        "@type": "Answer",
+        "description": "A backyard guest house (ADU) is a secondary residence on your property, used for family, offices, rentals, or guests, adding value and flexibility."
+      }
+    }
+  ],
+  "description": "A backyard guest house (ADU) is a secondary residence on your property, used for family, offices, rentals, or guests, adding value and flexibility."
+}

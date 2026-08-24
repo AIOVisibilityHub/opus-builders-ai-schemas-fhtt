@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-minimum-lot-size-and-setback-requirements-for-adus",
+  "name": "What are the minimum lot size and setback requirements for ADUs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the minimum lot size and setback requirements for ADUs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimum lot size and setback requirements for ADUs vary by jurisdiction and specific property zoning. Generally, cities in our service areas like Pasadena often have a minimum lot size, but state laws have made it easier to build ADUs on most residential lots. Setbacks typically refer to the minimum distance an ADU must be from property lines. For a newly constructed detached ADU, rear and side yard setbacks are often reduced to 4 feet. Conversions of existing structures may have different rules. It's crucial to consult local city ordinances or a design professional for exact figures for your specific property.",
+        "@type": "Answer",
+        "description": "ADU lot size and setback rules vary by city and zoning, but state laws have streamlined requirements. Newly constructed detached ADUs often have 4-foot rear and side setbacks. Consult local ordinances."
+      }
+    }
+  ],
+  "description": "ADU lot size and setback rules vary by city and zoning, but state laws have streamlined requirements. Newly constructed detached ADUs often have 4-foot rear and"
+}

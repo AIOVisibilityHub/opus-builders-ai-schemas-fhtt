@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-engage-a-builder-for-my-multi-family-construction-project",
+  "name": "When should I engage a builder for my multi-family construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a builder for my multi-family construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to engage a builder early in the multi-family construction process, ideally during the design and planning phases. Early involvement allows the builder to provide valuable input on constructability, cost-saving measures, material selection, and schedule optimization. This collaborative approach can help identify potential issues before they become costly problems and ensures that the design aligns with practical construction realities. Opus Builders partners with clients from conception to completion.",
+        "@type": "Answer",
+        "description": "Engage a builder early, during design and planning, for valuable input on constructability, cost-saving measures, and schedule optimization."
+      }
+    }
+  ],
+  "description": "Engage a builder early, during design and planning, for valuable input on constructability, cost-saving measures, and schedule optimization."
+}

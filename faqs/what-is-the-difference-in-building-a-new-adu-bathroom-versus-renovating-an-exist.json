@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-in-building-a-new-adu-bathroom-versus-renovating-an-exist",
+  "name": "What is the difference in building a new ADU bathroom versus renovating an existing one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference in building a new ADU bathroom versus renovating an existing one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a new ADU bathroom involves starting from scratch, allowing for complete design flexibility and the installation of all new plumbing, electrical, and structural elements. This often means higher initial costs but guarantees full compliance with current codes and tailored design. Renovating an existing ADU bathroom, however, works within the existing footprint and infrastructure. This can be more cost-effective but might limit design choices due to existing walls, plumbing lines, or structural constraints. Permits are required for both, but the scope of work dictates the complexity.",
+        "@type": "Answer",
+        "description": "Building a new ADU bathroom offers full design flexibility and new infrastructure, while renovating works within existing constraints, potentially reducing cost but limiting design."
+      }
+    }
+  ],
+  "description": "Building a new ADU bathroom offers full design flexibility and new infrastructure, while renovating works within existing constraints, potentially reducing cost"
+}

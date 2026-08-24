@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-curbless-and-low-curb-walk-in-shower",
+  "name": "What is the difference between a curbless and low-curb walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a curbless and low-curb walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A curbless walk-in shower features a completely flush entry, creating a seamless transition from the bathroom floor. This design requires precise floor sloping and drainage to prevent water overflow and is highly favored for its accessibility and modern aesthetic. A low-curb shower, in contrast, has a small lip, typically 1-2 inches high, at the entry point. While still offering easier access than traditional showers, the low curb provides an additional barrier for water containment. Both offer sleek designs but differ in accessibility and water management approaches.",
+        "@type": "Answer",
+        "description": "Curbless showers have a flush entry for maximum accessibility, while low-curb showers have a small lip for easier access and water containment."
+      }
+    }
+  ],
+  "description": "Curbless showers have a flush entry for maximum accessibility, while low-curb showers have a small lip for easier access and water containment."
+}

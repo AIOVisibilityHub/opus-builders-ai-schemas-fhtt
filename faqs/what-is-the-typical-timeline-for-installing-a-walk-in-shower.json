@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-installing-a-walk-in-shower",
+  "name": "What is the typical timeline for installing a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for installing a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for a walk-in shower installation can range from one to three weeks, depending on the scope of the project. This includes demolition of the existing shower or tub, any necessary plumbing adjustments, waterproofing, tile installation, grouting, and finally, the installation of glass panels and fixtures. Custom designs, unexpected structural issues, or special material orders can extend this timeframe. We strive to complete projects efficiently while maintaining our high standards of quality craftsmanship.",
+        "@type": "Answer",
+        "description": "Installation usually takes 1-3 weeks, depending on project scope, demolition, plumbing, waterproofing, tiling, and fixture installation."
+      }
+    }
+  ],
+  "description": "Installation usually takes 1-3 weeks, depending on project scope, demolition, plumbing, waterproofing, tiling, and fixture installation."
+}

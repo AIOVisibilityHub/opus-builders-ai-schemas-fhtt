@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-use-electric-only-appliances-in-my-adu-kitchen",
+  "name": "Can I use electric-only appliances in my ADU kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use electric-only appliances in my ADU kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can absolutely use electric-only appliances in your ADU kitchen, and this is a common choice, particularly where gas lines are unavailable or homeowners prefer to avoid natural gas. Electric stoves, ovens, and water heaters are widely available and can be very efficient. The primary consideration will be ensuring your ADU's electrical panel has sufficient capacity to handle the load of all appliances, especially if you are including multiple high-wattage items simultaneously. An electrician can assess your current system and advise on any necessary panel upgrades or dedicated circuits.",
+        "@type": "Answer",
+        "description": "Yes, electric-only appliances are common in ADU kitchens. Ensure your ADU's electrical panel has sufficient capacity; an electrician can advise on necessary upgrades."
+      }
+    }
+  ],
+  "description": "Yes, electric-only appliances are common in ADU kitchens. Ensure your ADU's electrical panel has sufficient capacity; an electrician can advise on necessary upg"
+}

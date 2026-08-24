@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-a-walk-in-shower-replace-an-existing-bathtub",
+  "name": "Can a walk-in shower replace an existing bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a walk-in shower replace an existing bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing an existing bathtub with a walk-in shower is a common renovation project. This conversion often frees up significant space in the bathroom, creating a more open and modern feel. It typically involves removing the tub, modifying the plumbing for the new shower location and drain, preparing the subfloor for proper slope, and then building the new shower structure. Our team can assess your current bathroom layout and advise on the feasibility and design options for transforming your tub space into a luxurious walk-in shower.",
+        "@type": "Answer",
+        "description": "Yes, a walk-in shower can replace an existing bathtub, often creating more space and a modern feel, with plumbing and structural modifications."
+      }
+    }
+  ],
+  "description": "Yes, a walk-in shower can replace an existing bathtub, often creating more space and a modern feel, with plumbing and structural modifications."
+}

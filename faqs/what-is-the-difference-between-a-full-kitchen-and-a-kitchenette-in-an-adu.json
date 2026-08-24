@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-full-kitchen-and-a-kitchenette-in-an-adu",
+  "name": "What is the difference between a full kitchen and a kitchenette in an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a full kitchen and a kitchenette in an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full kitchen in an ADU includes a complete range of amenities: a full-sized sink, refrigerator, stove/oven, and often a dishwasher, along with ample counter space and storage. It is designed for comprehensive meal preparation and daily living. A kitchenette, conversely, is a smaller, more compact cooking area, typically featuring a smaller sink, a mini-refrigerator, and possibly a microwave or a two-burner cooktop. It's suitable for light meal prep and is often found in studio ADUs or guest suites where space is limited. Local regulations may define minimum requirements for each.",
+        "@type": "Answer",
+        "description": "A full kitchen has a complete range of appliances for full meal prep, while a kitchenette is smaller with fewer appliances, suitable for light cooking. Local regulations often define minimum requirements for each type."
+      }
+    }
+  ],
+  "description": "A full kitchen has a complete range of appliances for full meal prep, while a kitchenette is smaller with fewer appliances, suitable for light cooking. Local re"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-an-in-law-suite",
+  "name": "What is an in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An in-law suite, also known as a granny flat or accessory dwelling unit (ADU), is a secondary living space on the same property as a primary residence. It typically includes a bedroom, bathroom, and often a small kitchen or living area. These suites are designed to provide independent living for family members, such as elderly parents or adult children, while maintaining proximity to the main home. They can be attached to the main house, built as a separate structure, or located above a garage, offering flexibility in design and integration with the existing property.",
+        "@type": "Answer",
+        "description": "An in-law suite is a secondary, self-contained living space on the same property as the main house, designed for family members to live independently."
+      }
+    }
+  ],
+  "description": "An in-law suite is a secondary, self-contained living space on the same property as the main house, designed for family members to live independently."
+}

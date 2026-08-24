@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-and-approvals-are-required-for-townhome-construction-in-cities-like",
+  "name": "What permits and approvals are required for townhome construction in cities like Glendale or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are required for townhome construction in cities like Glendale or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Townhome construction in cities such as Glendale or Pasadena typically requires various permits, including grading, building, electrical, plumbing, and mechanical permits. Additionally, projects may need zoning approvals, design review approvals, and potentially environmental clearances depending on the site. Opus Builders manages the entire permitting and approval process, ensuring compliance with all municipal and county regulations.",
+        "@type": "Answer",
+        "description": "Construction requires permits (building, electrical, etc.) and approvals (zoning, design review), which Opus Builders manages for you."
+      }
+    }
+  ],
+  "description": "Construction requires permits (building, electrical, etc.) and approvals (zoning, design review), which Opus Builders manages for you."
+}

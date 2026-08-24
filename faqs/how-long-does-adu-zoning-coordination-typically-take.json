@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-adu-zoning-coordination-typically-take",
+  "name": "How long does ADU zoning coordination typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does ADU zoning coordination typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for ADU zoning coordination can vary based on the complexity of the project and the specific city's review processes. Generally, initial assessment and preliminary coordination might take a few weeks. The official city review process for zoning compliance can range from several weeks to a few months, depending on departmental workload, the completeness of the submission, and whether revisions are required. Proactive engagement and thorough preparation can help expedite this phase.",
+        "@type": "Answer",
+        "description": "ADU zoning coordination typically takes from several weeks to a few months, depending on project complexity and city review times."
+      }
+    }
+  ],
+  "description": "ADU zoning coordination typically takes from several weeks to a few months, depending on project complexity and city review times."
+}

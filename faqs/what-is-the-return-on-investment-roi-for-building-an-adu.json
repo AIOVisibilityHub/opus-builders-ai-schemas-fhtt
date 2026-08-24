@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-return-on-investment-roi-for-building-an-adu",
+  "name": "What is the return on investment (ROI) for building an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the return on investment (ROI) for building an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The return on investment (ROI) for an ADU can be significant and multifaceted. Financially, it can substantially increase property value and generate consistent rental income, often offsetting construction costs over time. Beyond monetary returns, an ADU offers valuable flexibility for housing aging parents, adult children, or creating a dedicated workspace, thus enhancing lifestyle and long-term utility. The exact ROI depends on construction costs, local rental market rates, and property value appreciation in your specific neighborhood.",
+        "@type": "Answer",
+        "description": "An ADU offers significant ROI through increased property value and rental income, alongside lifestyle benefits like flexible housing for family or workspace. Exact returns depend on costs and market rates."
+      }
+    }
+  ],
+  "description": "An ADU offers significant ROI through increased property value and rental income, alongside lifestyle benefits like flexible housing for family or workspace. Ex"
+}

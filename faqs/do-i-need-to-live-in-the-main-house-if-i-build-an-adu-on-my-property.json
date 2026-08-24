@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-to-live-in-the-main-house-if-i-build-an-adu-on-my-property",
+  "name": "Do I need to live in the main house if I build an ADU on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to live in the main house if I build an ADU on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recent changes in California state law have largely removed owner-occupancy requirements for ADUs. This means that, in most jurisdictions, you are generally not required to live in either the main house or the ADU once it's built. This flexibility allows property owners to rent out both units if desired, providing greater potential for rental income. However, it's always prudent to confirm specific local ordinances, as some minor distinctions may still exist in certain areas or for JADUs.",
+        "@type": "Answer",
+        "description": "No, in most California jurisdictions, owner-occupancy requirements for ADUs have been removed, allowing you to rent out both the main house and the ADU."
+      }
+    }
+  ],
+  "description": "No, in most California jurisdictions, owner-occupancy requirements for ADUs have been removed, allowing you to rent out both the main house and the ADU."
+}

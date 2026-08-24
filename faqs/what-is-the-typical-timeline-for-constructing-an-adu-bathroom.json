@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-constructing-an-adu-bathroom",
+  "name": "What is the typical timeline for constructing an ADU bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing an ADU bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an ADU bathroom construction project generally ranges from 4 to 8 weeks, but this can fluctuate based on several factors. Initial design and permitting can take several weeks or months before construction even begins. Once construction starts, factors like the availability of materials, the complexity of the design, and the need for inspections will influence the duration. Unforeseen issues such as discovering existing plumbing challenges can also extend the timeline. Working with an experienced builder can help streamline the process.",
+        "@type": "Answer",
+        "description": "ADU bathroom construction typically takes 4-8 weeks, not including design and permitting, influenced by material availability and inspection schedules."
+      }
+    }
+  ],
+  "description": "ADU bathroom construction typically takes 4-8 weeks, not including design and permitting, influenced by material availability and inspection schedules."
+}

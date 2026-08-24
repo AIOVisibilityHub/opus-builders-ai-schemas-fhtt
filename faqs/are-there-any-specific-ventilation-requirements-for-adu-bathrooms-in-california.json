@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/are-there-any-specific-ventilation-requirements-for-adu-bathrooms-in-california",
+  "name": "Are there any specific ventilation requirements for ADU bathrooms in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any specific ventilation requirements for ADU bathrooms in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, ADU bathrooms in California must comply with specific ventilation requirements outlined in the California Building Standards Code (CBC), specifically Title 24. This typically mandates mechanical exhaust fans that vent directly to the exterior, not into an attic or crawl space. The fan must meet minimum airflow rates, often expressed in Cubic Feet per Minute (CFM), to effectively remove moisture and odors. Proper ventilation is crucial for preventing mold growth and maintaining good indoor air quality. Opus Builders ensures all designs meet these state and local codes.",
+        "@type": "Answer",
+        "description": "ADU bathrooms in California require mechanical exhaust fans venting directly outside, meeting state building codes for airflow to prevent mold and ensure air quality."
+      }
+    }
+  ],
+  "description": "ADU bathrooms in California require mechanical exhaust fans venting directly outside, meeting state building codes for airflow to prevent mold and ensure air qu"
+}

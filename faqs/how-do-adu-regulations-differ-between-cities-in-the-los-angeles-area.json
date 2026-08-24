@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-adu-regulations-differ-between-cities-in-the-los-angeles-area",
+  "name": "How do ADU regulations differ between cities in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do ADU regulations differ between cities in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While California state law provides a general framework for ADUs, individual cities within the Los Angeles area, such as Santa Monica versus Burbank, retain some authority to implement specific local ordinances. These differences might include varying parking requirements (though often waived), design review processes, height limitations, or specific impact fees. For example, some cities might have stricter design review boards, while others focus more on basic code compliance. Opus Builders specializes in understanding these local nuances across our service areas to ensure project compliance.",
+        "@type": "Answer",
+        "description": "ADU regulations vary between Los Angeles area cities in specifics like parking, design review, height limits, or fees, despite state-level guidelines. Local expertise is crucial for compliance."
+      }
+    }
+  ],
+  "description": "ADU regulations vary between Los Angeles area cities in specifics like parking, design review, height limits, or fees, despite state-level guidelines. Local exp"
+}

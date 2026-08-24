@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/will-an-attached-adu-affect-my-property-taxes-in-california",
+  "name": "Will an attached ADU affect my property taxes in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an attached ADU affect my property taxes in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building an attached ADU will typically lead to a reassessment of your property and an increase in property taxes in California. However, Proposition 13 limits the annual increase in assessed value to a maximum of 2% for the existing primary residence. The new construction value of the ADU will be added to the property's base value, but it will not trigger a reassessment of the entire original property. It's advisable to consult with a tax professional or your local assessor's office for specifics related to your property.",
+        "@type": "Answer",
+        "description": "Yes, building an attached ADU will likely increase your property taxes in California due to a reassessment of the new construction value, but it won't reassess the entire original property under Proposition 13."
+      }
+    }
+  ],
+  "description": "Yes, building an attached ADU will likely increase your property taxes in California due to a reassessment of the new construction value, but it won't reassess"
+}

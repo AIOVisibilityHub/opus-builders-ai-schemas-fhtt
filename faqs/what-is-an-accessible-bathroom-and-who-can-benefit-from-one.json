@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-an-accessible-bathroom-and-who-can-benefit-from-one",
+  "name": "What is an accessible bathroom, and who can benefit from one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an accessible bathroom, and who can benefit from one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An accessible bathroom is designed to be safe and easy to use for individuals with diverse mobility needs, including those using wheelchairs, walkers, or who require assistance. Key features often include wider doorways, grab bars, roll-in showers, comfort-height toilets, and lever handles. While primarily benefiting seniors and people with disabilities, these bathrooms also offer enhanced safety and convenience for families with young children or anyone seeking a more universally usable space. They promote independence and reduce the risk of accidents.",
+        "@type": "Answer",
+        "description": "An accessible bathroom is designed for safety and ease of use, benefiting individuals with mobility needs, seniors, and families. It features elements like roll-in showers, grab bars, and wider doorways."
+      }
+    }
+  ],
+  "description": "An accessible bathroom is designed for safety and ease of use, benefiting individuals with mobility needs, seniors, and families. It features elements like roll"
+}

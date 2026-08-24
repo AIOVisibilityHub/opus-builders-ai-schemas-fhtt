@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-estimated-cost-per-square-foot-for-a-luxury-triplex-construction-in",
+  "name": "What is the estimated cost per square foot for a luxury triplex construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the estimated cost per square foot for a luxury triplex construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for luxury triplex construction in the Los Angeles area can range significantly, typically from $400 to over $700, depending on various factors. These include the complexity of the architectural design, the quality of materials and finishes chosen, site preparation requirements, and specific features like smart home technology, premium landscaping, or specialized structural elements. Permit fees, soft costs, and local market conditions also influence the total investment. A detailed estimate requires a thorough review of your project's unique specifications and location.",
+        "@type": "Answer",
+        "description": "Luxury triplex construction in Los Angeles generally costs $400-$700+ per square foot, varying based on design, materials, and site specifics."
+      }
+    }
+  ],
+  "description": "Luxury triplex construction in Los Angeles generally costs $400-$700+ per square foot, varying based on design, materials, and site specifics."
+}

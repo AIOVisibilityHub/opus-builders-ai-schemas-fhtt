@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-building-an-adu-in-los-angeles",
+  "name": "What factors influence the cost of building an ADU in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of building an ADU in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADU construction costs in Los Angeles vary significantly based on size, foundation type (e.g., slab vs. raised), material choices, interior finishes, and site-specific challenges. Detached ADUs often cost more than attached units due to separate utility connections and foundations. Permitting fees, architectural design, and engineering expenses also contribute to the overall budget. Custom designs or luxury finishes will naturally increase the investment.",
+        "@type": "Answer",
+        "description": "Costs for building an ADU in Los Angeles depend on size, foundation, materials, finishes, site conditions, and design complexity, as well as permitting and design fees."
+      }
+    }
+  ],
+  "description": "Costs for building an ADU in Los Angeles depend on size, foundation, materials, finishes, site conditions, and design complexity, as well as permitting and desi"
+}

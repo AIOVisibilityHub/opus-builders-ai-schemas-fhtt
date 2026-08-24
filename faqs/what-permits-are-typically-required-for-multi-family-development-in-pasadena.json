@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-typically-required-for-multi-family-development-in-pasadena",
+  "name": "What permits are typically required for multi-family development in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for multi-family development in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-family development in Pasadena typically requires a range of permits, starting with planning entitlements such as a Conditional Use Permit or a Vesting Tentative Tract Map, depending on the project's scale and zoning. You'll also need various building permits for structural, electrical, plumbing, and mechanical work. Additional permits may include grading permits, demolition permits (if applicable), fire department approvals, and potentially environmental clearances. The specific requirements are determined by the City of Pasadena's Planning and Building Departments and project specifics.",
+        "@type": "Answer",
+        "description": "Multi-family development in Pasadena requires planning entitlements and various building permits (structural, electrical, plumbing, mechanical). Environmental and fire approvals may also be needed."
+      }
+    }
+  ],
+  "description": "Multi-family development in Pasadena requires planning entitlements and various building permits (structural, electrical, plumbing, mechanical). Environmental a"
+}

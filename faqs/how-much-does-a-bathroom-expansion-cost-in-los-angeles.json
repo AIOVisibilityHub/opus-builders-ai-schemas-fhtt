@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-bathroom-expansion-cost-in-los-angeles",
+  "name": "How much does a bathroom expansion cost in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a bathroom expansion cost in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom expansion in the Los Angeles area varies significantly based on several factors. These include the size of the expansion, the extent of structural changes required, the quality of materials and fixtures chosen (e.g., custom cabinetry, high-end stone, smart features), and the complexity of plumbing and electrical work. Demolition, debris removal, and necessary permits also contribute to the overall budget. A detailed consultation can provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Bathroom expansion costs in Los Angeles depend on size, structural changes, material choices, and the complexity of plumbing and electrical work."
+      }
+    }
+  ],
+  "description": "Bathroom expansion costs in Los Angeles depend on size, structural changes, material choices, and the complexity of plumbing and electrical work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-add-a-kitchen-to-an-adu",
+  "name": "How much does it cost to add a kitchen to an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to add a kitchen to an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of adding a kitchen to an Accessory Dwelling Unit (ADU) can vary significantly based on several factors. These include the size and layout of the kitchen, the quality and type of finishes and appliances chosen, and the complexity of plumbing and electrical work required. Basic kitchens with standard appliances might start from a certain price point, while custom designs with high-end materials and features can be considerably more expensive. Labor costs, permit fees, and potential structural modifications also contribute to the overall budget. We recommend a detailed consultation to provide an accurate estimate.",
+        "@type": "Answer",
+        "description": "The cost to add an ADU kitchen varies based on size, finishes, appliances, and complexity of plumbing and electrical work. Labor, permits, and structural modifications also impact the total budget."
+      }
+    }
+  ],
+  "description": "The cost to add an ADU kitchen varies based on size, finishes, appliances, and complexity of plumbing and electrical work. Labor, permits, and structural modifi"
+}

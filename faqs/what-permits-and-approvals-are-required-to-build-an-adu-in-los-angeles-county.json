@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-and-approvals-are-required-to-build-an-adu-in-los-angeles-county",
+  "name": "What permits and approvals are required to build an ADU in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are required to build an ADU in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU in Los Angeles County requires several permits and approvals, primarily from the local planning and building departments. These typically include a building permit, electrical permit, plumbing permit, and mechanical permit. You'll also need to ensure compliance with zoning ordinances, fire safety codes, and environmental regulations. Depending on the specific location and project, additional approvals for design review or historic preservation may be necessary. Our team manages the full permitting process.",
+        "@type": "Answer",
+        "description": "You'll need building, electrical, plumbing, and mechanical permits, along with compliance with zoning, fire, and environmental regulations from local departments."
+      }
+    }
+  ],
+  "description": "You'll need building, electrical, plumbing, and mechanical permits, along with compliance with zoning, fire, and environmental regulations from local department"
+}

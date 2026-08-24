@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-adu-bathroom-construction-in-los-angeles-county",
+  "name": "What permits are required for ADU bathroom construction in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for ADU bathroom construction in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles County, ADU bathroom construction typically requires building permits for structural, electrical, plumbing, and mechanical work. You'll need to submit detailed plans to your local planning department (e.g., City of Los Angeles, Glendale, Pasadena) for review and approval. These plans must demonstrate compliance with zoning ordinances, building codes, and health department regulations. An experienced builder can assist with navigating the permitting process, ensuring all necessary documentation is prepared correctly to avoid delays.",
+        "@type": "Answer",
+        "description": "ADU bathroom construction in Los Angeles County requires building, electrical, plumbing, and mechanical permits, with plans submitted for local department approval."
+      }
+    }
+  ],
+  "description": "ADU bathroom construction in Los Angeles County requires building, electrical, plumbing, and mechanical permits, with plans submitted for local department appro"
+}

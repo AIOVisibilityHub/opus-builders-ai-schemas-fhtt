@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-choose-my-own-architect-or-does-opus-builders-provide-design-services-for",
+  "name": "Can I choose my own architect or does Opus Builders provide design services for townhomes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose my own architect or does Opus Builders provide design services for townhomes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders offers flexible options for architectural design. We can collaborate with an architect of your choice, integrating their vision with our construction expertise. Alternatively, we can connect you with our network of experienced architects and designers who specialize in luxury townhome development, ensuring a cohesive design-build process tailored to your preferences and project requirements.",
+        "@type": "Answer",
+        "description": "You can bring your own architect or we can connect you with our network of experienced architects and designers."
+      }
+    }
+  ],
+  "description": "You can bring your own architect or we can connect you with our network of experienced architects and designers."
+}

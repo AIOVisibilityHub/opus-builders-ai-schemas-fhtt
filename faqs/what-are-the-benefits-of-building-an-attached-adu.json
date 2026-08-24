@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-benefits-of-building-an-attached-adu",
+  "name": "What are the benefits of building an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an attached ADU offers several advantages. It can significantly increase your property value and provide a source of rental income, contributing to mortgage payments or property taxes. For families, it offers flexible space for aging parents, adult children, or a dedicated home office. Attached ADUs can also be more cost-effective to construct than detached units, as they often leverage existing utility connections and foundation elements from the main house. They also minimize the impact on yard space.",
+        "@type": "Answer",
+        "description": "Attached ADUs increase property value, generate rental income, provide flexible living space for family, and can be more cost-effective to build than detached units."
+      }
+    }
+  ],
+  "description": "Attached ADUs increase property value, generate rental income, provide flexible living space for family, and can be more cost-effective to build than detached u"
+}

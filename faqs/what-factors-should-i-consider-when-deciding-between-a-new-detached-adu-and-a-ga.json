@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-should-i-consider-when-deciding-between-a-new-detached-adu-and-a-ga",
+  "name": "What factors should I consider when deciding between a new detached ADU and a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when deciding between a new detached ADU and a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing between a new detached ADU and a garage conversion, consider your budget, available space, and desired functionality. Garage conversions are often more cost-effective as they utilize an existing structure, but they are limited by the garage's footprint and existing utilities. A new detached ADU offers greater design flexibility, allowing for optimal layout and integration with your property, but typically involves higher construction costs. Assess your property's potential and your specific needs.",
+        "@type": "Answer",
+        "description": "Consider budget, available space, and desired functionality. Garage conversions are often more cost-effective but have size limitations; new detached ADUs offer greater design flexibility."
+      }
+    }
+  ],
+  "description": "Consider budget, available space, and desired functionality. Garage conversions are often more cost-effective but have size limitations; new detached ADUs offer"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-customizing-interior-finishes-and-features-in-a-new-town",
+  "name": "What is the process for customizing interior finishes and features in a new townhome?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for customizing interior finishes and features in a new townhome?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders guides clients through a structured selection process for interior finishes and features. This typically involves consultations with our design team to choose materials for flooring, cabinetry, countertops, fixtures, and paint colors. We provide access to curated selections and showrooms, ensuring your aesthetic preferences are integrated while maintaining structural integrity and quality standards.",
+        "@type": "Answer",
+        "description": "Clients consult with our design team to select finishes like flooring, cabinetry, and fixtures, with access to curated selections."
+      }
+    }
+  ],
+  "description": "Clients consult with our design team to select finishes like flooring, cabinetry, and fixtures, with access to curated selections."
+}

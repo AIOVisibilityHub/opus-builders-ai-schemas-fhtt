@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-decide-if-a-bathroom-expansion-is-right-for-my-home",
+  "name": "How do I decide if a bathroom expansion is right for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide if a bathroom expansion is right for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding on a bathroom expansion involves assessing your current space limitations, lifestyle needs, and budget. Consider if your existing bathroom feels cramped, lacks desired features, or doesn't meet your family's requirements. Evaluate available adjacent space that could be incorporated and consult with a design-build firm to understand structural feasibility and potential costs. A professional assessment can help determine if an expansion aligns with your home’s architecture and your long-term goals.",
+        "@type": "Answer",
+        "description": "To decide, assess your space needs, lifestyle, and budget. Consult a design-build firm to check feasibility and align with your home's architecture and goals."
+      }
+    }
+  ],
+  "description": "To decide, assess your space needs, lifestyle, and budget. Consult a design-build firm to check feasibility and align with your home's architecture and goals."
+}

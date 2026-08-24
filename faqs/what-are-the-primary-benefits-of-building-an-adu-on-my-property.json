@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-primary-benefits-of-building-an-adu-on-my-property",
+  "name": "What are the primary benefits of building an ADU on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary benefits of building an ADU on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU offers several benefits. It can provide a dedicated space for family members, such as aging parents or adult children, promoting multi-generational living while maintaining privacy. ADUs can also serve as a source of rental income, helping to offset mortgage costs or provide additional financial stability. Furthermore, an ADU can significantly increase your property's value and provide flexible space for a home office, guest suite, or studio, adapting to evolving lifestyle needs.",
+        "@type": "Answer",
+        "description": "Benefits include housing family, generating rental income, increasing property value, and creating flexible space for various uses."
+      }
+    }
+  ],
+  "description": "Benefits include housing family, generating rental income, increasing property value, and creating flexible space for various uses."
+}

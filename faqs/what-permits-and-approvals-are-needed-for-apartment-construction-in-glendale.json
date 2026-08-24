@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-and-approvals-are-needed-for-apartment-construction-in-glendale",
+  "name": "What permits and approvals are needed for apartment construction in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are needed for apartment construction in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Constructing an apartment building in Glendale requires navigating several permits and approvals, primarily from the City of Glendale's Building and Safety Division and Planning Division. These typically include zoning approvals, design review, building permits (covering structural, electrical, plumbing, and mechanical), grading permits, and potentially environmental clearances depending on the project's scope and site. Water and sewer connections, as well as fire department approvals, are also critical. Engaging with local authorities early in the planning process is essential to ensure compliance and avoid delays.",
+        "@type": "Answer",
+        "description": "In Glendale, permits include zoning approvals, design review, building permits (structural, electrical, plumbing, mechanical), grading, and environmental clearances."
+      }
+    }
+  ],
+  "description": "In Glendale, permits include zoning approvals, design review, building permits (structural, electrical, plumbing, mechanical), grading, and environmental cleara"
+}

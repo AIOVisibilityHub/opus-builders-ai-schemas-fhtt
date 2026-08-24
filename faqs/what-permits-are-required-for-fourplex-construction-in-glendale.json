@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-fourplex-construction-in-glendale",
+  "name": "What permits are required for fourplex construction in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for fourplex construction in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Constructing a fourplex in Glendale typically requires a range of permits from the City of Glendale's Community Development Department. These commonly include planning permits (e.g., Conditional Use Permit, Design Review, or specific plan review depending on zoning), building permits, and potentially separate permits for grading, plumbing, electrical, and mechanical work. Environmental reviews may also be necessary. The exact permits depend on the project's scope and the property's specific characteristics. We assist clients in navigating and securing all necessary local approvals.",
+        "@type": "Answer",
+        "description": "Fourplex construction in Glendale requires planning, building, and various trade permits from the City's Community Development Department, with specific needs varying by project."
+      }
+    }
+  ],
+  "description": "Fourplex construction in Glendale requires planning, building, and various trade permits from the City's Community Development Department, with specific needs v"
+}
