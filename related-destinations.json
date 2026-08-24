@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-24T00:15:13.423Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Opus Builders",
+    "canonicalUrl": "https://opusbuilders.aiovisibility.net",
+    "primaryWebsiteUrl": "http://opusbuildersla.com",
+    "aiDataHub": "https://opusbuilders.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Opus Builders — canonical website",
+      "url": "https://opusbuilders.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Opus Builders — AI Data Hub",
+      "url": "https://opusbuilders.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/opus-builders-ai-schemas-fhtt"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/opus-builders-ai-schemas-fhtt",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/opus-builders-ai-schemas-fhtt"
+    }
+  }
+}
