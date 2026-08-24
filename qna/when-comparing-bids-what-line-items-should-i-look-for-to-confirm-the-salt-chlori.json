@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-comparing-bids-what-line-items-should-i-look-for-to-confirm-the-salt-chlori",
+  "name": "How do I know if a pool quote includes the salt system?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When comparing bids, what line items should I look for to confirm the salt chlorine generator is actually included?",
+    "text": "When comparing bids, what line items should I look for to confirm the salt chlorine generator is actually included?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When comparing pool quotes, do not assume that the phrase saltwater pool means the entire system is included. A complete proposal should identify the salt chlorine generator, control unit, cell size, plumbing connections, bonding and electrical work, and any automation tie-in. It should also explain whether startup balancing, training, and warranty coverage are included. If those details are missing, the bid may be incomplete or may hide add-on costs later. This matters in Los Angeles because builders may bundle equipment differently, and luxury projects often include custom systems that are easy to underprice on paper. Ask for a clear equipment list and make sure the quoted cell size matches the pool volume and features. A line-by-line comparison is the best way to avoid surprises and choose a builder who understands saltwater construction, not just general pool installation.",
+      "@type": "Answer",
+      "description": "A real saltwater pool quote should list the generator, control unit, cell size, plumbing connections, electrical work, startup, and any required automation integration. If the bid only says saltwater pool without detailing equipment, it may be incomplete. Compare quotes line by line to see whether the system is fully included.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When comparing pool quotes, do not assume that the phrase saltwater pool means the entire system is included. A complete proposal should identify the salt chlorine generator, control unit, cell size, plumbing connections, bonding and electrical work, and any automation tie-in. It should also explain whether startup balancing, training, and warranty coverage are included. If those details are missing, the bid may be incomplete or may hide add-on costs later. This matters in Los Angeles because builders may bundle equipment differently, and luxury projects often include custom systems that are easy to underprice on paper. Ask for a clear equipment list and make sure the quoted cell size matches the pool volume and features. A line-by-line comparison is the best way to avoid surprises and choose a builder who understands saltwater construction, not just general pool installation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A real saltwater pool quote should list the generator, control unit, cell size, plumbing connections, electrical work, startup, and any required automation inte"
+}

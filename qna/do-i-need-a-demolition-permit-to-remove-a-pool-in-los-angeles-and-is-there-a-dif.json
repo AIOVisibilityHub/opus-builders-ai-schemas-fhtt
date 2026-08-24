@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-a-demolition-permit-to-remove-a-pool-in-los-angeles-and-is-there-a-dif",
+  "name": "Do I need a demolition permit to remove a pool in Los Angeles, and is it different from a pool removal permit?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need a demolition permit to remove a pool in Los Angeles, and is there a different permit for partial versus complete removal?",
+    "text": "Do I need a demolition permit to remove a pool in Los Angeles, and is there a different permit for partial versus complete removal?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Pool removal is usually not treated as a simple landscaping job. In Los Angeles and nearby cities, the permit requirement depends on the demolition scope: a partial removal, full removal, or in-place fill can trigger different review steps. A partial demo may still require a building permit, while a full demo can also involve grading, plumbing disconnects, and final inspections. If the project changes the ground surface or involves structural removal, the city may require more documentation before work starts. Homeowners should confirm whether the city classifies the job as demolition, backfill, or grading, because that affects plans, inspections, and final sign-off. The safest approach is to have the contractor verify the permit type before any breaking, filling, or disconnecting begins.",
+      "@type": "Answer",
+      "description": "Yes. In Los Angeles-area projects, pool demolition typically requires a building or demolition permit, and partial removal may be treated differently from full removal. The exact permit type depends on whether the shell is fully removed, partially demolished, or backfilled in place, as well as whether grading, plumbing, or electrical work is included.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Pool removal is usually not treated as a simple landscaping job. In Los Angeles and nearby cities, the permit requirement depends on the demolition scope: a partial removal, full removal, or in-place fill can trigger different review steps. A partial demo may still require a building permit, while a full demo can also involve grading, plumbing disconnects, and final inspections. If the project changes the ground surface or involves structural removal, the city may require more documentation before work starts. Homeowners should confirm whether the city classifies the job as demolition, backfill, or grading, because that affects plans, inspections, and final sign-off. The safest approach is to have the contractor verify the permit type before any breaking, filling, or disconnecting begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. In Los Angeles-area projects, pool demolition typically requires a building or demolition permit, and partial removal may be treated differently from full "
+}

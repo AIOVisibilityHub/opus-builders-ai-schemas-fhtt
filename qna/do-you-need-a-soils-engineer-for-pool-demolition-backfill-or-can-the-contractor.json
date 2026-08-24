@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-you-need-a-soils-engineer-for-pool-demolition-backfill-or-can-the-contractor",
+  "name": "Do you need a soils engineer for pool demolition backfill?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do you need a soils engineer for pool demolition backfill, or can the contractor handle it alone?",
+    "text": "Do you need a soils engineer for pool demolition backfill, or can the contractor handle it alone?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A soils engineer is not required for every pool removal, but many cities require one when the backfill must be certified or the lot will be used for future construction. The engineer may verify compaction, recommend fill methods, and sign off that the restored area is stable. If the project is simple and the city accepts a standard fill approach, the contractor may be able to complete the work without engineering. However, if there is a future addition, a slope concern, or a need for a formal compaction report, the engineer becomes important. Homeowners should ask early whether the permit conditions mention soils certification, because adding engineering after the job starts can create delays and added cost.",
+      "@type": "Answer",
+      "description": "Some pool demolition projects require a soils engineer, especially when the site will support future construction or needs certified compaction. If the city asks for a soil report, contractor-only backfill is usually not enough for final approval.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A soils engineer is not required for every pool removal, but many cities require one when the backfill must be certified or the lot will be used for future construction. The engineer may verify compaction, recommend fill methods, and sign off that the restored area is stable. If the project is simple and the city accepts a standard fill approach, the contractor may be able to complete the work without engineering. However, if there is a future addition, a slope concern, or a need for a formal compaction report, the engineer becomes important. Homeowners should ask early whether the permit conditions mention soils certification, because adding engineering after the job starts can create delays and added cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Some pool demolition projects require a soils engineer, especially when the site will support future construction or needs certified compaction. If the city ask"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-you-tell-during-construction-whether-the-salt-chlorinator-chosen-by-the",
+  "name": "What happens if the salt cell is undersized?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can you tell during construction whether the salt chlorinator chosen by the builder is too small?",
+    "text": "How can you tell during construction whether the salt chlorinator chosen by the builder is too small?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An undersized salt cell can become a hidden problem from the start. If the generator is too small for the pool volume and use pattern, it may need to run at maximum output for long stretches just to keep up. That shortens cell life and can still leave chlorine levels too low during hot weather, after pool parties, or when water features increase demand. The issue is often easier to prevent during construction than fix later. Homeowners should ask the builder how the cell size was calculated, whether the system is rated above the actual water volume, and what output percentage is expected during peak months. It also helps to ask whether the pump run time and circulation design support the generator. A properly sized system should have a margin of safety, not just meet the minimum on paper. If the builder cannot explain the sizing logic clearly, that is a red flag.",
+      "@type": "Answer",
+      "description": "An undersized salt cell may run at high output for long periods, struggle to maintain chlorine during summer, and wear out faster. During construction, the builder should match the unit to the pool’s gallonage and demand, not just the smallest acceptable model. Oversizing slightly is usually safer than undersizing.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An undersized salt cell can become a hidden problem from the start. If the generator is too small for the pool volume and use pattern, it may need to run at maximum output for long stretches just to keep up. That shortens cell life and can still leave chlorine levels too low during hot weather, after pool parties, or when water features increase demand. The issue is often easier to prevent during construction than fix later. Homeowners should ask the builder how the cell size was calculated, whether the system is rated above the actual water volume, and what output percentage is expected during peak months. It also helps to ask whether the pump run time and circulation design support the generator. A properly sized system should have a margin of safety, not just meet the minimum on paper. If the builder cannot explain the sizing logic clearly, that is a red flag.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An undersized salt cell may run at high output for long periods, struggle to maintain chlorine during summer, and wear out faster. During construction, the buil"
+}

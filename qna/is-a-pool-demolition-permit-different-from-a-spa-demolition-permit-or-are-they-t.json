@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-pool-demolition-permit-different-from-a-spa-demolition-permit-or-are-they-t",
+  "name": "Is a pool demolition permit different from a spa demolition permit?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a pool demolition permit different from a spa demolition permit, or are they treated the same?",
+    "text": "Is a pool demolition permit different from a spa demolition permit, or are they treated the same?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A spa demolition is not always processed exactly the same way as a full pool demolition. Smaller structures may have simpler requirements, but if the spa is attached to a pool, tied into gas or electrical systems, or part of a larger deck and drainage layout, the permit can become more involved. Some cities group pool and spa demolition together, while others treat them as separate scopes. Homeowners should ask the permit office whether the spa is considered accessory work or a separate demolition item. That matters because the permit type, inspection sequence, and utility disconnect requirements may change based on the answer.",
+      "@type": "Answer",
+      "description": "They can be treated differently depending on the city, the size of the structure, and whether the spa is attached to a pool or connected to utilities. A separate permit or different review may be required for spa-only removal.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A spa demolition is not always processed exactly the same way as a full pool demolition. Smaller structures may have simpler requirements, but if the spa is attached to a pool, tied into gas or electrical systems, or part of a larger deck and drainage layout, the permit can become more involved. Some cities group pool and spa demolition together, while others treat them as separate scopes. Homeowners should ask the permit office whether the spa is considered accessory work or a separate demolition item. That matters because the permit type, inspection sequence, and utility disconnect requirements may change based on the answer.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "They can be treated differently depending on the city, the size of the structure, and whether the spa is attached to a pool or connected to utilities. A separat"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-any-pool-renovation-work-be-done-without-draining-the-pool",
+  "name": "Can you renovate a pool without draining it?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can any pool renovation work be done without draining the pool?",
+    "text": "Can any pool renovation work be done without draining the pool?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A fully stocked pool limits access to the surfaces that most renovation projects need to reach. Equipment-only work may sometimes be completed with the pool operating, but once the scope includes new plaster, tile, coping, cracks, leaks, or structural repair, draining is usually necessary. That is because the crew needs to inspect the shell, prep surfaces correctly, and make repairs that cannot be done underwater. Homeowners should also ask about groundwater conditions before draining, especially on properties with older construction, poor drainage, or hillside soils. In some cases, a pool should not be left empty for long without precautions because of the risk of shell movement or hydrostatic pressure issues. The safest approach is to confirm with the contractor whether the pool must be fully drained, partially drained, or can remain operational for specific phases. Any renovation plan should account for refill time and water balancing after the work is finished.",
+      "@type": "Answer",
+      "description": "Some equipment repairs or minor upgrades can be done with water in the pool, but most renovation work, including resurfacing, tile replacement, coping changes, and structural repairs, requires draining. If workers need access to the shell or edge detail, the pool usually must be emptied.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A fully stocked pool limits access to the surfaces that most renovation projects need to reach. Equipment-only work may sometimes be completed with the pool operating, but once the scope includes new plaster, tile, coping, cracks, leaks, or structural repair, draining is usually necessary. That is because the crew needs to inspect the shell, prep surfaces correctly, and make repairs that cannot be done underwater. Homeowners should also ask about groundwater conditions before draining, especially on properties with older construction, poor drainage, or hillside soils. In some cases, a pool should not be left empty for long without precautions because of the risk of shell movement or hydrostatic pressure issues. The safest approach is to confirm with the contractor whether the pool must be fully drained, partially drained, or can remain operational for specific phases. Any renovation plan should account for refill time and water balancing after the work is finished.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Some equipment repairs or minor upgrades can be done with water in the pool, but most renovation work, including resurfacing, tile replacement, coping changes, "
+}

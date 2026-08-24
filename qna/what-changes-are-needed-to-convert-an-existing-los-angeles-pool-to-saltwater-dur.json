@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-changes-are-needed-to-convert-an-existing-los-angeles-pool-to-saltwater-dur",
+  "name": "Can I convert a chlorine pool to saltwater during a remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What changes are needed to convert an existing Los Angeles pool to saltwater during a renovation?",
+    "text": "What changes are needed to convert an existing Los Angeles pool to saltwater during a renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many existing pools can be converted to saltwater during a remodel, but the conversion should start with a compatibility check, not just the addition of a salt system. The builder should inspect the pump, filter, heater, automation, plumbing, light niches, ladders, fittings, and any exposed metal parts to see whether they can handle salt exposure. Surfaces also matter; if the plaster, tile, or coping is already failing, converting before repairs may cause problems later. In older Los Angeles pools, the electrical bonding and equipment pad layout may need updates to support the new system safely and cleanly. A good conversion plan also includes correcting circulation issues and ensuring the generator is properly sized for the pool volume. Homeowners should ask whether the conversion includes startup balancing, owner training, and a list of parts that may need replacement now versus later. Conversions are often straightforward, but only when the existing pool is in decent condition.",
+      "@type": "Answer",
+      "description": "Most chlorine pools can be converted to saltwater if the equipment, plumbing, and finishes are compatible. The conversion usually involves adding a salt chlorine generator, checking the pump and filter, inspecting metal parts, and confirming that surfaces can handle salt exposure. A worn pool may need repairs before conversion.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many existing pools can be converted to saltwater during a remodel, but the conversion should start with a compatibility check, not just the addition of a salt system. The builder should inspect the pump, filter, heater, automation, plumbing, light niches, ladders, fittings, and any exposed metal parts to see whether they can handle salt exposure. Surfaces also matter; if the plaster, tile, or coping is already failing, converting before repairs may cause problems later. In older Los Angeles pools, the electrical bonding and equipment pad layout may need updates to support the new system safely and cleanly. A good conversion plan also includes correcting circulation issues and ensuring the generator is properly sized for the pool volume. Homeowners should ask whether the conversion includes startup balancing, owner training, and a list of parts that may need replacement now versus later. Conversions are often straightforward, but only when the existing pool is in decent condition.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most chlorine pools can be converted to saltwater if the equipment, plumbing, and finishes are compatible. The conversion usually involves adding a salt chlorin"
+}

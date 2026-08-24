@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-the-pool-is-on-a-hillside-or-sloped-lot-in-los-angeles-glendale-or-pasad",
+  "name": "What if the pool is in a hillside or sloped lot in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if the pool is on a hillside or sloped lot in Los Angeles, Glendale, or Pasadena?",
+    "text": "What if the pool is on a hillside or sloped lot in Los Angeles, Glendale, or Pasadena?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A pool on a hillside or sloped lot raises the stakes for permitting and construction. The city will care about stability, drainage, erosion control, and how the backfill interacts with surrounding slopes or retaining walls. What would be a simple fill-in project on a flat lot can become a more technical job on a hillside. That often means more detailed plans, possible engineering involvement, and closer inspection of the fill and compaction process. Homeowners should not assume the same permit conditions apply as they would on a level property. The slope itself can be the reason the city asks for more proof that the finished site will remain safe and stable.",
+      "@type": "Answer",
+      "description": "Hillside and sloped lots often need extra review because backfill, drainage, and stability risks are higher. The city may require more detailed grading information, engineering input, or special inspection conditions before approving demolition.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A pool on a hillside or sloped lot raises the stakes for permitting and construction. The city will care about stability, drainage, erosion control, and how the backfill interacts with surrounding slopes or retaining walls. What would be a simple fill-in project on a flat lot can become a more technical job on a hillside. That often means more detailed plans, possible engineering involvement, and closer inspection of the fill and compaction process. Homeowners should not assume the same permit conditions apply as they would on a level property. The slope itself can be the reason the city asks for more proof that the finished site will remain safe and stable.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hillside and sloped lots often need extra review because backfill, drainage, and stability risks are higher. The city may require more detailed grading informat"
+}

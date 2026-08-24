@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-homeowner-pull-the-pool-demolition-permit-themselves-in-los-angeles-or-pas",
+  "name": "Can a homeowner pull the pool demolition permit themselves?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a homeowner pull the pool demolition permit themselves in Los Angeles or Pasadena, or does it need a licensed contractor?",
+    "text": "Can a homeowner pull the pool demolition permit themselves in Los Angeles or Pasadena, or does it need a licensed contractor?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether a homeowner can pull the permit depends on the city and the scope of work. Some jurisdictions allow owner-builders for certain demolition projects, while others expect a licensed contractor when the job includes utility work, grading, or engineered backfill. Even when a homeowner can apply, the city may still require the same drawings, inspections, and compliance steps as any other applicant. The main risk is assuming the permit is simple when it actually involves multiple trades. If the pool includes gas lines, electrical components, or future-build implications, hiring a contractor can reduce the chance of missing a required step. Homeowners should confirm both the application rules and the inspection responsibilities before choosing the permit route.",
+      "@type": "Answer",
+      "description": "Sometimes homeowners can apply for the permit themselves, but city rules and project scope may limit who can do the work. Licensed contractors are often preferred when demolition includes plumbing, electrical, grading, or engineered backfill.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether a homeowner can pull the permit depends on the city and the scope of work. Some jurisdictions allow owner-builders for certain demolition projects, while others expect a licensed contractor when the job includes utility work, grading, or engineered backfill. Even when a homeowner can apply, the city may still require the same drawings, inspections, and compliance steps as any other applicant. The main risk is assuming the permit is simple when it actually involves multiple trades. If the pool includes gas lines, electrical components, or future-build implications, hiring a contractor can reduce the chance of missing a required step. Homeowners should confirm both the application rules and the inspection responsibilities before choosing the permit route.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes homeowners can apply for the permit themselves, but city rules and project scope may limit who can do the work. Licensed contractors are often preferr"
+}

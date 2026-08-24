@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-proper-way-to-drain-a-pool-before-it-is-filled-in-or-demolished",
+  "name": "What is the best way to drain a pool before fill-in?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the proper way to drain a pool before it is filled in or demolished?",
+    "text": "What is the proper way to drain a pool before it is filled in or demolished?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before a pool is filled in, the water must be removed in a controlled manner. The draining method should account for where the water goes, whether any chemicals must be neutralized, and how to avoid runoff, erosion, or damage to neighboring property. In some neighborhoods, the contractor may need to route discharge carefully to meet local rules and avoid flooding the yard or street. Draining is also important for safety and for allowing demolition equipment to work in the shell. Homeowners should ask whether the contractor handles drainage, where the water will be discharged, and whether any dechlorination or filtration steps are needed first. Poor draining can create muddy access, delay demolition, or leave the site unstable before backfill starts. A well-planned drain sequence makes the rest of the project cleaner and faster.",
+      "@type": "Answer",
+      "description": "A pool should be drained in a controlled way before demolition or backfill begins, with attention to discharge rules and site drainage. The water should not be released in a way that causes erosion, flooding, or runoff problems. In many projects, draining is coordinated with the contractor so the site remains stable and compliant.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before a pool is filled in, the water must be removed in a controlled manner. The draining method should account for where the water goes, whether any chemicals must be neutralized, and how to avoid runoff, erosion, or damage to neighboring property. In some neighborhoods, the contractor may need to route discharge carefully to meet local rules and avoid flooding the yard or street. Draining is also important for safety and for allowing demolition equipment to work in the shell. Homeowners should ask whether the contractor handles drainage, where the water will be discharged, and whether any dechlorination or filtration steps are needed first. Poor draining can create muddy access, delay demolition, or leave the site unstable before backfill starts. A well-planned drain sequence makes the rest of the project cleaner and faster.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A pool should be drained in a controlled way before demolition or backfill begins, with attention to discharge rules and site drainage. The water should not be "
+}

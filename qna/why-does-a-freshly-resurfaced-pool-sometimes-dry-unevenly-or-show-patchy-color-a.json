@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-does-a-freshly-resurfaced-pool-sometimes-dry-unevenly-or-show-patchy-color-a",
+  "name": "What causes mottling or color variation in new pool plaster?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why does a freshly resurfaced pool sometimes dry unevenly or show patchy color, and can that be prevented?",
+    "text": "Why does a freshly resurfaced pool sometimes dry unevenly or show patchy color, and can that be prevented?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Mottling is a common concern after resurfacing because homeowners expect a uniform finish. Some variation is normal, especially with hand-applied materials and aggregate surfaces, but large patchy areas can signal uneven curing, inconsistent mix placement, water chemistry issues, or exposure differences during startup. In bright climates like Los Angeles, sun and heat can make color variation more noticeable if the pool is not filled and managed quickly. Prevention starts with proper application, immediate refill after the finish sets, and tight control of startup chemistry. Homeowners should also understand that some materials are intentionally less uniform than basic plaster. If the color pattern looks severe or develops after the startup period, the contractor should inspect it to determine whether it is cosmetic or the result of a process error.",
+      "@type": "Answer",
+      "description": "Color variation in new plaster can come from curing differences, water chemistry, mix consistency, sunlight exposure, or natural variation in aggregate materials. Some mottling is common, but severe patchiness may indicate installation or startup problems. Preventing it depends on proper application, prompt filling, and careful startup care.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Mottling is a common concern after resurfacing because homeowners expect a uniform finish. Some variation is normal, especially with hand-applied materials and aggregate surfaces, but large patchy areas can signal uneven curing, inconsistent mix placement, water chemistry issues, or exposure differences during startup. In bright climates like Los Angeles, sun and heat can make color variation more noticeable if the pool is not filled and managed quickly. Prevention starts with proper application, immediate refill after the finish sets, and tight control of startup chemistry. Homeowners should also understand that some materials are intentionally less uniform than basic plaster. If the color pattern looks severe or develops after the startup period, the contractor should inspect it to determine whether it is cosmetic or the result of a process error.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Color variation in new plaster can come from curing differences, water chemistry, mix consistency, sunlight exposure, or natural variation in aggregate material"
+}

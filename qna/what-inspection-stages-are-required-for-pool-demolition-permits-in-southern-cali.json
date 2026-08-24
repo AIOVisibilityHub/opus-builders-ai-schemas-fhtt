@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-inspection-stages-are-required-for-pool-demolition-permits-in-southern-cali",
+  "name": "What inspection stages are required for pool demolition permits?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What inspection stages are required for pool demolition permits in Southern California cities?",
+    "text": "What inspection stages are required for pool demolition permits in Southern California cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Pool demolition inspections usually happen in stages, not just at the end. A typical sequence includes a utility disconnect inspection, a check of the exposed pool structure or removal hole, inspection before or during backfill, and a final sign-off after compaction or soils certification. Some cities want to verify that the bottom of the pool has been properly breached or removed before fill is placed. Others focus on the compaction of the final fill and whether the site drains correctly. Homeowners should not assume the permit is complete once the pool is filled in. Final approval often depends on documenting each step correctly, so the contractor should know exactly when to call for inspections and what photos or reports to keep.",
+      "@type": "Answer",
+      "description": "Common inspection stages include utility disconnect, removal or demolition progress, backfill placement, and final compaction approval. Some cities also require a site inspection of the drainage or fill hole before the pool is covered.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Pool demolition inspections usually happen in stages, not just at the end. A typical sequence includes a utility disconnect inspection, a check of the exposed pool structure or removal hole, inspection before or during backfill, and a final sign-off after compaction or soils certification. Some cities want to verify that the bottom of the pool has been properly breached or removed before fill is placed. Others focus on the compaction of the final fill and whether the site drains correctly. Homeowners should not assume the permit is complete once the pool is filled in. Final approval often depends on documenting each step correctly, so the contractor should know exactly when to call for inspections and what photos or reports to keep.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common inspection stages include utility disconnect, removal or demolition progress, backfill placement, and final compaction approval. Some cities also require"
+}

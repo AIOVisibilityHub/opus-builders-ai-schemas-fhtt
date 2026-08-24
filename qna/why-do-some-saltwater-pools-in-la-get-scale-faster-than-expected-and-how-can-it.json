@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-some-saltwater-pools-in-la-get-scale-faster-than-expected-and-how-can-it",
+  "name": "How does hard water in Los Angeles affect saltwater pools?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do some saltwater pools in LA get scale faster than expected, and how can it be prevented?",
+    "text": "Why do some saltwater pools in LA get scale faster than expected, and how can it be prevented?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hard water can make saltwater pool care more difficult in Los Angeles because it adds minerals that may precipitate out as scale when pH climbs. Salt systems commonly drift toward higher pH, so the combination of salt plus hard fill water can create visible scaling on tile, inside the cell, and on heat exchangers if the chemistry is not managed well. The risk is highest when the pool is newly filled, heavily topped off, or kept with imbalanced water for long periods. To reduce scale, the builder should set up proper startup chemistry, recommend regular testing, and size the equipment so circulation is strong enough to prevent stagnant areas. Homeowners should also ask whether the chosen heater and fittings are rated for saline and mineral-rich conditions. In areas with hard water, a careful startup and consistent maintenance plan matter as much as the construction itself. If the builder ignores local water quality, scaling problems are more likely.",
+      "@type": "Answer",
+      "description": "Hard water can combine with elevated pH in salt pools and create scale on tile, cells, and heaters. In Los Angeles, mineral-rich fill water can make balancing more difficult, especially if the system is small or the pool is overfed with chemicals. Proper startup, testing, and occasional cleaning reduce scale buildup.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hard water can make saltwater pool care more difficult in Los Angeles because it adds minerals that may precipitate out as scale when pH climbs. Salt systems commonly drift toward higher pH, so the combination of salt plus hard fill water can create visible scaling on tile, inside the cell, and on heat exchangers if the chemistry is not managed well. The risk is highest when the pool is newly filled, heavily topped off, or kept with imbalanced water for long periods. To reduce scale, the builder should set up proper startup chemistry, recommend regular testing, and size the equipment so circulation is strong enough to prevent stagnant areas. Homeowners should also ask whether the chosen heater and fittings are rated for saline and mineral-rich conditions. In areas with hard water, a careful startup and consistent maintenance plan matter as much as the construction itself. If the builder ignores local water quality, scaling problems are more likely.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hard water can combine with elevated pH in salt pools and create scale on tile, cells, and heaters. In Los Angeles, mineral-rich fill water can make balancing m"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-pool-removal-trigger-a-grading-permit-in-los-angeles-county-and-when-i",
+  "name": "When does pool removal trigger a grading permit in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does pool removal trigger a grading permit in Los Angeles County, and when is a demolition permit enough?",
+    "text": "When does pool removal trigger a grading permit in Los Angeles County, and when is a demolition permit enough?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A pool demo permit and a grading permit are not always the same thing. If the project only removes the pool shell and restores the area without major earthwork, a demolition permit may be enough. But when the job includes significant fill, compaction, slope changes, or preparation for a future structure, the city or county may require a grading permit and possibly engineered soil documentation. This matters because grading rules are about site stability, drainage, and future load-bearing conditions, not just demolition. If a homeowner plans to build an addition, ADU, patio cover, or other structure later, the permit path may become more complex. The best practice is to ask whether the final surface will be used for a future build, because that is often what changes the permit requirement.",
+      "@type": "Answer",
+      "description": "Pool removal may trigger a grading permit when the work changes soil elevation, requires structural fill, or needs engineered compaction. A demolition permit alone may not be enough if the site will be built on, regraded, or filled to support a future structure.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A pool demo permit and a grading permit are not always the same thing. If the project only removes the pool shell and restores the area without major earthwork, a demolition permit may be enough. But when the job includes significant fill, compaction, slope changes, or preparation for a future structure, the city or county may require a grading permit and possibly engineered soil documentation. This matters because grading rules are about site stability, drainage, and future load-bearing conditions, not just demolition. If a homeowner plans to build an addition, ADU, patio cover, or other structure later, the permit path may become more complex. The best practice is to ask whether the final surface will be used for a future build, because that is often what changes the permit requirement.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Pool removal may trigger a grading permit when the work changes soil elevation, requires structural fill, or needs engineered compaction. A demolition permit al"
+}

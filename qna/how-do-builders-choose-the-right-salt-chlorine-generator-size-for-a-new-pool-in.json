@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-builders-choose-the-right-salt-chlorine-generator-size-for-a-new-pool-in",
+  "name": "What salt cell size do I need for my pool?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do builders choose the right salt chlorine generator size for a new pool in Southern California?",
+    "text": "How do builders choose the right salt chlorine generator size for a new pool in Southern California?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Salt cell sizing matters because the generator must produce enough chlorine to match your pool’s demand. A system that is only barely large enough may work at first, but it can fall behind during hot weather, heavy use, or periods of intense sun. In Southern California, many builders recommend oversizing the cell so the unit does not need to run at maximum output all the time. That helps extend cell life and creates a larger safety margin for warm months. The right size also depends on water features, a spa, and whether the pool has an automatic cover, since these factors change chlorine demand. Ask the builder how they calculated gallons, what percentage output they expect during summer, and whether the equipment can support future upgrades. If you are converting an existing pool, confirm that the plumbing, pump, and electrical setup can support the chosen generator. Oversizing slightly is usually safer than buying the minimum size.",
+      "@type": "Answer",
+      "description": "The salt cell should be sized above the pool’s actual water volume, not matched exactly to it. Builders usually factor in pool gallons, sun exposure, bather load, spa use, and Los Angeles heat when selecting the generator. An undersized cell runs harder, wears faster, and may struggle to keep chlorine levels stable during peak summer use.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Salt cell sizing matters because the generator must produce enough chlorine to match your pool’s demand. A system that is only barely large enough may work at first, but it can fall behind during hot weather, heavy use, or periods of intense sun. In Southern California, many builders recommend oversizing the cell so the unit does not need to run at maximum output all the time. That helps extend cell life and creates a larger safety margin for warm months. The right size also depends on water features, a spa, and whether the pool has an automatic cover, since these factors change chlorine demand. Ask the builder how they calculated gallons, what percentage output they expect during summer, and whether the equipment can support future upgrades. If you are converting an existing pool, confirm that the plumbing, pump, and electrical setup can support the chosen generator. Oversizing slightly is usually safer than buying the minimum size.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The salt cell should be sized above the pool’s actual water volume, not matched exactly to it. Builders usually factor in pool gallons, sun exposure, bather loa"
+}

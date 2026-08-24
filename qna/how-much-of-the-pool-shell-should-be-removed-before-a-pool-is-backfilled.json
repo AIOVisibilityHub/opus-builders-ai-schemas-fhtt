@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-of-the-pool-shell-should-be-removed-before-a-pool-is-backfilled",
+  "name": "How deep should a pool be cut down before backfill?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much of the pool shell should be removed before a pool is backfilled?",
+    "text": "How much of the pool shell should be removed before a pool is backfilled?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no single universal depth for every pool fill-in. The amount of shell removed depends on local rules, whether the job is a partial or full removal, and what the site will be used for later. Pasadena’s published requirements specify removal of the bond beam, coping, decking, and the pool shell within 3 feet of finished grade, along with a drainage opening at the deepest point. That gives a clear example of how cities may define the work. Other jurisdictions may use different measurements or inspection standards. The contractor should tell you exactly how much of the shell stays underground and why that approach is appropriate for the site. If the area may later support hardscape or construction, a deeper or more complete removal may be necessary. This is one of the most important details to confirm before signing a contract.",
+      "@type": "Answer",
+      "description": "The amount removed depends on city rules, the removal method, and future use of the site. Pasadena’s guidance requires removal of the bond beam, coping, decking, and pool shell within 3 feet of finished grade, plus a drainage opening at the deepest point. Other cities may require different depths or details.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no single universal depth for every pool fill-in. The amount of shell removed depends on local rules, whether the job is a partial or full removal, and what the site will be used for later. Pasadena’s published requirements specify removal of the bond beam, coping, decking, and the pool shell within 3 feet of finished grade, along with a drainage opening at the deepest point. That gives a clear example of how cities may define the work. Other jurisdictions may use different measurements or inspection standards. The contractor should tell you exactly how much of the shell stays underground and why that approach is appropriate for the site. If the area may later support hardscape or construction, a deeper or more complete removal may be necessary. This is one of the most important details to confirm before signing a contract.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The amount removed depends on city rules, the removal method, and future use of the site. Pasadena’s guidance requires removal of the bond beam, coping, decking"
+}

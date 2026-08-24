@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-saltwater-pools-in-los-angeles-often-need-acid-additions-and-closer-ph-mo",
+  "name": "Do saltwater pools need more chemical balancing in hot weather?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do saltwater pools in Los Angeles often need acid additions and closer pH monitoring in summer?",
+    "text": "Why do saltwater pools in Los Angeles often need acid additions and closer pH monitoring in summer?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Saltwater pools still need regular chemical balancing, and hot weather can make that more important. In warm climates, higher temperatures, strong sunlight, and heavy swimmer use can increase chlorine demand while evaporation concentrates minerals and raises the chance of scaling. Salt systems also tend to push pH upward, so acid additions are often needed to keep water comfortable and protect equipment and surfaces. Many owners are surprised that a salt pool is not a set-it-and-forget-it system. It still needs routine testing for pH, chlorine output, salinity, and stabilizer levels. In Los Angeles, where long hot seasons are common, the pool may need more frequent attention in summer than in cooler months. A builder should explain the startup and maintenance schedule clearly and tell you how often the system should be tested. The better the circulation and sizing, the easier the chemistry is to control.",
+      "@type": "Answer",
+      "description": "Saltwater systems often cause pH to drift upward, so hot weather can make balancing more demanding. Higher temperatures, strong sun, heavy use, and splash-out can increase chlorine demand and speed evaporation, which concentrates dissolved minerals. Routine testing is still necessary even though the pool makes its own chlorine.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Saltwater pools still need regular chemical balancing, and hot weather can make that more important. In warm climates, higher temperatures, strong sunlight, and heavy swimmer use can increase chlorine demand while evaporation concentrates minerals and raises the chance of scaling. Salt systems also tend to push pH upward, so acid additions are often needed to keep water comfortable and protect equipment and surfaces. Many owners are surprised that a salt pool is not a set-it-and-forget-it system. It still needs routine testing for pH, chlorine output, salinity, and stabilizer levels. In Los Angeles, where long hot seasons are common, the pool may need more frequent attention in summer than in cooler months. A builder should explain the startup and maintenance schedule clearly and tell you how often the system should be tested. The better the circulation and sizing, the easier the chemistry is to control.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Saltwater systems often cause pH to drift upward, so hot weather can make balancing more demanding. Higher temperatures, strong sun, heavy use, and splash-out c"
+}

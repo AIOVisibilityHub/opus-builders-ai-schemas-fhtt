@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-adding-a-spa-waterfall-or-sheer-descent-change-the-saltwater-system-design",
+  "name": "Can saltwater pools be built with spas and water features?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does adding a spa, waterfall, or sheer descent change the saltwater system design?",
+    "text": "Does adding a spa, waterfall, or sheer descent change the saltwater system design?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Adding a spa or water features changes the design requirements for a saltwater pool. A spa adds more water volume and often different circulation demands, while waterfalls, bubblers, and sheer descents can increase aeration and chlorine consumption. Those features may make the water chemistry drift faster and can require a larger salt cell or more aggressive circulation planning. The plumbing design also becomes more complex because the pool and spa may need separate control logic or valves. In hot Southern California climates, features that add splash and evaporation can also make salt residue more visible on surrounding finishes. Before approving the design, ask the builder to explain how the spa and features affect generator sizing, pump sizing, and maintenance. If the project includes automation, confirm the system can control all water modes without overloading the equipment. A good design integrates the features without sacrificing water quality or reliability.",
+      "@type": "Answer",
+      "description": "Yes. Spas and water features increase chlorine demand, add plumbing complexity, and can affect salt cell sizing and circulation. The builder should account for extra water volume, splashing, aeration, and equipment load during design. A salt system that works for a simple pool may be too small for a pool-spa combo with features.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Adding a spa or water features changes the design requirements for a saltwater pool. A spa adds more water volume and often different circulation demands, while waterfalls, bubblers, and sheer descents can increase aeration and chlorine consumption. Those features may make the water chemistry drift faster and can require a larger salt cell or more aggressive circulation planning. The plumbing design also becomes more complex because the pool and spa may need separate control logic or valves. In hot Southern California climates, features that add splash and evaporation can also make salt residue more visible on surrounding finishes. Before approving the design, ask the builder to explain how the spa and features affect generator sizing, pump sizing, and maintenance. If the project includes automation, confirm the system can control all water modes without overloading the equipment. A good design integrates the features without sacrificing water quality or reliability.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Spas and water features increase chlorine demand, add plumbing complexity, and can affect salt cell sizing and circulation. The builder should account for "
+}

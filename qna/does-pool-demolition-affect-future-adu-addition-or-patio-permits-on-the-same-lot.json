@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-pool-demolition-affect-future-adu-addition-or-patio-permits-on-the-same-lot",
+  "name": "Does pool demolition affect future ADU or addition permits?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does pool demolition affect future ADU, addition, or patio permits on the same lot?",
+    "text": "Does pool demolition affect future ADU, addition, or patio permits on the same lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Pool demolition can directly affect future construction plans. If a homeowner later wants an ADU, addition, garage conversion, or large patio structure, the city may review how the pool was removed and whether the fill was properly compacted. That is because the old pool footprint can become a settlement or drainage concern if it was not handled correctly. A clean permit record, final inspection, and any engineering documents can make future approvals easier. Without them, the city may request extra verification before allowing new foundations or grading. Homeowners planning future improvements should treat pool demolition as part of the long-term site plan, not just a one-time teardown.",
+      "@type": "Answer",
+      "description": "Yes. Poorly documented pool demolition can affect future grading, foundation, and site plan approvals. If the lot will later hold an ADU or addition, the city may require proof that the pool was demolished and backfilled correctly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Pool demolition can directly affect future construction plans. If a homeowner later wants an ADU, addition, garage conversion, or large patio structure, the city may review how the pool was removed and whether the fill was properly compacted. That is because the old pool footprint can become a settlement or drainage concern if it was not handled correctly. A clean permit record, final inspection, and any engineering documents can make future approvals easier. Without them, the city may request extra verification before allowing new foundations or grading. Homeowners planning future improvements should treat pool demolition as part of the long-term site plan, not just a one-time teardown.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Poorly documented pool demolition can affect future grading, foundation, and site plan approvals. If the lot will later hold an ADU or addition, the city m"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permit-is-required-to-demolish-a-swimming-pool-in-pasadena-and-what-documen",
+  "name": "What permit is required to demolish a swimming pool in Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permit is required to demolish a swimming pool in Pasadena, and what documents are usually needed?",
+    "text": "What permit is required to demolish a swimming pool in Pasadena, and what documents are usually needed?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Pasadena is more specific than many homeowners expect. A building permit is required before demolition begins, and the city asks for a clear site or plot plan that shows property lines, the pool or spa location, and nearby structures. The process usually includes disconnection of electrical conduit and gas lines, then inspection before backfill. After the pool is filled, a soils engineer may need to certify the backfill and compaction before final approval. This means the permit is not just for tearing out the pool shell; it is also for verifying that the site will be stable and properly documented when the work is finished. For homeowners, the best next step is to prepare plans early and ask whether the project needs a soils report or special inspection sequence.",
+      "@type": "Answer",
+      "description": "Pasadena requires a building permit before pool demolition starts. The city also asks for a dimensioned site or plot plan showing property lines, the pool location, and nearby structures. Electrical and gas disconnections, backfill, compaction, and final inspection are typically part of the permit process.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Pasadena is more specific than many homeowners expect. A building permit is required before demolition begins, and the city asks for a clear site or plot plan that shows property lines, the pool or spa location, and nearby structures. The process usually includes disconnection of electrical conduit and gas lines, then inspection before backfill. After the pool is filled, a soils engineer may need to certify the backfill and compaction before final approval. This means the permit is not just for tearing out the pool shell; it is also for verifying that the site will be stable and properly documented when the work is finished. For homeowners, the best next step is to prepare plans early and ask whether the project needs a soils report or special inspection sequence.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Pasadena requires a building permit before pool demolition starts. The city also asks for a dimensioned site or plot plan showing property lines, the pool locat"
+}

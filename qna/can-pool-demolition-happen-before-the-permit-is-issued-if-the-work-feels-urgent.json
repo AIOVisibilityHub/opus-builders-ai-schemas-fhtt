@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-pool-demolition-happen-before-the-permit-is-issued-if-the-work-feels-urgent",
+  "name": "Can pool demolition happen before the permit is issued if the work is urgent?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can pool demolition happen before the permit is issued if the work feels urgent, or must the permit be approved first?",
+    "text": "Can pool demolition happen before the permit is issued if the work feels urgent, or must the permit be approved first?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In most cases, demolition should not start until the permit is issued. Starting early may seem harmless, but it can create serious problems if the city wants to inspect the site before backfill or if the work does not match the permit conditions. Urgent situations, such as safety concerns or damaged pool structures, still usually require at least some approval path before work begins. The safer approach is to ask the city how to handle expedited review or emergency conditions rather than assuming the job can proceed first and be explained later. Once the shell is altered or filled, it may be harder and more expensive to document the work correctly.",
+      "@type": "Answer",
+      "description": "The permit should be approved before demolition starts. Beginning work early can create compliance problems, inspection issues, and delays if the city requires corrections or retroactive review.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In most cases, demolition should not start until the permit is issued. Starting early may seem harmless, but it can create serious problems if the city wants to inspect the site before backfill or if the work does not match the permit conditions. Urgent situations, such as safety concerns or damaged pool structures, still usually require at least some approval path before work begins. The safer approach is to ask the city how to handle expedited review or emergency conditions rather than assuming the job can proceed first and be explained later. Once the shell is altered or filled, it may be harder and more expensive to document the work correctly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The permit should be approved before demolition starts. Beginning work early can create compliance problems, inspection issues, and delays if the city requires "
+}

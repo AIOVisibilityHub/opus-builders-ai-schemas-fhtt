@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-a-pool-is-leaking-should-it-be-repaired-first-or-filled-in-right-away",
+  "name": "What’s the best option if the pool is leaking before fill-in?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If a pool is leaking, should it be repaired first or filled in right away?",
+    "text": "If a pool is leaking, should it be repaired first or filled in right away?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a pool is already scheduled for fill-in, a leak does not always need to be repaired first. In many cases, the leak is simply part of the reason the pool is being removed. However, the contractor should still inspect the site carefully because leaking water can soften soil, create muddy conditions, or reveal drainage problems that affect demolition and backfill. If the leak has caused erosion, settlement, or damage around the shell, the removal plan may need to change. Homeowners should mention any leak history during the estimate so the contractor can assess whether the pool is stable enough for equipment and whether additional drying or shoring is needed. If the project is delayed, the leak may need temporary control so the site does not worsen before work starts. The important part is to coordinate leak conditions with the demolition plan rather than ignoring them.",
+      "@type": "Answer",
+      "description": "If the pool is being removed, a leak usually does not need a repair unless it affects drainage, stability, or demolition sequencing. The contractor should inspect water, soil, and surrounding conditions before work begins. A leaking pool can sometimes signal hidden issues that affect access or backfill planning.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a pool is already scheduled for fill-in, a leak does not always need to be repaired first. In many cases, the leak is simply part of the reason the pool is being removed. However, the contractor should still inspect the site carefully because leaking water can soften soil, create muddy conditions, or reveal drainage problems that affect demolition and backfill. If the leak has caused erosion, settlement, or damage around the shell, the removal plan may need to change. Homeowners should mention any leak history during the estimate so the contractor can assess whether the pool is stable enough for equipment and whether additional drying or shoring is needed. If the project is delayed, the leak may need temporary control so the site does not worsen before work starts. The important part is to coordinate leak conditions with the demolition plan rather than ignoring them.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the pool is being removed, a leak usually does not need a repair unless it affects drainage, stability, or demolition sequencing. The contractor should inspe"
+}

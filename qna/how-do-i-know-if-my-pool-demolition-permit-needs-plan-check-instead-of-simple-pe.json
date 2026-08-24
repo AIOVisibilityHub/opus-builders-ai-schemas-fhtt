@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-my-pool-demolition-permit-needs-plan-check-instead-of-simple-pe",
+  "name": "How do I know if my pool demolition permit needs plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my pool demolition permit needs plan check instead of simple permit issuance?",
+    "text": "How do I know if my pool demolition permit needs plan check instead of simple permit issuance?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Plan check is usually triggered when the city needs to review drawings before issuing the permit. For pool demolition, that often happens when there are grading concerns, property line issues, utility conflicts, or a plan to build something later on the same area. If the city accepts only basic permit information, the job may move forward without formal plan review. But if the application asks for a dimensioned plot plan, drainage notes, or soils-related details, expect plan check. Homeowners should ask the permit office or contractor whether the project is being treated as a simple permit or a review-required permit. That answer affects both timing and cost.",
+      "@type": "Answer",
+      "description": "Plan check is more likely when the project involves grading, structural backfill, utility conflicts, or future construction plans. If the city asks for drawings or a site plan review before issuance, the permit is not a simple over-the-counter approval.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Plan check is usually triggered when the city needs to review drawings before issuing the permit. For pool demolition, that often happens when there are grading concerns, property line issues, utility conflicts, or a plan to build something later on the same area. If the city accepts only basic permit information, the job may move forward without formal plan review. But if the application asks for a dimensioned plot plan, drainage notes, or soils-related details, expect plan check. Homeowners should ask the permit office or contractor whether the project is being treated as a simple permit or a review-required permit. That answer affects both timing and cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plan check is more likely when the project involves grading, structural backfill, utility conflicts, or future construction plans. If the city asks for drawings"
+}

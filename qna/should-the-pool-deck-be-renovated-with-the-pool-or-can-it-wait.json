@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-the-pool-deck-be-renovated-with-the-pool-or-can-it-wait",
+  "name": "Do I need to remodel the pool deck at the same time?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should the pool deck be renovated with the pool, or can it wait?",
+    "text": "Should the pool deck be renovated with the pool, or can it wait?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether to renovate the deck at the same time depends on condition, budget, and design goals. If the deck is in good shape and the pool work is mostly internal, the deck can sometimes wait. But if the deck is cracked, stained, uneven, or visually dated, a combined renovation usually creates a much better final result. Doing both together can also reduce duplicate demolition, simplify tie-ins, and give the contractor a more cohesive design to work with. In luxury neighborhoods, a mismatch between a newly renovated pool and an old deck can make the whole outdoor space feel incomplete. Homeowners should ask how the deck meets the coping and whether any edge work will be disturbed during the pool renovation. If those areas intersect, coordinating the projects often saves time and avoids patchwork finishes later.",
+      "@type": "Answer",
+      "description": "The pool deck does not always need to be remodeled at the same time, but coordinating both projects often creates a cleaner look and avoids mismatched finishes or repeated demolition. If the deck is cracked, outdated, or tied into coping work, doing it together is usually more efficient.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether to renovate the deck at the same time depends on condition, budget, and design goals. If the deck is in good shape and the pool work is mostly internal, the deck can sometimes wait. But if the deck is cracked, stained, uneven, or visually dated, a combined renovation usually creates a much better final result. Doing both together can also reduce duplicate demolition, simplify tie-ins, and give the contractor a more cohesive design to work with. In luxury neighborhoods, a mismatch between a newly renovated pool and an old deck can make the whole outdoor space feel incomplete. Homeowners should ask how the deck meets the coping and whether any edge work will be disturbed during the pool renovation. If those areas intersect, coordinating the projects often saves time and avoids patchwork finishes later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The pool deck does not always need to be remodeled at the same time, but coordinating both projects often creates a cleaner look and avoids mismatched finishes "
+}

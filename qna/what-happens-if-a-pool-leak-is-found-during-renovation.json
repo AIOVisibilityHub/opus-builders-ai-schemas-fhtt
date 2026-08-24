@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-a-pool-leak-is-found-during-renovation",
+  "name": "How do you fix a leaking pool during renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if a pool leak is found during renovation?",
+    "text": "What happens if a pool leak is found during renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Leak discovery during renovation is common because draining the pool and exposing the shell often reveals problems that were hidden under water. The right response is to pause finish work until the leak source is confirmed. That might involve pressure testing plumbing lines, inspecting the shell for cracks, checking fittings, and evaluating the main drain, skimmers, or returns. Once the leak is fixed, the pool should be retested before new plaster, tile, or coping is installed. This sequencing matters because cosmetic finishes do not solve leaks, and covering a leak without repair can waste thousands of dollars. Homeowners should expect some schedule impact if the leak was not identified before construction began. The best protection is to include leak testing early in the planning phase, especially for older pools or pools with unexplained water loss. A thorough contractor will treat leak diagnosis as part of renovation quality, not just an add-on service.",
+      "@type": "Answer",
+      "description": "If a leak is found during renovation, the contractor usually stops finish work long enough to identify the source, repair cracked plumbing or shell damage, and test the system before continuing. Leak repair should happen before resurfacing or tile installation, or the new finish may fail early.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Leak discovery during renovation is common because draining the pool and exposing the shell often reveals problems that were hidden under water. The right response is to pause finish work until the leak source is confirmed. That might involve pressure testing plumbing lines, inspecting the shell for cracks, checking fittings, and evaluating the main drain, skimmers, or returns. Once the leak is fixed, the pool should be retested before new plaster, tile, or coping is installed. This sequencing matters because cosmetic finishes do not solve leaks, and covering a leak without repair can waste thousands of dollars. Homeowners should expect some schedule impact if the leak was not identified before construction began. The best protection is to include leak testing early in the planning phase, especially for older pools or pools with unexplained water loss. A thorough contractor will treat leak diagnosis as part of renovation quality, not just an add-on service.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a leak is found during renovation, the contractor usually stops finish work long enough to identify the source, repair cracked plumbing or shell damage, and "
+}

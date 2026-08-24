@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-heating-equipment-work-normally-with-a-salt-chlorine-generator-and-are-ther",
+  "name": "Can a saltwater pool be solar heated or paired with a heat pump?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will heating equipment work normally with a salt chlorine generator, and are there material compatibility concerns?",
+    "text": "Will heating equipment work normally with a salt chlorine generator, and are there material compatibility concerns?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Saltwater pools can be paired with solar heating, heat pumps, or gas heaters, but compatibility matters. The heater and related components should be rated for use in saline environments, because salt exposure can shorten the life of vulnerable parts. Heating also increases evaporation and can raise the risk of scale, especially if pH is allowed to drift upward. That means the pool’s water balance becomes even more important once heating is added. In a Los Angeles climate, many owners combine saltwater with a heat pump or solar system for longer seasonal use, but the design should account for energy goals and maintenance expectations. Ask the builder whether the selected heater model is salt-compatible, how it affects warranty, and whether the plumbing layout protects the equipment from corrosion. A good builder will also explain how heating changes chemical demand and startup settings so the pool remains comfortable and efficient.",
+      "@type": "Answer",
+      "description": "Yes, saltwater pools can be heated with solar, heat pumps, or gas heaters, but the equipment must be rated for saline use. Heating can increase evaporation and scaling risk, so water balance becomes even more important. The builder should confirm all heater components and nearby fittings are compatible with salt exposure.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Saltwater pools can be paired with solar heating, heat pumps, or gas heaters, but compatibility matters. The heater and related components should be rated for use in saline environments, because salt exposure can shorten the life of vulnerable parts. Heating also increases evaporation and can raise the risk of scale, especially if pH is allowed to drift upward. That means the pool’s water balance becomes even more important once heating is added. In a Los Angeles climate, many owners combine saltwater with a heat pump or solar system for longer seasonal use, but the design should account for energy goals and maintenance expectations. Ask the builder whether the selected heater model is salt-compatible, how it affects warranty, and whether the plumbing layout protects the equipment from corrosion. A good builder will also explain how heating changes chemical demand and startup settings so the pool remains comfortable and efficient.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, saltwater pools can be heated with solar, heat pumps, or gas heaters, but the equipment must be rated for saline use. Heating can increase evaporation and "
+}

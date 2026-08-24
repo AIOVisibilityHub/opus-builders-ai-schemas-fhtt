@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-line-items-should-a-pool-fill-in-estimate-include-so-homeowners-can-compare",
+  "name": "What should be included in a pool fill-in estimate?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What line items should a pool fill-in estimate include so homeowners can compare bids?",
+    "text": "What line items should a pool fill-in estimate include so homeowners can compare bids?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A useful pool fill-in estimate should be detailed enough to compare one contractor against another. At minimum, it should identify the demolition scope, drainage preparation, fill material, hauling and disposal, compaction method, grading, permit handling, inspection coordination, and any soils engineering or certification. It should also state whether the contractor handles utility disconnection, fence removal or replacement, equipment access challenges, and cleanup. Clear exclusions matter too, such as landscaping, irrigation repairs, retaining wall work, or patio finishes. Homeowners often get quotes that look cheaper because they leave out important steps like compaction testing or final grading. Those omissions can become expensive later. The best estimate explains what happens below grade, what the final surface will look like, and who is responsible for city approvals. That level of detail reduces surprises and gives a more accurate project comparison.",
+      "@type": "Answer",
+      "description": "A strong pool fill-in estimate should include demolition, hauling, disposal, drainage openings, backfill material, compaction, grading, permits, inspection coordination, and any soil certification. It should also note access limitations, utility work, and exclusions. Vague lump-sum quotes are harder to compare and often hide extra charges.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A useful pool fill-in estimate should be detailed enough to compare one contractor against another. At minimum, it should identify the demolition scope, drainage preparation, fill material, hauling and disposal, compaction method, grading, permit handling, inspection coordination, and any soils engineering or certification. It should also state whether the contractor handles utility disconnection, fence removal or replacement, equipment access challenges, and cleanup. Clear exclusions matter too, such as landscaping, irrigation repairs, retaining wall work, or patio finishes. Homeowners often get quotes that look cheaper because they leave out important steps like compaction testing or final grading. Those omissions can become expensive later. The best estimate explains what happens below grade, what the final surface will look like, and who is responsible for city approvals. That level of detail reduces surprises and gives a more accurate project comparison.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A strong pool fill-in estimate should include demolition, hauling, disposal, drainage openings, backfill material, compaction, grading, permits, inspection coor"
+}

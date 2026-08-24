@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-a-pool-demolition-permit-require-electrical-and-gas-disconnects-before-insp",
+  "name": "Does a pool demolition permit require utility disconnects before inspection?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does a pool demolition permit require electrical and gas disconnects before inspection, and who schedules them?",
+    "text": "Does a pool demolition permit require electrical and gas disconnects before inspection, and who schedules them?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility coordination is one of the most overlooked parts of pool demolition permitting. Many cities require electrical and gas service to be disconnected, removed, or capped before backfill can proceed, and they may want an inspection at that stage. That is because buried lines create safety and code compliance issues if they remain in place incorrectly. The contractor or property owner should confirm who is responsible for scheduling the disconnects, who calls for the inspection, and whether the utility company or city inspector must approve the work before filling begins. This is especially important if the pool has heaters, lighting, automation equipment, or old gas plumbing. Waiting until demolition is underway to address utilities can delay the job and create rework.",
+      "@type": "Answer",
+      "description": "Yes, utility disconnects are often required before demolition or backfill inspections. Electrical and gas lines should be disconnected and removed or capped according to local rules, and the city may inspect that stage before work continues.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility coordination is one of the most overlooked parts of pool demolition permitting. Many cities require electrical and gas service to be disconnected, removed, or capped before backfill can proceed, and they may want an inspection at that stage. That is because buried lines create safety and code compliance issues if they remain in place incorrectly. The contractor or property owner should confirm who is responsible for scheduling the disconnects, who calls for the inspection, and whether the utility company or city inspector must approve the work before filling begins. This is especially important if the pool has heaters, lighting, automation equipment, or old gas plumbing. Waiting until demolition is underway to address utilities can delay the job and create rework.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, utility disconnects are often required before demolition or backfill inspections. Electrical and gas lines should be disconnected and removed or capped acc"
+}
