@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-opus-builders-assist-with-design-and-architectural-planning-for-multi-family",
+  "name": "Can Opus Builders assist with design and architectural planning for multi-family developments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Opus Builders assist with design and architectural planning for multi-family developments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Opus Builders offers comprehensive design and architectural planning services for multi-family developments. Our in-house design team collaborates closely with clients to translate their vision into functional, aesthetically pleasing, and code-compliant plans. We consider factors such as unit layouts, common areas, exterior aesthetics, and site integration. Our goal is to create efficient and desirable living spaces that meet both regulatory requirements and market demands.",
+        "@type": "Answer",
+        "description": "Yes, Opus Builders provides comprehensive in-house design and architectural planning services, creating functional and aesthetically pleasing plans tailored to client visions and regulatory compliance."
+      }
+    }
+  ],
+  "description": "Yes, Opus Builders provides comprehensive in-house design and architectural planning services, creating functional and aesthetically pleasing plans tailored to"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-multi-family-construction",
+  "name": "What factors influence the cost of multi-family construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of multi-family construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of multi-family construction is influenced by several factors, including the project's size and number of units, the complexity of the architectural design, the quality and type of materials chosen, and site-specific conditions like grading or soil stability. Labor costs, permit fees, and the inclusion of amenities such as parking structures, pools, or fitness centers also significantly impact the overall budget. Opus Builders provides detailed cost breakdowns during the planning phase.",
+        "@type": "Answer",
+        "description": "Costs are influenced by project size, design complexity, material quality, site conditions, labor, permit fees, and desired amenities."
+      }
+    }
+  ],
+  "description": "Costs are influenced by project size, design complexity, material quality, site conditions, labor, permit fees, and desired amenities."
+}

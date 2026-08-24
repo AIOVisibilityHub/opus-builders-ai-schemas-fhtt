@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-design-build-approach-to-luxury-home-construction",
+  "name": "What is a design-build approach to luxury home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a design-build approach to luxury home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design-build approach integrates the architectural design and construction services under a single contract with one entity, often a builder who manages both. This model fosters greater collaboration between designers and builders from the project's inception, which can lead to streamlined communication, fewer change orders, and a more efficient timeline and budget. Unlike traditional methods where design and construction are separate, design-build ensures that constructability and cost considerations are integrated into the design phase, potentially reducing overall project duration and costs. Opus Builders offers a design-build option for clients seeking a unified process.",
+        "@type": "Answer",
+        "description": "The design-build approach integrates design and construction services under one contract, fostering collaboration and streamlining communication. This can lead to fewer change orders and a more efficient timeline and budget compared to traditional methods."
+      }
+    }
+  ],
+  "description": "The design-build approach integrates design and construction services under one contract, fostering collaboration and streamlining communication. This can lead"
+}

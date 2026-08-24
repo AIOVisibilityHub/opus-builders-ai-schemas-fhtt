@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-get-a-construction-cost-estimate-during-my-project",
+  "name": "When should I get a construction cost estimate during my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a construction cost estimate during my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to obtain an initial cost estimate early in the design phase, typically after preliminary architectural drawings are developed. This allows for budget alignment and helps guide design decisions before they become too detailed or costly to change. A more refined estimate will follow once detailed plans and specifications are complete, prior to breaking ground. This staged approach ensures that the project remains financially viable and aligns with your expectations.",
+        "@type": "Answer",
+        "description": "Get an initial estimate during early design to align with your budget. A detailed estimate should be finalized once architectural plans are complete, before construction begins."
+      }
+    }
+  ],
+  "description": "Get an initial estimate during early design to align with your budget. A detailed estimate should be finalized once architectural plans are complete, before con"
+}

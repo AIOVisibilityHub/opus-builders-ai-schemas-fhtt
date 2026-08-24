@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-s-the-difference-between-architectural-design-and-architectural-coordinatio",
+  "name": "What's the difference between architectural design and architectural coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between architectural design and architectural coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Architectural design is the creative process of developing the aesthetic, spatial, and functional blueprint of a building, focusing on vision, layout, and appearance. Architectural coordination, however, is the technical process of integrating all specialist designs (structural, mechanical, electrical, plumbing) with the architectural plans. While design creates the concept, coordination ensures that all the intricate parts fit together harmoniously and are buildable, preventing conflicts and ensuring functionality.",
+        "@type": "Answer",
+        "description": "Architectural design creates the home's aesthetic and functional blueprint, while coordination integrates all specialist designs to ensure everything fits and is buildable."
+      }
+    }
+  ],
+  "description": "Architectural design creates the home's aesthetic and functional blueprint, while coordination integrates all specialist designs to ensure everything fits and i"
+}

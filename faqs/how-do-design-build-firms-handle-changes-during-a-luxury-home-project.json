@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-design-build-firms-handle-changes-during-a-luxury-home-project",
+  "name": "How do design-build firms handle changes during a luxury home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do design-build firms handle changes during a luxury home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "One of the advantages of the design-build model is its flexibility in managing changes. Since the design and construction teams are integrated, any proposed changes can be quickly evaluated for their impact on both design intent and construction feasibility. The team can provide prompt feedback on cost and schedule implications, allowing for informed decisions. This collaborative environment simplifies the change order process, reducing potential delays and disputes that can arise when separate entities are involved. The goal is to integrate changes smoothly while maintaining project objectives.",
+        "@type": "Answer",
+        "description": "Design-build firms handle changes flexibly by quickly evaluating impacts with an integrated team, simplifying the change order process and maintaining project objectives."
+      }
+    }
+  ],
+  "description": "Design-build firms handle changes flexibly by quickly evaluating impacts with an integrated team, simplifying the change order process and maintaining project o"
+}

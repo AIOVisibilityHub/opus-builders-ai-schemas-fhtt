@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/who-is-responsible-for-architectural-coordination-on-a-luxury-home-project",
+  "name": "Who is responsible for architectural coordination on a luxury home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is responsible for architectural coordination on a luxury home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "On a luxury home project, the general contractor or a dedicated project manager typically leads architectural coordination. They act as the central point of contact, facilitating communication between the architect, structural engineer, mechanical engineer, interior designer, landscape architect, and other specialty consultants. This ensures all parties are working from the same integrated set of plans and specifications, maintaining project cohesion and quality.",
+        "@type": "Answer",
+        "description": "The general contractor or project manager is usually responsible, coordinating all specialists to ensure integrated plans and smooth execution."
+      }
+    }
+  ],
+  "description": "The general contractor or project manager is usually responsible, coordinating all specialists to ensure integrated plans and smooth execution."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-communication-process-during-a-design-build-project",
+  "name": "What is the typical communication process during a design-build project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical communication process during a design-build project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Communication is central to a successful design-build project. Opus Builders establishes a clear communication plan from the start, designating a single project manager as your primary point of contact. You will receive regular updates through meetings, calls, and digital platforms. This ensures transparency on design progress, construction milestones, budget, and schedule. Our integrated team collaborates continuously, which means fewer misunderstandings and faster resolution of any issues that may arise, keeping you informed and involved every step of the way.",
+        "@type": "Answer",
+        "description": "A single project manager provides regular updates through meetings and digital platforms, ensuring transparent communication on design, construction, budget, and schedule."
+      }
+    }
+  ],
+  "description": "A single project manager provides regular updates through meetings and digital platforms, ensuring transparent communication on design, construction, budget, an"
+}

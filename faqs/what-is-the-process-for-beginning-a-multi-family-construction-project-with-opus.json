@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-beginning-a-multi-family-construction-project-with-opus",
+  "name": "What is the process for beginning a multi-family construction project with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for beginning a multi-family construction project with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your vision, budget, and project goals. Following this, we conduct a site analysis and feasibility study. Next, our design team develops architectural plans and obtains necessary permits. Once approvals are secured, the construction phase commences, managed by our experienced project managers. We prioritize clear communication and adherence to timelines and budgets throughout every stage until project completion and handover.",
+        "@type": "Answer",
+        "description": "The process starts with a consultation, followed by site analysis, design and permitting, and then the construction phase, with ongoing management and communication."
+      }
+    }
+  ],
+  "description": "The process starts with a consultation, followed by site analysis, design and permitting, and then the construction phase, with ongoing management and communica"
+}

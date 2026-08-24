@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-commercial-construction-cost-per-square-foot-in-los-angeles",
+  "name": "How much does commercial construction cost per square foot in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does commercial construction cost per square foot in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial construction costs in Los Angeles vary widely, typically ranging from $200 to over $500 per square foot, depending on the project type, finishes, and complexity. Factors like location within Los Angeles (e.g., Beverly Hills vs. North Hollywood), structural requirements, MEP systems, and specialized interior finishes significantly impact the final price. We provide detailed estimates after understanding your specific project scope and desired quality.",
+        "@type": "Answer",
+        "description": "Costs per square foot in Los Angeles generally range from $200 to over $500, influenced by project type, location, finishes, and complexity."
+      }
+    }
+  ],
+  "description": "Costs per square foot in Los Angeles generally range from $200 to over $500, influenced by project type, location, finishes, and complexity."
+}

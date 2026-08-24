@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-architectural-coordination-in-custom-home-building",
+  "name": "What is architectural coordination in custom home building?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is architectural coordination in custom home building?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Architectural coordination ensures all design elements and construction plans from various specialists integrate seamlessly. This includes verifying that structural, mechanical, electrical, and plumbing designs align with the architectural vision, local building codes, and the homeowner's requirements. It prevents conflicts and errors before construction begins, streamlining the building process and ensuring the final luxury home is cohesive and functional.",
+        "@type": "Answer",
+        "description": "Architectural coordination integrates all design aspects and construction plans from different specialists into a cohesive vision for custom home building."
+      }
+    }
+  ],
+  "description": "Architectural coordination integrates all design aspects and construction plans from different specialists into a cohesive vision for custom home building."
+}

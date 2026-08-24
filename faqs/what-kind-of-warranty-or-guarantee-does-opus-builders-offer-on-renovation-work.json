@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-kind-of-warranty-or-guarantee-does-opus-builders-offer-on-renovation-work",
+  "name": "What kind of warranty or guarantee does Opus Builders offer on renovation work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee does Opus Builders offer on renovation work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders stands behind the quality of our luxury renovation work with a comprehensive warranty on craftsmanship and structural integrity. Specific warranty details are outlined in our project contracts, typically covering a period of one to two years for labor and materials, though certain components may carry longer manufacturer warranties. We are committed to addressing any issues that may arise post-completion promptly and efficiently, ensuring your satisfaction and the lasting quality of your investment.",
+        "@type": "Answer",
+        "description": "Opus Builders offers a comprehensive warranty on craftsmanship and structural integrity for our renovation work, typically one to two years for labor and materials."
+      }
+    }
+  ],
+  "description": "Opus Builders offers a comprehensive warranty on craftsmanship and structural integrity for our renovation work, typically one to two years for labor and materi"
+}

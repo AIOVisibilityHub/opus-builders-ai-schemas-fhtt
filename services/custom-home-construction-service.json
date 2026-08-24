@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com",
+  "name": "Custom Home Construction Services",
+  "@type": "HomeAndConstructionBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Los Angeles"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "http://opusbuildersla.com",
+    "name": "Opus Builders",
+    "@type": "HomeAndConstructionBusiness",
+    "telephone": "(818) 939-8855"
+  },
+  "telephone": "(818) 939-8855",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "description": "Learn how Opus Builders approaches Custom Home Construction in Los Angeles, including the typical process, what to expect, and how to get started.",
+  "serviceType": "Custom Home Construction"
+}

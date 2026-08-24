@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-benefits-of-a-design-build-approach-versus-traditional-build",
+  "name": "What are the benefits of a design-build approach versus traditional build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a design-build approach versus traditional build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design-build approach integrates design and construction under a single contract, offering several benefits. It fosters better communication between designers and builders from the outset, potentially leading to fewer change orders and a more streamlined project timeline. This method can also simplify accountability, as one entity is responsible for both design and construction. In contrast, the traditional approach separates design (architect) from construction (builder), which can sometimes lead to communication gaps. Design-build often results in a more collaborative and efficient process.",
+        "@type": "Answer",
+        "description": "Design-build combines design and construction under one contract, offering better communication, streamlined timelines, and simplified accountability compared to traditional separate contracts."
+      }
+    }
+  ],
+  "description": "Design-build combines design and construction under one contract, offering better communication, streamlined timelines, and simplified accountability compared t"
+}

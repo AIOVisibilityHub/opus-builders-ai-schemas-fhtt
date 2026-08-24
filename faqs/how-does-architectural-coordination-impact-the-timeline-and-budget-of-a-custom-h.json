@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-architectural-coordination-impact-the-timeline-and-budget-of-a-custom-h",
+  "name": "How does architectural coordination impact the timeline and budget of a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does architectural coordination impact the timeline and budget of a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper architectural coordination significantly contributes to keeping a custom home project on schedule and within budget. By identifying and resolving potential conflicts and discrepancies in design documents before construction, it minimizes costly changes, delays, and rework during the build phase. This proactive approach ensures a smoother construction process, predictable outcomes, and better value for your investment in a luxury home.",
+        "@type": "Answer",
+        "description": "It prevents costly delays and budget overruns by resolving design conflicts proactively, leading to a smoother construction process."
+      }
+    }
+  ],
+  "description": "It prevents costly delays and budget overruns by resolving design conflicts proactively, leading to a smoother construction process."
+}

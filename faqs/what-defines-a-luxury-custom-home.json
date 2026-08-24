@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-defines-a-luxury-custom-home",
+  "name": "What defines a luxury custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a luxury custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury custom home is uniquely designed and built to meet the specific desires and lifestyle of its owner. It typically features high-end materials, bespoke architectural elements, advanced smart home technologies, and superior craftsmanship. Unlike production homes, every detail, from the layout to the finishes, is chosen or created for the individual client, resulting in a residence that is truly one-of-a-kind and often integrates specialized amenities like home theaters, elaborate outdoor living spaces, or custom wellness areas.",
+        "@type": "Answer",
+        "description": "A luxury custom home is a unique residence designed with high-end materials, bespoke architecture, and superior craftsmanship to meet an owner's specific desires."
+      }
+    }
+  ],
+  "description": "A luxury custom home is a unique residence designed with high-end materials, bespoke architecture, and superior craftsmanship to meet an owner's specific desire"
+}

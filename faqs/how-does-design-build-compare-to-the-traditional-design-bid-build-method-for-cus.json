@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-design-build-compare-to-the-traditional-design-bid-build-method-for-cus",
+  "name": "How does design-build compare to the traditional design-bid-build method for custom homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does design-build compare to the traditional design-bid-build method for custom homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In design-build, one firm manages both design and construction, offering a unified vision and single point of responsibility. The traditional design-bid-build method separates these phases; an architect designs the home, and then multiple contractors bid on the construction. Design-build often leads to faster project completion and better cost control due to early collaboration and value engineering. Traditional methods can sometimes lead to longer timelines and potential disputes between the separate design and construction teams.",
+        "@type": "Answer",
+        "description": "Design-build combines design and construction under one firm, while traditional methods separate them. Design-build often offers better communication, cost control, and efficiency."
+      }
+    }
+  ],
+  "description": "Design-build combines design and construction under one firm, while traditional methods separate them. Design-build often offers better communication, cost cont"
+}

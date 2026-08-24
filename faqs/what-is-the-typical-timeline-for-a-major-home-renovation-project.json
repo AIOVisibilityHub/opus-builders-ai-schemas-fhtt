@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-a-major-home-renovation-project",
+  "name": "What is the typical timeline for a major home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a major home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a major home renovation varies significantly based on the scope, complexity, and size of the project. A kitchen remodel might take 8-12 weeks, while a whole-house renovation could extend from 6 months to over a year. Factors like design finalization, material procurement, permitting processes, and the availability of skilled tradespeople all influence the schedule. Unexpected issues uncovered during demolition can also add to the duration. Opus Builders works closely with clients to establish realistic timelines and keeps them informed throughout each phase.",
+        "@type": "Answer",
+        "description": "Major home renovations can take anywhere from a few months for a kitchen remodel to over a year for a whole-house transformation, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "Major home renovations can take anywhere from a few months for a kitchen remodel to over a year for a whole-house transformation, depending on scope and complex"
+}

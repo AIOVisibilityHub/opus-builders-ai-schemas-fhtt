@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-luxury-home-renovation-typically-cost-in-los-angeles",
+  "name": "How much does a luxury home renovation typically cost in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a luxury home renovation typically cost in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury home renovation in Los Angeles is highly variable, depending on the scope of work, material selections, and desired finishes. A high-end kitchen remodel might range from $75,000 to over $200,000, while a substantial whole-home renovation can easily exceed $500,000 to several million dollars. Factors influencing cost include structural changes, custom millwork, premium appliances, and specialized systems. Opus Builders provides detailed proposals and works to align the project with your budget expectations.",
+        "@type": "Answer",
+        "description": "Luxury home renovation costs in Los Angeles vary widely, from $75,000 for a high-end kitchen to millions for a whole-home project, based on scope and materials."
+      }
+    }
+  ],
+  "description": "Luxury home renovation costs in Los Angeles vary widely, from $75,000 for a high-end kitchen to millions for a whole-home project, based on scope and materials."
+}

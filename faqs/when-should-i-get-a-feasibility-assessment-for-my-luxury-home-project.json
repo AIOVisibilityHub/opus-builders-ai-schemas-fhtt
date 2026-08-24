@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-get-a-feasibility-assessment-for-my-luxury-home-project",
+  "name": "When should I get a feasibility assessment for my luxury home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a feasibility assessment for my luxury home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to conduct a feasibility assessment early in your project, ideally before acquiring land or finalizing a design concept. This allows you to understand the full potential and limitations of a site, ensuring it aligns with your vision for a luxury home. Early assessment helps avoid costly redesigns or unexpected issues during construction, providing clarity and confidence as you move forward. It's a proactive step to secure your investment.",
+        "@type": "Answer",
+        "description": "Conduct a feasibility assessment early, preferably before land acquisition or design finalization, to understand site potential and avoid costly issues."
+      }
+    }
+  ],
+  "description": "Conduct a feasibility assessment early, preferably before land acquisition or design finalization, to understand site potential and avoid costly issues."
+}

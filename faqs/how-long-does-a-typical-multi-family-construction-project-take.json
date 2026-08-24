@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-multi-family-construction-project-take",
+  "name": "How long does a typical multi-family construction project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical multi-family construction project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a multi-family construction project varies significantly based on factors like the project's size, complexity, site conditions, and local permitting processes. A smaller project, such as a duplex or a small apartment building, might take 12-18 months from groundbreaking to completion. Larger developments with multiple buildings or extensive amenities can extend to 24-36 months or more. Opus Builders works to establish realistic timelines during the planning phase.",
+        "@type": "Answer",
+        "description": "Project timelines vary, typically ranging from 12-18 months for smaller projects to 24-36 months or more for larger developments, depending on complexity and approvals."
+      }
+    }
+  ],
+  "description": "Project timelines vary, typically ranging from 12-18 months for smaller projects to 24-36 months or more for larger developments, depending on complexity and ap"
+}

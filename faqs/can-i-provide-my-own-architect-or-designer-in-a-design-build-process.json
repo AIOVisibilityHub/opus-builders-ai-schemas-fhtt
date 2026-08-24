@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-provide-my-own-architect-or-designer-in-a-design-build-process",
+  "name": "Can I provide my own architect or designer in a design-build process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I provide my own architect or designer in a design-build process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the core advantage of design-build is the integration of design and construction under one roof, some firms offer flexibility. At Opus Builders, our in-house team includes talented architects and designers who are experts in luxury home creation. If you have an existing relationship with an architect, we can discuss how to best integrate their plans into our construction process. However, to fully leverage the benefits of a truly integrated design-build approach, working with our complete team from concept to completion is generally recommended for optimal synergy and efficiency.",
+        "@type": "Answer",
+        "description": "While design-build typically uses an integrated in-house team, some firms may integrate external architects. Our full team offers optimal synergy."
+      }
+    }
+  ],
+  "description": "While design-build typically uses an integrated in-house team, some firms may integrate external architects. Our full team offers optimal synergy."
+}

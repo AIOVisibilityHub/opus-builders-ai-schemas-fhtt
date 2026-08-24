@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-engineering-coordination-during-construction",
+  "name": "What is the process for engineering coordination during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for engineering coordination during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with reviewing all architectural and engineering plans for consistency and constructability. The coordinator facilitates communication between architects, engineers, and contractors, ensuring that design intent is maintained while addressing site-specific challenges. This involves regular meetings, document control, clash detection, and problem-solving to resolve discrepancies before they impact the construction schedule or budget.",
+        "@type": "Answer",
+        "description": "Engineering coordination involves reviewing plans, facilitating communication between all parties, and resolving discrepancies to maintain design intent during construction."
+      }
+    }
+  ],
+  "description": "Engineering coordination involves reviewing plans, facilitating communication between all parties, and resolving discrepancies to maintain design intent during"
+}

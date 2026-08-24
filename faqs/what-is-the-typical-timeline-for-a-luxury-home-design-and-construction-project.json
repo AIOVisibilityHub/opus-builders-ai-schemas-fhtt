@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-a-luxury-home-design-and-construction-project",
+  "name": "What is the typical timeline for a luxury home design and construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a luxury home design and construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a luxury home design and construction project can vary significantly based on complexity, size, and customization. Generally, the design phase can take 3-6 months, while the construction phase might range from 12-24 months or more. Factors such as securing permits, material procurement, and client revisions can influence the overall duration. Opus Builders works to establish a realistic schedule upfront and keeps clients informed throughout each stage, aiming for efficient project completion without compromising quality.",
+        "@type": "Answer",
+        "description": "Luxury home projects typically take 3-6 months for design and 12-24+ months for construction, depending on complexity and customization."
+      }
+    }
+  ],
+  "description": "Luxury home projects typically take 3-6 months for design and 12-24+ months for construction, depending on complexity and customization."
+}

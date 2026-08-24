@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-construction-feasibility-assessment-take",
+  "name": "How long does a typical construction feasibility assessment take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical construction feasibility assessment take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a construction feasibility assessment can vary depending on the complexity of the property and the scope of your proposed luxury home project. Generally, a comprehensive assessment might take anywhere from two to four weeks. This timeframe allows for thorough research into zoning, site visits, preliminary consultations with relevant experts, and the compilation of a detailed report. Simpler projects on straightforward lots may conclude faster, while complex sites or ambitious designs require more in-depth analysis.",
+        "@type": "Answer",
+        "description": "A typical assessment takes 2-4 weeks, varying with project complexity. This allows for research, site visits, expert consultations, and report compilation."
+      }
+    }
+  ],
+  "description": "A typical assessment takes 2-4 weeks, varying with project complexity. This allows for research, site visits, expert consultations, and report compilation."
+}

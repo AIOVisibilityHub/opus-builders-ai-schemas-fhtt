@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-designing-a-custom-home",
+  "name": "What is the process for designing a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom home design process begins with an initial consultation to understand your vision, lifestyle, and budget. This leads to preliminary sketches and conceptual designs, followed by detailed architectural drawings and 3D renderings. During this phase, material selections, fixtures, and finishes are chosen. Engineering plans for structural, mechanical, electrical, and plumbing systems are also developed. Throughout, collaboration with architects and designers ensures your preferences are integrated while adhering to local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Designing a custom home involves consultations, conceptual sketches, detailed architectural drawings, material selections, and engineering plans."
+      }
+    }
+  ],
+  "description": "Designing a custom home involves consultations, conceptual sketches, detailed architectural drawings, material selections, and engineering plans."
+}

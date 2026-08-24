@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-typically-required-for-a-home-renovation-in-los-angeles-county",
+  "name": "What permits are typically required for a home renovation in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for a home renovation in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for home renovations in Los Angeles County depend on the scope of work. Most projects involving structural changes, additions, significant electrical or plumbing work, or changes to the exterior footprint will require permits from the Department of Building and Safety. Smaller cosmetic updates might not. Common permits include building, electrical, plumbing, and mechanical permits. Our team manages the permitting process, ensuring all necessary approvals are obtained before construction begins, which is crucial for compliance and avoiding delays.",
+        "@type": "Answer",
+        "description": "In Los Angeles County, permits are generally required for structural, electrical, plumbing, or significant exterior changes. Our team handles the permitting process."
+      }
+    }
+  ],
+  "description": "In Los Angeles County, permits are generally required for structural, electrical, plumbing, or significant exterior changes. Our team handles the permitting pro"
+}

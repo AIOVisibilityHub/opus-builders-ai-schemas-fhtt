@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-payment-structure-for-a-luxury-home-construction-project",
+  "name": "What is the typical payment structure for a luxury home construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment structure for a luxury home construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Payment structures for luxury home construction typically involve an initial deposit, followed by a series of progress payments tied to key construction milestones. These milestones might include foundation completion, framing, rough-ins, exterior enclosure, and final completion. This phased approach ensures that payments are disbursed as work progresses and materials are delivered, maintaining financial transparency. Opus Builders provides a detailed payment schedule upfront, outlining each installment and its corresponding project phase for clarity.",
+        "@type": "Answer",
+        "description": "Payments for luxury home construction typically start with an initial deposit, followed by progress payments tied to specific construction milestones."
+      }
+    }
+  ],
+  "description": "Payments for luxury home construction typically start with an initial deposit, followed by progress payments tied to specific construction milestones."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-cost-of-a-construction-feasibility-assessment-for-a-luxury-home",
+  "name": "What is the cost of a construction feasibility assessment for a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a construction feasibility assessment for a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a construction feasibility assessment for a luxury home is not fixed and depends on several variables. These include the size and complexity of the property, the depth of analysis required, and the specific studies needed (e.g., geotechnical reports, environmental assessments). A detailed quote is provided after an initial consultation to understand your project's unique requirements. This upfront investment helps save significant costs later by identifying potential issues early.",
+        "@type": "Answer",
+        "description": "The cost varies based on property size, complexity, and required analyses. A detailed quote is provided after an initial consultation to determine your project's unique needs."
+      }
+    }
+  ],
+  "description": "The cost varies based on property size, complexity, and required analyses. A detailed quote is provided after an initial consultation to determine your project'"
+}

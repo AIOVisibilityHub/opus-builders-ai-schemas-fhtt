@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-build-a-custom-luxury-home-in-southern-california",
+  "name": "How much does it cost to build a custom luxury home in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a custom luxury home in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a custom luxury home in Southern California can range widely, typically from $600 to over $1,500 per square foot, depending on location, finishes, and architectural complexity. This estimate includes construction costs but generally excludes land acquisition, landscaping, and other soft costs like design fees. Factors such as high-end materials, smart home technology integration, unique site challenges, and specialized amenities like pools or home theaters will significantly impact the final budget. A detailed budget proposal is developed during the initial planning stages.",
+        "@type": "Answer",
+        "description": "Custom luxury homes in Southern California typically cost $600-$1,500+ per square foot, excluding land and soft costs. High-end materials, technology, and specialized amenities influence the final price."
+      }
+    }
+  ],
+  "description": "Custom luxury homes in Southern California typically cost $600-$1,500+ per square foot, excluding land and soft costs. High-end materials, technology, and speci"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-designing-a-custom-luxury-home-with-opus-builders",
+  "name": "What is the process for designing a custom luxury home with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a custom luxury home with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, lifestyle, and requirements. We then move into conceptual design, developing floor plans, elevations, and 3D renderings for your review. Once approved, detailed architectural and engineering plans are created. Throughout this phase, material selections and finishes are finalized. This collaborative approach ensures every detail reflects your unique preferences before construction commences. Our team guides you through each step, making the design journey seamless and enjoyable.",
+        "@type": "Answer",
+        "description": "The design process starts with understanding your vision, then moves to conceptual and detailed plans, material selection, and finalization before construction."
+      }
+    }
+  ],
+  "description": "The design process starts with understanding your vision, then moves to conceptual and detailed plans, material selection, and finalization before construction."
+}

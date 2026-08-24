@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-opus-builders-ensure-quality-in-multi-family-projects",
+  "name": "How does Opus Builders ensure quality in multi-family projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Opus Builders ensure quality in multi-family projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders ensures quality through a meticulous approach that includes rigorous material selection, engaging skilled craftsmen, and implementing strict quality control protocols at every stage of construction. Our project managers conduct regular on-site inspections and adhere to detailed construction schedules and specifications. We partner with reputable suppliers and subcontractors, and our in-house teams maintain high standards of workmanship to deliver durable and well-finished multi-family properties.",
+        "@type": "Answer",
+        "description": "Quality is ensured through careful material selection, skilled craftsmanship, strict on-site quality control, regular inspections, and partnerships with reputable suppliers and subcontractors."
+      }
+    }
+  ],
+  "description": "Quality is ensured through careful material selection, skilled craftsmanship, strict on-site quality control, regular inspections, and partnerships with reputab"
+}

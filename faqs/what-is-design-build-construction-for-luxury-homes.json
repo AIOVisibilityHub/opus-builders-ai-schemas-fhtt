@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-design-build-construction-for-luxury-homes",
+  "name": "What is design-build construction for luxury homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is design-build construction for luxury homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Design-build is a project delivery method where one entity, the design-builder, handles both the design and construction phases of your luxury home project. This integrated approach means architects, designers, and builders work together from the outset. This fosters seamless communication, reduces potential conflicts between design and construction teams, and typically results in a more streamlined process from concept to completion. It provides a single point of contact and accountability for the entire project.",
+        "@type": "Answer",
+        "description": "Design-build combines design and construction under a single entity, streamlining the luxury home building process with one point of contact."
+      }
+    }
+  ],
+  "description": "Design-build combines design and construction under a single entity, streamlining the luxury home building process with one point of contact."
+}

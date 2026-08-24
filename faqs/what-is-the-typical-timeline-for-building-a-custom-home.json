@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-building-a-custom-home",
+  "name": "What is the typical timeline for building a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for building a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for custom home construction varies significantly based on design complexity, site conditions, permitting, and material selections. Generally, a custom home project from initial design to move-in can take anywhere from 12 to 24 months. The design and architectural phase typically accounts for 3-6 months, while the actual construction phase can range from 9-18 months. Unforeseen issues like weather delays or supply chain disruptions can extend this, so planning for flexibility is advisable.",
+        "@type": "Answer",
+        "description": "Custom home construction typically takes 12 to 24 months from design to move-in, depending on project complexity and site conditions."
+      }
+    }
+  ],
+  "description": "Custom home construction typically takes 12 to 24 months from design to move-in, depending on project complexity and site conditions."
+}

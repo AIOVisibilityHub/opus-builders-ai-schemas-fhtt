@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-feasibility-assessment-and-a-property-appraisal",
+  "name": "What is the difference between a feasibility assessment and a property appraisal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a feasibility assessment and a property appraisal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A feasibility assessment focuses on the practical and regulatory viability of a construction project on a specific site, identifying potential challenges and opportunities before building. It considers factors like zoning, site conditions, and utility access to determine if a project can be built as envisioned. A property appraisal, conversely, determines the market value of an existing property or land. While both involve evaluating a site, their purposes differ significantly: feasibility looks forward to building, appraisal looks at current market worth.",
+        "@type": "Answer",
+        "description": "A feasibility assessment evaluates a project's buildability and viability, while a property appraisal determines the market value of land or an existing property."
+      }
+    }
+  ],
+  "description": "A feasibility assessment evaluates a project's buildability and viability, while a property appraisal determines the market value of land or an existing propert"
+}

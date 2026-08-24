@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-live-in-my-home-during-a-major-renovation-or-should-i-move-out",
+  "name": "Can I live in my home during a major renovation, or should I move out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a major renovation, or should I move out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during a major renovation depends heavily on the project's scope and which areas are affected. If the kitchen, main bathrooms, or primary living spaces are undergoing extensive work, moving out might be more practical for your comfort and safety. This also allows the construction team to work more efficiently. For less disruptive projects, careful planning can allow you to remain. Opus Builders works with clients to assess feasibility and implement strategies to minimize inconvenience.",
+        "@type": "Answer",
+        "description": "Living in your home during a major renovation depends on the project's scope; moving out might be safer and more practical if essential areas like kitchens or main bathrooms are affected."
+      }
+    }
+  ],
+  "description": "Living in your home during a major renovation depends on the project's scope; moving out might be safer and more practical if essential areas like kitchens or m"
+}

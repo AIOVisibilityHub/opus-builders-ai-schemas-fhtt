@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/why-should-i-choose-opus-builders-for-my-multi-family-construction-project-in-gl",
+  "name": "Why should I choose Opus Builders for my multi-family construction project in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose Opus Builders for my multi-family construction project in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders brings extensive experience and local expertise to multi-family construction projects in Glendale. We understand the specific zoning regulations, permitting processes, and architectural styles prevalent in the area. Our commitment to quality craftsmanship, transparent communication, and efficient project management ensures that your development is completed on time and within budget. We prioritize building lasting relationships and delivering luxury multi-family properties that enhance the Glendale community.",
+        "@type": "Answer",
+        "description": "Choose Opus Builders for multi-family construction in Glendale due to our local expertise, understanding of specific zoning and permits, commitment to quality, and transparent project management."
+      }
+    }
+  ],
+  "description": "Choose Opus Builders for multi-family construction in Glendale due to our local expertise, understanding of specific zoning and permits, commitment to quality,"
+}

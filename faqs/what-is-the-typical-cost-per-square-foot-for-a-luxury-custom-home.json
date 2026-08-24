@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-per-square-foot-for-a-luxury-custom-home",
+  "name": "What is the typical cost per square foot for a luxury custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost per square foot for a luxury custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for a luxury custom home varies widely based on location, material selections, architectural complexity, and the level of finishes. While it's difficult to give an exact figure without specific project details, luxury homes generally start from around $500-$1000 per square foot, and can exceed $1500+ for exceptionally high-end or unique designs. This includes costs for design, construction, and high-quality finishes. A detailed budget is developed after initial design consultations.",
+        "@type": "Answer",
+        "description": "Luxury custom homes typically cost between $500-$1000+ per square foot, influenced by location, materials, and design complexity."
+      }
+    }
+  ],
+  "description": "Luxury custom homes typically cost between $500-$1000+ per square foot, influenced by location, materials, and design complexity."
+}

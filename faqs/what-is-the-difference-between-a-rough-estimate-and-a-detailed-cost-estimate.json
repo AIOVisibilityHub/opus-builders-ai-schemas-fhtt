@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-rough-estimate-and-a-detailed-cost-estimate",
+  "name": "What is the difference between a rough estimate and a detailed cost estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a rough estimate and a detailed cost estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rough estimate, often called a conceptual estimate, provides a preliminary cost range based on general project size and scope, using broad averages. It's useful for initial budgeting and feasibility studies. A detailed cost estimate, conversely, is much more precise. It involves a thorough breakdown of all components, including specific material quantities, labor hours, subcontractor bids, equipment costs, and a contingency fund, based on complete architectural plans and specifications. This provides a near-final project cost.",
+        "@type": "Answer",
+        "description": "A rough estimate is a preliminary cost range for early budgeting. A detailed estimate is a precise breakdown of all costs, based on complete plans, used for final budgeting and contracts."
+      }
+    }
+  ],
+  "description": "A rough estimate is a preliminary cost range for early budgeting. A detailed estimate is a precise breakdown of all costs, based on complete plans, used for fin"
+}

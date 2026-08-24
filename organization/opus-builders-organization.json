@@ -1,0 +1,77 @@
+{
+  "url": "http://opusbuildersla.com",
+  "name": "Opus Builders",
+  "@type": "Organization",
+  "email": "Gary@OpusBuildersLa.com",
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Gary Mkrtichyan",
+      "@type": "Person",
+      "jobTitle": "Team Member"
+    }
+  ],
+  "telephone": "(818) 939-8855",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "description": "Opus Builders is a Los Angeles-based residential and commercial design-build contractor specializing in luxury custom homes, new construction, home remodeling, multi-family properties, and commercial buildings. The company promotes an integrated approach in which design, architecture, engineering, permitting, construction, and project management are coordinated through one team. Its stated goal is to preserve each client’s vision while delivering well-designed, functional, and high-quality projects.",
+  "hasOfferCatalog": {
+    "name": "Opus Builders Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Luxury Home Design",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Custom Home Construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Home Renovations",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Luxury custom home building",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "commercial construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "multi-family construction",
+          "@type": "Service"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "design-build services",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

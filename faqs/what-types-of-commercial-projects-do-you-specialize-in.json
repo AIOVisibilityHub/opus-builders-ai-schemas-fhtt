@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-types-of-commercial-projects-do-you-specialize-in",
+  "name": "What types of commercial projects do you specialize in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of commercial projects do you specialize in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We specialize in a diverse range of commercial projects, including office tenant improvements, retail build-outs, restaurant renovations, and ground-up commercial buildings. Our expertise extends to creating functional and aesthetically pleasing spaces that align with our clients' brand identity and operational needs. We focus on delivering high-quality construction that meets stringent commercial standards while ensuring projects are completed efficiently within our service areas, such as Burbank and North Hollywood.",
+        "@type": "Answer",
+        "description": "We specialize in various commercial projects like office, retail, and restaurant builds, focusing on functional, high-quality, and brand-aligned spaces."
+      }
+    }
+  ],
+  "description": "We specialize in various commercial projects like office, retail, and restaurant builds, focusing on functional, high-quality, and brand-aligned spaces."
+}

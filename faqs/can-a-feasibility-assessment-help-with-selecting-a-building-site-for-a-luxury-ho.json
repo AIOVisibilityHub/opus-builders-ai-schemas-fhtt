@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-a-feasibility-assessment-help-with-selecting-a-building-site-for-a-luxury-ho",
+  "name": "Can a feasibility assessment help with selecting a building site for a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a feasibility assessment help with selecting a building site for a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a feasibility assessment is highly beneficial for selecting a building site. It can be applied to multiple prospective properties, allowing you to compare their suitability based on your luxury home vision. The assessment identifies which sites best accommodate your desired architectural style, amenities, and lifestyle, while also highlighting any potential constraints or unexpected costs associated with each. This comparative analysis empowers you to make an informed decision, selecting the most advantageous location for your investment.",
+        "@type": "Answer",
+        "description": "Yes, it helps compare prospective sites, identifying which best suits your luxury home vision while highlighting potential constraints or costs for each."
+      }
+    }
+  ],
+  "description": "Yes, it helps compare prospective sites, identifying which best suits your luxury home vision while highlighting potential constraints or costs for each."
+}

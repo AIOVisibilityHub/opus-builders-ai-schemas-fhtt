@@ -1,0 +1,181 @@
+{
+  "url": "http://opusbuildersla.com",
+  "name": "High-end home remodeling",
+  "@type": "GeneralContractor",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Los Angeles"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "http://opusbuildersla.com",
+    "name": "Opus Builders",
+    "@type": "GeneralContractor",
+    "telephone": "(818) 939-8855"
+  },
+  "telephone": "(818) 939-8855",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "North Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "Van Nuys",
+      "@type": "City"
+    },
+    {
+      "name": "Alhambra",
+      "@type": "City"
+    },
+    {
+      "name": "Beverly Hills",
+      "@type": "City"
+    },
+    {
+      "name": "West Hollywood",
+      "@type": "City"
+    },
+    {
+      "name": "La Cañada Flintridge",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "Arcadia",
+      "@type": "City"
+    },
+    {
+      "name": "Sierra Madre",
+      "@type": "City"
+    },
+    {
+      "name": "Monrovia",
+      "@type": "City"
+    },
+    {
+      "name": "San Gabriel",
+      "@type": "City"
+    },
+    {
+      "name": "Temple City",
+      "@type": "City"
+    },
+    {
+      "name": "Altadena",
+      "@type": "City"
+    },
+    {
+      "name": "La Crescenta-Montrose",
+      "@type": "City"
+    },
+    {
+      "name": "San Fernando",
+      "@type": "City"
+    },
+    {
+      "name": "Studio City",
+      "@type": "City"
+    },
+    {
+      "name": "Sherman Oaks",
+      "@type": "City"
+    },
+    {
+      "name": "Encino",
+      "@type": "City"
+    },
+    {
+      "name": "Tarzana",
+      "@type": "City"
+    },
+    {
+      "name": "Woodland Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Calabasas",
+      "@type": "City"
+    },
+    {
+      "name": "Hidden Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Monica",
+      "@type": "City"
+    },
+    {
+      "name": "Culver City",
+      "@type": "City"
+    },
+    {
+      "name": "Westwood",
+      "@type": "City"
+    },
+    {
+      "name": "Bel Air",
+      "@type": "City"
+    },
+    {
+      "name": "Brentwood",
+      "@type": "City"
+    },
+    {
+      "name": "Pacific Palisades",
+      "@type": "City"
+    },
+    {
+      "name": "Malibu",
+      "@type": "City"
+    },
+    {
+      "name": "Westlake Village",
+      "@type": "City"
+    },
+    {
+      "name": "Manhattan Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hermosa Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Redondo Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Eagle Rock",
+      "@type": "City"
+    }
+  ],
+  "description": "Learn how Opus Builders approaches High-end home remodeling in Los Angeles, Glendale, Pasadena, including the typical process, what to expect, and how to get started.",
+  "serviceType": "High-end home remodeling"
+}

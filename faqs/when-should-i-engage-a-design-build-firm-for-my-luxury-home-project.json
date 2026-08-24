@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-engage-a-design-build-firm-for-my-luxury-home-project",
+  "name": "When should I engage a design-build firm for my luxury home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a design-build firm for my luxury home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to engage a design-build firm as early as possible in your project's conception. Ideally, this occurs even before you have finalized your property purchase or have any detailed architectural plans. Early involvement allows the design-build team to assist with site selection analysis, provide realistic budget estimates based on your vision, and offer constructability insights from the very beginning. This integrated approach ensures that design decisions are made with construction feasibility and cost efficiency in mind, setting your project up for success from day one.",
+        "@type": "Answer",
+        "description": "Engage a design-build firm as early as possible, ideally before finalizing property purchase or detailed plans, for site analysis and realistic budgeting."
+      }
+    }
+  ],
+  "description": "Engage a design-build firm as early as possible, ideally before finalizing property purchase or detailed plans, for site analysis and realistic budgeting."
+}

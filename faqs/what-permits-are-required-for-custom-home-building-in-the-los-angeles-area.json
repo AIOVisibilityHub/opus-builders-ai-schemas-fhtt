@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-custom-home-building-in-the-los-angeles-area",
+  "name": "What permits are required for custom home building in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for custom home building in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a custom home in the Los Angeles area requires various permits from the city's Department of Building and Safety, as well as potentially other agencies. Key permits include grading permits, building permits, plumbing permits, electrical permits, and mechanical permits. Depending on the project, additional permits might be needed for specific structures like retaining walls, swimming pools, or significant site work. Navigating the permitting process can be complex and time-consuming. Opus Builders has extensive experience in managing these applications and ensuring compliance with all local regulations.",
+        "@type": "Answer",
+        "description": "Custom home building in Los Angeles requires various permits from the Department of Building and Safety, including grading, building, plumbing, electrical, and mechanical. Opus Builders assists with navigating this complex process."
+      }
+    }
+  ],
+  "description": "Custom home building in Los Angeles requires various permits from the Department of Building and Safety, including grading, building, plumbing, electrical, and"
+}

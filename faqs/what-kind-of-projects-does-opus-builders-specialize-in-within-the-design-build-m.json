@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-kind-of-projects-does-opus-builders-specialize-in-within-the-design-build-m",
+  "name": "What kind of projects does Opus Builders specialize in within the design-build model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of projects does Opus Builders specialize in within the design-build model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders specializes in bespoke luxury home design and construction within the design-build model. Our expertise ranges from custom new home construction to significant renovations, additions, and comprehensive estate transformations. We excel in crafting unique residences that reflect individual client lifestyles and preferences, focusing on high-end finishes, advanced technologies, and sustainable practices. Serving areas like Los Angeles and Pasadena, we are dedicated to creating distinctive, high-quality homes that stand the test of time.",
+        "@type": "Answer",
+        "description": "Opus Builders specializes in luxury custom new homes, renovations, additions, and estate transformations using the design-build model, focusing on high-end finishes and unique client visions."
+      }
+    }
+  ],
+  "description": "Opus Builders specializes in luxury custom new homes, renovations, additions, and estate transformations using the design-build model, focusing on high-end fini"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-multi-family-construction",
+  "name": "What is multi-family construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is multi-family construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-family construction involves building residential properties with multiple separate housing units within a single structure or complex. This includes apartment buildings, condominiums, townhouses, and duplexes. These projects are designed to accommodate multiple households and often incorporate shared amenities like parking, recreational areas, and common spaces. Opus Builders specializes in creating functional and appealing multi-family developments tailored to urban environments in the Los Angeles area.",
+        "@type": "Answer",
+        "description": "Multi-family construction involves building residential properties with multiple separate housing units within a single structure or complex, such as apartments or condominiums."
+      }
+    }
+  ],
+  "description": "Multi-family construction involves building residential properties with multiple separate housing units within a single structure or complex, such as apartments"
+}

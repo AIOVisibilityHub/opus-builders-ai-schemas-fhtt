@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-luxury-home-design-build-project-take",
+  "name": "How long does a typical luxury home design-build project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical luxury home design-build project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a luxury home design-build project is highly variable, influenced by factors such as the scope of work, design complexity, material lead times, and permitting processes. While a smaller renovation might take 6-12 months, a new custom luxury home could range from 12-24 months or more from initial concept to completion. Opus Builders provides a detailed project schedule at the outset, with regular updates to keep you informed. Our integrated approach often helps to mitigate delays compared to traditional construction models.",
+        "@type": "Answer",
+        "description": "Project timelines vary greatly based on scope and complexity. New luxury homes can take 12-24 months, while renovations are typically 6-12 months."
+      }
+    }
+  ],
+  "description": "Project timelines vary greatly based on scope and complexity. New luxury homes can take 12-24 months, while renovations are typically 6-12 months."
+}

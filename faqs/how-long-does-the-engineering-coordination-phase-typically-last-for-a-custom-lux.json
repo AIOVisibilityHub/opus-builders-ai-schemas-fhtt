@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-the-engineering-coordination-phase-typically-last-for-a-custom-lux",
+  "name": "How long does the engineering coordination phase typically last for a custom luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the engineering coordination phase typically last for a custom luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the engineering coordination phase varies based on the complexity and scale of the luxury home project. It typically runs concurrently with the architectural design phase, extending into the initial stages of construction. For a custom luxury home, this could range from several months during detailed design to ongoing oversight throughout the first half of the construction timeline, ensuring that as new details emerge, they are integrated correctly.",
+        "@type": "Answer",
+        "description": "The engineering coordination phase for a custom luxury home can last from several months during design to ongoing oversight through early construction, depending on project complexity."
+      }
+    }
+  ],
+  "description": "The engineering coordination phase for a custom luxury home can last from several months during design to ongoing oversight through early construction, dependin"
+}

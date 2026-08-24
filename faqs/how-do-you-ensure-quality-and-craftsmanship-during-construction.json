@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-you-ensure-quality-and-craftsmanship-during-construction",
+  "name": "How do you ensure quality and craftsmanship during construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure quality and craftsmanship during construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring quality and craftsmanship is paramount in luxury home building. We achieve this through a multi-faceted approach: employing skilled tradespeople and artisans, sourcing premium materials, implementing rigorous quality control checks at every stage, and maintaining open communication with clients and supervisors. Our project managers conduct regular site inspections, and we adhere to strict building codes and industry best practices. We are committed to meticulous attention to detail to deliver a home of enduring quality and beauty.",
+        "@type": "Answer",
+        "description": "We ensure quality through skilled trades, premium materials, rigorous checks, open communication, and adherence to best practices and codes."
+      }
+    }
+  ],
+  "description": "We ensure quality through skilled trades, premium materials, rigorous checks, open communication, and adherence to best practices and codes."
+}

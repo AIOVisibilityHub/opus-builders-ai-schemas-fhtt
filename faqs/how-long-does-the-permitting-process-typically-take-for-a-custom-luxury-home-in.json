@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-the-permitting-process-typically-take-for-a-custom-luxury-home-in",
+  "name": "How long does the permitting process typically take for a custom luxury home in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the permitting process typically take for a custom luxury home in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The permitting process for a custom luxury home in California can vary significantly, often ranging from 3 to 12 months, or sometimes longer, depending on the complexity of the project, the specific municipality (e.g., Los Angeles vs. a smaller city), and the workload of the planning and building departments. Projects requiring environmental reviews or special variances can extend this timeline. Opus Builders manages the entire permitting application and approval process, leveraging our experience to expedite submissions and address any issues promptly.",
+        "@type": "Answer",
+        "description": "Permitting for a custom luxury home in California typically takes 3-12 months, varying by project complexity and specific municipality."
+      }
+    }
+  ],
+  "description": "Permitting for a custom luxury home in California typically takes 3-12 months, varying by project complexity and specific municipality."
+}

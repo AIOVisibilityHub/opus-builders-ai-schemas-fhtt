@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-engage-a-commercial-construction-company-for-my-project",
+  "name": "When should I engage a commercial construction company for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a commercial construction company for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is ideal to engage a commercial construction company early in the planning phase, even before architectural designs are fully complete. This allows us to provide valuable input on budget feasibility, constructability, value engineering options, and realistic timelines from the outset. Early involvement helps streamline the design process, identify potential challenges, and ensure that the project can be built efficiently and within your financial parameters.",
+        "@type": "Answer",
+        "description": "Engage a construction company early in the planning phase, ideally before final designs, to benefit from input on budget, constructability, and timelines."
+      }
+    }
+  ],
+  "description": "Engage a construction company early in the planning phase, ideally before final designs, to benefit from input on budget, constructability, and timelines."
+}

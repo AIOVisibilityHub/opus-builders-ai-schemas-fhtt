@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-hire-a-custom-home-builder",
+  "name": "When should I hire a custom home builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a custom home builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is ideal to engage a custom home builder early in the process, often concurrently with or shortly after hiring an architect. Bringing a builder into the design phase allows for valuable input on constructability, cost implications of design choices, and potential value engineering opportunities. This collaborative approach can help ensure the design aligns with your budget and practical building considerations from the outset, streamlining the entire project and preventing costly revisions later on.",
+        "@type": "Answer",
+        "description": "Hire a custom home builder early, ideally during or shortly after engaging an architect, to ensure design aligns with budget and constructability."
+      }
+    }
+  ],
+  "description": "Hire a custom home builder early, ideally during or shortly after engaging an architect, to ensure design aligns with budget and constructability."
+}

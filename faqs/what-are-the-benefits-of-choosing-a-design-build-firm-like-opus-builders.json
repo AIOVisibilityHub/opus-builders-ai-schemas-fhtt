@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-benefits-of-choosing-a-design-build-firm-like-opus-builders",
+  "name": "What are the benefits of choosing a design-build firm like Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing a design-build firm like Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing Opus Builders as your design-build firm means you benefit from a consolidated team responsible for both the creative design and precision construction of your luxury home. This integration fosters clear communication, reduces potential conflicts between designers and contractors, and often results in a faster project schedule. We offer greater cost control through early budgeting and value engineering, ensuring your investment is maximized. Our holistic approach minimizes your stress and maximizes the quality and efficiency of your luxury home build.",
+        "@type": "Answer",
+        "description": "Benefits include consolidated responsibility, clear communication, faster project schedules, and greater cost control, minimizing stress for luxury home owners."
+      }
+    }
+  ],
+  "description": "Benefits include consolidated responsibility, clear communication, faster project schedules, and greater cost control, minimizing stress for luxury home owners."
+}

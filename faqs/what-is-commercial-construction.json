@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-commercial-construction",
+  "name": "What is commercial construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is commercial construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial construction involves building or renovating structures for business purposes, such as offices, retail spaces, restaurants, or medical facilities. Unlike residential projects, commercial builds often require specialized permits, adhere to different building codes, and focus on functional layouts for specific business operations. The process typically involves a team of architects, engineers, and contractors collaborating to meet commercial standards and client business objectives.",
+        "@type": "Answer",
+        "description": "Commercial construction involves building or renovating structures for business purposes like offices or retail spaces, adhering to specific commercial codes and functional requirements."
+      }
+    }
+  ],
+  "description": "Commercial construction involves building or renovating structures for business purposes like offices or retail spaces, adhering to specific commercial codes an"
+}

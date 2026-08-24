@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-does-architectural-coordination-typically-occur-during-the-custom-home-buil",
+  "name": "When does architectural coordination typically occur during the custom home building process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does architectural coordination typically occur during the custom home building process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Architectural coordination is an ongoing process that begins early in the design phase and continues through construction documentation. Initial coordination starts as soon as architectural plans are developed, involving structural engineers, MEP specialists, and interior designers. It intensifies during the construction drawing phase to resolve potential conflicts before breaking ground, and continues with site visits during construction to address any emerging issues.",
+        "@type": "Answer",
+        "description": "It begins early in the design phase and continues through construction documentation, intensifying before breaking ground and extending into the build."
+      }
+    }
+  ],
+  "description": "It begins early in the design phase and continues through construction documentation, intensifying before breaking ground and extending into the build."
+}

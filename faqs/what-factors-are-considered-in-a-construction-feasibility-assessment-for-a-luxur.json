@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-are-considered-in-a-construction-feasibility-assessment-for-a-luxur",
+  "name": "What factors are considered in a construction feasibility assessment for a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors are considered in a construction feasibility assessment for a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key factors include local zoning and building codes specific to areas like Los Angeles or Pasadena, site topography, soil conditions, and access for utilities. We also assess environmental considerations, potential views, privacy, and how the design integrates with the surrounding neighborhood. For luxury homes, unique design elements, material sourcing, and potential for amenities like pools or expansive landscaping are also reviewed for viability and compliance. We consider specific regional characteristics, such as hillside construction requirements.",
+        "@type": "Answer",
+        "description": "Factors include zoning, site conditions, utility access, environmental impacts, design integration, and local building codes, especially for unique luxury home elements."
+      }
+    }
+  ],
+  "description": "Factors include zoning, site conditions, utility access, environmental impacts, design integration, and local building codes, especially for unique luxury home"
+}

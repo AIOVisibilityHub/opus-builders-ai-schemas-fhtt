@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-design-build-differ-from-traditional-construction-methods",
+  "name": "How does design-build differ from traditional construction methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does design-build differ from traditional construction methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In traditional construction, design and construction are separate contracts, often leading to potential communication gaps or delays. With design-build, Opus Builders provides both services collaboratively from day one. This integrated approach can result in better coordination, reduced risks, and more efficient project delivery. It also means fewer change orders and a more transparent process, as the design and construction teams are aligned on your budget and goals throughout the entire luxury home building journey.",
+        "@type": "Answer",
+        "description": "Design-build unifies design and construction under one contract, unlike traditional methods that separate them, leading to better coordination and efficiency."
+      }
+    }
+  ],
+  "description": "Design-build unifies design and construction under one contract, unlike traditional methods that separate them, leading to better coordination and efficiency."
+}

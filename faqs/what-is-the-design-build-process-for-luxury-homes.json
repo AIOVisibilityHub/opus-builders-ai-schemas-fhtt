@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-design-build-process-for-luxury-homes",
+  "name": "What is the design-build process for luxury homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the design-build process for luxury homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design-build process integrates design and construction services under a single contract with one point of contact, streamlining luxury home projects. Opus Builders manages all aspects from initial concept and architectural drawings to permits, material selection, and final construction. This approach fosters collaboration between designers and builders from the start, which can lead to more efficient problem-solving, cost control, and a faster project timeline compared to traditional methods. Our team works closely with you to ensure your vision for a custom luxury home is realized with precision and quality.",
+        "@type": "Answer",
+        "description": "The design-build process combines design and construction services under one contract, providing a single point of contact for luxury home projects from concept to completion."
+      }
+    }
+  ],
+  "description": "The design-build process combines design and construction services under one contract, providing a single point of contact for luxury home projects from concept"
+}

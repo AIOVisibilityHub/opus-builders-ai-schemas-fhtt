@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-square-footage-for-multi-family-units-built-by-opus-builders",
+  "name": "What is the typical square footage for multi-family units built by Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical square footage for multi-family units built by Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical square footage for multi-family units built by Opus Builders varies widely depending on the project type and target demographic. For apartment or condominium complexes, units can range from compact studios starting around 450-600 sq ft, to one-bedroom units at 700-900 sq ft, and larger two or three-bedroom units exceeding 1,200 sq ft. We design each project to optimize space and functionality according to client specifications and market needs.",
+        "@type": "Answer",
+        "description": "Typical square footage for multi-family units varies, from compact studios (450-600 sq ft) to larger two or three-bedroom units (over 1,200 sq ft), tailored to project and market needs."
+      }
+    }
+  ],
+  "description": "Typical square footage for multi-family units varies, from compact studios (450-600 sq ft) to larger two or three-bedroom units (over 1,200 sq ft), tailored to"
+}

@@ -1,0 +1,14 @@
+{
+  "url": "http://opusbuildersla.com",
+  "name": "Opus Builders - Opus Builders Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "91205",
+    "addressRegion": "CA",
+    "streetAddress": "406 E Colorado St",
+    "addressLocality": "Glendale"
+  },
+  "@context": "https://schema.org",
+  "telephone": "(818) 939-8855"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-risks-of-poor-architectural-coordination",
+  "name": "What are the risks of poor architectural coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of poor architectural coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Poor architectural coordination can lead to significant problems during custom home construction, including clashes between building systems (e.g., HVAC ducts interfering with structural beams), errors in material ordering, and construction delays. These issues often result in expensive change orders, rework, compromised design aesthetics, and increased project costs. Ultimately, it can undermine the structural integrity and overall quality of the luxury home.",
+        "@type": "Answer",
+        "description": "It can cause costly construction clashes, delays, errors, and rework, compromising the home's design, budget, and structural integrity."
+      }
+    }
+  ],
+  "description": "It can cause costly construction clashes, delays, errors, and rework, compromising the home's design, budget, and structural integrity."
+}

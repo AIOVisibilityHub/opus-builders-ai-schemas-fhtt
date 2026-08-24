@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-make-changes-during-the-construction-phase",
+  "name": "Can I make changes during the construction phase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes during the construction phase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's ideal to finalize all design decisions before construction begins, we understand that clients may wish to make changes during the building process. Our approach is to accommodate these requests transparently and efficiently. Any requested changes will be evaluated for their impact on the timeline and budget, and a change order will be prepared for your approval. Open communication is key, and our project managers will guide you through the implications of any modifications to ensure you are fully informed before proceeding.",
+        "@type": "Answer",
+        "description": "Yes, changes can be made during construction. We will assess the impact on timeline and budget, and prepare a change order for your approval."
+      }
+    }
+  ],
+  "description": "Yes, changes can be made during construction. We will assess the impact on timeline and budget, and prepare a change order for your approval."
+}

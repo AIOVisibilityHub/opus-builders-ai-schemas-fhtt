@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-construction-feasibility-assessment",
+  "name": "What is a construction feasibility assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a construction feasibility assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A construction feasibility assessment evaluates a property or project concept before significant investment. It examines factors like zoning regulations, site constraints, environmental impacts, utility availability, and preliminary budget considerations. This assessment helps identify potential challenges and opportunities, ensuring the project is viable and aligns with your objectives. It provides a foundational understanding to guide subsequent design and planning phases, mitigating risks and informing decision-making from the outset.",
+        "@type": "Answer",
+        "description": "A construction feasibility assessment evaluates a property and project concept to identify potential challenges, opportunities, and overall viability before major investment."
+      }
+    }
+  ],
+  "description": "A construction feasibility assessment evaluates a property and project concept to identify potential challenges, opportunities, and overall viability before maj"
+}

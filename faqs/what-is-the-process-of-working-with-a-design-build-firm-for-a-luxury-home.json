@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-of-working-with-a-design-build-firm-for-a-luxury-home",
+  "name": "What is the process of working with a design-build firm for a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of working with a design-build firm for a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Working with a design-build firm typically begins with an initial consultation to understand your vision, needs, and budget. This leads to a preconstruction phase, where the team performs site analysis, develops conceptual designs, refines the budget, and creates a project schedule. Once designs are approved and permits obtained, the construction phase commences. Throughout the entire process, there is continuous communication, with a single point of contact responsible for both design and construction, ensuring a cohesive and efficient project delivery until your luxury home is complete.",
+        "@type": "Answer",
+        "description": "The process involves initial consultation, preconstruction (design, budgeting), and then construction, with continuous communication and a single point of contact."
+      }
+    }
+  ],
+  "description": "The process involves initial consultation, preconstruction (design, budgeting), and then construction, with continuous communication and a single point of conta"
+}

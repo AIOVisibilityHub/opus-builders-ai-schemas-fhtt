@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-typical-costs-associated-with-design-build-services-for-a-custom-lu",
+  "name": "What are the typical costs associated with design-build services for a custom luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with design-build services for a custom luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of design-build services for a custom luxury home varies significantly based on factors such as the home's size, complexity of design, material selections, site conditions, and specific finishes. We work with clients to establish a comprehensive budget early in the process, providing transparency on design fees, construction costs, and contingencies. A detailed proposal will outline all anticipated expenses, ensuring there are no surprises. Our team focuses on delivering exceptional value while maintaining the highest standards of luxury and craftsmanship.",
+        "@type": "Answer",
+        "description": "Costs for luxury design-build services depend on home size, design complexity, materials, and site conditions. We provide detailed, transparent budgeting from the start."
+      }
+    }
+  ],
+  "description": "Costs for luxury design-build services depend on home size, design complexity, materials, and site conditions. We provide detailed, transparent budgeting from t"
+}

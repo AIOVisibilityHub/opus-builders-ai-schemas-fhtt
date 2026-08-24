@@ -1,0 +1,31 @@
+{
+  "name": "Gary Mkrtichyan",
+  "@type": "Person",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "http://opusbuildersla.com",
+    "name": "Opus Builders",
+    "@type": "Organization"
+  },
+  "telephone": "(818) 939-8855",
+  "areaServed": [
+    {
+      "name": "Los Angeles",
+      "@type": "City"
+    }
+  ],
+  "knowsAbout": [
+    "luxury custom home builder",
+    "residential development",
+    "commercial luxury custom homes",
+    "residential development",
+    "commercial projects",
+    "renovations",
+    "educational building projects",
+    "residential property renovations",
+    "commercial property renovations",
+    "educational facilities builder"
+  ],
+  "description": "Gary Mkrtichyan is a Los Angeles construction and real-estate entrepreneur and the owner/president of Opus Builders Inc. He launched Opus Builders with a focus on high-end, client-centered construction that combines design, planning, and building services under one roof. His public profile also connects him with Opus Crest, a real-estate investment and development company, and Opus Hospitality. His work has included luxury custom homes, residential development, commercial projects, renovations, educational facilities, and other complex construction projects in the Los Angeles area."
+}

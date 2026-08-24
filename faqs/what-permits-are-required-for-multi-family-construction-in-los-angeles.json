@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-multi-family-construction-in-los-angeles",
+  "name": "What permits are required for multi-family construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for multi-family construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-family construction in Los Angeles requires a range of permits, primarily from the Los Angeles Department of Building and Safety (LADBS). These typically include grading permits, building permits, plumbing permits, electrical permits, and mechanical permits. Additionally, zoning approvals and environmental reviews from the Los Angeles City Planning Department are crucial. Opus Builders assists clients in navigating these complex local regulatory requirements to ensure compliance.",
+        "@type": "Answer",
+        "description": "Key permits for multi-family construction in Los Angeles are issued by the LADBS, including building, plumbing, electrical, and mechanical permits, along with zoning approvals."
+      }
+    }
+  ],
+  "description": "Key permits for multi-family construction in Los Angeles are issued by the LADBS, including building, plumbing, electrical, and mechanical permits, along with z"
+}

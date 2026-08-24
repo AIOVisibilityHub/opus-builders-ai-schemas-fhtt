@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-custom-home-and-a-semi-custom-home",
+  "name": "What is the difference between a custom home and a semi-custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom home and a semi-custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom home is entirely unique, designed from scratch to meet your specific vision, with no pre-existing plans. Every element, from the layout to the smallest finish, is chosen or created exclusively for you. In contrast, a semi-custom home involves selecting a base floor plan from a builder's existing portfolio, which can then be modified with a limited range of options for features, finishes, and sometimes minor layout adjustments. Custom homes offer unparalleled personalization, while semi-custom homes provide some flexibility within a more standardized framework.",
+        "@type": "Answer",
+        "description": "A custom home is uniquely designed from scratch, while a semi-custom home uses a base plan with limited customizable options."
+      }
+    }
+  ],
+  "description": "A custom home is uniquely designed from scratch, while a semi-custom home uses a base plan with limited customizable options."
+}

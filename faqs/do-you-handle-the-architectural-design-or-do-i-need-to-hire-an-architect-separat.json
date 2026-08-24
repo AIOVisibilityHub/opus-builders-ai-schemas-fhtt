@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-you-handle-the-architectural-design-or-do-i-need-to-hire-an-architect-separat",
+  "name": "Do you handle the architectural design, or do I need to hire an architect separately?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle the architectural design, or do I need to hire an architect separately?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders offers a fully integrated design-build approach where we can manage both the architectural design and construction phases. This streamlined process ensures seamless communication between designers and builders, often leading to greater efficiency and cost control. However, if you already have an architect, we are equally adept at collaborating with external design professionals to bring your vision to life. Our priority is to ensure a cohesive and high-quality outcome, regardless of whether design services are in-house or externally provided.",
+        "@type": "Answer",
+        "description": "We offer integrated design-build services, handling architectural design and construction. We can also collaborate with your chosen architect."
+      }
+    }
+  ],
+  "description": "We offer integrated design-build services, handling architectural design and construction. We can also collaborate with your chosen architect."
+}

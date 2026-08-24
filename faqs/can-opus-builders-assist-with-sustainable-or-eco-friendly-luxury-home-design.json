@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-opus-builders-assist-with-sustainable-or-eco-friendly-luxury-home-design",
+  "name": "Can Opus Builders assist with sustainable or eco-friendly luxury home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Opus Builders assist with sustainable or eco-friendly luxury home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Opus Builders specializes in integrating sustainable and eco-friendly practices into luxury home design. We can incorporate features such as energy-efficient systems, renewable materials, smart home technology for optimized resource use, and drought-tolerant landscaping. Our design team stays current with the latest green building standards and can advise on options that enhance your home's environmental performance while maintaining luxury aesthetics. We aim to create homes that are both beautiful and responsible.",
+        "@type": "Answer",
+        "description": "Yes, Opus Builders designs eco-friendly luxury homes using energy-efficient systems, sustainable materials, and smart technology to reduce environmental impact."
+      }
+    }
+  ],
+  "description": "Yes, Opus Builders designs eco-friendly luxury homes using energy-efficient systems, sustainable materials, and smart technology to reduce environmental impact."
+}

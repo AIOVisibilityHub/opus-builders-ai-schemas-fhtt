@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-sustainability-options-are-available-for-luxury-home-construction",
+  "name": "What sustainability options are available for luxury home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What sustainability options are available for luxury home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury home construction offers numerous sustainability options to reduce environmental impact and enhance energy efficiency. These include installing solar panels, integrating high-performance insulation and energy-efficient windows, using reclaimed or locally sourced materials, and designing for passive solar heating and cooling. Water-saving fixtures, rainwater harvesting systems, and drought-tolerant landscaping are also popular choices. Opus Builders can incorporate advanced HVAC systems, smart home technology for energy management, and advise on certifications like LEED or GreenPoint Rated to create an eco-conscious and resource-efficient residence.",
+        "@type": "Answer",
+        "description": "Sustainability options for luxury homes include solar panels, high-performance insulation, reclaimed materials, passive design, and water-saving systems. Opus Builders can integrate advanced HVAC and smart home tech, and advise on green building certifications."
+      }
+    }
+  ],
+  "description": "Sustainability options for luxury homes include solar panels, high-performance insulation, reclaimed materials, passive design, and water-saving systems. Opus B"
+}

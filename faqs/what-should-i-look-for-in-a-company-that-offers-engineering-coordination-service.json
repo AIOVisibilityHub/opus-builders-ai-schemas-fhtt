@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-should-i-look-for-in-a-company-that-offers-engineering-coordination-service",
+  "name": "What should I look for in a company that offers engineering coordination services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a company that offers engineering coordination services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for engineering coordination, look for a proven track record in luxury home construction, demonstrated experience with complex projects, and strong communication skills. They should have a deep understanding of various engineering disciplines, familiarity with local building codes, and a collaborative approach to working with architects, engineers, and contractors. References and examples of successfully completed integrated projects are also key indicators of expertise.",
+        "@type": "Answer",
+        "description": "Look for a company with a proven track record in luxury home coordination, experience with complex projects, strong communication, and familiarity with local building codes."
+      }
+    }
+  ],
+  "description": "Look for a company with a proven track record in luxury home coordination, experience with complex projects, strong communication, and familiarity with local bu"
+}

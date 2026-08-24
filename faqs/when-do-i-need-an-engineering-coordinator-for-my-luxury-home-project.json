@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-do-i-need-an-engineering-coordinator-for-my-luxury-home-project",
+  "name": "When do I need an engineering coordinator for my luxury home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need an engineering coordinator for my luxury home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need an engineering coordinator early in the design phase, particularly for luxury homes with complex architectural features, extensive landscaping, or advanced smart home systems. Engaging a coordinator at the outset helps identify potential conflicts, optimize designs for efficiency, and streamline the permitting process. This proactive approach prevents costly delays and rework during construction.",
+        "@type": "Answer",
+        "description": "Engage an engineering coordinator early in the design phase for complex luxury home projects to identify conflicts and streamline the process."
+      }
+    }
+  ],
+  "description": "Engage an engineering coordinator early in the design phase for complex luxury home projects to identify conflicts and streamline the process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-involved-will-i-be-in-the-luxury-home-design-and-construction-process",
+  "name": "How involved will I be in the luxury home design and construction process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How involved will I be in the luxury home design and construction process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Client involvement is paramount in luxury home design and construction. You will be actively engaged in key decision-making stages, from initial concept discussions and material selections to final walkthroughs. Our team provides regular updates and schedules meetings to ensure your preferences are incorporated and you are fully informed. While we manage the day-to-day complexities, your input guides the aesthetic and functional outcomes, ensuring the final home truly reflects your unique vision and lifestyle.",
+        "@type": "Answer",
+        "description": "Clients are actively involved in key decisions like concepts, materials, and walkthroughs, with regular updates provided throughout the project."
+      }
+    }
+  ],
+  "description": "Clients are actively involved in key decisions like concepts, materials, and walkthroughs, with regular updates provided throughout the project."
+}

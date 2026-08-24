@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-cost-advantages-of-design-build-compared-to-traditional-methods",
+  "name": "What are the cost advantages of design-build compared to traditional methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the cost advantages of design-build compared to traditional methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design-build model can offer cost advantages by fostering early collaboration between designers and builders. This integrated approach allows for concurrent cost estimating and value engineering during the design phase, which can identify potential savings and optimize material selections before plans are finalized. With a single team responsible for both design and construction, there's less risk of unforeseen changes or disputes that often drive up costs in traditional models where designers and contractors work separately. This can lead to more accurate budgeting and fewer cost overruns.",
+        "@type": "Answer",
+        "description": "Design-build can offer cost advantages through early collaboration and value engineering, leading to more accurate budgeting and fewer overruns."
+      }
+    }
+  ],
+  "description": "Design-build can offer cost advantages through early collaboration and value engineering, leading to more accurate budgeting and fewer overruns."
+}

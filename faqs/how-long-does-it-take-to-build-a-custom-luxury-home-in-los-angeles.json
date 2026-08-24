@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-take-to-build-a-custom-luxury-home-in-los-angeles",
+  "name": "How long does it take to build a custom luxury home in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a custom luxury home in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a custom luxury home in Los Angeles can vary significantly based on factors such as the home's size, complexity of design, site conditions, and the efficiency of the permitting process. Generally, clients can expect the design phase to take 6-12 months, followed by 18-36 months for construction. Unforeseen site challenges, extensive custom features, or changes during construction can extend this timeline. We work closely with clients to establish realistic schedules and provide regular updates on progress.",
+        "@type": "Answer",
+        "description": "Building a custom luxury home in Los Angeles typically takes 6-12 months for design and 18-36 months for construction, depending on complexity and permitting."
+      }
+    }
+  ],
+  "description": "Building a custom luxury home in Los Angeles typically takes 6-12 months for design and 18-36 months for construction, depending on complexity and permitting."
+}

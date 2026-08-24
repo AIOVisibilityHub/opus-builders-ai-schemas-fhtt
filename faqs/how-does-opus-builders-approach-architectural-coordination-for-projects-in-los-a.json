@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-opus-builders-approach-architectural-coordination-for-projects-in-los-a",
+  "name": "How does Opus Builders approach architectural coordination for projects in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Opus Builders approach architectural coordination for projects in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, where building codes and design standards are particularly stringent, Opus Builders employs a dedicated project management team to oversee architectural coordination. We utilize advanced BIM (Building Information Modeling) software to detect clashes early in the design process and conduct regular coordination meetings with all design and engineering consultants. Our approach ensures compliance with local regulations while achieving the highest standards for luxury home construction.",
+        "@type": "Answer",
+        "description": "Opus Builders uses dedicated project management and BIM software to coordinate designs, ensure compliance with Los Angeles building codes, and maintain high standards for luxury homes."
+      }
+    }
+  ],
+  "description": "Opus Builders uses dedicated project management and BIM software to coordinate designs, ensure compliance with Los Angeles building codes, and maintain high sta"
+}

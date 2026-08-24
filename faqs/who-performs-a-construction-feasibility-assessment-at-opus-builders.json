@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/who-performs-a-construction-feasibility-assessment-at-opus-builders",
+  "name": "Who performs a construction feasibility assessment at Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who performs a construction feasibility assessment at Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At Opus Builders, our construction feasibility assessments are performed by a team of experienced professionals, including architects, civil engineers, and construction experts. This multidisciplinary approach ensures a comprehensive evaluation of your project from all critical angles. We leverage our deep understanding of luxury home construction and local regulations in areas such as Beverly Hills and Santa Monica to provide accurate, reliable insights. Our team is dedicated to guiding you through every step, ensuring a robust foundation for your luxury home.",
+        "@type": "Answer",
+        "description": "Our assessments are performed by a multidisciplinary team of architects, civil engineers, and construction experts, leveraging local expertise for comprehensive evaluation."
+      }
+    }
+  ],
+  "description": "Our assessments are performed by a multidisciplinary team of architects, civil engineers, and construction experts, leveraging local expertise for comprehensive"
+}

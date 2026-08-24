@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-a-feasibility-assessment-if-i-already-own-the-land",
+  "name": "Do I need a feasibility assessment if I already own the land?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a feasibility assessment if I already own the land?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even if you already own the land, a feasibility assessment is still crucial. Ownership does not negate potential site-specific challenges or regulatory hurdles. The assessment will confirm that your intended luxury home design aligns with local zoning, environmental regulations, and site capabilities, which can change over time. It provides a current understanding of your property's buildable potential, ensuring your project proceeds without unexpected complications or delays. This step is vital before committing to design and construction costs.",
+        "@type": "Answer",
+        "description": "Yes, even for owned land, a feasibility assessment confirms your design aligns with current zoning, regulations, and site capabilities, preventing unexpected issues."
+      }
+    }
+  ],
+  "description": "Yes, even for owned land, a feasibility assessment confirms your design aligns with current zoning, regulations, and site capabilities, preventing unexpected is"
+}

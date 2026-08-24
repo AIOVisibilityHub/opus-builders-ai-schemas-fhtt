@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-custom-home-and-a-production-home",
+  "name": "What is the difference between a custom home and a production home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom home and a production home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom home is uniquely designed and built for a specific client on a chosen lot, offering complete control over the layout, materials, and features. It's a bespoke creation reflecting individual preferences and lifestyle. In contrast, a production home, also known as a spec home, is built by a developer with pre-selected floor plans and limited customization options, often in subdivisions. Production homes typically aim for efficiency and standardized construction, while custom homes prioritize unique design and personalized luxury.",
+        "@type": "Answer",
+        "description": "Custom homes are uniquely designed for a client, offering full customization, while production homes use pre-set plans with limited choices."
+      }
+    }
+  ],
+  "description": "Custom homes are uniquely designed for a client, offering full customization, while production homes use pre-set plans with limited choices."
+}
