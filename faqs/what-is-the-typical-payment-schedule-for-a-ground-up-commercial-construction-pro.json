@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-payment-schedule-for-a-ground-up-commercial-construction-pro",
+  "name": "What is the typical payment schedule for a ground-up commercial construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment schedule for a ground-up commercial construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Payment schedules for ground-up commercial construction are usually structured in phases, tied to project milestones. An initial deposit is common, followed by periodic payments made as specific stages of construction are completed, such as foundation pouring, framing erection, or interior rough-ins. The final payment is typically due upon project completion and client handover. Opus Builders outlines a clear payment schedule in the contract to provide transparency and financial predictability for our clients.",
+        "@type": "Answer",
+        "description": "Payment schedules are phased, with an initial deposit and subsequent payments tied to project milestones, concluding with a final payment upon completion."
+      }
+    }
+  ],
+  "description": "Payment schedules are phased, with an initial deposit and subsequent payments tied to project milestones, concluding with a final payment upon completion."
+}

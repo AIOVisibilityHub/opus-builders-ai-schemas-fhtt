@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-opus-builders-handle-both-the-design-and-construction-aspects-of-a-restauran",
+  "name": "Can Opus Builders handle both the design and construction aspects of a restaurant project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Opus Builders handle both the design and construction aspects of a restaurant project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Opus Builders specializes in a design-build approach that can encompass both the design and construction phases for restaurant projects. Our integrated team works closely with clients from initial concept development, architectural planning, and interior design through to the final build-out. This collaborative method ensures seamless communication, efficient project management, and a unified vision, often leading to faster project completion and optimized costs by minimizing potential disconnects between designers and builders.",
+        "@type": "Answer",
+        "description": "Yes, Opus Builders offers an integrated design-build approach for restaurant projects, managing both design and construction phases seamlessly."
+      }
+    }
+  ],
+  "description": "Yes, Opus Builders offers an integrated design-build approach for restaurant projects, managing both design and construction phases seamlessly."
+}

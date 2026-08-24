@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-selecting-a-project-manager-for-a-multi-family-developme",
+  "name": "What is the process for selecting a project manager for a multi-family development?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for selecting a project manager for a multi-family development?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting a project manager for a multi-family development involves evaluating their experience, expertise, and track record with similar projects. Begin by reviewing their portfolio, focusing on completed multi-family residential developments, especially those comparable in size and scope to your project. Assess their communication style, problem-solving skills, and knowledge of local regulations and construction practices. Request references and conduct interviews to ensure alignment with your project goals and company culture. A clear understanding of their proposed project management methodology is also vital.",
+        "@type": "Answer",
+        "description": "Select a multi-family project manager by evaluating their experience with similar projects, reviewing their portfolio, and assessing communication and problem-solving skills. Request references and ensure their methodology aligns with your goals."
+      }
+    }
+  ],
+  "description": "Select a multi-family project manager by evaluating their experience with similar projects, reviewing their portfolio, and assessing communication and problem-s"
+}

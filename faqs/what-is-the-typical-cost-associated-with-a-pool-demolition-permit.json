@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-associated-with-a-pool-demolition-permit",
+  "name": "What is the typical cost associated with a pool demolition permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost associated with a pool demolition permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a pool demolition permit is determined by the specific city or county and is usually based on the scope of the project or a fixed fee. Permit fees can range from a few hundred to over a thousand dollars. This fee typically covers the administrative costs of processing the application and conducting necessary inspections. It's important to remember that the permit fee is separate from the overall demolition cost, which includes labor, equipment, material disposal, and backfill. Always inquire about all associated fees directly from the permitting office or your contractor.",
+        "@type": "Answer",
+        "description": "Permit costs vary by city, typically ranging from hundreds to over a thousand dollars, covering administrative processing and inspections. This is separate from overall demolition costs."
+      }
+    }
+  ],
+  "description": "Permit costs vary by city, typically ranging from hundreds to over a thousand dollars, covering administrative processing and inspections. This is separate from"
+}

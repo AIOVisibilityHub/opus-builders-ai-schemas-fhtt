@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-average-cost-per-square-foot-for-an-office-renovation-in-los-angeles",
+  "name": "What is the average cost per square foot for an office renovation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for an office renovation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Office renovation costs in Los Angeles can range widely, typically from $50 to $200+ per square foot, depending on the level of finishes, complexity of structural changes, and type of systems being updated. Basic cosmetic improvements like paint and new flooring will be on the lower end, while extensive reconfigurations, custom millwork, advanced technology integration, or significant changes to plumbing and electrical systems will push costs higher. An accurate estimate requires a detailed assessment of your specific project requirements.",
+        "@type": "Answer",
+        "description": "Costs per square foot in Los Angeles typically range from $50 to $200+, influenced by finish quality, structural changes, and system upgrades."
+      }
+    }
+  ],
+  "description": "Costs per square foot in Los Angeles typically range from $50 to $200+, influenced by finish quality, structural changes, and system upgrades."
+}

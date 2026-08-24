@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-opus-builders-ensure-quality-and-safety-during-a-restaurant-build-out",
+  "name": "How does Opus Builders ensure quality and safety during a restaurant build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Opus Builders ensure quality and safety during a restaurant build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders ensures quality and safety through a multi-faceted approach. We employ experienced project managers and superintendents who meticulously oversee every stage of construction. Our process includes rigorous quality control checks at each phase, from material selection to installation. We prioritize adherence to all local building codes, safety regulations, and health department standards. Regular site safety meetings, comprehensive insurance, and a commitment to using skilled tradespeople are integral to maintaining a safe working environment and delivering a high-quality finished product that meets our clients' expectations.",
+        "@type": "Answer",
+        "description": "Opus Builders ensures quality and safety via experienced oversight, rigorous checks, strict adherence to codes and safety regulations, and skilled tradespeople."
+      }
+    }
+  ],
+  "description": "Opus Builders ensures quality and safety via experienced oversight, rigorous checks, strict adherence to codes and safety regulations, and skilled tradespeople."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-is-a-permit-required-for-pool-demolition",
+  "name": "When is a permit required for pool demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a permit required for pool demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A permit is generally required for most pool demolition projects to ensure safety, proper disposal of materials, and compliance with local building codes. This includes both partial and full demolitions. Local jurisdictions, such as those in Los Angeles, Glendale, and Pasadena, have specific requirements for documentation and inspections throughout the demolition process. Obtaining a permit ensures that the project adheres to environmental regulations and prevents potential issues with future property development or sales. Always check with your local planning department or a qualified contractor before starting any demolition work.",
+        "@type": "Answer",
+        "description": "A permit is typically required for both partial and full pool demolitions to ensure safety, proper disposal, and compliance with local building codes. Always consult with your local planning department."
+      }
+    }
+  ],
+  "description": "A permit is typically required for both partial and full pool demolitions to ensure safety, proper disposal, and compliance with local building codes. Always co"
+}

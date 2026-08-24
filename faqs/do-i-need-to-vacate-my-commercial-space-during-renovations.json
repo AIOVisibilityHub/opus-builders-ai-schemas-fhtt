@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-to-vacate-my-commercial-space-during-renovations",
+  "name": "Do I need to vacate my commercial space during renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to vacate my commercial space during renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to vacate your commercial space depends on the scope and nature of the renovation. Minor cosmetic updates might allow your business to operate with minimal disruption, potentially by working in phases or during off-hours. However, extensive structural changes, major utility work, or projects involving significant dust and noise may necessitate temporary relocation for safety and efficiency. Your builder can advise on the best approach.",
+        "@type": "Answer",
+        "description": "Vacating depends on renovation scope. Minor work may allow continued operation, while major structural or utility changes often require temporary relocation."
+      }
+    }
+  ],
+  "description": "Vacating depends on renovation scope. Minor work may allow continued operation, while major structural or utility changes often require temporary relocation."
+}

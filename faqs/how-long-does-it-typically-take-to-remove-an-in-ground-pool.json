@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-typically-take-to-remove-an-in-ground-pool",
+  "name": "How long does it typically take to remove an in-ground pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to remove an in-ground pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for in-ground pool removal can vary based on the pool's size, construction materials, site accessibility, and local permit requirements. Generally, a straightforward removal can be completed within 3 to 7 business days once permits are secured. However, complex projects, such as those involving extensive demolition or difficult access, might take longer. Securing permits can add several weeks to the overall project duration, so it's important to factor this into your planning.",
+        "@type": "Answer",
+        "description": "Pool removal typically takes 3 to 7 business days, depending on pool size, materials, and site accessibility. Permit acquisition can add several weeks to the overall timeline."
+      }
+    }
+  ],
+  "description": "Pool removal typically takes 3 to 7 business days, depending on pool size, materials, and site accessibility. Permit acquisition can add several weeks to the ov"
+}

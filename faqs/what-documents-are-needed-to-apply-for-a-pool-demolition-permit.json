@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-documents-are-needed-to-apply-for-a-pool-demolition-permit",
+  "name": "What documents are needed to apply for a pool demolition permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents are needed to apply for a pool demolition permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The specific documents required for a pool demolition permit can vary by city, but commonly include a site plan illustrating the pool's location, the proposed demolition area, and how the site will be backfilled. You may also need structural plans, a contractor's license information, proof of insurance, and an asbestos survey if the pool structure or surrounding decking was built before a certain year. Some municipalities might also ask for a demolition plan detailing equipment use and waste disposal methods. Opus Builders can assist in preparing and submitting these necessary documents.",
+        "@type": "Answer",
+        "description": "Required documents often include a site plan, structural plans, contractor's license and insurance, and an asbestos survey. Specifics vary by local jurisdiction."
+      }
+    }
+  ],
+  "description": "Required documents often include a site plan, structural plans, contractor's license and insurance, and an asbestos survey. Specifics vary by local jurisdiction"
+}

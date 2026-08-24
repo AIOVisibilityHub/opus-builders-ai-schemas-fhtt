@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-hire-a-commercial-general-contractor-for-my-project",
+  "name": "When should I hire a commercial general contractor for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a commercial general contractor for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a commercial general contractor early in the project lifecycle, ideally during the design or planning phase. Their expertise can help with constructability reviews, value engineering, and preliminary budgeting, ensuring that design concepts are practical and cost-effective. Engaging a contractor early helps streamline the pre-construction process, identify potential challenges, and establish a realistic timeline and budget before groundbreaking begins.",
+        "@type": "Answer",
+        "description": "Hire a commercial general contractor early in the design or planning phase to benefit from their expertise in constructability, budgeting, and project management."
+      }
+    }
+  ],
+  "description": "Hire a commercial general contractor early in the design or planning phase to benefit from their expertise in constructability, budgeting, and project managemen"
+}

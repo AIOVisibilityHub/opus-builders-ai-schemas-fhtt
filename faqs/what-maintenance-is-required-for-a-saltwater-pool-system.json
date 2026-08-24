@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-maintenance-is-required-for-a-saltwater-pool-system",
+  "name": "What maintenance is required for a saltwater pool system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a saltwater pool system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While saltwater pools require less daily chemical handling, they still need regular maintenance. This includes periodically testing water chemistry (pH, alkalinity, calcium hardness, and stabilizer levels), cleaning the salt cell as needed (typically a few times a year), and ensuring the salt level is within the manufacturer's recommended range. Standard pool maintenance like skimming, vacuuming, and filter cleaning also applies. Proper maintenance ensures the longevity of your equipment and water quality.",
+        "@type": "Answer",
+        "description": "Saltwater pool maintenance involves regular water chemistry testing, cleaning the salt cell, maintaining appropriate salt levels, and standard pool cleaning."
+      }
+    }
+  ],
+  "description": "Saltwater pool maintenance involves regular water chemistry testing, cleaning the salt cell, maintaining appropriate salt levels, and standard pool cleaning."
+}

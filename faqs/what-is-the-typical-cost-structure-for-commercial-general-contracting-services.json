@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-structure-for-commercial-general-contracting-services",
+  "name": "What is the typical cost structure for commercial general contracting services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost structure for commercial general contracting services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost structure for commercial general contracting services typically involves either a fixed-price contract, a cost-plus contract, or a guaranteed maximum price (GMP). A fixed-price contract offers a single lump sum, while cost-plus charges for actual expenses plus a negotiated fee. GMP sets an upper limit for costs, offering a balance of transparency and risk mitigation. The best approach depends on project scope, complexity, and desired cost control. Opus Builders provides transparent estimates based on detailed project specifications.",
+        "@type": "Answer",
+        "description": "Cost structures include fixed-price, cost-plus, or guaranteed maximum price (GMP), varying based on project scope and desired cost control."
+      }
+    }
+  ],
+  "description": "Cost structures include fixed-price, cost-plus, or guaranteed maximum price (GMP), varying based on project scope and desired cost control."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-take-to-fill-in-a-swimming-pool",
+  "name": "How long does it take to fill in a swimming pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to fill in a swimming pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for filling in a swimming pool typically ranges from a few days to a week, though larger or more complex projects can take longer. Key factors influencing the timeline include the pool's size, the chosen demolition method (e.g., partial vs. full removal), accessibility for heavy equipment, and the efficiency of material delivery and compaction. Weather conditions can also impact the schedule, especially during excavation and backfilling phases. Permit approval time should also be considered.",
+        "@type": "Answer",
+        "description": "Pool fill-in usually takes a few days to a week, depending on pool size, demolition method, site accessibility, and weather conditions. Permit approval adds to the overall timeline."
+      }
+    }
+  ],
+  "description": "Pool fill-in usually takes a few days to a week, depending on pool size, demolition method, site accessibility, and weather conditions. Permit approval adds to"
+}

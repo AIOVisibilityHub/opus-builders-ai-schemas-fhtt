@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-a-contractor-for-pool-fill-in-services",
+  "name": "How do I choose a contractor for pool fill-in services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for pool fill-in services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for pool fill-in services, look for companies with specific experience in pool demolition and excavation. Verify their licensing, insurance, and local permits history. Request detailed estimates that clearly outline the scope of work, including demolition method, debris removal, fill material, compaction process, and permit acquisition. Ask for references and check reviews from previous clients to assess their reliability and quality of work. A reputable contractor will also be transparent about the process, timeline, and any potential challenges.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specific pool demolition experience, verified licenses, and insurance. Request detailed estimates, check references, and ensure transparency regarding the process and timeline."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specific pool demolition experience, verified licenses, and insurance. Request detailed estimates, check references, and ensure transpa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-tenant-improvements-and-capital-improvements",
+  "name": "What is the difference between tenant improvements and capital improvements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between tenant improvements and capital improvements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tenant improvements (TIs) are modifications made to a commercial space to customize it for a specific tenant's needs, often funded by the landlord with a contribution from the tenant. These can include interior finishes, partitions, and specialized build-outs. Capital improvements, on the other hand, are enhancements to the overall structure or systems of the building that add long-term value, extend its useful life, or adapt it to new uses. Examples include roof replacements, HVAC system upgrades, or facade renovations. Opus Builders works on both types, ensuring quality and value.",
+        "@type": "Answer",
+        "description": "Tenant improvements customize a space for a specific tenant, while capital improvements enhance the overall building's long-term value and systems."
+      }
+    }
+  ],
+  "description": "Tenant improvements customize a space for a specific tenant, while capital improvements enhance the overall building's long-term value and systems."
+}

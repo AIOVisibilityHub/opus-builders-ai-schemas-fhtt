@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-s-the-difference-between-a-retail-build-out-and-a-tenant-improvement",
+  "name": "What's the difference between a retail build-out and a tenant improvement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a retail build-out and a tenant improvement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The terms 'retail build-out' and 'tenant improvement' are often used interchangeably, but there's a subtle distinction. A build-out typically refers to constructing a new space from a raw shell, or making significant structural changes to an existing one to suit a new retail tenant. Tenant improvements (TIs) generally encompass less extensive modifications made to an existing space to meet a tenant's needs, often funded partly by the landlord. Both aim to customize a commercial space for a business.",
+        "@type": "Answer",
+        "description": "A retail build-out usually means constructing a new space from a raw shell, while tenant improvements involve less extensive modifications to an existing space."
+      }
+    }
+  ],
+  "description": "A retail build-out usually means constructing a new space from a raw shell, while tenant improvements involve less extensive modifications to an existing space."
+}

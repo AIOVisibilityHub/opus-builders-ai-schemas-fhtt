@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-challenges-are-unique-to-restaurant-construction-projects",
+  "name": "What challenges are unique to restaurant construction projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What challenges are unique to restaurant construction projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restaurant construction projects face unique challenges, primarily due to complex requirements for specialized kitchen equipment, ventilation systems (HVAC), grease traps, and strict health department regulations. Coordinating these intricate systems, often within tight spaces, demands specialized expertise. Additionally, navigating local permitting processes, especially in dense urban areas like Los Angeles, and adhering to specific ADA compliance standards for public spaces, can add layers of complexity compared to other commercial builds.",
+        "@type": "Answer",
+        "description": "Unique challenges include complex kitchen systems, strict health codes, specific permitting in areas like Los Angeles, and ADA compliance."
+      }
+    }
+  ],
+  "description": "Unique challenges include complex kitchen systems, strict health codes, specific permitting in areas like Los Angeles, and ADA compliance."
+}

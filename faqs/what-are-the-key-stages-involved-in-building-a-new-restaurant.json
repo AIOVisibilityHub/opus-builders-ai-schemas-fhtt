@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-key-stages-involved-in-building-a-new-restaurant",
+  "name": "What are the key stages involved in building a new restaurant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key stages involved in building a new restaurant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a new restaurant typically involves several stages. Initially, there's planning and design, including architectural drawings, kitchen layout, and interior design. This is followed by permitting, which can be a lengthy process in areas like Los Angeles. Construction phases then begin with site preparation, foundation work, framing, and rough-ins for plumbing, electrical, and HVAC. Finally, interior finishes, kitchen equipment installation, and final inspections complete the project before opening.",
+        "@type": "Answer",
+        "description": "Key stages include planning, design, permitting, site preparation, construction of the structure, installation of systems and equipment, and final finishes."
+      }
+    }
+  ],
+  "description": "Key stages include planning, design, permitting, site preparation, construction of the structure, installation of systems and equipment, and final finishes."
+}

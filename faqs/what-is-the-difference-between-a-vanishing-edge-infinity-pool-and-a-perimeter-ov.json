@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-vanishing-edge-infinity-pool-and-a-perimeter-ov",
+  "name": "What is the difference between a vanishing edge (infinity) pool and a perimeter overflow pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a vanishing edge (infinity) pool and a perimeter overflow pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A vanishing edge, or infinity pool, creates the illusion that one or more edges of the pool merge with the horizon or a larger body of water, achieved by the water flowing over the edge into a catch basin below. A perimeter overflow pool, however, has water flowing over all four sides (or more) into a hidden gutter system, creating a mirror-like surface effect. Vanishing edge pools emphasize a dramatic view, while perimeter overflow pools offer a sleek, architectural statement with a perpetually smooth water surface. Both are complex to design and construct, requiring specialized engineering.",
+        "@type": "Answer",
+        "description": "A vanishing edge pool has water flowing over one or more sides into a lower basin, creating an 'infinity' illusion. A perimeter overflow pool has water flowing over all edges into a hidden gutter, creating a mirror-like surface."
+      }
+    }
+  ],
+  "description": "A vanishing edge pool has water flowing over one or more sides into a lower basin, creating an 'infinity' illusion. A perimeter overflow pool has water flowing"
+}

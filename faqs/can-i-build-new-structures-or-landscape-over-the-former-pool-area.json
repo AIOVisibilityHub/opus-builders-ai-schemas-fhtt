@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-build-new-structures-or-landscape-over-the-former-pool-area",
+  "name": "Can I build new structures or landscape over the former pool area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build new structures or landscape over the former pool area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, once an in-ground pool is properly removed and the area is correctly backfilled and compacted, you can typically build new structures or landscape over it. For landscaping or light structures like patios or sheds, a standard backfill and compaction method is usually sufficient. However, if you plan to construct a permanent, heavy structure like an addition to your home, a full pool removal with engineered backfill and compaction is highly recommended to prevent future settling issues. Always consult with a structural engineer for significant construction plans.",
+        "@type": "Answer",
+        "description": "After proper removal, backfill, and compaction, you can landscape or build light structures. For heavy structures, full removal with engineered backfill is recommended to prevent settling. Consult a structural engineer for significant plans."
+      }
+    }
+  ],
+  "description": "After proper removal, backfill, and compaction, you can landscape or build light structures. For heavy structures, full removal with engineered backfill is reco"
+}

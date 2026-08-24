@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-engage-a-restaurant-construction-company-in-my-project-planning",
+  "name": "When should I engage a restaurant construction company in my project planning?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a restaurant construction company in my project planning?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's advisable to engage a restaurant construction company early in your project planning, ideally during the architectural design phase. This allows the contractor to provide valuable input on constructability, cost-saving alternatives, and potential challenges. Early involvement helps ensure that designs are practical and within budget, streamlines the permitting process, and can prevent costly revisions later. A pre-construction phase partnership can lead to a more efficient and successful project.",
+        "@type": "Answer",
+        "description": "Engage a construction company early, during the architectural design phase, for input on constructability, costs, and to streamline the process."
+      }
+    }
+  ],
+  "description": "Engage a construction company early, during the architectural design phase, for input on constructability, costs, and to streamline the process."
+}

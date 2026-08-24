@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-operate-my-business-during-an-office-build-out",
+  "name": "Can I operate my business during an office build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I operate my business during an office build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Operating your business during an office build-out is sometimes possible, especially for phased projects or minor renovations. However, it can present challenges with noise, dust, safety, and disruption to employees and clients. Careful planning and communication with the contractor are essential to minimize impact. For extensive build-outs, temporary relocation or working remotely might be more practical to ensure business continuity and employee comfort. Opus Builders works to develop strategies that best suit your operational needs.",
+        "@type": "Answer",
+        "description": "Operating during a build-out is possible for phased projects but can cause disruption. Extensive build-outs might require temporary relocation for business continuity."
+      }
+    }
+  ],
+  "description": "Operating during a build-out is possible for phased projects but can cause disruption. Extensive build-outs might require temporary relocation for business cont"
+}

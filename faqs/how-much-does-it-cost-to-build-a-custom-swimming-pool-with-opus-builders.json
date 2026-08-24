@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-build-a-custom-swimming-pool-with-opus-builders",
+  "name": "How much does it cost to build a custom swimming pool with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a custom swimming pool with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom swimming pool with Opus Builders is highly variable, depending on design complexity, size, materials, features (e.g., spas, water features, lighting), and site conditions. A basic pool might start in the low six figures, while a complex, luxury design with extensive landscaping and integrated smart home features can be significantly more. We provide detailed proposals after an initial consultation and site assessment, ensuring transparency and alignment with your budget.",
+        "@type": "Answer",
+        "description": "Custom pool costs vary significantly based on design, size, materials, and features, typically starting in the low six figures."
+      }
+    }
+  ],
+  "description": "Custom pool costs vary significantly based on design, size, materials, and features, typically starting in the low six figures."
+}

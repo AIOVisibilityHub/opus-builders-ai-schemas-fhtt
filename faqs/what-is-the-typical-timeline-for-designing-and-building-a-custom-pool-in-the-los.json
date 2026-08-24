@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-designing-and-building-a-custom-pool-in-the-los",
+  "name": "What is the typical timeline for designing and building a custom pool in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for designing and building a custom pool in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing and building a custom pool varies based on complexity, size, and material choices. Generally, the design phase can take 4-8 weeks, including consultations, revisions, and permitting. Construction typically spans 3-6 months. Factors such as weather, material availability, and inspection schedules can influence the overall duration. We work closely with clients to establish realistic timelines and keep them informed throughout each stage of the project.",
+        "@type": "Answer",
+        "description": "A custom pool project typically takes 4-8 weeks for design and permitting, followed by 3-6 months for construction."
+      }
+    }
+  ],
+  "description": "A custom pool project typically takes 4-8 weeks for design and permitting, followed by 3-6 months for construction."
+}

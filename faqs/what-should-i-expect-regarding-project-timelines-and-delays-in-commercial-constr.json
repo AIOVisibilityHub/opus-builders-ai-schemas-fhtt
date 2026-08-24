@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-should-i-expect-regarding-project-timelines-and-delays-in-commercial-constr",
+  "name": "What should I expect regarding project timelines and delays in commercial construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect regarding project timelines and delays in commercial construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Project timelines in commercial construction are established during the planning phase, factoring in design, permitting, material procurement, and actual construction. While a general contractor strives for on-time completion, delays can occur due to unforeseen site conditions, weather, material shortages, or changes requested by the client. An experienced general contractor manages these risks proactively, communicates transparently about any potential impacts, and implements strategies to mitigate delays and keep the project on track.",
+        "@type": "Answer",
+        "description": "Timelines are set in planning, but delays can occur from site conditions, weather, or material issues. A good contractor manages these risks and communicates openly."
+      }
+    }
+  ],
+  "description": "Timelines are set in planning, but delays can occur from site conditions, weather, or material issues. A good contractor manages these risks and communicates op"
+}

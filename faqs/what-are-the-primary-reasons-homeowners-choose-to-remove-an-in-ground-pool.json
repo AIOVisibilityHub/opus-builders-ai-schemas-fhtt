@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-primary-reasons-homeowners-choose-to-remove-an-in-ground-pool",
+  "name": "What are the primary reasons homeowners choose to remove an in-ground pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary reasons homeowners choose to remove an in-ground pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners typically remove in-ground pools for several reasons. High maintenance costs, including chemicals, cleaning, and repairs, often become burdensome. Safety concerns, especially for families with young children or pets, can also drive the decision. Some owners find they simply don't use the pool enough to justify its presence, while others seek to reclaim yard space for landscaping, gardens, or new construction. Increased property value, or improving saleability, can also be a factor as not all potential buyers desire a pool.",
+        "@type": "Answer",
+        "description": "Common reasons include high maintenance costs, safety concerns, infrequent use, desire for more yard space, and improving property value for sale."
+      }
+    }
+  ],
+  "description": "Common reasons include high maintenance costs, safety concerns, infrequent use, desire for more yard space, and improving property value for sale."
+}

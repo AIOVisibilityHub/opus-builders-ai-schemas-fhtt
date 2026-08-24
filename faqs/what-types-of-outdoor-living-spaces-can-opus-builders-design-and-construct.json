@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-types-of-outdoor-living-spaces-can-opus-builders-design-and-construct",
+  "name": "What types of outdoor living spaces can Opus Builders design and construct?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of outdoor living spaces can Opus Builders design and construct?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders specializes in creating comprehensive luxury outdoor living spaces beyond just pools. Our capabilities include designing and constructing custom patios, outdoor kitchens and dining areas, fire pits and fireplaces, pergolas, gazebos, and complete landscape architecture. We can also integrate advanced lighting, sound systems, and smart home technology to enhance the functionality and ambiance of your outdoor environment. Our goal is to extend your home's living areas into the natural surroundings.",
+        "@type": "Answer",
+        "description": "Opus Builders designs and constructs custom patios, outdoor kitchens, fire features, pergolas, and full landscape architecture, integrating advanced technology."
+      }
+    }
+  ],
+  "description": "Opus Builders designs and constructs custom patios, outdoor kitchens, fire features, pergolas, and full landscape architecture, integrating advanced technology."
+}

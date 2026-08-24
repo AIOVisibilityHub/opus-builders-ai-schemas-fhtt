@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-the-construction-process-for-a-saltwater-pool-usually-take",
+  "name": "How long does the construction process for a saltwater pool usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the construction process for a saltwater pool usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of saltwater pool construction can vary depending on the pool's complexity, weather conditions, inspection schedules, and material availability. On average, a standard residential saltwater pool project, from excavation to completion, can take anywhere from 8 to 16 weeks. Custom designs with extensive features, landscaping, or permitting delays may extend the timeline. We provide a detailed project schedule outlining each phase during the initial planning stages.",
+        "@type": "Answer",
+        "description": "A standard saltwater pool construction typically takes 8 to 16 weeks, though complex designs or unexpected delays can extend the timeline."
+      }
+    }
+  ],
+  "description": "A standard saltwater pool construction typically takes 8 to 16 weeks, though complex designs or unexpected delays can extend the timeline."
+}

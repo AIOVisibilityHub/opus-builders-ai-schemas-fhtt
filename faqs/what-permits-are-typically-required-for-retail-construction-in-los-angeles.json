@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-typically-required-for-retail-construction-in-los-angeles",
+  "name": "What permits are typically required for retail construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for retail construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, retail construction projects typically require various permits from the Los Angeles Department of Building and Safety (LADBS). These commonly include building permits, electrical permits, plumbing permits, and mechanical permits. Depending on the project's nature, additional permits might be needed for fire safety systems, signage, or specific use-related approvals. Zoning compliance is also critical, and projects may need planning approvals. Navigating these requirements can be complex, and we assist clients through the entire permitting process to ensure compliance.",
+        "@type": "Answer",
+        "description": "Retail construction in Los Angeles usually requires building, electrical, plumbing, and mechanical permits from LADBS, plus potential fire safety or signage approvals."
+      }
+    }
+  ],
+  "description": "Retail construction in Los Angeles usually requires building, electrical, plumbing, and mechanical permits from LADBS, plus potential fire safety or signage app"
+}

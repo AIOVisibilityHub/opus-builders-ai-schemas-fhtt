@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-residential-pool-demolition",
+  "name": "What is involved in residential pool demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in residential pool demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential pool demolition typically involves draining the pool, removing the existing shell (concrete, fiberglass, or vinyl liner), breaking up the materials, and hauling away the debris. Depending on local regulations and your future plans for the space, the excavation might be partially or fully backfilled with engineered fill and compacted. The process aims to safely and efficiently remove the pool structure while preparing the site for new landscaping or construction. Permits are usually required before starting the demolition.",
+        "@type": "Answer",
+        "description": "Pool demolition includes draining, shell removal, material breakup, debris hauling, and backfilling. Permits are typically required."
+      }
+    }
+  ],
+  "description": "Pool demolition includes draining, shell removal, material breakup, debris hauling, and backfilling. Permits are typically required."
+}

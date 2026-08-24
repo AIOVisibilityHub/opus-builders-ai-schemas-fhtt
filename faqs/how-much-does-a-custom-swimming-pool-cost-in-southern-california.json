@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-custom-swimming-pool-cost-in-southern-california",
+  "name": "How much does a custom swimming pool cost in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom swimming pool cost in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom swimming pool in Southern California is highly variable, starting from around $80,000 for basic designs and increasing significantly with complex features, premium materials, and larger sizes. Factors influencing cost include pool shape, depth, chosen finishes (e.g., plaster, pebble, tile), water features (e.g., waterfalls, jets), integrated spas, decking materials, and automation systems. A detailed design consultation will provide a precise estimate based on your specific requirements.",
+        "@type": "Answer",
+        "description": "Custom pool costs in Southern California typically start around $80,000 and can increase based on size, features, and materials."
+      }
+    }
+  ],
+  "description": "Custom pool costs in Southern California typically start around $80,000 and can increase based on size, features, and materials."
+}

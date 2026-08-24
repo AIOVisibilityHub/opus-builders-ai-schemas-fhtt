@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-commercial-construction-project-take",
+  "name": "How long does a typical commercial construction project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical commercial construction project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a commercial construction project varies significantly based on its size, complexity, scope, and specific permitting requirements. Smaller tenant improvements might take a few weeks to a few months, while large-scale new builds or extensive renovations could span from six months to several years. Factors such as design finalization, material procurement, regulatory approvals, site conditions, and weather can all influence the timeline. A detailed project schedule is developed after the design phase to provide a more accurate estimate.",
+        "@type": "Answer",
+        "description": "Project duration varies by size and complexity; small projects may take weeks to months, large ones can take years. Factors like permits and design impact the timeline."
+      }
+    }
+  ],
+  "description": "Project duration varies by size and complexity; small projects may take weeks to months, large ones can take years. Factors like permits and design impact the t"
+}

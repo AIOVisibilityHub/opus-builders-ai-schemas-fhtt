@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-kind-of-projects-do-commercial-general-contractors-typically-handle",
+  "name": "What kind of projects do commercial general contractors typically handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of projects do commercial general contractors typically handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial general contractors handle a wide variety of non-residential projects. This can include new construction of office buildings, retail spaces, restaurants, medical facilities, and industrial warehouses. They also manage large-scale renovations, tenant improvements, and building expansions for existing commercial properties. Their expertise is suited for projects that require coordination of multiple trades, adherence to strict commercial codes, and careful budget and schedule management.",
+        "@type": "Answer",
+        "description": "Commercial general contractors manage various non-residential projects like office buildings, retail spaces, renovations, and tenant improvements."
+      }
+    }
+  ],
+  "description": "Commercial general contractors manage various non-residential projects like office buildings, retail spaces, renovations, and tenant improvements."
+}

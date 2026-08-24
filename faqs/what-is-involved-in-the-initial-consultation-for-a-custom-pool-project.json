@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-the-initial-consultation-for-a-custom-pool-project",
+  "name": "What is involved in the initial consultation for a custom pool project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the initial consultation for a custom pool project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial consultation is a crucial first step where our design team meets with you, typically at your property, to discuss your vision, lifestyle, and how you envision using your new pool. We assess the site's topography, accessibility, existing landscaping, and sun exposure. We'll explore design preferences, material options, desired features, and establish a preliminary budget range. This meeting helps us gather all necessary information to begin crafting a personalized and functional pool design tailored to your specific needs and property.",
+        "@type": "Answer",
+        "description": "The initial consultation involves discussing your vision, assessing the site, exploring design options and features, and establishing a preliminary budget for your custom pool."
+      }
+    }
+  ],
+  "description": "The initial consultation involves discussing your vision, assessing the site, exploring design options and features, and establishing a preliminary budget for y"
+}

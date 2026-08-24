@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-typically-required-for-retail-tenant-improvements-in-glendale",
+  "name": "What permits are typically required for retail tenant improvements in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for retail tenant improvements in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Retail tenant improvement projects in Glendale typically require various permits, including building permits for structural changes, electrical permits for wiring and lighting, mechanical permits for HVAC systems, and plumbing permits for water and sewer lines. Depending on the scope, specialized permits for signage, fire suppression systems, or specific use types may also be necessary. Opus Builders assists with navigating the local permitting process with the City of Glendale to ensure all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Retail TIs in Glendale usually need building, electrical, mechanical, and plumbing permits. Opus Builders assists with obtaining all necessary city approvals."
+      }
+    }
+  ],
+  "description": "Retail TIs in Glendale usually need building, electrical, mechanical, and plumbing permits. Opus Builders assists with obtaining all necessary city approvals."
+}

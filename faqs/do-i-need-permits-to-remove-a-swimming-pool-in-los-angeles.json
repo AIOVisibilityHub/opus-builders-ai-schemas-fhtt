@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-to-remove-a-swimming-pool-in-los-angeles",
+  "name": "Do I need permits to remove a swimming pool in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to remove a swimming pool in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are typically required for swimming pool removal in Los Angeles and the surrounding areas. The specific permits needed will depend on the scope of the project, including whether it's a partial or full removal, and any associated work like altering drainage or fencing. The City of Los Angeles Department of Building and Safety (LADBS) or relevant city planning departments in areas like Glendale or Pasadena will issue these permits. Obtaining proper permits ensures the work complies with local safety standards, environmental regulations, and building codes. An experienced contractor will manage the permit application process on your behalf.",
+        "@type": "Answer",
+        "description": "Yes, permits are generally required for swimming pool removal in Los Angeles. The specific permits depend on the project's scope and are obtained from the City of Los Angeles Department of Building and Safety (LADBS) or relevant city planning departments."
+      }
+    }
+  ],
+  "description": "Yes, permits are generally required for swimming pool removal in Los Angeles. The specific permits depend on the project's scope and are obtained from the City"
+}

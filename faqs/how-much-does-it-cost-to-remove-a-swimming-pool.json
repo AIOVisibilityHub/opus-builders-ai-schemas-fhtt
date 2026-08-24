@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-remove-a-swimming-pool",
+  "name": "How much does it cost to remove a swimming pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove a swimming pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of swimming pool removal varies significantly based on several factors. These include the pool's size and construction material (e.g., concrete, fiberglass, vinyl liner), the type of removal (partial or full demolition), accessibility to the site for heavy machinery, and local disposal fees for debris. Additional costs might arise if there are complex utility disconnections or if specialized fill material is required. While partial removals are generally less expensive, full removals provide a more complete solution for future development. A professional estimate is crucial for an accurate cost assessment.",
+        "@type": "Answer",
+        "description": "Pool removal costs depend on size, material, type of removal (partial or full), site accessibility, and disposal fees. Partial removals are generally less expensive, but full removal offers a more complete solution."
+      }
+    }
+  ],
+  "description": "Pool removal costs depend on size, material, type of removal (partial or full), site accessibility, and disposal fees. Partial removals are generally less expen"
+}

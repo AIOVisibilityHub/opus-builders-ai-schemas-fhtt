@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-key-steps-involved-in-building-a-custom-saltwater-pool",
+  "name": "What are the key steps involved in building a custom saltwater pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps involved in building a custom saltwater pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom saltwater pool construction process typically begins with design and permitting, followed by excavation to shape the pool's shell. Next, plumbing and electrical lines are installed, and steel rebar is placed for structural integrity. Shotcrete or gunite is then applied to form the pool shell. After curing, interior finishes like plaster or tile are installed, along with deck materials and perimeter landscaping. Finally, the salt system is installed and the pool is filled and balanced.",
+        "@type": "Answer",
+        "description": "Key steps include design, permitting, excavation, plumbing/electrical, steel rebar, shotcrete/gunite application, interior finishes, decking, and salt system installation."
+      }
+    }
+  ],
+  "description": "Key steps include design, permitting, excavation, plumbing/electrical, steel rebar, shotcrete/gunite application, interior finishes, decking, and salt system in"
+}

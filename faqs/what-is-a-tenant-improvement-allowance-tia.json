@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-tenant-improvement-allowance-tia",
+  "name": "What is a Tenant Improvement Allowance (TIA)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Tenant Improvement Allowance (TIA)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Tenant Improvement Allowance (TIA) is a sum of money provided by the landlord to the tenant to help cover the costs of building out or improving their leased space. This allowance is often negotiated as part of the lease agreement. The TIA can be applied towards construction costs, design fees, and materials. It's crucial to understand what expenses are covered by the TIA and any requirements for its disbursement, as it directly impacts the tenant's out-of-pocket expenses for the project.",
+        "@type": "Answer",
+        "description": "A Tenant Improvement Allowance (TIA) is funding from a landlord to a tenant to cover construction or improvement costs for their leased space, negotiated in the lease."
+      }
+    }
+  ],
+  "description": "A Tenant Improvement Allowance (TIA) is funding from a landlord to a tenant to cover construction or improvement costs for their leased space, negotiated in the"
+}

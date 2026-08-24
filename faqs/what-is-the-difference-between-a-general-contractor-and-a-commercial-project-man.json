@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-general-contractor-and-a-commercial-project-man",
+  "name": "What is the difference between a general contractor and a commercial project manager?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a commercial project manager?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both roles are crucial, a general contractor primarily executes the construction work, managing the on-site labor, materials, and subcontractors directly. A commercial project manager, however, focuses on the overarching planning, coordination, and administrative aspects of the project, acting as the client's representative. They ensure the project stays on schedule and budget, manages communication between all parties, and oversees the general contractor's performance to meet the client's vision and standards.",
+        "@type": "Answer",
+        "description": "A general contractor executes the build, while a commercial project manager oversees the entire project's planning, budget, schedule, and quality on behalf of the client."
+      }
+    }
+  ],
+  "description": "A general contractor executes the build, while a commercial project manager oversees the entire project's planning, budget, schedule, and quality on behalf of t"
+}

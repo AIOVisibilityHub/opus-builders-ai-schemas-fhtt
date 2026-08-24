@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-shell-space-and-a-second-generation-space-for-r",
+  "name": "What is the difference between a shell space and a second-generation space for retail TIs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a shell space and a second-generation space for retail TIs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A shell space is an undeveloped commercial unit, typically with only exterior walls, a roof, and a concrete slab floor, requiring extensive build-out of all interior systems. A second-generation space, conversely, is a previously occupied unit that may have existing walls, flooring, plumbing, and electrical systems. While a shell offers a blank canvas, a second-generation space might involve demolition of existing elements before new construction can begin. The choice impacts the scope, cost, and timeline of tenant improvements.",
+        "@type": "Answer",
+        "description": "A shell space is undeveloped, requiring full interior build-out, while a second-generation space was previously occupied and may need demolition before improvements."
+      }
+    }
+  ],
+  "description": "A shell space is undeveloped, requiring full interior build-out, while a second-generation space was previously occupied and may need demolition before improvem"
+}

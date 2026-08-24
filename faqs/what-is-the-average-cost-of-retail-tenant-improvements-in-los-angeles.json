@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-average-cost-of-retail-tenant-improvements-in-los-angeles",
+  "name": "What is the average cost of retail tenant improvements in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of retail tenant improvements in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of retail tenant improvements in Los Angeles can vary widely, from $50 per square foot for basic cosmetic changes to over $200 per square foot for high-end, specialized build-outs. Factors influencing cost include the quality of materials, the complexity of design, the need for new utility lines, and local labor rates. We provide detailed estimates after assessing your specific requirements and the existing condition of the space, ensuring transparency and adherence to your budget.",
+        "@type": "Answer",
+        "description": "Retail tenant improvement costs in Los Angeles vary from $50 to over $200 per square foot, depending on material quality, design complexity, and utility needs."
+      }
+    }
+  ],
+  "description": "Retail tenant improvement costs in Los Angeles vary from $50 to over $200 per square foot, depending on material quality, design complexity, and utility needs."
+}

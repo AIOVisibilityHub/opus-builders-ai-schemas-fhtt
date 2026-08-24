@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-process-for-swimming-pool-removal",
+  "name": "What is the typical process for swimming pool removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for swimming pool removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The pool removal process generally begins with obtaining necessary permits from local authorities. Next, the pool is drained, and utility lines like gas, electric, and water are disconnected and capped. Depending on the removal type, the pool structure is either partially or fully demolished. In a partial removal, the top few feet of the pool walls are broken, and the remaining shell is punctured for drainage. For a full removal, the entire structure is excavated. The resulting void is then filled with engineered fill dirt, compacted in layers to ensure stability and proper drainage, and finally graded to match the surrounding landscape.",
+        "@type": "Answer",
+        "description": "The process involves obtaining permits, draining the pool, disconnecting utilities, demolishing the pool structure (partially or fully), and filling the void with compacted dirt."
+      }
+    }
+  ],
+  "description": "The process involves obtaining permits, draining the pool, disconnecting utilities, demolishing the pool structure (partially or fully), and filling the void wi"
+}

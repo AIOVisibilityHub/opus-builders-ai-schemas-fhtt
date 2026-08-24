@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-kind-of-maintenance-is-required-for-a-custom-pool",
+  "name": "What kind of maintenance is required for a custom pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required for a custom pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a custom pool typically involves regular cleaning, water chemistry balancing, and equipment checks. This includes skimming debris, vacuuming the pool floor, brushing walls, and ensuring proper sanitizer levels (chlorine, salt, etc.) and pH. Filters need periodic cleaning or backwashing, and pumps should be inspected for optimal operation. Winterization or summerization might be necessary depending on your location and usage patterns. We can recommend professional pool service providers to assist with ongoing maintenance.",
+        "@type": "Answer",
+        "description": "Custom pool maintenance involves regular cleaning, balancing water chemistry, and checking equipment like filters and pumps."
+      }
+    }
+  ],
+  "description": "Custom pool maintenance involves regular cleaning, balancing water chemistry, and checking equipment like filters and pumps."
+}

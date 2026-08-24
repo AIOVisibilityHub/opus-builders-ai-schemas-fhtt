@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-build-on-top-of-a-filled-in-swimming-pool-area",
+  "name": "Can I build on top of a filled-in swimming pool area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build on top of a filled-in swimming pool area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building on top of a filled-in swimming pool area depends heavily on how the fill-in was executed. If the pool was properly demolished and backfilled with engineered compaction, it might be possible to build lightweight structures like patios, decks, or even certain types of landscaping features. However, constructing heavier structures, such as a home addition or a new dwelling, generally requires full demolition of the pool shell and professional soil compaction overseen by an engineer to ensure adequate load-bearing capacity and prevent settling. Always consult with a structural engineer and your local building department.",
+        "@type": "Answer",
+        "description": "Building on a filled-in pool area is possible for light structures if properly compacted. Heavy construction usually requires full demolition and engineered compaction, necessitating professional consultation."
+      }
+    }
+  ],
+  "description": "Building on a filled-in pool area is possible for light structures if properly compacted. Heavy construction usually requires full demolition and engineered com"
+}

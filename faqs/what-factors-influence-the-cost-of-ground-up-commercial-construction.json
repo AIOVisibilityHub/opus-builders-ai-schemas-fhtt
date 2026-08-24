@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-ground-up-commercial-construction",
+  "name": "What factors influence the cost of ground-up commercial construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of ground-up commercial construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the overall cost of ground-up commercial construction. These include the size and type of the building, complexity of the architectural design, quality of materials specified, site preparation requirements, and prevailing labor costs. Additional considerations involve permit fees, utility connections, and specific compliance requirements for areas like Glendale or Pasadena. Opus Builders provides detailed cost estimations early in the project to ensure transparency and help clients manage their budget effectively.",
+        "@type": "Answer",
+        "description": "Costs are influenced by building size, design complexity, material quality, site work, labor, permit fees, and specific local compliance requirements."
+      }
+    }
+  ],
+  "description": "Costs are influenced by building size, design complexity, material quality, site work, labor, permit fees, and specific local compliance requirements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-a-commercial-project-manager-help-with-material-and-finish-selection-for-a-l",
+  "name": "Can a commercial project manager help with material and finish selection for a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a commercial project manager help with material and finish selection for a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the ultimate selection of materials and finishes typically rests with the client and their interior designer, a commercial project manager provides invaluable support. They can advise on the feasibility, cost implications, and lead times of various options. They also ensure that selected materials meet structural requirements and budget constraints, procure samples, and manage supplier relationships, facilitating a seamless selection process that aligns with the project's overall vision and quality standards.",
+        "@type": "Answer",
+        "description": "A project manager can advise on feasibility, cost, and lead times for materials and finishes, and manage supplier relationships, but selection is ultimately up to the client and designer."
+      }
+    }
+  ],
+  "description": "A project manager can advise on feasibility, cost, and lead times for materials and finishes, and manage supplier relationships, but selection is ultimately up"
+}

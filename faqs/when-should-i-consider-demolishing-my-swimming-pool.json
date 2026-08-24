@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-demolishing-my-swimming-pool",
+  "name": "When should I consider demolishing my swimming pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider demolishing my swimming pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might consider demolishing your swimming pool if it's old, in disrepair, or requires expensive maintenance. Other reasons include a desire to reclaim yard space for other uses, such as a garden, patio, or new construction. If you find you're rarely using the pool, or if safety concerns for children or pets become paramount, demolition can be a practical solution. It's also an option if you're looking to reduce property taxes or insurance premiums, as pools can contribute to these costs.",
+        "@type": "Answer",
+        "description": "Consider pool demolition for old, disused, or costly-to-maintain pools, or to reclaim yard space for other uses or reduce expenses."
+      }
+    }
+  ],
+  "description": "Consider pool demolition for old, disused, or costly-to-maintain pools, or to reclaim yard space for other uses or reduce expenses."
+}

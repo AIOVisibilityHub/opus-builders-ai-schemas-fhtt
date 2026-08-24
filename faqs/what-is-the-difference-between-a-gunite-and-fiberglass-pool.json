@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-gunite-and-fiberglass-pool",
+  "name": "What is the difference between a gunite and fiberglass pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a gunite and fiberglass pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gunite pools are custom-built on-site by spraying a concrete mixture over a steel rebar framework, allowing for unlimited design flexibility in shape, size, and depth. They are known for their durability and customizability. Fiberglass pools, conversely, are pre-fabricated shells installed as a single unit. While they offer quicker installation and a smooth, non-porous surface that can reduce chemical use, their shapes and sizes are limited to available molds. Gunite offers more aesthetic freedom, while fiberglass prioritizes speed and lower maintenance.",
+        "@type": "Answer",
+        "description": "Gunite pools are custom-built on-site with concrete for flexible designs, while fiberglass pools are pre-fabricated shells for quicker installation with limited shapes."
+      }
+    }
+  ],
+  "description": "Gunite pools are custom-built on-site with concrete for flexible designs, while fiberglass pools are pre-fabricated shells for quicker installation with limited"
+}

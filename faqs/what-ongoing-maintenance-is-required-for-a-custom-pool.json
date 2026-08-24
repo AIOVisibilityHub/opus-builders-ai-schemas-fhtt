@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-ongoing-maintenance-is-required-for-a-custom-pool",
+  "name": "What ongoing maintenance is required for a custom pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What ongoing maintenance is required for a custom pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ongoing maintenance for a custom pool includes regular cleaning, balancing water chemistry, and checking equipment. This involves skimming debris, vacuuming the pool floor, brushing walls, and ensuring proper levels of chlorine or other sanitizers, pH, alkalinity, and calcium hardness. Filters need to be cleaned or backwashed periodically, and pumps and heaters should be inspected. While some owners prefer DIY, many opt for professional pool service to ensure optimal water quality and prolong the life of their investment.",
+        "@type": "Answer",
+        "description": "Ongoing custom pool maintenance involves regular cleaning, chemical balancing, and equipment checks; professional services are available for convenience."
+      }
+    }
+  ],
+  "description": "Ongoing custom pool maintenance involves regular cleaning, chemical balancing, and equipment checks; professional services are available for convenience."
+}

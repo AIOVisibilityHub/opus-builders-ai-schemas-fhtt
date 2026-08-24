@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-common-pitfalls-to-avoid-when-planning-a-saltwater-pool-construction-pr",
+  "name": "What are common pitfalls to avoid when planning a saltwater pool construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common pitfalls to avoid when planning a saltwater pool construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls include underestimating the overall budget, neglecting to properly research experienced builders specializing in saltwater systems, and overlooking the importance of long-term maintenance planning. It's crucial to ensure the design accounts for proper drainage and material compatibility with salt water. Additionally, clarify all permit requirements and potential homeowner association restrictions upfront to avoid delays. A comprehensive plan with a reputable builder can mitigate most issues.",
+        "@type": "Answer",
+        "description": "Avoid underestimating budget, neglecting builder research, poor maintenance planning, material incompatibility, and overlooking permits or HOA rules."
+      }
+    }
+  ],
+  "description": "Avoid underestimating budget, neglecting builder research, poor maintenance planning, material incompatibility, and overlooking permits or HOA rules."
+}

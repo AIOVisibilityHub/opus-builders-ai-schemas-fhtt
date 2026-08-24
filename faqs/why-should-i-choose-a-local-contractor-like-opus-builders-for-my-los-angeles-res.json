@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/why-should-i-choose-a-local-contractor-like-opus-builders-for-my-los-angeles-res",
+  "name": "Why should I choose a local contractor like Opus Builders for my Los Angeles restaurant project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose a local contractor like Opus Builders for my Los Angeles restaurant project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local contractor like Opus Builders for your Los Angeles restaurant project offers significant advantages. We possess an intimate understanding of the specific permitting processes, building codes, and health department regulations unique to the various municipalities within the greater Los Angeles area. Our established relationships with local suppliers and subcontractors can lead to more efficient scheduling and competitive pricing. Furthermore, our proximity allows for quicker response times, more frequent site visits, and direct, on-the-ground project management, ensuring seamless communication and oversight throughout the build-out.",
+        "@type": "Answer",
+        "description": "A local contractor like Opus Builders understands LA's specific codes and permits, has established local relationships, and offers quicker response times for better project management."
+      }
+    }
+  ],
+  "description": "A local contractor like Opus Builders understands LA's specific codes and permits, has established local relationships, and offers quicker response times for be"
+}

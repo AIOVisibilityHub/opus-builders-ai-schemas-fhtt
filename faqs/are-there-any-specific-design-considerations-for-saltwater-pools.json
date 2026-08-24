@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/are-there-any-specific-design-considerations-for-saltwater-pools",
+  "name": "Are there any specific design considerations for saltwater pools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any specific design considerations for saltwater pools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing a saltwater pool, it's important to consider materials that are resistant to corrosion, especially for elements near the water line. While modern salt systems are gentle, some materials like certain types of stone, metal fixtures, and even specific decking materials can be more susceptible to wear over time if not properly chosen or sealed. We advise selecting appropriate coping, tile, and deck materials, and ensuring proper drainage around the pool to minimize potential issues.",
+        "@type": "Answer",
+        "description": "Design considerations for saltwater pools include selecting corrosion-resistant materials for coping, tile, decking, and fixtures to ensure longevity."
+      }
+    }
+  ],
+  "description": "Design considerations for saltwater pools include selecting corrosion-resistant materials for coping, tile, decking, and fixtures to ensure longevity."
+}

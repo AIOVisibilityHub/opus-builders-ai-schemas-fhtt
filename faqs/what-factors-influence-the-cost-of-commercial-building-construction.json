@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-commercial-building-construction",
+  "name": "What factors influence the cost of commercial building construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of commercial building construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors significantly influence the cost of commercial building construction. These include the project's size and scope, the complexity of the design, the quality of materials specified, and the chosen finishes. Location plays a role due to varying land costs, labor rates, and local regulations. Site conditions, such as the need for extensive excavation or special foundations, can also add to expenses. Furthermore, permit fees, architectural and engineering fees, and unforeseen challenges can impact the overall budget.",
+        "@type": "Answer",
+        "description": "Commercial construction costs are influenced by project size, design complexity, material quality, location, site conditions, permit fees, and professional service charges."
+      }
+    }
+  ],
+  "description": "Commercial construction costs are influenced by project size, design complexity, material quality, location, site conditions, permit fees, and professional serv"
+}

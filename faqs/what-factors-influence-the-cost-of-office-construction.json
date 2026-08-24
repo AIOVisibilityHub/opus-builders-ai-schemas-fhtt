@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-office-construction",
+  "name": "What factors influence the cost of office construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of office construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of office construction is influenced by several key factors. These include the project's size and scope, the quality and type of materials selected for finishes and fixtures, the complexity of the design, and the functionality requirements such as specialized HVAC, electrical, or data systems. Site conditions, demolition needs, and compliance with local building codes in specific areas like Los Angeles or Pasadena also impact expenses. Opus Builders provides a comprehensive estimate after initial design discussions to ensure transparency regarding all cost components.",
+        "@type": "Answer",
+        "description": "Office construction costs are influenced by project size, material quality, design complexity, specialized system requirements, site conditions, and local building codes."
+      }
+    }
+  ],
+  "description": "Office construction costs are influenced by project size, material quality, design complexity, specialized system requirements, site conditions, and local build"
+}

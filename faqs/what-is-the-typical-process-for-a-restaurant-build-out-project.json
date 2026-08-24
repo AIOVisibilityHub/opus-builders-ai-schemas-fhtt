@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-process-for-a-restaurant-build-out-project",
+  "name": "What is the typical process for a restaurant build-out project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a restaurant build-out project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical restaurant build-out process begins with initial consultation and conceptual design, followed by detailed architectural and engineering plans. Once plans are approved, permits are secured from local authorities. Construction then commences, usually starting with demolition (if needed), followed by structural work, rough-ins for plumbing, electrical, and HVAC. Next are installations of kitchen equipment and fixtures, followed by finishes like flooring, painting, and millwork. The project concludes with final inspections, health department approvals, and a comprehensive handover.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, construction (demolition, structural, rough-ins, installations), finishes, and final inspections."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, construction (demolition, structural, rough-ins, installations), finishes, and final inspections."
+}

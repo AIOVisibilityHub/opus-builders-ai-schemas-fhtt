@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-build-a-restaurant-in-los-angeles",
+  "name": "How much does it cost to build a restaurant in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a restaurant in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a restaurant in Los Angeles can range widely, often from $250 to $700+ per square foot, depending on numerous factors. These include the restaurant concept (e.g., fast-casual vs. fine dining), the extent of renovation or new construction, kitchen equipment choices, and finishes. Permitting fees, specific local regulations, and the complexity of mechanical systems also influence the overall budget. A detailed budget breakdown from a contractor is essential for accurate cost estimation.",
+        "@type": "Answer",
+        "description": "Restaurant construction costs in Los Angeles typically range from $250 to $700+ per square foot, influenced by concept, scope, and specific finishes."
+      }
+    }
+  ],
+  "description": "Restaurant construction costs in Los Angeles typically range from $250 to $700+ per square foot, influenced by concept, scope, and specific finishes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-hire-a-commercial-construction-company",
+  "name": "When should I hire a commercial construction company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a commercial construction company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to engage a commercial construction company early in your project planning, ideally during the feasibility and design stages. Bringing in a contractor early allows for valuable input on constructability, cost estimates, value engineering opportunities, and accurate scheduling. Their expertise can help identify potential challenges and streamline the permitting process, ultimately saving time and money. Waiting until designs are fully complete might limit cost-saving options and extend timelines.",
+        "@type": "Answer",
+        "description": "Hire a commercial construction company early in the planning and design stages to benefit from their expertise in constructability, cost estimation, and scheduling."
+      }
+    }
+  ],
+  "description": "Hire a commercial construction company early in the planning and design stages to benefit from their expertise in constructability, cost estimation, and schedul"
+}

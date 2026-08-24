@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-commercial-general-contractor-for-my-business-in-los-a",
+  "name": "How do I choose the right commercial general contractor for my business in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right commercial general contractor for my business in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a commercial general contractor in Los Angeles, look for a company with a proven track record in projects similar to yours. Evaluate their experience, financial stability, communication practices, and safety records. Request references and review their portfolio to assess quality and project management capabilities. It's also important to ensure they are properly licensed and insured in California. Opus Builders has extensive experience with commercial projects in the greater Los Angeles area, including specific municipal requirements.",
+        "@type": "Answer",
+        "description": "Choose a commercial general contractor by evaluating their experience, financial stability, communication, safety records, and licenses, particularly for projects in Los Angeles."
+      }
+    }
+  ],
+  "description": "Choose a commercial general contractor by evaluating their experience, financial stability, communication, safety records, and licenses, particularly for projec"
+}

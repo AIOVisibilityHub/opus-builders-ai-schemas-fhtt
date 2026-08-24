@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-convert-an-existing-traditional-chlorine-pool-to-a-saltwater-system",
+  "name": "Can I convert an existing traditional chlorine pool to a saltwater system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert an existing traditional chlorine pool to a saltwater system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many existing traditional chlorine pools can be converted to saltwater systems. The primary requirement is installing a salt chlorine generator, which includes a salt cell and a control box. The existing plumbing and filtration system typically remain in place. However, an assessment of your current pool's materials, particularly the interior finish and any metal components, is recommended to ensure compatibility and prevent potential corrosion issues over time. Some older finishes may be less resistant to salt exposure.",
+        "@type": "Answer",
+        "description": "Yes, existing chlorine pools can often be converted to saltwater by installing a salt chlorine generator, but an assessment of current pool materials is recommended."
+      }
+    }
+  ],
+  "description": "Yes, existing chlorine pools can often be converted to saltwater by installing a salt chlorine generator, but an assessment of current pool materials is recomme"
+}

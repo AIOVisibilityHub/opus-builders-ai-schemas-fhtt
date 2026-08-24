@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-typically-required-for-a-restaurant-build-out",
+  "name": "What permits are typically required for a restaurant build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for a restaurant build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A range of permits is typically required for a restaurant build-out. These often include a general building permit, plumbing permit, electrical permit, and mechanical (HVAC) permit. Additionally, specific permits may be needed for fire suppression systems, signage, and sometimes for specific types of cooking equipment. Health department permits are crucial and typically require a separate review and inspection process. The exact permits depend on the project's scope, local municipal requirements, and whether the work involves structural changes or just interior finishes.",
+        "@type": "Answer",
+        "description": "Required permits include building, plumbing, electrical, and mechanical permits, along with fire suppression, signage, and crucial health department permits."
+      }
+    }
+  ],
+  "description": "Required permits include building, plumbing, electrical, and mechanical permits, along with fire suppression, signage, and crucial health department permits."
+}

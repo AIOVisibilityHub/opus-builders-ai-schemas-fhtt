@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-partial-and-full-pool-demolition",
+  "name": "What is the difference between partial and full pool demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between partial and full pool demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Partial pool demolition, sometimes called a 'fill-in' or 'haul-out,' involves breaking up the top portion of the pool and filling the remaining shell with dirt and other materials. The bottom and some side walls are left intact. Full pool demolition, on the other hand, removes the entire pool structure, including all concrete, rebar, and plumbing. Full removal is typically more expensive and time-consuming but offers a clean slate for future construction. Partial removal is often chosen for cost savings if the area won't be built upon directly.",
+        "@type": "Answer",
+        "description": "Partial demolition removes only the top section and fills the rest, while full demolition removes the entire pool structure. Full removal is more costly but provides a clear site."
+      }
+    }
+  ],
+  "description": "Partial demolition removes only the top section and fills the rest, while full demolition removes the entire pool structure. Full removal is more costly but pro"
+}

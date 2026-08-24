@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-cost-factors-involved-in-in-ground-pool-removal",
+  "name": "What are the cost factors involved in in-ground pool removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the cost factors involved in in-ground pool removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of in-ground pool removal is influenced by several factors. These include the pool's size and depth, its construction material (e.g., concrete, fiberglass, vinyl liner), the chosen removal method (full vs. partial demolition), and site accessibility for equipment. Additional costs may arise from hauling away debris, obtaining necessary permits, and restoring the area with new soil and landscaping. Geographic location and the complexity of utility disconnections can also impact the final price.",
+        "@type": "Answer",
+        "description": "Cost factors include pool size, material, removal method (full/partial), site accessibility, debris hauling, permits, and area restoration. Location and utility work also influence the price."
+      }
+    }
+  ],
+  "description": "Cost factors include pool size, material, removal method (full/partial), site accessibility, debris hauling, permits, and area restoration. Location and utility"
+}

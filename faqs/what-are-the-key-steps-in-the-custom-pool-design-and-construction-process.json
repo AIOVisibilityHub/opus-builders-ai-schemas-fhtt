@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-key-steps-in-the-custom-pool-design-and-construction-process",
+  "name": "What are the key steps in the custom pool design and construction process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps in the custom pool design and construction process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom pool construction process typically begins with an initial consultation to discuss your vision, budget, and site conditions. This leads to preliminary design concepts and 3D renderings for your approval. Once the design is finalized, engineering plans are created, and permits are secured. Construction then proceeds through excavation, steel reinforcement, plumbing and electrical installation, shotcrete application, tile and coping work, plastering, and finally, equipment installation and water filling. Regular communication ensures your project stays aligned with your expectations.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, excavation, structural work, plumbing/electrical, finishes, and equipment installation."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, excavation, structural work, plumbing/electrical, finishes, and equipment installation."
+}

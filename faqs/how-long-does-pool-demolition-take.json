@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-pool-demolition-take",
+  "name": "How long does pool demolition take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does pool demolition take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pool demolition project can range from a few days to over a week, largely depending on the pool's size, the complexity of its construction, site access, and the demolition method chosen. Partial demolitions (where part of the shell is left in the ground) are generally quicker than full removals. Weather conditions can also affect the timeline. A detailed project schedule will be provided after an on-site assessment to give a more precise timeframe for your specific pool.",
+        "@type": "Answer",
+        "description": "Pool demolition typically takes a few days to over a week, depending on size, complexity, site access, and demolition method."
+      }
+    }
+  ],
+  "description": "Pool demolition typically takes a few days to over a week, depending on size, complexity, site access, and demolition method."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-opus-builders-help-with-retail-build-outs-in-beverly-hills",
+  "name": "Can Opus Builders help with retail build-outs in Beverly Hills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Opus Builders help with retail build-outs in Beverly Hills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Opus Builders specializes in luxury construction and design across the greater Los Angeles area, including prestigious locations like Beverly Hills. Our expertise extends to crafting bespoke retail environments that meet the high standards and unique aesthetic demands of the Beverly Hills market. We understand the local regulations and work closely with clients to deliver exceptional results that embody luxury and functionality for their retail spaces.",
+        "@type": "Answer",
+        "description": "Yes, Opus Builders provides luxury retail build-out services in Beverly Hills, delivering exceptional results tailored to high-end market demands."
+      }
+    }
+  ],
+  "description": "Yes, Opus Builders provides luxury retail build-out services in Beverly Hills, delivering exceptional results tailored to high-end market demands."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-commercial-construction-in-los-angeles-county",
+  "name": "What permits are required for commercial construction in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for commercial construction in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial construction projects in Los Angeles County require a range of permits, typically including building permits, zoning permits, grading permits, and potentially specialized permits for plumbing, electrical, and mechanical systems. Environmental impact reviews and specific city-level approvals, such as those in Beverly Hills or Santa Monica, may also be necessary. Opus Builders assists clients in identifying and securing all required permits, ensuring compliance with local building codes and regulations from the outset.",
+        "@type": "Answer",
+        "description": "Permits for commercial construction in Los Angeles County include building, zoning, grading, and specialty permits for plumbing, electrical, and mechanical systems."
+      }
+    }
+  ],
+  "description": "Permits for commercial construction in Los Angeles County include building, zoning, grading, and specialty permits for plumbing, electrical, and mechanical syst"
+}

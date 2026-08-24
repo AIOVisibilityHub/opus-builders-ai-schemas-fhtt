@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-ground-up-restaurant-build-and-a-tenant-improve",
+  "name": "What is the difference between a ground-up restaurant build and a tenant improvement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a ground-up restaurant build and a tenant improvement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A ground-up restaurant build involves constructing a new building from the foundation up on vacant land. This offers maximum design flexibility but typically has a longer timeline and higher costs. A tenant improvement (TI) project, conversely, involves renovating an existing space within a shell building or a previously occupied unit. TIs are generally faster and less expensive but come with the constraints of the existing structure and landlord agreements. Both require specialized commercial construction expertise.",
+        "@type": "Answer",
+        "description": "Ground-up is new construction from scratch, while tenant improvement involves renovating an existing commercial space."
+      }
+    }
+  ],
+  "description": "Ground-up is new construction from scratch, while tenant improvement involves renovating an existing commercial space."
+}

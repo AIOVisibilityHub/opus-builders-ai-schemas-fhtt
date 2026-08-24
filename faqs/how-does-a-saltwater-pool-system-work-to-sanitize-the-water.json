@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-a-saltwater-pool-system-work-to-sanitize-the-water",
+  "name": "How does a saltwater pool system work to sanitize the water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a saltwater pool system work to sanitize the water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A saltwater pool system sanitizes water using a salt chlorine generator. This device contains an electrolytic cell through which the pool's lightly salted water passes. As the water flows through the cell, a low-voltage electrical current converts the dissolved salt (sodium chloride) into hypochlorous acid – the same sanitizer found in traditional chlorine. This process continuously generates chlorine, which then reverts back to salt after sanitizing the water, creating a closed-loop system.",
+        "@type": "Answer",
+        "description": "A saltwater pool system uses a salt chlorine generator to convert dissolved salt into hypochlorous acid, which sanitizes the water, creating a continuous, closed-loop process."
+      }
+    }
+  ],
+  "description": "A saltwater pool system uses a salt chlorine generator to convert dissolved salt into hypochlorous acid, which sanitizes the water, creating a continuous, close"
+}

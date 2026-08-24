@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-from-permit-approval-to-project-completion-for-pool",
+  "name": "What is the typical timeline from permit approval to project completion for pool demolition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline from permit approval to project completion for pool demolition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once a pool demolition permit is approved, the actual demolition project can typically be completed within 1 to 3 weeks, depending on the size and type of the pool, site access, and whether it's a partial or full demolition. This timeline includes the demolition itself, removal of debris, and backfilling/compaction of the site. Factors like unforeseen site conditions, weather, and the availability of specialized equipment can influence the schedule. Opus Builders provides a detailed project timeline once the permit is secured and site assessments are complete.",
+        "@type": "Answer",
+        "description": "After permit approval, pool demolition projects typically take 1 to 3 weeks, including demolition, debris removal, and backfilling. Site conditions and weather can affect this timeline."
+      }
+    }
+  ],
+  "description": "After permit approval, pool demolition projects typically take 1 to 3 weeks, including demolition, debris removal, and backfilling. Site conditions and weather"
+}

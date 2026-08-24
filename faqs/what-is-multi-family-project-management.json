@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-multi-family-project-management",
+  "name": "What is multi-family project management?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is multi-family project management?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-family project management involves overseeing all aspects of constructing or renovating residential properties with multiple separate housing units. This includes apartments, condominiums, townhouses, and mixed-use developments. It encompasses planning, design coordination, budget management, scheduling, regulatory compliance, quality control, and contractor supervision to ensure the project is completed efficiently, on time, and within budget, meeting both client expectations and market demands for quality living spaces.",
+        "@type": "Answer",
+        "description": "Multi-family project management oversees all aspects of constructing or renovating residential properties with multiple separate housing units, from planning to completion."
+      }
+    }
+  ],
+  "description": "Multi-family project management oversees all aspects of constructing or renovating residential properties with multiple separate housing units, from planning to"
+}

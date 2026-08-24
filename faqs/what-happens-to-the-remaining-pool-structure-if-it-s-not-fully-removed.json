@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-happens-to-the-remaining-pool-structure-if-it-s-not-fully-removed",
+  "name": "What happens to the remaining pool structure if it's not fully removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the remaining pool structure if it's not fully removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a swimming pool structure is not fully removed, a common method is partial demolition, where the top portion of the pool walls and deck are broken up, and the bottom is perforated. Perforating the bottom of the pool allows for proper drainage and prevents water from accumulating and causing future settling or structural issues. The remaining shell is then typically backfilled with compacted soil and aggregate. This method is often more cost-effective than full removal but requires careful planning to ensure long-term stability and drainage.",
+        "@type": "Answer",
+        "description": "If not fully removed, the pool's bottom is perforated for drainage, and the top walls are broken. The remaining structure is then backfilled with compacted soil to ensure stability."
+      }
+    }
+  ],
+  "description": "If not fully removed, the pool's bottom is perforated for drainage, and the top walls are broken. The remaining structure is then backfilled with compacted soil"
+}

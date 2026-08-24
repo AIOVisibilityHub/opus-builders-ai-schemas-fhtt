@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-opus-builders-manage-subcontractor-relationships-in-multi-family-projec",
+  "name": "How does Opus Builders manage subcontractor relationships in multi-family projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Opus Builders manage subcontractor relationships in multi-family projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders manages subcontractor relationships in multi-family projects through a rigorous selection process, clear contractual agreements, and consistent communication. We partner with vetted, high-quality subcontractors known for their expertise, reliability, and adherence to safety standards. Our project managers maintain open lines of communication, conduct regular progress meetings, and provide detailed scopes of work to ensure all parties are aligned. This collaborative approach fosters accountability, resolves issues efficiently, and helps maintain project schedules and quality standards, contributing to seamless project execution.",
+        "@type": "Answer",
+        "description": "Opus Builders manages subcontractors via rigorous selection, clear contracts, and consistent communication. We partner with vetted professionals, conducting regular meetings and providing detailed scopes of work for seamless project execution and quality."
+      }
+    }
+  ],
+  "description": "Opus Builders manages subcontractors via rigorous selection, clear contracts, and consistent communication. We partner with vetted professionals, conducting reg"
+}

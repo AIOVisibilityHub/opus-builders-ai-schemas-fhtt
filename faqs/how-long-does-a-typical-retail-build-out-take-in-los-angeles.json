@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-retail-build-out-take-in-los-angeles",
+  "name": "How long does a typical retail build-out take in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical retail build-out take in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a retail build-out in Los Angeles varies significantly based on project complexity, size, and the need for specific permits. Smaller projects might take 8-12 weeks from design to completion, while larger or more intricate builds could extend to 4-6 months or longer. Factors such as securing city permits in areas like Glendale or Pasadena, material lead times, and the extent of structural modifications all influence the timeline. Opus Builders works to streamline this process through efficient project management.",
+        "@type": "Answer",
+        "description": "Retail build-out times in Los Angeles vary from 8 weeks to 6+ months, depending on complexity, size, and permit requirements in specific cities."
+      }
+    }
+  ],
+  "description": "Retail build-out times in Los Angeles vary from 8 weeks to 6+ months, depending on complexity, size, and permit requirements in specific cities."
+}

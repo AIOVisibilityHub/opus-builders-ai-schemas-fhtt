@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-office-construction-usually-take",
+  "name": "How long does office construction usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does office construction usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an office construction project varies significantly based on factors such as the project's scope, the size of the space, design complexity, and material availability. A smaller tenant improvement might take a few months, while a ground-up development or extensive renovation could span six months to over a year. Permitting processes, especially in areas like Los Angeles, can also influence the timeline. Opus Builders provides a detailed project schedule early in the planning phase, setting clear expectations for each milestone and overall completion.",
+        "@type": "Answer",
+        "description": "Office construction timelines vary by project scope, size, and complexity, ranging from a few months for minor renovations to over a year for large-scale builds. Permitting can also impact the schedule."
+      }
+    }
+  ],
+  "description": "Office construction timelines vary by project scope, size, and complexity, ranging from a few months for minor renovations to over a year for large-scale builds"
+}

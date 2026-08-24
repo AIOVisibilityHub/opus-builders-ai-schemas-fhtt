@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-happens-to-the-removed-pool-materials",
+  "name": "What happens to the removed pool materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the removed pool materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a pool demolition, the removed materials, such as concrete, rebar, and other debris, are typically hauled away from the site. Responsible contractors aim to recycle as much of this material as possible. Concrete can often be crushed and reused as aggregate in other construction projects, while metals like rebar are sorted for scrap. Non-recyclable materials are disposed of in approved landfills. Our company prioritizes environmentally sound disposal practices to minimize waste.",
+        "@type": "Answer",
+        "description": "Removed pool materials like concrete and rebar are hauled away and recycled whenever possible. Non-recyclable debris goes to approved landfills."
+      }
+    }
+  ],
+  "description": "Removed pool materials like concrete and rebar are hauled away and recycled whenever possible. Non-recyclable debris goes to approved landfills."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-commercial-general-contractor-and-a-constructio",
+  "name": "What is the difference between a commercial general contractor and a construction manager?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a commercial general contractor and a construction manager?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both roles involve project oversight, a commercial general contractor typically assumes the financial risk and is responsible for the overall project cost and schedule, often working under a fixed-price or GMP contract. A construction manager, on the other hand, usually works for a fee as an agent of the owner, providing advisory services and managing the project without taking on the direct financial risk of the construction itself. Opus Builders primarily functions as a general contractor, delivering comprehensive design and build solutions.",
+        "@type": "Answer",
+        "description": "A general contractor takes financial risk for project cost and schedule, while a construction manager typically provides advisory services as the owner's agent."
+      }
+    }
+  ],
+  "description": "A general contractor takes financial risk for project cost and schedule, while a construction manager typically provides advisory services as the owner's agent."
+}

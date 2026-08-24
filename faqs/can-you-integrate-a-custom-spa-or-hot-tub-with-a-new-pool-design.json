@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-you-integrate-a-custom-spa-or-hot-tub-with-a-new-pool-design",
+  "name": "Can you integrate a custom spa or hot tub with a new pool design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you integrate a custom spa or hot tub with a new pool design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Integrating a custom spa or hot tub into your new pool design is a very common request and offers numerous benefits. It allows for a cohesive aesthetic and can be plumbed to use the same filtration and heating systems as the main pool, often with separate controls for temperature and jets. Our designers can seamlessly blend a spa into your pool's shape, create a raised spa with a spillover into the pool, or design a completely detached yet harmonized unit, enhancing both relaxation and entertainment possibilities.",
+        "@type": "Answer",
+        "description": "Yes, a custom spa or hot tub can be seamlessly integrated into a new pool design, offering cohesive aesthetics and shared systems with separate controls."
+      }
+    }
+  ],
+  "description": "Yes, a custom spa or hot tub can be seamlessly integrated into a new pool design, offering cohesive aesthetics and shared systems with separate controls."
+}

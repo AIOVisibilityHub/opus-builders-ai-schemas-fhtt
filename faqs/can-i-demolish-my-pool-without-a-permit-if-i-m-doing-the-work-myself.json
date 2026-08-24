@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-demolish-my-pool-without-a-permit-if-i-m-doing-the-work-myself",
+  "name": "Can I demolish my pool without a permit if I'm doing the work myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I demolish my pool without a permit if I'm doing the work myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, whether you hire a contractor or perform the demolition yourself, a permit is almost always required for pool demolition. The permitting process ensures that the demolition is conducted safely, responsibly, and in compliance with local regulations. Proceeding without a permit can lead to significant fines, stop-work orders, and potentially serious safety hazards. Additionally, future property transactions could be complicated by unpermitted work. Always secure the necessary permits before starting any demolition, regardless of who performs the work.",
+        "@type": "Answer",
+        "description": "No, a permit is almost always required for pool demolition, regardless of whether you do the work yourself or hire a contractor. Unpermitted work can lead to fines and safety issues."
+      }
+    }
+  ],
+  "description": "No, a permit is almost always required for pool demolition, regardless of whether you do the work yourself or hire a contractor. Unpermitted work can lead to fi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-restaurant-construction-in-los-angeles",
+  "name": "What permits are required for restaurant construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for restaurant construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restaurant construction in Los Angeles requires various permits from several city and county departments. These commonly include building permits, plumbing permits, electrical permits, and mechanical permits from the Department of Building and Safety. Additionally, health permits from the Los Angeles County Department of Public Health are essential for food service operations. Depending on the project, you may also need zoning approvals, fire department permits, and specific permits for outdoor dining or signage.",
+        "@type": "Answer",
+        "description": "Permits from the LA Department of Building and Safety, LA County Public Health, and potentially zoning and fire departments are typically required."
+      }
+    }
+  ],
+  "description": "Permits from the LA Department of Building and Safety, LA County Public Health, and potentially zoning and fire departments are typically required."
+}

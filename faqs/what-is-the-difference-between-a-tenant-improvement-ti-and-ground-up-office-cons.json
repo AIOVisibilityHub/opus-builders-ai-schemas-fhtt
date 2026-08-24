@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-tenant-improvement-ti-and-ground-up-office-cons",
+  "name": "What is the difference between a tenant improvement (TI) and ground-up office construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a tenant improvement (TI) and ground-up office construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tenant improvement (TI) refers to customizing an existing commercial space to meet a new tenant's specific needs, often involving interior modifications like partitions, finishes, and utility adjustments within an already built structure. Ground-up office construction, in contrast, involves building a new office facility from scratch on a previously undeveloped or cleared plot of land. This includes laying foundations, erecting the entire building structure, and then fitting out the interior. Opus Builders handles both, adapting our approach to the project's scale and complexity.",
+        "@type": "Answer",
+        "description": "Tenant improvement (TI) modifies existing spaces, while ground-up construction involves building a new office facility from the foundation up on undeveloped land."
+      }
+    }
+  ],
+  "description": "Tenant improvement (TI) modifies existing spaces, while ground-up construction involves building a new office facility from the foundation up on undeveloped lan"
+}

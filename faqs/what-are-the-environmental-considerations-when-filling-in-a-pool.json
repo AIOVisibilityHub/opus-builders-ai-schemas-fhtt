@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-environmental-considerations-when-filling-in-a-pool",
+  "name": "What are the environmental considerations when filling in a pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the environmental considerations when filling in a pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Environmental considerations for pool fill-in include proper disposal of chlorinated water and demolition debris, preventing soil contamination, and managing stormwater runoff. Pool water must be dechlorinated before discharge into the storm drain system, following local regulations. Concrete and other demolition debris should be recycled or disposed of at approved facilities. The backfill material used should be clean, non-toxic, and properly compacted to prevent erosion and ensure stable drainage, protecting local ecosystems from harmful runoff or pollutants. Sustainable practices, like reusing excavated soil, can also be considered.",
+        "@type": "Answer",
+        "description": "Environmental concerns for pool fill-in involve proper disposal of dechlorinated water and debris, preventing soil contamination, and managing stormwater runoff. Use clean fill and consider recycling materials."
+      }
+    }
+  ],
+  "description": "Environmental concerns for pool fill-in involve proper disposal of dechlorinated water and debris, preventing soil contamination, and managing stormwater runoff"
+}

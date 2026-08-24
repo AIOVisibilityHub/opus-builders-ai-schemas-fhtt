@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-happens-if-i-demolish-a-pool-without-a-permit",
+  "name": "What happens if I demolish a pool without a permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I demolish a pool without a permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Demolishing a pool without the required permit can result in several serious consequences. Local authorities may issue stop-work orders, impose substantial fines, and require you to obtain the permit retrospectively, which often involves additional penalties and delays. Furthermore, unpermitted work may not meet safety or environmental standards, potentially creating hazards on your property. This could also affect your home insurance coverage and complicate the sale of your property in the future, as many buyers and lenders require proof of proper permitting for major home modifications.",
+        "@type": "Answer",
+        "description": "Demolishing a pool without a permit can lead to stop-work orders, fines, and complications with future property sales or insurance. Always obtain necessary permits."
+      }
+    }
+  ],
+  "description": "Demolishing a pool without a permit can lead to stop-work orders, fines, and complications with future property sales or insurance. Always obtain necessary perm"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-a-restaurant-construction-project",
+  "name": "What is the typical timeline for a restaurant construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a restaurant construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for restaurant construction varies significantly based on project scope, size, and necessary permits. A small renovation might take 3-6 months, while a ground-up build or extensive remodel could extend to 9-18 months or more. Key factors include design finalization, permitting processes in Los Angeles, material procurement, and the complexity of kitchen equipment installation and dining area finishes. Efficient planning and a clear scope of work are crucial for managing expectations and staying on schedule.",
+        "@type": "Answer",
+        "description": "Restaurant construction timelines vary by project, from 3-6 months for renovations to 9-18 months for new builds, depending on scope and permits."
+      }
+    }
+  ],
+  "description": "Restaurant construction timelines vary by project, from 3-6 months for renovations to 9-18 months for new builds, depending on scope and permits."
+}

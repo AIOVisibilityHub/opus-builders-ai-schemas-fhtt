@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-ground-up-commercial-construction-project-take-in-los-an",
+  "name": "How long does a typical ground-up commercial construction project take in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical ground-up commercial construction project take in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a ground-up commercial construction project varies significantly based on factors such as the size and complexity of the building, the chosen materials, site conditions, and the efficiency of the permitting process in Los Angeles. Smaller projects might take 9-12 months, while larger or more intricate developments could extend to 18-24 months or longer. Opus Builders works closely with clients to establish realistic timelines and navigate local regulations efficiently to ensure timely project completion.",
+        "@type": "Answer",
+        "description": "Project timelines vary greatly, from 9-12 months for smaller builds to 18-24+ months for larger projects, depending on complexity and permitting in Los Angeles."
+      }
+    }
+  ],
+  "description": "Project timelines vary greatly, from 9-12 months for smaller builds to 18-24+ months for larger projects, depending on complexity and permitting in Los Angeles."
+}

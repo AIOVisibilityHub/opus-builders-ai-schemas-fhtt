@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-take-to-get-a-pool-demolition-permit-in-los-angeles",
+  "name": "How long does it take to get a pool demolition permit in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to get a pool demolition permit in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for obtaining a pool demolition permit in Los Angeles can vary depending on the completeness of your application, the complexity of the project, and the current workload of the building department. Generally, it can take anywhere from a few weeks to several months. Expedited services may be available for an additional fee in some cases. Opus Builders understands local permitting processes and works to streamline the application to help minimize delays. It's advisable to factor in ample time for permit acquisition when planning your demolition project.",
+        "@type": "Answer",
+        "description": "Permit acquisition in Los Angeles can take several weeks to a few months, depending on application completeness and department workload. Factor this into your project timeline."
+      }
+    }
+  ],
+  "description": "Permit acquisition in Los Angeles can take several weeks to a few months, depending on application completeness and department workload. Factor this into your p"
+}

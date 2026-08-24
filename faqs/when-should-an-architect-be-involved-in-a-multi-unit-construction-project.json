@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-an-architect-be-involved-in-a-multi-unit-construction-project",
+  "name": "When should an architect be involved in a multi-unit construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should an architect be involved in a multi-unit construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An architect should be involved from the earliest stages of a multi-unit construction project, ideally during the initial feasibility and site analysis phase. Their expertise is critical for site planning, conceptual design, space optimization, and ensuring compliance with zoning regulations. Early involvement allows for comprehensive design development, integration of sustainable features, and efficient navigation of the permitting process, ultimately preventing costly changes later in the project lifecycle.",
+        "@type": "Answer",
+        "description": "An architect should be involved from the project's inception, during feasibility and site analysis, to guide design, optimize space, and ensure zoning compliance."
+      }
+    }
+  ],
+  "description": "An architect should be involved from the project's inception, during feasibility and site analysis, to guide design, optimize space, and ensure zoning complianc"
+}

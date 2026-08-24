@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-a-commercial-renovation-project",
+  "name": "What is the typical timeline for a commercial renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a commercial renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a commercial renovation varies significantly based on project scope, size, and the need for permits and inspections. A small office refresh might take a few weeks, while a major interior remodel with structural changes could span several months. Design, material procurement, and regulatory approvals are key factors. Opus Builders works to establish a realistic schedule upfront, aiming to minimize disruption to your business operations.",
+        "@type": "Answer",
+        "description": "Commercial renovation timelines vary based on scope, size, and permits, from a few weeks for small projects to several months for major remodels."
+      }
+    }
+  ],
+  "description": "Commercial renovation timelines vary based on scope, size, and permits, from a few weeks for small projects to several months for major remodels."
+}

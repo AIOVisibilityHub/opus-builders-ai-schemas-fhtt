@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-start-planning-for-office-construction",
+  "name": "When should I start planning for office construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning for office construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to start planning for office construction as early as possible, ideally 6 to 12 months before your desired occupancy date. This allows ample time for thorough design development, budgeting, contractor selection, and the often-lengthy permitting process, particularly for complex projects or in regulated areas. Early planning helps mitigate unforeseen issues, ensures material availability, and allows for value engineering to optimize costs without compromising quality. Opus Builders recommends initiating discussions once you have a preliminary idea of your needs.",
+        "@type": "Answer",
+        "description": "Start planning office construction 6 to 12 months before desired occupancy to allow time for design, budgeting, contractor selection, and permitting, especially for complex projects."
+      }
+    }
+  ],
+  "description": "Start planning office construction 6 to 12 months before desired occupancy to allow time for design, budgeting, contractor selection, and permitting, especially"
+}

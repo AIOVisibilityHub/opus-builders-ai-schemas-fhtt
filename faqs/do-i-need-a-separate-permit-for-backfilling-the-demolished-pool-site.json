@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-a-separate-permit-for-backfilling-the-demolished-pool-site",
+  "name": "Do I need a separate permit for backfilling the demolished pool site?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a separate permit for backfilling the demolished pool site?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, the permit for pool demolition will encompass the backfilling process, provided the demolition plan submitted explicitly details the backfill materials and compaction methods. However, some jurisdictions might require a separate grading permit if the backfill significantly alters the existing grade or if a large volume of imported soil is used. It's crucial to confirm this with your local building department when applying for the demolition permit. Proper backfilling is essential for preventing future settlement issues and ensuring the stability of the site.",
+        "@type": "Answer",
+        "description": "Usually, backfilling is covered by the demolition permit if detailed in the plan. Some areas may require a separate grading permit for significant grade changes or large soil volumes."
+      }
+    }
+  ],
+  "description": "Usually, backfilling is covered by the demolition permit if detailed in the plan. Some areas may require a separate grading permit for significant grade changes"
+}

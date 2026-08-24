@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-start-planning-my-retail-build-out-project",
+  "name": "When should I start planning my retail build-out project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning my retail build-out project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should ideally start planning your retail build-out project as early as possible, typically 6-12 months before your desired opening date. This allows ample time for architectural design, interior concept development, budgeting, contractor selection, and crucial permit acquisition. Early planning helps mitigate unforeseen challenges, ensures a smoother construction phase, and prevents costly delays. Engaging a design-build firm like Opus Builders early can help integrate design and construction planning seamlessly.",
+        "@type": "Answer",
+        "description": "Begin planning your retail build-out 6-12 months before opening, allowing time for design, budgeting, contractor selection, and permit acquisition."
+      }
+    }
+  ],
+  "description": "Begin planning your retail build-out 6-12 months before opening, allowing time for design, budgeting, contractor selection, and permit acquisition."
+}

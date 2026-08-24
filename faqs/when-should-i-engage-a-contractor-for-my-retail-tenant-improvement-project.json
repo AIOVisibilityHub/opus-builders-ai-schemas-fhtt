@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-engage-a-contractor-for-my-retail-tenant-improvement-project",
+  "name": "When should I engage a contractor for my retail tenant improvement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a contractor for my retail tenant improvement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to engage a qualified contractor like Opus Builders early in the process, ideally during the lease negotiation phase or shortly after signing. Early involvement allows the contractor to review lease terms, assess the space's condition, provide preliminary cost estimates, and help refine the scope of work. This proactive approach can identify potential challenges, ensure constructability, and contribute to a more accurate budget and timeline, preventing costly surprises later on.",
+        "@type": "Answer",
+        "description": "Engage a contractor early, ideally during lease negotiation, to review terms, assess the space, and provide preliminary estimates, ensuring a smooth project."
+      }
+    }
+  ],
+  "description": "Engage a contractor early, ideally during lease negotiation, to review terms, assess the space, and provide preliminary estimates, ensuring a smooth project."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-build-on-the-site-of-a-demolished-pool",
+  "name": "Can I build on the site of a demolished pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build on the site of a demolished pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building on the site of a demolished pool is possible, but it requires careful planning and execution, especially if you opted for a partial demolition. For any future construction, especially involving foundations, a full pool demolition with proper engineered backfill and compaction is highly recommended. The soil must be stable and structurally sound to support new structures. A geotechnical engineer may be consulted to assess the soil conditions and certify the compaction. This ensures the integrity of any new construction.",
+        "@type": "Answer",
+        "description": "You can build on a demolished pool site, but a full demolition with proper engineered backfill is crucial for structural integrity, especially for new construction."
+      }
+    }
+  ],
+  "description": "You can build on a demolished pool site, but a full demolition with proper engineered backfill is crucial for structural integrity, especially for new construct"
+}

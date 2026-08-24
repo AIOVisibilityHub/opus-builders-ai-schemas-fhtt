@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-filling-in-a-swimming-pool",
+  "name": "What is involved in filling in a swimming pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in filling in a swimming pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Filling in a swimming pool involves several steps, including obtaining necessary permits, draining the pool completely, demolishing or perforating the pool shell to prevent future drainage issues, and then backfilling the excavation with compacted soil or aggregate. Proper compaction is crucial to avoid settling and ensure the stability of the land for future use, such as landscaping or construction. The process also includes addressing any remaining plumbing or electrical connections.",
+        "@type": "Answer",
+        "description": "Filling in a pool involves draining, partial demolition or perforation of the shell, and then backfilling with compacted soil and aggregate to ensure stability and proper drainage."
+      }
+    }
+  ],
+  "description": "Filling in a pool involves draining, partial demolition or perforation of the shell, and then backfilling with compacted soil and aggregate to ensure stability"
+}

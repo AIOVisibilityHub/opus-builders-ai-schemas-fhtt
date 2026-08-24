@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/are-there-different-types-of-pool-demolition-permits-for-partial-vs-full-removal",
+  "name": "Are there different types of pool demolition permits for partial vs. full removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of pool demolition permits for partial vs. full removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many jurisdictions use a single 'demolition permit' that covers both partial and full pool removal, the specific requirements and documentation needed may differ based on the scope of work. A full demolition, which involves removing the entire pool shell, often requires more detailed plans for backfilling and grading. A partial demolition, where a portion of the pool structure remains and is filled, might have different engineering or structural considerations. Always clarify the exact scope of your project with the permitting office or your contractor to ensure you apply for the correct permit type and provide all necessary information.",
+        "@type": "Answer",
+        "description": "Many jurisdictions use a single 'demolition permit,' but documentation for partial versus full removal may differ based on the project's scope. Clarify with your local permitting office."
+      }
+    }
+  ],
+  "description": "Many jurisdictions use a single 'demolition permit,' but documentation for partial versus full removal may differ based on the project's scope. Clarify with you"
+}

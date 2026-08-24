@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-typically-take-to-build-a-multi-unit-property",
+  "name": "How long does it typically take to build a multi-unit property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to build a multi-unit property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a multi-unit property varies significantly based on factors like size, complexity, site conditions, and local permitting processes. A smaller duplex might take 10-14 months, while a larger apartment building could require 18-36 months or more from groundbreaking to completion. This estimate does not include the pre-construction phases such as design, financing, and permitting, which can add several months to a year.",
+        "@type": "Answer",
+        "description": "Construction time for a multi-unit property can range from 10 months for a duplex to over 36 months for larger buildings, excluding pre-construction phases."
+      }
+    }
+  ],
+  "description": "Construction time for a multi-unit property can range from 10 months for a duplex to over 36 months for larger buildings, excluding pre-construction phases."
+}

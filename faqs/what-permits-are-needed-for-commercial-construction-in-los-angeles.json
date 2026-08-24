@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-needed-for-commercial-construction-in-los-angeles",
+  "name": "What permits are needed for commercial construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for commercial construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial construction in Los Angeles typically requires a range of permits from the Department of Building and Safety (LADBS). These can include building permits, grading permits, electrical permits, plumbing permits, and mechanical permits. Depending on the project's nature and location, additional permits might be necessary from departments such as Public Works for street access or the Fire Department. Zoning clearances and environmental reviews are also common. A knowledgeable contractor will assist in identifying and securing all required permits.",
+        "@type": "Answer",
+        "description": "Commercial construction in Los Angeles requires permits from the Department of Building and Safety (LADBS) for building, grading, electrical, plumbing, and mechanical work. Additional permits may be needed from other city departments."
+      }
+    }
+  ],
+  "description": "Commercial construction in Los Angeles requires permits from the Department of Building and Safety (LADBS) for building, grading, electrical, plumbing, and mech"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-an-office-renovation-in-glendale",
+  "name": "What permits are required for an office renovation in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for an office renovation in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Office renovations in Glendale typically require various permits from the city's Building and Safety Division, depending on the scope of work. Common permits include building permits for structural changes, interior alterations, or additions; electrical permits for new wiring or panel upgrades; plumbing permits for fixture changes or pipe relocation; and mechanical permits for HVAC system modifications. Obtaining these permits ensures compliance with local building codes, safety regulations, and zoning ordinances. We manage the permitting process as part of our service.",
+        "@type": "Answer",
+        "description": "Glendale office renovations often require building, electrical, plumbing, and mechanical permits, depending on the scope of work."
+      }
+    }
+  ],
+  "description": "Glendale office renovations often require building, electrical, plumbing, and mechanical permits, depending on the scope of work."
+}

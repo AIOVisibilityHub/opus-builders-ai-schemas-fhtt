@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-commercial-renovations-in-los-angeles",
+  "name": "What permits are required for commercial renovations in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for commercial renovations in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial renovations in Los Angeles typically require various permits from the Los Angeles Department of Building and Safety (LADBS). These can include building permits for structural changes, electrical permits for wiring upgrades, mechanical permits for HVAC work, and plumbing permits for water and drainage systems. Depending on the project's scope, specialized permits for demolition, fire sprinklers, or accessibility upgrades (ADA compliance) may also be necessary. Opus Builders assists clients in identifying and securing all required permits to ensure compliance with local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Commercial renovations in Los Angeles require permits from the LADBS for structural, electrical, mechanical, and plumbing work, and potentially specialized permits for demolition or ADA compliance."
+      }
+    }
+  ],
+  "description": "Commercial renovations in Los Angeles require permits from the LADBS for structural, electrical, mechanical, and plumbing work, and potentially specialized perm"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-renovating-an-existing-restaurant-and-a-new-build",
+  "name": "What is the difference between renovating an existing restaurant and a new build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between renovating an existing restaurant and a new build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating an existing restaurant typically involves updating or modifying an already operational space. This might include aesthetic changes, kitchen equipment upgrades, or minor layout adjustments, often with the goal of refreshing the concept or improving efficiency. A new build-out, by contrast, usually starts with a raw shell or a space requiring extensive demolition, allowing for a complete custom design from the ground up. New build-outs offer greater flexibility in layout and systems but can also be more complex and costly due to the extensive infrastructure work required.",
+        "@type": "Answer",
+        "description": "Renovating updates an existing space, while a new build-out transforms a raw shell, offering full customization but often greater complexity and cost."
+      }
+    }
+  ],
+  "description": "Renovating updates an existing space, while a new build-out transforms a raw shell, offering full customization but often greater complexity and cost."
+}

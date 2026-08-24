@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-a-general-contractor-manage-permits-and-regulations-for-commercial-proj",
+  "name": "How does a general contractor manage permits and regulations for commercial projects in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a general contractor manage permits and regulations for commercial projects in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor is responsible for navigating the complex permitting and regulatory landscape for commercial projects. This includes identifying all necessary permits, such as building, zoning, electrical, and plumbing, specific to the project's location in California. They prepare and submit applications, coordinate with local authorities for inspections, and ensure that all construction work complies with state and local building codes, environmental regulations, and safety standards. Their expertise helps prevent delays and ensure legal compliance.",
+        "@type": "Answer",
+        "description": "A general contractor handles all necessary permits and ensures compliance with California's state and local building codes and regulations for commercial projects."
+      }
+    }
+  ],
+  "description": "A general contractor handles all necessary permits and ensures compliance with California's state and local building codes and regulations for commercial projec"
+}

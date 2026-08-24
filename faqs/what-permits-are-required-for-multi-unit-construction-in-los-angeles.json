@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-multi-unit-construction-in-los-angeles",
+  "name": "What permits are required for multi-unit construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for multi-unit construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multi-unit construction in Los Angeles requires various permits from the Department of Building and Safety, including building permits, grading permits, and potentially demolition permits if an existing structure is being removed. Additional approvals may be needed from the Department of City Planning for zoning compliance, the Department of Public Works for infrastructure connections, and possibly environmental review. Specific requirements depend on the project's scale and location within the city.",
+        "@type": "Answer",
+        "description": "Multi-unit construction in Los Angeles requires building, grading, and potentially demolition permits, plus approvals from City Planning and Public Works for zoning and infrastructure."
+      }
+    }
+  ],
+  "description": "Multi-unit construction in Los Angeles requires building, grading, and potentially demolition permits, plus approvals from City Planning and Public Works for zo"
+}

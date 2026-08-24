@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-do-retail-tenant-improvement-projects-typically-take",
+  "name": "How long do retail tenant improvement projects typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do retail tenant improvement projects typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for retail tenant improvements varies significantly based on the project's complexity and scope. Minor cosmetic updates might take a few weeks, while extensive remodels involving structural changes, new plumbing, or advanced electrical systems could span several months. Key factors influencing the duration include permit acquisition times, material lead times, and the coordination of multiple trades. Opus Builders works to establish a realistic schedule upfront to minimize disruption and ensure timely completion.",
+        "@type": "Answer",
+        "description": "Project duration for retail tenant improvements depends on scope and complexity, ranging from weeks for minor updates to several months for extensive remodels."
+      }
+    }
+  ],
+  "description": "Project duration for retail tenant improvements depends on scope and complexity, ranging from weeks for minor updates to several months for extensive remodels."
+}

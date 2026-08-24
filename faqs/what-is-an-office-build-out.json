@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-an-office-build-out",
+  "name": "What is an office build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an office build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An office build-out, also known as tenant improvement, is the process of transforming a raw or unfinished commercial space into a functional office environment tailored to a business's specific needs. This can involve designing the layout, constructing walls, installing flooring, lighting, plumbing, HVAC systems, and finishing with paint and fixtures. The goal is to create a space that optimizes workflow, reflects the company culture, and provides a comfortable, productive setting for employees and clients.",
+        "@type": "Answer",
+        "description": "An office build-out transforms an unfinished commercial space into a functional office tailored to a business's specific needs."
+      }
+    }
+  ],
+  "description": "An office build-out transforms an unfinished commercial space into a functional office tailored to a business's specific needs."
+}

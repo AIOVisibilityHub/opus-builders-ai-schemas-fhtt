@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-commercial-contractor-for-my-ground-up-project",
+  "name": "How do I choose the right commercial contractor for my ground-up project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right commercial contractor for my ground-up project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting the right commercial contractor is crucial for a successful ground-up project. Look for contractors with proven experience in similar commercial builds, a strong portfolio, and positive client references. Evaluate their transparency in pricing, communication practices, and adherence to timelines. Ensure they are licensed, insured, and possess a thorough understanding of local building codes and regulations in your specific area, such as Pasadena or Glendale. Opus Builders emphasizes clear communication and a collaborative approach throughout every project.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in similar projects, a strong portfolio, positive references, transparent pricing, good communication, and local regulatory knowledge."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in similar projects, a strong portfolio, positive references, transparent pricing, good communication, and local regulatory"
+}

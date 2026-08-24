@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-pool-removal-in-the-los-angeles-area",
+  "name": "What permits are required for pool removal in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for pool removal in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Los Angeles area, including Glendale, Pasadena, and Burbank, pool removal typically requires specific demolition permits from your local city's building and safety department. Depending on the scope of work, additional permits may be necessary for plumbing or electrical disconnections. It is crucial to check with your specific municipality before starting any work, as requirements can vary. A qualified contractor will assist with identifying and securing all required permits to ensure compliance with local regulations.",
+        "@type": "Answer",
+        "description": "Pool removal in Los Angeles and surrounding cities usually requires demolition permits from the local building department, with potential additional permits for utility work. A contractor can assist with securing these."
+      }
+    }
+  ],
+  "description": "Pool removal in Los Angeles and surrounding cities usually requires demolition permits from the local building department, with potential additional permits for"
+}

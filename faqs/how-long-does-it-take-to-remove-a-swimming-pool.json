@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-take-to-remove-a-swimming-pool",
+  "name": "How long does it take to remove a swimming pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove a swimming pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a swimming pool removal project typically ranges from a few days to about a week, depending on the complexity and scope. Smaller, easily accessible pools with a partial demolition might be completed quicker, often within 2-3 days. Larger pools, those with difficult access, or projects requiring full excavation and extensive fill work can extend to 5-7 days or more. This timeframe also accounts for permit acquisition, utility disconnection, demolition, debris removal, and careful backfilling and compaction. Weather conditions and unforeseen site challenges can also influence the schedule.",
+        "@type": "Answer",
+        "description": "Pool removal usually takes 2-7 days, depending on pool size, type of demolition, site accessibility, and permit approval times. Larger or more complex projects may take longer."
+      }
+    }
+  ],
+  "description": "Pool removal usually takes 2-7 days, depending on pool size, type of demolition, site accessibility, and permit approval times. Larger or more complex projects"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-does-a-typical-office-construction-project-involve",
+  "name": "What does a typical office construction project involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a typical office construction project involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical office construction project with Opus Builders begins with a detailed consultation and site assessment to understand your business needs and space requirements. This is followed by design and planning, where our architects create functional and aesthetically pleasing layouts. Once designs are approved, we handle permitting, material procurement, and the construction phase, which includes structural work, interior build-out, and finishes. We emphasize transparent communication throughout, ensuring the project adheres to your vision, budget, and timeline, culminating in a ready-to-occupy office space.",
+        "@type": "Answer",
+        "description": "Office construction involves initial consultation, design, permitting, structural work, interior build-out, and final finishes to deliver a ready-to-occupy space."
+      }
+    }
+  ],
+  "description": "Office construction involves initial consultation, design, permitting, structural work, interior build-out, and final finishes to deliver a ready-to-occupy spac"
+}

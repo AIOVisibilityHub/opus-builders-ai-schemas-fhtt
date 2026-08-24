@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-should-i-consider-when-choosing-a-contractor-for-my-restaurant-project",
+  "name": "What should I consider when choosing a contractor for my restaurant project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a contractor for my restaurant project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your restaurant project, consider their experience with commercial kitchens and hospitality spaces. Look for a team with a proven track record, understanding of health codes, and ability to manage complex mechanical, electrical, and plumbing systems. References from past restaurant clients are valuable. Ensure they are licensed, insured, and communicate effectively, providing transparent bidding and project management. A contractor familiar with local Los Angeles regulations can streamline the process.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specific restaurant construction experience, a strong track record, relevant licenses, and excellent communication skills."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specific restaurant construction experience, a strong track record, relevant licenses, and excellent communication skills."
+}

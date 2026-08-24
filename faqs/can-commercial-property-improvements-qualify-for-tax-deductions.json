@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-commercial-property-improvements-qualify-for-tax-deductions",
+  "name": "Can commercial property improvements qualify for tax deductions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can commercial property improvements qualify for tax deductions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many commercial property improvements can qualify for tax deductions or depreciation, depending on their nature and the tax laws. Repairs and maintenance are typically expensed in the year incurred, while larger improvements that add value or extend the property's useful life are capitalized and depreciated over time. Certain energy-efficient upgrades may also qualify for specific tax incentives. It is essential to consult with a tax professional or accountant to understand the specific tax implications for your project and maximize potential benefits.",
+        "@type": "Answer",
+        "description": "Commercial property improvements can qualify for tax deductions or depreciation, depending on their nature; consult a tax professional for specifics."
+      }
+    }
+  ],
+  "description": "Commercial property improvements can qualify for tax deductions or depreciation, depending on their nature; consult a tax professional for specifics."
+}

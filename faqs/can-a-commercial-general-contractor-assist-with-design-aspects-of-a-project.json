@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-a-commercial-general-contractor-assist-with-design-aspects-of-a-project",
+  "name": "Can a commercial general contractor assist with design aspects of a project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a commercial general contractor assist with design aspects of a project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many commercial general contractors offer design-build services or collaborate closely with architects and designers. In a design-build model, the contractor leads both the design and construction phases, streamlining the process and fostering better communication. Even in traditional models, contractors can provide valuable input on constructability, material selection, and cost-effectiveness during the design phase. Opus Builders provides integrated design and construction services to ensure a cohesive and efficient project from conception to completion.",
+        "@type": "Answer",
+        "description": "Yes, many contractors offer design-build services or provide constructability and cost input during the design phase, streamlining the overall project."
+      }
+    }
+  ],
+  "description": "Yes, many contractors offer design-build services or provide constructability and cost input during the design phase, streamlining the overall project."
+}

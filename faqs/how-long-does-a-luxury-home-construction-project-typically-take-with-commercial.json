@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-luxury-home-construction-project-typically-take-with-commercial",
+  "name": "How long does a luxury home construction project typically take with commercial project management?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a luxury home construction project typically take with commercial project management?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a luxury home construction project varies significantly based on factors such as size, complexity of design, site conditions, and material selection. With effective commercial project management, a detailed timeline is established early on, which can range from 12 to 24 months or more for custom luxury builds. The project manager's role is to keep the project on track, mitigate delays, and manage stakeholder expectations regarding the schedule.",
+        "@type": "Answer",
+        "description": "Luxury home projects typically take 12-24 months or more, depending on complexity. A project manager aims to keep the project on schedule."
+      }
+    }
+  ],
+  "description": "Luxury home projects typically take 12-24 months or more, depending on complexity. A project manager aims to keep the project on schedule."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-opus-builders-help-with-office-design-as-well-as-construction",
+  "name": "Can Opus Builders help with office design as well as construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Opus Builders help with office design as well as construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Opus Builders offers comprehensive services that include both office design and construction, providing a streamlined design-build approach. Our team collaborates with you from conceptualization through completion, integrating architectural planning, interior design, and construction management. This integrated approach ensures continuity, reduces potential for miscommunication between designers and builders, and often results in more efficient project delivery and cost control. We focus on creating functional, aesthetically pleasing, and inspiring office environments tailored to your specific business needs and brand identity.",
+        "@type": "Answer",
+        "description": "Yes, Opus Builders provides comprehensive design-build services for offices, integrating architectural planning, interior design, and construction management for efficient project delivery and tailored results."
+      }
+    }
+  ],
+  "description": "Yes, Opus Builders provides comprehensive design-build services for offices, integrating architectural planning, interior design, and construction management fo"
+}

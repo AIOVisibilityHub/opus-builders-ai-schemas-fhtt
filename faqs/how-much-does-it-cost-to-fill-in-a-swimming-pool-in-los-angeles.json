@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-fill-in-a-swimming-pool-in-los-angeles",
+  "name": "How much does it cost to fill in a swimming pool in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fill in a swimming pool in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fill in a swimming pool in Los Angeles varies significantly based on factors such as pool size, type (concrete, fiberglass, vinyl liner), accessibility for equipment, and the method of fill (full demolition vs. partial demolition). Hauling away debris, the cost of fill materials, and labor contribute to the overall expense. Permits from local authorities, such as the Department of Building and Safety, also add to the cost. It's advisable to get a detailed quote after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs for pool fill-in in Los Angeles depend on pool size, type, demolition method, debris hauling, fill materials, labor, and permits, making an on-site quote essential."
+      }
+    }
+  ],
+  "description": "Costs for pool fill-in in Los Angeles depend on pool size, type, demolition method, debris hauling, fill materials, labor, and permits, making an on-site quote"
+}

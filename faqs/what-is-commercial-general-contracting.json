@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-commercial-general-contracting",
+  "name": "What is commercial general contracting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is commercial general contracting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial general contracting involves overseeing the entire construction project from start to finish for commercial properties. This includes managing subcontractors, ensuring quality control, adhering to schedules, and maintaining budget compliance. A general contractor acts as the primary point of contact, coordinating all trades and suppliers, and ensuring the project meets all specifications and regulatory requirements. They are responsible for the overall success and timely completion of the build.",
+        "@type": "Answer",
+        "description": "Commercial general contracting is the process of managing and overseeing the entire construction of a commercial property, from planning to completion."
+      }
+    }
+  ],
+  "description": "Commercial general contracting is the process of managing and overseeing the entire construction of a commercial property, from planning to completion."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-an-office-build-out-in-glendale",
+  "name": "What permits are required for an office build-out in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for an office build-out in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Office build-outs in Glendale typically require various permits, including building permits, electrical permits, plumbing permits, and potentially mechanical permits, depending on the scope of work. Structural changes, significant interior reconfigurations, or changes to plumbing/electrical systems will necessitate permits from the City of Glendale's Building and Safety Division. Opus Builders assists clients in navigating the complex permitting process, ensuring all necessary approvals are obtained before construction begins to avoid delays and ensure compliance.",
+        "@type": "Answer",
+        "description": "Office build-outs in Glendale require permits for building, electrical, plumbing, and mechanical work, depending on the project scope. Opus Builders assists with this process."
+      }
+    }
+  ],
+  "description": "Office build-outs in Glendale require permits for building, electrical, plumbing, and mechanical work, depending on the project scope. Opus Builders assists wit"
+}

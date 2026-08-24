@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-ground-up-commercial-construction",
+  "name": "What is ground-up commercial construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is ground-up commercial construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-up commercial construction involves building a new commercial structure from the foundation up on a previously undeveloped or cleared site. This process includes site preparation, laying foundations, erecting the building structure, and installing all necessary utilities, finishes, and landscaping. It differs from renovations or tenant improvements as it begins with a blank slate, offering complete customization over the design and functionality to meet specific business needs. Opus Builders specializes in creating bespoke commercial spaces tailored to our clients' visions.",
+        "@type": "Answer",
+        "description": "Ground-up commercial construction is the process of building a new commercial structure from the foundation on a undeveloped or cleared site, offering complete customization."
+      }
+    }
+  ],
+  "description": "Ground-up commercial construction is the process of building a new commercial structure from the foundation on a undeveloped or cleared site, offering complete"
+}

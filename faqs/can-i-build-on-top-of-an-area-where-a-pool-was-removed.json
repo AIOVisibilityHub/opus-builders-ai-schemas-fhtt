@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-build-on-top-of-an-area-where-a-pool-was-removed",
+  "name": "Can I build on top of an area where a pool was removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build on top of an area where a pool was removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building on an area where a pool was removed depends significantly on the type of removal performed. If a partial removal was done, the buried pool shell may not provide a stable foundation, and building on it is generally not recommended without further, extensive soil remediation. For full pool removals, where the entire structure is excavated and the void is filled with properly compacted, engineered fill dirt, it is often possible to build on the site. However, specific building codes and structural requirements will apply. Consulting with a structural engineer and your contractor is crucial to ensure the ground is suitable for new construction and meets all local regulations.",
+        "@type": "Answer",
+        "description": "Building on a former pool site is possible, especially after a full removal with properly compacted fill. Partial removals are generally not suitable for building without significant additional remediation."
+      }
+    }
+  ],
+  "description": "Building on a former pool site is possible, especially after a full removal with properly compacted fill. Partial removals are generally not suitable for buildi"
+}

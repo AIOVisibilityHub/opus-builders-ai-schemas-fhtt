@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-do-typical-commercial-improvement-projects-take",
+  "name": "How long do typical commercial improvement projects take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical commercial improvement projects take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of commercial improvement projects varies significantly based on their scope and complexity. Minor renovations, such as cosmetic updates to an office space, might take a few weeks. Larger projects, like a full interior remodel or structural alterations, can extend to several months. Factors influencing timelines include permit acquisition, material lead times, subcontractor scheduling, and the extent of demolition and construction. A detailed project schedule will be provided by Opus Builders, outlining key milestones and estimated completion dates, allowing for better planning and minimal disruption.",
+        "@type": "Answer",
+        "description": "Project duration varies: minor cosmetic updates take weeks, while major remodels can take months, depending on scope, permits, materials, and scheduling."
+      }
+    }
+  ],
+  "description": "Project duration varies: minor cosmetic updates take weeks, while major remodels can take months, depending on scope, permits, materials, and scheduling."
+}

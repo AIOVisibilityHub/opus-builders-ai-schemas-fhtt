@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-types-of-commercial-buildings-does-opus-builders-construct",
+  "name": "What types of commercial buildings does Opus Builders construct?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of commercial buildings does Opus Builders construct?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders specializes in constructing various types of commercial buildings, focusing on high-quality design and construction for businesses. Our portfolio includes office spaces, retail establishments, medical and dental offices, restaurant build-outs, and light industrial facilities. We adapt our expertise to meet the specific functional and aesthetic needs of each commercial client, ensuring the completed structure aligns with their brand and operational requirements. Our experience spans a diverse range of project scales and complexities.",
+        "@type": "Answer",
+        "description": "Opus Builders constructs various commercial buildings, including offices, retail spaces, medical/dental offices, restaurants, and light industrial facilities, tailored to each client's functional and aesthetic needs."
+      }
+    }
+  ],
+  "description": "Opus Builders constructs various commercial buildings, including offices, retail spaces, medical/dental offices, restaurants, and light industrial facilities, t"
+}

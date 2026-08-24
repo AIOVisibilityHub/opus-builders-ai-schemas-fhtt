@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-retail-construction-project-typically-take",
+  "name": "How long does a retail construction project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a retail construction project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a retail construction project varies significantly based on its scope, size, and complexity. A small tenant improvement for an existing space might take 2-4 months, while a ground-up construction of a larger retail store or shopping center could range from 9 months to over a year. Factors influencing the timeline include design complexity, permitting processes in areas like Los Angeles, material lead times, and the extent of specialized installations. We work closely with clients to establish realistic timelines and manage expectations from project inception.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope; small renovations might take 2-4 months, while new constructions can take 9 months to over a year, influenced by design and permitting."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope; small renovations might take 2-4 months, while new constructions can take 9 months to over a year, influenced by design and p"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-process-for-in-ground-pool-removal",
+  "name": "What is the typical process for in-ground pool removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for in-ground pool removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The pool removal process usually begins with obtaining necessary permits from local authorities. Next, the pool is drained, and utility lines like gas, electric, and water are disconnected and capped. The pool deck and surrounding hardscaping are then demolished. Depending on the method, the entire pool structure may be broken up and removed, or a partial removal may involve punching holes in the bottom and backfilling the cavity with appropriate materials. Finally, the area is compacted, and topsoil is added, preparing the site for new landscaping or construction.",
+        "@type": "Answer",
+        "description": "The process involves permitting, draining, disconnecting utilities, demolishing the deck, breaking up/removing the pool structure, backfilling, and compacting the area."
+      }
+    }
+  ],
+  "description": "The process involves permitting, draining, disconnecting utilities, demolishing the deck, breaking up/removing the pool structure, backfilling, and compacting t"
+}

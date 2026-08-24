@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-general-process-for-a-commercial-construction-project-managed-by-a-g",
+  "name": "What is the general process for a commercial construction project managed by a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general process for a commercial construction project managed by a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The commercial construction process typically begins with pre-construction services, including planning, budgeting, and permitting assistance. Next is the construction phase, where the general contractor oversees site preparation, foundation work, framing, systems installation (HVAC, electrical, plumbing), and interior finishes. Throughout, there's continuous project management, quality control, and communication. The process concludes with project closeout, final inspections, and commissioning, ensuring the client's full satisfaction and occupancy readiness.",
+        "@type": "Answer",
+        "description": "The process involves pre-construction planning, site preparation, construction oversight, quality control, and final closeout, managed entirely by the general contractor."
+      }
+    }
+  ],
+  "description": "The process involves pre-construction planning, site preparation, construction oversight, quality control, and final closeout, managed entirely by the general c"
+}

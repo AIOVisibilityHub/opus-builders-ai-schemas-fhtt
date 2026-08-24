@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-process-for-a-retail-build-out-with-opus-builders",
+  "name": "What is the typical process for a retail build-out with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a retail build-out with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our retail build-out process begins with an initial consultation to understand your vision, brand, and functional requirements. This is followed by detailed conceptual design and architectural planning, incorporating your input and our luxury expertise. Once designs are approved, we handle permit acquisition. The construction phase involves meticulous site preparation, structural work, interior finishing, and fixture installation, all managed with strict adherence to timelines and budget. We ensure regular communication and quality control through to final walkthrough and project handover.",
+        "@type": "Answer",
+        "description": "Opus Builders' retail build-out process includes consultation, design, permit acquisition, construction, and final handover, with continuous communication and quality control."
+      }
+    }
+  ],
+  "description": "Opus Builders' retail build-out process includes consultation, design, permit acquisition, construction, and final handover, with continuous communication and q"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-retail-tenant-improvements",
+  "name": "What are retail tenant improvements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are retail tenant improvements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Retail tenant improvements (TIs) are custom modifications made to a leased commercial space to prepare it for a specific tenant's business operations. These can range from minor cosmetic updates like painting and flooring to significant structural changes, electrical system upgrades, plumbing installations, and specialized fixtures. The scope depends on the tenant's needs, the landlord's building standards, and local building codes. TIs transform a vanilla shell or existing space into a functional and branded retail environment.",
+        "@type": "Answer",
+        "description": "Retail tenant improvements are custom modifications to a leased commercial space to fit a specific business's operational needs and brand."
+      }
+    }
+  ],
+  "description": "Retail tenant improvements are custom modifications to a leased commercial space to fit a specific business's operational needs and brand."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-benefits-of-sustainable-office-construction",
+  "name": "What are the benefits of sustainable office construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of sustainable office construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sustainable office construction incorporates environmentally friendly practices and materials to minimize environmental impact and enhance building performance. Benefits include reduced operating costs through energy-efficient systems and lower water consumption, improved indoor air quality and occupant comfort, and often increased property value. Sustainable design also demonstrates corporate social responsibility and can contribute to a healthier, more productive work environment. Opus Builders can integrate green building principles and materials to achieve your sustainability goals.",
+        "@type": "Answer",
+        "description": "Sustainable office construction reduces operating costs, improves indoor air quality, increases property value, and demonstrates corporate social responsibility through eco-friendly practices."
+      }
+    }
+  ],
+  "description": "Sustainable office construction reduces operating costs, improves indoor air quality, increases property value, and demonstrates corporate social responsibility"
+}

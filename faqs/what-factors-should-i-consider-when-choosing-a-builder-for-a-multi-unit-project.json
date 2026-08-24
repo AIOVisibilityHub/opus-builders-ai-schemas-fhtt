@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-should-i-consider-when-choosing-a-builder-for-a-multi-unit-project",
+  "name": "What factors should I consider when choosing a builder for a multi-unit project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a builder for a multi-unit project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a builder for a multi-unit project, consider their experience with similar-scale developments, their track record for completing projects on time and within budget, and their familiarity with local zoning and building regulations in areas like Los Angeles or Pasadena. Verify their licensing, insurance, and obtain references from previous clients. Assess their project management capabilities, communication style, and their ability to collaborate effectively with architects and engineers. A builder's financial stability is also a key consideration.",
+        "@type": "Answer",
+        "description": "Choose a builder with extensive experience in multi-unit projects, a proven track record, familiarity with local regulations, strong project management, and solid references."
+      }
+    }
+  ],
+  "description": "Choose a builder with extensive experience in multi-unit projects, a proven track record, familiarity with local regulations, strong project management, and sol"
+}

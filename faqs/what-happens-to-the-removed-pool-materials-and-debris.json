@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-happens-to-the-removed-pool-materials-and-debris",
+  "name": "What happens to the removed pool materials and debris?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the removed pool materials and debris?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the pool removal process, all excavated materials and debris are carefully collected and removed from your property. This typically includes concrete, rebar, tile, and other construction components. Responsible disposal is a key part of the service. We ensure that all materials are transported to appropriate recycling facilities or licensed landfills, adhering to local regulations for waste management. Our aim is to minimize environmental impact while efficiently clearing your site. The costs associated with debris removal and disposal are typically factored into the overall project estimate.",
+        "@type": "Answer",
+        "description": "Removed pool materials and debris, such as concrete and rebar, are collected, hauled away, and disposed of at recycling facilities or licensed landfills in accordance with local regulations."
+      }
+    }
+  ],
+  "description": "Removed pool materials and debris, such as concrete and rebar, are collected, hauled away, and disposed of at recycling facilities or licensed landfills in acco"
+}

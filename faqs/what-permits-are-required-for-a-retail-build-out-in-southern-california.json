@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-a-retail-build-out-in-southern-california",
+  "name": "What permits are required for a retail build-out in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a retail build-out in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Retail build-outs in Southern California typically require several permits, including building permits, electrical permits, plumbing permits, and mechanical permits from the local city or county building department. Depending on the scope, you might also need fire permits, health department approvals, or specific zoning variances, especially in densely regulated areas like West Hollywood or Santa Monica. Opus Builders assists clients in navigating this complex permitting process to ensure compliance and avoid delays.",
+        "@type": "Answer",
+        "description": "Permits for retail build-outs in Southern California include building, electrical, plumbing, and mechanical permits, with additional fire or health approvals often required."
+      }
+    }
+  ],
+  "description": "Permits for retail build-outs in Southern California include building, electrical, plumbing, and mechanical permits, with additional fire or health approvals of"
+}

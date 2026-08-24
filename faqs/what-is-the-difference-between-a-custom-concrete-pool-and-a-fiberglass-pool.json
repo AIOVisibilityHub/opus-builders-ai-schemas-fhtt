@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-custom-concrete-pool-and-a-fiberglass-pool",
+  "name": "What is the difference between a custom concrete pool and a fiberglass pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom concrete pool and a fiberglass pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom concrete pools, also known as gunite or shotcrete pools, offer unparalleled design flexibility in terms of shape, size, and depth, allowing for truly unique, bespoke designs. They are built on-site and are highly durable. Fiberglass pools, on the other hand, are prefabricated shells installed as a single unit, leading to quicker installation times and a smooth, non-porous surface that is less prone to algae and requires less chemical maintenance. While fiberglass offers fewer design options, concrete pools allow for infinite customization.",
+        "@type": "Answer",
+        "description": "Custom concrete pools offer design flexibility and durability, while fiberglass pools provide faster installation and lower maintenance due to their pre-formed shells."
+      }
+    }
+  ],
+  "description": "Custom concrete pools offer design flexibility and durability, while fiberglass pools provide faster installation and lower maintenance due to their pre-formed"
+}

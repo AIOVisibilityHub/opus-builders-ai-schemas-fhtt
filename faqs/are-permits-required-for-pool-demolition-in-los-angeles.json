@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/are-permits-required-for-pool-demolition-in-los-angeles",
+  "name": "Are permits required for pool demolition in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are permits required for pool demolition in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are typically required for pool demolition projects within Los Angeles and surrounding areas. The specific requirements can vary by municipality (e.g., Los Angeles, Glendale, Pasadena), but generally, you'll need to apply for a demolition permit and potentially an electrical permit for disconnecting power. A licensed contractor familiar with local building codes will manage this process, ensuring all necessary documentation is submitted and approvals are secured before work begins. Operating without proper permits can lead to fines and project delays.",
+        "@type": "Answer",
+        "description": "Yes, permits are generally required for pool demolition in Los Angeles and nearby cities. A licensed contractor will handle the permit process."
+      }
+    }
+  ],
+  "description": "Yes, permits are generally required for pool demolition in Los Angeles and nearby cities. A licensed contractor will handle the permit process."
+}

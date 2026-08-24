@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-a-permit-to-fill-in-my-swimming-pool-in-los-angeles-county",
+  "name": "Do I need a permit to fill in my swimming pool in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to fill in my swimming pool in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, typically a permit is required to fill in a swimming pool in Los Angeles County and its surrounding cities. This is because the process involves significant excavation, demolition, and changes to the property's drainage and grading. Local building departments, such as the Los Angeles Department of Building and Safety, oversee these regulations to ensure safety and proper environmental impact. Failing to obtain the necessary permits can result in fines and requirements to redo the work. Always consult your local municipality before starting any work.",
+        "@type": "Answer",
+        "description": "Yes, permits are generally required in Los Angeles County for pool fill-ins due to excavation, demolition, and grading changes. Consult your local building department."
+      }
+    }
+  ],
+  "description": "Yes, permits are generally required in Los Angeles County for pool fill-ins due to excavation, demolition, and grading changes. Consult your local building depa"
+}

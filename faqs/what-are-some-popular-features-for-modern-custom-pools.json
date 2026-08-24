@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-some-popular-features-for-modern-custom-pools",
+  "name": "What are some popular features for modern custom pools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are some popular features for modern custom pools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern custom pools often integrate a variety of features to enhance aesthetics and functionality. Popular additions include infinity edges (negative edges) that create a vanishing water effect, integrated spas with hydrotherapy jets, LED lighting for ambiance and safety, and automated control systems for water chemistry, heating, and lighting. Other sought-after elements include sun shelves (baja shelves), custom water features like sheer descents or waterfalls, and energy-efficient equipment like variable-speed pumps and solar heating.",
+        "@type": "Answer",
+        "description": "Popular modern pool features include infinity edges, integrated spas, LED lighting, automation systems, sun shelves, and various water features."
+      }
+    }
+  ],
+  "description": "Popular modern pool features include infinity edges, integrated spas, LED lighting, automation systems, sun shelves, and various water features."
+}

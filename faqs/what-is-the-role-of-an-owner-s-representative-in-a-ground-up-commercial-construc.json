@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-role-of-an-owner-s-representative-in-a-ground-up-commercial-construc",
+  "name": "What is the role of an owner's representative in a ground-up commercial construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of an owner's representative in a ground-up commercial construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An owner's representative acts on behalf of the client throughout the construction process, serving as a liaison between the owner, architect, and contractor. Their role involves overseeing the project to ensure it aligns with the owner's goals, budget, and schedule. This includes reviewing contracts, monitoring progress, managing consultants, and facilitating communication. An owner's representative can be particularly valuable for clients who lack extensive construction experience or time, providing expert guidance and advocacy to protect their interests.",
+        "@type": "Answer",
+        "description": "An owner's representative acts on the client's behalf, overseeing the project, managing communication, and ensuring goals, budget, and schedule are met."
+      }
+    }
+  ],
+  "description": "An owner's representative acts on the client's behalf, overseeing the project, managing communication, and ensuring goals, budget, and schedule are met."
+}

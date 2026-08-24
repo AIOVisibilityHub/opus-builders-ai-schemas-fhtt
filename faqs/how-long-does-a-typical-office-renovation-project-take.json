@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-office-renovation-project-take",
+  "name": "How long does a typical office renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical office renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an office renovation varies significantly based on its scope and complexity. A minor cosmetic update might take a few weeks, while a comprehensive structural overhaul or a complete redesign could extend to several months. Factors influencing the timeline include the size of the space, the extent of design changes, the need for permits, material procurement lead times, and the availability of specialized trades. A detailed project schedule will be provided after the initial planning and design phases are complete.",
+        "@type": "Answer",
+        "description": "Project timelines vary; minor updates take weeks, major renovations can take several months, depending on scope, design, and permitting."
+      }
+    }
+  ],
+  "description": "Project timelines vary; minor updates take weeks, major renovations can take several months, depending on scope, design, and permitting."
+}

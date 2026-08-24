@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-partial-pool-removal-and-a-full-pool-removal",
+  "name": "What is the difference between a partial pool removal and a full pool removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a partial pool removal and a full pool removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Partial pool removal, also known as a 'fill-in' or 'abandonment,' involves demolishing the top 18-36 inches of the pool walls, puncturing the bottom for drainage, and then backfilling the remaining shell with dirt. This method is often less expensive and quicker. Full pool removal, conversely, involves completely excavating the entire pool structure, including all concrete, rebar, and liner materials, and hauling them away. The excavated area is then filled with engineered soil. Full removal is more costly and time-consuming but eliminates any future issues associated with the buried pool structure, offering more flexibility for future use of the land.",
+        "@type": "Answer",
+        "description": "Partial removal demolishes only the top section and fills the rest, while full removal excavates the entire pool structure. Full removal is more expensive but provides complete removal."
+      }
+    }
+  ],
+  "description": "Partial removal demolishes only the top section and fills the rest, while full removal excavates the entire pool structure. Full removal is more expensive but p"
+}

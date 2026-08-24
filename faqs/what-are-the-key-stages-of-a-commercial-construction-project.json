@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-key-stages-of-a-commercial-construction-project",
+  "name": "What are the key stages of a commercial construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key stages of a commercial construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical commercial construction project involves several key stages. It begins with pre-construction, which includes planning, design, budgeting, and securing permits. Next is site preparation, where the land is cleared and graded. The foundation is then laid, followed by the structural framing. After the building's shell is complete, mechanical, electrical, and plumbing systems are installed, alongside interior and exterior finishes. Finally, the project undergoes inspections, commissioning, and client handover.",
+        "@type": "Answer",
+        "description": "Key stages include pre-construction (planning, design, permits), site preparation, foundation, structural framing, MEP installation, interior/exterior finishes, and final inspections before handover."
+      }
+    }
+  ],
+  "description": "Key stages include pre-construction (planning, design, permits), site preparation, foundation, structural framing, MEP installation, interior/exterior finishes,"
+}

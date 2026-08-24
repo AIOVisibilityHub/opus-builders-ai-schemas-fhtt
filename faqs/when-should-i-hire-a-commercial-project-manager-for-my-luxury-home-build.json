@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-hire-a-commercial-project-manager-for-my-luxury-home-build",
+  "name": "When should I hire a commercial project manager for my luxury home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a commercial project manager for my luxury home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to engage a commercial project manager as early as possible, ideally during the initial design and planning phase. Their involvement from the outset allows for crucial input on feasibility, cost-effectiveness, and potential challenges. Early engagement helps establish a realistic budget and timeline, optimizes material selection, and ensures seamless coordination with architects, designers, and engineers, preventing costly revisions later in the project.",
+        "@type": "Answer",
+        "description": "Engage a commercial project manager early in the design and planning phase to ensure feasibility, cost-effectiveness, and smooth coordination."
+      }
+    }
+  ],
+  "description": "Engage a commercial project manager early in the design and planning phase to ensure feasibility, cost-effectiveness, and smooth coordination."
+}

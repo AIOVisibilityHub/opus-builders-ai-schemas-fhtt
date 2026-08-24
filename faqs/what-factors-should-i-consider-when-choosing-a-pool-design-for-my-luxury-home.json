@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-should-i-consider-when-choosing-a-pool-design-for-my-luxury-home",
+  "name": "What factors should I consider when choosing a pool design for my luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a pool design for my luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a pool design for your luxury home, consider how it integrates with your existing architecture and landscape. Think about the primary use: entertaining, exercise, or relaxation. Evaluate factors like size, shape, depth, and entry points, as well as desired features such as infinity edges, tanning ledges, or integrated spas. Material selections for decking, coping, and interior finishes also play a crucial role in aesthetics and maintenance. We guide clients through these decisions to create a cohesive and functional outdoor space.",
+        "@type": "Answer",
+        "description": "Consider integration with your home's architecture, primary use, size, shape, features, and material selections when choosing a pool design."
+      }
+    }
+  ],
+  "description": "Consider integration with your home's architecture, primary use, size, shape, features, and material selections when choosing a pool design."
+}

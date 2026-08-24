@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-opus-builders-handle-retail-construction-projects-for-both-new-builds-and-ex",
+  "name": "Can Opus Builders handle retail construction projects for both new builds and existing space renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Opus Builders handle retail construction projects for both new builds and existing space renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Opus Builders has extensive experience in both new retail construction and the renovation or tenant improvement of existing commercial spaces. For new builds, we manage the entire process from ground-up development to final fit-out. For renovations, we specialize in transforming existing footprints to meet new brand standards, improve functionality, or upgrade aesthetics, often working within operational constraints. Our expertise covers adapting to various site conditions and structural requirements, ensuring a seamless transition or fresh start for your retail business.",
+        "@type": "Answer",
+        "description": "Yes, Opus Builders handles both new retail construction and renovations, managing projects from ground-up development to transforming existing spaces to meet new needs."
+      }
+    }
+  ],
+  "description": "Yes, Opus Builders handles both new retail construction and renovations, managing projects from ground-up development to transforming existing spaces to meet ne"
+}

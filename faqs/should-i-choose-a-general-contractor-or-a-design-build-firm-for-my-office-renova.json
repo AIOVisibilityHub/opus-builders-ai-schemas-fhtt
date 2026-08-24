@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/should-i-choose-a-general-contractor-or-a-design-build-firm-for-my-office-renova",
+  "name": "Should I choose a general contractor or a design-build firm for my office renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a general contractor or a design-build firm for my office renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between a general contractor and a design-build firm depends on your project's needs. A general contractor executes plans provided by a separate architect or designer. A design-build firm, like Opus Builders, offers integrated services, managing both design and construction under one contract. This approach often leads to better communication, streamlined processes, fewer disputes, and a single point of accountability, potentially saving time and cost while ensuring design intent is fully realized.",
+        "@type": "Answer",
+        "description": "A design-build firm integrates design and construction under one contract, offering streamlined communication and single accountability, unlike a general contractor."
+      }
+    }
+  ],
+  "description": "A design-build firm integrates design and construction under one contract, offering streamlined communication and single accountability, unlike a general contra"
+}

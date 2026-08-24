@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-a-contractor-who-handles-pool-demolition-permits",
+  "name": "How do I choose a contractor who handles pool demolition permits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor who handles pool demolition permits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for pool demolition, look for one with extensive experience in your local area (e.g., Los Angeles, Glendale) and a strong track record of successfully obtaining demolition permits. Ensure they are licensed, bonded, and insured. A reputable contractor will be knowledgeable about local building codes and permitting requirements, capable of preparing all necessary documentation, and can guide you through the application process. Ask for references, view their portfolio, and confirm they will manage the entire permitting process on your behalf, from application submission to final inspection.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor experienced in local pool demolition and permitting. Ensure they handle all documentation and guide you through the entire process."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor experienced in local pool demolition and permitting. Ensure they handle all documentation and guide you through the entire"
+}

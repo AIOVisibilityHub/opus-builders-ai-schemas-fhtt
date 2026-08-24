@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/will-removing-my-pool-affect-my-property-value-or-home-insurance",
+  "name": "Will removing my pool affect my property value or home insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will removing my pool affect my property value or home insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a swimming pool can impact both property value and home insurance, though the effects vary. For property value, if the pool is old, unused, or a significant liability, its removal can increase appeal to buyers who prefer a larger yard or less maintenance, potentially boosting value. Conversely, for some buyers, a well-maintained pool is a desirable amenity, and its removal might be seen as a decrease. Regarding insurance, removing a pool often leads to a reduction in premiums, as pools are considered an 'attractive nuisance' and carry higher liability risks, which homeowners' insurance policies cover. It's advisable to consult with a local real estate agent and your insurance provider to understand the specific implications for your home.",
+        "@type": "Answer",
+        "description": "Removing a pool can increase property value if it was a liability or free up yard space, but may decrease it for buyers who desire a pool. It often reduces home insurance premiums due to lower liability risk."
+      }
+    }
+  ],
+  "description": "Removing a pool can increase property value if it was a liability or free up yard space, but may decrease it for buyers who desire a pool. It often reduces home"
+}

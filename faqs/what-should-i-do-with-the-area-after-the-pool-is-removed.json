@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-should-i-do-with-the-area-after-the-pool-is-removed",
+  "name": "What should I do with the area after the pool is removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do with the area after the pool is removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your pool is removed and the area is backfilled and compacted, you have numerous options for utilizing the newly reclaimed space. Many homeowners choose to expand their landscaping with new gardens, trees, or a larger lawn. You could also install a patio, deck, or outdoor kitchen to enhance your entertaining area. For those considering future structures, ensure the backfill meets engineering standards. Discuss your future plans with your contractor to ensure the site is prepared appropriately for its next purpose.",
+        "@type": "Answer",
+        "description": "After pool removal, you can expand landscaping, install a patio or deck, or prepare the site for future construction. Discuss plans with your contractor."
+      }
+    }
+  ],
+  "description": "After pool removal, you can expand landscaping, install a patio or deck, or prepare the site for future construction. Discuss plans with your contractor."
+}

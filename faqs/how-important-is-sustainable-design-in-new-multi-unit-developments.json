@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-important-is-sustainable-design-in-new-multi-unit-developments",
+  "name": "How important is sustainable design in new multi-unit developments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How important is sustainable design in new multi-unit developments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sustainable design is increasingly important in new multi-unit developments due to environmental concerns, rising energy costs, and growing tenant demand for eco-friendly living spaces. Incorporating features like energy-efficient HVAC systems, solar panels, water-saving fixtures, and sustainable materials can lead to lower operating costs, higher property values, and enhanced marketability. Many jurisdictions, including parts of California, also offer incentives or require certain green building standards.",
+        "@type": "Answer",
+        "description": "Sustainable design is crucial for multi-unit developments, offering lower operating costs, higher property values, and meeting tenant demand, often with regulatory incentives."
+      }
+    }
+  ],
+  "description": "Sustainable design is crucial for multi-unit developments, offering lower operating costs, higher property values, and meeting tenant demand, often with regulat"
+}

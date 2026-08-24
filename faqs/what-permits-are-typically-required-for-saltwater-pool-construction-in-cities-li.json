@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-typically-required-for-saltwater-pool-construction-in-cities-li",
+  "name": "What permits are typically required for saltwater pool construction in cities like Glendale or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for saltwater pool construction in cities like Glendale or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For saltwater pool construction in cities like Glendale or Pasadena, several permits are typically required. These commonly include a building permit for the pool structure itself, electrical permits for the pump, lighting, and salt chlorine generator, and sometimes plumbing permits. Depending on the scope, grading permits or permits for fencing/barriers might also be necessary. Our team manages the entire permitting process, ensuring compliance with all local zoning ordinances and safety regulations.",
+        "@type": "Answer",
+        "description": "Cities like Glendale or Pasadena typically require building, electrical, and potentially plumbing, grading, or fencing permits for saltwater pool construction. Our team handles the permitting process."
+      }
+    }
+  ],
+  "description": "Cities like Glendale or Pasadena typically require building, electrical, and potentially plumbing, grading, or fencing permits for saltwater pool construction."
+}

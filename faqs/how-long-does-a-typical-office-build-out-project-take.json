@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-office-build-out-project-take",
+  "name": "How long does a typical office build-out project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical office build-out project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an office build-out varies significantly based on the project's scope and complexity. A small renovation might take a few weeks, while a comprehensive build-out of a large, raw space could extend to several months. Factors influencing the timeline include design finalization, permitting processes, material procurement, and the specific trades involved. Opus Builders works to provide a detailed project schedule upfront, aiming for efficient execution while maintaining quality.",
+        "@type": "Answer",
+        "description": "Project timelines vary, from a few weeks for small renovations to several months for large, complex build-outs, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "Project timelines vary, from a few weeks for small renovations to several months for large, complex build-outs, depending on scope and complexity."
+}

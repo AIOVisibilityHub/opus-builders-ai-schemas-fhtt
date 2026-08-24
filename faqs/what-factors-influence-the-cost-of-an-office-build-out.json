@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-an-office-build-out",
+  "name": "What factors influence the cost of an office build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an office build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors determine the cost of an office build-out, including the size of the space, the complexity of the design, the quality of materials chosen, and the extent of structural or mechanical modifications required. Custom features, advanced technology integration, and premium finishes will increase costs. Opus Builders provides transparent pricing, offering detailed estimates that break down expenses for design, materials, labor, and permits, helping clients make informed decisions within their budget.",
+        "@type": "Answer",
+        "description": "Costs are influenced by space size, design complexity, material quality, and structural modifications. Custom features and premium finishes also impact the final price."
+      }
+    }
+  ],
+  "description": "Costs are influenced by space size, design complexity, material quality, and structural modifications. Custom features and premium finishes also impact the fina"
+}
