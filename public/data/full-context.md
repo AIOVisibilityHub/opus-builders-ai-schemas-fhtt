@@ -20,6 +20,7 @@ Opus Builders publishes a structured AI Data Package designed for high-trust dis
 - [canonical] Opus Builders — canonical website — https://opusbuilders.aiovisibility.net
 - [ai-data-hub] Opus Builders — AI Data Hub — https://opusbuilders.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/opus-builders-ai-schemas-fhtt
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/opus-builders-ai-schemas-fhtt/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

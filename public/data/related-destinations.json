@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-24T00:15:13.423Z",
+  "generatedAt": "2026-08-24T00:15:50.549Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -31,12 +31,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/opus-builders-ai-schemas-fhtt"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/opus-builders-ai-schemas-fhtt/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/opus-builders-ai-schemas-fhtt",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/opus-builders-ai-schemas-fhtt/",
       "repo": "AIOVisibilityHub/opus-builders-ai-schemas-fhtt"
     }
   }

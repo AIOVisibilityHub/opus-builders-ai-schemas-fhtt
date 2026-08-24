@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-24T00:15:13.439Z",
+  "generatedAt": "2026-08-24T00:15:50.574Z",
   "client": {
     "name": "Opus Builders",
     "canonicalUrl": "https://opusbuilders.aiovisibility.net",
@@ -190,7 +190,7 @@
   },
   "package": {
     "totalFiles": 1478,
-    "totalBytes": 8914319,
+    "totalBytes": 8864897,
     "stats": {
       "faqs": 1207,
       "helpArticles": 0,
@@ -7512,47 +7512,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 18318,
+        "bytes": 12530,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 23604,
+        "bytes": 17936,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 482118,
+        "bytes": 476225,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 18514,
+        "bytes": 13044,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 14882,
+        "bytes": 9337,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 986094,
+        "bytes": 980448,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 16863,
+        "bytes": 11330,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 463458,
+        "bytes": 457961,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "qnas.html",
-        "bytes": 3411920,
+        "bytes": 3406340,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -7564,7 +7564,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4940,
+        "bytes": 5069,
         "purpose": "LLM hint"
       },
       {
@@ -7584,32 +7584,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1361,
+        "bytes": 1638,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 676911,
+        "bytes": 677187,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 185513,
+        "bytes": 185642,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 185513,
+        "bytes": 185642,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4967,
+        "bytes": 5096,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 238105,
+        "bytes": 238234,
         "purpose": "Repository README"
       },
       {
@@ -7627,7 +7627,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/opus-builders-ai-schemas-fhtt",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/opus-builders-ai-schemas-fhtt/",
       "repo": "AIOVisibilityHub/opus-builders-ai-schemas-fhtt"
     }
   }
