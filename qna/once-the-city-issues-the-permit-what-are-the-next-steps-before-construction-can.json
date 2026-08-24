@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/once-the-city-issues-the-permit-what-are-the-next-steps-before-construction-can",
+  "name": "What happens after the addition permit is approved?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Once the city issues the permit, what are the next steps before construction can start?",
+    "text": "Once the city issues the permit, what are the next steps before construction can start?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "After a home addition permit is approved, the project is not quite ready until the actual permit has been issued and posted as required. The contractor should confirm that all fees are paid, trade permits are in place, and the approved plans are available on-site. Before work starts, it also helps to review the inspection sequence so the crew knows when to call for each required check. This is the stage where many projects move from paperwork to execution, but mistakes can still happen if the team assumes approval automatically means permission to begin. A clean handoff from permit issuance to construction scheduling prevents delays and keeps the work aligned with the approved drawings.",
+      "@type": "Answer",
+      "description": "After approval, the permit must be issued, posted on-site, and tied to the final construction schedule. The homeowner or contractor should confirm inspection milestones, keep approved plans available, and make sure trade permits are in place. Work should not begin until every required approval is active.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "After a home addition permit is approved, the project is not quite ready until the actual permit has been issued and posted as required. The contractor should confirm that all fees are paid, trade permits are in place, and the approved plans are available on-site. Before work starts, it also helps to review the inspection sequence so the crew knows when to call for each required check. This is the stage where many projects move from paperwork to execution, but mistakes can still happen if the team assumes approval automatically means permission to begin. A clean handoff from permit issuance to construction scheduling prevents delays and keeps the work aligned with the approved drawings.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "After approval, the permit must be issued, posted on-site, and tied to the final construction schedule. The homeowner or contractor should confirm inspection mi"
+}

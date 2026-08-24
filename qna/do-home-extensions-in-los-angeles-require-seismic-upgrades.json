@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-home-extensions-in-los-angeles-require-seismic-upgrades",
+  "name": "Do home extensions in Los Angeles require seismic upgrades?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do home extensions in Los Angeles require seismic upgrades?",
+    "text": "Do home extensions in Los Angeles require seismic upgrades?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A home extension can trigger seismic or lateral upgrades if the existing structure does not meet current requirements for the new work. This is especially common in older homes, homes with weak framing, or projects that add a second story or significant openings. Even when a full seismic retrofit is not required, the new addition may need to tie into the existing house in a way that improves overall stability. That can include reinforced shear walls, upgraded hold-downs, foundation work, or new framing connections. The key issue is whether the addition changes how forces move through the building. Homeowners should not assume the city will treat the new work as isolated from the old structure. A structural engineer should review the home early so the design team can account for reinforcement in the budget and avoid redesign later.",
+      "@type": "Answer",
+      "description": "Sometimes. If the addition changes the structure or reveals inadequate framing, the existing home may need seismic or lateral strengthening as part of the permit set. The exact requirement depends on the home’s age, structure, and scope of work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A home extension can trigger seismic or lateral upgrades if the existing structure does not meet current requirements for the new work. This is especially common in older homes, homes with weak framing, or projects that add a second story or significant openings. Even when a full seismic retrofit is not required, the new addition may need to tie into the existing house in a way that improves overall stability. That can include reinforced shear walls, upgraded hold-downs, foundation work, or new framing connections. The key issue is whether the addition changes how forces move through the building. Homeowners should not assume the city will treat the new work as isolated from the old structure. A structural engineer should review the home early so the design team can account for reinforcement in the budget and avoid redesign later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes. If the addition changes the structure or reveals inadequate framing, the existing home may need seismic or lateral strengthening as part of the permi"
+}

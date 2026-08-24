@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-kitchen-appliances-be-ordered-before-cabinets-are-built-or-can-they-be-ch",
+  "name": "Should I replace appliances before or after cabinets?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should kitchen appliances be ordered before cabinets are built, or can they be chosen later?",
+    "text": "Should kitchen appliances be ordered before cabinets are built, or can they be chosen later?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Appliances should usually be selected early in a kitchen remodel because cabinet design depends on the exact appliance sizes and specifications. The refrigerator opening, range width, panel-ready clearances, dishwasher fit, hood sizing, and electrical or gas requirements all affect the cabinet plan. If appliance decisions are left too late, the project can run into fit problems, filler gaps, or expensive redesign. This is especially important for luxury kitchens where integrated appliances and custom panels are common. Homeowners should give the contractor and cabinet designer the model numbers as early as possible so the drawings can reflect real dimensions. It is also smart to confirm delivery timing, since long-lead appliances can delay installation if they are not on site when needed. The best practice is to choose appliances before final cabinet fabrication so the kitchen is designed around the actual equipment, not assumptions.",
+      "@type": "Answer",
+      "description": "Appliances should usually be selected early because cabinet dimensions, electrical requirements, plumbing locations, and ventilation depend on their exact sizes. Waiting too long can cause fit problems and force expensive changes during installation.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Appliances should usually be selected early in a kitchen remodel because cabinet design depends on the exact appliance sizes and specifications. The refrigerator opening, range width, panel-ready clearances, dishwasher fit, hood sizing, and electrical or gas requirements all affect the cabinet plan. If appliance decisions are left too late, the project can run into fit problems, filler gaps, or expensive redesign. This is especially important for luxury kitchens where integrated appliances and custom panels are common. Homeowners should give the contractor and cabinet designer the model numbers as early as possible so the drawings can reflect real dimensions. It is also smart to confirm delivery timing, since long-lead appliances can delay installation if they are not on site when needed. The best practice is to choose appliances before final cabinet fabrication so the kitchen is designed around the actual equipment, not assumptions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Appliances should usually be selected early because cabinet dimensions, electrical requirements, plumbing locations, and ventilation depend on their exact sizes"
+}

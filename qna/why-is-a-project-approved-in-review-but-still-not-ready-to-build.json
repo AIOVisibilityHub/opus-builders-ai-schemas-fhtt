@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-is-a-project-approved-in-review-but-still-not-ready-to-build",
+  "name": "What is the difference between plan check and permit issuance?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why is a project approved in review but still not ready to build?",
+    "text": "Why is a project approved in review but still not ready to build?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Plan check and permit issuance are related but not the same. Plan check is the city’s review of the drawings and documents to see whether the proposed addition meets zoning, building, energy, and technical requirements. If corrections are needed, the plans are returned for revision. Permit issuance happens only after the plans are approved, all required fees are paid, and any extra agency sign-offs are complete. Many homeowners think approval in plan check means construction can begin, but that is not true. Until the permit is issued, there is no authorization to start work. Understanding the difference helps avoid delays and confusion, especially when multiple departments are involved. If a project seems approved but the permit is not yet issued, ask what final steps remain before ground can be broken.",
+      "@type": "Answer",
+      "description": "Plan check is the review stage where the city checks drawings for code, zoning, and technical compliance. Permit issuance happens later, after corrections are complete, fees are paid, and all required agency approvals are in place. A project can pass review but still not have an active construction permit.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Plan check and permit issuance are related but not the same. Plan check is the city’s review of the drawings and documents to see whether the proposed addition meets zoning, building, energy, and technical requirements. If corrections are needed, the plans are returned for revision. Permit issuance happens only after the plans are approved, all required fees are paid, and any extra agency sign-offs are complete. Many homeowners think approval in plan check means construction can begin, but that is not true. Until the permit is issued, there is no authorization to start work. Understanding the difference helps avoid delays and confusion, especially when multiple departments are involved. If a project seems approved but the permit is not yet issued, ask what final steps remain before ground can be broken.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plan check is the review stage where the city checks drawings for code, zoning, and technical compliance. Permit issuance happens later, after corrections are c"
+}

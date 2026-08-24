@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-some-additions-look-awkward-even-when-they-are-well-built",
+  "name": "What design mistakes make an attached addition feel disconnected?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do some additions look awkward even when they are well built?",
+    "text": "Why do some additions look awkward even when they are well built?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An attached addition can be technically correct and still feel wrong if the design does not respect the original house. Common mistakes include mismatched roof pitches, awkward hallway connections, ceiling-height jumps, poorly placed windows, and exterior materials that clash with the existing home. Interior flow matters as much as exterior appearance, because a poor connection point can make the addition feel like a separate building glued on later. Homeowners should ask for both interior and exterior drawings that show how the spaces connect in everyday use. Good design solves the functional need while preserving the home’s visual balance. When the addition is integrated well, it improves the house without making the expansion obvious.",
+      "@type": "Answer",
+      "description": "Additions often feel disconnected when ceiling heights, window proportions, rooflines, flooring transitions, or circulation paths do not align with the original home. A good design should make the new space feel intentional from both the interior and exterior.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An attached addition can be technically correct and still feel wrong if the design does not respect the original house. Common mistakes include mismatched roof pitches, awkward hallway connections, ceiling-height jumps, poorly placed windows, and exterior materials that clash with the existing home. Interior flow matters as much as exterior appearance, because a poor connection point can make the addition feel like a separate building glued on later. Homeowners should ask for both interior and exterior drawings that show how the spaces connect in everyday use. Good design solves the functional need while preserving the home’s visual balance. When the addition is integrated well, it improves the house without making the expansion obvious.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Additions often feel disconnected when ceiling heights, window proportions, rooflines, flooring transitions, or circulation paths do not align with the original"
+}

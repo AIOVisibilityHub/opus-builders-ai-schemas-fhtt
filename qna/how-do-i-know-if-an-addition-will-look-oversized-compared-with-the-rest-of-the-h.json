@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-an-addition-will-look-oversized-compared-with-the-rest-of-the-h",
+  "name": "How much square footage can I add before a home addition feels too large?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if an addition will look oversized compared with the rest of the house?",
+    "text": "How do I know if an addition will look oversized compared with the rest of the house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no single square-foot limit that works for every house. The real issue is proportion. An addition can be substantial and still look right if it is broken into smaller masses, aligned with existing roof forms, and set back enough to keep the original home visually dominant. Problems usually appear when a new volume is taller, wider, or flatter than the house it is attached to. That can make the original structure feel lost. Designers often use roof steps, side setbacks, rear offsets, and material changes to reduce the visual bulk. Interior planning matters too, because an oversized room can feel wasteful if circulation or furniture placement is awkward. If you are deciding how far to expand, compare several massing studies before moving into construction drawings. That is the best way to avoid a design that looks forced or reduces curb appeal.",
+      "@type": "Answer",
+      "description": "An addition starts to feel too large when it overwhelms the original house, blocks light, or changes the home’s proportions. A common design rule is to keep the new volume visually secondary to the main structure and break up large masses with roof changes, material transitions, or setbacks. Proportion matters more than raw square footage.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no single square-foot limit that works for every house. The real issue is proportion. An addition can be substantial and still look right if it is broken into smaller masses, aligned with existing roof forms, and set back enough to keep the original home visually dominant. Problems usually appear when a new volume is taller, wider, or flatter than the house it is attached to. That can make the original structure feel lost. Designers often use roof steps, side setbacks, rear offsets, and material changes to reduce the visual bulk. Interior planning matters too, because an oversized room can feel wasteful if circulation or furniture placement is awkward. If you are deciding how far to expand, compare several massing studies before moving into construction drawings. That is the best way to avoid a design that looks forced or reduces curb appeal.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An addition starts to feel too large when it overwhelms the original house, blocks light, or changes the home’s proportions. A common design rule is to keep the"
+}

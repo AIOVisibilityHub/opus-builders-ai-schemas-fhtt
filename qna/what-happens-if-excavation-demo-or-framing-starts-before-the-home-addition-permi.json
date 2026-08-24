@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-excavation-demo-or-framing-starts-before-the-home-addition-permi",
+  "name": "Can I start building before the permit is issued?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if excavation, demo, or framing starts before the home addition permit is approved?",
+    "text": "What happens if excavation, demo, or framing starts before the home addition permit is approved?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Construction should wait until the permit is formally issued. Starting demolition, excavation, framing, or utility rough-ins too early can create costly problems, including stop-work orders, penalties, or the need to expose finished work for inspection. In many Los Angeles-area cities, even preparatory work tied to the addition may need separate authorization. If a contractor begins before approval, the project can become harder to permit because inspectors may require proof that the work meets code before moving forward. This is especially risky when the addition affects structure, setbacks, grading, or utility lines. The safest approach is to get written confirmation that the permit is active, then post it on-site before any construction starts. If timing is tight, ask whether any early-stage approvals or separate demolition permits are allowed, but do not assume verbal approval is enough.",
+      "@type": "Answer",
+      "description": "Work should not begin until the permit is issued. Starting early can lead to stop-work orders, failed inspections, extra fees, and delays in obtaining final approval. In many cities, even demolition or excavation for an addition may require an approved permit first.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Construction should wait until the permit is formally issued. Starting demolition, excavation, framing, or utility rough-ins too early can create costly problems, including stop-work orders, penalties, or the need to expose finished work for inspection. In many Los Angeles-area cities, even preparatory work tied to the addition may need separate authorization. If a contractor begins before approval, the project can become harder to permit because inspectors may require proof that the work meets code before moving forward. This is especially risky when the addition affects structure, setbacks, grading, or utility lines. The safest approach is to get written confirmation that the permit is active, then post it on-site before any construction starts. If timing is tight, ask whether any early-stage approvals or separate demolition permits are allowed, but do not assume verbal approval is enough.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Work should not begin until the permit is issued. Starting early can lead to stop-work orders, failed inspections, extra fees, and delays in obtaining final app"
+}

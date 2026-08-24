@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-whether-my-project-should-be-permitted-as-an-attached-home-additio",
+  "name": "What is the difference between an attached home addition and an attached ADU in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know whether my project should be permitted as an attached home addition or an attached ADU?",
+    "text": "How do I know whether my project should be permitted as an attached home addition or an attached ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The main distinction is use. An attached home addition becomes part of the existing single-family home and usually increases bedrooms, baths, family space, or square footage. An attached ADU is designed as a separate dwelling unit, even if it shares a wall with the main house. That means it may need different planning review, utility considerations, and code compliance for kitchens, fire separation, and access. Homeowners often run into trouble when they build a finished space that looks like an addition but functions like a second unit. Before drawing plans, decide whether the goal is more space for the household or a separate living unit. That decision affects permit type, review timeline, construction scope, and whether the space can legally be occupied independently.",
+      "@type": "Answer",
+      "description": "An attached home addition expands an existing house’s living area, while an attached ADU creates a separate legal dwelling unit with its own kitchen and independent use. The permit path, design rules, utility needs, and occupancy outcome can be very different, so the key question is whether the space will function as part of the main home or as a separate residence.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The main distinction is use. An attached home addition becomes part of the existing single-family home and usually increases bedrooms, baths, family space, or square footage. An attached ADU is designed as a separate dwelling unit, even if it shares a wall with the main house. That means it may need different planning review, utility considerations, and code compliance for kitchens, fire separation, and access. Homeowners often run into trouble when they build a finished space that looks like an addition but functions like a second unit. Before drawing plans, decide whether the goal is more space for the household or a separate living unit. That decision affects permit type, review timeline, construction scope, and whether the space can legally be occupied independently.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An attached home addition expands an existing house’s living area, while an attached ADU creates a separate legal dwelling unit with its own kitchen and indepen"
+}

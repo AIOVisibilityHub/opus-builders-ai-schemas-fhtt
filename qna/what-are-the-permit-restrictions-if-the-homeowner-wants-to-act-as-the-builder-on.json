@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-permit-restrictions-if-the-homeowner-wants-to-act-as-the-builder-on",
+  "name": "Can I build an addition as an owner-builder?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the permit restrictions if the homeowner wants to act as the builder on the project?",
+    "text": "What are the permit restrictions if the homeowner wants to act as the builder on the project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In some cases, a homeowner can pull permits as an owner-builder for a one- or two-family residence, but that does not remove the need to meet code, licensing, and inspection rules. The homeowner is still responsible for proper construction, and certain cities or projects may limit what an owner-builder can do. Larger or more technical additions are often easier to permit and build with a licensed contractor because plan check, trade coordination, and inspections become more complex. If acting as an owner-builder, confirm whether the city allows permits in the owner’s name, what forms must be signed, and whether subcontractors need specific licenses. This matters especially when the addition includes structural framing, electrical work, plumbing, or HVAC. Before choosing this route, compare the paperwork burden and schedule risk against hiring a qualified contractor to manage the process.",
+      "@type": "Answer",
+      "description": "Some owner-occupied homes can obtain permits in the owner’s name, but the rules vary by jurisdiction and project type. The homeowner usually still must comply with licensing, worker, insurance, and inspection requirements. If the work is large or complex, using a properly licensed contractor is often the smoother route.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In some cases, a homeowner can pull permits as an owner-builder for a one- or two-family residence, but that does not remove the need to meet code, licensing, and inspection rules. The homeowner is still responsible for proper construction, and certain cities or projects may limit what an owner-builder can do. Larger or more technical additions are often easier to permit and build with a licensed contractor because plan check, trade coordination, and inspections become more complex. If acting as an owner-builder, confirm whether the city allows permits in the owner’s name, what forms must be signed, and whether subcontractors need specific licenses. This matters especially when the addition includes structural framing, electrical work, plumbing, or HVAC. Before choosing this route, compare the paperwork burden and schedule risk against hiring a qualified contractor to manage the process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Some owner-occupied homes can obtain permits in the owner’s name, but the rules vary by jurisdiction and project type. The homeowner usually still must comply w"
+}

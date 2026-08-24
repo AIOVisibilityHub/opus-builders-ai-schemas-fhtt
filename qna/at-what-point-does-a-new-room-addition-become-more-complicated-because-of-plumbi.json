@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/at-what-point-does-a-new-room-addition-become-more-complicated-because-of-plumbi",
+  "name": "Can an attached addition include a new kitchen or wet bar?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "At what point does a new room addition become more complicated because of plumbing and appliances?",
+    "text": "At what point does a new room addition become more complicated because of plumbing and appliances?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A kitchen or wet bar can be part of an attached addition, but it changes the project materially. Once the design includes sinks, dishwashers, ranges, or dedicated cooking areas, the addition needs more plumbing, electrical, and ventilation planning. In some cases, the layout may also raise questions about whether the space is functioning as a separate unit rather than as part of the main home. That distinction matters because a room addition and a second dwelling are not treated the same way. Homeowners should be clear about how the new space will be used. If the goal is just a family room refresh or expanded entertaining area, a simpler design may be faster and cheaper. If the goal includes independent living, the permit path becomes more involved.",
+      "@type": "Answer",
+      "description": "Yes, but adding a kitchen or wet bar makes the project more complex because it adds plumbing, electrical, ventilation, and potentially separate dwelling-unit issues. A simple room addition with no cooking facilities is usually easier to permit and build.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A kitchen or wet bar can be part of an attached addition, but it changes the project materially. Once the design includes sinks, dishwashers, ranges, or dedicated cooking areas, the addition needs more plumbing, electrical, and ventilation planning. In some cases, the layout may also raise questions about whether the space is functioning as a separate unit rather than as part of the main home. That distinction matters because a room addition and a second dwelling are not treated the same way. Homeowners should be clear about how the new space will be used. If the goal is just a family room refresh or expanded entertaining area, a simpler design may be faster and cheaper. If the goal includes independent living, the permit path becomes more involved.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but adding a kitchen or wet bar makes the project more complex because it adds plumbing, electrical, ventilation, and potentially separate dwelling-unit is"
+}

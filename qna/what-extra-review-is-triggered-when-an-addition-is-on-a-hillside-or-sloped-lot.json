@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-extra-review-is-triggered-when-an-addition-is-on-a-hillside-or-sloped-lot",
+  "name": "How do hillside rules affect home addition permits in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What extra review is triggered when an addition is on a hillside or sloped lot?",
+    "text": "What extra review is triggered when an addition is on a hillside or sloped lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside additions usually face more permitting scrutiny than flat-lot projects. The city may require geotechnical reports, deeper structural calculations, drainage solutions, and grading or retaining-wall details. Access for construction and emergency vehicles can also become part of the review. If the lot has steep slope, unstable soil, or significant cut-and-fill, the permitting path becomes more technical and slower. Designers often need to coordinate architecture, structural engineering, and civil or soils reports early so the plans are consistent. Homeowners should expect more corrections and longer review times than with a standard flat-lot addition. The practical way to reduce delays is to identify slope, drainage, and foundation issues before submitting plans. Hillside work is not impossible, but it is rarely a simple over-the-counter permit.",
+      "@type": "Answer",
+      "description": "Hillside projects often need extra structural, grading, drainage, and geotechnical review. Sloped lots can trigger stricter foundation design, retaining wall requirements, and more detailed plan check. The permit process is usually slower because the city must verify stability, access, and safety.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside additions usually face more permitting scrutiny than flat-lot projects. The city may require geotechnical reports, deeper structural calculations, drainage solutions, and grading or retaining-wall details. Access for construction and emergency vehicles can also become part of the review. If the lot has steep slope, unstable soil, or significant cut-and-fill, the permitting path becomes more technical and slower. Designers often need to coordinate architecture, structural engineering, and civil or soils reports early so the plans are consistent. Homeowners should expect more corrections and longer review times than with a standard flat-lot addition. The practical way to reduce delays is to identify slope, drainage, and foundation issues before submitting plans. Hillside work is not impossible, but it is rarely a simple over-the-counter permit.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hillside projects often need extra structural, grading, drainage, and geotechnical review. Sloped lots can trigger stricter foundation design, retaining wall re"
+}

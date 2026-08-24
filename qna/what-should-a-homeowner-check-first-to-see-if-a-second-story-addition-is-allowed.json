@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-homeowner-check-first-to-see-if-a-second-story-addition-is-allowed",
+  "name": "How do I know if my neighborhood will allow a second story?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a homeowner check first to see if a second-story addition is allowed on their property?",
+    "text": "What should a homeowner check first to see if a second-story addition is allowed on their property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The first step is to confirm whether the property is zoned for a second-story addition and what limits apply to the specific parcel. Homeowners should look at height limits, setbacks, lot coverage, floor-area rules, and any overlay or design-review requirements that may affect the project. Just because a second story is generally allowed in a neighborhood does not mean any design will pass without adjustment. Many areas care about massing, privacy, front-yard appearance, and the relationship of the addition to neighboring homes. Properties near hillsides, historic districts, or special plan areas often have additional constraints. The best way to avoid wasted design work is to check these issues before finalizing architectural drawings. A preliminary zoning and feasibility review can reveal whether the project is straightforward or likely to need redesign, variances, or additional approvals.",
+      "@type": "Answer",
+      "description": "Start by checking zoning, height limits, setbacks, lot coverage, overlays, and any neighborhood or design-review rules. Even if a second story is generally allowed, the specific design may still need modifications to fit local requirements and compatibility standards.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The first step is to confirm whether the property is zoned for a second-story addition and what limits apply to the specific parcel. Homeowners should look at height limits, setbacks, lot coverage, floor-area rules, and any overlay or design-review requirements that may affect the project. Just because a second story is generally allowed in a neighborhood does not mean any design will pass without adjustment. Many areas care about massing, privacy, front-yard appearance, and the relationship of the addition to neighboring homes. Properties near hillsides, historic districts, or special plan areas often have additional constraints. The best way to avoid wasted design work is to check these issues before finalizing architectural drawings. A preliminary zoning and feasibility review can reveal whether the project is straightforward or likely to need redesign, variances, or additional approvals.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Start by checking zoning, height limits, setbacks, lot coverage, overlays, and any neighborhood or design-review rules. Even if a second story is generally allo"
+}

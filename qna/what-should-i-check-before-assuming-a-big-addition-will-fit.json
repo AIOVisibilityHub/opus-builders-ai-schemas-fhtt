@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-check-before-assuming-a-big-addition-will-fit",
+  "name": "How do I know if my lot can support a large addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I check before assuming a big addition will fit?",
+    "text": "What should I check before assuming a big addition will fit?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot can look large and still have major constraints. Before planning a big addition, the site needs to be reviewed for setbacks, lot coverage limits, easements, utilities, drainage patterns, and how much of the parcel is already occupied by the house, garage, or hardscape. The structure itself also matters because the existing foundation and framing may not support every type of expansion. A large addition may be possible, but it might have to be shaped differently than expected to avoid these constraints. In many Los Angeles-area properties, the real challenge is not just space but how that space can legally and practically be used. A proper concept plan should start with the site envelope and work inward from there. That prevents expensive redesigns after the project is already underway.",
+      "@type": "Answer",
+      "description": "Check setbacks, lot coverage, existing improvements, easements, utility locations, drainage, and structural capacity before assuming a large addition will fit. The visible yard is not always the usable build area. A lot may appear spacious but still limit the size and placement of the addition.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot can look large and still have major constraints. Before planning a big addition, the site needs to be reviewed for setbacks, lot coverage limits, easements, utilities, drainage patterns, and how much of the parcel is already occupied by the house, garage, or hardscape. The structure itself also matters because the existing foundation and framing may not support every type of expansion. A large addition may be possible, but it might have to be shaped differently than expected to avoid these constraints. In many Los Angeles-area properties, the real challenge is not just space but how that space can legally and practically be used. A proper concept plan should start with the site envelope and work inward from there. That prevents expensive redesigns after the project is already underway.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Check setbacks, lot coverage, existing improvements, easements, utility locations, drainage, and structural capacity before assuming a large addition will fit. "
+}

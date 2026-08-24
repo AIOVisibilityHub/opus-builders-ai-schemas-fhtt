@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-second-story-addition-feasible-on-a-narrow-or-small-los-angeles-lot-and-wha",
+  "name": "Can a second-story addition be built on a small lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a second-story addition feasible on a narrow or small Los Angeles lot, and what design constraints usually matter most?",
+    "text": "Is a second-story addition feasible on a narrow or small Los Angeles lot, and what design constraints usually matter most?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A small lot does not automatically rule out a second-story addition, but it does make the design more sensitive to zoning and structural constraints. Narrow properties often have tighter setbacks, less room for stairs, and fewer options for distributing the new floor efficiently. The roof shape, side-yard clearances, and neighbor privacy also become more important because the upper level changes how the house looks and feels from the street and adjacent homes. In some cases, a small lot benefits more from a compact second floor with a smart layout than from a larger but awkward addition. The design team should test whether the plan can stay within height and massing limits while still providing usable rooms. A small-lot project may also need more careful structural planning because there is less margin for error if the existing house is irregular or underbuilt. The best results come from early coordination between architecture, engineering, and local code review.",
+      "@type": "Answer",
+      "description": "Yes, a second-story addition can work on a small lot, but the design must fit setback, height, massing, and access constraints. Narrow lots often require careful stair placement, efficient room layouts, and close coordination with zoning and structural requirements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A small lot does not automatically rule out a second-story addition, but it does make the design more sensitive to zoning and structural constraints. Narrow properties often have tighter setbacks, less room for stairs, and fewer options for distributing the new floor efficiently. The roof shape, side-yard clearances, and neighbor privacy also become more important because the upper level changes how the house looks and feels from the street and adjacent homes. In some cases, a small lot benefits more from a compact second floor with a smart layout than from a larger but awkward addition. The design team should test whether the plan can stay within height and massing limits while still providing usable rooms. A small-lot project may also need more careful structural planning because there is less margin for error if the existing house is irregular or underbuilt. The best results come from early coordination between architecture, engineering, and local code review.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a second-story addition can work on a small lot, but the design must fit setback, height, massing, and access constraints. Narrow lots often require carefu"
+}

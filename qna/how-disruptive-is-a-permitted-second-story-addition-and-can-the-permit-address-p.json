@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-disruptive-is-a-permitted-second-story-addition-and-can-the-permit-address-p",
+  "name": "Can I add a second story without moving out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How disruptive is a permitted second-story addition, and can the permit address phased occupancy?",
+    "text": "How disruptive is a permitted second-story addition, and can the permit address phased occupancy?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A second-story addition can often be permitted even if the homeowner plans to stay in the house, but that does not mean it will be comfortable or practical. The permit review is mainly about structural capacity, fire safety, egress, utilities, and code compliance. Construction itself may require major disruption, especially if the roof is removed or the framing is heavily altered. Some owners live in the home during part of the project, while others temporarily move out because of noise, dust, utility interruptions, or safety concerns. If staying onsite is important, discuss phasing with the builder early and make sure the construction plan matches the permit scope. The city may not care about your living arrangement, but the project schedule and safety setup should be planned around it.",
+      "@type": "Answer",
+      "description": "A second-story addition usually can be permitted while the home remains occupied, but the construction impact is significant. Depending on the scope, utilities, dust, noise, and temporary structural work may make living in the house impractical. The permit process usually focuses on code compliance, not occupancy convenience.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A second-story addition can often be permitted even if the homeowner plans to stay in the house, but that does not mean it will be comfortable or practical. The permit review is mainly about structural capacity, fire safety, egress, utilities, and code compliance. Construction itself may require major disruption, especially if the roof is removed or the framing is heavily altered. Some owners live in the home during part of the project, while others temporarily move out because of noise, dust, utility interruptions, or safety concerns. If staying onsite is important, discuss phasing with the builder early and make sure the construction plan matches the permit scope. The city may not care about your living arrangement, but the project schedule and safety setup should be planned around it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A second-story addition usually can be permitted while the home remains occupied, but the construction impact is significant. Depending on the scope, utilities,"
+}

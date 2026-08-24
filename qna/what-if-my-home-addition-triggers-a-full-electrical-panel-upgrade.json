@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-my-home-addition-triggers-a-full-electrical-panel-upgrade",
+  "name": "What if my home addition triggers a full electrical panel upgrade?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if my home addition triggers a full electrical panel upgrade?",
+    "text": "What if my home addition triggers a full electrical panel upgrade?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A home addition can increase electrical demand enough that the existing panel no longer has capacity. That is common when the project adds a kitchen, bathroom, HVAC equipment, EV charging, or additional lighting and outlets. If the panel is undersized, the project may require a service upgrade, new subpanels, or circuit reconfiguration. This can add cost and time, but it is better to identify it during planning than during rough electrical work. An early load calculation helps prevent surprises and can influence the design of the addition itself. For example, a contractor may recommend energy-efficient appliances, a different HVAC setup, or a revised layout to reduce the electrical burden. Homeowners should also ask whether the upgrade affects the utility company connection, inspection schedule, or temporary power during construction.",
+      "@type": "Answer",
+      "description": "If the addition adds new loads for HVAC, kitchen appliances, or bathroom systems, the existing panel may need to be upgraded to meet demand and code. This can affect budget, schedule, and permit approval, so it should be identified early.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A home addition can increase electrical demand enough that the existing panel no longer has capacity. That is common when the project adds a kitchen, bathroom, HVAC equipment, EV charging, or additional lighting and outlets. If the panel is undersized, the project may require a service upgrade, new subpanels, or circuit reconfiguration. This can add cost and time, but it is better to identify it during planning than during rough electrical work. An early load calculation helps prevent surprises and can influence the design of the addition itself. For example, a contractor may recommend energy-efficient appliances, a different HVAC setup, or a revised layout to reduce the electrical burden. Homeowners should also ask whether the upgrade affects the utility company connection, inspection schedule, or temporary power during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the addition adds new loads for HVAC, kitchen appliances, or bathroom systems, the existing panel may need to be upgraded to meet demand and code. This can a"
+}

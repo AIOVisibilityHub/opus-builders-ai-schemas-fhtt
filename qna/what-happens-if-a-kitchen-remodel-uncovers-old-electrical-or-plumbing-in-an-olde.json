@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-a-kitchen-remodel-uncovers-old-electrical-or-plumbing-in-an-olde",
+  "name": "What if my house has old electrical or plumbing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if a kitchen remodel uncovers old electrical or plumbing in an older Los Angeles home?",
+    "text": "What happens if a kitchen remodel uncovers old electrical or plumbing in an older Los Angeles home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older Los Angeles homes often hide surprises behind walls and floors. If the remodel uncovers outdated wiring, undersized circuits, galvanized pipes, corroded shutoffs, or unsafe gas connections, the contractor may need to correct those issues before the new kitchen can be completed. That can add cost and time, but it is usually unavoidable if the work has to pass inspection and function safely. This is one reason contingency money matters so much on renovation projects. Homeowners can reduce risk by asking for a preconstruction walkthrough, discussing likely upgrade zones, and requesting a clear allowance for unforeseen conditions. If the home has not been updated in decades, it is smart to assume at least some infrastructure work may be needed even when the visible finishes look fine.",
+      "@type": "Answer",
+      "description": "If a remodel reveals outdated wiring, old plumbing, or unsafe connections, the contractor usually has to update those systems before the kitchen can be finished. This can increase the budget and extend the schedule, but it is often necessary for safety, code compliance, and inspection approval.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older Los Angeles homes often hide surprises behind walls and floors. If the remodel uncovers outdated wiring, undersized circuits, galvanized pipes, corroded shutoffs, or unsafe gas connections, the contractor may need to correct those issues before the new kitchen can be completed. That can add cost and time, but it is usually unavoidable if the work has to pass inspection and function safely. This is one reason contingency money matters so much on renovation projects. Homeowners can reduce risk by asking for a preconstruction walkthrough, discussing likely upgrade zones, and requesting a clear allowance for unforeseen conditions. If the home has not been updated in decades, it is smart to assume at least some infrastructure work may be needed even when the visible finishes look fine.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a remodel reveals outdated wiring, old plumbing, or unsafe connections, the contractor usually has to update those systems before the kitchen can be finished"
+}

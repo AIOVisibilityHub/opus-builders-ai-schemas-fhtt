@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-live-in-the-house-during-a-major-extension-project",
+  "name": "Can you live in the house during a major extension project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you live in the house during a major extension project?",
+    "text": "Can you live in the house during a major extension project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can stay in the home depends on how invasive the project is and which areas remain usable. Small additions may allow partial occupancy if kitchen, bath, and sleeping areas remain functional. Larger projects, especially second-story additions or major structural tie-ins, can create dust, power interruptions, water shutoffs, security issues, and access limitations that make staying put difficult. Even if it is technically possible, many families find it stressful and inefficient. A contractor should give a clear occupancy plan that explains which spaces will be sealed off, when utilities may be interrupted, and how workers will access the site. If the project affects the roof, main bathroom, or primary circulation path, temporary relocation is often the safer and more practical choice. Planning for occupancy early can also affect sequencing and cost.",
+      "@type": "Answer",
+      "description": "Sometimes, but it depends on the scope. You may be able to stay during a rear addition or small extension, while a second-story build or major structural tie-in may make the home unsafe, noisy, or impractical to occupy.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can stay in the home depends on how invasive the project is and which areas remain usable. Small additions may allow partial occupancy if kitchen, bath, and sleeping areas remain functional. Larger projects, especially second-story additions or major structural tie-ins, can create dust, power interruptions, water shutoffs, security issues, and access limitations that make staying put difficult. Even if it is technically possible, many families find it stressful and inefficient. A contractor should give a clear occupancy plan that explains which spaces will be sealed off, when utilities may be interrupted, and how workers will access the site. If the project affects the roof, main bathroom, or primary circulation path, temporary relocation is often the safer and more practical choice. Planning for occupancy early can also affect sequencing and cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but it depends on the scope. You may be able to stay during a rear addition or small extension, while a second-story build or major structural tie-in"
+}

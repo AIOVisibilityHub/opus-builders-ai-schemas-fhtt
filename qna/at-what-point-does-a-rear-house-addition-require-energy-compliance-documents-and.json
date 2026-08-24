@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/at-what-point-does-a-rear-house-addition-require-energy-compliance-documents-and",
+  "name": "Does a rear addition need Title 24 energy calculations?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "At what point does a rear-house addition require energy compliance documents, and how early should those be prepared?",
+    "text": "At what point does a rear-house addition require energy compliance documents, and how early should those be prepared?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Energy compliance is often overlooked until late in the design process, but rear additions commonly trigger it. When the project adds conditioned living space, changes exterior walls, replaces windows, or modifies heating and cooling systems, energy calculations may be required as part of the permit package. These documents help show that the new construction meets efficiency requirements for the jurisdiction. They also affect design choices such as window sizes, glazing, insulation values, and HVAC sizing. If energy compliance is left until the end, the architect may have to revise the plans after the layout is already finished. That can create delays and extra cost. For a smoother process, energy coordination should happen alongside architecture and engineering rather than after them. Homeowners should ask early whether the project will need energy forms and what design choices may influence compliance.",
+      "@type": "Answer",
+      "description": "Yes, many rear additions require energy compliance documentation when new conditioned space, windows, insulation, lighting, or mechanical systems are added. These calculations are typically prepared before permit submittal so the plan set can be reviewed as a complete package.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Energy compliance is often overlooked until late in the design process, but rear additions commonly trigger it. When the project adds conditioned living space, changes exterior walls, replaces windows, or modifies heating and cooling systems, energy calculations may be required as part of the permit package. These documents help show that the new construction meets efficiency requirements for the jurisdiction. They also affect design choices such as window sizes, glazing, insulation values, and HVAC sizing. If energy compliance is left until the end, the architect may have to revise the plans after the layout is already finished. That can create delays and extra cost. For a smoother process, energy coordination should happen alongside architecture and engineering rather than after them. Homeowners should ask early whether the project will need energy forms and what design choices may influence compliance.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many rear additions require energy compliance documentation when new conditioned space, windows, insulation, lighting, or mechanical systems are added. The"
+}

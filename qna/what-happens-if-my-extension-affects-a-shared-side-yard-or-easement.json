@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-my-extension-affects-a-shared-side-yard-or-easement",
+  "name": "What happens if my extension affects a shared side yard or easement?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if my extension affects a shared side yard or easement?",
+    "text": "What happens if my extension affects a shared side yard or easement?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A shared side yard or easement can significantly limit where an addition can go. If the extension conflicts with a required setback, utility easement, or access path, the project may need redesign before it can move forward. These constraints are common reasons a concept that looks good on paper fails during plan review. Shared access areas can also affect construction staging, drainage, fence placement, and long-term maintenance. Homeowners should verify property lines and easement locations early so the design team does not waste time on an unbuildable plan. In some cases, the solution is a smaller footprint, a different location, or an upward expansion instead of a side addition. Because these issues can affect both approval and construction logistics, they should be checked before architectural plans are finalized.",
+      "@type": "Answer",
+      "description": "If a proposed extension overlaps a setback, easement, or shared access area, the design may need to be changed or relocated. These constraints can affect buildable area, utility access, drainage, and approval timing.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A shared side yard or easement can significantly limit where an addition can go. If the extension conflicts with a required setback, utility easement, or access path, the project may need redesign before it can move forward. These constraints are common reasons a concept that looks good on paper fails during plan review. Shared access areas can also affect construction staging, drainage, fence placement, and long-term maintenance. Homeowners should verify property lines and easement locations early so the design team does not waste time on an unbuildable plan. In some cases, the solution is a smaller footprint, a different location, or an upward expansion instead of a side addition. Because these issues can affect both approval and construction logistics, they should be checked before architectural plans are finalized.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a proposed extension overlaps a setback, easement, or shared access area, the design may need to be changed or relocated. These constraints can affect builda"
+}

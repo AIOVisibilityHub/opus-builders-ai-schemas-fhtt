@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-stages-usually-need-city-inspection-before-the-project-is-finished",
+  "name": "How do inspections work for an attached addition in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What stages usually need city inspection before the project is finished?",
+    "text": "What stages usually need city inspection before the project is finished?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Attached additions usually require inspections at major milestones so the city can verify that the work matches the approved plans and meets code. Typical checkpoints include foundation, framing, rough plumbing, rough electrical, rough mechanical, insulation, and final inspection. If the project includes special structural work, there may be extra sign-offs. Homeowners should expect to coordinate inspections carefully because work cannot be concealed before it is approved. Missed inspections can slow the project and create rework. A good contractor should keep the inspection sequence organized and schedule each stage before the next layer of construction is closed up. Knowing the inspection plan in advance helps the homeowner avoid delays and understand why a project pauses at certain stages.",
+      "@type": "Answer",
+      "description": "Inspections usually happen at key construction stages such as foundation, framing, rough plumbing, rough electrical, rough mechanical, insulation, and final completion. The exact sequence depends on the scope, but work generally cannot be covered up until it passes inspection.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Attached additions usually require inspections at major milestones so the city can verify that the work matches the approved plans and meets code. Typical checkpoints include foundation, framing, rough plumbing, rough electrical, rough mechanical, insulation, and final inspection. If the project includes special structural work, there may be extra sign-offs. Homeowners should expect to coordinate inspections carefully because work cannot be concealed before it is approved. Missed inspections can slow the project and create rework. A good contractor should keep the inspection sequence organized and schedule each stage before the next layer of construction is closed up. Knowing the inspection plan in advance helps the homeowner avoid delays and understand why a project pauses at certain stages.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Inspections usually happen at key construction stages such as foundation, framing, rough plumbing, rough electrical, rough mechanical, insulation, and final com"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-causes-the-most-plan-check-corrections-on-rear-house-additions-and-how-can",
+  "name": "How do I know if my rear addition will pass plan check the first time?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What causes the most plan-check corrections on rear-house additions, and how can I reduce the chance of re-submittals?",
+    "text": "What causes the most plan-check corrections on rear-house additions, and how can I reduce the chance of re-submittals?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Rear additions often get delayed because one part of the plan set does not match another. A site plan may show one setback while the floor plan implies another, or the structural sheets may not align with the architectural layout. Missing energy documents, incomplete dimensions, and unclear foundation or roof details are also common correction items. To improve the odds of first-pass approval, the plans should be coordinated by architecture, structural engineering, and energy compliance before submittal. It also helps to verify zoning early so the design is not built around a rule that later turns out to be wrong. The cleanest submissions are usually the ones that answer the reviewer’s questions before they are asked. Homeowners who want faster approval should prioritize completeness and consistency over rushing to submit a half-finished concept.",
+      "@type": "Answer",
+      "description": "The most common plan-check problems are setback errors, missing structural details, inconsistent dimensions, energy compliance issues, and incomplete site plans. A coordinated drawing set that matches across all sheets is the best way to reduce corrections.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Rear additions often get delayed because one part of the plan set does not match another. A site plan may show one setback while the floor plan implies another, or the structural sheets may not align with the architectural layout. Missing energy documents, incomplete dimensions, and unclear foundation or roof details are also common correction items. To improve the odds of first-pass approval, the plans should be coordinated by architecture, structural engineering, and energy compliance before submittal. It also helps to verify zoning early so the design is not built around a rule that later turns out to be wrong. The cleanest submissions are usually the ones that answer the reviewer’s questions before they are asked. Homeowners who want faster approval should prioritize completeness and consistency over rushing to submit a half-finished concept.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common plan-check problems are setback errors, missing structural details, inconsistent dimensions, energy compliance issues, and incomplete site plans"
+}

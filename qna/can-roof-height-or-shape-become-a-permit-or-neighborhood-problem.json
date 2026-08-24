@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-roof-height-or-shape-become-a-permit-or-neighborhood-problem",
+  "name": "What if my attached addition changes the roofline too much?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can roof height or shape become a permit or neighborhood problem?",
+    "text": "Can roof height or shape become a permit or neighborhood problem?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Roof integration is often where an attached addition succeeds or fails visually. If the new roofline is too tall, too flat, or awkwardly tied into the original structure, the project can look disjointed and may invite additional review in design-sensitive areas. Roof changes also affect drainage, attic ventilation, and structural loads, so they are not just aesthetic issues. On complex projects, the roof may need to be reworked to maintain slope, clear existing windows, and control water properly. Homeowners should ask for roof studies early in design, especially if the property has a visible street façade or is in a neighborhood with strong architectural character. A clean roof transition can make a substantial difference in both approval prospects and resale appeal.",
+      "@type": "Answer",
+      "description": "Yes. Roof changes can trigger structural review, drainage redesign, and neighborhood compatibility concerns. A new roofline that looks oversized or out of scale may also make the project harder to approve in sensitive districts or visually constrained streets.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Roof integration is often where an attached addition succeeds or fails visually. If the new roofline is too tall, too flat, or awkwardly tied into the original structure, the project can look disjointed and may invite additional review in design-sensitive areas. Roof changes also affect drainage, attic ventilation, and structural loads, so they are not just aesthetic issues. On complex projects, the roof may need to be reworked to maintain slope, clear existing windows, and control water properly. Homeowners should ask for roof studies early in design, especially if the property has a visible street façade or is in a neighborhood with strong architectural character. A clean roof transition can make a substantial difference in both approval prospects and resale appeal.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Roof changes can trigger structural review, drainage redesign, and neighborhood compatibility concerns. A new roofline that looks oversized or out of scale"
+}

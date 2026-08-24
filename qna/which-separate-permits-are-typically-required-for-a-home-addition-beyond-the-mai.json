@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-separate-permits-are-typically-required-for-a-home-addition-beyond-the-mai",
+  "name": "What permits are needed for a home addition in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which separate permits are typically required for a home addition beyond the main building permit?",
+    "text": "Which separate permits are typically required for a home addition beyond the main building permit?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A home addition commonly requires a primary building permit plus trade permits if the project affects plumbing, electrical, or HVAC systems. Many projects also need plan check approval before a permit is issued, along with energy compliance documentation such as Title 24 forms. If the addition involves a new foundation, site work, retaining walls, slope work, or soil conditions, grading or geotechnical review may be needed. In Pasadena and some hillside or special-overlay areas, additional architectural or historic review can apply. For demolition tied to the addition, a separate demolition permit may be required. Homeowners should also confirm whether their city requires a contractor’s license, business registration, or owner-builder documentation. A complete permit package reduces delays because missing one trade permit can stall inspection approval later in the project.",
+      "@type": "Answer",
+      "description": "A home addition often needs more than one permit. In addition to the main building permit, projects may require plumbing, electrical, mechanical, grading, demolition, and energy compliance approvals depending on the scope. Some cities also require plan check, historic review, or agency sign-offs before issuance.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A home addition commonly requires a primary building permit plus trade permits if the project affects plumbing, electrical, or HVAC systems. Many projects also need plan check approval before a permit is issued, along with energy compliance documentation such as Title 24 forms. If the addition involves a new foundation, site work, retaining walls, slope work, or soil conditions, grading or geotechnical review may be needed. In Pasadena and some hillside or special-overlay areas, additional architectural or historic review can apply. For demolition tied to the addition, a separate demolition permit may be required. Homeowners should also confirm whether their city requires a contractor’s license, business registration, or owner-builder documentation. A complete permit package reduces delays because missing one trade permit can stall inspection approval later in the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A home addition often needs more than one permit. In addition to the main building permit, projects may require plumbing, electrical, mechanical, grading, demol"
+}

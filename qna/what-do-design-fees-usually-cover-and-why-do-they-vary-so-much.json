@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-do-design-fees-usually-cover-and-why-do-they-vary-so-much",
+  "name": "How much does home addition design cost in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What do design fees usually cover, and why do they vary so much?",
+    "text": "What do design fees usually cover, and why do they vary so much?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design fees are not just about drawing floor plans. They often include site analysis, programming, concept development, revisions, coordination with structural or other consultants, and preparation of permit-ready documents. Costs rise when the home is older, the lot is tight, or the addition requires major roof or structural changes. A second-story addition almost always costs more to design than a simple single-room extension because it introduces seismic, structural, and circulation issues. Some firms quote a low initial design fee but charge separately for engineering, permitting support, and multiple revisions, so homeowners should compare scope as well as price. The lowest quote is not always the best value if it leads to delays or redesigns later. A transparent proposal should clearly state what is included, what is excluded, and how change requests are billed. That makes budgeting more predictable from the start.",
+      "@type": "Answer",
+      "description": "Design costs vary based on project size, level of customization, structural complexity, and whether engineering and permit documents are included. A basic concept package is less expensive than full architectural and construction drawings. Older homes, second stories, and difficult lots usually increase design fees because they require more coordination.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design fees are not just about drawing floor plans. They often include site analysis, programming, concept development, revisions, coordination with structural or other consultants, and preparation of permit-ready documents. Costs rise when the home is older, the lot is tight, or the addition requires major roof or structural changes. A second-story addition almost always costs more to design than a simple single-room extension because it introduces seismic, structural, and circulation issues. Some firms quote a low initial design fee but charge separately for engineering, permitting support, and multiple revisions, so homeowners should compare scope as well as price. The lowest quote is not always the best value if it leads to delays or redesigns later. A transparent proposal should clearly state what is included, what is excluded, and how change requests are billed. That makes budgeting more predictable from the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design costs vary based on project size, level of customization, structural complexity, and whether engineering and permit documents are included. A basic conce"
+}

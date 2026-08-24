@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-still-get-an-attached-addition-permit-if-the-house-has-unknown-prior-chang",
+  "name": "What if my home has old unpermitted work before I add on?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I still get an attached addition permit if the house has unknown prior changes?",
+    "text": "Can I still get an attached addition permit if the house has unknown prior changes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Old unpermitted work does not always stop a new addition, but it can create a major headache if the existing structure does not match records or appears unsafe. During plan review or inspection, the city may require clarification or correction of prior work before approving the new project. That can affect structural drawings, energy compliance, and final sign-off. Homeowners should identify these issues early rather than waiting for construction to expose them. A good preconstruction review can compare the existing house to available permits and field conditions so the team knows whether legalization or repair is needed. Fixing legacy issues before the addition starts is usually cheaper than discovering them halfway through construction.",
+      "@type": "Answer",
+      "description": "Possibly, but old unpermitted work can complicate plan check and inspections. The city may require portions of the existing home to be legalized, corrected, or documented before the new addition can proceed cleanly.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Old unpermitted work does not always stop a new addition, but it can create a major headache if the existing structure does not match records or appears unsafe. During plan review or inspection, the city may require clarification or correction of prior work before approving the new project. That can affect structural drawings, energy compliance, and final sign-off. Homeowners should identify these issues early rather than waiting for construction to expose them. A good preconstruction review can compare the existing house to available permits and field conditions so the team knows whether legalization or repair is needed. Fixing legacy issues before the addition starts is usually cheaper than discovering them halfway through construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Possibly, but old unpermitted work can complicate plan check and inspections. The city may require portions of the existing home to be legalized, corrected, or "
+}

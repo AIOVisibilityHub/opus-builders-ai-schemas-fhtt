@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-utility-upgrades-trigger-extra-permits-or-reviews-when-a-home-addition-increa",
+  "name": "What if my addition affects sewer, water, or electrical capacity?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do utility upgrades trigger extra permits or reviews when a home addition increases demand?",
+    "text": "Do utility upgrades trigger extra permits or reviews when a home addition increases demand?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility capacity is a common hidden issue in home addition permitting. If the new space adds bathroom fixtures, kitchen appliances, HVAC load, or a larger electrical demand, the existing service may no longer be sufficient. That can trigger panel upgrades, new branch circuits, gas line changes, sewer tie-ins, or water service modifications, each of which may need separate permit review and inspection. These issues can affect both cost and schedule because the addition design may need to change to fit the available capacity. The best practice is to have the contractor or engineer assess the existing systems before plans are finalized. If the home is older, utility constraints are more likely to become a permitting issue rather than a construction surprise. Address them early to avoid redesign after plan check has started.",
+      "@type": "Answer",
+      "description": "Yes. If the addition increases plumbing, electrical, gas, or HVAC demand, utility upgrades or service changes may require separate permits and inspections. Capacity issues can also force design changes before the main permit is approved. Coordination with utility trades is often necessary early in the process.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility capacity is a common hidden issue in home addition permitting. If the new space adds bathroom fixtures, kitchen appliances, HVAC load, or a larger electrical demand, the existing service may no longer be sufficient. That can trigger panel upgrades, new branch circuits, gas line changes, sewer tie-ins, or water service modifications, each of which may need separate permit review and inspection. These issues can affect both cost and schedule because the addition design may need to change to fit the available capacity. The best practice is to have the contractor or engineer assess the existing systems before plans are finalized. If the home is older, utility constraints are more likely to become a permitting issue rather than a construction surprise. Address them early to avoid redesign after plan check has started.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. If the addition increases plumbing, electrical, gas, or HVAC demand, utility upgrades or service changes may require separate permits and inspections. Capa"
+}

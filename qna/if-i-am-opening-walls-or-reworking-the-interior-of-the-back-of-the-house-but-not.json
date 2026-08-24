@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-am-opening-walls-or-reworking-the-interior-of-the-back-of-the-house-but-not",
+  "name": "Do I need a permit for a rear addition if I am not changing the footprint?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I am opening walls or reworking the interior of the back of the house, but not adding square footage, do I still need a permit?",
+    "text": "If I am opening walls or reworking the interior of the back of the house, but not adding square footage, do I still need a permit?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A rear-house project does not need to add square footage to trigger permitting. If the work involves removing load-bearing walls, enlarging openings, moving plumbing, upgrading electrical service, changing HVAC runs, or altering the structure at the back of the home, permits may still be required. This is a common source of confusion because homeowners often think only visible additions need approval. In practice, the permit question turns on what the work changes behind the walls, not just the finished floor area. This matters especially in older homes in Los Angeles, Pasadena, and Burbank, where rear renovations often uncover outdated framing, plumbing, or electrical systems. Before starting design, document the existing conditions and ask whether the rear project changes structure, systems, or exterior walls. That early check can prevent stop-work orders, expensive corrections, and delays during inspection.",
+      "@type": "Answer",
+      "description": "Yes, interior changes can still require permits if they affect structural, electrical, plumbing, mechanical, or fire-resistance systems. In Los Angeles-area jurisdictions, even work that does not increase square footage may need plan review when walls, openings, utilities, or load-bearing elements are altered.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A rear-house project does not need to add square footage to trigger permitting. If the work involves removing load-bearing walls, enlarging openings, moving plumbing, upgrading electrical service, changing HVAC runs, or altering the structure at the back of the home, permits may still be required. This is a common source of confusion because homeowners often think only visible additions need approval. In practice, the permit question turns on what the work changes behind the walls, not just the finished floor area. This matters especially in older homes in Los Angeles, Pasadena, and Burbank, where rear renovations often uncover outdated framing, plumbing, or electrical systems. Before starting design, document the existing conditions and ask whether the rear project changes structure, systems, or exterior walls. That early check can prevent stop-work orders, expensive corrections, and delays during inspection.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, interior changes can still require permits if they affect structural, electrical, plumbing, mechanical, or fire-resistance systems. In Los Angeles-area jur"
+}

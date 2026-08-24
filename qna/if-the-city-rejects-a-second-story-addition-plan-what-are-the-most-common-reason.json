@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-city-rejects-a-second-story-addition-plan-what-are-the-most-common-reason",
+  "name": "What happens if my second-story plans are denied?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the city rejects a second-story addition plan, what are the most common reasons and what can homeowners do next?",
+    "text": "If the city rejects a second-story addition plan, what are the most common reasons and what can homeowners do next?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a second-story plan is denied or returned with corrections, the reason is usually specific and fixable. Common issues include missing engineering calculations, incomplete drawings, height or setback conflicts, noncompliant stair design, or failure to meet neighborhood compatibility rules. In some cases, the plans are not rejected outright but sent back for correction, which means the project can continue after revisions are made. The best next step is to identify whether the problem is structural, zoning-related, or simply a documentation issue. A good architect and engineer can often revise the design to address the comment letter without losing the entire project. If the issue is related to neighborhood review or special overlays, the solution may involve changing massing, roof form, or exterior appearance. Homeowners should avoid building around the denial by starting work anyway, because that can create major delays and enforcement problems. A clear resubmittal strategy usually saves time and money.",
+      "@type": "Answer",
+      "description": "Second-story plans are often denied or corrected because of setbacks, height, structural details, missing documents, or zoning conflicts. Homeowners can usually revise the plans, provide additional engineering, or request a design adjustment rather than starting over completely.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a second-story plan is denied or returned with corrections, the reason is usually specific and fixable. Common issues include missing engineering calculations, incomplete drawings, height or setback conflicts, noncompliant stair design, or failure to meet neighborhood compatibility rules. In some cases, the plans are not rejected outright but sent back for correction, which means the project can continue after revisions are made. The best next step is to identify whether the problem is structural, zoning-related, or simply a documentation issue. A good architect and engineer can often revise the design to address the comment letter without losing the entire project. If the issue is related to neighborhood review or special overlays, the solution may involve changing massing, roof form, or exterior appearance. Homeowners should avoid building around the denial by starting work anyway, because that can create major delays and enforcement problems. A clear resubmittal strategy usually saves time and money.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Second-story plans are often denied or corrected because of setbacks, height, structural details, missing documents, or zoning conflicts. Homeowners can usually"
+}

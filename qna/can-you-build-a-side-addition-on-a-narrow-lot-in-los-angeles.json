@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-build-a-side-addition-on-a-narrow-lot-in-los-angeles",
+  "name": "Can you build a side addition on a narrow lot in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you build a side addition on a narrow lot in Los Angeles?",
+    "text": "Can you build a side addition on a narrow lot in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, a side addition is often possible on a narrow lot, but the narrower the side yard, the more likely the design will need to change. On many older Los Angeles-area homes, the side yard is too tight for a full room expansion once setbacks, drainage clearances, and window placement are considered. A narrow lot may still work for a bump-out, bathroom extension, mudroom, hallway expansion, or attached ADU-type layout, depending on zoning and site geometry. The design must also preserve access for maintenance and emergency egress where required. If the side yard is already partially occupied by HVAC equipment, utility meters, fencing, or mature trees, the available width can become even more constrained. In those cases, a rear addition or second-story addition may produce more usable square footage with fewer zoning conflicts. The best next step is a site-specific feasibility check with a measured survey and concept sketch before investing in full plans.",
+      "@type": "Answer",
+      "description": "Yes, but narrow lots often limit side additions to a very small expansion or require a different layout. The project must still satisfy setbacks, light and air, access, and code requirements, so some narrow-lot homes are better suited to rear additions, second-story additions, or attached ADUs.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, a side addition is often possible on a narrow lot, but the narrower the side yard, the more likely the design will need to change. On many older Los Angeles-area homes, the side yard is too tight for a full room expansion once setbacks, drainage clearances, and window placement are considered. A narrow lot may still work for a bump-out, bathroom extension, mudroom, hallway expansion, or attached ADU-type layout, depending on zoning and site geometry. The design must also preserve access for maintenance and emergency egress where required. If the side yard is already partially occupied by HVAC equipment, utility meters, fencing, or mature trees, the available width can become even more constrained. In those cases, a rear addition or second-story addition may produce more usable square footage with fewer zoning conflicts. The best next step is a site-specific feasibility check with a measured survey and concept sketch before investing in full plans.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but narrow lots often limit side additions to a very small expansion or require a different layout. The project must still satisfy setbacks, light and air,"
+}

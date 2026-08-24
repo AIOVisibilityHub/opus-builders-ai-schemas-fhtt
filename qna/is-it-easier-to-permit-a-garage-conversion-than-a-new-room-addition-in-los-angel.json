@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-easier-to-permit-a-garage-conversion-than-a-new-room-addition-in-los-angel",
+  "name": "How do garage conversions compare to home additions for permits?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it easier to permit a garage conversion than a new room addition in Los Angeles?",
+    "text": "Is it easier to permit a garage conversion than a new room addition in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Garage conversions and room additions solve different permitting problems. A conversion may avoid some setback or footprint issues because it uses existing space, which can make zoning simpler than a brand-new addition. However, it often introduces other code requirements such as insulation, fire separation, egress, parking replacement rules, and utility upgrades. A true addition usually needs more site and structural review but may fit the property better if the garage is too small or the homeowner needs a larger layout change. The easier option depends on the lot, existing structure, and zoning rules. Homeowners should compare total permitting difficulty, not just the construction cost. In some cases, a conversion is faster; in others, a well-designed addition is cleaner to approve and better for resale value.",
+      "@type": "Answer",
+      "description": "A garage conversion can be easier than a new addition because it may avoid new footprint and setback issues, but it still needs permits and code compliance. The tradeoff is that conversion projects often trigger insulation, fire separation, parking, and utility requirements that do not apply the same way to additions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Garage conversions and room additions solve different permitting problems. A conversion may avoid some setback or footprint issues because it uses existing space, which can make zoning simpler than a brand-new addition. However, it often introduces other code requirements such as insulation, fire separation, egress, parking replacement rules, and utility upgrades. A true addition usually needs more site and structural review but may fit the property better if the garage is too small or the homeowner needs a larger layout change. The easier option depends on the lot, existing structure, and zoning rules. Homeowners should compare total permitting difficulty, not just the construction cost. In some cases, a conversion is faster; in others, a well-designed addition is cleaner to approve and better for resale value.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A garage conversion can be easier than a new addition because it may avoid new footprint and setback issues, but it still needs permits and code compliance. The"
+}

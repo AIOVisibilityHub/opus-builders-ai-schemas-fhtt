@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-a-side-addition-take-from-design-to-completion",
+  "name": "How long does a side addition take from design to completion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does a side addition take from design to completion?",
+    "text": "How long does a side addition take from design to completion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A side-house addition usually takes longer than homeowners expect because the schedule includes design, engineering, plan check, permitting, construction, and final inspections. A straightforward project may move from concept to completion in several months, while a more complex addition on a tight lot, hillside parcel, or older home can take much longer. The permit phase is often the biggest variable, especially if revisions are needed after city review. Structural engineering, energy compliance, and trade coordination can also extend the timeline. If the addition touches the exterior wall line, foundation, or roof structure, construction sequencing becomes more involved, and temporary disruption to the home may be necessary. Weather, material lead times, and utility relocation can add delays too. Homeowners should expect the schedule to depend heavily on jurisdiction, design complexity, and how quickly decisions are made during plan review. A realistic timeline should be built with contingency time rather than assuming a fast permit-and-build process.",
+      "@type": "Answer",
+      "description": "A typical side-house addition can take several months from initial design to final inspection, and longer if plan review is complex. Design, engineering, permits, and construction each add time, with approvals often taking as long as the build itself on difficult lots.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A side-house addition usually takes longer than homeowners expect because the schedule includes design, engineering, plan check, permitting, construction, and final inspections. A straightforward project may move from concept to completion in several months, while a more complex addition on a tight lot, hillside parcel, or older home can take much longer. The permit phase is often the biggest variable, especially if revisions are needed after city review. Structural engineering, energy compliance, and trade coordination can also extend the timeline. If the addition touches the exterior wall line, foundation, or roof structure, construction sequencing becomes more involved, and temporary disruption to the home may be necessary. Weather, material lead times, and utility relocation can add delays too. Homeowners should expect the schedule to depend heavily on jurisdiction, design complexity, and how quickly decisions are made during plan review. A realistic timeline should be built with contingency time rather than assuming a fast permit-and-build process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A typical side-house addition can take several months from initial design to final inspection, and longer if plan review is complex. Design, engineering, permit"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-can-only-add-one-space-which-room-adds-the-most-value-and-usefulness",
+  "name": "What is the best room to add first in a small house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I can only add one space, which room adds the most value and usefulness?",
+    "text": "If I can only add one space, which room adds the most value and usefulness?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best first room to add is the one that changes how the home works every day. For many small houses, that means a bathroom, a primary suite, or a larger kitchen and dining area. Bedrooms can be valuable when the current layout is cramped, but an additional bathroom often has an outsized effect because it reduces morning congestion and improves usability for the whole household. In some cases, a family room or office makes more sense if the current home already has enough sleeping space. The right answer depends on how the home is currently failing the family. If circulation is poor, even a large addition can feel disappointing. If privacy is the issue, a suite or separated bedroom wing may be better than a general-purpose room. The strongest designs usually fix the bottleneck first, then support the rest of the home around it.",
+      "@type": "Answer",
+      "description": "The best first addition is usually the room that solves the biggest daily problem, often a bedroom, bathroom, primary suite, or expanded kitchen. In small homes, the most valuable addition is the one that improves function and circulation, not just square footage. A well-placed bathroom or suite can make the whole house feel bigger.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best first room to add is the one that changes how the home works every day. For many small houses, that means a bathroom, a primary suite, or a larger kitchen and dining area. Bedrooms can be valuable when the current layout is cramped, but an additional bathroom often has an outsized effect because it reduces morning congestion and improves usability for the whole household. In some cases, a family room or office makes more sense if the current home already has enough sleeping space. The right answer depends on how the home is currently failing the family. If circulation is poor, even a large addition can feel disappointing. If privacy is the issue, a suite or separated bedroom wing may be better than a general-purpose room. The strongest designs usually fix the bottleneck first, then support the rest of the home around it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best first addition is usually the room that solves the biggest daily problem, often a bedroom, bathroom, primary suite, or expanded kitchen. In small homes"
+}

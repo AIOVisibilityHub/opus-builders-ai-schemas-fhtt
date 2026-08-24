@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-there-is-a-large-tree-near-the-back-of-the-house-can-the-addition-be-designed",
+  "name": "Can a rear addition be built around a mature tree?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If there is a large tree near the back of the house, can the addition be designed around it without damaging the roots or delaying permits?",
+    "text": "If there is a large tree near the back of the house, can the addition be designed around it without damaging the roots or delaying permits?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A mature tree near the rear of the house can be both an asset and a constraint. It may provide shade and character, but it can also complicate foundation excavation, footing placement, trenching, and construction access. Some projects can be designed around the tree by adjusting the footprint, using a different foundation strategy, or protecting the root zone during construction. In other cases, the tree’s location makes the original concept impractical. Because tree protection can affect grading and hardscape as well as the building envelope, it should be reviewed early, not after plans are finished. If the tree is significant, homeowners should consider an arborist evaluation before committing to a layout. That can prevent damage, permit complications, and expensive redesigns later.",
+      "@type": "Answer",
+      "description": "Sometimes yes, but mature trees can limit foundation work, grading, access, and drainage. If the tree is protected or closely located, the design may need to shift, and additional review or arborist input may be required.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A mature tree near the rear of the house can be both an asset and a constraint. It may provide shade and character, but it can also complicate foundation excavation, footing placement, trenching, and construction access. Some projects can be designed around the tree by adjusting the footprint, using a different foundation strategy, or protecting the root zone during construction. In other cases, the tree’s location makes the original concept impractical. Because tree protection can affect grading and hardscape as well as the building envelope, it should be reviewed early, not after plans are finished. If the tree is significant, homeowners should consider an arborist evaluation before committing to a layout. That can prevent damage, permit complications, and expensive redesigns later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes yes, but mature trees can limit foundation work, grading, access, and drainage. If the tree is protected or closely located, the design may need to sh"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-is-a-boundary-or-topographic-survey-required-for-an-addition-permit-in-los",
+  "name": "Do I need a survey for a home addition permit?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When is a boundary or topographic survey required for an addition permit in Los Angeles area cities?",
+    "text": "When is a boundary or topographic survey required for an addition permit in Los Angeles area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A survey is often required or strongly recommended when an addition depends on exact site dimensions. This is common when the project is close to a side yard or rear setback, when the property has easements, or when the lot is on a slope or hillside. A boundary survey helps confirm where the addition can legally sit, while a topographic survey may be needed if grades, drainage, or foundation elevations matter. Even when a survey is not explicitly mandatory, it can prevent expensive redesigns during plan check. In cities like Pasadena and parts of Los Angeles with more detailed review requirements, the survey can make the permit package smoother and more credible. If the addition is large, close to a line, or part of a second-story expansion, a survey is one of the best early investments.",
+      "@type": "Answer",
+      "description": "A survey is often needed when the city must verify property lines, setbacks, easements, slope, or existing site conditions. It is especially important for additions near lot boundaries, on hillside lots, or when the plan depends on exact measurements. Some cities may accept a detailed site plan, but a survey is safer.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A survey is often required or strongly recommended when an addition depends on exact site dimensions. This is common when the project is close to a side yard or rear setback, when the property has easements, or when the lot is on a slope or hillside. A boundary survey helps confirm where the addition can legally sit, while a topographic survey may be needed if grades, drainage, or foundation elevations matter. Even when a survey is not explicitly mandatory, it can prevent expensive redesigns during plan check. In cities like Pasadena and parts of Los Angeles with more detailed review requirements, the survey can make the permit package smoother and more credible. If the addition is large, close to a line, or part of a second-story expansion, a survey is one of the best early investments.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A survey is often needed when the city must verify property lines, setbacks, easements, slope, or existing site conditions. It is especially important for addit"
+}

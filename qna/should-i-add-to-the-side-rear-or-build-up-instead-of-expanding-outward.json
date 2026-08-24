@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-add-to-the-side-rear-or-build-up-instead-of-expanding-outward",
+  "name": "What is the best type of attached addition for a small lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I add to the side, rear, or build up instead of expanding outward?",
+    "text": "Should I add to the side, rear, or build up instead of expanding outward?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Small lots usually force a tradeoff between space, privacy, and site constraints. A side addition may be impossible if setbacks are tight. A rear addition can work well, but it may reduce outdoor living space and affect drainage or window placement. Building upward is often the better option when the lot cannot expand horizontally, but it adds structural complexity and may require more engineering. The right choice depends on the existing floor plan, roof shape, foundation capacity, and neighborhood context. Homeowners should also think about how the addition affects natural light, backyard function, and resale appeal. The most efficient design is often the one that changes circulation and room layout as little as possible while adding the needed square footage.",
+      "@type": "Answer",
+      "description": "For small lots, the best option is often the one that preserves yard space and meets setbacks. Rear additions work well when the backyard is usable, while second-story additions are often better when lot coverage is tight and the footprint cannot expand much more.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Small lots usually force a tradeoff between space, privacy, and site constraints. A side addition may be impossible if setbacks are tight. A rear addition can work well, but it may reduce outdoor living space and affect drainage or window placement. Building upward is often the better option when the lot cannot expand horizontally, but it adds structural complexity and may require more engineering. The right choice depends on the existing floor plan, roof shape, foundation capacity, and neighborhood context. Homeowners should also think about how the addition affects natural light, backyard function, and resale appeal. The most efficient design is often the one that changes circulation and room layout as little as possible while adding the needed square footage.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "For small lots, the best option is often the one that preserves yard space and meets setbacks. Rear additions work well when the backyard is usable, while secon"
+}

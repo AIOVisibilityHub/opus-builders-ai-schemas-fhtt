@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-am-remodeling-multiple-rooms-should-the-kitchen-happen-first-or-later-in-th",
+  "name": "What is the best way to phase a whole-home remodel with the kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I am remodeling multiple rooms, should the kitchen happen first or later in the project?",
+    "text": "If I am remodeling multiple rooms, should the kitchen happen first or later in the project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best sequence for a whole-home remodel depends on dependencies, not convenience alone. Kitchens often involve plumbing, electrical, gas, and ventilation work that can affect adjacent rooms, so they are frequently coordinated early enough to establish utility routes and finish levels. If walls are being moved or floors are being replaced throughout the home, the kitchen may need to wait until structural or rough-in work is complete. If the home is occupied, phasing also depends on whether the kitchen must remain functional during construction. The most efficient schedule is usually the one that minimizes rework, protects finished surfaces, and keeps trades from having to return to areas that were already completed. A contractor should be able to map out the sequence before demolition begins.",
+      "@type": "Answer",
+      "description": "The kitchen is often scheduled early or in the middle of a whole-home remodel because it affects utilities, dust control, and how other rooms connect. The best sequence depends on structural work, utility routing, and whether the home will be occupied during construction.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best sequence for a whole-home remodel depends on dependencies, not convenience alone. Kitchens often involve plumbing, electrical, gas, and ventilation work that can affect adjacent rooms, so they are frequently coordinated early enough to establish utility routes and finish levels. If walls are being moved or floors are being replaced throughout the home, the kitchen may need to wait until structural or rough-in work is complete. If the home is occupied, phasing also depends on whether the kitchen must remain functional during construction. The most efficient schedule is usually the one that minimizes rework, protects finished surfaces, and keeps trades from having to return to areas that were already completed. A contractor should be able to map out the sequence before demolition begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The kitchen is often scheduled early or in the middle of a whole-home remodel because it affects utilities, dust control, and how other rooms connect. The best "
+}

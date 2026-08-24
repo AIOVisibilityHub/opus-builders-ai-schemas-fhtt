@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-a-residential-addition-need-energy-compliance-paperwork-in-los-angeles",
+  "name": "Do I need Title 24 forms for a home addition permit?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does a residential addition need energy compliance paperwork in Los Angeles County?",
+    "text": "When does a residential addition need energy compliance paperwork in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Energy compliance paperwork is a common part of addition permitting in Southern California. If the project changes the conditioned envelope, adds new living space, affects windows or insulation, or changes heating and cooling demand, Title 24 documentation is typically required. The forms help show the addition meets energy-efficiency rules before the permit is issued. Even modest additions can trigger these requirements if they alter the building shell or HVAC design. Homeowners should coordinate the architect, energy consultant, and contractor early so window specs, insulation levels, and mechanical sizing match the plans. If the addition is tied to a garage conversion or unconditioned space, the requirement may be different, but that should be verified directly with the local building department. Missing energy paperwork is a frequent reason for plan-check delays.",
+      "@type": "Answer",
+      "description": "Most additions that change the conditioned area, envelope, HVAC load, or insulation details require energy compliance forms. Title 24 documentation is commonly reviewed with the permit set before approval. If the addition only changes nonconditioned space, the requirement may differ, but the city should confirm it.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Energy compliance paperwork is a common part of addition permitting in Southern California. If the project changes the conditioned envelope, adds new living space, affects windows or insulation, or changes heating and cooling demand, Title 24 documentation is typically required. The forms help show the addition meets energy-efficiency rules before the permit is issued. Even modest additions can trigger these requirements if they alter the building shell or HVAC design. Homeowners should coordinate the architect, energy consultant, and contractor early so window specs, insulation levels, and mechanical sizing match the plans. If the addition is tied to a garage conversion or unconditioned space, the requirement may be different, but that should be verified directly with the local building department. Missing energy paperwork is a frequent reason for plan-check delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most additions that change the conditioned area, envelope, HVAC load, or insulation details require energy compliance forms. Title 24 documentation is commonly "
+}

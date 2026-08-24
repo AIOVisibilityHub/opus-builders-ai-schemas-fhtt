@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-setbacks-apply-to-side-additions-near-alleys-or-corner-lots",
+  "name": "What setbacks apply to side additions near alleys or corner lots?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What setbacks apply to side additions near alleys or corner lots?",
+    "text": "What setbacks apply to side additions near alleys or corner lots?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Setbacks for side additions near alleys or corner lots often differ from the standard side-yard assumption because the property may have multiple frontages, street-facing walls, or special visibility rules. A corner lot can have two front-yard-like conditions, which may reduce the area available for a side addition. Alleys can also affect how the rear or side edge of the lot is measured, especially when access, garage placement, or fire separation is involved. This is why a generic setback rule is not enough for these properties. The addition must be checked against the exact parcel configuration, zoning designation, and any overlay requirements. Homeowners should not assume that because a side yard exists physically, it is automatically buildable. On a corner or alley lot, a concept plan that looks feasible at first glance can fail once frontage rules and measurement methods are applied. A precise site analysis is essential before committing to a design.",
+      "@type": "Answer",
+      "description": "Setbacks near alleys or corner lots can be different from standard side yards because the property may have multiple frontages and special street-facing rules. The side addition must be checked against the exact lot type, not just a generic side-yard assumption.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Setbacks for side additions near alleys or corner lots often differ from the standard side-yard assumption because the property may have multiple frontages, street-facing walls, or special visibility rules. A corner lot can have two front-yard-like conditions, which may reduce the area available for a side addition. Alleys can also affect how the rear or side edge of the lot is measured, especially when access, garage placement, or fire separation is involved. This is why a generic setback rule is not enough for these properties. The addition must be checked against the exact parcel configuration, zoning designation, and any overlay requirements. Homeowners should not assume that because a side yard exists physically, it is automatically buildable. On a corner or alley lot, a concept plan that looks feasible at first glance can fail once frontage rules and measurement methods are applied. A precise site analysis is essential before committing to a design.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Setbacks near alleys or corner lots can be different from standard side yards because the property may have multiple frontages and special street-facing rules. "
+}

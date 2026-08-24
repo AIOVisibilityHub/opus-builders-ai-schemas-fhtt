@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-add-a-second-floor-to-a-one-story-house-built-decades-ago",
+  "name": "Can I add a second story to an older Los Angeles home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to add a second floor to a one-story house built decades ago?",
+    "text": "Is it possible to add a second floor to a one-story house built decades ago?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A second-story addition is possible on many older Los Angeles homes, but it should never start with design alone. The house must be evaluated for foundation strength, wall framing, lateral stability, and the way loads transfer through the existing structure. Older homes often need major seismic and structural upgrades before a new floor can be added. The design process also needs to account for stairs, roof replacement, temporary weather protection during construction, and how the added height will affect privacy and neighborhood context. In many cases, a second story is the best way to add bedrooms or a primary suite without sacrificing yard space, but it is also more disruptive than a ground-floor extension. Homeowners should expect higher engineering complexity and longer timelines than a simple rear addition. A strong concept balances structural feasibility, room layout, and the way the finished home will look from the street.",
+      "@type": "Answer",
+      "description": "Yes, but the structure must be evaluated first. A second-story addition usually requires checking the foundation, framing, shear walls, roof removal, and seismic upgrades. Older homes can often support the concept, but many need significant reinforcement before vertical expansion is safe and practical.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A second-story addition is possible on many older Los Angeles homes, but it should never start with design alone. The house must be evaluated for foundation strength, wall framing, lateral stability, and the way loads transfer through the existing structure. Older homes often need major seismic and structural upgrades before a new floor can be added. The design process also needs to account for stairs, roof replacement, temporary weather protection during construction, and how the added height will affect privacy and neighborhood context. In many cases, a second story is the best way to add bedrooms or a primary suite without sacrificing yard space, but it is also more disruptive than a ground-floor extension. Homeowners should expect higher engineering complexity and longer timelines than a simple rear addition. A strong concept balances structural feasibility, room layout, and the way the finished home will look from the street.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the structure must be evaluated first. A second-story addition usually requires checking the foundation, framing, shear walls, roof removal, and seismi"
+}

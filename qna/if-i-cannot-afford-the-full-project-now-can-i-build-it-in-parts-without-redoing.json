@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-cannot-afford-the-full-project-now-can-i-build-it-in-parts-without-redoing",
+  "name": "Can an attached addition be phased in stages?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I cannot afford the full project now, can I build it in parts without redoing work later?",
+    "text": "If I cannot afford the full project now, can I build it in parts without redoing work later?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phased construction can be a smart strategy when budget or timing does not allow a full build at once. The key is to design the entire addition first, even if construction happens in stages. That way the foundation, roofline, utility routing, and structural connections are all planned for the finished result. Without that upfront coordination, the first phase may block the second phase or require costly demolition later. Homeowners should think of phased work as one master project with multiple build steps. This approach works best when the contractor and designer know the final target square footage, room use, and connection points from day one. It can reduce risk and preserve long-term flexibility.",
+      "@type": "Answer",
+      "description": "Yes, but the full project should be designed from the start so each phase connects cleanly to the next. If the addition is not planned as a whole, later stages can become more expensive because completed work may need to be reopened or modified.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phased construction can be a smart strategy when budget or timing does not allow a full build at once. The key is to design the entire addition first, even if construction happens in stages. That way the foundation, roofline, utility routing, and structural connections are all planned for the finished result. Without that upfront coordination, the first phase may block the second phase or require costly demolition later. Homeowners should think of phased work as one master project with multiple build steps. This approach works best when the contractor and designer know the final target square footage, room use, and connection points from day one. It can reduce risk and preserve long-term flexibility.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the full project should be designed from the start so each phase connects cleanly to the next. If the addition is not planned as a whole, later stages "
+}

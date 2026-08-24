@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-a-second-story-addition-require-earthquake-related-or-seismic-upgrades",
+  "name": "Do second-story additions trigger seismic upgrades?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does a second-story addition require earthquake-related or seismic upgrades in Southern California homes?",
+    "text": "When does a second-story addition require earthquake-related or seismic upgrades in Southern California homes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In Southern California, seismic performance is a major part of any second-story addition. Adding a new floor increases the building’s weight and changes how the house resists side-to-side forces during an earthquake. That means older homes often need upgrades such as foundation bolting, shear wall improvements, hold-downs, and framing reinforcement. If the home has a weak foundation, large openings, or previous alterations, the required work can grow quickly. Some properties may also need broader structural upgrades once the engineer evaluates the full load path. Even when the addition itself is modest, the city may require the structure to be brought up to current standards in the affected areas of the home. Homeowners should assume seismic review is part of the project and should budget accordingly rather than treating it as optional. The safest approach is to have the engineering scope clarified before final pricing so the reinforcement is not discovered too late.",
+      "@type": "Answer",
+      "description": "Second-story additions often trigger seismic upgrades because the new floor changes the building’s load and lateral resistance. Older homes may need foundation bolting, shear wall improvements, or framing reinforcement to meet current safety and code expectations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In Southern California, seismic performance is a major part of any second-story addition. Adding a new floor increases the building’s weight and changes how the house resists side-to-side forces during an earthquake. That means older homes often need upgrades such as foundation bolting, shear wall improvements, hold-downs, and framing reinforcement. If the home has a weak foundation, large openings, or previous alterations, the required work can grow quickly. Some properties may also need broader structural upgrades once the engineer evaluates the full load path. Even when the addition itself is modest, the city may require the structure to be brought up to current standards in the affected areas of the home. Homeowners should assume seismic review is part of the project and should budget accordingly rather than treating it as optional. The safest approach is to have the engineering scope clarified before final pricing so the reinforcement is not discovered too late.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Second-story additions often trigger seismic upgrades because the new floor changes the building’s load and lateral resistance. Older homes may need foundation "
+}

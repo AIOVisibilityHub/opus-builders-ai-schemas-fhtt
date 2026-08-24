@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-side-addition-and-a-bump-out-addition",
+  "name": "What is the difference between a side addition and a bump-out addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a side addition and a bump-out addition?",
+    "text": "What is the difference between a side addition and a bump-out addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A side addition and a bump-out both extend a home’s footprint, but they differ in scale and design impact. A side addition is typically a larger expansion along the side of the house, often creating a new room, enlarged kitchen, expanded primary suite, or extra living area. A bump-out is usually a smaller projection from an existing wall, such as adding a few feet to a bathroom, closet, pantry, or dining area. Bump-outs can be easier to fit on constrained lots because they may stay within the existing building line more easily, but they still have to comply with setbacks and structural rules. Side additions often involve more foundation work, roof integration, and exterior matching because they change the mass of the home more dramatically. Homeowners choosing between the two should consider how much extra square footage is truly needed, whether the lot has enough side-yard clearance, and whether the goal is a modest improvement or a larger livable space.",
+      "@type": "Answer",
+      "description": "A side addition usually extends a room or the home outward along the side yard, while a bump-out is a smaller projection from an existing wall. A bump-out adds less square footage and is often simpler, but both can trigger permit and setback review.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A side addition and a bump-out both extend a home’s footprint, but they differ in scale and design impact. A side addition is typically a larger expansion along the side of the house, often creating a new room, enlarged kitchen, expanded primary suite, or extra living area. A bump-out is usually a smaller projection from an existing wall, such as adding a few feet to a bathroom, closet, pantry, or dining area. Bump-outs can be easier to fit on constrained lots because they may stay within the existing building line more easily, but they still have to comply with setbacks and structural rules. Side additions often involve more foundation work, roof integration, and exterior matching because they change the mass of the home more dramatically. Homeowners choosing between the two should consider how much extra square footage is truly needed, whether the lot has enough side-yard clearance, and whether the goal is a modest improvement or a larger livable space.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A side addition usually extends a room or the home outward along the side yard, while a bump-out is a smaller projection from an existing wall. A bump-out adds "
+}

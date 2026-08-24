@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-if-ever-do-neighboring-properties-need-to-sign-off-on-an-addition-in-los-an",
+  "name": "Do I need neighbor approval for a home addition permit?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When, if ever, do neighboring properties need to sign off on an addition in Los Angeles area cities?",
+    "text": "When, if ever, do neighboring properties need to sign off on an addition in Los Angeles area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most standard home addition permits do not require direct neighbor approval. However, neighboring properties can still affect the project through setbacks, easements, shared walls, access paths, drainage, and privacy impacts. If the addition is close to the property line or involves a shared structure, the city may ask for additional information or restrict the design. In some special situations, a notice or other review step may be required, but that is different from obtaining a neighbor’s signature for routine approval. Homeowners should not assume that a permit is purely a city issue; site relationships matter. The best way to avoid conflicts is to confirm the exact property boundaries and design envelope early, then address overlook, drainage, and access concerns before submittal. That approach reduces both permit delays and neighborhood disputes.",
+      "@type": "Answer",
+      "description": "Neighbor approval is not usually required for a standard home addition permit, but neighboring conditions can still affect the design. Shared walls, easements, access issues, and privacy or setback concerns may create review problems even without a formal neighbor sign-off. Certain special cases may require notices or additional review.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most standard home addition permits do not require direct neighbor approval. However, neighboring properties can still affect the project through setbacks, easements, shared walls, access paths, drainage, and privacy impacts. If the addition is close to the property line or involves a shared structure, the city may ask for additional information or restrict the design. In some special situations, a notice or other review step may be required, but that is different from obtaining a neighbor’s signature for routine approval. Homeowners should not assume that a permit is purely a city issue; site relationships matter. The best way to avoid conflicts is to confirm the exact property boundaries and design envelope early, then address overlook, drainage, and access concerns before submittal. That approach reduces both permit delays and neighborhood disputes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Neighbor approval is not usually required for a standard home addition permit, but neighboring conditions can still affect the design. Shared walls, easements, "
+}

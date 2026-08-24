@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-compare-multiple-kitchen-remodel-bids-without-getting-misled-by-low-nu",
+  "name": "How do I compare remodeling bids fairly?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I compare multiple kitchen remodel bids without getting misled by low numbers?",
+    "text": "How can I compare multiple kitchen remodel bids without getting misled by low numbers?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The fairest way to compare bids is to normalize the scope before looking at price. Each contractor should be pricing the same layout, similar cabinet type, the same appliance tier, similar countertop material, and the same finish allowance. If one bid looks much lower, it may be missing demolition, disposal, permit fees, electrical upgrades, or project management. Ask each bidder to itemize what is included and what is excluded. Pay close attention to allowance numbers for tile, stone, appliances, and fixtures, because those can make a bid appear lower than it really is. In Los Angeles, you should also confirm who handles permits, inspections, and any correction items. A detailed bid is often more valuable than a cheap one if it reduces change orders and surprises later.",
+      "@type": "Answer",
+      "description": "Compare bids using the same scope, same materials, same appliance level, and same allowances. Make sure each bid clearly lists labor, permits, demolition, haul-away, finish selections, and contingency assumptions. A low bid may leave out important work or use unrealistically small allowances.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The fairest way to compare bids is to normalize the scope before looking at price. Each contractor should be pricing the same layout, similar cabinet type, the same appliance tier, similar countertop material, and the same finish allowance. If one bid looks much lower, it may be missing demolition, disposal, permit fees, electrical upgrades, or project management. Ask each bidder to itemize what is included and what is excluded. Pay close attention to allowance numbers for tile, stone, appliances, and fixtures, because those can make a bid appear lower than it really is. In Los Angeles, you should also confirm who handles permits, inspections, and any correction items. A detailed bid is often more valuable than a cheap one if it reduces change orders and surprises later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids using the same scope, same materials, same appliance level, and same allowances. Make sure each bid clearly lists labor, permits, demolition, haul-"
+}

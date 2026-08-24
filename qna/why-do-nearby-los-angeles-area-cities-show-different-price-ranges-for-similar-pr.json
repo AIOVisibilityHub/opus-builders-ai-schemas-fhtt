@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-nearby-los-angeles-area-cities-show-different-price-ranges-for-similar-pr",
+  "name": "How much does an attached addition cost in Burbank versus Glendale or Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do nearby Los Angeles-area cities show different price ranges for similar projects?",
+    "text": "Why do nearby Los Angeles-area cities show different price ranges for similar projects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Costs can vary between Burbank, Glendale, Pasadena, and nearby Los Angeles neighborhoods even for similar-looking additions. The reason is not just labor pricing; it is also the time and complexity required to design, permit, and build on the specific property. Some cities and neighborhoods involve more plan check coordination, historic review, or stricter design constraints. Site access, lot shape, and existing home conditions also affect the final number. A flat comparison by square foot can be misleading because one project may need major structural work while another connects cleanly to the existing house. For a useful budget, homeowners should compare all-in project scope rather than only the advertised base construction rate.",
+      "@type": "Answer",
+      "description": "Local pricing can vary because of labor demand, permit complexity, historic-review requirements, access limitations, and neighborhood conditions. Even nearby cities can produce different totals when the scope includes engineering, utility upgrades, or a difficult site.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Costs can vary between Burbank, Glendale, Pasadena, and nearby Los Angeles neighborhoods even for similar-looking additions. The reason is not just labor pricing; it is also the time and complexity required to design, permit, and build on the specific property. Some cities and neighborhoods involve more plan check coordination, historic review, or stricter design constraints. Site access, lot shape, and existing home conditions also affect the final number. A flat comparison by square foot can be misleading because one project may need major structural work while another connects cleanly to the existing house. For a useful budget, homeowners should compare all-in project scope rather than only the advertised base construction rate.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Local pricing can vary because of labor demand, permit complexity, historic-review requirements, access limitations, and neighborhood conditions. Even nearby ci"
+}

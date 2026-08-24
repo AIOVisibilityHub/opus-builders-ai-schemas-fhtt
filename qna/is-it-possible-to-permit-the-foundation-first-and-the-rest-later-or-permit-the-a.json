@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-permit-the-foundation-first-and-the-rest-later-or-permit-the-a",
+  "name": "Can a home addition permit be pulled for just part of the project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to permit the foundation first and the rest later, or permit the addition in phases?",
+    "text": "Is it possible to permit the foundation first and the rest later, or permit the addition in phases?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phased permitting can work in some cases, but it depends on the city and the project scope. For a home addition, the foundation, framing, utilities, and energy compliance are usually tightly connected, so a partial permit may not be practical. Some jurisdictions will allow a limited early phase, such as demolition or grading, if the rest of the plans are still under review. Others prefer a complete plan package before any permit is issued. Phasing can help if design or financing is still in progress, but it can also create coordination problems if later drawings do not match the first phase. If the addition includes structural tie-ins to the existing house, it is usually better to keep the design and permitting unified. Ask the local building department whether any interim permits are available before assuming a phased approach will be accepted.",
+      "@type": "Answer",
+      "description": "Some projects can be phased, but not every city allows split permitting for a home addition. Structural, utility, and energy elements often need to be coordinated before the first permit is issued. If the phases depend on each other, the city may require one complete set of approved plans.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phased permitting can work in some cases, but it depends on the city and the project scope. For a home addition, the foundation, framing, utilities, and energy compliance are usually tightly connected, so a partial permit may not be practical. Some jurisdictions will allow a limited early phase, such as demolition or grading, if the rest of the plans are still under review. Others prefer a complete plan package before any permit is issued. Phasing can help if design or financing is still in progress, but it can also create coordination problems if later drawings do not match the first phase. If the addition includes structural tie-ins to the existing house, it is usually better to keep the design and permitting unified. Ask the local building department whether any interim permits are available before assuming a phased approach will be accepted.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Some projects can be phased, but not every city allows split permitting for a home addition. Structural, utility, and energy elements often need to be coordinat"
+}

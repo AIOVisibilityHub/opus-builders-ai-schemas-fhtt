@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-changes-if-the-home-is-in-a-historic-district-or-preservation-area",
+  "name": "Do attached additions in historic neighborhoods need extra review?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What changes if the home is in a historic district or preservation area?",
+    "text": "What changes if the home is in a historic district or preservation area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the home is in a historic district or preservation area, the project may face extra design scrutiny even when the addition is otherwise straightforward. Reviewers often focus on whether the new work respects the scale and character of the existing home and surrounding neighborhood. That can affect roof forms, window proportions, exterior materials, and how visible the addition is from the street. In some cases, the design may need to be stepped back or reduced in prominence. Homeowners should plan for more time, more documents, and possibly more revisions. This is especially important in older Los Angeles-area neighborhoods where preservation standards and community expectations can be significant. Early design review helps avoid surprises after drawings are already complete.",
+      "@type": "Answer",
+      "description": "Yes. Historic districts often require design review in addition to standard building permits. The addition may need to fit neighborhood character guidelines for massing, scale, roof forms, materials, and street-facing visibility.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the home is in a historic district or preservation area, the project may face extra design scrutiny even when the addition is otherwise straightforward. Reviewers often focus on whether the new work respects the scale and character of the existing home and surrounding neighborhood. That can affect roof forms, window proportions, exterior materials, and how visible the addition is from the street. In some cases, the design may need to be stepped back or reduced in prominence. Homeowners should plan for more time, more documents, and possibly more revisions. This is especially important in older Los Angeles-area neighborhoods where preservation standards and community expectations can be significant. Early design review helps avoid surprises after drawings are already complete.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Historic districts often require design review in addition to standard building permits. The addition may need to fit neighborhood character guidelines for"
+}

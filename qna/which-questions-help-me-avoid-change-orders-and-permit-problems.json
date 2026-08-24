@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-questions-help-me-avoid-change-orders-and-permit-problems",
+  "name": "What should I ask a contractor before starting an attached addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which questions help me avoid change orders and permit problems?",
+    "text": "Which questions help me avoid change orders and permit problems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring a contractor for an attached addition, ask how they handle permitting, engineering, inspections, and unexpected conditions. You want a team that can explain the sequence from design to final sign-off and identify who is responsible for each part of the process. Ask whether they have built similar additions on homes like yours, especially if the property is older, narrow, or in a historic area. Clarify how change orders are priced, how schedule delays are managed, and what happens if the existing structure reveals hidden damage or code issues. It is also smart to ask about dust control, occupant safety, and whether the crew will protect finished areas of the house. Strong answers here usually indicate fewer surprises later.",
+      "@type": "Answer",
+      "description": "Ask about permit handling, structural experience, timeline, supervision, insurance, change-order policy, and how the contractor deals with hidden conditions. The best contractor should explain how they coordinate drawings, inspections, sequencing, and site protection before work begins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring a contractor for an attached addition, ask how they handle permitting, engineering, inspections, and unexpected conditions. You want a team that can explain the sequence from design to final sign-off and identify who is responsible for each part of the process. Ask whether they have built similar additions on homes like yours, especially if the property is older, narrow, or in a historic area. Clarify how change orders are priced, how schedule delays are managed, and what happens if the existing structure reveals hidden damage or code issues. It is also smart to ask about dust control, occupant safety, and whether the crew will protect finished areas of the house. Strong answers here usually indicate fewer surprises later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about permit handling, structural experience, timeline, supervision, insurance, change-order policy, and how the contractor deals with hidden conditions. Th"
+}

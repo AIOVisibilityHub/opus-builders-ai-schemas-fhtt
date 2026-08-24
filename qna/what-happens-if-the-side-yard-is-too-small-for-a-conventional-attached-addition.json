@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-side-yard-is-too-small-for-a-conventional-attached-addition",
+  "name": "Can you build an attached addition on a narrow lot in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the side yard is too small for a conventional attached addition?",
+    "text": "What happens if the side yard is too small for a conventional attached addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Narrow lots do not automatically rule out an attached addition, but they do limit layout options. The design has to work around setbacks, easements, windows on neighboring properties, roof tie-ins, and drainage patterns. In many cases, the best solution is to expand rearward, build upward, or reshape interior circulation instead of pushing the addition into the side yard. This is where a site-specific feasibility review matters most. A good concept plan should show the home footprint, required yard clearances, existing utility lines, and how the new structure will connect cleanly to the old one. If the lot is especially constrained, the project may also need more careful grading, foundation, and drainage design.",
+      "@type": "Answer",
+      "description": "Yes, but narrow lots often require a more customized design. The addition may need to fit within setback limits, preserve light and ventilation, and avoid blocking access or drainage. On tight urban lots, second-story or rear-expansion layouts are often more feasible than wide side expansions.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Narrow lots do not automatically rule out an attached addition, but they do limit layout options. The design has to work around setbacks, easements, windows on neighboring properties, roof tie-ins, and drainage patterns. In many cases, the best solution is to expand rearward, build upward, or reshape interior circulation instead of pushing the addition into the side yard. This is where a site-specific feasibility review matters most. A good concept plan should show the home footprint, required yard clearances, existing utility lines, and how the new structure will connect cleanly to the old one. If the lot is especially constrained, the project may also need more careful grading, foundation, and drainage design.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but narrow lots often require a more customized design. The addition may need to fit within setback limits, preserve light and ventilation, and avoid block"
+}

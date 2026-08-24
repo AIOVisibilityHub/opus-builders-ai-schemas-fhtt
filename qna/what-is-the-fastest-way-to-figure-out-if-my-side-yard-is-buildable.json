@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-fastest-way-to-figure-out-if-my-side-yard-is-buildable",
+  "name": "What is the fastest way to figure out if my side-yard is buildable?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the fastest way to figure out if my side-yard is buildable?",
+    "text": "What is the fastest way to figure out if my side-yard is buildable?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The fastest reliable way to figure out whether a side yard is buildable is to verify the jurisdiction first, then compare the actual site dimensions against zoning and fire-related requirements. A measured survey or accurate site plan is much better than relying on a listing sketch, assessor map, or visual estimate. Once the side-yard width is known, it can be checked against setbacks, projections, utility conflicts, easements, and access needs. This quick feasibility step often reveals whether a side addition is realistic, whether it needs to be smaller, or whether another type of addition would work better. On many properties, the apparent side space is not fully usable because of existing roof overhangs, mechanical equipment, fences, or boundary irregularities. A quick feasibility review can save weeks of design time and avoid paying for plans that cannot be approved. For homeowners in dense areas like Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, this early check is often the most valuable step in the whole project.",
+      "@type": "Answer",
+      "description": "The fastest way is to confirm the property’s jurisdiction, get a measured site plan or survey, and compare the available width to setback and fire-separation requirements. A quick look at the lot is not enough to determine buildability.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The fastest reliable way to figure out whether a side yard is buildable is to verify the jurisdiction first, then compare the actual site dimensions against zoning and fire-related requirements. A measured survey or accurate site plan is much better than relying on a listing sketch, assessor map, or visual estimate. Once the side-yard width is known, it can be checked against setbacks, projections, utility conflicts, easements, and access needs. This quick feasibility step often reveals whether a side addition is realistic, whether it needs to be smaller, or whether another type of addition would work better. On many properties, the apparent side space is not fully usable because of existing roof overhangs, mechanical equipment, fences, or boundary irregularities. A quick feasibility review can save weeks of design time and avoid paying for plans that cannot be approved. For homeowners in dense areas like Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, this early check is often the most valuable step in the whole project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The fastest way is to confirm the property’s jurisdiction, get a measured site plan or survey, and compare the available width to setback and fire-separation re"
+}

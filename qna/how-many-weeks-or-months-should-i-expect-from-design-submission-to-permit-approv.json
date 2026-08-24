@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-many-weeks-or-months-should-i-expect-from-design-submission-to-permit-approv",
+  "name": "How long does it take to get a permit for a rear addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How many weeks or months should I expect from design submission to permit approval for a rear-house addition?",
+    "text": "How many weeks or months should I expect from design submission to permit approval for a rear-house addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit timing is one of the least predictable parts of a rear-house addition. Simple projects may move through faster review, but rear additions often require architectural plans, structural engineering, energy compliance, and multiple correction cycles before approval. The timeline can stretch further if the property is in a special zone, has nonconforming conditions, or needs additional review from planning, building, or public works. Homeowners should expect the permit phase to be separate from construction and should not schedule demolition or framing until the permit path is clear. The fastest projects are usually the ones that resolve setbacks, height, and code issues before submittal. A complete and well-coordinated plan set saves time because missing details are a major cause of delays. The best planning strategy is to assume a longer approval window than the initial estimate and build that into the project schedule.",
+      "@type": "Answer",
+      "description": "Timeline depends on city, plan complexity, and how many corrections the plans receive. A straightforward rear addition can move faster than a complex two-story or hillside project, but plan check and revisions often add significant time.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit timing is one of the least predictable parts of a rear-house addition. Simple projects may move through faster review, but rear additions often require architectural plans, structural engineering, energy compliance, and multiple correction cycles before approval. The timeline can stretch further if the property is in a special zone, has nonconforming conditions, or needs additional review from planning, building, or public works. Homeowners should expect the permit phase to be separate from construction and should not schedule demolition or framing until the permit path is clear. The fastest projects are usually the ones that resolve setbacks, height, and code issues before submittal. A complete and well-coordinated plan set saves time because missing details are a major cause of delays. The best planning strategy is to assume a longer approval window than the initial estimate and build that into the project schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Timeline depends on city, plan complexity, and how many corrections the plans receive. A straightforward rear addition can move faster than a complex two-story "
+}

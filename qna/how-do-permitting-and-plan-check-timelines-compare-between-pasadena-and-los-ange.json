@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-permitting-and-plan-check-timelines-compare-between-pasadena-and-los-ange",
+  "name": "How long does home addition plan check take in Pasadena vs Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do permitting and plan-check timelines compare between Pasadena and Los Angeles for a home addition?",
+    "text": "How do permitting and plan-check timelines compare between Pasadena and Los Angeles for a home addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit timelines depend heavily on completeness, zoning issues, and whether the addition needs multiple department reviews. Simple additions with clean plans can move through review relatively quickly, but larger projects often face back-and-forth corrections. Pasadena typically expects a complete submittal package and may require several rounds if structural, energy, or site-plan details are missing. Los Angeles additions generally need plan check approval before permit issuance, and projects with hillside conditions, special zoning, or coastal influence can take longer. The fastest path is usually a fully coordinated set of drawings, structural calculations, and energy documents submitted together. Applicants should also budget time for corrections, fee payment, and any separate agency approvals. In practice, the schedule is often determined less by the city itself and more by how well the project is packaged at the start.",
+      "@type": "Answer",
+      "description": "Timelines vary by city, project complexity, and how complete the plans are. Straightforward additions may move faster, while larger or hillside projects can take weeks of plan check and revisions. Pasadena can require multiple plan-check rounds, and Los Angeles often processes additions through building plan check before permit issuance.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit timelines depend heavily on completeness, zoning issues, and whether the addition needs multiple department reviews. Simple additions with clean plans can move through review relatively quickly, but larger projects often face back-and-forth corrections. Pasadena typically expects a complete submittal package and may require several rounds if structural, energy, or site-plan details are missing. Los Angeles additions generally need plan check approval before permit issuance, and projects with hillside conditions, special zoning, or coastal influence can take longer. The fastest path is usually a fully coordinated set of drawings, structural calculations, and energy documents submitted together. Applicants should also budget time for corrections, fee payment, and any separate agency approvals. In practice, the schedule is often determined less by the city itself and more by how well the project is packaged at the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Timelines vary by city, project complexity, and how complete the plans are. Straightforward additions may move faster, while larger or hillside projects can tak"
+}

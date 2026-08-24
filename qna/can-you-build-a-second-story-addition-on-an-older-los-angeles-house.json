@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-build-a-second-story-addition-on-an-older-los-angeles-house",
+  "name": "Can you build a second-story addition on an older Los Angeles house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you build a second-story addition on an older Los Angeles house?",
+    "text": "Can you build a second-story addition on an older Los Angeles house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many older Los Angeles homes can be expanded upward, but second-story additions are not a simple framing project. The existing foundation, framing system, lateral bracing, and soil conditions must all be evaluated before a design is approved. In some cases, the home can support a second story with targeted reinforcement. In others, the work becomes a major structural upgrade that adds time and cost. This is especially important in neighborhoods with older construction or hillside conditions. Homeowners should also think about how the family will live during the project, since second-story construction can be disruptive and may require temporary relocation. A solid feasibility review should cover structural capacity, stairs, roof removal, utility rerouting, and whether the added height will create privacy or setback issues with neighboring homes.",
+      "@type": "Answer",
+      "description": "Yes, many older Los Angeles houses can support a second-story addition, but only after structural review. The foundation, framing, shear walls, and soil conditions must be checked first, and some homes need major reinforcement before building upward.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many older Los Angeles homes can be expanded upward, but second-story additions are not a simple framing project. The existing foundation, framing system, lateral bracing, and soil conditions must all be evaluated before a design is approved. In some cases, the home can support a second story with targeted reinforcement. In others, the work becomes a major structural upgrade that adds time and cost. This is especially important in neighborhoods with older construction or hillside conditions. Homeowners should also think about how the family will live during the project, since second-story construction can be disruptive and may require temporary relocation. A solid feasibility review should cover structural capacity, stairs, roof removal, utility rerouting, and whether the added height will create privacy or setback issues with neighboring homes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many older Los Angeles houses can support a second-story addition, but only after structural review. The foundation, framing, shear walls, and soil conditi"
+}

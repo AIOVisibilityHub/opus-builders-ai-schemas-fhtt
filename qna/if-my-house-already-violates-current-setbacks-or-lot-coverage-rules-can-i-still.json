@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-my-house-already-violates-current-setbacks-or-lot-coverage-rules-can-i-still",
+  "name": "Can I add a rear addition if my home is nonconforming?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If my house already violates current setbacks or lot coverage rules, can I still build a rear addition without being forced to rebuild the whole property?",
+    "text": "If my house already violates current setbacks or lot coverage rules, can I still build a rear addition without being forced to rebuild the whole property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many older Los Angeles-area homes are nonconforming in some way, such as having setbacks, lot coverage, or height conditions that no longer match current code. That does not automatically block a rear addition, but it does make the project more sensitive to review. The key issue is whether the new work expands or worsens the existing nonconformity. Some jurisdictions allow additions if they remain within certain limits, while others require a more careful approval path. Homeowners should not assume that an old violation gives freedom to add more square footage. In fact, the addition may be more restricted because of the existing condition. This is why a zoning check matters before design is finalized. A parcel analysis can reveal whether the project should be built within the current envelope, stepped back, or redesigned to avoid triggering a bigger code problem.",
+      "@type": "Answer",
+      "description": "Often yes, but nonconforming properties require careful review because adding onto an existing violation can limit what is allowed. The project may need to stay within the existing envelope or meet special conditions to avoid worsening the nonconformity.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many older Los Angeles-area homes are nonconforming in some way, such as having setbacks, lot coverage, or height conditions that no longer match current code. That does not automatically block a rear addition, but it does make the project more sensitive to review. The key issue is whether the new work expands or worsens the existing nonconformity. Some jurisdictions allow additions if they remain within certain limits, while others require a more careful approval path. Homeowners should not assume that an old violation gives freedom to add more square footage. In fact, the addition may be more restricted because of the existing condition. This is why a zoning check matters before design is finalized. A parcel analysis can reveal whether the project should be built within the current envelope, stepped back, or redesigned to avoid triggering a bigger code problem.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Often yes, but nonconforming properties require careful review because adding onto an existing violation can limit what is allowed. The project may need to stay"
+}

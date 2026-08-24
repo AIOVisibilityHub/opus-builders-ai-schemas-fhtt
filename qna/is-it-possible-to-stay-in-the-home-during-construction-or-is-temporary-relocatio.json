@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-stay-in-the-home-during-construction-or-is-temporary-relocatio",
+  "name": "Can an attached addition be built while living in the house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to stay in the home during construction, or is temporary relocation usually needed?",
+    "text": "Is it possible to stay in the home during construction, or is temporary relocation usually needed?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many homeowners remain in the house during an attached addition, especially when the project is phased to isolate the work area. That said, the experience can be disruptive. Construction can affect access, noise, dust, parking, and utility service, and there may be periods when water, power, or HVAC are temporarily interrupted. If the project involves a major roof tie-in, kitchen relocation, or work directly adjacent to bedrooms and living areas, staying in place becomes harder. Families with young children, remote work needs, or sensitivity to dust and noise sometimes choose to move out for part of the project. The decision usually comes down to project size, site protection measures, and how much of the home remains functional during construction.",
+      "@type": "Answer",
+      "description": "Often yes, but it depends on the size and location of the addition. Families may stay in the home during a staged project if major systems, kitchens, or bedrooms remain usable. Large structural work, dust, utility shutoffs, and safety restrictions can make temporary relocation more practical.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many homeowners remain in the house during an attached addition, especially when the project is phased to isolate the work area. That said, the experience can be disruptive. Construction can affect access, noise, dust, parking, and utility service, and there may be periods when water, power, or HVAC are temporarily interrupted. If the project involves a major roof tie-in, kitchen relocation, or work directly adjacent to bedrooms and living areas, staying in place becomes harder. Families with young children, remote work needs, or sensitivity to dust and noise sometimes choose to move out for part of the project. The decision usually comes down to project size, site protection measures, and how much of the home remains functional during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Often yes, but it depends on the size and location of the addition. Families may stay in the home during a staged project if major systems, kitchens, or bedroom"
+}

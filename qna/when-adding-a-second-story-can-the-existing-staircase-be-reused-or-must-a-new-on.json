@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-adding-a-second-story-can-the-existing-staircase-be-reused-or-must-a-new-on",
+  "name": "Do I need a new staircase for a second-story addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When adding a second story, can the existing staircase be reused or must a new one be built?",
+    "text": "When adding a second story, can the existing staircase be reused or must a new one be built?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can reuse the existing staircase depends on its location, dimensions, condition, and how the new second-floor plan is arranged. In some houses, the current stair can connect to the new level with only minor modifications. In many others, the stair must be relocated or rebuilt to create a safer, more efficient layout and to meet code requirements for rise, run, headroom, and landing configuration. Stair placement is a major design decision because it affects the first-floor room layout, structural framing, and traffic flow throughout the home. A stair that works for the existing house may not work well for the expanded floor plan. Homeowners should expect stair planning to happen early in design, not as an afterthought, because it can change the entire project footprint and budget.",
+      "@type": "Answer",
+      "description": "Sometimes the existing staircase can be reused, but many second-story additions require a new or relocated stair to meet code, improve circulation, and fit the new layout. Stair location often affects the entire design of the project.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can reuse the existing staircase depends on its location, dimensions, condition, and how the new second-floor plan is arranged. In some houses, the current stair can connect to the new level with only minor modifications. In many others, the stair must be relocated or rebuilt to create a safer, more efficient layout and to meet code requirements for rise, run, headroom, and landing configuration. Stair placement is a major design decision because it affects the first-floor room layout, structural framing, and traffic flow throughout the home. A stair that works for the existing house may not work well for the expanded floor plan. Homeowners should expect stair planning to happen early in design, not as an afterthought, because it can change the entire project footprint and budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes the existing staircase can be reused, but many second-story additions require a new or relocated stair to meet code, improve circulation, and fit the "
+}

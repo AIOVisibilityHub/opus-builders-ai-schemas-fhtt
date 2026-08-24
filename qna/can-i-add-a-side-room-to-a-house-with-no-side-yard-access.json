@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-add-a-side-room-to-a-house-with-no-side-yard-access",
+  "name": "Can I add a side room to a house with no side yard access?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I add a side room to a house with no side yard access?",
+    "text": "Can I add a side room to a house with no side yard access?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, a side room can sometimes still be added even if the property has little or no side-yard access, but construction becomes more complicated. Contractors may need to bring materials through the front or rear yard, protect existing finishes, and plan for limited equipment staging. In some cases, only smaller tools or manual handling will fit, which can increase labor time. If the side area is fully enclosed by fences, neighboring structures, or narrow passages, the project may need special construction sequencing or temporary access solutions. Lack of side access does not automatically make the project impossible, but it can affect cost, schedule, and design choices. It may also influence foundation strategy and whether larger structural members can realistically be installed. Homeowners should expect the contractor to evaluate logistics early, because access limitations often change the feasibility of the addition just as much as zoning does. A project that looks simple on paper can become expensive if crews cannot physically work in the space efficiently.",
+      "@type": "Answer",
+      "description": "Sometimes. A side room may still be possible if crews can access the area from the front, rear, or over the roof, but construction logistics become harder and more expensive. Tight access often affects equipment use, foundation work, and material staging.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, a side room can sometimes still be added even if the property has little or no side-yard access, but construction becomes more complicated. Contractors may need to bring materials through the front or rear yard, protect existing finishes, and plan for limited equipment staging. In some cases, only smaller tools or manual handling will fit, which can increase labor time. If the side area is fully enclosed by fences, neighboring structures, or narrow passages, the project may need special construction sequencing or temporary access solutions. Lack of side access does not automatically make the project impossible, but it can affect cost, schedule, and design choices. It may also influence foundation strategy and whether larger structural members can realistically be installed. Homeowners should expect the contractor to evaluate logistics early, because access limitations often change the feasibility of the addition just as much as zoning does. A project that looks simple on paper can become expensive if crews cannot physically work in the space efficiently.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes. A side room may still be possible if crews can access the area from the front, rear, or over the roof, but construction logistics become harder and m"
+}

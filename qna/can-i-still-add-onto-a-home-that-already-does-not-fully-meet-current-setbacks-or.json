@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-still-add-onto-a-home-that-already-does-not-fully-meet-current-setbacks-or",
+  "name": "What if my existing house is nonconforming?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I still add onto a home that already does not fully meet current setbacks or zoning rules?",
+    "text": "Can I still add onto a home that already does not fully meet current setbacks or zoning rules?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An existing nonconforming house does not automatically block a home addition, but it can complicate the permit path. The city may let the current structure remain while requiring the new addition to comply with current setbacks, height limits, lot coverage, and building standards. In some cases, the addition can also affect whether the existing nonconforming condition is expanded or reduced. That means a project that seems simple on paper may need a more careful zoning analysis before drawings are finalized. Homeowners should not assume the existing house’s status will carry over to the new work. Instead, confirm how the local department treats nonconforming structures, especially if the addition touches a side yard, rear yard, or second story. Early code review can prevent redesign later.",
+      "@type": "Answer",
+      "description": "A nonconforming house can often still be improved, but the addition may be limited by current zoning and code rules. The city may allow continued use of the existing structure while requiring the new work to meet current standards. The addition can sometimes trigger a larger review than a conforming home would.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An existing nonconforming house does not automatically block a home addition, but it can complicate the permit path. The city may let the current structure remain while requiring the new addition to comply with current setbacks, height limits, lot coverage, and building standards. In some cases, the addition can also affect whether the existing nonconforming condition is expanded or reduced. That means a project that seems simple on paper may need a more careful zoning analysis before drawings are finalized. Homeowners should not assume the existing house’s status will carry over to the new work. Instead, confirm how the local department treats nonconforming structures, especially if the addition touches a side yard, rear yard, or second story. Early code review can prevent redesign later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A nonconforming house can often still be improved, but the addition may be limited by current zoning and code rules. The city may allow continued use of the exi"
+}

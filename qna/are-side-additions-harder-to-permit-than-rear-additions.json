@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-side-additions-harder-to-permit-than-rear-additions",
+  "name": "Are side additions harder to permit than rear additions?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are side additions harder to permit than rear additions?",
+    "text": "Are side additions harder to permit than rear additions?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Side additions are often harder to permit than rear additions because side yards are more likely to be constrained by setbacks, fire separation requirements, access limitations, and proximity to neighboring structures. Rear additions can sometimes have more room to work with, especially on standard lots where the backyard is deeper than the side yard is wide. That said, a rear addition can also be difficult if the lot is shallow, has a pool, or must preserve outdoor space. The real issue is not whether the addition is on the side or rear; it is how much buildable envelope remains after code constraints are applied. Side additions tend to be more sensitive to wall openings and property-line clearances, which can complicate the design early. For many Los Angeles-area homes, the side yard is the first place where setbacks become a limiting factor. That is why side additions often need more careful planning before permit submittal.",
+      "@type": "Answer",
+      "description": "Often yes, because side additions more frequently run into setback, fire separation, access, and privacy constraints. Rear additions usually have more flexibility on many lots, but the answer still depends on the property’s exact zoning and site layout.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Side additions are often harder to permit than rear additions because side yards are more likely to be constrained by setbacks, fire separation requirements, access limitations, and proximity to neighboring structures. Rear additions can sometimes have more room to work with, especially on standard lots where the backyard is deeper than the side yard is wide. That said, a rear addition can also be difficult if the lot is shallow, has a pool, or must preserve outdoor space. The real issue is not whether the addition is on the side or rear; it is how much buildable envelope remains after code constraints are applied. Side additions tend to be more sensitive to wall openings and property-line clearances, which can complicate the design early. For many Los Angeles-area homes, the side yard is the first place where setbacks become a limiting factor. That is why side additions often need more careful planning before permit submittal.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Often yes, because side additions more frequently run into setback, fire separation, access, and privacy constraints. Rear additions usually have more flexibili"
+}

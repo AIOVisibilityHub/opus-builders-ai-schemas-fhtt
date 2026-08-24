@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-new-addition-cause-water-to-pool-near-the-house-or-neighbor-s-yard",
+  "name": "What if the attached addition creates drainage problems?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a new addition cause water to pool near the house or neighbor’s yard?",
+    "text": "Can a new addition cause water to pool near the house or neighbor’s yard?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Drainage is easy to overlook, but attached additions can significantly change how water flows around a home. New roof surfaces, downspout locations, and grading transitions can send runoff toward the foundation or into low spots that did not exist before. On tight urban lots, drainage mistakes can also affect neighboring properties. That is why the addition plan should include roof drainage, site slope, and discharge locations from the beginning. In some cases, the project may need new drains, gutters, splash blocks, or site grading corrections. A well-designed addition should improve the property, not create standing water or moisture intrusion issues. Homeowners should ask about drainage before finalizing the layout, especially if the site already has water problems.",
+      "@type": "Answer",
+      "description": "Yes. New walls, roofs, and grading can change how water moves across the site. Drainage should be planned with the addition so runoff does not collect at the foundation or create problems for adjacent properties.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Drainage is easy to overlook, but attached additions can significantly change how water flows around a home. New roof surfaces, downspout locations, and grading transitions can send runoff toward the foundation or into low spots that did not exist before. On tight urban lots, drainage mistakes can also affect neighboring properties. That is why the addition plan should include roof drainage, site slope, and discharge locations from the beginning. In some cases, the project may need new drains, gutters, splash blocks, or site grading corrections. A well-designed addition should improve the property, not create standing water or moisture intrusion issues. Homeowners should ask about drainage before finalizing the layout, especially if the site already has water problems.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. New walls, roofs, and grading can change how water moves across the site. Drainage should be planned with the addition so runoff does not collect at the fo"
+}

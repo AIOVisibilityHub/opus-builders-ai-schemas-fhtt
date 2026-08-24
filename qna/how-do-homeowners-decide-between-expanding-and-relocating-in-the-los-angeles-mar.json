@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-homeowners-decide-between-expanding-and-relocating-in-the-los-angeles-mar",
+  "name": "Is it better to build an attached addition or move to a larger house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do homeowners decide between expanding and relocating in the Los Angeles market?",
+    "text": "How do homeowners decide between expanding and relocating in the Los Angeles market?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The decision comes down to land value, lifestyle, and project economics. If the home sits in a desirable area and the lot can support a smart addition, expanding may be more efficient than entering a competitive housing market. An addition also lets homeowners preserve location, schools, commute patterns, and existing neighborhood ties. On the other hand, if the house has severe structural limitations, poor site access, or a layout that would require major rework to function well, moving may be the better choice. The most useful comparison is not just purchase price versus construction cost, but the all-in result: financing, permit time, disruption, resale potential, and how well the final home fits the family’s long-term needs. A feasibility study often makes this decision clearer.",
+      "@type": "Answer",
+      "description": "The better choice depends on lot potential, neighborhood value, emotional attachment to the home, and total project cost. If the lot can support the needed space and the neighborhood is a good long-term fit, an addition may be more practical than buying a larger house.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The decision comes down to land value, lifestyle, and project economics. If the home sits in a desirable area and the lot can support a smart addition, expanding may be more efficient than entering a competitive housing market. An addition also lets homeowners preserve location, schools, commute patterns, and existing neighborhood ties. On the other hand, if the house has severe structural limitations, poor site access, or a layout that would require major rework to function well, moving may be the better choice. The most useful comparison is not just purchase price versus construction cost, but the all-in result: financing, permit time, disruption, resale potential, and how well the final home fits the family’s long-term needs. A feasibility study often makes this decision clearer.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The better choice depends on lot potential, neighborhood value, emotional attachment to the home, and total project cost. If the lot can support the needed spac"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-additions-tend-to-improve-resale-value-the-most",
+  "name": "Can an attached addition increase home value enough to justify the cost?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which additions tend to improve resale value the most?",
+    "text": "Which additions tend to improve resale value the most?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An attached addition can improve resale value, but only when it makes the home more usable and marketable. Buyers usually respond best to additions that add a bedroom, expand a primary suite, create a needed family room, or improve flow without hurting curb appeal. Overbuilding for the neighborhood can reduce the return, especially if the final home feels out of scale for the area. The highest-value projects are typically those that solve a common buyer pain point and look like they were always part of the house. To evaluate return on investment, homeowners should compare the project cost with local comps, likely appraisal impact, and the quality of the design. A well-planned addition often adds more practical value than a generic square-footage bump.",
+      "@type": "Answer",
+      "description": "Attached additions can add value when they solve a real space problem, improve bedroom or bathroom count, or create a better layout. Additions that are well integrated with the existing home usually perform better than awkward expansions that overbuild the neighborhood.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An attached addition can improve resale value, but only when it makes the home more usable and marketable. Buyers usually respond best to additions that add a bedroom, expand a primary suite, create a needed family room, or improve flow without hurting curb appeal. Overbuilding for the neighborhood can reduce the return, especially if the final home feels out of scale for the area. The highest-value projects are typically those that solve a common buyer pain point and look like they were always part of the house. To evaluate return on investment, homeowners should compare the project cost with local comps, likely appraisal impact, and the quality of the design. A well-planned addition often adds more practical value than a generic square-footage bump.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Attached additions can add value when they solve a real space problem, improve bedroom or bathroom count, or create a better layout. Additions that are well int"
+}

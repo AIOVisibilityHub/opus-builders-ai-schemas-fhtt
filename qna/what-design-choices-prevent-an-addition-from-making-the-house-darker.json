@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-design-choices-prevent-an-addition-from-making-the-house-darker",
+  "name": "How do I keep my home addition from blocking natural light?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What design choices prevent an addition from making the house darker?",
+    "text": "What design choices prevent an addition from making the house darker?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Natural light can disappear quickly if an addition is drawn as a simple box. The best designs consider orientation, window placement, ceiling height, and how light moves through existing rooms. Skylights, clerestory windows, and larger glazed openings can help bring daylight into the center of the plan. Setbacks and partial-height walls can also preserve side light from neighboring yards. If the addition is on the rear of the home, the interior layout should avoid creating long, enclosed hallways that block light from reaching older parts of the house. Materials and finishes matter too, because lighter interior surfaces reflect daylight better than dark ones. In Los Angeles neighborhoods with close side yards, a designer should treat daylight as a core part of the plan instead of a finish detail. That is often the difference between a bright, livable expansion and one that feels shut in.",
+      "@type": "Answer",
+      "description": "Use skylights, larger openings, glass doors, clerestory windows, light wells, and roof or wall setbacks to protect daylight. Orientation also matters, especially when an addition is built along the rear or side of the home. A well-planned layout keeps deeper rooms from becoming dark corridors.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Natural light can disappear quickly if an addition is drawn as a simple box. The best designs consider orientation, window placement, ceiling height, and how light moves through existing rooms. Skylights, clerestory windows, and larger glazed openings can help bring daylight into the center of the plan. Setbacks and partial-height walls can also preserve side light from neighboring yards. If the addition is on the rear of the home, the interior layout should avoid creating long, enclosed hallways that block light from reaching older parts of the house. Materials and finishes matter too, because lighter interior surfaces reflect daylight better than dark ones. In Los Angeles neighborhoods with close side yards, a designer should treat daylight as a core part of the plan instead of a finish detail. That is often the difference between a bright, livable expansion and one that feels shut in.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Use skylights, larger openings, glass doors, clerestory windows, light wells, and roof or wall setbacks to protect daylight. Orientation also matters, especiall"
+}

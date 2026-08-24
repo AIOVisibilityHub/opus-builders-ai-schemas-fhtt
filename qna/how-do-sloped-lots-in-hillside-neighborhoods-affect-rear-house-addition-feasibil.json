@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-sloped-lots-in-hillside-neighborhoods-affect-rear-house-addition-feasibil",
+  "name": "What happens if the lot slope changes the rear addition design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do sloped lots in hillside neighborhoods affect rear-house addition feasibility, structure, and permit review?",
+    "text": "How do sloped lots in hillside neighborhoods affect rear-house addition feasibility, structure, and permit review?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A sloped lot can turn a straightforward rear addition into a more complex project. Foundation design may need stepped footings, retaining structures, or deeper excavation, and drainage must be carefully managed so water does not move toward the house or neighboring properties. Height and grading measurements can also become harder to calculate, which may affect how large or tall the addition can be. In hillside areas, the rear addition may need more engineering detail and potentially more review steps than a flat-lot project. The big mistake is to use a generic flat-site design and hope it will work on a slope. Instead, the design should start with the actual topography so the structure, drainage, and massing all respond to the site. Early survey and grading information can save time and prevent costly surprises.",
+      "@type": "Answer",
+      "description": "Slope can significantly change the design because foundations, drainage, retaining walls, and height measurements become more complex. On sloped lots, a rear addition may require engineering and site-specific review instead of a standard flat-lot approach.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A sloped lot can turn a straightforward rear addition into a more complex project. Foundation design may need stepped footings, retaining structures, or deeper excavation, and drainage must be carefully managed so water does not move toward the house or neighboring properties. Height and grading measurements can also become harder to calculate, which may affect how large or tall the addition can be. In hillside areas, the rear addition may need more engineering detail and potentially more review steps than a flat-lot project. The big mistake is to use a generic flat-site design and hope it will work on a slope. Instead, the design should start with the actual topography so the structure, drainage, and massing all respond to the site. Early survey and grading information can save time and prevent costly surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Slope can significantly change the design because foundations, drainage, retaining walls, and height measurements become more complex. On sloped lots, a rear ad"
+}

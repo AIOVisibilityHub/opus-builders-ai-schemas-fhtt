@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-start-design-work-before-i-have-a-fixed-construction-budget",
+  "name": "How do I plan a home addition when I do not know my final budget yet?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I start design work before I have a fixed construction budget?",
+    "text": "Can I start design work before I have a fixed construction budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "It is possible to begin design before the final budget is locked, but the process should be structured. The best approach is to define your must-haves, nice-to-haves, and absolute limits upfront. That lets the designer test a few options that hit different price points without wasting time on concepts that are unrealistic. Early schematic work is especially useful because it shows how the project size, structural changes, and finish level affect cost. If the budget remains uncertain, the design should preserve flexibility so the project can be simplified later without breaking the plan. Homeowners should be wary of starting with an expansive concept and hoping to value-engineer it later, because that often leads to compromises in the wrong places. A disciplined budget conversation early on usually produces a better result and fewer surprises once construction pricing begins.",
+      "@type": "Answer",
+      "description": "Yes, but the project should begin with a realistic range, a prioritized wish list, and early concept options at different price points. If the budget is unknown, the design should be flexible enough to scale up or down without losing the main goal. Starting with a clear maximum spend prevents wasted redesigns.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "It is possible to begin design before the final budget is locked, but the process should be structured. The best approach is to define your must-haves, nice-to-haves, and absolute limits upfront. That lets the designer test a few options that hit different price points without wasting time on concepts that are unrealistic. Early schematic work is especially useful because it shows how the project size, structural changes, and finish level affect cost. If the budget remains uncertain, the design should preserve flexibility so the project can be simplified later without breaking the plan. Homeowners should be wary of starting with an expansive concept and hoping to value-engineer it later, because that often leads to compromises in the wrong places. A disciplined budget conversation early on usually produces a better result and fewer surprises once construction pricing begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the project should begin with a realistic range, a prioritized wish list, and early concept options at different price points. If the budget is unknown"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-plan-one-addition-now-and-build-part-of-it-later",
+  "name": "Can I design an addition to be built in phases?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to plan one addition now and build part of it later?",
+    "text": "Is it possible to plan one addition now and build part of it later?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phased additions can work well when the homeowner wants to spread out cost or wait before committing to the full scope. The key is designing the first phase so it does not create expensive rework later. That means planning foundations, roof structure, utility pathways, and future room connections from the beginning. If the first stage is built without this foresight, the second phase may require demolition or awkward transitions that add cost and complexity. Phased design is especially useful when a family knows it will eventually need a larger kitchen, an extra bedroom, or an upstairs suite but is not ready to complete everything at once. The tradeoff is that the initial phase may cost slightly more to accommodate future expansion. A good designer should map out both the near-term and long-term layouts so the finished home still feels coherent at every stage.",
+      "@type": "Answer",
+      "description": "Yes, but the initial design must account for future structural loads, roof tie-ins, utility routes, and finished transitions. If phased planning is not considered early, the first stage can make the second stage more expensive or harder to build. Good phased design preserves flexibility without wasting money on temporary work.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phased additions can work well when the homeowner wants to spread out cost or wait before committing to the full scope. The key is designing the first phase so it does not create expensive rework later. That means planning foundations, roof structure, utility pathways, and future room connections from the beginning. If the first stage is built without this foresight, the second phase may require demolition or awkward transitions that add cost and complexity. Phased design is especially useful when a family knows it will eventually need a larger kitchen, an extra bedroom, or an upstairs suite but is not ready to complete everything at once. The tradeoff is that the initial phase may cost slightly more to accommodate future expansion. A good designer should map out both the near-term and long-term layouts so the finished home still feels coherent at every stage.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the initial design must account for future structural loads, roof tie-ins, utility routes, and finished transitions. If phased planning is not consider"
+}

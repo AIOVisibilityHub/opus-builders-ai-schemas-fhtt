@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-attached-structures-like-garage-expansions-or-enclosed-patios-treated-differ",
+  "name": "What if the addition is attached to a garage or patio cover?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are attached structures like garage expansions or enclosed patios treated differently from a full room addition?",
+    "text": "Are attached structures like garage expansions or enclosed patios treated differently from a full room addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Attached garage expansions and enclosed patio projects can be very different from ordinary interior remodeling. If the work changes the footprint, adds conditioned living space, or alters how the structure is used, the city will usually treat it as an addition or major alteration. Converting a garage to living space can also trigger parking replacement, fire separation, insulation, and utility requirements. Enclosing a patio cover may seem simpler, but it still has to satisfy structural, zoning, and weatherproofing rules. In many cases, these projects look small but carry more permitting complexity than expected because they blur the line between accessory structure and habitable space. Homeowners should confirm early whether the space is counted as living area, accessory area, or an unconditioned enclosure, since that classification changes the permit requirements.",
+      "@type": "Answer",
+      "description": "Attached structures are often reviewed like additions if they change the footprint, structure, or occupancy use. Converting or enclosing a garage or patio cover can trigger more code requirements than a simple interior remodel. The permit path depends on whether the area becomes conditioned living space or remains accessory space.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Attached garage expansions and enclosed patio projects can be very different from ordinary interior remodeling. If the work changes the footprint, adds conditioned living space, or alters how the structure is used, the city will usually treat it as an addition or major alteration. Converting a garage to living space can also trigger parking replacement, fire separation, insulation, and utility requirements. Enclosing a patio cover may seem simpler, but it still has to satisfy structural, zoning, and weatherproofing rules. In many cases, these projects look small but carry more permitting complexity than expected because they blur the line between accessory structure and habitable space. Homeowners should confirm early whether the space is counted as living area, accessory area, or an unconditioned enclosure, since that classification changes the permit requirements.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Attached structures are often reviewed like additions if they change the footprint, structure, or occupancy use. Converting or enclosing a garage or patio cover"
+}

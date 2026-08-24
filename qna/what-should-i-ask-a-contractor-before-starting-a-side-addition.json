@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-ask-a-contractor-before-starting-a-side-addition",
+  "name": "What should I ask a contractor before starting a side addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask a contractor before starting a side addition?",
+    "text": "What should I ask a contractor before starting a side addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before starting a side addition, homeowners should ask the contractor specific questions about feasibility, not just pricing. The most important topics are zoning and setback compliance, permit strategy, structural engineering needs, and whether the addition can realistically fit the lot. It is also important to ask how the contractor will handle access, staging, material protection, and tying the new work into the existing structure. A strong contractor should explain the likely city review issues, identify what is included in the estimate, and outline the major risks that could change cost or schedule. Homeowners should also ask for examples of similar projects, especially on narrow lots or in the same city. If the contractor cannot speak clearly about plan check, trade permits, and structural coordination, that is a warning sign. The best projects start with a realistic conversation about site constraints, not a promise that the build will be easy.",
+      "@type": "Answer",
+      "description": "Ask about zoning feasibility, permit strategy, structural engineering, schedule, access, budget range, and how the addition will match the existing home. The contractor should explain likely risks, city review issues, and what is included in the estimate.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before starting a side addition, homeowners should ask the contractor specific questions about feasibility, not just pricing. The most important topics are zoning and setback compliance, permit strategy, structural engineering needs, and whether the addition can realistically fit the lot. It is also important to ask how the contractor will handle access, staging, material protection, and tying the new work into the existing structure. A strong contractor should explain the likely city review issues, identify what is included in the estimate, and outline the major risks that could change cost or schedule. Homeowners should also ask for examples of similar projects, especially on narrow lots or in the same city. If the contractor cannot speak clearly about plan check, trade permits, and structural coordination, that is a warning sign. The best projects start with a realistic conversation about site constraints, not a promise that the build will be easy.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about zoning feasibility, permit strategy, structural engineering, schedule, access, budget range, and how the addition will match the existing home. The co"
+}

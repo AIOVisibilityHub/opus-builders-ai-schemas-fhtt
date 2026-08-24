@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-home-addition-be-approved-if-it-encroaches-on-setback-limits-or-increases",
+  "name": "What if my addition changes the setback or lot coverage?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a home addition be approved if it encroaches on setback limits or increases lot coverage too much?",
+    "text": "Can a home addition be approved if it encroaches on setback limits or increases lot coverage too much?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Setback and lot coverage issues are often the biggest permitting obstacles for home additions. If the proposed addition pushes into a required setback, exceeds allowable coverage, or conflicts with easements, the city may require a redesign before it can issue a permit. In some cases, the project may need a special review or alternate approval path, but that depends on the jurisdiction and the property’s zoning constraints. This is why a site plan is critical early in the process. Before investing in drawings, confirm the exact property lines, easements, and zoning envelope. A small design change can sometimes solve the issue, such as narrowing the addition, shifting it inward, or adjusting the roof overhang. If the addition is on a narrow lot or hillside parcel, zoning review becomes even more important.",
+      "@type": "Answer",
+      "description": "If an addition violates setback or lot coverage rules, it may need redesign, variance-type relief, or may not be approvable as drawn. These zoning issues are often reviewed before permit issuance and can stop a project even when the construction itself is code-compliant.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Setback and lot coverage issues are often the biggest permitting obstacles for home additions. If the proposed addition pushes into a required setback, exceeds allowable coverage, or conflicts with easements, the city may require a redesign before it can issue a permit. In some cases, the project may need a special review or alternate approval path, but that depends on the jurisdiction and the property’s zoning constraints. This is why a site plan is critical early in the process. Before investing in drawings, confirm the exact property lines, easements, and zoning envelope. A small design change can sometimes solve the issue, such as narrowing the addition, shifting it inward, or adjusting the roof overhang. If the addition is on a narrow lot or hillside parcel, zoning review becomes even more important.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If an addition violates setback or lot coverage rules, it may need redesign, variance-type relief, or may not be approvable as drawn. These zoning issues are of"
+}

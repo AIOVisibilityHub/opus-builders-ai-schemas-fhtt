@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-want-to-revise-the-plans-later-how-disruptive-is-that-process",
+  "name": "What happens if the addition design changes after permits are submitted?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I want to revise the plans later, how disruptive is that process?",
+    "text": "If I want to revise the plans later, how disruptive is that process?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Changes after permit submission are common, but they can slow the project and increase cost. Small adjustments inside the approved envelope may be manageable, while changes to the footprint, roofline, structure, or openings often require revised drawings and new review. If the modification affects engineering, the structural calculations may also need to be updated. That can create a chain reaction of redesign and resubmittal. The best way to reduce this risk is to make major decisions before the permit package is submitted, especially on layout, window placement, room sizes, and roof structure. Homeowners should also understand that even beneficial changes can extend timelines if they occur too late. A clear design brief at the beginning is one of the most effective ways to avoid permit-phase surprises.",
+      "@type": "Answer",
+      "description": "Design changes after permit submission can trigger plan revisions, resubmittals, extra review time, and possible engineering updates. Small interior changes may be easy, but structural, footprint, or exterior changes can delay the project significantly. Finalizing the major design decisions early is the safest way to avoid costly delays.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Changes after permit submission are common, but they can slow the project and increase cost. Small adjustments inside the approved envelope may be manageable, while changes to the footprint, roofline, structure, or openings often require revised drawings and new review. If the modification affects engineering, the structural calculations may also need to be updated. That can create a chain reaction of redesign and resubmittal. The best way to reduce this risk is to make major decisions before the permit package is submitted, especially on layout, window placement, room sizes, and roof structure. Homeowners should also understand that even beneficial changes can extend timelines if they occur too late. A clear design brief at the beginning is one of the most effective ways to avoid permit-phase surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design changes after permit submission can trigger plan revisions, resubmittals, extra review time, and possible engineering updates. Small interior changes may"
+}

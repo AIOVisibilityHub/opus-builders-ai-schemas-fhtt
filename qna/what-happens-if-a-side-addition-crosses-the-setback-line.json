@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-a-side-addition-crosses-the-setback-line",
+  "name": "What happens if a side addition crosses the setback line?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if a side addition crosses the setback line?",
+    "text": "What happens if a side addition crosses the setback line?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a side addition crosses the setback line, it can create a major permitting problem. The city may reject the plans, require the design to be reduced, or ask for additional approvals if the jurisdiction allows them. In many cases, the simplest fix is redesigning the addition so it fits within the buildable envelope. If construction begins without approval, the owner can face stop-work orders, correction notices, delays, and costly rework. Noncompliant portions may need to be removed or altered before final approval is issued. This is why side-yard projects should be measured carefully before plans are completed. Setback issues are especially important on narrow lots, corner lots, and older properties where site records may not match field conditions exactly. A proper survey, zoning check, and plan review can prevent a design from becoming unusable after months of work. If there is any uncertainty about the property line, the side addition should not be finalized until the boundary and setback calculations are verified.",
+      "@type": "Answer",
+      "description": "If a side addition crosses the setback line, the city may require redesign, correction, or a variance-style approval if one is available. Construction that ignores setbacks can lead to permit denial, stop-work orders, or expensive demolition of the noncompliant portion.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a side addition crosses the setback line, it can create a major permitting problem. The city may reject the plans, require the design to be reduced, or ask for additional approvals if the jurisdiction allows them. In many cases, the simplest fix is redesigning the addition so it fits within the buildable envelope. If construction begins without approval, the owner can face stop-work orders, correction notices, delays, and costly rework. Noncompliant portions may need to be removed or altered before final approval is issued. This is why side-yard projects should be measured carefully before plans are completed. Setback issues are especially important on narrow lots, corner lots, and older properties where site records may not match field conditions exactly. A proper survey, zoning check, and plan review can prevent a design from becoming unusable after months of work. If there is any uncertainty about the property line, the side addition should not be finalized until the boundary and setback calculations are verified.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a side addition crosses the setback line, the city may require redesign, correction, or a variance-style approval if one is available. Construction that igno"
+}

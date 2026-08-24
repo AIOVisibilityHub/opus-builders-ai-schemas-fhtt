@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-plan-sheets-and-reports-are-commonly-required-in-pasadena-for-a-residentia",
+  "name": "What documents do I need for a home addition permit in Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which plan sheets and reports are commonly required in Pasadena for a residential addition?",
+    "text": "Which plan sheets and reports are commonly required in Pasadena for a residential addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For a Pasadena home addition permit, the city generally expects a coordinated plan package rather than a simple sketch. That usually includes a site plan, floor plans, exterior elevations, sections, foundation plans, and structural details. Energy compliance forms are commonly part of the submittal, and many projects also need structural engineering. Some lots require soils or geotechnical information, especially where foundation design depends on site conditions. If the project involves removing part of the existing structure, demolition details may also be needed. Pasadena tends to reward complete applications because missing documents can delay plan check or trigger correction cycles. Before submitting, confirm the exact number of sets or digital files the city wants, plus any owner authorization or contractor documentation. The cleaner the package, the faster the approval path usually becomes.",
+      "@type": "Answer",
+      "description": "Pasadena commonly requires a full plan package that includes a site plan, floor plans, elevations, foundation and structural details, and energy compliance documents. Depending on the lot, it may also require structural engineering, soil reports, and demolition information. Incomplete submittals are a common cause of delay.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For a Pasadena home addition permit, the city generally expects a coordinated plan package rather than a simple sketch. That usually includes a site plan, floor plans, exterior elevations, sections, foundation plans, and structural details. Energy compliance forms are commonly part of the submittal, and many projects also need structural engineering. Some lots require soils or geotechnical information, especially where foundation design depends on site conditions. If the project involves removing part of the existing structure, demolition details may also be needed. Pasadena tends to reward complete applications because missing documents can delay plan check or trigger correction cycles. Before submitting, confirm the exact number of sets or digital files the city wants, plus any owner authorization or contractor documentation. The cleaner the package, the faster the approval path usually becomes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Pasadena commonly requires a full plan package that includes a site plan, floor plans, elevations, foundation and structural details, and energy compliance docu"
+}

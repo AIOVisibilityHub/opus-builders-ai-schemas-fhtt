@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-side-house-additions-need-to-comply-with-fire-separation-rules",
+  "name": "Do side-house additions need to comply with fire separation rules?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do side-house additions need to comply with fire separation rules?",
+    "text": "Do side-house additions need to comply with fire separation rules?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, side-house additions often have to comply with fire separation rules, especially when the new wall is close to a property line or another structure. That can affect wall assembly ratings, window openings, eaves, soffits, vents, and exterior materials. The closer the addition sits to the lot line, the more likely the design will need fire-resistant construction details. These requirements are important because side additions are often built in the tightest part of the site, where a standard wall assembly may not be enough. Fire separation rules can also affect how much glass the new wall can have, which changes the design and how much daylight the room receives. Homeowners sometimes discover these constraints late in design, after windows or exterior features have already been chosen. That is why the side addition should be checked for fire-related code issues early, not after the drawings are finished. The most practical designs account for these rules from the beginning so the project does not have to be reworked at plan check.",
+      "@type": "Answer",
+      "description": "Yes. When a side addition is close to a property line, fire-rated walls, openings, eaves, and windows may need to meet fire separation requirements. The closer the addition is to the lot line, the more restrictive the construction details can become.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, side-house additions often have to comply with fire separation rules, especially when the new wall is close to a property line or another structure. That can affect wall assembly ratings, window openings, eaves, soffits, vents, and exterior materials. The closer the addition sits to the lot line, the more likely the design will need fire-resistant construction details. These requirements are important because side additions are often built in the tightest part of the site, where a standard wall assembly may not be enough. Fire separation rules can also affect how much glass the new wall can have, which changes the design and how much daylight the room receives. Homeowners sometimes discover these constraints late in design, after windows or exterior features have already been chosen. That is why the side addition should be checked for fire-related code issues early, not after the drawings are finished. The most practical designs account for these rules from the beginning so the project does not have to be reworked at plan check.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. When a side addition is close to a property line, fire-rated walls, openings, eaves, and windows may need to meet fire separation requirements. The closer "
+}

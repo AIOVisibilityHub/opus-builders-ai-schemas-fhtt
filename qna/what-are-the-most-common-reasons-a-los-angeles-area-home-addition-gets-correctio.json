@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-common-reasons-a-los-angeles-area-home-addition-gets-correctio",
+  "name": "What causes a home addition permit to be denied or returned?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common reasons a Los Angeles-area home addition gets correction notices or rejection?",
+    "text": "What are the most common reasons a Los Angeles-area home addition gets correction notices or rejection?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Home addition permits are often delayed because the submittal package is incomplete or inconsistent. Common problems include missing site dimensions, unclear structural details, absent energy compliance forms, uncoordinated trade information, and setback or lot-coverage conflicts. Cities may also return plans if the documents do not match the actual property conditions or if the scope affects historic, hillside, or special overlay rules. Many “denials” are really correction notices that can be fixed with revised drawings and supporting documents. The best way to avoid this is to make sure the architect, engineer, and contractor are working from the same site information before filing. A complete, internally consistent plan set is the strongest predictor of faster approval.",
+      "@type": "Answer",
+      "description": "Common reasons include incomplete drawings, missing structural calculations, setback violations, missing energy forms, unverified property lines, and uncoordinated plumbing or mechanical changes. Historic, hillside, or overlay issues can also cause corrections. Most denials are fixable, but they delay the permit until revised plans are submitted.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Home addition permits are often delayed because the submittal package is incomplete or inconsistent. Common problems include missing site dimensions, unclear structural details, absent energy compliance forms, uncoordinated trade information, and setback or lot-coverage conflicts. Cities may also return plans if the documents do not match the actual property conditions or if the scope affects historic, hillside, or special overlay rules. Many “denials” are really correction notices that can be fixed with revised drawings and supporting documents. The best way to avoid this is to make sure the architect, engineer, and contractor are working from the same site information before filing. A complete, internally consistent plan set is the strongest predictor of faster approval.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common reasons include incomplete drawings, missing structural calculations, setback violations, missing energy forms, unverified property lines, and uncoordina"
+}

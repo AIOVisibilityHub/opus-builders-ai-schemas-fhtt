@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-signs-mean-an-addition-cannot-be-submitted-without-engineered-calculations",
+  "name": "How do I know if my addition needs structural engineering?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which signs mean an addition cannot be submitted without engineered calculations?",
+    "text": "Which signs mean an addition cannot be submitted without engineered calculations?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Structural engineering is typically required when a home addition changes how the building carries load. That includes new foundations, bearing walls, roof tie-ins, second-story additions, large openings in existing walls, or seismic upgrades. Even if the design looks straightforward, the city may require calculations to prove the structure will be safe and compliant. This is especially common in areas with seismic considerations and older housing stock. Homeowners should involve an engineer early when the project changes the frame, foundation, or roofline, because plan check often cannot move forward without those calculations. If the addition is only cosmetic or non-structural, engineering may not be necessary, but once framing is altered, it usually becomes part of the permit package.",
+      "@type": "Answer",
+      "description": "Structural engineering is usually needed when the addition affects load-bearing walls, new foundations, roof framing, second stories, or seismic performance. Most cities require calculations when the design changes the structure of the home rather than just the finishes. If the plan touches framing, engineering is often expected.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Structural engineering is typically required when a home addition changes how the building carries load. That includes new foundations, bearing walls, roof tie-ins, second-story additions, large openings in existing walls, or seismic upgrades. Even if the design looks straightforward, the city may require calculations to prove the structure will be safe and compliant. This is especially common in areas with seismic considerations and older housing stock. Homeowners should involve an engineer early when the project changes the frame, foundation, or roofline, because plan check often cannot move forward without those calculations. If the addition is only cosmetic or non-structural, engineering may not be necessary, but once framing is altered, it usually becomes part of the permit package.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Structural engineering is usually needed when the addition affects load-bearing walls, new foundations, roof framing, second stories, or seismic performance. Mo"
+}

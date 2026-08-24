@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-garage-top-room-addition-treated-differently-from-a-ground-level-expansion",
+  "name": "Can I add a room above the garage as an attached addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a garage-top room addition treated differently from a ground-level expansion?",
+    "text": "Is a garage-top room addition treated differently from a ground-level expansion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A room above the garage can be an efficient way to gain space when the lot is too tight for a rear or side expansion. The tradeoff is structural complexity. The garage walls, roof, and foundation may need upgrades to carry the new load, and the design has to address fire separation, stair access, insulation, and plumbing or HVAC routing if the room includes a bath. This type of addition also changes the home’s massing, so exterior design matters more than in a simple one-story expansion. Homeowners should make sure the garage structure is evaluated early before committing to the layout. If the existing garage is undersized or in poor condition, the costs can rise quickly.",
+      "@type": "Answer",
+      "description": "Yes. A room above the garage is still an attached addition, but it usually requires stronger structural design, careful load transfer, and attention to fire separation and roof integration. It can be a smart option when the lot cannot expand outward.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A room above the garage can be an efficient way to gain space when the lot is too tight for a rear or side expansion. The tradeoff is structural complexity. The garage walls, roof, and foundation may need upgrades to carry the new load, and the design has to address fire separation, stair access, insulation, and plumbing or HVAC routing if the room includes a bath. This type of addition also changes the home’s massing, so exterior design matters more than in a simple one-story expansion. Homeowners should make sure the garage structure is evaluated early before committing to the layout. If the existing garage is undersized or in poor condition, the costs can rise quickly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A room above the garage is still an attached addition, but it usually requires stronger structural design, careful load transfer, and attention to fire sep"
+}

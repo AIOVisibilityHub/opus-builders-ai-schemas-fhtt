@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-build-over-an-existing-garage-or-attach-a-rear-addition-to-the",
+  "name": "Can I use my garage roof for a rear addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to build over an existing garage or attach a rear addition to the garage area without major structural problems?",
+    "text": "Is it possible to build over an existing garage or attach a rear addition to the garage area without major structural problems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Using a garage area as part of a rear addition can be efficient, but it needs careful structural evaluation. Garages were often built with lighter framing and foundations than living areas, so they may not be ready to support a bedroom, office, or family room above or adjacent to them. The project may also trigger height, fire separation, and setback issues that do not apply to a simple interior remodel. In some cases, the garage can be incorporated into the addition with new foundation work and framing upgrades. In others, it is more practical to rebuild the garage portion entirely. The decision should be made with both structural and zoning information in hand, because a garage-based concept can look appealing but become expensive if major reinforcement is needed. Early feasibility checking is the best way to avoid a costly dead-end design.",
+      "@type": "Answer",
+      "description": "Yes, but only if the garage foundation, framing, and lateral system can support the added load and the resulting structure still meets zoning and height limits. Many garages need reinforcement before they can carry habitable space above or beside them.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Using a garage area as part of a rear addition can be efficient, but it needs careful structural evaluation. Garages were often built with lighter framing and foundations than living areas, so they may not be ready to support a bedroom, office, or family room above or adjacent to them. The project may also trigger height, fire separation, and setback issues that do not apply to a simple interior remodel. In some cases, the garage can be incorporated into the addition with new foundation work and framing upgrades. In others, it is more practical to rebuild the garage portion entirely. The decision should be made with both structural and zoning information in hand, because a garage-based concept can look appealing but become expensive if major reinforcement is needed. Early feasibility checking is the best way to avoid a costly dead-end design.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but only if the garage foundation, framing, and lateral system can support the added load and the resulting structure still meets zoning and height limits."
+}

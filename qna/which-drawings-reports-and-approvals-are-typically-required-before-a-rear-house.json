@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-drawings-reports-and-approvals-are-typically-required-before-a-rear-house",
+  "name": "What documents do I need for rear addition plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which drawings, reports, and approvals are typically required before a rear-house addition can be submitted for review?",
+    "text": "Which drawings, reports, and approvals are typically required before a rear-house addition can be submitted for review?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A rear-house addition usually needs more than just floor plans. The submittal package commonly includes a site plan showing property lines and existing structures, existing and proposed floor plans, exterior elevations, roof framing details, structural calculations, and energy compliance documentation. Depending on the property, additional documents may be needed, such as a survey, soil report, grading information, or photographs of existing conditions. The most important thing is consistency across all drawings so dimensions, setbacks, and proposed changes match from sheet to sheet. Many plan check delays happen because the architectural plans, structural sheets, and site plan do not tell the same story. Homeowners should expect that code reviewers will look for complete information, not just a pretty design. Preparing the right package before submittal can save multiple correction cycles and shorten the approval process.",
+      "@type": "Answer",
+      "description": "Most projects need a site plan, floor plans, elevations, structural calculations, and energy compliance documents, and some also need soils, surveys, or title information. Missing or inconsistent documents are a common reason plan check gets delayed.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A rear-house addition usually needs more than just floor plans. The submittal package commonly includes a site plan showing property lines and existing structures, existing and proposed floor plans, exterior elevations, roof framing details, structural calculations, and energy compliance documentation. Depending on the property, additional documents may be needed, such as a survey, soil report, grading information, or photographs of existing conditions. The most important thing is consistency across all drawings so dimensions, setbacks, and proposed changes match from sheet to sheet. Many plan check delays happen because the architectural plans, structural sheets, and site plan do not tell the same story. Homeowners should expect that code reviewers will look for complete information, not just a pretty design. Preparing the right package before submittal can save multiple correction cycles and shorten the approval process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most projects need a site plan, floor plans, elevations, structural calculations, and energy compliance documents, and some also need soils, surveys, or title i"
+}

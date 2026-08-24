@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-whether-my-rear-project-should-be-designed-as-a-home-addition-an-a",
+  "name": "What is the difference between a rear addition and an ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know whether my rear project should be designed as a home addition, an attached ADU, or a detached ADU?",
+    "text": "How do I know whether my rear project should be designed as a home addition, an attached ADU, or a detached ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The difference matters because the code path, setbacks, utility requirements, and long-term use are not the same. A rear addition becomes part of the primary residence and usually follows the main house’s zoning envelope. An ADU is a separate unit intended for independent living, which can trigger different size limits, privacy rules, parking considerations, and utility questions. For some Los Angeles properties, a rear addition is better when the goal is a larger kitchen, family room, primary suite, or expanded living area. An ADU is better when the goal is flexibility for guests, family, or rental income. The wrong label can create plan-check problems if the drawings and intended use do not match. Homeowners should decide early whether the rear structure is meant to be integrated into the main home or function independently, because that choice affects every design decision that follows.",
+      "@type": "Answer",
+      "description": "A rear addition expands the main house, while an ADU is a separate dwelling unit with its own living, sleeping, cooking, and bathroom facilities. The right choice depends on whether you want more space for the main home or a self-contained rental or guest unit.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The difference matters because the code path, setbacks, utility requirements, and long-term use are not the same. A rear addition becomes part of the primary residence and usually follows the main house’s zoning envelope. An ADU is a separate unit intended for independent living, which can trigger different size limits, privacy rules, parking considerations, and utility questions. For some Los Angeles properties, a rear addition is better when the goal is a larger kitchen, family room, primary suite, or expanded living area. An ADU is better when the goal is flexibility for guests, family, or rental income. The wrong label can create plan-check problems if the drawings and intended use do not match. Homeowners should decide early whether the rear structure is meant to be integrated into the main home or function independently, because that choice affects every design decision that follows.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A rear addition expands the main house, while an ADU is a separate dwelling unit with its own living, sleeping, cooking, and bathroom facilities. The right choi"
+}

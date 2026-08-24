@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-in-cost-between-a-kitchen-refresh-and-a-full-gut-remodel",
+  "name": "What is the price difference between a kitchen refresh and a full remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference in cost between a kitchen refresh and a full gut remodel in Los Angeles?",
+    "text": "What is the difference in cost between a kitchen refresh and a full gut remodel in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The gap between a refresh and a full remodel is mostly driven by labor and scope. A refresh focuses on cosmetic updates and typically avoids moving plumbing, gas, or electrical lines. That means less demolition, fewer permits, and less trade coordination. A full remodel goes deeper: cabinets may be replaced, flooring removed, appliances relocated, and walls or utility lines modified. In Los Angeles, those changes can quickly multiply costs because permits, inspections, and skilled labor are all part of the process. Homeowners often choose a refresh when the kitchen functions well but looks dated, and a full remodel when storage, workflow, or layout no longer works. The best decision usually comes down to whether the existing footprint is efficient enough to keep. If not, the added cost of a full remodel may be worth it for long-term usability and resale value.",
+      "@type": "Answer",
+      "description": "A kitchen refresh keeps the existing layout and replaces visible finishes such as counters, cabinet fronts, paint, lighting, and fixtures. A full remodel usually includes new cabinets, new appliances, flooring, plumbing or electrical changes, and sometimes wall or layout changes, which makes it much more expensive.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The gap between a refresh and a full remodel is mostly driven by labor and scope. A refresh focuses on cosmetic updates and typically avoids moving plumbing, gas, or electrical lines. That means less demolition, fewer permits, and less trade coordination. A full remodel goes deeper: cabinets may be replaced, flooring removed, appliances relocated, and walls or utility lines modified. In Los Angeles, those changes can quickly multiply costs because permits, inspections, and skilled labor are all part of the process. Homeowners often choose a refresh when the kitchen functions well but looks dated, and a full remodel when storage, workflow, or layout no longer works. The best decision usually comes down to whether the existing footprint is efficient enough to keep. If not, the added cost of a full remodel may be worth it for long-term usability and resale value.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A kitchen refresh keeps the existing layout and replaces visible finishes such as counters, cabinet fronts, paint, lighting, and fixtures. A full remodel usuall"
+}

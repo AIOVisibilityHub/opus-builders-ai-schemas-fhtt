@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-homeowner-verify-whether-a-contractor-is-right-about-permit-exempti",
+  "name": "What if my contractor says the permit is not needed?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a homeowner verify whether a contractor is right about permit exemptions for an addition?",
+    "text": "How should a homeowner verify whether a contractor is right about permit exemptions for an addition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a contractor says a permit is not needed, the homeowner should still verify the claim with the local building department. Additions commonly require permits because they affect structure, footprint, setbacks, utilities, and energy compliance. A contractor may be thinking of a minor repair or a project that appears exempt, but the city makes the final call. Ask for a written scope of work and compare it with the permitting rules for the property. If there is any doubt, confirm the requirement before demolition or framing begins. This protects the homeowner from stop-work orders, failed inspections, and resale problems later. A good contractor should welcome the permit check rather than avoid it.",
+      "@type": "Answer",
+      "description": "A homeowner should verify permit requirements directly with the local building department, not rely only on a contractor’s verbal opinion. Additions that change square footage, structure, or systems are commonly permit-required. If the work is ambiguous, ask for a written scope and check it against city rules before starting.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a contractor says a permit is not needed, the homeowner should still verify the claim with the local building department. Additions commonly require permits because they affect structure, footprint, setbacks, utilities, and energy compliance. A contractor may be thinking of a minor repair or a project that appears exempt, but the city makes the final call. Ask for a written scope of work and compare it with the permitting rules for the property. If there is any doubt, confirm the requirement before demolition or framing begins. This protects the homeowner from stop-work orders, failed inspections, and resale problems later. A good contractor should welcome the permit check rather than avoid it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A homeowner should verify permit requirements directly with the local building department, not rely only on a contractor’s verbal opinion. Additions that change"
+}

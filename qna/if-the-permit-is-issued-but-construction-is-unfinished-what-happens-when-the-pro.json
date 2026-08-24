@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-permit-is-issued-but-construction-is-unfinished-what-happens-when-the-pro",
+  "name": "Can a home addition permit be transferred if I sell the house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the permit is issued but construction is unfinished, what happens when the property changes hands?",
+    "text": "If the permit is issued but construction is unfinished, what happens when the property changes hands?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a home sells before an addition is finished, the permit usually remains associated with the property, but administrative updates may be needed. The new owner may have to update ownership records or confirm who is responsible for finishing the work and scheduling inspections. The building department will still require the project to pass all necessary inspections before final sign-off. This matters because unfinished permits can complicate escrow, resale value, and future financing if the scope is not properly documented. If a sale is possible during construction, it is smart to keep clean records of approved plans, permits, inspection cards, and any revisions. That way the new owner can take over the project without losing continuity.",
+      "@type": "Answer",
+      "description": "Permit status can become a problem if the property sells before the project is complete. In many cases, the permit stays tied to the property, but the new owner may need to update ownership records, contractor information, or inspection responsibility. Final sign-off still depends on passing all required inspections.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a home sells before an addition is finished, the permit usually remains associated with the property, but administrative updates may be needed. The new owner may have to update ownership records or confirm who is responsible for finishing the work and scheduling inspections. The building department will still require the project to pass all necessary inspections before final sign-off. This matters because unfinished permits can complicate escrow, resale value, and future financing if the scope is not properly documented. If a sale is possible during construction, it is smart to keep clean records of approved plans, permits, inspection cards, and any revisions. That way the new owner can take over the project without losing continuity.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permit status can become a problem if the property sells before the project is complete. In many cases, the permit stays tied to the property, but the new owner"
+}

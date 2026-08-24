@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-there-a-size-threshold-where-a-small-attached-addition-becomes-much-harder-to",
+  "name": "How much square footage can an attached addition add before it triggers more review?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is there a size threshold where a small attached addition becomes much harder to permit?",
+    "text": "Is there a size threshold where a small attached addition becomes much harder to permit?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no single universal cutoff, but size matters because larger additions usually require more structural details, energy documentation, utility coordination, and city plan check time. A small bedroom bump-out may be straightforward, while a larger family-room or second-story extension can trigger more engineering, fire-safety review, and site coordination. In Los Angeles-area cities, lot constraints and neighborhood overlays can matter as much as raw square footage. Homes in historic districts, hillside areas, or compact parcels may face added scrutiny even for smaller expansions. Homeowners should ask early whether the design stays within a simple addition path or crosses into more complex review due to footprint, height, or structural changes.",
+      "@type": "Answer",
+      "description": "Yes. In many local jurisdictions, small additions are treated more simply than larger projects, but once the addition increases footprint, structural loading, or utility demand, plan check becomes more detailed. Historic areas and tight lots can also add extra review even when the addition itself is modest.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no single universal cutoff, but size matters because larger additions usually require more structural details, energy documentation, utility coordination, and city plan check time. A small bedroom bump-out may be straightforward, while a larger family-room or second-story extension can trigger more engineering, fire-safety review, and site coordination. In Los Angeles-area cities, lot constraints and neighborhood overlays can matter as much as raw square footage. Homes in historic districts, hillside areas, or compact parcels may face added scrutiny even for smaller expansions. Homeowners should ask early whether the design stays within a simple addition path or crosses into more complex review due to footprint, height, or structural changes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. In many local jurisdictions, small additions are treated more simply than larger projects, but once the addition increases footprint, structural loading, o"
+}

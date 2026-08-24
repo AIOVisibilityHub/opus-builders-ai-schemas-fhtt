@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-side-additions-usually-need-structural-engineering",
+  "name": "Do side additions usually need structural engineering?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do side additions usually need structural engineering?",
+    "text": "Do side additions usually need structural engineering?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Yes, most side additions need structural engineering because they usually change the way loads move through the home. Even a modest side expansion can affect foundation sizing, shear walls, roof connections, and lateral bracing. In older Los Angeles-area houses, the existing structure may not be able to carry new loads without reinforcement. Engineering becomes even more important on hillside lots, soft soil sites, or properties with prior additions and unknown modifications. The engineer’s role is to make sure the new work ties into the existing home safely and that the plans meet code before permit review. Homeowners sometimes think a small addition does not need engineering, but that assumption often leads to permit corrections. The more the new work touches the existing structure, the more likely an engineer is needed. If the project includes large openings, removed walls, or matching rooflines, engineering is usually essential rather than optional.",
+      "@type": "Answer",
+      "description": "Yes. Most side additions need structural engineering because they change the roof, foundation, and load paths of the home. Engineering is especially important when tying new framing into an existing house or when the lot has weak soil, slope, or seismic concerns.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Yes, most side additions need structural engineering because they usually change the way loads move through the home. Even a modest side expansion can affect foundation sizing, shear walls, roof connections, and lateral bracing. In older Los Angeles-area houses, the existing structure may not be able to carry new loads without reinforcement. Engineering becomes even more important on hillside lots, soft soil sites, or properties with prior additions and unknown modifications. The engineer’s role is to make sure the new work ties into the existing home safely and that the plans meet code before permit review. Homeowners sometimes think a small addition does not need engineering, but that assumption often leads to permit corrections. The more the new work touches the existing structure, the more likely an engineer is needed. If the project includes large openings, removed walls, or matching rooflines, engineering is usually essential rather than optional.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Most side additions need structural engineering because they change the roof, foundation, and load paths of the home. Engineering is especially important w"
+}

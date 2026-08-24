@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-is-a-simple-contractor-plan-not-enough-for-permitting",
+  "name": "How do I know if my attached addition needs an architect or engineer?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When is a simple contractor plan not enough for permitting?",
+    "text": "When is a simple contractor plan not enough for permitting?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you need an architect or engineer depends on the scope and complexity of the project. Simple additions may be handled with basic drafting and standard details, but once the project involves new structural loads, roof changes, foundation modifications, or unusual site conditions, professional design support becomes much more valuable. An architect helps organize space, proportions, and permit drawings, while an engineer addresses load paths, seismic requirements, and structural safety. For older homes and tight lots in the Los Angeles area, both disciplines are often useful. Even when not strictly required by the city, professional coordination can reduce permit revisions and construction mistakes. The more the addition changes the existing house, the more important it is to have the design verified before construction begins.",
+      "@type": "Answer",
+      "description": "You usually need professional design help when the addition changes structural loads, roof framing, foundation conditions, or complex system layouts. Older homes, second-story additions, and projects with unusual geometry often benefit from architectural and engineering coordination.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you need an architect or engineer depends on the scope and complexity of the project. Simple additions may be handled with basic drafting and standard details, but once the project involves new structural loads, roof changes, foundation modifications, or unusual site conditions, professional design support becomes much more valuable. An architect helps organize space, proportions, and permit drawings, while an engineer addresses load paths, seismic requirements, and structural safety. For older homes and tight lots in the Los Angeles area, both disciplines are often useful. Even when not strictly required by the city, professional coordination can reduce permit revisions and construction mistakes. The more the addition changes the existing house, the more important it is to have the design verified before construction begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You usually need professional design help when the addition changes structural loads, roof framing, foundation conditions, or complex system layouts. Older home"
+}

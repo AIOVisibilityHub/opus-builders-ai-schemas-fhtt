@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-typical-inspection-stages-for-a-permitted-room-addition-or-second-s",
+  "name": "How many inspections does a home addition usually need?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the typical inspection stages for a permitted room addition or second-story project?",
+    "text": "What are the typical inspection stages for a permitted room addition or second-story project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most home additions require a series of inspections rather than a single visit. Typical checkpoints include footing or foundation, slab or subgrade, framing, rough plumbing, rough electrical, rough mechanical, insulation, drywall, and final inspection. Larger or more complex projects may also include shear wall, nailing, or special foundation inspections. The exact sequence depends on the design and what systems are being added or altered. A homeowner should expect the permit to stay open until every required inspection passes. Missing an inspection or covering work too early can force costly rework. The builder should keep the inspection card on-site and schedule each step before proceeding to the next stage. Good inspection management is one of the easiest ways to keep the permit from becoming a bottleneck.",
+      "@type": "Answer",
+      "description": "A home addition often needs multiple inspections, including footing, foundation, framing, rough plumbing, rough electrical, rough mechanical, insulation, drywall, and final. The exact list depends on the scope and whether the project includes new utilities or structural changes. Missing one inspection can delay closeout.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most home additions require a series of inspections rather than a single visit. Typical checkpoints include footing or foundation, slab or subgrade, framing, rough plumbing, rough electrical, rough mechanical, insulation, drywall, and final inspection. Larger or more complex projects may also include shear wall, nailing, or special foundation inspections. The exact sequence depends on the design and what systems are being added or altered. A homeowner should expect the permit to stay open until every required inspection passes. Missing an inspection or covering work too early can force costly rework. The builder should keep the inspection card on-site and schedule each step before proceeding to the next stage. Good inspection management is one of the easiest ways to keep the permit from becoming a bottleneck.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A home addition often needs multiple inspections, including footing, foundation, framing, rough plumbing, rough electrical, rough mechanical, insulation, drywal"
+}

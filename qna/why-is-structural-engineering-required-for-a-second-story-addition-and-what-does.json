@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-is-structural-engineering-required-for-a-second-story-addition-and-what-does",
+  "name": "Do I need structural engineering for a second-story addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why is structural engineering required for a second-story addition, and what does the engineer actually evaluate before plans are submitted?",
+    "text": "Why is structural engineering required for a second-story addition, and what does the engineer actually evaluate before plans are submitted?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Structural engineering is one of the most important parts of a second-story addition because the original house was not always designed to carry another full floor. An engineer evaluates the foundation, framing, roof structure, load-bearing walls, lateral resistance, and seismic performance. They determine whether the home can support the new weight and how forces will travel safely through the structure. In many Los Angeles-area homes, especially older houses, the engineer may also recommend foundation bolting, new shear walls, hold-downs, beam upgrades, or other reinforcement. This step matters before permit submittal because the city will want proof that the project is structurally feasible and code-compliant. If the house is in poor condition or has prior remodels, the engineering scope can expand quickly. Homeowners should expect the engineer to work closely with the architect so the design is buildable, efficient, and less likely to be delayed during plan check.",
+      "@type": "Answer",
+      "description": "Yes. A second-story addition usually requires structural engineering because the existing foundation, framing, shear walls, and load paths must be checked to confirm the house can support the new level. The engineer may recommend foundation strengthening, framing upgrades, or other seismic improvements before permit approval.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Structural engineering is one of the most important parts of a second-story addition because the original house was not always designed to carry another full floor. An engineer evaluates the foundation, framing, roof structure, load-bearing walls, lateral resistance, and seismic performance. They determine whether the home can support the new weight and how forces will travel safely through the structure. In many Los Angeles-area homes, especially older houses, the engineer may also recommend foundation bolting, new shear walls, hold-downs, beam upgrades, or other reinforcement. This step matters before permit submittal because the city will want proof that the project is structurally feasible and code-compliant. If the house is in poor condition or has prior remodels, the engineering scope can expand quickly. Homeowners should expect the engineer to work closely with the architect so the design is buildable, efficient, and less likely to be delayed during plan check.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A second-story addition usually requires structural engineering because the existing foundation, framing, shear walls, and load paths must be checked to co"
+}

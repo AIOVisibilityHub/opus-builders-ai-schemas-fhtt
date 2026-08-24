@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-a-homeowner-tell-whether-the-current-foundation-is-strong-enough-for-a-s",
+  "name": "Can my existing foundation support a second story?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can a homeowner tell whether the current foundation is strong enough for a second-story addition before hiring a builder?",
+    "text": "How can a homeowner tell whether the current foundation is strong enough for a second-story addition before hiring a builder?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A visual check is not enough to determine whether a foundation can support a second story. Many homes in Los Angeles-area neighborhoods were built decades ago under older structural standards, and some have hidden issues such as undersized footings, weak framing, prior settlement, or undocumented remodels. A structural engineer usually needs to inspect the property, review available plans, and analyze the load path from the new floor down to the foundation. If the home cannot safely handle the extra weight, the solution may involve foundation strengthening, new beams, shear walls, or other structural upgrades. This evaluation is especially important before design is finalized because structural limitations can affect the layout, stair location, room spans, and final budget. Homeowners should not rely on a contractor’s guess alone. The best next step is a site inspection and engineering review before committing to plans or pricing.",
+      "@type": "Answer",
+      "description": "Most homeowners cannot tell from the surface whether a foundation can support a second story. A structural engineer must inspect the home, review the original construction, and determine whether the foundation, framing, and lateral system need reinforcement before a permit can be issued.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A visual check is not enough to determine whether a foundation can support a second story. Many homes in Los Angeles-area neighborhoods were built decades ago under older structural standards, and some have hidden issues such as undersized footings, weak framing, prior settlement, or undocumented remodels. A structural engineer usually needs to inspect the property, review available plans, and analyze the load path from the new floor down to the foundation. If the home cannot safely handle the extra weight, the solution may involve foundation strengthening, new beams, shear walls, or other structural upgrades. This evaluation is especially important before design is finalized because structural limitations can affect the layout, stair location, room spans, and final budget. Homeowners should not rely on a contractor’s guess alone. The best next step is a site inspection and engineering review before committing to plans or pricing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most homeowners cannot tell from the surface whether a foundation can support a second story. A structural engineer must inspect the home, review the original c"
+}

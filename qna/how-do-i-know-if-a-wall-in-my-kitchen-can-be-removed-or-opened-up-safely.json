@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-a-wall-in-my-kitchen-can-be-removed-or-opened-up-safely",
+  "name": "How do I know if my kitchen walls can be removed?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if a wall in my kitchen can be removed or opened up safely?",
+    "text": "How do I know if a wall in my kitchen can be removed or opened up safely?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A wall should never be assumed removable until it is evaluated for structure and utilities. Some walls carry structural loads, while others contain plumbing, electrical wiring, ducting, or venting that must be rerouted before demolition. In older homes, this is especially important because hidden conditions are common and blueprints may not reflect what is actually inside the walls. The right next step is to have a qualified contractor or engineer assess the wall, review the framing, and confirm whether permits or structural details are required. If the wall is removable, the design should still account for what happens to the kitchen layout, lighting, ceiling transitions, and floor finishes once it is opened. Homeowners should also ask whether removing the wall will improve the kitchen enough to justify the added cost and schedule impact. Opening a wall can transform a space, but only when it is done with a clear plan.",
+      "@type": "Answer",
+      "description": "A wall cannot be assumed removable until a contractor or engineer checks whether it is load-bearing and whether it contains plumbing, electrical, or HVAC lines. Even non-load-bearing walls may need structural or utility rerouting before removal.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A wall should never be assumed removable until it is evaluated for structure and utilities. Some walls carry structural loads, while others contain plumbing, electrical wiring, ducting, or venting that must be rerouted before demolition. In older homes, this is especially important because hidden conditions are common and blueprints may not reflect what is actually inside the walls. The right next step is to have a qualified contractor or engineer assess the wall, review the framing, and confirm whether permits or structural details are required. If the wall is removable, the design should still account for what happens to the kitchen layout, lighting, ceiling transitions, and floor finishes once it is opened. Homeowners should also ask whether removing the wall will improve the kitchen enough to justify the added cost and schedule impact. Opening a wall can transform a space, but only when it is done with a clear plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A wall cannot be assumed removable until a contractor or engineer checks whether it is load-bearing and whether it contains plumbing, electrical, or HVAC lines."
+}

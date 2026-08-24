@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-setback-issues-can-stop-an-addition-from-moving-forward",
+  "name": "How close can an attached addition be to the property line?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What setback issues can stop an addition from moving forward?",
+    "text": "What setback issues can stop an addition from moving forward?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Setback limits are one of the first things to check on any attached addition. If the proposed wall, eave, or overhang gets too close to a property line, the design may need to shrink, shift, or change shape. Older homes sometimes already sit in nonconforming positions, which can further complicate what is allowed. The addition may also need to respect windows, side yards, drainage, and fire safety clearances. Because setback rules can vary by city and by parcel, the right approach is to verify the property dimensions and zoning conditions before drawing final plans. When setbacks are tight, design flexibility becomes just as important as square footage.",
+      "@type": "Answer",
+      "description": "That depends on local zoning rules, lot width, existing nonconforming conditions, and the type of addition. Setbacks can become the main constraint on whether an addition is possible at all, especially on narrow or older lots.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Setback limits are one of the first things to check on any attached addition. If the proposed wall, eave, or overhang gets too close to a property line, the design may need to shrink, shift, or change shape. Older homes sometimes already sit in nonconforming positions, which can further complicate what is allowed. The addition may also need to respect windows, side yards, drainage, and fire safety clearances. Because setback rules can vary by city and by parcel, the right approach is to verify the property dimensions and zoning conditions before drawing final plans. When setbacks are tight, design flexibility becomes just as important as square footage.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "That depends on local zoning rules, lot width, existing nonconforming conditions, and the type of addition. Setbacks can become the main constraint on whether a"
+}

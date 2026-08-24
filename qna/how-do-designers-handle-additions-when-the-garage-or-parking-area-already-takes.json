@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-designers-handle-additions-when-the-garage-or-parking-area-already-takes",
+  "name": "What if my addition needs to work around a garage or driveway?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do designers handle additions when the garage or parking area already takes up part of the lot?",
+    "text": "How do designers handle additions when the garage or parking area already takes up part of the lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Garages and driveways often shape the entire addition strategy. If parking access is tight, the designer must protect turning space, driveway width, and usable garage clearance while still creating the new living area. In some projects, the addition wraps around the garage, while in others the garage becomes part of the expansion or is reworked to improve the overall layout. The challenge is that parking is not just a convenience issue; it can affect code compliance and the practicality of the design. If the addition consumes too much of the existing access area, the home may become awkward to use even if the new rooms look great on paper. That is why garage and driveway planning should happen at the same time as the floor plan. In dense neighborhoods, solving parking early often determines whether a concept is viable at all.",
+      "@type": "Answer",
+      "description": "The design usually has to preserve vehicle access, turning radius, and required parking while fitting new living space around the existing garage or driveway. That can lead to rear additions, stacked layouts, or partial reconfiguration of the garage footprint. Parking should be solved early because it can limit the entire plan.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Garages and driveways often shape the entire addition strategy. If parking access is tight, the designer must protect turning space, driveway width, and usable garage clearance while still creating the new living area. In some projects, the addition wraps around the garage, while in others the garage becomes part of the expansion or is reworked to improve the overall layout. The challenge is that parking is not just a convenience issue; it can affect code compliance and the practicality of the design. If the addition consumes too much of the existing access area, the home may become awkward to use even if the new rooms look great on paper. That is why garage and driveway planning should happen at the same time as the floor plan. In dense neighborhoods, solving parking early often determines whether a concept is viable at all.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The design usually has to preserve vehicle access, turning radius, and required parking while fitting new living space around the existing garage or driveway. T"
+}

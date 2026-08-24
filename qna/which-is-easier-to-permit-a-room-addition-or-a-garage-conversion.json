@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-is-easier-to-permit-a-room-addition-or-a-garage-conversion",
+  "name": "Which is easier to permit: a room addition or a garage conversion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which is easier to permit: a room addition or a garage conversion?",
+    "text": "Which is easier to permit: a room addition or a garage conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A garage conversion is often easier than a ground-up room addition because the shell already exists, so there may be less foundation, framing, and roof work. That said, a conversion can still require detailed permits, insulation upgrades, ventilation, egress, fire separation, and possibly parking replacement depending on local rules and property conditions. A room addition usually involves more new construction and more structural coordination, which can make it slower and more expensive to approve. The simplest path depends on what the current garage looks like and how much work is needed to make it habitable. If the goal is a bedroom, office, or guest space, a garage conversion can be efficient. If the goal is a true expansion that preserves parking, a room addition may be the better long-term solution.",
+      "@type": "Answer",
+      "description": "A garage conversion is often simpler because the structure already exists, but it can still require permits, code upgrades, and compliance with parking or habitability rules. A room addition usually needs more structural review, foundation work, and exterior plan changes.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A garage conversion is often easier than a ground-up room addition because the shell already exists, so there may be less foundation, framing, and roof work. That said, a conversion can still require detailed permits, insulation upgrades, ventilation, egress, fire separation, and possibly parking replacement depending on local rules and property conditions. A room addition usually involves more new construction and more structural coordination, which can make it slower and more expensive to approve. The simplest path depends on what the current garage looks like and how much work is needed to make it habitable. If the goal is a bedroom, office, or guest space, a garage conversion can be efficient. If the goal is a true expansion that preserves parking, a room addition may be the better long-term solution.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A garage conversion is often simpler because the structure already exists, but it can still require permits, code upgrades, and compliance with parking or habit"
+}

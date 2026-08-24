@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-determines-the-allowable-distance-between-a-home-addition-and-the-side-or-r",
+  "name": "How close can I build an addition to the property line?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What determines the allowable distance between a home addition and the side or rear property line?",
+    "text": "What determines the allowable distance between a home addition and the side or rear property line?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The allowed distance from an addition to the property line depends on the zoning rules for that parcel, plus any easements, fire requirements, and special overlays. The main wall may need to stay farther back than roof overhangs or minor architectural projections, and corner lots can have additional restrictions. Because these rules vary by city and zone, guessing is risky. A survey or accurate site plan is usually needed to confirm the usable building envelope before finalizing the design. If the addition is close to the line, the city may scrutinize drainage, privacy, access, and fire separation more closely. This question is one of the most important early checks in any addition project because a small setback mistake can force a major redesign after plan check begins.",
+      "@type": "Answer",
+      "description": "The allowed distance depends on zoning setbacks, easements, fire rules, and whether the lot is in a special district. In some cases, roof overhangs, eaves, or utility features have different limits than the main wall. Exact measurements must be checked against the property’s zoning and survey.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The allowed distance from an addition to the property line depends on the zoning rules for that parcel, plus any easements, fire requirements, and special overlays. The main wall may need to stay farther back than roof overhangs or minor architectural projections, and corner lots can have additional restrictions. Because these rules vary by city and zone, guessing is risky. A survey or accurate site plan is usually needed to confirm the usable building envelope before finalizing the design. If the addition is close to the line, the city may scrutinize drainage, privacy, access, and fire separation more closely. This question is one of the most important early checks in any addition project because a small setback mistake can force a major redesign after plan check begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The allowed distance depends on zoning setbacks, easements, fire rules, and whether the lot is in a special district. In some cases, roof overhangs, eaves, or u"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-build-a-second-story-addition-only-on-the-rear-portion-of-the",
+  "name": "Can a rear-house addition be built as a second story over the back of the house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to build a second-story addition only on the rear portion of the home without rebuilding the whole house?",
+    "text": "Is it possible to build a second-story addition only on the rear portion of the home without rebuilding the whole house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A partial second-story addition over the rear portion of a home is often possible, but it is not a simple expansion. The existing foundation and framing must be evaluated to determine whether they can support the added weight and seismic loads. In many Los Angeles-area homes, especially older properties, the back portion was not designed for an additional floor. That means structural upgrades, new footings, shear walls, and roof framing changes may be required. Height restrictions, privacy concerns, and setback rules can also limit whether a rear-only second story is allowed. Homeowners should also consider the impact on stairs, roof drainage, windows, and neighbor sightlines. A design that keeps the front of the house mostly intact can be cost-effective, but only if the engineering works. The most useful next step is a structural feasibility review before final design so the project can be sized correctly and avoid major redesign later.",
+      "@type": "Answer",
+      "description": "Yes, but it depends on structural capacity, height limits, setbacks, and local zoning rules. Many homes can support a partial second-story addition only after engineering confirms the foundation, framing, and lateral system can carry the new load.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A partial second-story addition over the rear portion of a home is often possible, but it is not a simple expansion. The existing foundation and framing must be evaluated to determine whether they can support the added weight and seismic loads. In many Los Angeles-area homes, especially older properties, the back portion was not designed for an additional floor. That means structural upgrades, new footings, shear walls, and roof framing changes may be required. Height restrictions, privacy concerns, and setback rules can also limit whether a rear-only second story is allowed. Homeowners should also consider the impact on stairs, roof drainage, windows, and neighbor sightlines. A design that keeps the front of the house mostly intact can be cost-effective, but only if the engineering works. The most useful next step is a structural feasibility review before final design so the project can be sized correctly and avoid major redesign later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but it depends on structural capacity, height limits, setbacks, and local zoning rules. Many homes can support a partial second-story addition only after e"
+}

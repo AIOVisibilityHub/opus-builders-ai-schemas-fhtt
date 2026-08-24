@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-foundation-reinforcement-before-building-the-new-space",
+  "name": "What if the existing foundation cannot support an attached addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need foundation reinforcement before building the new space?",
+    "text": "Do I need foundation reinforcement before building the new space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Existing foundation capacity is one of the biggest unknowns in an attached addition. Older homes, especially in seismic regions, may not have been built to support modern additions or the loads created by a second story. An engineer may determine that parts of the foundation need reinforcement, underpinning, or partial replacement before the new work can tie in safely. That issue can change the scope quickly because foundation repairs often affect grading, drainage, framing, and inspection timing. Homeowners should not assume the existing structure is automatically ready for expansion. A preconstruction structural evaluation can reveal weak points early and prevent major delays once the project is underway. If reinforcement is needed, it is better to know before permits are finalized and finishes are selected.",
+      "@type": "Answer",
+      "description": "Sometimes yes. If the existing foundation is undersized, cracked, or not designed for the new load, reinforcement or replacement may be required before construction can continue. This is common in older homes and can materially affect budget and schedule.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Existing foundation capacity is one of the biggest unknowns in an attached addition. Older homes, especially in seismic regions, may not have been built to support modern additions or the loads created by a second story. An engineer may determine that parts of the foundation need reinforcement, underpinning, or partial replacement before the new work can tie in safely. That issue can change the scope quickly because foundation repairs often affect grading, drainage, framing, and inspection timing. Homeowners should not assume the existing structure is automatically ready for expansion. A preconstruction structural evaluation can reveal weak points early and prevent major delays once the project is underway. If reinforcement is needed, it is better to know before permits are finalized and finishes are selected.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes yes. If the existing foundation is undersized, cracked, or not designed for the new load, reinforcement or replacement may be required before construc"
+}

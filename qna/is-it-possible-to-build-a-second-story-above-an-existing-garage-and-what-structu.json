@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-build-a-second-story-above-an-existing-garage-and-what-structu",
+  "name": "Can I add a second story over a garage or detached structure?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to build a second story above an existing garage, and what structural or code issues usually come up?",
+    "text": "Is it possible to build a second story above an existing garage, and what structural or code issues usually come up?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Adding a second story over a garage is possible, but it is often more complicated than building over the main house. The existing garage must be checked for foundation strength, wall framing, roof support, and lateral stability, since many garages were not built to carry a full upper level. Attached garages also raise issues such as fire separation, stair access, and how the new space connects to the main house. Detached garages can sometimes be converted into accessory living space or an office, but zoning, setbacks, and height limits may still restrict the design. In Los Angeles-area cities, the project may also need careful coordination with structural engineering and permit review because garages often have wide openings and limited load-bearing walls. A garage addition can be a smart way to add space, but it should not be treated as a simple build-up project. The existing structure needs a detailed evaluation before the design is finalized.",
+      "@type": "Answer",
+      "description": "Yes, a second story can sometimes be added over a garage, but the structure must be evaluated carefully for foundation capacity, lateral stability, fire separation, access, and height limits. Detached garages and attached garages are treated differently, and both may need reinforcement.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Adding a second story over a garage is possible, but it is often more complicated than building over the main house. The existing garage must be checked for foundation strength, wall framing, roof support, and lateral stability, since many garages were not built to carry a full upper level. Attached garages also raise issues such as fire separation, stair access, and how the new space connects to the main house. Detached garages can sometimes be converted into accessory living space or an office, but zoning, setbacks, and height limits may still restrict the design. In Los Angeles-area cities, the project may also need careful coordination with structural engineering and permit review because garages often have wide openings and limited load-bearing walls. A garage addition can be a smart way to add space, but it should not be treated as a simple build-up project. The existing structure needs a detailed evaluation before the design is finalized.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a second story can sometimes be added over a garage, but the structure must be evaluated carefully for foundation capacity, lateral stability, fire separat"
+}

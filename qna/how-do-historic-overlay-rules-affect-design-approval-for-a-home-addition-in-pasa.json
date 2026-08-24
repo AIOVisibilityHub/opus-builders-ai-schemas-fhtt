@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-historic-overlay-rules-affect-design-approval-for-a-home-addition-in-pasa",
+  "name": "What happens if my addition is in a historic district?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do historic overlay rules affect design approval for a home addition in Pasadena or other older neighborhoods?",
+    "text": "How do historic overlay rules affect design approval for a home addition in Pasadena or other older neighborhoods?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Historic district properties often face an additional layer of review beyond ordinary building code compliance. The city may focus on how visible the addition is from the street, whether the scale matches the existing home, and how new materials or rooflines fit the neighborhood character. Even if the structural and zoning rules are satisfied, the design can still be revised to preserve historic appearance. This is especially important in older Pasadena neighborhoods and any area with specific preservation rules. The best strategy is to develop the addition with the historic context in mind from day one rather than trying to force a modern design through later. Submit elevations, material samples, and context drawings if requested. The more the addition reads as compatible rather than attached as an afterthought, the smoother the approval process tends to be.",
+      "@type": "Answer",
+      "description": "Historic districts can add a separate design review layer to an addition permit. The city may check exterior appearance, massing, materials, and how the addition fits the existing neighborhood character. A project that is code-compliant can still be delayed or modified for design compatibility.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Historic district properties often face an additional layer of review beyond ordinary building code compliance. The city may focus on how visible the addition is from the street, whether the scale matches the existing home, and how new materials or rooflines fit the neighborhood character. Even if the structural and zoning rules are satisfied, the design can still be revised to preserve historic appearance. This is especially important in older Pasadena neighborhoods and any area with specific preservation rules. The best strategy is to develop the addition with the historic context in mind from day one rather than trying to force a modern design through later. Submit elevations, material samples, and context drawings if requested. The more the addition reads as compatible rather than attached as an afterthought, the smoother the approval process tends to be.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Historic districts can add a separate design review layer to an addition permit. The city may check exterior appearance, massing, materials, and how the additio"
+}

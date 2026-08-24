@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-addition-requires-moving-walls-ducts-or-plumbing-inside-the-existing-hous",
+  "name": "Do I need a permit for interior remodeling that supports an addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the addition requires moving walls, ducts, or plumbing inside the existing house, do those changes need separate permits?",
+    "text": "If the addition requires moving walls, ducts, or plumbing inside the existing house, do those changes need separate permits?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Interior work tied to a home addition often needs its own permitting attention. If the project includes removing load-bearing walls, rerouting plumbing, adding circuits, relocating HVAC ducts, or changing fire-rated separations, those elements are usually permit-relevant. Even if the work is inside the existing house, it should be included in the overall scope so the city can review the complete plan. Failing to disclose interior changes can create inspection problems later, especially if the framing or utility layout no longer matches the approved drawings. The safest strategy is to treat the addition and any required interior tie-ins as one coordinated permit package. That way the final inspections can close out all of the work together instead of leaving hidden scope unresolved.",
+      "@type": "Answer",
+      "description": "Yes, interior changes that affect structure, plumbing, electrical, or mechanical systems usually need permits even when they are part of a larger addition. The city often reviews the whole scope together, but trade work still has to be disclosed and inspected. Hidden interior changes can cause permit delays if they are not listed.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Interior work tied to a home addition often needs its own permitting attention. If the project includes removing load-bearing walls, rerouting plumbing, adding circuits, relocating HVAC ducts, or changing fire-rated separations, those elements are usually permit-relevant. Even if the work is inside the existing house, it should be included in the overall scope so the city can review the complete plan. Failing to disclose interior changes can create inspection problems later, especially if the framing or utility layout no longer matches the approved drawings. The safest strategy is to treat the addition and any required interior tie-ins as one coordinated permit package. That way the final inspections can close out all of the work together instead of leaving hidden scope unresolved.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, interior changes that affect structure, plumbing, electrical, or mechanical systems usually need permits even when they are part of a larger addition. The "
+}

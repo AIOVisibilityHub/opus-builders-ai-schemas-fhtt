@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-documents-are-needed-for-a-side-addition-plan-check",
+  "name": "What documents are needed for a side addition plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What documents are needed for a side addition plan check?",
+    "text": "What documents are needed for a side addition plan check?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A side addition plan check typically needs enough documentation to show exactly what is being built, where it sits on the lot, and how it connects to the existing home. At minimum, that usually means a dimensioned site plan, existing and proposed floor plans, exterior elevations, and structural details. Many projects also need engineering calculations, survey information, and energy compliance documents. If plumbing, electrical, mechanical, or gas systems are being extended, those trade scopes should be reflected in the plans or supporting notes. The city may also ask for drainage information, fire separation details, or special reports if the property has unusual conditions. Missing or unclear documents are one of the biggest reasons side-addition projects get delayed during plan review. A complete submittal package is not just a formality; it determines whether the permit review moves quickly or gets stuck in corrections. The more accurate the drawings are at submission, the fewer revisions are likely later.",
+      "@type": "Answer",
+      "description": "Plan check usually requires a site plan, floor plans, elevations, structural details, and any supporting engineering or survey documents. Depending on the city and project scope, energy forms, title information, and trade notes may also be required.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A side addition plan check typically needs enough documentation to show exactly what is being built, where it sits on the lot, and how it connects to the existing home. At minimum, that usually means a dimensioned site plan, existing and proposed floor plans, exterior elevations, and structural details. Many projects also need engineering calculations, survey information, and energy compliance documents. If plumbing, electrical, mechanical, or gas systems are being extended, those trade scopes should be reflected in the plans or supporting notes. The city may also ask for drainage information, fire separation details, or special reports if the property has unusual conditions. Missing or unclear documents are one of the biggest reasons side-addition projects get delayed during plan review. A complete submittal package is not just a formality; it determines whether the permit review moves quickly or gets stuck in corrections. The more accurate the drawings are at submission, the fewer revisions are likely later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plan check usually requires a site plan, floor plans, elevations, structural details, and any supporting engineering or survey documents. Depending on the city "
+}

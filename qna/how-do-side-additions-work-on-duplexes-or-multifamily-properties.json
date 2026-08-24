@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-side-additions-work-on-duplexes-or-multifamily-properties",
+  "name": "How do side additions work on duplexes or multifamily properties?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do side additions work on duplexes or multifamily properties?",
+    "text": "How do side additions work on duplexes or multifamily properties?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Side additions on duplexes or multifamily properties are usually more complicated than additions to a single-family home. The design must account for shared walls, common access, unit separation, fire safety, egress paths, and how the project affects all residents or tenants. Depending on the jurisdiction and property configuration, the addition may trigger different approval requirements than a standard single-family side expansion. Utility routing and noise control can also become major issues. A side addition that seems straightforward for one unit can create compliance concerns if it changes circulation, blocks access, or alters the building’s separation details. Owners of multifamily properties should expect a more involved review process and should not assume the same rules apply as they do for a detached house. Site-specific planning is essential, and the project may need a stronger coordination effort between design, engineering, and permitting from the outset.",
+      "@type": "Answer",
+      "description": "Side additions on duplexes or multifamily properties usually face more complex code, access, and fire-separation issues than single-family homes. The design must consider shared walls, exits, circulation, and the impact on all units, not just one owner’s space.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Side additions on duplexes or multifamily properties are usually more complicated than additions to a single-family home. The design must account for shared walls, common access, unit separation, fire safety, egress paths, and how the project affects all residents or tenants. Depending on the jurisdiction and property configuration, the addition may trigger different approval requirements than a standard single-family side expansion. Utility routing and noise control can also become major issues. A side addition that seems straightforward for one unit can create compliance concerns if it changes circulation, blocks access, or alters the building’s separation details. Owners of multifamily properties should expect a more involved review process and should not assume the same rules apply as they do for a detached house. Site-specific planning is essential, and the project may need a stronger coordination effort between design, engineering, and permitting from the outset.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Side additions on duplexes or multifamily properties usually face more complex code, access, and fire-separation issues than single-family homes. The design mus"
+}

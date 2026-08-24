@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-types-of-additions-tend-to-add-value-versus-just-add-cost",
+  "name": "Will a home addition increase property value in my neighborhood?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which types of additions tend to add value versus just add cost?",
+    "text": "Which types of additions tend to add value versus just add cost?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A home addition can increase value when it solves a real market need and fits the neighborhood. The strongest value drivers are usually an extra bedroom, an additional bathroom, a better primary suite, or a more functional kitchen and living area. Additions that are too large, too customized, or inconsistent with nearby homes may add less resale value than expected. Buyers often respond to better function, natural light, storage, and a layout that feels balanced. In markets like Los Angeles, Glendale, and Pasadena, value also depends on whether the addition improves livability without making the home look overbuilt. A well-designed project should improve both day-to-day use and future resale appeal. Homeowners should think in terms of neighborhood fit, not just square footage. The best addition is usually the one that makes the home easier to live in and easier to sell.",
+      "@type": "Answer",
+      "description": "Additions that improve bedroom count, bathroom count, primary suite quality, and kitchen or family-space function usually add the most value. The biggest returns come from designs that fit the neighborhood and avoid overbuilding for the area. A well-integrated addition can improve marketability even if the exact dollar return is uncertain.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A home addition can increase value when it solves a real market need and fits the neighborhood. The strongest value drivers are usually an extra bedroom, an additional bathroom, a better primary suite, or a more functional kitchen and living area. Additions that are too large, too customized, or inconsistent with nearby homes may add less resale value than expected. Buyers often respond to better function, natural light, storage, and a layout that feels balanced. In markets like Los Angeles, Glendale, and Pasadena, value also depends on whether the addition improves livability without making the home look overbuilt. A well-designed project should improve both day-to-day use and future resale appeal. Homeowners should think in terms of neighborhood fit, not just square footage. The best addition is usually the one that makes the home easier to live in and easier to sell.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Additions that improve bedroom count, bathroom count, primary suite quality, and kitchen or family-space function usually add the most value. The biggest return"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-stay-in-my-house-while-the-kitchen-is-being-remodeled-or-should-i-move-out",
+  "name": "Can I live at home during a kitchen remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I stay in my house while the kitchen is being remodeled, or should I move out temporarily?",
+    "text": "Can I stay in my house while the kitchen is being remodeled, or should I move out temporarily?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Living at home during a kitchen remodel is possible, but comfort depends on the scope and the household’s tolerance for disruption. If the project is limited and the contractor can preserve power, water, and a temporary cooking setup, many families stay put. If demolition is extensive, utility shutoffs are frequent, or the home has only one kitchen, the process becomes much harder. Dust control, noise, material deliveries, and crew access can also affect daily life. In Los Angeles, parking and access can make the work feel even more disruptive in dense neighborhoods. Homeowners should ask the contractor about dust barriers, work hours, daily cleanup, and how long the kitchen will be unusable. For larger remodels, a temporary kitchen in another room can make the project much more manageable.",
+      "@type": "Answer",
+      "description": "Many homeowners can stay in the house during a kitchen remodel, but it depends on dust, noise, access, and whether water, gas, or electricity will be shut off. If the project is large or the household needs daily cooking access, temporary relocation may be easier.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Living at home during a kitchen remodel is possible, but comfort depends on the scope and the household’s tolerance for disruption. If the project is limited and the contractor can preserve power, water, and a temporary cooking setup, many families stay put. If demolition is extensive, utility shutoffs are frequent, or the home has only one kitchen, the process becomes much harder. Dust control, noise, material deliveries, and crew access can also affect daily life. In Los Angeles, parking and access can make the work feel even more disruptive in dense neighborhoods. Homeowners should ask the contractor about dust barriers, work hours, daily cleanup, and how long the kitchen will be unusable. For larger remodels, a temporary kitchen in another room can make the project much more manageable.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many homeowners can stay in the house during a kitchen remodel, but it depends on dust, noise, access, and whether water, gas, or electricity will be shut off. "
+}

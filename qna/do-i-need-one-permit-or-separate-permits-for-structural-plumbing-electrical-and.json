@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-one-permit-or-separate-permits-for-structural-plumbing-electrical-and",
+  "name": "What permits are needed for an attached home addition in Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need one permit or separate permits for structural, plumbing, electrical, and HVAC work?",
+    "text": "Do I need one permit or separate permits for structural, plumbing, electrical, and HVAC work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An attached home addition usually needs a building permit, and most projects also trigger separate trade permits when new wiring, plumbing, gas, or HVAC work is involved. The exact package depends on whether the addition includes a bathroom, kitchen extension, new heating and cooling runs, or structural changes that require engineering. In Pasadena, homeowners should expect plan review before construction, and some projects may need more than one round of corrections. If the home is in a historic district or a sensitive neighborhood area, additional design review may apply. The safest approach is to treat the permit set as a complete package: site plan, floor plan, elevations, structural details, and mechanical/electrical/plumbing sheets as needed.",
+      "@type": "Answer",
+      "description": "Attached additions typically require a building permit and may also require separate plumbing, electrical, and mechanical permits if the project changes those systems. In Pasadena, additions are permit-requiring work, and the city review process can include plan check, submittals, and inspection stages before final approval.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An attached home addition usually needs a building permit, and most projects also trigger separate trade permits when new wiring, plumbing, gas, or HVAC work is involved. The exact package depends on whether the addition includes a bathroom, kitchen extension, new heating and cooling runs, or structural changes that require engineering. In Pasadena, homeowners should expect plan review before construction, and some projects may need more than one round of corrections. If the home is in a historic district or a sensitive neighborhood area, additional design review may apply. The safest approach is to treat the permit set as a complete package: site plan, floor plan, elevations, structural details, and mechanical/electrical/plumbing sheets as needed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Attached additions typically require a building permit and may also require separate plumbing, electrical, and mechanical permits if the project changes those s"
+}

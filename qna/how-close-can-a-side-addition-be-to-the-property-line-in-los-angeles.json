@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-close-can-a-side-addition-be-to-the-property-line-in-los-angeles",
+  "name": "How close can a side addition be to the property line in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How close can a side addition be to the property line in Los Angeles?",
+    "text": "How close can a side addition be to the property line in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "How close a side addition can be to the property line depends on the property’s zoning, lot configuration, and fire-related construction rules. Some lots allow relatively limited side-yard coverage, while others are more restrictive because of frontage, corner-lot conditions, or site-specific overlays. The actual usable distance can also be affected by wall openings, roof overhangs, vents, and projections, not just the main wall line. Even if the addition technically fits, fire separation requirements may limit windows or require a different wall assembly. That means the answer is not just a single measurement; it is a combination of setback, fire code, and design constraints. Homeowners should avoid assuming the side passage is automatically buildable just because it looks open. A measured survey and zoning review are essential before designing the addition. For Los Angeles-area projects, especially in dense neighborhoods, the buildable edge can be tighter than it appears from the street.",
+      "@type": "Answer",
+      "description": "That depends on the zoning, lot type, and any fire-rating requirements. In some cases a side addition must stay several feet from the line, while other projects may be constrained by special conditions that make the effective distance larger or smaller.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "How close a side addition can be to the property line depends on the property’s zoning, lot configuration, and fire-related construction rules. Some lots allow relatively limited side-yard coverage, while others are more restrictive because of frontage, corner-lot conditions, or site-specific overlays. The actual usable distance can also be affected by wall openings, roof overhangs, vents, and projections, not just the main wall line. Even if the addition technically fits, fire separation requirements may limit windows or require a different wall assembly. That means the answer is not just a single measurement; it is a combination of setback, fire code, and design constraints. Homeowners should avoid assuming the side passage is automatically buildable just because it looks open. A measured survey and zoning review are essential before designing the addition. For Los Angeles-area projects, especially in dense neighborhoods, the buildable edge can be tighter than it appears from the street.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "That depends on the zoning, lot type, and any fire-rating requirements. In some cases a side addition must stay several feet from the line, while other projects"
+}

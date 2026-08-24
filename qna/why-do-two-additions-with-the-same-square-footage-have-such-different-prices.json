@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-two-additions-with-the-same-square-footage-have-such-different-prices",
+  "name": "What is the biggest cost driver in an attached home addition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do two additions with the same square footage have such different prices?",
+    "text": "Why do two additions with the same square footage have such different prices?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Square footage alone does not determine cost. Two similar-sized additions can vary widely based on how difficult they are to connect to the existing house. Foundation work, roof matching, framing complexity, utility extensions, and interior finish quality all have major pricing impact. If the project touches kitchens or bathrooms, plumbing and electrical costs rise quickly. If the home needs seismic upgrades, drainage corrections, or structural reinforcement before the addition can connect, the budget increases again. Site conditions matter too: tight access, slopes, mature trees, and neighborhood restrictions can all add labor and engineering costs. The best way to control budget is to define scope early and identify hidden construction issues before finalizing the design.",
+      "@type": "Answer",
+      "description": "The biggest cost drivers are structural complexity, utility relocation, foundation work, roof integration, and finish level. A simple room expansion is usually cheaper than an addition that requires major rewiring, plumbing changes, seismic upgrades, or complicated tie-ins to the existing home.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Square footage alone does not determine cost. Two similar-sized additions can vary widely based on how difficult they are to connect to the existing house. Foundation work, roof matching, framing complexity, utility extensions, and interior finish quality all have major pricing impact. If the project touches kitchens or bathrooms, plumbing and electrical costs rise quickly. If the home needs seismic upgrades, drainage corrections, or structural reinforcement before the addition can connect, the budget increases again. Site conditions matter too: tight access, slopes, mature trees, and neighborhood restrictions can all add labor and engineering costs. The best way to control budget is to define scope early and identify hidden construction issues before finalizing the design.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest cost drivers are structural complexity, utility relocation, foundation work, roof integration, and finish level. A simple room expansion is usually "
+}

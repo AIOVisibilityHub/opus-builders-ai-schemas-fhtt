@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-want-to-remodel-the-kitchen-rear-living-space-and-exterior-at-different-tim",
+  "name": "What is the best way to phase a rear addition with the rest of the remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I want to remodel the kitchen, rear living space, and exterior at different times, what order should the work happen in?",
+    "text": "If I want to remodel the kitchen, rear living space, and exterior at different times, what order should the work happen in?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When a rear addition is part of a larger remodel, phasing matters as much as design. The work should usually begin with structural changes, foundation work, and the exterior shell so the building envelope is stable. After that come mechanical, electrical, plumbing, and insulation rough-ins, followed by drywall, finishes, and final trim. Exterior tie-ins such as siding, drainage, windows, and landscape should be coordinated so they are not damaged by later construction. A poorly phased project can force finished areas to be reopened or repaired. Homeowners often try to save money by doing visible finishes first, but that usually increases cost later. The cleanest plan is to sequence the rear addition as the core project and then connect the rest of the remodel around it. That reduces risk and keeps the project moving logically from heavy construction to finish work.",
+      "@type": "Answer",
+      "description": "The best phasing starts with structure and shell work, then mechanical and utility rough-ins, then interior finishes, and finally exterior and landscape tie-ins. Phasing in the wrong order can create rework and extra cost.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When a rear addition is part of a larger remodel, phasing matters as much as design. The work should usually begin with structural changes, foundation work, and the exterior shell so the building envelope is stable. After that come mechanical, electrical, plumbing, and insulation rough-ins, followed by drywall, finishes, and final trim. Exterior tie-ins such as siding, drainage, windows, and landscape should be coordinated so they are not damaged by later construction. A poorly phased project can force finished areas to be reopened or repaired. Homeowners often try to save money by doing visible finishes first, but that usually increases cost later. The cleanest plan is to sequence the rear addition as the core project and then connect the rest of the remodel around it. That reduces risk and keeps the project moving logically from heavy construction to finish work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best phasing starts with structure and shell work, then mechanical and utility rough-ins, then interior finishes, and finally exterior and landscape tie-ins"
+}
