@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-compare-in-multiple-quotes-so-i-do-not-choose-a-low-bid-that-leave",
+  "name": "How do I compare pool demolition bids without overpaying?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I compare in multiple quotes so I do not choose a low bid that leaves out important work?",
+    "text": "What should I compare in multiple quotes so I do not choose a low bid that leaves out important work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best way to compare bids is to look beyond the total price and compare the scope line by line. A complete quote should show what is included for drainage, utilities, demolition, haul-off, disposal, backfill, compaction, grading, cleanup, permits, and inspections. It should also identify exclusions such as sprinkler repair, tree work, hardscape restoration, engineering, or unexpected soil problems. Two bids can look very different because one contractor has included everything while another has priced only the demolition phase. Homeowners should ask how the contractor priced access, whether the crew has experience in their city, and what happens if the job reveals additional fill or drainage issues. A detailed scope is usually more important than the cheapest number.",
+      "@type": "Answer",
+      "description": "Compare scope, access assumptions, permit handling, utility disconnection, hauling, backfill, compaction, grading, cleanup, and exclusions. The lowest bid can be misleading if it omits inspections, disposal, or site restoration that you will still need later.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best way to compare bids is to look beyond the total price and compare the scope line by line. A complete quote should show what is included for drainage, utilities, demolition, haul-off, disposal, backfill, compaction, grading, cleanup, permits, and inspections. It should also identify exclusions such as sprinkler repair, tree work, hardscape restoration, engineering, or unexpected soil problems. Two bids can look very different because one contractor has included everything while another has priced only the demolition phase. Homeowners should ask how the contractor priced access, whether the crew has experience in their city, and what happens if the job reveals additional fill or drainage issues. A detailed scope is usually more important than the cheapest number.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare scope, access assumptions, permit handling, utility disconnection, hauling, backfill, compaction, grading, cleanup, and exclusions. The lowest bid can b"
+}

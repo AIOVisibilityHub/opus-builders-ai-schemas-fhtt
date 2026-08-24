@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-contingency-should-i-budget-for-a-restaurant-build-out-in-los-angeles",
+  "name": "How much contingency should I keep for a restaurant build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much contingency should I budget for a restaurant build-out in Los Angeles?",
+    "text": "How much contingency should I budget for a restaurant build-out in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A restaurant build-out in Los Angeles should include a contingency because hidden conditions are common once demolition starts. Older buildings may reveal structural repairs, outdated wiring, undocumented plumbing, damaged slabs, or HVAC limitations that were not visible during the initial walkthrough. Permit revisions can also add cost if the health department or building department requires plan changes. A stronger contingency is especially important for first-generation spaces, older mixed-use buildings, or projects with new kitchen systems. Owners should think of contingency as protection against uncertainty, not as extra profit in the budget. The right amount depends on the age of the property, the scope of work, and how much of the existing infrastructure can be reused. A contractor who gives a very tight number without a clear list of exclusions may be understating the real risk. The safer approach is to compare base scope, known upgrades, and a reserve for unknowns so the project can absorb surprises without stopping.",
+      "@type": "Answer",
+      "description": "Restaurant build-outs often need a contingency because hidden conditions, permit revisions, utility upgrades, and code corrections can appear after demolition starts. A reasonable contingency is usually larger for older buildings or first-generation spaces because plumbing, electrical, and structural surprises are more likely.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A restaurant build-out in Los Angeles should include a contingency because hidden conditions are common once demolition starts. Older buildings may reveal structural repairs, outdated wiring, undocumented plumbing, damaged slabs, or HVAC limitations that were not visible during the initial walkthrough. Permit revisions can also add cost if the health department or building department requires plan changes. A stronger contingency is especially important for first-generation spaces, older mixed-use buildings, or projects with new kitchen systems. Owners should think of contingency as protection against uncertainty, not as extra profit in the budget. The right amount depends on the age of the property, the scope of work, and how much of the existing infrastructure can be reused. A contractor who gives a very tight number without a clear list of exclusions may be understating the real risk. The safer approach is to compare base scope, known upgrades, and a reserve for unknowns so the project can absorb surprises without stopping.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Restaurant build-outs often need a contingency because hidden conditions, permit revisions, utility upgrades, and code corrections can appear after demolition s"
+}

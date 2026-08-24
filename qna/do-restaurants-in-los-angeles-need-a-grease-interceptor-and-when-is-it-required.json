@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-restaurants-in-los-angeles-need-a-grease-interceptor-and-when-is-it-required",
+  "name": "Do I need a grease interceptor for a restaurant in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do restaurants in Los Angeles need a grease interceptor, and when is it required?",
+    "text": "Do restaurants in Los Angeles need a grease interceptor, and when is it required?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Grease interceptor requirements are one of the most important early checks in restaurant construction. Many food service projects need one because sinks, dishwashing, prep areas, and cooking operations can send fats, oils, and grease into the sewer system. Whether the interceptor is required, and what size it must be, depends on the type of restaurant, the plumbing design, local building rules, and the utility or health department review. In Los Angeles-area projects, this should be confirmed before finalizing the floor plan because the interceptor location can affect plumbing routes, slab work, and tenant improvement costs. If the building already has an interceptor, it still needs to be checked for capacity and condition. Owners should not assume a small café, juice bar, or bakery is automatically exempt; even light food service can trigger requirements depending on the sink and equipment layout. This is one of the details that should be addressed during concept and plan check, not after construction begins.",
+      "@type": "Answer",
+      "description": "Many Los Angeles restaurant projects require a grease interceptor or grease trap because food service wastewater can affect the sewer system. The exact requirement depends on the menu, plumbing setup, and local utility or health rules, so it should be confirmed during plan review before construction starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Grease interceptor requirements are one of the most important early checks in restaurant construction. Many food service projects need one because sinks, dishwashing, prep areas, and cooking operations can send fats, oils, and grease into the sewer system. Whether the interceptor is required, and what size it must be, depends on the type of restaurant, the plumbing design, local building rules, and the utility or health department review. In Los Angeles-area projects, this should be confirmed before finalizing the floor plan because the interceptor location can affect plumbing routes, slab work, and tenant improvement costs. If the building already has an interceptor, it still needs to be checked for capacity and condition. Owners should not assume a small café, juice bar, or bakery is automatically exempt; even light food service can trigger requirements depending on the sink and equipment layout. This is one of the details that should be addressed during concept and plan check, not after construction begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many Los Angeles restaurant projects require a grease interceptor or grease trap because food service wastewater can affect the sewer system. The exact requirem"
+}

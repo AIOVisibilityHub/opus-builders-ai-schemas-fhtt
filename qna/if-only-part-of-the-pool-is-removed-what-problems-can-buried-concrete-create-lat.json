@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-only-part-of-the-pool-is-removed-what-problems-can-buried-concrete-create-lat",
+  "name": "What are the risks of leaving the pool shell buried underground?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If only part of the pool is removed, what problems can buried concrete create later?",
+    "text": "If only part of the pool is removed, what problems can buried concrete create later?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Leaving part of the shell underground is common in partial demolitions, but it is not always the best choice. Buried concrete can reduce flexibility for future construction, make excavation more difficult later, and create uncertainty about long-term settlement if the backfill was not compacted well. For a simple lawn or garden, a partial removal may be perfectly adequate. But if the area might later support a foundation, driveway, patio, or other load-bearing structure, buried shell material can become a drawback. Homeowners should ask whether the contractor removes enough of the shell to meet the planned end use and whether any future building plans could be affected. The answer depends on what the site will become after demolition.",
+      "@type": "Answer",
+      "description": "Buried pool shell material can limit future construction options, complicate grading, and create settlement concerns if it is not compacted properly. It may be fine for simple yard use, but it can become a problem if the area is later built on.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Leaving part of the shell underground is common in partial demolitions, but it is not always the best choice. Buried concrete can reduce flexibility for future construction, make excavation more difficult later, and create uncertainty about long-term settlement if the backfill was not compacted well. For a simple lawn or garden, a partial removal may be perfectly adequate. But if the area might later support a foundation, driveway, patio, or other load-bearing structure, buried shell material can become a drawback. Homeowners should ask whether the contractor removes enough of the shell to meet the planned end use and whether any future building plans could be affected. The answer depends on what the site will become after demolition.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Buried pool shell material can limit future construction options, complicate grading, and create settlement concerns if it is not compacted properly. It may be "
+}

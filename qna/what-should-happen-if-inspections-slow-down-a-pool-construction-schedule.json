@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-happen-if-inspections-slow-down-a-pool-construction-schedule",
+  "name": "What should you do if the pool project is delayed by inspections?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should happen if inspections slow down a pool construction schedule?",
+    "text": "What should happen if inspections slow down a pool construction schedule?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Inspection delays are common in permitting-heavy markets, so the project plan should already account for them. If an inspection pushes the schedule back, the contractor should immediately adjust the work sequence and identify which tasks can continue without creating rework. Good coordination may allow crews to shift to unrelated items such as off-site fabrication, finish selection, or later-phase prep while waiting for approval. Homeowners should expect clear communication about what was inspected, what passed, what needs correction, and what the next inspection controls. The contractor should also explain whether the delay changes the overall end date or only a specific phase. A well-managed project does not eliminate inspection delays, but it does reduce the impact by building realistic buffers into the schedule from day one.",
+      "@type": "Answer",
+      "description": "If inspections delay the schedule, the contractor should update the project sequence, communicate the next required approval, and coordinate follow-up work so crews are not idled unnecessarily. Good scheduling should account for inspection windows from the start.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Inspection delays are common in permitting-heavy markets, so the project plan should already account for them. If an inspection pushes the schedule back, the contractor should immediately adjust the work sequence and identify which tasks can continue without creating rework. Good coordination may allow crews to shift to unrelated items such as off-site fabrication, finish selection, or later-phase prep while waiting for approval. Homeowners should expect clear communication about what was inspected, what passed, what needs correction, and what the next inspection controls. The contractor should also explain whether the delay changes the overall end date or only a specific phase. A well-managed project does not eliminate inspection delays, but it does reduce the impact by building realistic buffers into the schedule from day one.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If inspections delay the schedule, the contractor should update the project sequence, communicate the next required approval, and coordinate follow-up work so c"
+}

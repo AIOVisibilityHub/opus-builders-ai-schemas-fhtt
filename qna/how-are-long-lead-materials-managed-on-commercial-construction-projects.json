@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-are-long-lead-materials-managed-on-commercial-construction-projects",
+  "name": "How do commercial project managers handle long-lead materials?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How are long-lead materials managed on commercial construction projects?",
+    "text": "How are long-lead materials managed on commercial construction projects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Long-lead items can make or break a commercial schedule. Materials like switchgear, HVAC equipment, specialty glazing, millwork, and certain finishes may take weeks or months to arrive. A project manager should identify these items early during preconstruction, confirm exact specifications, and push for prompt approval so procurement can begin. Once ordered, delivery dates should be tracked against the schedule and any slippage should be flagged immediately. In fast-moving Los Angeles projects, long-lead coordination is especially important because one missing item can hold up inspections, tenant turnover, or opening dates. Owners should ask whether the manager has a procurement log and how they prioritize critical-path items versus lower-risk purchases.",
+      "@type": "Answer",
+      "description": "Long-lead materials are managed by identifying them early, approving selections quickly, placing orders before construction reaches that phase, and tracking delivery dates closely. This helps prevent stop-work delays when critical items are not available on time.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Long-lead items can make or break a commercial schedule. Materials like switchgear, HVAC equipment, specialty glazing, millwork, and certain finishes may take weeks or months to arrive. A project manager should identify these items early during preconstruction, confirm exact specifications, and push for prompt approval so procurement can begin. Once ordered, delivery dates should be tracked against the schedule and any slippage should be flagged immediately. In fast-moving Los Angeles projects, long-lead coordination is especially important because one missing item can hold up inspections, tenant turnover, or opening dates. Owners should ask whether the manager has a procurement log and how they prioritize critical-path items versus lower-risk purchases.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Long-lead materials are managed by identifying them early, approving selections quickly, placing orders before construction reaches that phase, and tracking del"
+}

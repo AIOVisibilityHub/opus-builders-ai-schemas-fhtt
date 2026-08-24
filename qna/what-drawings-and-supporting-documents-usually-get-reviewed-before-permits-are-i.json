@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-drawings-and-supporting-documents-usually-get-reviewed-before-permits-are-i",
+  "name": "What plan check documents are needed for a restaurant build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What drawings and supporting documents usually get reviewed before permits are issued?",
+    "text": "What drawings and supporting documents usually get reviewed before permits are issued?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Restaurant plan check is more document-heavy than many owners expect. The package typically includes floor plans, reflected ceiling plans, equipment cut sheets, plumbing and gas diagrams, electrical load details, hood and fire suppression information, and accessibility-related design elements. Health review may also require finish schedules, sink counts, and layout information that proves the space can operate safely and sanitarily. If the package is incomplete, the reviewer may issue corrections, which adds time and redesign cost. Owners should work with a team that knows how restaurant drawings are assembled because a generic commercial plan set often misses key items. The stronger the document set, the faster the project usually moves through approval.",
+      "@type": "Answer",
+      "description": "A restaurant plan check usually needs architectural drawings, equipment schedules, mechanical, electrical, and plumbing plans, hood and suppression details, and often finish and accessibility information. Missing equipment data or incomplete utility plans can stall approval.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Restaurant plan check is more document-heavy than many owners expect. The package typically includes floor plans, reflected ceiling plans, equipment cut sheets, plumbing and gas diagrams, electrical load details, hood and fire suppression information, and accessibility-related design elements. Health review may also require finish schedules, sink counts, and layout information that proves the space can operate safely and sanitarily. If the package is incomplete, the reviewer may issue corrections, which adds time and redesign cost. Owners should work with a team that knows how restaurant drawings are assembled because a generic commercial plan set often misses key items. The stronger the document set, the faster the project usually moves through approval.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A restaurant plan check usually needs architectural drawings, equipment schedules, mechanical, electrical, and plumbing plans, hood and suppression details, and"
+}

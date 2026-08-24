@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-can-a-property-owner-use-a-smaller-crew-instead-of-a-full-commercial-builde",
+  "name": "How do I know if my commercial improvement is too small for a general contractor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When can a property owner use a smaller crew instead of a full commercial builder?",
+    "text": "When can a property owner use a smaller crew instead of a full commercial builder?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Project size alone does not determine whether you need a commercial general contractor. A small project can still be complex if it touches electrical, plumbing, HVAC, accessibility, or fire-safety systems. A full commercial builder is usually the better fit when the work requires coordination across multiple trades, permits, inspections, or occupied-space protection. Smaller cosmetic jobs may be manageable with a lighter construction team if no regulated systems are involved. Owners should think about risk, not just square footage. If a mistake would affect occupancy, opening date, or permit approval, the safer choice is usually a contractor experienced with commercial processes.",
+      "@type": "Answer",
+      "description": "A project may be too small for a full commercial general contractor if it is limited to very minor cosmetic work with no permit issues, no trade coordination, and no occupied-space risk. Once the job involves multiple trades, inspections, or code-sensitive systems, a commercial contractor is usually the safer choice. The deciding factor is complexity, not just size.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Project size alone does not determine whether you need a commercial general contractor. A small project can still be complex if it touches electrical, plumbing, HVAC, accessibility, or fire-safety systems. A full commercial builder is usually the better fit when the work requires coordination across multiple trades, permits, inspections, or occupied-space protection. Smaller cosmetic jobs may be manageable with a lighter construction team if no regulated systems are involved. Owners should think about risk, not just square footage. If a mistake would affect occupancy, opening date, or permit approval, the safer choice is usually a contractor experienced with commercial processes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A project may be too small for a full commercial general contractor if it is limited to very minor cosmetic work with no permit issues, no trade coordination, a"
+}

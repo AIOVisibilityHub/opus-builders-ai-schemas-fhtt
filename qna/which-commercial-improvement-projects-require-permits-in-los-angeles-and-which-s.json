@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-commercial-improvement-projects-require-permits-in-los-angeles-and-which-s",
+  "name": "Do I need a permit for a tenant improvement in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which commercial improvement projects require permits in Los Angeles, and which small projects might not?",
+    "text": "Which commercial improvement projects require permits in Los Angeles, and which small projects might not?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most commercial tenant improvements in Los Angeles require permits when the work touches any regulated building system. That includes moving walls, adding or altering plumbing, changing electrical layouts, modifying HVAC, disturbing fire sprinklers or alarms, or affecting exits and accessibility. Even work that seems minor can require review if it changes the function of the space or interacts with life-safety systems. Purely cosmetic work may be exempt in some cases, but owners should not assume exemptions without checking the exact scope. A practical rule is this: if a contractor needs to open walls, reroute utilities, or change how people move through the space, permit review is likely required. Early permit planning can prevent stop-work orders, redesign costs, and inspection delays.",
+      "@type": "Answer",
+      "description": "Most commercial tenant improvements need permits if they affect structural elements, fire life safety, egress, electrical, plumbing, HVAC, or accessibility. Even interior work can require permits when it changes occupancy, use, or protected systems. Very minor cosmetic updates may be exempt, but the threshold is narrow and depends on local building rules and project details.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most commercial tenant improvements in Los Angeles require permits when the work touches any regulated building system. That includes moving walls, adding or altering plumbing, changing electrical layouts, modifying HVAC, disturbing fire sprinklers or alarms, or affecting exits and accessibility. Even work that seems minor can require review if it changes the function of the space or interacts with life-safety systems. Purely cosmetic work may be exempt in some cases, but owners should not assume exemptions without checking the exact scope. A practical rule is this: if a contractor needs to open walls, reroute utilities, or change how people move through the space, permit review is likely required. Early permit planning can prevent stop-work orders, redesign costs, and inspection delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most commercial tenant improvements need permits if they affect structural elements, fire life safety, egress, electrical, plumbing, HVAC, or accessibility. Eve"
+}

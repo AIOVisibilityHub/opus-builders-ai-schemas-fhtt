@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-if-an-existing-restaurant-space-is-already-code-compliant-before",
+  "name": "How do I know if a restaurant space is already code compliant?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell if an existing restaurant space is already code compliant before I lease it?",
+    "text": "How can I tell if an existing restaurant space is already code compliant before I lease it?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A space that looks like a restaurant may still have hidden code problems. To verify compliance, review the prior approved plans, permit history, health permits, fire inspection records, and any tenant improvement documents. Then inspect the physical systems: hood and exhaust, fire suppression, grease interceptor, plumbing, electrical capacity, restroom accessibility, egress, and ADA features. In older Los Angeles buildings, small changes made by previous tenants may never have been fully permitted, which creates risk for the next operator. The landlord or broker may say the space is “restaurant ready,” but that does not guarantee current compliance for your specific concept or equipment list. A pre-lease inspection by a restaurant contractor, architect, or engineer can reveal whether the space can support your menu and occupancy without major upgrades. If the documentation is incomplete or the systems are outdated, assume the project will need additional budget and time.",
+      "@type": "Answer",
+      "description": "An existing restaurant space is not automatically code compliant just because it looks finished. The best way to verify compliance is to review prior permits, approved plans, inspection records, and the condition of the hood, plumbing, accessibility, electrical, and fire systems before signing a lease.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A space that looks like a restaurant may still have hidden code problems. To verify compliance, review the prior approved plans, permit history, health permits, fire inspection records, and any tenant improvement documents. Then inspect the physical systems: hood and exhaust, fire suppression, grease interceptor, plumbing, electrical capacity, restroom accessibility, egress, and ADA features. In older Los Angeles buildings, small changes made by previous tenants may never have been fully permitted, which creates risk for the next operator. The landlord or broker may say the space is “restaurant ready,” but that does not guarantee current compliance for your specific concept or equipment list. A pre-lease inspection by a restaurant contractor, architect, or engineer can reveal whether the space can support your menu and occupancy without major upgrades. If the documentation is incomplete or the systems are outdated, assume the project will need additional budget and time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An existing restaurant space is not automatically code compliant just because it looks finished. The best way to verify compliance is to review prior permits, a"
+}

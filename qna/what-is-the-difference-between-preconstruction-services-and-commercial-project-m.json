@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-preconstruction-services-and-commercial-project-m",
+  "name": "What is the difference between preconstruction and project management?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between preconstruction services and commercial project management?",
+    "text": "What is the difference between preconstruction services and commercial project management?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Preconstruction and project management overlap, but they serve different phases. Preconstruction is about shaping the project before work starts. That includes budgeting, constructability review, value engineering, schedule planning, bid packaging, and early risk identification. Project management continues after the job moves into construction, when the focus shifts to execution, coordination, decisions, inspections, and closeout. On complex commercial projects, the same person or team may be involved in both phases, but owners should know which tasks are happening when. Strong preconstruction usually makes project management easier because major risks are identified earlier. If the project jumps straight into construction without enough preconstruction planning, the manager will spend more time solving preventable problems in the field.",
+      "@type": "Answer",
+      "description": "Preconstruction happens before construction starts and focuses on estimating, design review, scope planning, and scheduling. Project management continues through execution and closeout, covering coordination, reporting, budget tracking, and issue resolution during the build.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Preconstruction and project management overlap, but they serve different phases. Preconstruction is about shaping the project before work starts. That includes budgeting, constructability review, value engineering, schedule planning, bid packaging, and early risk identification. Project management continues after the job moves into construction, when the focus shifts to execution, coordination, decisions, inspections, and closeout. On complex commercial projects, the same person or team may be involved in both phases, but owners should know which tasks are happening when. Strong preconstruction usually makes project management easier because major risks are identified earlier. If the project jumps straight into construction without enough preconstruction planning, the manager will spend more time solving preventable problems in the field.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Preconstruction happens before construction starts and focuses on estimating, design review, scope planning, and scheduling. Project management continues throug"
+}

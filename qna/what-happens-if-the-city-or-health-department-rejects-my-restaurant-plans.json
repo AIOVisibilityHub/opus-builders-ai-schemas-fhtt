@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-city-or-health-department-rejects-my-restaurant-plans",
+  "name": "What happens if my restaurant plans get rejected?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the city or health department rejects my restaurant plans?",
+    "text": "What happens if the city or health department rejects my restaurant plans?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If restaurant plans get rejected, the approval process usually stops until the design team addresses the comments and resubmits corrected drawings. Common issues include incomplete equipment information, missing ventilation details, code conflicts, layout problems, or inadequate accessibility and life-safety information. A rejection does not necessarily mean the project is unworkable, but it does mean the current documents are not sufficient for approval. In Los Angeles-area restaurant construction, each revision cycle can add time and consulting cost, so the best response is to identify the exact reason for rejection and fix the plans before moving forward. Owners should ask the contractor or designer to translate the comments into specific changes and confirm whether the revisions affect budget or schedule. The faster the team closes the loop, the sooner the project can return to the approval queue and avoid unnecessary field delays.",
+      "@type": "Answer",
+      "description": "If restaurant plans are rejected, the project usually pauses until the drawings are revised and resubmitted. Rejections often happen because of missing details, code conflicts, or incomplete equipment and mechanical information, so correcting the plans early is usually faster than trying to fix issues during construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If restaurant plans get rejected, the approval process usually stops until the design team addresses the comments and resubmits corrected drawings. Common issues include incomplete equipment information, missing ventilation details, code conflicts, layout problems, or inadequate accessibility and life-safety information. A rejection does not necessarily mean the project is unworkable, but it does mean the current documents are not sufficient for approval. In Los Angeles-area restaurant construction, each revision cycle can add time and consulting cost, so the best response is to identify the exact reason for rejection and fix the plans before moving forward. Owners should ask the contractor or designer to translate the comments into specific changes and confirm whether the revisions affect budget or schedule. The faster the team closes the loop, the sooner the project can return to the approval queue and avoid unnecessary field delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If restaurant plans are rejected, the project usually pauses until the drawings are revised and resubmitted. Rejections often happen because of missing details,"
+}

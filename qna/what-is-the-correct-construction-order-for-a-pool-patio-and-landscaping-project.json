@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-correct-construction-order-for-a-pool-patio-and-landscaping-project",
+  "name": "What is the best order to build a pool, patio, and landscaping?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the correct construction order for a pool, patio, and landscaping project?",
+    "text": "What is the correct construction order for a pool, patio, and landscaping project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best construction sequence is usually design and permitting first, then demolition and grading, then pool excavation, shell work, plumbing, electrical, and structural elements. After that, the project moves into decking, hardscape, coping, tile, equipment installation, and finish work, with landscaping and irrigation added near the end. This order reduces the chance of tearing up completed surfaces and protects delicate planting from heavy equipment. In a full backyard build, the sequence also needs to account for drainage, retaining walls, lighting, outdoor kitchens, and future maintenance access. A contractor should be able to explain the order clearly and show how each phase connects to the next. If the schedule is not organized around construction logic, the job is more likely to suffer from rework and delays.",
+      "@type": "Answer",
+      "description": "The usual order is design and permits, then demolition and grading, then pool shell and underground utilities, followed by decking, hardscape, finishes, and planting. Landscaping should come after major construction so new plants and irrigation are not damaged by heavy equipment.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best construction sequence is usually design and permitting first, then demolition and grading, then pool excavation, shell work, plumbing, electrical, and structural elements. After that, the project moves into decking, hardscape, coping, tile, equipment installation, and finish work, with landscaping and irrigation added near the end. This order reduces the chance of tearing up completed surfaces and protects delicate planting from heavy equipment. In a full backyard build, the sequence also needs to account for drainage, retaining walls, lighting, outdoor kitchens, and future maintenance access. A contractor should be able to explain the order clearly and show how each phase connects to the next. If the schedule is not organized around construction logic, the job is more likely to suffer from rework and delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The usual order is design and permits, then demolition and grading, then pool shell and underground utilities, followed by decking, hardscape, finishes, and pla"
+}

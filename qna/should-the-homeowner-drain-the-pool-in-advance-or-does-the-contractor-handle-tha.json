@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-the-homeowner-drain-the-pool-in-advance-or-does-the-contractor-handle-tha",
+  "name": "Do I need to drain the pool before demolition starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should the homeowner drain the pool in advance, or does the contractor handle that as part of the job?",
+    "text": "Should the homeowner drain the pool in advance, or does the contractor handle that as part of the job?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In most cases, the pool must be drained before demolition begins, but homeowners should not assume they should do it themselves. The contractor should explain when draining happens, where the water can legally go, and whether any treatment chemicals need to be neutralized first. Improper draining can damage landscaping, flood neighboring areas, or create stormwater violations. The safest approach is usually to let the demolition team coordinate the drain-down so it fits the demolition schedule and local requirements. Homeowners should also ask whether the quote includes draining and whether the pool can be emptied gradually to avoid shell stress or site runoff issues. Coordinated draining is a small step that can prevent expensive problems later.",
+      "@type": "Answer",
+      "description": "Pool demolition usually starts only after the pool is drained, but the contractor should confirm the correct method and timing. Draining too early or the wrong way can create drainage or debris problems, so the process should be coordinated.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In most cases, the pool must be drained before demolition begins, but homeowners should not assume they should do it themselves. The contractor should explain when draining happens, where the water can legally go, and whether any treatment chemicals need to be neutralized first. Improper draining can damage landscaping, flood neighboring areas, or create stormwater violations. The safest approach is usually to let the demolition team coordinate the drain-down so it fits the demolition schedule and local requirements. Homeowners should also ask whether the quote includes draining and whether the pool can be emptied gradually to avoid shell stress or site runoff issues. Coordinated draining is a small step that can prevent expensive problems later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Pool demolition usually starts only after the pool is drained, but the contractor should confirm the correct method and timing. Draining too early or the wrong "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-restaurant-build-out-just-another-tenant-improvement-or-is-it-something-mor",
+  "name": "What is the difference between a restaurant build-out and a tenant improvement?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a restaurant build-out just another tenant improvement, or is it something more specialized?",
+    "text": "Is a restaurant build-out just another tenant improvement, or is it something more specialized?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A tenant improvement is any modification to an interior space for a new occupant, but a restaurant build-out is much more complex because food service introduces grease, heat, exhaust, sanitation, and higher utility loads. The project often includes kitchen equipment coordination, hood and suppression systems, grease interceptor sizing, gas line work, and finishes that comply with food service requirements. That means the drawings, engineering, and inspections are more detailed than a normal retail TI. Owners often underestimate this difference and budget only for cosmetic changes. A restaurant build-out should be planned as a technical construction project, not just a design refresh. That distinction matters most when choosing a contractor and setting the lease start date.",
+      "@type": "Answer",
+      "description": "A restaurant build-out is a specialized type of tenant improvement focused on kitchen function, ventilation, plumbing, health code, and fire safety. Compared with a standard office or retail TI, restaurant projects usually require more technical coordination and more inspections before occupancy.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A tenant improvement is any modification to an interior space for a new occupant, but a restaurant build-out is much more complex because food service introduces grease, heat, exhaust, sanitation, and higher utility loads. The project often includes kitchen equipment coordination, hood and suppression systems, grease interceptor sizing, gas line work, and finishes that comply with food service requirements. That means the drawings, engineering, and inspections are more detailed than a normal retail TI. Owners often underestimate this difference and budget only for cosmetic changes. A restaurant build-out should be planned as a technical construction project, not just a design refresh. That distinction matters most when choosing a contractor and setting the lease start date.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A restaurant build-out is a specialized type of tenant improvement focused on kitchen function, ventilation, plumbing, health code, and fire safety. Compared wi"
+}

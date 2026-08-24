@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-are-improvement-costs-usually-allocated-in-commercial-leases-and-build-outs",
+  "name": "Who pays for commercial property improvements, the landlord or tenant?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How are improvement costs usually allocated in commercial leases and build-outs?",
+    "text": "How are improvement costs usually allocated in commercial leases and build-outs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Who pays depends on the lease. Some tenants pay for the majority of the build-out and receive a tenant improvement allowance from the landlord. Others negotiate turnkey delivery, where the landlord completes a defined scope before occupancy. In some cases the tenant covers upgrades above the allowance, while the landlord funds base-condition improvements. The key is that the lease should spell out the allowance amount, eligible expenses, change order rules, deadlines, and what happens if the project exceeds budget. Ambiguity here is expensive because it can lead to disputes over design changes, code upgrades, and finish selections. Before design begins, both sides should confirm the financial structure and whether the allowance applies to hard costs only or also to soft costs like design and permits.",
+      "@type": "Answer",
+      "description": "Payment responsibility depends on the lease structure and negotiation. In some deals the tenant funds the build-out, in others the landlord provides a tenant improvement allowance, and sometimes costs are shared through rent terms or turnkey delivery. The lease should clearly define what is included, what is reimbursable, and who pays overruns.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Who pays depends on the lease. Some tenants pay for the majority of the build-out and receive a tenant improvement allowance from the landlord. Others negotiate turnkey delivery, where the landlord completes a defined scope before occupancy. In some cases the tenant covers upgrades above the allowance, while the landlord funds base-condition improvements. The key is that the lease should spell out the allowance amount, eligible expenses, change order rules, deadlines, and what happens if the project exceeds budget. Ambiguity here is expensive because it can lead to disputes over design changes, code upgrades, and finish selections. Before design begins, both sides should confirm the financial structure and whether the allowance applies to hard costs only or also to soft costs like design and permits.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Payment responsibility depends on the lease structure and negotiation. In some deals the tenant funds the build-out, in others the landlord provides a tenant im"
+}

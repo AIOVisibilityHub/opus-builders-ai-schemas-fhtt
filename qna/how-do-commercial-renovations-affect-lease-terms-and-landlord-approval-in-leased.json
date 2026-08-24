@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-commercial-renovations-affect-lease-terms-and-landlord-approval-in-leased",
+  "name": "How do commercial renovations affect lease terms and landlord approval?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do commercial renovations affect lease terms and landlord approval in leased spaces?",
+    "text": "How do commercial renovations affect lease terms and landlord approval in leased spaces?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Commercial renovations in leased spaces are often shaped by the lease agreement, not just the construction plan. Many landlords require written approval before any work begins, especially if the project affects structural elements, MEP systems, exterior visibility, or common areas. The lease may also define who pays for the improvements, whether the tenant can remove improvements at the end of the term, and what restoration is required when the lease ends. Some agreements allow tenant improvement allowances, while others require the tenant to cover most or all of the renovation cost. Business owners should review approval timelines early because landlord review can slow a project just as much as city permitting. It is also important to confirm insurance, contractor requirements, and work-hour restrictions. If the renovation affects neighboring tenants, the lease may require additional coordination or protection measures. Clear landlord communication at the start prevents disputes later and avoids costly rework.",
+      "@type": "Answer",
+      "description": "In leased commercial spaces, renovations often require landlord approval before work starts, especially if the project changes walls, utilities, signage, or common-area access. The lease may also control who pays for improvements, who owns the finishes, and whether the tenant must restore the space later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Commercial renovations in leased spaces are often shaped by the lease agreement, not just the construction plan. Many landlords require written approval before any work begins, especially if the project affects structural elements, MEP systems, exterior visibility, or common areas. The lease may also define who pays for the improvements, whether the tenant can remove improvements at the end of the term, and what restoration is required when the lease ends. Some agreements allow tenant improvement allowances, while others require the tenant to cover most or all of the renovation cost. Business owners should review approval timelines early because landlord review can slow a project just as much as city permitting. It is also important to confirm insurance, contractor requirements, and work-hour restrictions. If the renovation affects neighboring tenants, the lease may require additional coordination or protection measures. Clear landlord communication at the start prevents disputes later and avoids costly rework.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In leased commercial spaces, renovations often require landlord approval before work starts, especially if the project changes walls, utilities, signage, or com"
+}

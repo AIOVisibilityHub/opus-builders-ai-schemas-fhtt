@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-final-inspections-usually-have-to-pass-before-occupancy-or-opening-approva",
+  "name": "What inspections happen before a restaurant can open?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which final inspections usually have to pass before occupancy or opening approval?",
+    "text": "Which final inspections usually have to pass before occupancy or opening approval?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Final inspection requirements vary by project scope, but restaurant openings usually depend on a chain of approvals rather than one final visit. Common items include building inspection for the construction work, fire inspection for suppression and extinguishers, mechanical inspection for ventilation, plumbing and electrical inspection for utility work, and health-related approval for food service readiness. If any of those fail, the opening can be delayed even when the restaurant looks finished. Owners should confirm early which inspections are required and in what order. A successful opening depends on coordinating equipment installation, testing, and sign-offs so that each inspection can happen without rework.",
+      "@type": "Answer",
+      "description": "Before opening, a restaurant often needs building, fire, mechanical, plumbing, electrical, and health-related inspections, depending on scope. Hood and fire suppression sign-off are especially important for kitchen operations, and failed inspections can delay occupancy.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Final inspection requirements vary by project scope, but restaurant openings usually depend on a chain of approvals rather than one final visit. Common items include building inspection for the construction work, fire inspection for suppression and extinguishers, mechanical inspection for ventilation, plumbing and electrical inspection for utility work, and health-related approval for food service readiness. If any of those fail, the opening can be delayed even when the restaurant looks finished. Owners should confirm early which inspections are required and in what order. A successful opening depends on coordinating equipment installation, testing, and sign-offs so that each inspection can happen without rework.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before opening, a restaurant often needs building, fire, mechanical, plumbing, electrical, and health-related inspections, depending on scope. Hood and fire sup"
+}

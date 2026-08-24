@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-risks-should-a-commercial-project-manager-watch-for-first",
+  "name": "How do you manage commercial project risk?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What risks should a commercial project manager watch for first?",
+    "text": "What risks should a commercial project manager watch for first?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Commercial project risk management starts with identifying what can realistically go wrong before construction begins. Typical risks include ambiguous scope, incomplete drawings, permit delays, concealed site conditions, utility issues, labor shortages, and decision bottlenecks. Once risks are identified, the project manager should assign responsibility, set mitigation steps, and revisit the list regularly. This matters because many commercial problems become expensive only after time has passed. A good manager watches for patterns in submittals, RFIs, procurement, and field progress that signal trouble ahead. For Los Angeles-area projects, risk planning should also account for city review timing, inspection scheduling, and coordination in busy or occupied properties. Owners should expect a proactive manager to discuss risks openly instead of only reporting them after they become issues.",
+      "@type": "Answer",
+      "description": "The biggest risks are permitting delays, incomplete plans, site surprises, cost escalation, schedule slippage, and stakeholder misalignment. A project manager reduces risk by identifying these issues early, assigning owners to each one, and reviewing them throughout the project.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Commercial project risk management starts with identifying what can realistically go wrong before construction begins. Typical risks include ambiguous scope, incomplete drawings, permit delays, concealed site conditions, utility issues, labor shortages, and decision bottlenecks. Once risks are identified, the project manager should assign responsibility, set mitigation steps, and revisit the list regularly. This matters because many commercial problems become expensive only after time has passed. A good manager watches for patterns in submittals, RFIs, procurement, and field progress that signal trouble ahead. For Los Angeles-area projects, risk planning should also account for city review timing, inspection scheduling, and coordination in busy or occupied properties. Owners should expect a proactive manager to discuss risks openly instead of only reporting them after they become issues.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest risks are permitting delays, incomplete plans, site surprises, cost escalation, schedule slippage, and stakeholder misalignment. A project manager r"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-manage-a-commercial-project-in-an-occupied-building-without-disruptin",
+  "name": "How do commercial projects stay on schedule in occupied buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you manage a commercial project in an occupied building without disrupting tenants or operations?",
+    "text": "How do you manage a commercial project in an occupied building without disrupting tenants or operations?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Managing work in an occupied building requires much more coordination than a vacant-site project. The project manager needs a phasing plan that defines when each area is available, how crews will access the site, and when disruptive work can occur. Noise, dust, parking, elevator use, security, and shutdowns must be planned well in advance. For tenants that remain open during construction, the manager should set communication expectations, identify emergency contacts, and coordinate temporary protections for customer-facing areas and critical systems. Weekly meetings, look-ahead schedules, and rapid issue tracking help prevent small conflicts from turning into delays. In Los Angeles-area commercial spaces, this is especially important in office, retail, restaurant, and mixed-use properties where operations and construction may overlap. Strong project management protects both the construction schedule and the tenant’s business continuity.",
+      "@type": "Answer",
+      "description": "Occupied-building projects stay on schedule by phasing work, setting access rules, coordinating noisy or shutdown activities in advance, and keeping daily communication tight with tenants and building management. A clear schedule and escalation plan reduce conflict and prevent avoidable downtime.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Managing work in an occupied building requires much more coordination than a vacant-site project. The project manager needs a phasing plan that defines when each area is available, how crews will access the site, and when disruptive work can occur. Noise, dust, parking, elevator use, security, and shutdowns must be planned well in advance. For tenants that remain open during construction, the manager should set communication expectations, identify emergency contacts, and coordinate temporary protections for customer-facing areas and critical systems. Weekly meetings, look-ahead schedules, and rapid issue tracking help prevent small conflicts from turning into delays. In Los Angeles-area commercial spaces, this is especially important in office, retail, restaurant, and mixed-use properties where operations and construction may overlap. Strong project management protects both the construction schedule and the tenant’s business continuity.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Occupied-building projects stay on schedule by phasing work, setting access rules, coordinating noisy or shutdown activities in advance, and keeping daily commu"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-pieces-of-equipment-usually-force-redesigns-extra-permits-or-utility-upgra",
+  "name": "What kitchen equipment can trigger major build-out changes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which pieces of equipment usually force redesigns, extra permits, or utility upgrades?",
+    "text": "Which pieces of equipment usually force redesigns, extra permits, or utility upgrades?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Equipment choices drive many of the hidden costs in a restaurant build-out. A fryer or grill may require a Type I hood and suppression system. A walk-in cooler may need floor, drain, and power considerations. A larger dishwasher or ice machine can add plumbing and electrical loads. Even a small concept can become expensive if the equipment package exceeds the building’s existing capacity. Owners should finalize the menu and equipment list early, because design teams need that information to size mechanical, electrical, plumbing, and hood systems correctly. Changing equipment late in the process is one of the fastest ways to create delays and change orders.",
+      "@type": "Answer",
+      "description": "Large cooking equipment, heavy refrigeration, dishwashing systems, and anything producing grease-laden exhaust can trigger major build-out changes. Fryers, ranges, grills, combi ovens, walk-in coolers, and ice machines may require utility upgrades, structural support, and revised ventilation or drainage.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Equipment choices drive many of the hidden costs in a restaurant build-out. A fryer or grill may require a Type I hood and suppression system. A walk-in cooler may need floor, drain, and power considerations. A larger dishwasher or ice machine can add plumbing and electrical loads. Even a small concept can become expensive if the equipment package exceeds the building’s existing capacity. Owners should finalize the menu and equipment list early, because design teams need that information to size mechanical, electrical, plumbing, and hood systems correctly. Changing equipment late in the process is one of the fastest ways to create delays and change orders.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Large cooking equipment, heavy refrigeration, dishwashing systems, and anything producing grease-laden exhaust can trigger major build-out changes. Fryers, rang"
+}

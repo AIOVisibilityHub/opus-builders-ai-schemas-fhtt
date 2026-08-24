@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-you-need-a-permit-to-fill-in-a-swimming-pool-in-pasadena-los-angeles-or-nearb",
+  "name": "Do you need a permit to fill in a pool in Pasadena or Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do you need a permit to fill in a swimming pool in Pasadena, Los Angeles, or nearby cities?",
+    "text": "Do you need a permit to fill in a swimming pool in Pasadena, Los Angeles, or nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Pool fill-in and pool demolition projects in the Los Angeles area often require city permits, and the exact process depends on the city and the scope of work. Pasadena’s published requirements show that demolition cannot start without a building permit, and the city also requires plan review, inspection before backfill, and final sign-off after compaction certification. Los Angeles-area jurisdictions may also want a site plan, utility disconnect confirmation, and drainage details. Even if a project seems simple, permit requirements can change based on whether the pool is being fully removed, partially demolished, or only backfilled. Homeowners should not assume that filling a pool with dirt automatically avoids permitting. A contractor should explain which city department handles the application, what plans are needed, whether engineering is required, and whether the final inspection must be scheduled by the owner or contractor. Confirming the permit path early avoids delays, failed inspections, and expensive rework.",
+      "@type": "Answer",
+      "description": "Yes, pool fill-in projects in many Los Angeles-area cities typically require permits and inspections, especially when demolition, utility disconnection, or structural work is involved. Pasadena’s pool demolition requirements specifically call for a building permit, plan review approval, and final inspection. Requirements can vary by city, so the permit path should be confirmed before work begins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Pool fill-in and pool demolition projects in the Los Angeles area often require city permits, and the exact process depends on the city and the scope of work. Pasadena’s published requirements show that demolition cannot start without a building permit, and the city also requires plan review, inspection before backfill, and final sign-off after compaction certification. Los Angeles-area jurisdictions may also want a site plan, utility disconnect confirmation, and drainage details. Even if a project seems simple, permit requirements can change based on whether the pool is being fully removed, partially demolished, or only backfilled. Homeowners should not assume that filling a pool with dirt automatically avoids permitting. A contractor should explain which city department handles the application, what plans are needed, whether engineering is required, and whether the final inspection must be scheduled by the owner or contractor. Confirming the permit path early avoids delays, failed inspections, and expensive rework.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, pool fill-in projects in many Los Angeles-area cities typically require permits and inspections, especially when demolition, utility disconnection, or stru"
+}

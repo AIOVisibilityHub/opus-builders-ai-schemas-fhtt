@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-whether-the-existing-electrical-service-is-enough-for-my-kitchen-e",
+  "name": "What if the building does not have enough electrical power for a restaurant?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know whether the existing electrical service is enough for my kitchen equipment?",
+    "text": "How do I know whether the existing electrical service is enough for my kitchen equipment?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Electrical capacity should be checked before design is finalized. A restaurant uses far more power than a typical retail tenant because the kitchen, refrigeration, ventilation, and HVAC systems all run at the same time. If the building’s service is undersized, you may need a panel upgrade or even a larger service connection, which can affect both cost and schedule. This issue often appears late when the equipment schedule is already set, which is why early load calculations matter. Owners should ask for a utility review during feasibility, especially in older buildings or converted retail spaces. If the electrical system cannot support the concept efficiently, it may be smarter to adjust the menu or equipment package than to force a costly infrastructure upgrade.",
+      "@type": "Answer",
+      "description": "A restaurant may need a service upgrade if the existing electrical capacity cannot handle cooking equipment, refrigeration, lighting, HVAC, and point-of-sale loads. If the panel or service is undersized, the project can require redesign, utility coordination, and more time before opening.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Electrical capacity should be checked before design is finalized. A restaurant uses far more power than a typical retail tenant because the kitchen, refrigeration, ventilation, and HVAC systems all run at the same time. If the building’s service is undersized, you may need a panel upgrade or even a larger service connection, which can affect both cost and schedule. This issue often appears late when the equipment schedule is already set, which is why early load calculations matter. Owners should ask for a utility review during feasibility, especially in older buildings or converted retail spaces. If the electrical system cannot support the concept efficiently, it may be smarter to adjust the menu or equipment package than to force a costly infrastructure upgrade.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A restaurant may need a service upgrade if the existing electrical capacity cannot handle cooking equipment, refrigeration, lighting, HVAC, and point-of-sale lo"
+}

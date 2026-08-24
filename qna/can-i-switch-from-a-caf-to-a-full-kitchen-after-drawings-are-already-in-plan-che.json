@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-switch-from-a-caf-to-a-full-kitchen-after-drawings-are-already-in-plan-che",
+  "name": "What if my restaurant concept changes after permits are submitted?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I switch from a café to a full kitchen after drawings are already in plan check?",
+    "text": "Can I switch from a café to a full kitchen after drawings are already in plan check?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Changing the concept after permits are submitted can quickly cascade into redesign. A café that becomes a full kitchen may need a different hood, more gas, additional plumbing, greater electrical load, and a different health review. Even small menu changes can affect equipment sizing and compliance requirements. The result is often more than a simple drawing revision because the building systems may need to be recalculated. The safest strategy is to lock the operating concept before plan check whenever possible. If changes are unavoidable, notify the design team immediately so they can assess whether the current permit set can be amended or whether a fresh review is safer. Late concept changes are a common source of delays.",
+      "@type": "Answer",
+      "description": "A concept change after submittal can require revised drawings, resubmittal, and possibly new engineering or health review. Even a modest menu change may affect hood size, grease load, utility demand, and fixture requirements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Changing the concept after permits are submitted can quickly cascade into redesign. A café that becomes a full kitchen may need a different hood, more gas, additional plumbing, greater electrical load, and a different health review. Even small menu changes can affect equipment sizing and compliance requirements. The result is often more than a simple drawing revision because the building systems may need to be recalculated. The safest strategy is to lock the operating concept before plan check whenever possible. If changes are unavoidable, notify the design team immediately so they can assess whether the current permit set can be amended or whether a fresh review is safer. Late concept changes are a common source of delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A concept change after submittal can require revised drawings, resubmittal, and possibly new engineering or health review. Even a modest menu change may affect "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-los-angeles-tenant-improvement-permits-take-longer-than-expected",
+  "name": "What are the most common reasons commercial improvement permits get delayed?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do Los Angeles tenant improvement permits take longer than expected?",
+    "text": "Why do Los Angeles tenant improvement permits take longer than expected?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common permit delays come from preventable problems. Incomplete drawings, missing engineering details, mismatched existing conditions, and scope changes after submittal all slow review. Projects that affect fire systems, accessibility, or occupancy often require more coordination and may need responses from multiple departments or agencies. If the space is older or the intended use is specialized, the permit path becomes even less predictable. Owners should expect revisions and build review time into the schedule. Good pre-submittal coordination, accurate field measurements, and clear scope definition are the best ways to reduce delay risk.",
+      "@type": "Answer",
+      "description": "Permit delays usually happen because drawings are incomplete, the scope changes during review, additional agencies are required, or the project triggers corrections related to accessibility, fire protection, or occupancy. Delays are also common when plans do not match the actual field conditions. The more specialized the space, the more likely extra review cycles will be needed.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common permit delays come from preventable problems. Incomplete drawings, missing engineering details, mismatched existing conditions, and scope changes after submittal all slow review. Projects that affect fire systems, accessibility, or occupancy often require more coordination and may need responses from multiple departments or agencies. If the space is older or the intended use is specialized, the permit path becomes even less predictable. Owners should expect revisions and build review time into the schedule. Good pre-submittal coordination, accurate field measurements, and clear scope definition are the best ways to reduce delay risk.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permit delays usually happen because drawings are incomplete, the scope changes during review, additional agencies are required, or the project triggers correct"
+}

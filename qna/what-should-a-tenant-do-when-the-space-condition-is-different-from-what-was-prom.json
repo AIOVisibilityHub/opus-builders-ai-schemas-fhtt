@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-tenant-do-when-the-space-condition-is-different-from-what-was-prom",
+  "name": "What if the landlord’s deliverable doesn’t match the lease plan?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a tenant do when the space condition is different from what was promised?",
+    "text": "What should a tenant do when the space condition is different from what was promised?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A mismatch between the promised deliverable and the actual space condition can create major cost and schedule problems. The tenant should document the differences with photos and compare them to the lease exhibits, work letter, or base-build description. Common problems include missing utility stubs, incomplete HVAC, inadequate electrical capacity, or unfinished demising conditions. These discrepancies can change both the design and the budget. The best time to resolve the issue is before construction starts, because once the project is underway, the tenant may be forced to absorb the gap quickly. Clear written documentation and early escalation help protect the schedule and avoid misunderstanding about who is responsible for the fix.",
+      "@type": "Answer",
+      "description": "If the delivered space does not match the lease exhibits or agreed base conditions, the tenant should document the difference immediately and compare it to the written scope. The mismatch may affect cost, design, and opening date. Issues are easiest to resolve before construction starts, not after the build-out is underway.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A mismatch between the promised deliverable and the actual space condition can create major cost and schedule problems. The tenant should document the differences with photos and compare them to the lease exhibits, work letter, or base-build description. Common problems include missing utility stubs, incomplete HVAC, inadequate electrical capacity, or unfinished demising conditions. These discrepancies can change both the design and the budget. The best time to resolve the issue is before construction starts, because once the project is underway, the tenant may be forced to absorb the gap quickly. Clear written documentation and early escalation help protect the schedule and avoid misunderstanding about who is responsible for the fix.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the delivered space does not match the lease exhibits or agreed base conditions, the tenant should document the difference immediately and compare it to the "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-ada-related-issues-usually-come-up-during-a-restaurant-conversion",
+  "name": "How do accessibility requirements affect a restaurant build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What ADA-related issues usually come up during a restaurant conversion?",
+    "text": "What ADA-related issues usually come up during a restaurant conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Accessibility requirements often affect restaurant build-outs in ways owners do not expect. The dining room, restrooms, entry route, counters, and clearances may all need to meet accessibility standards, and these items can be especially challenging in older buildings. If the space has existing noncompliant conditions, the build-out may trigger path-of-travel upgrades that add cost beyond the kitchen scope. This is why a restaurant project needs coordinated architectural and code review early in design. The layout should balance brand, seating count, and operational flow with accessibility requirements, rather than trying to fix issues after permit review. Ignoring accessibility early can lead to expensive redesign and delayed approval.",
+      "@type": "Answer",
+      "description": "Accessibility can affect entrances, restroom layouts, seating clearances, counter heights, door hardware, and path-of-travel requirements. These items can force design changes even when the kitchen itself is already planned.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Accessibility requirements often affect restaurant build-outs in ways owners do not expect. The dining room, restrooms, entry route, counters, and clearances may all need to meet accessibility standards, and these items can be especially challenging in older buildings. If the space has existing noncompliant conditions, the build-out may trigger path-of-travel upgrades that add cost beyond the kitchen scope. This is why a restaurant project needs coordinated architectural and code review early in design. The layout should balance brand, seating count, and operational flow with accessibility requirements, rather than trying to fix issues after permit review. Ignoring accessibility early can lead to expensive redesign and delayed approval.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Accessibility can affect entrances, restroom layouts, seating clearances, counter heights, door hardware, and path-of-travel requirements. These items can force"
+}

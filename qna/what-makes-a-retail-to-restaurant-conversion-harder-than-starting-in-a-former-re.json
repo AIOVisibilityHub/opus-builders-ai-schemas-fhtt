@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-makes-a-retail-to-restaurant-conversion-harder-than-starting-in-a-former-re",
+  "name": "Can you convert retail space into a restaurant in Glendale or Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What makes a retail-to-restaurant conversion harder than starting in a former restaurant space?",
+    "text": "What makes a retail-to-restaurant conversion harder than starting in a former restaurant space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail-to-restaurant conversions are possible throughout Los Angeles-area markets, but they are usually more expensive and slower than using a prior restaurant space. Retail shells often lack the utility capacity, exhaust path, floor drains, and grease infrastructure a kitchen needs. That means the project may require major MEP upgrades, structural roof work for venting, and additional review from health and fire authorities. The lease should be examined carefully because some spaces are not practically convertible without expensive building modifications. Before committing, have the concept and equipment list tested against the available utilities and building constraints. If the space cannot support the kitchen program efficiently, the project can become a costly redesign instead of a viable build-out.",
+      "@type": "Answer",
+      "description": "Yes, retail space can be converted into a restaurant, but it usually requires more work than reusing a former restaurant. The biggest hurdles are adding grease-rated ventilation, plumbing for kitchen equipment, grease interception, electrical capacity, and health department approval for the new layout.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail-to-restaurant conversions are possible throughout Los Angeles-area markets, but they are usually more expensive and slower than using a prior restaurant space. Retail shells often lack the utility capacity, exhaust path, floor drains, and grease infrastructure a kitchen needs. That means the project may require major MEP upgrades, structural roof work for venting, and additional review from health and fire authorities. The lease should be examined carefully because some spaces are not practically convertible without expensive building modifications. Before committing, have the concept and equipment list tested against the available utilities and building constraints. If the space cannot support the kitchen program efficiently, the project can become a costly redesign instead of a viable build-out.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, retail space can be converted into a restaurant, but it usually requires more work than reusing a former restaurant. The biggest hurdles are adding grease-"
+}

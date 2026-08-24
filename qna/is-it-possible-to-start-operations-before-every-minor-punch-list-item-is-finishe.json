@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-start-operations-before-every-minor-punch-list-item-is-finishe",
+  "name": "Can I open a restaurant with a temporary certificate of occupancy?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to start operations before every minor punch-list item is finished?",
+    "text": "Is it possible to start operations before every minor punch-list item is finished?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In some cases, a temporary occupancy approval may allow limited opening if the essential life-safety, fire, and building items are complete. That said, the decision depends on the local authority and the type of unresolved work. If critical systems such as hood suppression, exits, alarms, or sanitation are not approved, opening is unlikely. Owners should never assume a temporary approval is automatic or broad enough to cover every unfinished detail. The practical goal is to finish the project cleanly enough that the space can operate safely and pass the required inspections. Temporary occupancy should be treated as a backup, not a planning strategy.",
+      "@type": "Answer",
+      "description": "Sometimes a temporary occupancy approval may be possible if life-safety items and critical inspections are complete, but it depends on the jurisdiction and the remaining scope. Core systems must still be safe, functional, and approved before public opening.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In some cases, a temporary occupancy approval may allow limited opening if the essential life-safety, fire, and building items are complete. That said, the decision depends on the local authority and the type of unresolved work. If critical systems such as hood suppression, exits, alarms, or sanitation are not approved, opening is unlikely. Owners should never assume a temporary approval is automatic or broad enough to cover every unfinished detail. The practical goal is to finish the project cleanly enough that the space can operate safely and pass the required inspections. Temporary occupancy should be treated as a backup, not a planning strategy.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes a temporary occupancy approval may be possible if life-safety items and critical inspections are complete, but it depends on the jurisdiction and the "
+}

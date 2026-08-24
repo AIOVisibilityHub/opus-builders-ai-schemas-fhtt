@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-equipment-be-budgeted-separately-from-construction-and-how-early-should-i",
+  "name": "What is the best way to budget for kitchen equipment in a build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should equipment be budgeted separately from construction, and how early should it be selected?",
+    "text": "Should equipment be budgeted separately from construction, and how early should it be selected?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Kitchen equipment should never be treated as an afterthought. It affects nearly every major building system, including exhaust, gas, plumbing, electrical, and sometimes structural support. Owners should separate equipment cost from hard construction in the budget so the true total project cost is visible. Early selection also helps avoid redesign because hood sizing, utility runs, and layout clearances depend on the final equipment list. If the concept depends on high-output cooking, the build-out must be engineered around that reality from the start. Delaying equipment decisions often leads to change orders and schedule slip. The more precise the equipment plan, the easier it is to control cost and opening date.",
+      "@type": "Answer",
+      "description": "Kitchen equipment should be budgeted separately from hard construction because it can consume a large share of total project cost. It should be selected early so the build-out can be designed around power, gas, ventilation, drainage, and clearances.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Kitchen equipment should never be treated as an afterthought. It affects nearly every major building system, including exhaust, gas, plumbing, electrical, and sometimes structural support. Owners should separate equipment cost from hard construction in the budget so the true total project cost is visible. Early selection also helps avoid redesign because hood sizing, utility runs, and layout clearances depend on the final equipment list. If the concept depends on high-output cooking, the build-out must be engineered around that reality from the start. Delaying equipment decisions often leads to change orders and schedule slip. The more precise the equipment plan, the easier it is to control cost and opening date.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Kitchen equipment should be budgeted separately from hard construction because it can consume a large share of total project cost. It should be selected early s"
+}

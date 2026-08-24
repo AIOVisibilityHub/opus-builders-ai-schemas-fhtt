@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-ask-before-signing-a-lease-on-a-restaurant-space",
+  "name": "What should I ask before signing a lease for a restaurant space?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask before signing a lease on a restaurant space?",
+    "text": "What should I ask before signing a lease on a restaurant space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing a restaurant lease, the most important questions are about what the space can actually support. Ask whether the use is already permitted for food service, whether prior approvals and plans are available, and whether the hood, grease interceptor, electrical capacity, plumbing, HVAC, and restroom layout are adequate for your concept. Also ask about landlord improvement allowances, restoration obligations at move-out, and any restrictions on hours, deliveries, or roof equipment. In Los Angeles-area markets, a space can look ideal but still require major upgrades once the real construction requirements are reviewed. Owners should ask for documentation, not just verbal assurances, and should inspect the site with a contractor before committing. If the landlord cannot provide clear records or the space has obvious limitations, assume the budget and schedule may increase. That early due diligence often prevents the biggest mistakes in restaurant construction.",
+      "@type": "Answer",
+      "description": "Before signing a restaurant lease, ask about permitted use, existing approvals, utility capacity, hood and grease interceptor status, ADA issues, restoration obligations, and landlord improvement allowances. These questions help reveal whether the space can actually support your concept without major hidden costs.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing a restaurant lease, the most important questions are about what the space can actually support. Ask whether the use is already permitted for food service, whether prior approvals and plans are available, and whether the hood, grease interceptor, electrical capacity, plumbing, HVAC, and restroom layout are adequate for your concept. Also ask about landlord improvement allowances, restoration obligations at move-out, and any restrictions on hours, deliveries, or roof equipment. In Los Angeles-area markets, a space can look ideal but still require major upgrades once the real construction requirements are reviewed. Owners should ask for documentation, not just verbal assurances, and should inspect the site with a contractor before committing. If the landlord cannot provide clear records or the space has obvious limitations, assume the budget and schedule may increase. That early due diligence often prevents the biggest mistakes in restaurant construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before signing a restaurant lease, ask about permitted use, existing approvals, utility capacity, hood and grease interceptor status, ADA issues, restoration ob"
+}

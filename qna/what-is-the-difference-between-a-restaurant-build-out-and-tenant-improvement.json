@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-restaurant-build-out-and-tenant-improvement",
+  "name": "What is the difference between restaurant build-out and tenant improvement?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a restaurant build-out and tenant improvement?",
+    "text": "What is the difference between a restaurant build-out and tenant improvement?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Tenant improvement is the general construction term for changes made inside a leased commercial space. A restaurant build-out is a type of tenant improvement focused specifically on making the space ready for food service. That usually includes kitchen layout, hood and exhaust systems, plumbing for sinks and grease management, refrigeration coordination, fire suppression, finishes, and accessibility upgrades. In restaurant projects, the distinction matters because landlords, architects, and contractors may use the terms differently. A tenant improvement may be cosmetic or partial, while a restaurant build-out usually means the space must meet health and building requirements before it can operate. Owners should clarify whether the project includes only interior finishes or the full back-of-house infrastructure needed to pass inspections. In Los Angeles-area projects, the difference also affects budget, schedule, and permit scope, so it should be defined clearly in the contract and plans before work starts.",
+      "@type": "Answer",
+      "description": "A restaurant build-out usually means turning a space into a functioning restaurant, including kitchen systems, plumbing, ventilation, finishes, and code compliance. Tenant improvement is the broader commercial term for modifying a leased space, which may include a restaurant build-out if the tenant is a food service operator.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Tenant improvement is the general construction term for changes made inside a leased commercial space. A restaurant build-out is a type of tenant improvement focused specifically on making the space ready for food service. That usually includes kitchen layout, hood and exhaust systems, plumbing for sinks and grease management, refrigeration coordination, fire suppression, finishes, and accessibility upgrades. In restaurant projects, the distinction matters because landlords, architects, and contractors may use the terms differently. A tenant improvement may be cosmetic or partial, while a restaurant build-out usually means the space must meet health and building requirements before it can operate. Owners should clarify whether the project includes only interior finishes or the full back-of-house infrastructure needed to pass inspections. In Los Angeles-area projects, the difference also affects budget, schedule, and permit scope, so it should be defined clearly in the contract and plans before work starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A restaurant build-out usually means turning a space into a functioning restaurant, including kitchen systems, plumbing, ventilation, finishes, and code complia"
+}

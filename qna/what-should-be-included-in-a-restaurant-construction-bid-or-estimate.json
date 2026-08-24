@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-included-in-a-restaurant-construction-bid-or-estimate",
+  "name": "What should a restaurant construction bid include?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in a restaurant construction bid or estimate?",
+    "text": "What should be included in a restaurant construction bid or estimate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong restaurant construction bid should be itemized enough that the owner can see exactly what is included and what is excluded. At minimum, it should cover demolition, framing, drywall, plumbing, electrical, mechanical, hood and fire suppression coordination, finishes, flooring, paint, ADA-related work, and permit support. It should also identify allowances for fixtures, equipment coordination, and any specialty work such as grease interceptor installation or rooftop penetrations. Just as important are the exclusions: design fees, utility company charges, landlord-required upgrades, menu-specific equipment, and unforeseen code corrections. In Los Angeles-area projects, unclear bids create disputes because permit requirements and inspection conditions can shift during construction. Owners in Glendale, Pasadena, Burbank, and North Hollywood should compare bids only after confirming they are based on the same scope. The best bid is not the cheapest one; it is the one that most accurately reflects the real build-out and reduces surprise change orders.",
+      "@type": "Answer",
+      "description": "A restaurant construction bid should clearly list demolition, framing, plumbing, electrical, HVAC, hood and fire systems, finishes, permits, coordination, and exclusions. It should also state whether equipment, design fees, and utility upgrades are included, because those items often change the final cost.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong restaurant construction bid should be itemized enough that the owner can see exactly what is included and what is excluded. At minimum, it should cover demolition, framing, drywall, plumbing, electrical, mechanical, hood and fire suppression coordination, finishes, flooring, paint, ADA-related work, and permit support. It should also identify allowances for fixtures, equipment coordination, and any specialty work such as grease interceptor installation or rooftop penetrations. Just as important are the exclusions: design fees, utility company charges, landlord-required upgrades, menu-specific equipment, and unforeseen code corrections. In Los Angeles-area projects, unclear bids create disputes because permit requirements and inspection conditions can shift during construction. Owners in Glendale, Pasadena, Burbank, and North Hollywood should compare bids only after confirming they are based on the same scope. The best bid is not the cheapest one; it is the one that most accurately reflects the real build-out and reduces surprise change orders.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A restaurant construction bid should clearly list demolition, framing, plumbing, electrical, HVAC, hood and fire systems, finishes, permits, coordination, and e"
+}

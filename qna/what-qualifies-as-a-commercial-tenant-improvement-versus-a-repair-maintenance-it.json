@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-qualifies-as-a-commercial-tenant-improvement-versus-a-repair-maintenance-it",
+  "name": "What counts as a commercial tenant improvement in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What qualifies as a commercial tenant improvement versus a repair, maintenance item, or full remodel?",
+    "text": "What qualifies as a commercial tenant improvement versus a repair, maintenance item, or full remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A commercial tenant improvement is any interior construction that changes how an existing leased space functions for a tenant. Common examples include new offices, conference rooms, reception areas, restrooms, specialty lighting, floor finishes, break rooms, and plumbing or electrical changes. In practice, the distinction matters because simple maintenance may not need the same level of review, while larger remodels can trigger plan check, fire review, accessibility updates, and additional agency approvals. The safest way to classify a project is by its actual scope: if the work affects walls, egress, MEP systems, occupancy, or accessibility, it is usually treated as a true improvement project rather than routine repair. Property owners and tenants should verify scope early so budgeting, permits, and timelines are realistic.",
+      "@type": "Answer",
+      "description": "A commercial tenant improvement is interior work that adapts an existing space for a specific business use. It usually includes partitions, finishes, lighting, plumbing, electrical, HVAC adjustments, accessibility upgrades, and layout changes. It typically does not mean rebuilding the entire structure, but the exact line depends on scope, permit requirements, and whether the work changes use, occupancy, or life-safety systems.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A commercial tenant improvement is any interior construction that changes how an existing leased space functions for a tenant. Common examples include new offices, conference rooms, reception areas, restrooms, specialty lighting, floor finishes, break rooms, and plumbing or electrical changes. In practice, the distinction matters because simple maintenance may not need the same level of review, while larger remodels can trigger plan check, fire review, accessibility updates, and additional agency approvals. The safest way to classify a project is by its actual scope: if the work affects walls, egress, MEP systems, occupancy, or accessibility, it is usually treated as a true improvement project rather than routine repair. Property owners and tenants should verify scope early so budgeting, permits, and timelines are realistic.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A commercial tenant improvement is interior work that adapts an existing space for a specific business use. It usually includes partitions, finishes, lighting, "
+}

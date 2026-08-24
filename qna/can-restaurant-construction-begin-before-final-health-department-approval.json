@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-restaurant-construction-begin-before-final-health-department-approval",
+  "name": "Can I start construction before final health approval?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can restaurant construction begin before final health department approval?",
+    "text": "Can restaurant construction begin before final health department approval?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Restaurant construction should not begin until the required plans and permits are approved for the specific scope of work. In Los Angeles County, new restaurants and major modifications typically go through health plan check and building permit review before construction starts. Once approvals are in place, construction can proceed, but the space still cannot open or use remodeled areas until final inspections and operating approvals are completed. This distinction matters because some owners confuse “construction started” with “approved to operate.” Starting early without proper approvals can create expensive rework, failed inspections, or forced corrections. A good contractor will sequence the project so the work matches the permit status and inspection schedule. Owners should also understand that changes made during construction may need to be resubmitted for review, which can slow the job if the design evolves after work begins.",
+      "@type": "Answer",
+      "description": "Construction can begin only after the required plans and permits are approved, but the restaurant cannot open or use remodeled areas until final health and building approvals are completed. The sequence matters because working without the proper approvals can cause delays, corrections, and stop-work issues.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Restaurant construction should not begin until the required plans and permits are approved for the specific scope of work. In Los Angeles County, new restaurants and major modifications typically go through health plan check and building permit review before construction starts. Once approvals are in place, construction can proceed, but the space still cannot open or use remodeled areas until final inspections and operating approvals are completed. This distinction matters because some owners confuse “construction started” with “approved to operate.” Starting early without proper approvals can create expensive rework, failed inspections, or forced corrections. A good contractor will sequence the project so the work matches the permit status and inspection schedule. Owners should also understand that changes made during construction may need to be resubmitted for review, which can slow the job if the design evolves after work begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Construction can begin only after the required plans and permits are approved, but the restaurant cannot open or use remodeled areas until final health and buil"
+}

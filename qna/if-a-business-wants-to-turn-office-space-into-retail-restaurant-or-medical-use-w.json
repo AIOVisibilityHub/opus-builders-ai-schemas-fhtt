@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-a-business-wants-to-turn-office-space-into-retail-restaurant-or-medical-use-w",
+  "name": "Can a tenant improvement change the use of a commercial space?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If a business wants to turn office space into retail, restaurant, or medical use, what changes are needed?",
+    "text": "If a business wants to turn office space into retail, restaurant, or medical use, what changes are needed?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A tenant improvement can be part of a change in use, but the build-out itself does not automatically make the space legal for the new business type. Converting office space to retail, restaurant, medical, or other specialized use may require planning review, code upgrades, and additional permits beyond interior construction. The biggest issues are often occupancy classification, restrooms, exits, plumbing, ventilation, and accessibility. For example, a restaurant conversion can trigger requirements that a standard office build-out would not. Before spending on design, owners should confirm that the intended use is allowed for the site and building, and that the space can realistically support the required systems. Otherwise the project may need redesign after review, which adds time and cost.",
+      "@type": "Answer",
+      "description": "A tenant improvement can support a change in use, but the project usually becomes more complex because the new use may trigger zoning review, occupancy changes, accessibility upgrades, and additional life-safety requirements. The interior layout alone is not enough if the building was not previously approved for that type of business.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A tenant improvement can be part of a change in use, but the build-out itself does not automatically make the space legal for the new business type. Converting office space to retail, restaurant, medical, or other specialized use may require planning review, code upgrades, and additional permits beyond interior construction. The biggest issues are often occupancy classification, restrooms, exits, plumbing, ventilation, and accessibility. For example, a restaurant conversion can trigger requirements that a standard office build-out would not. Before spending on design, owners should confirm that the intended use is allowed for the site and building, and that the space can realistically support the required systems. Otherwise the project may need redesign after review, which adds time and cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A tenant improvement can support a change in use, but the project usually becomes more complex because the new use may trigger zoning review, occupancy changes,"
+}

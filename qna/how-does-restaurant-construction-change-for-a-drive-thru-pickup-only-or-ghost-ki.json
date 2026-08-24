@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-restaurant-construction-change-for-a-drive-thru-pickup-only-or-ghost-ki",
+  "name": "How do restaurant construction requirements affect a drive-thru or pickup concept?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does restaurant construction change for a drive-thru, pickup-only, or ghost kitchen concept?",
+    "text": "How does restaurant construction change for a drive-thru, pickup-only, or ghost kitchen concept?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A drive-thru, pickup-only, or ghost kitchen concept changes the construction priorities, even if the customer seating area is small or nonexistent. The design must support order flow, driver circulation, pickup access, loading, kitchen throughput, food holding, ventilation, and utility demand. These concepts can still require significant permit review because the back-of-house systems, fire safety, exhaust, sanitation, and accessibility all matter. In Los Angeles and nearby cities, site layout is often the biggest challenge because queueing, parking, and traffic movement must fit the property without creating bottlenecks. A ghost kitchen may appear simpler than a full dining restaurant, but it can be just as demanding on plumbing, electrical, and mechanical systems. Owners should evaluate whether the site can support volume, not just whether it can fit equipment. The best projects start with an operations plan and then build the construction scope around that workflow.",
+      "@type": "Answer",
+      "description": "Drive-thru, pickup-only, and ghost kitchen concepts change circulation, parking, queueing, loading, ventilation, and utility planning. Even though the dining room may be smaller, the project can still require major kitchen, health, and building coordination to support high-volume production and safe traffic flow.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A drive-thru, pickup-only, or ghost kitchen concept changes the construction priorities, even if the customer seating area is small or nonexistent. The design must support order flow, driver circulation, pickup access, loading, kitchen throughput, food holding, ventilation, and utility demand. These concepts can still require significant permit review because the back-of-house systems, fire safety, exhaust, sanitation, and accessibility all matter. In Los Angeles and nearby cities, site layout is often the biggest challenge because queueing, parking, and traffic movement must fit the property without creating bottlenecks. A ghost kitchen may appear simpler than a full dining restaurant, but it can be just as demanding on plumbing, electrical, and mechanical systems. Owners should evaluate whether the site can support volume, not just whether it can fit equipment. The best projects start with an operations plan and then build the construction scope around that workflow.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Drive-thru, pickup-only, and ghost kitchen concepts change circulation, parking, queueing, loading, ventilation, and utility planning. Even though the dining ro"
+}

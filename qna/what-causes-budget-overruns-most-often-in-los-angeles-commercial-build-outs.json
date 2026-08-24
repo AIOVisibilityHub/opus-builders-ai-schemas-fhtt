@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-causes-budget-overruns-most-often-in-los-angeles-commercial-build-outs",
+  "name": "How often do commercial improvement projects go over budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What causes budget overruns most often in Los Angeles commercial build-outs?",
+    "text": "What causes budget overruns most often in Los Angeles commercial build-outs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Commercial improvements often go over budget when the estimate was built on assumptions instead of a detailed field review. Hidden conditions, late design changes, permit corrections, and code upgrades are common reasons costs rise. Older properties are at higher risk because previous alterations may not have been documented, and exposed systems may no longer meet current standards. To reduce overruns, owners should insist on a scope that is specific, ask what is excluded, and plan contingency as a normal part of the budget rather than as an afterthought. The projects that stay closest to budget are usually the ones with complete drawings, early coordination, and disciplined change management.",
+      "@type": "Answer",
+      "description": "Budget overruns are common when the original estimate misses hidden conditions, code-driven upgrades, permit delays, or design changes after work begins. Older buildings and tenant spaces with incomplete records are especially prone to surprises. The best way to reduce overruns is a detailed scope review, realistic contingency, and early coordination of plans and trades.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Commercial improvements often go over budget when the estimate was built on assumptions instead of a detailed field review. Hidden conditions, late design changes, permit corrections, and code upgrades are common reasons costs rise. Older properties are at higher risk because previous alterations may not have been documented, and exposed systems may no longer meet current standards. To reduce overruns, owners should insist on a scope that is specific, ask what is excluded, and plan contingency as a normal part of the budget rather than as an afterthought. The projects that stay closest to budget are usually the ones with complete drawings, early coordination, and disciplined change management.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Budget overruns are common when the original estimate misses hidden conditions, code-driven upgrades, permit delays, or design changes after work begins. Older "
+}

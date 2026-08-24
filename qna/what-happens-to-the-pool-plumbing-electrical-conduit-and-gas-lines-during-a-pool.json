@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-to-the-pool-plumbing-electrical-conduit-and-gas-lines-during-a-pool",
+  "name": "What happens to pool plumbing and gas lines during fill-in?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens to the pool plumbing, electrical conduit, and gas lines during a pool fill-in?",
+    "text": "What happens to the pool plumbing, electrical conduit, and gas lines during a pool fill-in?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Pool fill-in is not just about adding dirt to a hole. A proper job includes safe handling of plumbing, electrical conduit, gas lines, pumps, heaters, and any underground services connected to the pool system. Those lines should be disconnected, capped, and removed or abandoned in the correct manner before backfilling starts. In some jurisdictions, utility-related work must be inspected before the contractor can proceed. The contractor should identify which components are being removed, which are being capped, and whether any lines remain in place beneath the backfill. This matters for safety, future excavation, and permit compliance. Homeowners should also ask where the old equipment pad will go and whether exposed stubs or conduits will be left behind. A good scope of work should clearly state utility disconnection responsibility so there is no confusion between the pool contractor and other trades.",
+      "@type": "Answer",
+      "description": "During a proper pool fill-in, utilities should be disconnected, capped, and removed as required before backfilling begins. Pasadena’s guidance says electrical conduit and gas lines should be disconnected and removed as close to the original point of connection as practical. Utility work should be completed and inspected before the cavity is filled.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Pool fill-in is not just about adding dirt to a hole. A proper job includes safe handling of plumbing, electrical conduit, gas lines, pumps, heaters, and any underground services connected to the pool system. Those lines should be disconnected, capped, and removed or abandoned in the correct manner before backfilling starts. In some jurisdictions, utility-related work must be inspected before the contractor can proceed. The contractor should identify which components are being removed, which are being capped, and whether any lines remain in place beneath the backfill. This matters for safety, future excavation, and permit compliance. Homeowners should also ask where the old equipment pad will go and whether exposed stubs or conduits will be left behind. A good scope of work should clearly state utility disconnection responsibility so there is no confusion between the pool contractor and other trades.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "During a proper pool fill-in, utilities should be disconnected, capped, and removed as required before backfilling begins. Pasadena’s guidance says electrical c"
+}

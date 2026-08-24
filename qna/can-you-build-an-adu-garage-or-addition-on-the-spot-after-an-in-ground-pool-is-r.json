@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-build-an-adu-garage-or-addition-on-the-spot-after-an-in-ground-pool-is-r",
+  "name": "Can you build an ADU where the pool used to be?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you build an ADU, garage, or addition on the spot after an in-ground pool is removed?",
+    "text": "Can you build an ADU, garage, or addition on the spot after an in-ground pool is removed?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A former pool area can sometimes become a building pad, but the removal method matters. For an ADU, garage, or room addition, full removal is usually the safer choice because it clears more of the old shell and gives a cleaner base for compaction and site preparation. A partial fill-in may be acceptable for landscaping, but buried shell sections can complicate foundations, drainage, and future inspections. In Los Angeles-area cities, site conditions can be especially important because many properties have slopes, expansive soils, limited access, or drainage constraints. Homeowners should ask whether the contractor can provide engineered compaction documentation and whether the future structure is being planned before removal begins. If an ADU is part of the long-term plan, the pool removal should be coordinated with the designer or builder so the work supports the new use instead of creating expensive rework later.",
+      "@type": "Answer",
+      "description": "You may be able to build on a former pool area, but only if the removal method, compaction, drainage, and local approvals support the new structure. Full removal is usually more suitable than a partial fill-in for future building. If the site is not properly compacted or engineered, settlement can create costly foundation problems later.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A former pool area can sometimes become a building pad, but the removal method matters. For an ADU, garage, or room addition, full removal is usually the safer choice because it clears more of the old shell and gives a cleaner base for compaction and site preparation. A partial fill-in may be acceptable for landscaping, but buried shell sections can complicate foundations, drainage, and future inspections. In Los Angeles-area cities, site conditions can be especially important because many properties have slopes, expansive soils, limited access, or drainage constraints. Homeowners should ask whether the contractor can provide engineered compaction documentation and whether the future structure is being planned before removal begins. If an ADU is part of the long-term plan, the pool removal should be coordinated with the designer or builder so the work supports the new use instead of creating expensive rework later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You may be able to build on a former pool area, but only if the removal method, compaction, drainage, and local approvals support the new structure. Full remova"
+}

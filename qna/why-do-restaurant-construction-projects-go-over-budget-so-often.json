@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-restaurant-construction-projects-go-over-budget-so-often",
+  "name": "What is the biggest reason restaurant construction projects go over budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do restaurant construction projects go over budget so often?",
+    "text": "Why do restaurant construction projects go over budget so often?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The biggest reason restaurant construction goes over budget is uncertainty. Once demolition begins, contractors often find hidden plumbing issues, outdated electrical service, structural repairs, HVAC limitations, or code deficiencies that were not visible during the first walkthrough. Permit revisions and inspection corrections can also add cost, especially when the plan set was incomplete or the concept changed late. In restaurants, the kitchen systems themselves can be expensive and highly coordinated, so even one design change can ripple through multiple trades. Older Los Angeles properties often have more risk because previous tenant improvements may not have been fully documented. To reduce overruns, owners should get a detailed scope, identify exclusions, reserve contingency, and avoid changing the menu or layout after design is underway. The most predictable project is the one where the space, concept, and approval path are all aligned before construction starts.",
+      "@type": "Answer",
+      "description": "Restaurant construction often goes over budget because hidden conditions, permit revisions, utility upgrades, and late design changes are common. Older buildings and unfinished spaces are especially risky because demolition may reveal problems that were not visible during the initial estimate.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The biggest reason restaurant construction goes over budget is uncertainty. Once demolition begins, contractors often find hidden plumbing issues, outdated electrical service, structural repairs, HVAC limitations, or code deficiencies that were not visible during the first walkthrough. Permit revisions and inspection corrections can also add cost, especially when the plan set was incomplete or the concept changed late. In restaurants, the kitchen systems themselves can be expensive and highly coordinated, so even one design change can ripple through multiple trades. Older Los Angeles properties often have more risk because previous tenant improvements may not have been fully documented. To reduce overruns, owners should get a detailed scope, identify exclusions, reserve contingency, and avoid changing the menu or layout after design is underway. The most predictable project is the one where the space, concept, and approval path are all aligned before construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Restaurant construction often goes over budget because hidden conditions, permit revisions, utility upgrades, and late design changes are common. Older building"
+}

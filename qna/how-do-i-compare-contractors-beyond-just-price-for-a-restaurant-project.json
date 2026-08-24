@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-compare-contractors-beyond-just-price-for-a-restaurant-project",
+  "name": "What questions should I ask a restaurant build-out contractor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I compare contractors beyond just price for a restaurant project?",
+    "text": "How do I compare contractors beyond just price for a restaurant project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A restaurant contractor should be evaluated on more than bid price. Ask whether they regularly handle kitchen ventilation, suppression systems, grease management, utility upgrades, and restaurant plan check. A good contractor should also explain how they manage schedule risks, inspections, and long-lead equipment. Owners should request examples of similar projects and clarify what is included, excluded, and assumed in the price. Many budget problems come from vague proposals that omit important scope items. The right contractor should reduce surprises, not create them. For a restaurant build-out in Los Angeles-area cities, specialized experience is often more valuable than a low initial number.",
+      "@type": "Answer",
+      "description": "Ask about restaurant-specific permitting experience, health department coordination, hood and suppression work, utility upgrades, schedule control, and recent similar projects. The lowest bid can be risky if it excludes critical scope or understates code-related work.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A restaurant contractor should be evaluated on more than bid price. Ask whether they regularly handle kitchen ventilation, suppression systems, grease management, utility upgrades, and restaurant plan check. A good contractor should also explain how they manage schedule risks, inspections, and long-lead equipment. Owners should request examples of similar projects and clarify what is included, excluded, and assumed in the price. Many budget problems come from vague proposals that omit important scope items. The right contractor should reduce surprises, not create them. For a restaurant build-out in Los Angeles-area cities, specialized experience is often more valuable than a low initial number.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about restaurant-specific permitting experience, health department coordination, hood and suppression work, utility upgrades, schedule control, and recent s"
+}

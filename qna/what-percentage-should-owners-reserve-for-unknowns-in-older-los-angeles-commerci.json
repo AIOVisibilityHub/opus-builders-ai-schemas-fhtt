@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-percentage-should-owners-reserve-for-unknowns-in-older-los-angeles-commerci",
+  "name": "How do I budget contingency for a commercial improvement project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What percentage should owners reserve for unknowns in older Los Angeles commercial spaces?",
+    "text": "What percentage should owners reserve for unknowns in older Los Angeles commercial spaces?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Contingency protects the project from the unknowns that show up after demolition begins. In older commercial spaces, hidden electrical problems, damaged plumbing, uneven slabs, outdated fire systems, and accessibility upgrades can all add cost. The right contingency depends on how much of the building is being opened up and how well the existing conditions are documented. Projects with limited scope and recent improvements may need less reserve than projects in older buildings with incomplete records. A realistic budget should include not only construction uncertainty but also permit revisions, material substitutions, and schedule-related costs. Owners should review the contingency separately from the base bid so they can see whether the project is truly affordable or just looks affordable on paper.",
+      "@type": "Answer",
+      "description": "A contingency is extra budget reserved for hidden conditions, permit corrections, design changes, and price increases. Older commercial spaces usually need a larger contingency than newer ones because concealed electrical, plumbing, structural, or code issues are more likely. The more uncertain the existing conditions, the more contingency an owner should carry.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Contingency protects the project from the unknowns that show up after demolition begins. In older commercial spaces, hidden electrical problems, damaged plumbing, uneven slabs, outdated fire systems, and accessibility upgrades can all add cost. The right contingency depends on how much of the building is being opened up and how well the existing conditions are documented. Projects with limited scope and recent improvements may need less reserve than projects in older buildings with incomplete records. A realistic budget should include not only construction uncertainty but also permit revisions, material substitutions, and schedule-related costs. Owners should review the contingency separately from the base bid so they can see whether the project is truly affordable or just looks affordable on paper.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A contingency is extra budget reserved for hidden conditions, permit corrections, design changes, and price increases. Older commercial spaces usually need a la"
+}

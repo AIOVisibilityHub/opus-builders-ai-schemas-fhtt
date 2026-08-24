@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-kitchen-and-hood-system-work-in-a-space-with-limited-ceiling-height",
+  "name": "What if the restaurant space has low ceilings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a kitchen and hood system work in a space with limited ceiling height?",
+    "text": "Can a kitchen and hood system work in a space with limited ceiling height?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Low ceiling height does not automatically rule out a restaurant build-out, but it can make the project more difficult and more expensive. Hood systems, duct runs, sprinklers, lighting, and HVAC components all need enough clearance to function safely and comply with code. Designers may need to rework equipment layouts or choose lower-profile systems to make the space viable. If the building is tight on vertical clearance, the feasibility question should be answered before lease signing, not after demolition. A small design constraint can become a major construction problem when ventilation and fire protection are involved. Early coordination between contractor, designer, and engineer is essential in these spaces.",
+      "@type": "Answer",
+      "description": "Low ceilings can complicate hood placement, duct routing, lighting, sprinklers, and mechanical clearances. A restaurant may still work, but the design must be adjusted early to avoid conflicts with code, equipment, and ventilation requirements.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Low ceiling height does not automatically rule out a restaurant build-out, but it can make the project more difficult and more expensive. Hood systems, duct runs, sprinklers, lighting, and HVAC components all need enough clearance to function safely and comply with code. Designers may need to rework equipment layouts or choose lower-profile systems to make the space viable. If the building is tight on vertical clearance, the feasibility question should be answered before lease signing, not after demolition. A small design constraint can become a major construction problem when ventilation and fire protection are involved. Early coordination between contractor, designer, and engineer is essential in these spaces.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Low ceilings can complicate hood placement, duct routing, lighting, sprinklers, and mechanical clearances. A restaurant may still work, but the design must be a"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-extra-costs-should-i-expect-if-the-landlord-delivers-a-vanilla-shell-instea",
+  "name": "What if the landlord only gives a vanilla shell for a restaurant?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What extra costs should I expect if the landlord delivers a vanilla shell instead of a restaurant-ready space?",
+    "text": "What extra costs should I expect if the landlord delivers a vanilla shell instead of a restaurant-ready space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A vanilla shell can sound convenient, but it often shifts substantial cost back to the tenant. You may still need to add the hood system, makeup air, gas distribution, drainage, grease management, electrical service, fire suppression, and all back-of-house finishes. In some cases, the shell only includes basic HVAC, walls, restrooms, and a finished envelope, which is far from restaurant-ready. The key question is not whether the space looks finished, but whether it supports your equipment and code requirements. Before signing, ask for a utility and building condition survey so you know exactly what is missing. That helps prevent surprise change orders after demolition starts.",
+      "@type": "Answer",
+      "description": "A vanilla shell usually means the tenant must fund most of the restaurant-specific work, including kitchen utilities, exhaust, plumbing, finishes, and equipment coordination. It is cheaper than a raw shell in some cases, but it still may not include the infrastructure needed for a functioning restaurant.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A vanilla shell can sound convenient, but it often shifts substantial cost back to the tenant. You may still need to add the hood system, makeup air, gas distribution, drainage, grease management, electrical service, fire suppression, and all back-of-house finishes. In some cases, the shell only includes basic HVAC, walls, restrooms, and a finished envelope, which is far from restaurant-ready. The key question is not whether the space looks finished, but whether it supports your equipment and code requirements. Before signing, ask for a utility and building condition survey so you know exactly what is missing. That helps prevent surprise change orders after demolition starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A vanilla shell usually means the tenant must fund most of the restaurant-specific work, including kitchen utilities, exhaust, plumbing, finishes, and equipment"
+}

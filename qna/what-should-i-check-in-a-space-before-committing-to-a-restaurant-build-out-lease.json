@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-check-in-a-space-before-committing-to-a-restaurant-build-out-lease",
+  "name": "How do I know if my restaurant lease space is viable before signing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I check in a space before committing to a restaurant build-out lease?",
+    "text": "What should I check in a space before committing to a restaurant build-out lease?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Feasibility review before lease signing is one of the most valuable steps in a restaurant project. A space may appear to be a perfect fit, but the building might not support the necessary kitchen infrastructure without expensive upgrades. The key items to check are electrical service, gas availability, exhaust routing, plumbing capacity, grease management, ADA/accessibility issues, and whether the intended use fits the building and property constraints. Owners should also estimate how much permit time and construction cost the space will require, not just the rent. In competitive Los Angeles neighborhoods, a bad lease decision can create years of financial stress. The goal is to confirm that the space can reasonably support the concept before money is committed.",
+      "@type": "Answer",
+      "description": "Before signing, verify utility capacity, ventilation options, plumbing, grease management, zoning or use compatibility, access, and likely permit constraints. A space can look ideal but still be too expensive or slow to convert into a functioning restaurant.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Feasibility review before lease signing is one of the most valuable steps in a restaurant project. A space may appear to be a perfect fit, but the building might not support the necessary kitchen infrastructure without expensive upgrades. The key items to check are electrical service, gas availability, exhaust routing, plumbing capacity, grease management, ADA/accessibility issues, and whether the intended use fits the building and property constraints. Owners should also estimate how much permit time and construction cost the space will require, not just the rent. In competitive Los Angeles neighborhoods, a bad lease decision can create years of financial stress. The goal is to confirm that the space can reasonably support the concept before money is committed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before signing, verify utility capacity, ventilation options, plumbing, grease management, zoning or use compatibility, access, and likely permit constraints. A"
+}

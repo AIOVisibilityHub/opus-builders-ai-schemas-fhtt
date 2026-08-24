@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-owners-handle-hidden-mep-issues-discovered-after-demolition-starts",
+  "name": "What if a commercial property has outdated electrical or plumbing during improvements?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should owners handle hidden MEP issues discovered after demolition starts?",
+    "text": "How should owners handle hidden MEP issues discovered after demolition starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hidden electrical and plumbing issues are one of the most common causes of budget overruns in older commercial spaces. Once walls or ceilings are opened, the team may find undersized wiring, damaged piping, illegal past work, or systems that cannot support the new layout. The contractor should document the condition, determine whether it is a safety or code issue, and update the scope before proceeding. In some cases the fix is straightforward; in others, it may require redesign and additional permits. Owners should not treat these discoveries as rare exceptions. They are a normal risk in older Los Angeles commercial buildings, which is why contingency, schedule float, and clear decision-making authority matter so much.",
+      "@type": "Answer",
+      "description": "If outdated electrical or plumbing is discovered during a commercial improvement, the contractor should stop and assess whether the condition affects safety, code compliance, or the approved design. Repairs may require revised scope, added budget, and new inspections. Hidden MEP issues are common in older buildings and should be planned for with contingency and time buffers.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hidden electrical and plumbing issues are one of the most common causes of budget overruns in older commercial spaces. Once walls or ceilings are opened, the team may find undersized wiring, damaged piping, illegal past work, or systems that cannot support the new layout. The contractor should document the condition, determine whether it is a safety or code issue, and update the scope before proceeding. In some cases the fix is straightforward; in others, it may require redesign and additional permits. Owners should not treat these discoveries as rare exceptions. They are a normal risk in older Los Angeles commercial buildings, which is why contingency, schedule float, and clear decision-making authority matter so much.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If outdated electrical or plumbing is discovered during a commercial improvement, the contractor should stop and assess whether the condition affects safety, co"
+}

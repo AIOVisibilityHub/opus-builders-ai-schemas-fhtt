@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-manage-a-commercial-project-when-the-city-permit-process-is-slow",
+  "name": "What if the project is in a city with slow permit approvals?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you manage a commercial project when the city permit process is slow?",
+    "text": "How do you manage a commercial project when the city permit process is slow?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Slow permit approvals are common on commercial projects, and the best response is planning rather than waiting. The manager should make sure the permit package is complete, coordinate consultant inputs early, and respond to corrections quickly to avoid extra review cycles. While permits are being processed, other work can still move forward, such as finish selection, procurement planning, subcontractor pricing, and scheduling. A realistic schedule should include permit contingency rather than assuming immediate approval. Owners should also understand that changing scope after submission can restart the clock. Good project management minimizes permit-related downtime by preparing everything else in parallel so the project can mobilize quickly once approval arrives.",
+      "@type": "Answer",
+      "description": "Slow permit approvals are managed by submitting complete documents early, responding quickly to corrections, and building schedule contingency around review times. The project manager should also sequence procurement and planning work so the team is ready when permits are issued.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Slow permit approvals are common on commercial projects, and the best response is planning rather than waiting. The manager should make sure the permit package is complete, coordinate consultant inputs early, and respond to corrections quickly to avoid extra review cycles. While permits are being processed, other work can still move forward, such as finish selection, procurement planning, subcontractor pricing, and scheduling. A realistic schedule should include permit contingency rather than assuming immediate approval. Owners should also understand that changing scope after submission can restart the clock. Good project management minimizes permit-related downtime by preparing everything else in parallel so the project can mobilize quickly once approval arrives.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Slow permit approvals are managed by submitting complete documents early, responding quickly to corrections, and building schedule contingency around review tim"
+}

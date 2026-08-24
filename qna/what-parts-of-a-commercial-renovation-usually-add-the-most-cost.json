@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-parts-of-a-commercial-renovation-usually-add-the-most-cost",
+  "name": "What parts of a commercial renovation add the most cost?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What parts of a commercial renovation usually add the most cost?",
+    "text": "What parts of a commercial renovation usually add the most cost?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most expensive parts of a commercial renovation are usually the items that affect multiple systems at once. Structural modifications, new HVAC distribution, electrical service upgrades, plumbing reroutes, fire sprinkler changes, and restroom rebuilds can all drive up costs quickly. Finishes matter too, but they usually cost less than coordinated trade work or code-required upgrades. Demolition can also become expensive if it reveals damaged materials, hidden utilities, or conditions that need corrective work before the new build-out can continue. In older Los Angeles-area buildings, a project may also require accessibility improvements or other compliance-related upgrades that were not part of the original design. Owners can often control budget by keeping walls, plumbing locations, and major systems in place where possible. The more the layout changes, the more the project tends to cost. A good estimator will explain which items are structural necessities and which ones are optional design upgrades.",
+      "@type": "Answer",
+      "description": "The biggest cost drivers are structural changes, electrical and HVAC upgrades, plumbing relocations, fire protection work, and high-end finishes. Demolition, code compliance, and hidden conditions can also increase the budget quickly. Layout changes that affect multiple trades usually cost more than cosmetic updates.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most expensive parts of a commercial renovation are usually the items that affect multiple systems at once. Structural modifications, new HVAC distribution, electrical service upgrades, plumbing reroutes, fire sprinkler changes, and restroom rebuilds can all drive up costs quickly. Finishes matter too, but they usually cost less than coordinated trade work or code-required upgrades. Demolition can also become expensive if it reveals damaged materials, hidden utilities, or conditions that need corrective work before the new build-out can continue. In older Los Angeles-area buildings, a project may also require accessibility improvements or other compliance-related upgrades that were not part of the original design. Owners can often control budget by keeping walls, plumbing locations, and major systems in place where possible. The more the layout changes, the more the project tends to cost. A good estimator will explain which items are structural necessities and which ones are optional design upgrades.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest cost drivers are structural changes, electrical and HVAC upgrades, plumbing relocations, fire protection work, and high-end finishes. Demolition, co"
+}

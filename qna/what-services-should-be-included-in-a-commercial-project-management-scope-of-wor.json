@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-services-should-be-included-in-a-commercial-project-management-scope-of-wor",
+  "name": "What should be in a commercial project management scope?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What services should be included in a commercial project management scope of work?",
+    "text": "What services should be included in a commercial project management scope of work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A good scope of work should be specific enough that the owner knows exactly what the project manager is responsible for. Common inclusions are preconstruction planning, budget review, schedule creation, contractor coordination, permit tracking, meeting management, progress reporting, change-order review, inspections, punch-list follow-up, and turnover support. It should also clarify whether the manager is responsible for estimating, bidding, design coordination, or owner representation. Exclusions matter just as much, because unclear scopes often lead to disputes over who handles what. For Los Angeles commercial projects, the scope may also need to address local approvals, landlord coordination, utility cutovers, and phased occupancy. Owners should avoid vague proposals that simply say “project management” without defining deliverables, response times, and reporting frequency.",
+      "@type": "Answer",
+      "description": "A commercial project management scope should define preconstruction support, budgeting, schedule development, permit coordination, vendor management, site meetings, reporting, change-order review, inspections, and closeout. The scope should also state what is excluded so there is no confusion later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A good scope of work should be specific enough that the owner knows exactly what the project manager is responsible for. Common inclusions are preconstruction planning, budget review, schedule creation, contractor coordination, permit tracking, meeting management, progress reporting, change-order review, inspections, punch-list follow-up, and turnover support. It should also clarify whether the manager is responsible for estimating, bidding, design coordination, or owner representation. Exclusions matter just as much, because unclear scopes often lead to disputes over who handles what. For Los Angeles commercial projects, the scope may also need to address local approvals, landlord coordination, utility cutovers, and phased occupancy. Owners should avoid vague proposals that simply say “project management” without defining deliverables, response times, and reporting frequency.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A commercial project management scope should define preconstruction support, budgeting, schedule development, permit coordination, vendor management, site meeti"
+}

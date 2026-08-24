@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-are-needed-to-construct-a-restaurant-in-los-angeles-county",
+  "name": "What permits do I need to build a restaurant in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits are needed to construct a restaurant in Los Angeles County?",
+    "text": "What permits are needed to construct a restaurant in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A restaurant construction project in Los Angeles County usually requires multiple approvals. The core ones are building permits from the local building department, health department plan check approval, and fire clearance for the kitchen and life-safety systems. Depending on the location and scope, the project may also need zoning or planning review, grease interceptor requirements, ADA compliance review, electrical and mechanical permits, and a final public health operating permit before the space can serve food. New restaurants and major remodels generally require detailed plans showing equipment, ventilation, finishes, plumbing, and layout before work starts. Because each city can have its own process, owners in Glendale, Pasadena, Burbank, and North Hollywood should verify local requirements early. A common mistake is starting design without confirming permit path, which can cause costly revisions later. The best approach is to build the permit checklist before budgeting so the schedule and scope match the actual approval process.",
+      "@type": "Answer",
+      "description": "Restaurant projects in Los Angeles typically need building permits, health department plan check approval, fire department clearance, and a final certificate or operating permit before opening. If the project is a major remodel or new restaurant, the plans usually must be approved before construction begins, and revisions may require resubmission.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A restaurant construction project in Los Angeles County usually requires multiple approvals. The core ones are building permits from the local building department, health department plan check approval, and fire clearance for the kitchen and life-safety systems. Depending on the location and scope, the project may also need zoning or planning review, grease interceptor requirements, ADA compliance review, electrical and mechanical permits, and a final public health operating permit before the space can serve food. New restaurants and major remodels generally require detailed plans showing equipment, ventilation, finishes, plumbing, and layout before work starts. Because each city can have its own process, owners in Glendale, Pasadena, Burbank, and North Hollywood should verify local requirements early. A common mistake is starting design without confirming permit path, which can cause costly revisions later. The best approach is to build the permit checklist before budgeting so the schedule and scope match the actual approval process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Restaurant projects in Los Angeles typically need building permits, health department plan check approval, fire department clearance, and a final certificate or"
+}

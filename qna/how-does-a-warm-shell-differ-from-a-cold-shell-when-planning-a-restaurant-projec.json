@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-warm-shell-differ-from-a-cold-shell-when-planning-a-restaurant-projec",
+  "name": "What is the difference between a shell and a warm shell for restaurants?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a warm shell differ from a cold shell when planning a restaurant project?",
+    "text": "How does a warm shell differ from a cold shell when planning a restaurant project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The shell condition directly affects both cost and schedule. A warm shell may already have some base building elements that reduce the amount of tenant work, while a cold shell is closer to a blank slate. For restaurant tenants, this difference matters because the missing items often include the exact systems the kitchen needs most. The less infrastructure the building has, the more expensive the build-out becomes. Owners should not compare rent alone across properties; shell condition can change the real project economics more than monthly lease rate. A lower rent in a colder shell can end up costing much more overall if the restaurant needs extensive utility and code upgrades.",
+      "@type": "Answer",
+      "description": "A warm shell usually has more completed base building work than a cold shell, such as basic utilities, restrooms, or HVAC readiness. A cold shell is more stripped down, so the tenant must do far more of the restaurant-specific work.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The shell condition directly affects both cost and schedule. A warm shell may already have some base building elements that reduce the amount of tenant work, while a cold shell is closer to a blank slate. For restaurant tenants, this difference matters because the missing items often include the exact systems the kitchen needs most. The less infrastructure the building has, the more expensive the build-out becomes. Owners should not compare rent alone across properties; shell condition can change the real project economics more than monthly lease rate. A lower rent in a colder shell can end up costing much more overall if the restaurant needs extensive utility and code upgrades.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A warm shell usually has more completed base building work than a cold shell, such as basic utilities, restrooms, or HVAC readiness. A cold shell is more stripp"
+}

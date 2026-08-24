@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-homeowner-expect-with-pool-plumbing-gas-lines-pumps-lights-and-ele",
+  "name": "What happens to the plumbing and electrical during pool demolition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a homeowner expect with pool plumbing, gas lines, pumps, lights, and electrical wiring during demolition?",
+    "text": "What should a homeowner expect with pool plumbing, gas lines, pumps, lights, and electrical wiring during demolition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Pool demolition is not just breaking concrete. The contractor should identify and safely disconnect or cap plumbing, electrical, and gas components before major demolition begins. That may include pump equipment, heater lines, light wiring, skimmer plumbing, and any underground lines feeding the pool system. The exact method depends on whether the project is partial removal or full removal and where the utilities run. This step matters because hidden lines can create safety risks, leak problems, or inspection failures if they are not handled correctly. Homeowners should ask whether the crew coordinates with licensed utility trades, how abandoned lines are secured, and what gets left in place after the shell is removed. Good utility planning also helps protect future landscaping, patios, and building plans.",
+      "@type": "Answer",
+      "description": "Pool demolition usually includes disconnecting or safely capping electrical, plumbing, and gas components before excavation starts. Pumps, heaters, lights, and exposed lines must be handled carefully so the site is safe for backfill and future construction.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Pool demolition is not just breaking concrete. The contractor should identify and safely disconnect or cap plumbing, electrical, and gas components before major demolition begins. That may include pump equipment, heater lines, light wiring, skimmer plumbing, and any underground lines feeding the pool system. The exact method depends on whether the project is partial removal or full removal and where the utilities run. This step matters because hidden lines can create safety risks, leak problems, or inspection failures if they are not handled correctly. Homeowners should ask whether the crew coordinates with licensed utility trades, how abandoned lines are secured, and what gets left in place after the shell is removed. Good utility planning also helps protect future landscaping, patios, and building plans.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Pool demolition usually includes disconnecting or safely capping electrical, plumbing, and gas components before excavation starts. Pumps, heaters, lights, and "
+}

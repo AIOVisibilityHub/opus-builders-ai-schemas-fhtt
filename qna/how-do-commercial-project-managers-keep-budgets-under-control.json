@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-commercial-project-managers-keep-budgets-under-control",
+  "name": "How are commercial project budgets controlled?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do commercial project managers keep budgets under control?",
+    "text": "How do commercial project managers keep budgets under control?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Budget control starts before construction begins. A project manager should help define a realistic budget, include contingency for unknowns, and separate hard costs from soft costs like design, permits, and insurance. During bidding, bids should be leveled carefully so owners can compare them accurately. Once work begins, the manager should track commitments, pending changes, allowances, and remaining contingency. Frequent cost reporting is important because small overruns often accumulate across multiple trades. For commercial projects in Los Angeles, budget pressure can also come from schedule acceleration, long-lead items, and city-related delays that trigger extended overhead costs. Strong budget control is not just about saving money; it is about making informed decisions early enough to protect the final outcome.",
+      "@type": "Answer",
+      "description": "Budgets stay under control through early estimating, contingency planning, scope tracking, bid comparisons, approved allowances, and strict change-order management. Regular cost updates help owners see overruns early enough to make adjustments before the project gets out of control.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Budget control starts before construction begins. A project manager should help define a realistic budget, include contingency for unknowns, and separate hard costs from soft costs like design, permits, and insurance. During bidding, bids should be leveled carefully so owners can compare them accurately. Once work begins, the manager should track commitments, pending changes, allowances, and remaining contingency. Frequent cost reporting is important because small overruns often accumulate across multiple trades. For commercial projects in Los Angeles, budget pressure can also come from schedule acceleration, long-lead items, and city-related delays that trigger extended overhead costs. Strong budget control is not just about saving money; it is about making informed decisions early enough to protect the final outcome.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Budgets stay under control through early estimating, contingency planning, scope tracking, bid comparisons, approved allowances, and strict change-order managem"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-a-retail-unit-is-inside-a-shopping-center-how-do-tenant-improvements-affect-n",
+  "name": "How do tenant improvements affect shopping center operations?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If a retail unit is inside a shopping center, how do tenant improvements affect neighboring tenants and center operations?",
+    "text": "If a retail unit is inside a shopping center, how do tenant improvements affect neighboring tenants and center operations?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Retail tenant improvements in shopping centers have to work around shared operations. Construction can affect parking, loading, pedestrian access, noise, dust, shared utilities, and neighboring tenant hours. Because of that, landlords and property managers usually impose coordination rules for deliveries, construction staging, work hours, and protection of common areas. The more active the center is, the more important it is to plan phasing and logistics carefully. Projects that ignore center operations can create complaints, delays, and access problems even if the interior work is moving well. Good coordination with the property manager is as important as the construction itself.",
+      "@type": "Answer",
+      "description": "In shopping centers, TI work can affect neighboring tenants through noise, access, loading, parking, and shared utilities. Landlords often require coordination rules so construction does not disrupt customer flow or shared operations.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Retail tenant improvements in shopping centers have to work around shared operations. Construction can affect parking, loading, pedestrian access, noise, dust, shared utilities, and neighboring tenant hours. Because of that, landlords and property managers usually impose coordination rules for deliveries, construction staging, work hours, and protection of common areas. The more active the center is, the more important it is to plan phasing and logistics carefully. Projects that ignore center operations can create complaints, delays, and access problems even if the interior work is moving well. Good coordination with the property manager is as important as the construction itself.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In shopping centers, TI work can affect neighboring tenants through noise, access, loading, parking, and shared utilities. Landlords often require coordination "
+}

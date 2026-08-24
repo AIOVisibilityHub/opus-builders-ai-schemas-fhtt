@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-contractors-keep-recommending-second-generation-restaurant-spaces-for-new",
+  "name": "What is a second-generation restaurant space?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do contractors keep recommending second-generation restaurant spaces for new concepts?",
+    "text": "Why do contractors keep recommending second-generation restaurant spaces for new concepts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Second-generation spaces are attractive because they often preserve some of the expensive infrastructure already in place for food service. That can include exhaust routing, grease management, restrooms, and utility pathways. However, owners should not assume all prior systems are usable for a new concept. Age, wear, code changes, and equipment differences can still require major updates. A second-generation space is valuable because it reduces the number of unknowns, but it still needs a careful technical review. It is often the best starting point for operators who want a faster opening and lower upfront cost. The key is determining how much of the existing infrastructure can realistically be reused without creating future problems.",
+      "@type": "Answer",
+      "description": "A second-generation restaurant space is a former restaurant that already has some usable infrastructure, such as plumbing, grease handling, or ventilation. It can save time and money compared with a blank shell, but the existing systems still need inspection and may need upgrades.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Second-generation spaces are attractive because they often preserve some of the expensive infrastructure already in place for food service. That can include exhaust routing, grease management, restrooms, and utility pathways. However, owners should not assume all prior systems are usable for a new concept. Age, wear, code changes, and equipment differences can still require major updates. A second-generation space is valuable because it reduces the number of unknowns, but it still needs a careful technical review. It is often the best starting point for operators who want a faster opening and lower upfront cost. The key is determining how much of the existing infrastructure can realistically be reused without creating future problems.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A second-generation restaurant space is a former restaurant that already has some usable infrastructure, such as plumbing, grease handling, or ventilation. It c"
+}

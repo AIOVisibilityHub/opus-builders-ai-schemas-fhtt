@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-commercial-project-manager-and-a-general-contra",
+  "name": "What is the difference between project management and general contracting?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a commercial project manager and a general contractor?",
+    "text": "What is the difference between a commercial project manager and a general contractor?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Project management and general contracting are related but not the same. A commercial project manager focuses on controlling scope, schedule, budget, communication, and decision-making across the project. A general contractor is responsible for building the work, coordinating trades, and delivering the construction phase. In many projects, the same firm may offer both services, but the owner should still understand which tasks belong to which role. That distinction matters when there are design changes, permit delays, inspection issues, or cost impacts. If the project manager is independent, they can act as the owner’s advocate and help evaluate bids, schedules, and change orders more objectively. If the contractor is also the project manager, the owner should confirm reporting structure, escalation rules, and how conflicts are resolved. Clarity at the start reduces confusion later, especially on complex commercial jobs.",
+      "@type": "Answer",
+      "description": "A commercial project manager oversees planning, coordination, budgeting, and communication, while a general contractor manages the physical construction and subcontractor execution. In some projects, one company may provide both roles, but the responsibilities should still be clearly separated in writing so ownership and accountability are not confused.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Project management and general contracting are related but not the same. A commercial project manager focuses on controlling scope, schedule, budget, communication, and decision-making across the project. A general contractor is responsible for building the work, coordinating trades, and delivering the construction phase. In many projects, the same firm may offer both services, but the owner should still understand which tasks belong to which role. That distinction matters when there are design changes, permit delays, inspection issues, or cost impacts. If the project manager is independent, they can act as the owner’s advocate and help evaluate bids, schedules, and change orders more objectively. If the contractor is also the project manager, the owner should confirm reporting structure, escalation rules, and how conflicts are resolved. Clarity at the start reduces confusion later, especially on complex commercial jobs.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A commercial project manager oversees planning, coordination, budgeting, and communication, while a general contractor manages the physical construction and sub"
+}

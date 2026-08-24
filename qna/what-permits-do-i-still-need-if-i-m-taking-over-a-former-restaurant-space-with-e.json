@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-do-i-still-need-if-i-m-taking-over-a-former-restaurant-space-with-e",
+  "name": "What permits are required for a restaurant build-out in Los Angeles if the space already has a kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits do I still need if I’m taking over a former restaurant space with existing hood, grease trap, and gas lines?",
+    "text": "What permits do I still need if I’m taking over a former restaurant space with existing hood, grease trap, and gas lines?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A former restaurant space can reduce cost and time, but it does not eliminate approvals. If you change the menu, equipment, seating count, plumbing, or ventilation, expect permit review for the revised scope. The biggest risk is assuming existing infrastructure is fully approved when it may only be grandfathered for the prior tenant’s use. Start by verifying the condition of the hood system, grease interceptor, gas capacity, electrical load, and any prior sign-offs. A contractor and plan reviewer should confirm what can be reused versus replaced before you finalize your budget or lease terms. This is one of the most common places projects get delayed because owners discover that “existing” does not mean “approved for your concept.",
+      "@type": "Answer",
+      "description": "Even in a former restaurant space, you usually still need a building permit, health department review, fire inspection, and any mechanical, plumbing, or electrical permits tied to your scope. Existing equipment does not automatically carry over, and changes to layout, menu, occupancy, or equipment often trigger new reviews.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A former restaurant space can reduce cost and time, but it does not eliminate approvals. If you change the menu, equipment, seating count, plumbing, or ventilation, expect permit review for the revised scope. The biggest risk is assuming existing infrastructure is fully approved when it may only be grandfathered for the prior tenant’s use. Start by verifying the condition of the hood system, grease interceptor, gas capacity, electrical load, and any prior sign-offs. A contractor and plan reviewer should confirm what can be reused versus replaced before you finalize your budget or lease terms. This is one of the most common places projects get delayed because owners discover that “existing” does not mean “approved for your concept.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Even in a former restaurant space, you usually still need a building permit, health department review, fire inspection, and any mechanical, plumbing, or electri"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-the-same-company-handle-design-construction-and-commercial-project-managemen",
+  "name": "Can one firm handle design, construction, and project management?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can the same company handle design, construction, and commercial project management on one project?",
+    "text": "Can the same company handle design, construction, and commercial project management on one project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A single firm can absolutely handle design, construction, and project management, especially on design-build projects. That arrangement can improve speed, reduce handoffs, and simplify communication. However, the owner should still confirm how decisions are made and who is accountable for each phase. Even when one company handles everything, there should be clear documentation for budget approvals, design revisions, procurement, and field execution. Owners should ask how conflicts are resolved if design preferences increase cost or schedule. The advantage of a unified team is efficiency, but the risk is reduced independent oversight. For that reason, the owner should review scope, milestones, and reporting carefully so there is still transparency throughout the project.",
+      "@type": "Answer",
+      "description": "Yes, one company can provide design-build and project management services, but the roles should still be clearly defined. The owner should know who controls budget decisions, who approves scope changes, and who is responsible for construction quality and schedule.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A single firm can absolutely handle design, construction, and project management, especially on design-build projects. That arrangement can improve speed, reduce handoffs, and simplify communication. However, the owner should still confirm how decisions are made and who is accountable for each phase. Even when one company handles everything, there should be clear documentation for budget approvals, design revisions, procurement, and field execution. Owners should ask how conflicts are resolved if design preferences increase cost or schedule. The advantage of a unified team is efficiency, but the risk is reduced independent oversight. For that reason, the owner should review scope, milestones, and reporting carefully so there is still transparency throughout the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, one company can provide design-build and project management services, but the roles should still be clearly defined. The owner should know who controls bud"
+}

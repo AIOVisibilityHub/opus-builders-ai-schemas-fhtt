@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-glendale-burbank-pasadena-and-north-hollywood-priced-differently-for-restaur",
+  "name": "How do restaurant build-out costs change by city in LA County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are Glendale, Burbank, Pasadena, and North Hollywood priced differently for restaurant construction?",
+    "text": "Are Glendale, Burbank, Pasadena, and North Hollywood priced differently for restaurant construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Within Los Angeles County, two similar restaurant spaces can produce very different budgets depending on location and building conditions. City-by-city differences may come from permit queues, local inspection practices, parking and accessibility constraints, utility coordination, and the condition of the available space. A project in a modern mixed-use building may move differently than one in an older neighborhood storefront. Glendale, Pasadena, Burbank, and North Hollywood each have their own practical constraints and review dynamics. The best way to compare locations is not by asking only for a per-square-foot number, but by comparing the actual scope required to make each space operational. That includes utilities, ventilation, code upgrades, and expected review time.",
+      "@type": "Answer",
+      "description": "Yes, restaurant build-out costs can vary by city because labor availability, permit processes, inspector requirements, and project complexity differ. Local review pace and building conditions can affect both the cost and the timeline even when the square footage is similar.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Within Los Angeles County, two similar restaurant spaces can produce very different budgets depending on location and building conditions. City-by-city differences may come from permit queues, local inspection practices, parking and accessibility constraints, utility coordination, and the condition of the available space. A project in a modern mixed-use building may move differently than one in an older neighborhood storefront. Glendale, Pasadena, Burbank, and North Hollywood each have their own practical constraints and review dynamics. The best way to compare locations is not by asking only for a per-square-foot number, but by comparing the actual scope required to make each space operational. That includes utilities, ventilation, code upgrades, and expected review time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, restaurant build-out costs can vary by city because labor availability, permit processes, inspector requirements, and project complexity differ. Local revi"
+}

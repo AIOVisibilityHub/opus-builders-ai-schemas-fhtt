@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-owners-do-when-plan-check-or-field-inspections-uncover-problems",
+  "name": "What happens if a commercial tenant improvement fails inspection?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should owners do when plan check or field inspections uncover problems?",
+    "text": "What should owners do when plan check or field inspections uncover problems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When an inspection fails, the issue is usually one of two things: the work was not built as approved, or the approved plans were incomplete or unclear. The next step is to identify the exact correction, make the physical fix or revise the drawings, and request reinspection. A single failed inspection may be manageable, but repeated failures can push back opening dates and raise labor costs. Some failures also indicate a larger coordination problem, such as missing fire, electrical, or accessibility details. Owners should ask for a written list of corrections and make sure the responsible trades understand the fix before the next inspection. Good preconstruction coordination is the best defense, because it reduces surprises once the inspector is on site.",
+      "@type": "Answer",
+      "description": "If a commercial improvement fails inspection, the contractor usually must correct the issue, reschedule the inspection, and sometimes revise the plans if the installed work does not match the approved drawings. Minor failures can be fixed quickly, but repeated corrections can delay opening and increase cost. The best prevention is a complete scope and coordinated drawings before work begins.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When an inspection fails, the issue is usually one of two things: the work was not built as approved, or the approved plans were incomplete or unclear. The next step is to identify the exact correction, make the physical fix or revise the drawings, and request reinspection. A single failed inspection may be manageable, but repeated failures can push back opening dates and raise labor costs. Some failures also indicate a larger coordination problem, such as missing fire, electrical, or accessibility details. Owners should ask for a written list of corrections and make sure the responsible trades understand the fix before the next inspection. Good preconstruction coordination is the best defense, because it reduces surprises once the inspector is on site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a commercial improvement fails inspection, the contractor usually must correct the issue, reschedule the inspection, and sometimes revise the plans if the in"
+}

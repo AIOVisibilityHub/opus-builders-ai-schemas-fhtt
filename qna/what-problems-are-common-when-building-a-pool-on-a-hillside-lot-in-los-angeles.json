@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-problems-are-common-when-building-a-pool-on-a-hillside-lot-in-los-angeles",
+  "name": "What pool construction issues are common on hillside lots in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What problems are common when building a pool on a hillside lot in Los Angeles?",
+    "text": "What problems are common when building a pool on a hillside lot in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside lots create some of the most complex pool projects in Los Angeles because the design must address drainage, slope stability, structural support, and access for excavation and concrete work. Retaining walls may be needed, and the pool shell or adjacent hardscape may require engineering to handle soil loads and movement. Equipment access can also be limited, which means more labor or specialized machinery is needed to move materials. Drainage is another major issue because water must be directed away from structures and down-slope movement must be controlled. Homeowners should expect longer permitting, higher engineering costs, and more coordination between the pool builder, structural engineer, and grading contractor. A good hillside proposal will explain how the site will be staged, where soil will go, how drainage will be handled, and whether soil export or import is included. If those items are unclear, the budget is likely incomplete.",
+      "@type": "Answer",
+      "description": "Hillside pool projects often face drainage challenges, engineered retaining walls, soil movement concerns, limited equipment access, deeper excavation, and more complex structural design. These conditions usually increase both permitting time and construction cost.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside lots create some of the most complex pool projects in Los Angeles because the design must address drainage, slope stability, structural support, and access for excavation and concrete work. Retaining walls may be needed, and the pool shell or adjacent hardscape may require engineering to handle soil loads and movement. Equipment access can also be limited, which means more labor or specialized machinery is needed to move materials. Drainage is another major issue because water must be directed away from structures and down-slope movement must be controlled. Homeowners should expect longer permitting, higher engineering costs, and more coordination between the pool builder, structural engineer, and grading contractor. A good hillside proposal will explain how the site will be staged, where soil will go, how drainage will be handled, and whether soil export or import is included. If those items are unclear, the budget is likely incomplete.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hillside pool projects often face drainage challenges, engineered retaining walls, soil movement concerns, limited equipment access, deeper excavation, and more"
+}

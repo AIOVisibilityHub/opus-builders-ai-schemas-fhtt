@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-is-a-grease-interceptor-required-and-can-a-small-caf-avoid-one",
+  "name": "Do I need a grease trap or grease interceptor for a small restaurant?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When is a grease interceptor required, and can a small café avoid one?",
+    "text": "When is a grease interceptor required, and can a small café avoid one?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Grease interception is one of the most overlooked parts of a restaurant build-out. Small cafés sometimes assume they can skip it because they do not have a full fryer line, but requirements depend on how wastewater is generated, not just on whether the menu seems simple. Sinks, dishwashing, prep areas, and food washing can all affect the requirement. If the interceptor is undersized or poorly located, the project may pass neither design review nor final inspection. This should be checked early because retrofitting grease infrastructure later is disruptive and expensive. For any Los Angeles-area restaurant project, grease management should be treated as a core design item, not an afterthought.",
+      "@type": "Answer",
+      "description": "Many food service spaces need grease control, and the required size depends on fixture count, menu, and wastewater load. Even small cafés can trigger grease interceptor requirements if sinks, dishwashing, or food prep create grease-bearing waste.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Grease interception is one of the most overlooked parts of a restaurant build-out. Small cafés sometimes assume they can skip it because they do not have a full fryer line, but requirements depend on how wastewater is generated, not just on whether the menu seems simple. Sinks, dishwashing, prep areas, and food washing can all affect the requirement. If the interceptor is undersized or poorly located, the project may pass neither design review nor final inspection. This should be checked early because retrofitting grease infrastructure later is disruptive and expensive. For any Los Angeles-area restaurant project, grease management should be treated as a core design item, not an afterthought.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many food service spaces need grease control, and the required size depends on fixture count, menu, and wastewater load. Even small cafés can trigger grease int"
+}

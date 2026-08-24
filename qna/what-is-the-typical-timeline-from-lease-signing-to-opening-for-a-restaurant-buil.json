@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-typical-timeline-from-lease-signing-to-opening-for-a-restaurant-buil",
+  "name": "How long does a restaurant build-out take in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the typical timeline from lease signing to opening for a restaurant build-out in LA?",
+    "text": "What is the typical timeline from lease signing to opening for a restaurant build-out in LA?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The timeline depends on scope, permitting, and whether the space already has restaurant infrastructure. A simple refresh in an existing restaurant shell may move much faster than a full conversion from retail or office space. The slowest items are often plan check, equipment submittals, hood and suppression approvals, and utility coordination rather than framing or finishes. In cities like Pasadena, Burbank, Glendale, and North Hollywood, the path can also vary depending on local review queues and the complexity of the tenancy. Owners should build a schedule with milestones for design, plan check, permit issuance, rough inspections, equipment delivery, final inspections, and occupancy approval. A realistic contingency window matters because one delayed submittal can push opening back by weeks or months.",
+      "@type": "Answer",
+      "description": "A restaurant build-out in Los Angeles County often takes several months from lease signing to opening, and the permitting phase can be the longest part. Smaller tenant improvements may move faster, while full kitchen build-outs, health plan check, hood approval, and fire sign-off can extend the schedule substantially.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The timeline depends on scope, permitting, and whether the space already has restaurant infrastructure. A simple refresh in an existing restaurant shell may move much faster than a full conversion from retail or office space. The slowest items are often plan check, equipment submittals, hood and suppression approvals, and utility coordination rather than framing or finishes. In cities like Pasadena, Burbank, Glendale, and North Hollywood, the path can also vary depending on local review queues and the complexity of the tenancy. Owners should build a schedule with milestones for design, plan check, permit issuance, rough inspections, equipment delivery, final inspections, and occupancy approval. A realistic contingency window matters because one delayed submittal can push opening back by weeks or months.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A restaurant build-out in Los Angeles County often takes several months from lease signing to opening, and the permitting phase can be the longest part. Smaller"
+}

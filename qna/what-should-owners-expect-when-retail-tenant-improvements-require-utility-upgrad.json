@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-owners-expect-when-retail-tenant-improvements-require-utility-upgrad",
+  "name": "How do retail TI projects handle utility upgrades in older buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should owners expect when retail tenant improvements require utility upgrades in an older building?",
+    "text": "What should owners expect when retail tenant improvements require utility upgrades in an older building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older buildings often need utility upgrades before a retail TI can proceed smoothly. The project may need electrical service changes, upgraded panels, plumbing modifications, HVAC adjustments, or coordination with the landlord and utility companies. These items can take longer than the visible interior construction because they involve dependencies outside the tenant’s direct control. If the existing infrastructure is undersized or poorly documented, the team should investigate early and build schedule float into the plan. Utility work is one of the main reasons retail projects that look simple on paper become complicated in the field.",
+      "@type": "Answer",
+      "description": "Utility upgrades may require new electrical service, upgraded panels, plumbing modifications, HVAC changes, or coordination with the landlord and utility providers. These upgrades often affect schedule more than interior finishes do.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older buildings often need utility upgrades before a retail TI can proceed smoothly. The project may need electrical service changes, upgraded panels, plumbing modifications, HVAC adjustments, or coordination with the landlord and utility companies. These items can take longer than the visible interior construction because they involve dependencies outside the tenant’s direct control. If the existing infrastructure is undersized or poorly documented, the team should investigate early and build schedule float into the plan. Utility work is one of the main reasons retail projects that look simple on paper become complicated in the field.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utility upgrades may require new electrical service, upgraded panels, plumbing modifications, HVAC changes, or coordination with the landlord and utility provid"
+}

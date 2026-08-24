@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-extra-approvals-are-common-when-building-out-a-restaurant-space-in-los-ang",
+  "name": "What permits are needed for restaurant tenant improvements?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which extra approvals are common when building out a restaurant space in Los Angeles?",
+    "text": "Which extra approvals are common when building out a restaurant space in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Restaurant projects usually trigger multiple layers of review because the space must support cooking, ventilation, sanitation, fire protection, and customer occupancy. In addition to a building permit, the project may need mechanical, plumbing, fire protection, and health-related coordination, especially if the scope includes grease-laden vapor systems, hoods, or commercial equipment. Restroom counts, accessible seating, and food prep layout can also affect the design. Because restaurant build-outs are often more demanding than office or retail projects, owners should expect a longer schedule and a higher contingency budget. It is best to confirm the intended menu, equipment list, and utility loads before finalizing plans so the construction documents match the actual operation.",
+      "@type": "Answer",
+      "description": "Restaurant tenant improvements often need more than a standard building permit because kitchens, grease systems, ventilation, fire suppression, and health-related requirements may apply. Common approvals can include building, fire, plumbing, mechanical, health, and public works-related reviews depending on the scope. Food service projects usually require more coordination than office build-outs.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Restaurant projects usually trigger multiple layers of review because the space must support cooking, ventilation, sanitation, fire protection, and customer occupancy. In addition to a building permit, the project may need mechanical, plumbing, fire protection, and health-related coordination, especially if the scope includes grease-laden vapor systems, hoods, or commercial equipment. Restroom counts, accessible seating, and food prep layout can also affect the design. Because restaurant build-outs are often more demanding than office or retail projects, owners should expect a longer schedule and a higher contingency budget. It is best to confirm the intended menu, equipment list, and utility loads before finalizing plans so the construction documents match the actual operation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Restaurant tenant improvements often need more than a standard building permit because kitchens, grease systems, ventilation, fire suppression, and health-relat"
+}

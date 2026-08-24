@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-unexpected-issue-most-often-blows-up-the-budget-during-construction",
+  "name": "What is the biggest hidden cost in a restaurant build-out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which unexpected issue most often blows up the budget during construction?",
+    "text": "Which unexpected issue most often blows up the budget during construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The biggest hidden costs are usually not in finishes, but in the building systems that support the kitchen. Once walls and ceilings open up, owners often discover old or undersized plumbing, damaged slab conditions, inadequate electrical service, weak HVAC capacity, or no practical route for exhaust. Older buildings in Los Angeles-area commercial corridors can also reveal deferred maintenance that was not visible during lease negotiations. That is why contingencies matter in restaurant budgets. A smart approach is to assume some unknowns and hold money for corrections rather than spending the entire budget on design and furnishings. The earlier the team investigates the shell condition, the fewer surprises appear during construction.",
+      "@type": "Answer",
+      "description": "Hidden costs often come from utilities, ventilation, grease systems, and code upgrades discovered after demolition starts. Old plumbing, undersized electrical service, structural roof modifications, and health or fire corrections can add large unplanned expenses.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The biggest hidden costs are usually not in finishes, but in the building systems that support the kitchen. Once walls and ceilings open up, owners often discover old or undersized plumbing, damaged slab conditions, inadequate electrical service, weak HVAC capacity, or no practical route for exhaust. Older buildings in Los Angeles-area commercial corridors can also reveal deferred maintenance that was not visible during lease negotiations. That is why contingencies matter in restaurant budgets. A smart approach is to assume some unknowns and hold money for corrections rather than spending the entire budget on design and furnishings. The earlier the team investigates the shell condition, the fewer surprises appear during construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hidden costs often come from utilities, ventilation, grease systems, and code upgrades discovered after demolition starts. Old plumbing, undersized electrical s"
+}

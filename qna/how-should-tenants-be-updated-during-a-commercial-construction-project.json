@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-tenants-be-updated-during-a-commercial-construction-project",
+  "name": "How do commercial project managers handle tenant communication?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should tenants be updated during a commercial construction project?",
+    "text": "How should tenants be updated during a commercial construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Tenant communication is critical when construction happens in or near occupied commercial spaces. The project manager should provide advance notice for noisy work, shutdowns, deliveries, and restricted access periods. Tenants should know who to contact if an issue comes up and how quickly they can expect a response. Communication should be simple, consistent, and written so there is no confusion later. This is especially important in mixed-use and multi-tenant properties where one team’s construction can affect several businesses. Good communication lowers the risk of disputes, missed access windows, and avoidable delays. Owners should expect the project manager to treat tenant relations as part of schedule management, not just customer service.",
+      "@type": "Answer",
+      "description": "Tenants should receive advance notice of disruptive work, clear points of contact, schedule updates, and fast responses to access or safety issues. Consistent communication reduces complaints and helps the project move forward with fewer disruptions.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Tenant communication is critical when construction happens in or near occupied commercial spaces. The project manager should provide advance notice for noisy work, shutdowns, deliveries, and restricted access periods. Tenants should know who to contact if an issue comes up and how quickly they can expect a response. Communication should be simple, consistent, and written so there is no confusion later. This is especially important in mixed-use and multi-tenant properties where one team’s construction can affect several businesses. Good communication lowers the risk of disputes, missed access windows, and avoidable delays. Owners should expect the project manager to treat tenant relations as part of schedule management, not just customer service.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Tenants should receive advance notice of disruptive work, clear points of contact, schedule updates, and fast responses to access or safety issues. Consistent c"
+}

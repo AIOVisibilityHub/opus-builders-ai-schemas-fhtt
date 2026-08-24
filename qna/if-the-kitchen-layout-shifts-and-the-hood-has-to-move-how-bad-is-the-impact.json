@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-kitchen-layout-shifts-and-the-hood-has-to-move-how-bad-is-the-impact",
+  "name": "What happens if the hood location changes during construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the kitchen layout shifts and the hood has to move, how bad is the impact?",
+    "text": "If the kitchen layout shifts and the hood has to move, how bad is the impact?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Changing hood location mid-project is a major coordination issue. The hood affects the roof opening, exhaust path, suppression layout, makeup air, and often the placement of equipment beneath it. If the kitchen layout shifts after rough-in, the contractor may need to redo ductwork, electrical, plumbing, or fire protection components. That can create permit revisions and inspection delays. Because of this, the kitchen layout should be locked as early as possible and reviewed carefully by the contractor and design team before construction begins. A hood move is not just a construction change; it can become a full system redesign.",
+      "@type": "Answer",
+      "description": "Moving the hood during construction can affect duct routing, roof penetrations, fire suppression, makeup air, and permit approvals. Even a small layout change may require revised drawings and additional time for inspection and rework.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Changing hood location mid-project is a major coordination issue. The hood affects the roof opening, exhaust path, suppression layout, makeup air, and often the placement of equipment beneath it. If the kitchen layout shifts after rough-in, the contractor may need to redo ductwork, electrical, plumbing, or fire protection components. That can create permit revisions and inspection delays. Because of this, the kitchen layout should be locked as early as possible and reviewed carefully by the contractor and design team before construction begins. A hood move is not just a construction change; it can become a full system redesign.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Moving the hood during construction can affect duct routing, roof penetrations, fire suppression, makeup air, and permit approvals. Even a small layout change m"
+}

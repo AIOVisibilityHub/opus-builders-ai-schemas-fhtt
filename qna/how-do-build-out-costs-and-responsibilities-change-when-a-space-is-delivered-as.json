@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-build-out-costs-and-responsibilities-change-when-a-space-is-delivered-as",
+  "name": "What is the difference between shell space and tenant improvement work?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do build-out costs and responsibilities change when a space is delivered as shell versus improved space?",
+    "text": "How do build-out costs and responsibilities change when a space is delivered as shell versus improved space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A shell space is usually a base condition with the core structure in place, but without the complete interior build-out needed for occupancy. Tenant improvement work turns that blank canvas into a functioning business space with walls, finishes, mechanical distribution, lighting, plumbing fixtures, and other required systems. The distinction affects budget because shell delivery often looks cheaper up front but places more responsibility on the tenant or owner later. It also affects schedule, since a shell may need more design and permit work before the space can open. Owners should confirm exactly what the landlord is delivering so they do not discover missing items after lease signing. The lease exhibit and scope letter should match the real condition of the space.",
+      "@type": "Answer",
+      "description": "Shell space is a largely unfinished commercial space delivered with basic building structure and utility stubs, while tenant improvement work finishes the interior for a specific use. Shell delivery shifts more work and cost into the build-out phase, so planning, permits, and budgets must account for walls, finishes, fixtures, and system distribution.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A shell space is usually a base condition with the core structure in place, but without the complete interior build-out needed for occupancy. Tenant improvement work turns that blank canvas into a functioning business space with walls, finishes, mechanical distribution, lighting, plumbing fixtures, and other required systems. The distinction affects budget because shell delivery often looks cheaper up front but places more responsibility on the tenant or owner later. It also affects schedule, since a shell may need more design and permit work before the space can open. Owners should confirm exactly what the landlord is delivering so they do not discover missing items after lease signing. The lease exhibit and scope letter should match the real condition of the space.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Shell space is a largely unfinished commercial space delivered with basic building structure and utility stubs, while tenant improvement work finishes the inter"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-does-restaurant-construction-cost-per-square-foot-in-los-angeles",
+  "name": "How much does restaurant construction cost per square foot in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much does restaurant construction cost per square foot in Los Angeles?",
+    "text": "How much does restaurant construction cost per square foot in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Restaurant construction cost per square foot in Los Angeles is highly variable because the final price depends on the condition of the space and the level of kitchen and code work required. A simple interior refresh costs less than a full build-out from shell space, and costs increase when the project needs new HVAC, hood and fire suppression systems, plumbing, electrical upgrades, ADA modifications, or structural changes. Locations such as Glendale, Pasadena, Burbank, and North Hollywood can also differ based on building age, landlord requirements, and local permit complexity. The most accurate budget is not a generic square-foot number but a line-item estimate that separates demolition, framing, mechanical, plumbing, electrical, finishes, equipment coordination, permits, and contingency. Owners should also budget for soft costs like architectural drawings, engineering, plan check fees, and health approvals. A reliable contractor should be able to explain what is included and what is excluded so the budget does not collapse when hidden conditions are discovered.",
+      "@type": "Answer",
+      "description": "Restaurant construction costs in Los Angeles vary widely based on whether the project is a raw space, tenant improvement, or complete remodel. Costs rise quickly when the project includes kitchen infrastructure, exhaust, plumbing, grease management, fire suppression, and code upgrades, so per-square-foot pricing can differ substantially by scope.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Restaurant construction cost per square foot in Los Angeles is highly variable because the final price depends on the condition of the space and the level of kitchen and code work required. A simple interior refresh costs less than a full build-out from shell space, and costs increase when the project needs new HVAC, hood and fire suppression systems, plumbing, electrical upgrades, ADA modifications, or structural changes. Locations such as Glendale, Pasadena, Burbank, and North Hollywood can also differ based on building age, landlord requirements, and local permit complexity. The most accurate budget is not a generic square-foot number but a line-item estimate that separates demolition, framing, mechanical, plumbing, electrical, finishes, equipment coordination, permits, and contingency. Owners should also budget for soft costs like architectural drawings, engineering, plan check fees, and health approvals. A reliable contractor should be able to explain what is included and what is excluded so the budget does not collapse when hidden conditions are discovered.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Restaurant construction costs in Los Angeles vary widely based on whether the project is a raw space, tenant improvement, or complete remodel. Costs rise quickl"
+}

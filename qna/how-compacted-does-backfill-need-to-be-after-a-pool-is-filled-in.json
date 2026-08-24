@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-compacted-does-backfill-need-to-be-after-a-pool-is-filled-in",
+  "name": "How much compaction is required for pool fill-in?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How compacted does backfill need to be after a pool is filled in?",
+    "text": "How compacted does backfill need to be after a pool is filled in?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Compaction is one of the most important parts of pool fill-in because loose backfill settles over time. In Pasadena, the published requirements call for backfill and compaction to a minimum of 90%, with certification by a soils engineer. Other cities may have similar expectations even if the wording differs. Proper compaction is usually done in layers rather than dumping all the material at once, which helps reduce voids and future settlement. This matters especially if the space will later hold turf, pavers, a driveway extension, or any load-bearing feature. Homeowners should ask whether the contractor will provide compaction testing, a soils letter, or a final certification document. If no testing is offered, the risk of later sinking or uneven grading is higher. A strong proposal should state the compaction standard, the person responsible for testing, and what happens if the test fails.",
+      "@type": "Answer",
+      "description": "Compaction is a major part of a proper pool fill-in, and some city guidance requires certified backfill compaction. Pasadena, for example, requires backfill and compaction to a minimum of 90% and certification by a soils engineer. Proper compaction helps prevent sinking, soft spots, and future drainage problems.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Compaction is one of the most important parts of pool fill-in because loose backfill settles over time. In Pasadena, the published requirements call for backfill and compaction to a minimum of 90%, with certification by a soils engineer. Other cities may have similar expectations even if the wording differs. Proper compaction is usually done in layers rather than dumping all the material at once, which helps reduce voids and future settlement. This matters especially if the space will later hold turf, pavers, a driveway extension, or any load-bearing feature. Homeowners should ask whether the contractor will provide compaction testing, a soils letter, or a final certification document. If no testing is offered, the risk of later sinking or uneven grading is higher. A strong proposal should state the compaction standard, the person responsible for testing, and what happens if the test fails.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compaction is a major part of a proper pool fill-in, and some city guidance requires certified backfill compaction. Pasadena, for example, requires backfill and"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-tenants-and-owners-know-whether-a-project-is-a-ti-renovation-or-full-rebu",
+  "name": "What is the difference between tenant improvements and a full commercial remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do tenants and owners know whether a project is a TI, renovation, or full rebuild?",
+    "text": "How do tenants and owners know whether a project is a TI, renovation, or full rebuild?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A tenant improvement is usually a scoped interior build-out for a specific occupant, such as walls, finishes, fixtures, and service upgrades inside an existing shell. A full commercial remodel is broader and may include larger portions of the building, common areas, envelope elements, or systems that serve the whole property. A major rebuild goes even further and can involve structural changes or extensive demolition. The practical difference shows up in budget and permitting: the more the project touches structure, exits, accessibility, or shared systems, the more coordination it needs. Owners should define the boundary of the project before design starts so they do not underbudget or promise tenants a faster schedule than the permit path allows.",
+      "@type": "Answer",
+      "description": "Tenant improvements usually modify the inside of an existing commercial space for a specific tenant, while a full remodel may include broader layout, finish, and system changes throughout the property. A full rebuild or major renovation often involves more structural, envelope, or site work. The distinction matters because it affects permits, cost, schedule, and landlord approval.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A tenant improvement is usually a scoped interior build-out for a specific occupant, such as walls, finishes, fixtures, and service upgrades inside an existing shell. A full commercial remodel is broader and may include larger portions of the building, common areas, envelope elements, or systems that serve the whole property. A major rebuild goes even further and can involve structural changes or extensive demolition. The practical difference shows up in budget and permitting: the more the project touches structure, exits, accessibility, or shared systems, the more coordination it needs. Owners should define the boundary of the project before design starts so they do not underbudget or promise tenants a faster schedule than the permit path allows.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Tenant improvements usually modify the inside of an existing commercial space for a specific tenant, while a full remodel may include broader layout, finish, an"
+}

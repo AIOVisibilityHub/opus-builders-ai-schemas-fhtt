@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-counts-as-a-cosmetic-commercial-renovation-versus-a-full-remodel",
+  "name": "What is considered a cosmetic commercial renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What counts as a cosmetic commercial renovation versus a full remodel?",
+    "text": "What counts as a cosmetic commercial renovation versus a full remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A cosmetic commercial renovation focuses on appearance rather than major functional changes. Common examples include repainting, new flooring, updated light fixtures, refreshed millwork, new signage, and surface-level finish replacements. These projects are usually faster and less disruptive because they do not require major structural work or full system replacement. Once the work starts affecting layout, plumbing, electrical service, HVAC routing, fire protection, restrooms, or structural elements, the project moves into a deeper renovation or tenant improvement category. This distinction matters because permitting, inspections, cost, and schedule can change quickly once the scope goes beyond cosmetic updates. Owners sometimes underestimate a project by calling it cosmetic when the work actually triggers code review or system upgrades. A clear scope definition at the beginning helps determine whether the renovation can stay simple or will need a more comprehensive plan.",
+      "@type": "Answer",
+      "description": "A cosmetic commercial renovation usually changes the appearance of a space without altering major systems, structure, or layout. Typical cosmetic work includes paint, flooring, finishes, fixtures, signage, and light upgrades. Once walls, utilities, restrooms, or structural elements move, the project is usually a full remodel or tenant improvement.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A cosmetic commercial renovation focuses on appearance rather than major functional changes. Common examples include repainting, new flooring, updated light fixtures, refreshed millwork, new signage, and surface-level finish replacements. These projects are usually faster and less disruptive because they do not require major structural work or full system replacement. Once the work starts affecting layout, plumbing, electrical service, HVAC routing, fire protection, restrooms, or structural elements, the project moves into a deeper renovation or tenant improvement category. This distinction matters because permitting, inspections, cost, and schedule can change quickly once the scope goes beyond cosmetic updates. Owners sometimes underestimate a project by calling it cosmetic when the work actually triggers code review or system upgrades. A clear scope definition at the beginning helps determine whether the renovation can stay simple or will need a more comprehensive plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A cosmetic commercial renovation usually changes the appearance of a space without altering major systems, structure, or layout. Typical cosmetic work includes "
+}

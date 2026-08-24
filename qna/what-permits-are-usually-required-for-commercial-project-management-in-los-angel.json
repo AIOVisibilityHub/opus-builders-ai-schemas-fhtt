@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-are-usually-required-for-commercial-project-management-in-los-angel",
+  "name": "What permits are needed for commercial projects in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits are usually required for commercial project management in Los Angeles?",
+    "text": "What permits are usually required for commercial project management in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit needs vary by scope, property type, and jurisdiction, but many Los Angeles commercial projects require multiple review layers. Typical items include building permits, electrical, mechanical, plumbing, fire/life-safety review, and sometimes accessibility, occupancy, or zoning-related approvals. If the project changes use, affects the exterior, or modifies egress, additional reviews may be needed. A commercial project manager helps organize the permit set, track corrections, respond to plan check comments, and coordinate field inspections so the project keeps moving. This is important because permit issues often create the biggest schedule slips on commercial jobs. Owners should also confirm whether the project touches landlord approvals, HOA-type building rules, or utility company requirements. The earlier these are identified, the less likely the project is to stall after construction has already been scheduled.",
+      "@type": "Answer",
+      "description": "Permits often depend on the scope, but commercial projects commonly need building, electrical, mechanical, plumbing, fire, and sometimes zoning or change-of-use approvals. A project manager helps coordinate documents, reviews, revisions, and inspections so the permit process does not delay construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit needs vary by scope, property type, and jurisdiction, but many Los Angeles commercial projects require multiple review layers. Typical items include building permits, electrical, mechanical, plumbing, fire/life-safety review, and sometimes accessibility, occupancy, or zoning-related approvals. If the project changes use, affects the exterior, or modifies egress, additional reviews may be needed. A commercial project manager helps organize the permit set, track corrections, respond to plan check comments, and coordinate field inspections so the project keeps moving. This is important because permit issues often create the biggest schedule slips on commercial jobs. Owners should also confirm whether the project touches landlord approvals, HOA-type building rules, or utility company requirements. The earlier these are identified, the less likely the project is to stall after construction has already been scheduled.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permits often depend on the scope, but commercial projects commonly need building, electrical, mechanical, plumbing, fire, and sometimes zoning or change-of-use"
+}

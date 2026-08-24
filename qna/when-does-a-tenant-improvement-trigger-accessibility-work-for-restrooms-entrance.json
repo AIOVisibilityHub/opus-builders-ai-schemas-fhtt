@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-a-tenant-improvement-trigger-accessibility-work-for-restrooms-entrance",
+  "name": "Are ADA upgrades required in commercial property improvements?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does a tenant improvement trigger accessibility work for restrooms, entrances, paths, or parking?",
+    "text": "When does a tenant improvement trigger accessibility work for restrooms, entrances, paths, or parking?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Accessibility work is a common surprise in commercial improvements because it can be triggered by much more than a full remodel. If the project changes circulation, restrooms, entrances, counters, or occupied areas, accessibility upgrades may be required as part of the permit review. That can include door hardware, clearances, restroom fixtures, signage, ramps, parking paths, and routes through the tenant space. The exact requirements depend on the project’s scope and the existing conditions, so owners should evaluate accessibility early instead of waiting for correction comments. Budgeting a contingency for accessibility work is smart because these items often appear late in design or plan check and can affect both cost and schedule.",
+      "@type": "Answer",
+      "description": "Accessibility upgrades are often required when a commercial improvement changes the layout, occupancy, or facilities of a space. Even interior projects can trigger ADA-related work for paths of travel, restrooms, door widths, signage, and accessible fixtures. The exact scope depends on the project size and what the renovation affects.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Accessibility work is a common surprise in commercial improvements because it can be triggered by much more than a full remodel. If the project changes circulation, restrooms, entrances, counters, or occupied areas, accessibility upgrades may be required as part of the permit review. That can include door hardware, clearances, restroom fixtures, signage, ramps, parking paths, and routes through the tenant space. The exact requirements depend on the project’s scope and the existing conditions, so owners should evaluate accessibility early instead of waiting for correction comments. Budgeting a contingency for accessibility work is smart because these items often appear late in design or plan check and can affect both cost and schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Accessibility upgrades are often required when a commercial improvement changes the layout, occupancy, or facilities of a space. Even interior projects can trig"
+}

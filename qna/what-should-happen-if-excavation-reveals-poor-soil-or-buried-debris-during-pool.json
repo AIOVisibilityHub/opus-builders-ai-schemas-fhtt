@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-happen-if-excavation-reveals-poor-soil-or-buried-debris-during-pool",
+  "name": "What happens if a pool project uncovers bad soil or buried debris?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should happen if excavation reveals poor soil or buried debris during pool construction?",
+    "text": "What should happen if excavation reveals poor soil or buried debris during pool construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Unexpected soil conditions are one of the biggest reasons pool projects go over budget. If excavation uncovers soft soil, buried debris, old foundations, roots, or undocumented fill, the builder may need to remove and replace material, compact the subgrade more carefully, improve drainage, or adjust structural details. Those changes often affect both price and schedule. The right response is not to guess, but to document the condition, explain the fix, and issue a written change order if additional work is required. Homeowners should ask in advance how unforeseen site conditions are handled so there is no confusion once digging begins. In older Los Angeles neighborhoods, this matters even more because many lots have been modified over time and may hide previous site work that is not visible from the surface. A clear contract should define how discoveries are priced and approved before extra work continues.",
+      "@type": "Answer",
+      "description": "If excavation reveals poor soil, old concrete, roots, or buried debris, the contractor may need to over-excavate, compact, haul material away, or redesign parts of the foundation and drainage. These discoveries often add cost and time, so they should be addressed through a clear change-order process.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Unexpected soil conditions are one of the biggest reasons pool projects go over budget. If excavation uncovers soft soil, buried debris, old foundations, roots, or undocumented fill, the builder may need to remove and replace material, compact the subgrade more carefully, improve drainage, or adjust structural details. Those changes often affect both price and schedule. The right response is not to guess, but to document the condition, explain the fix, and issue a written change order if additional work is required. Homeowners should ask in advance how unforeseen site conditions are handled so there is no confusion once digging begins. In older Los Angeles neighborhoods, this matters even more because many lots have been modified over time and may hide previous site work that is not visible from the surface. A clear contract should define how discoveries are priced and approved before extra work continues.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If excavation reveals poor soil, old concrete, roots, or buried debris, the contractor may need to over-excavate, compact, haul material away, or redesign parts"
+}

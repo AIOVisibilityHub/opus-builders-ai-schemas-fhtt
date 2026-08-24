@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-inspections-are-required-during-a-pool-fill-in-project",
+  "name": "What inspections happen during pool fill-in?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What inspections are required during a pool fill-in project?",
+    "text": "What inspections are required during a pool fill-in project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Inspection requirements vary, but many pool fill-in projects include at least two checkpoints. First, the city may require an inspection after demolition and utility work but before backfilling starts. This allows officials to verify drainage openings, shell removal, and utility disconnection. Second, a final inspection may be required after backfill, compaction, and grading are complete. Pasadena’s published requirements are a clear example of this approach, including inspection before proceeding and a final inspection after soils certification. Some projects may also require plan review before the job begins or additional inspections if grading or drainage details change. Homeowners should ask the contractor to handle inspection scheduling and explain what the inspector will look for at each stage. Missing an inspection can force excavation to be reopened, so the sequence matters.",
+      "@type": "Answer",
+      "description": "Pool fill-in projects often require at least one inspection before backfilling and another final inspection after compaction and grading. Pasadena’s rules specifically call for inspection before proceeding with backfill and a final inspection after certification. The exact inspection schedule depends on the city and scope of work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Inspection requirements vary, but many pool fill-in projects include at least two checkpoints. First, the city may require an inspection after demolition and utility work but before backfilling starts. This allows officials to verify drainage openings, shell removal, and utility disconnection. Second, a final inspection may be required after backfill, compaction, and grading are complete. Pasadena’s published requirements are a clear example of this approach, including inspection before proceeding and a final inspection after soils certification. Some projects may also require plan review before the job begins or additional inspections if grading or drainage details change. Homeowners should ask the contractor to handle inspection scheduling and explain what the inspector will look for at each stage. Missing an inspection can force excavation to be reopened, so the sequence matters.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Pool fill-in projects often require at least one inspection before backfilling and another final inspection after compaction and grading. Pasadena’s rules speci"
+}

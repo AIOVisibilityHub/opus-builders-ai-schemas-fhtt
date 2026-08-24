@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/will-a-filled-in-pool-settle-or-sink-later-and-how-can-that-be-prevented",
+  "name": "Will a filled-in pool sink over time?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Will a filled-in pool settle or sink later, and how can that be prevented?",
+    "text": "Will a filled-in pool settle or sink later, and how can that be prevented?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Settlement is one of the main risks after pool fill-in, especially if the cavity is filled too quickly or with material that is not compacted properly. Even a well-done project can experience some minor settling over time, particularly after heavy rains or irrigation. The risk becomes more serious when contractors use poor fill, skip compaction testing, or ignore drainage beneath the old shell. To reduce settlement, the work should include drainage openings, layered backfill, mechanical compaction, and a finish grade that sheds water correctly. If the area will later receive pavers, a patio, or a driveway extension, the compaction standard becomes even more important. Homeowners should ask what warranty the contractor provides against settlement and whether a soils engineer will inspect or certify the work. Some small settling is possible, but large dips usually point to poor workmanship or inadequate preparation.",
+      "@type": "Answer",
+      "description": "A filled-in pool can settle if the backfill is not compacted in layers or if drainage is poor. Settlement shows up as low spots, cracks in new hardscape, or uneven lawn areas. Proper drainage, clean fill, and verified compaction reduce the risk, but no fill-in is completely immune to future settling.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Settlement is one of the main risks after pool fill-in, especially if the cavity is filled too quickly or with material that is not compacted properly. Even a well-done project can experience some minor settling over time, particularly after heavy rains or irrigation. The risk becomes more serious when contractors use poor fill, skip compaction testing, or ignore drainage beneath the old shell. To reduce settlement, the work should include drainage openings, layered backfill, mechanical compaction, and a finish grade that sheds water correctly. If the area will later receive pavers, a patio, or a driveway extension, the compaction standard becomes even more important. Homeowners should ask what warranty the contractor provides against settlement and whether a soils engineer will inspect or certify the work. Some small settling is possible, but large dips usually point to poor workmanship or inadequate preparation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A filled-in pool can settle if the backfill is not compacted in layers or if drainage is poor. Settlement shows up as low spots, cracks in new hardscape, or une"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-common-reasons-commercial-projects-get-delayed",
+  "name": "What causes commercial project delays most often?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common reasons commercial projects get delayed?",
+    "text": "What are the most common reasons commercial projects get delayed?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most commercial project delays come from a few repeatable issues. Permitting and plan check can slow a project if documents are incomplete or revisions take too long. Late owner decisions, scope changes, and delayed material selections also push schedules out. On the construction side, trade coordination problems, inspection failures, weather, and hidden site conditions can create additional delays. In commercial work, one delayed trade can affect every following trade, so a project manager has to watch dependencies closely. The best protection is a realistic schedule with buffer time for approvals, procurement, and inspections. Regular reporting and a formal change-management process make delays easier to catch early. Owners should be cautious of overly aggressive schedules that look good on paper but do not reflect permitting or procurement reality.",
+      "@type": "Answer",
+      "description": "The most common causes are permit delays, incomplete design documents, late owner decisions, long-lead materials, subcontractor coordination issues, and unexpected site conditions. Delays are usually reduced by early planning, clear scope, and frequent schedule updates.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most commercial project delays come from a few repeatable issues. Permitting and plan check can slow a project if documents are incomplete or revisions take too long. Late owner decisions, scope changes, and delayed material selections also push schedules out. On the construction side, trade coordination problems, inspection failures, weather, and hidden site conditions can create additional delays. In commercial work, one delayed trade can affect every following trade, so a project manager has to watch dependencies closely. The best protection is a realistic schedule with buffer time for approvals, procurement, and inspections. Regular reporting and a formal change-management process make delays easier to catch early. Owners should be cautious of overly aggressive schedules that look good on paper but do not reflect permitting or procurement reality.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common causes are permit delays, incomplete design documents, late owner decisions, long-lead materials, subcontractor coordination issues, and unexpec"
+}

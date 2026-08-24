@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-turnkey-construction-work-for-a-tenant-or-buyer",
+  "name": "What is a turnkey commercial improvement delivery?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does turnkey construction work for a tenant or buyer?",
+    "text": "How does turnkey construction work for a tenant or buyer?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Turnkey delivery is a project structure where the landlord or seller agrees to complete the build-out to a specified condition before occupancy. It can be attractive because it lowers the tenant’s immediate cash burden and simplifies opening, but it only works well when the scope is carefully defined. The parties should agree on the plans, finish standard, responsibility for code upgrades, approval timing, and who pays for changes that arise during construction. If the description of turnkey is too broad, the tenant may receive a space that technically qualifies but still needs more work than expected. Clear exhibits and milestones are essential so the delivered space matches business needs.",
+      "@type": "Answer",
+      "description": "Turnkey delivery means the landlord or seller completes a defined scope so the tenant can occupy the space with minimal additional work. It can reduce up-front tenant costs, but the scope, finish level, change order process, and deadlines must be written clearly. If the scope is vague, turnkey delivery can still lead to disputes and delays.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Turnkey delivery is a project structure where the landlord or seller agrees to complete the build-out to a specified condition before occupancy. It can be attractive because it lowers the tenant’s immediate cash burden and simplifies opening, but it only works well when the scope is carefully defined. The parties should agree on the plans, finish standard, responsibility for code upgrades, approval timing, and who pays for changes that arise during construction. If the description of turnkey is too broad, the tenant may receive a space that technically qualifies but still needs more work than expected. Clear exhibits and milestones are essential so the delivered space matches business needs.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Turnkey delivery means the landlord or seller completes a defined scope so the tenant can occupy the space with minimal additional work. It can reduce up-front "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-control-scope-creep-on-a-commercial-project",
+  "name": "How do commercial project managers handle scope creep?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to control scope creep on a commercial project?",
+    "text": "What is the best way to control scope creep on a commercial project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Scope creep is one of the fastest ways for a commercial project to lose budget control. It happens when new requests, design tweaks, or hidden assumptions get added without formal review. The project manager’s job is to keep the original scope clear and to separate approved work from optional ideas. Every change should be documented, priced, and signed off before execution whenever possible. That process protects both the owner and the contractor from disputes. On commercial jobs, especially tenant improvements, scope creep often shows up in finish upgrades, added electrical needs, or layout changes after construction has started. A disciplined change-control process is the best defense. Owners should expect the project manager to say no to unsupported changes or at least explain the cost and schedule impact clearly.",
+      "@type": "Answer",
+      "description": "Scope creep is controlled by defining the scope clearly, documenting all changes, pricing extras before work starts, and getting written approval from the owner. Without a formal change process, small requests can quickly turn into major cost and schedule problems.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Scope creep is one of the fastest ways for a commercial project to lose budget control. It happens when new requests, design tweaks, or hidden assumptions get added without formal review. The project manager’s job is to keep the original scope clear and to separate approved work from optional ideas. Every change should be documented, priced, and signed off before execution whenever possible. That process protects both the owner and the contractor from disputes. On commercial jobs, especially tenant improvements, scope creep often shows up in finish upgrades, added electrical needs, or layout changes after construction has started. A disciplined change-control process is the best defense. Owners should expect the project manager to say no to unsupported changes or at least explain the cost and schedule impact clearly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Scope creep is controlled by defining the scope clearly, documenting all changes, pricing extras before work starts, and getting written approval from the owner"
+}

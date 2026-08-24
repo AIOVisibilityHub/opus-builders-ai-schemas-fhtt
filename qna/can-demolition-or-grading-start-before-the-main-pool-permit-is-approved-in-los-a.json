@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-demolition-or-grading-start-before-the-main-pool-permit-is-approved-in-los-a",
+  "name": "Can you start demolition or grading before the pool permit is fully approved?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can demolition or grading start before the main pool permit is approved in Los Angeles?",
+    "text": "Can demolition or grading start before the main pool permit is approved in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In some Los Angeles projects, limited demolition or grading may be possible under a separate permit path, but it should never be assumed. The key issue is whether the specific scope is already approved and whether the city has authorized that portion of work to begin. If a contractor starts too early without the correct permit, the project can face stop-work orders, reinspection delays, and added cost to fix the paperwork. On larger backyard projects, it is common to sequence work so that some site preparation, utility locating, or grading-related tasks are coordinated while the main pool permit is still in review. The right approach is to ask exactly what can start, under what permit, and what inspections will be needed next. That question should be answered before any equipment arrives on site.",
+      "@type": "Answer",
+      "description": "Sometimes limited demolition or grading can begin with a separate grading permit or coordinated approval, but it must be handled carefully. Starting work without the required permit can trigger a stop-work order and delays, so the contractor should confirm what is approved in writing before beginning.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In some Los Angeles projects, limited demolition or grading may be possible under a separate permit path, but it should never be assumed. The key issue is whether the specific scope is already approved and whether the city has authorized that portion of work to begin. If a contractor starts too early without the correct permit, the project can face stop-work orders, reinspection delays, and added cost to fix the paperwork. On larger backyard projects, it is common to sequence work so that some site preparation, utility locating, or grading-related tasks are coordinated while the main pool permit is still in review. The right approach is to ask exactly what can start, under what permit, and what inspections will be needed next. That question should be answered before any equipment arrives on site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes limited demolition or grading can begin with a separate grading permit or coordinated approval, but it must be handled carefully. Starting work withou"
+}

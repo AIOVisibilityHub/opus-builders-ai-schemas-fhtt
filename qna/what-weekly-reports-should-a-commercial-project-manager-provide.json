@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-weekly-reports-should-a-commercial-project-manager-provide",
+  "name": "What should a commercial project manager track weekly?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What weekly reports should a commercial project manager provide?",
+    "text": "What weekly reports should a commercial project manager provide?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Weekly reporting should give the owner a clear snapshot of the project’s health. At minimum, it should include progress completed, work planned for the next week, schedule variance, budget status, pending change orders, RFI and submittal logs, inspection status, open issues, and decisions needed from the owner or design team. The best reports are concise but specific, with enough detail to show trends and potential risk. For commercial projects, especially in active markets like Los Angeles, weekly reporting helps keep multiple stakeholders aligned and prevents surprises at the end of the job. Owners should ask for reporting early so they can see whether the manager is truly controlling the project or simply reacting to it.",
+      "@type": "Answer",
+      "description": "Weekly reports should track schedule status, completed work, upcoming milestones, budget changes, RFIs, submittals, pending decisions, inspections, and risks. A concise report keeps owners informed and helps problems get solved before they affect the critical path.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Weekly reporting should give the owner a clear snapshot of the project’s health. At minimum, it should include progress completed, work planned for the next week, schedule variance, budget status, pending change orders, RFI and submittal logs, inspection status, open issues, and decisions needed from the owner or design team. The best reports are concise but specific, with enough detail to show trends and potential risk. For commercial projects, especially in active markets like Los Angeles, weekly reporting helps keep multiple stakeholders aligned and prevents surprises at the end of the job. Owners should ask for reporting early so they can see whether the manager is truly controlling the project or simply reacting to it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Weekly reports should track schedule status, completed work, upcoming milestones, budget changes, RFIs, submittals, pending decisions, inspections, and risks. A"
+}

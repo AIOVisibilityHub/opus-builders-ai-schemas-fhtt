@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-make-sure-the-city-signs-off-once-backfill-and-compaction-are-finished",
+  "name": "What should I do with permits and inspections after the pool is removed?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I make sure the city signs off once backfill and compaction are finished?",
+    "text": "How do I make sure the city signs off once backfill and compaction are finished?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Once the demolition and backfill are done, the permit process is not always over. Many cities want to verify that the pool was removed according to the approved plan and that the cavity was compacted properly. Depending on the city, the contractor may need to schedule a final inspection, provide compaction information, or submit completion paperwork. Homeowners should keep copies of the permit, approved plans, inspection sign-offs, and any grading or compaction documentation. These records can matter later when selling the home or planning new construction on the site. If the contractor is handling the permit, ask how they close out the job and who is responsible for follow-up with the city. A clean permit file helps avoid future questions about what was done beneath the yard surface.",
+      "@type": "Answer",
+      "description": "After pool removal, the contractor should schedule required inspections and provide any compaction or completion documentation the city asks for. Homeowners should keep permit records, inspection approvals, and final site documents in case they are needed later for resale or future construction.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Once the demolition and backfill are done, the permit process is not always over. Many cities want to verify that the pool was removed according to the approved plan and that the cavity was compacted properly. Depending on the city, the contractor may need to schedule a final inspection, provide compaction information, or submit completion paperwork. Homeowners should keep copies of the permit, approved plans, inspection sign-offs, and any grading or compaction documentation. These records can matter later when selling the home or planning new construction on the site. If the contractor is handling the permit, ask how they close out the job and who is responsible for follow-up with the city. A clean permit file helps avoid future questions about what was done beneath the yard surface.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "After pool removal, the contractor should schedule required inspections and provide any compaction or completion documentation the city asks for. Homeowners sho"
+}

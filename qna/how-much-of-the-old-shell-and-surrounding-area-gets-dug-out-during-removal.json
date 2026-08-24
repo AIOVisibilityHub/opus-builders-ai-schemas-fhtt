@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-of-the-old-shell-and-surrounding-area-gets-dug-out-during-removal",
+  "name": "How deep is a pool removal excavation usually?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much of the old shell and surrounding area gets dug out during removal?",
+    "text": "How much of the old shell and surrounding area gets dug out during removal?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Excavation depth depends on whether the pool is partially or fully removed and on the original pool design. Partial removals usually break down the upper shell and leave some lower structure below grade before backfilling. Full removals dig out the entire shell, which means deeper excavation and more hauling. Deeper pools, raised walls, spas, or attached features can add complexity because the contractor may need to remove more material than expected. The depth also affects how much clean fill is needed and how many compaction lifts must be placed. Homeowners should ask how deep the deepest point is, how the bottom will be treated, and whether the site will be restored to the original grade or a new grade. That level of detail matters for future landscaping and drainage.",
+      "@type": "Answer",
+      "description": "Excavation depth depends on the pool design and the removal method. Partial removals typically leave some lower structure in place, while full removals excavate the entire shell to below the pool floor before backfilling and compacting the area.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Excavation depth depends on whether the pool is partially or fully removed and on the original pool design. Partial removals usually break down the upper shell and leave some lower structure below grade before backfilling. Full removals dig out the entire shell, which means deeper excavation and more hauling. Deeper pools, raised walls, spas, or attached features can add complexity because the contractor may need to remove more material than expected. The depth also affects how much clean fill is needed and how many compaction lifts must be placed. Homeowners should ask how deep the deepest point is, how the bottom will be treated, and whether the site will be restored to the original grade or a new grade. That level of detail matters for future landscaping and drainage.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Excavation depth depends on the pool design and the removal method. Partial removals typically leave some lower structure in place, while full removals excavate"
+}

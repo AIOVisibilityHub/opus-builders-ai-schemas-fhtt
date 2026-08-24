@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-my-restaurant-construction-requires-ada-upgrades",
+  "name": "What if my restaurant project triggers ADA upgrades?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if my restaurant construction requires ADA upgrades?",
+    "text": "What if my restaurant construction requires ADA upgrades?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "ADA upgrades can materially affect a restaurant construction project. If the scope of work triggers accessibility requirements, the design may need to change entrances, restroom layouts, paths of travel, turning clearances, counter heights, seating distribution, and signage. In older Los Angeles buildings, these upgrades can be difficult because the existing footprint may be tight or the structure may limit what can be modified. The key is to identify accessibility issues during design, not after the plan check review reveals them. ADA work often interacts with other trades too, especially plumbing, framing, electrical, and finishes. Owners should budget for these items early and ask the contractor how accessibility requirements affect the rest of the build-out. In many projects, the real cost surprise is not the visible finish work but the hidden path-of-travel and restroom corrections needed to pass final approval.",
+      "@type": "Answer",
+      "description": "If a restaurant remodel or build-out triggers accessibility upgrades, the project may need changes to entrances, restrooms, paths of travel, counters, and seating areas. ADA-related work can affect both budget and design, so it should be identified early during planning and permit review.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "ADA upgrades can materially affect a restaurant construction project. If the scope of work triggers accessibility requirements, the design may need to change entrances, restroom layouts, paths of travel, turning clearances, counter heights, seating distribution, and signage. In older Los Angeles buildings, these upgrades can be difficult because the existing footprint may be tight or the structure may limit what can be modified. The key is to identify accessibility issues during design, not after the plan check review reveals them. ADA work often interacts with other trades too, especially plumbing, framing, electrical, and finishes. Owners should budget for these items early and ask the contractor how accessibility requirements affect the rest of the build-out. In many projects, the real cost surprise is not the visible finish work but the hidden path-of-travel and restroom corrections needed to pass final approval.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a restaurant remodel or build-out triggers accessibility upgrades, the project may need changes to entrances, restrooms, paths of travel, counters, and seati"
+}

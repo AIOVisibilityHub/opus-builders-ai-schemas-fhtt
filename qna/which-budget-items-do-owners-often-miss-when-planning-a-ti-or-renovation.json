@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-budget-items-do-owners-often-miss-when-planning-a-ti-or-renovation",
+  "name": "What are the most common hidden costs in commercial improvements?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which budget items do owners often miss when planning a TI or renovation?",
+    "text": "Which budget items do owners often miss when planning a TI or renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The biggest budget surprises usually come from items that are not visible in the initial walkthrough. Permit fees, revision cycles, accessibility corrections, fire alarm or sprinkler changes, utility upgrades, and demolition surprises can all increase total project cost. Owners also sometimes miss soft costs like design, engineering, consultant coordination, and schedule impacts from procurement or inspections. In older commercial buildings, hidden electrical, plumbing, or structural issues are especially common once walls and ceilings are opened. A reliable budget should include a detailed scope review and a contingency reserve so the owner can absorb these items without pausing the project. If a contractor’s bid seems unusually low, it may simply mean several of these costs were not included.",
+      "@type": "Answer",
+      "description": "Hidden costs often include permit fees, plan check revisions, accessibility upgrades, fire protection changes, utility upgrades, demolition surprises, temporary protection, and tenant move-in coordination. Older buildings can also reveal structural or MEP issues after walls are opened. These items are easy to miss if the budget only covers visible construction work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The biggest budget surprises usually come from items that are not visible in the initial walkthrough. Permit fees, revision cycles, accessibility corrections, fire alarm or sprinkler changes, utility upgrades, and demolition surprises can all increase total project cost. Owners also sometimes miss soft costs like design, engineering, consultant coordination, and schedule impacts from procurement or inspections. In older commercial buildings, hidden electrical, plumbing, or structural issues are especially common once walls and ceilings are opened. A reliable budget should include a detailed scope review and a contingency reserve so the owner can absorb these items without pausing the project. If a contractor’s bid seems unusually low, it may simply mean several of these costs were not included.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hidden costs often include permit fees, plan check revisions, accessibility upgrades, fire protection changes, utility upgrades, demolition surprises, temporary"
+}
