@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-does-jurisdiction-matter-so-much-for-outdoor-living-permits",
+  "name": "How do I know if my outdoor project is in the City of LA or county?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why does jurisdiction matter so much for outdoor living permits?",
+    "text": "Why does jurisdiction matter so much for outdoor living permits?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Jurisdiction is a major issue because outdoor living rules are not uniform across the Los Angeles region. A property in the City of Los Angeles may follow different procedures than one in Glendale, Pasadena, Burbank, or unincorporated county territory. That affects everything from permit applications to setback rules and review timelines. Homeowners should verify the exact address jurisdiction before finalizing design or pricing, because a plan that works in one city may need changes in another. The most efficient projects start with a jurisdiction check, then move into zoning, property-line, and utility review. That avoids rework and helps contractors give more accurate estimates from the start.",
+      "@type": "Answer",
+      "description": "Jurisdiction determines which building department, zoning rules, and permit path apply. Two neighboring properties can have different patio cover and outdoor kitchen requirements depending on whether they are in a city or unincorporated county area.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Jurisdiction is a major issue because outdoor living rules are not uniform across the Los Angeles region. A property in the City of Los Angeles may follow different procedures than one in Glendale, Pasadena, Burbank, or unincorporated county territory. That affects everything from permit applications to setback rules and review timelines. Homeowners should verify the exact address jurisdiction before finalizing design or pricing, because a plan that works in one city may need changes in another. The most efficient projects start with a jurisdiction check, then move into zoning, property-line, and utility review. That avoids rework and helps contractors give more accurate estimates from the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Jurisdiction determines which building department, zoning rules, and permit path apply. Two neighboring properties can have different patio cover and outdoor ki"
+}

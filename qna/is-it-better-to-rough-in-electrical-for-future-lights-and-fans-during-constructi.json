@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-better-to-rough-in-electrical-for-future-lights-and-fans-during-constructi",
+  "name": "Can I add lighting and fans to a patio cover later?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it better to rough-in electrical for future lights and fans during construction?",
+    "text": "Is it better to rough-in electrical for future lights and fans during construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If there is any chance you will want lights, ceiling fans, heaters, or speakers in the patio cover, it is usually better to plan electrical rough-in during the initial build. Adding those items later often means opening finished surfaces, rerouting wiring, and paying for extra labor. Early planning also helps with fixture placement, switch locations, and load management. Because electrical work can affect permit scope, coordinating it with the structure from the start is the best way to avoid surprises. Even if the project does not include all the final fixtures on day one, preplanning the infrastructure can save a lot of time and money later.",
+      "@type": "Answer",
+      "description": "Yes. Roughing in electrical during the build is usually easier and cleaner than adding it later. Future fixtures may still require permits, but planning ahead reduces damage and rework.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If there is any chance you will want lights, ceiling fans, heaters, or speakers in the patio cover, it is usually better to plan electrical rough-in during the initial build. Adding those items later often means opening finished surfaces, rerouting wiring, and paying for extra labor. Early planning also helps with fixture placement, switch locations, and load management. Because electrical work can affect permit scope, coordinating it with the structure from the start is the best way to avoid surprises. Even if the project does not include all the final fixtures on day one, preplanning the infrastructure can save a lot of time and money later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Roughing in electrical during the build is usually easier and cleaner than adding it later. Future fixtures may still require permits, but planning ahead r"
+}

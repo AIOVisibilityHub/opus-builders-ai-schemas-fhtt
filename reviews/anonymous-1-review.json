@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "We have and will continue to recommend OPUS Homes to anyone that is looking to purchase a new home.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2022-01-01",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Opus Builders",
+    "url": "https://opusbuilders.aiovisibility.net",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "new home purchase / home building"
+      }
+    }
+  }
+}

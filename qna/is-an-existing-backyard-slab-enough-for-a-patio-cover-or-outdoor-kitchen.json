@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-an-existing-backyard-slab-enough-for-a-patio-cover-or-outdoor-kitchen",
+  "name": "Can I build on an existing concrete slab?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is an existing backyard slab enough for a patio cover or outdoor kitchen?",
+    "text": "Is an existing backyard slab enough for a patio cover or outdoor kitchen?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An existing slab can help reduce demolition costs, but it is not automatically suitable for a new patio cover or outdoor kitchen. The slab must be thick enough, properly reinforced, and located where the new structure can meet footing and anchoring requirements. If the project adds a roof, heavy masonry, stone counters, or appliances, the builder may need new footings or reinforced pads instead of relying on the slab alone. Drainage and elevation also matter, especially if the finished space needs to stay dry during rain or slope away from the house. A site inspection should determine whether the slab is usable as-is or whether selective demo and new foundations are the better long-term choice.",
+      "@type": "Answer",
+      "description": "Sometimes, but not always. An existing concrete slab may be usable only if it can support the new loads and meets the project’s footing and code requirements. Many covered structures still need new foundations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An existing slab can help reduce demolition costs, but it is not automatically suitable for a new patio cover or outdoor kitchen. The slab must be thick enough, properly reinforced, and located where the new structure can meet footing and anchoring requirements. If the project adds a roof, heavy masonry, stone counters, or appliances, the builder may need new footings or reinforced pads instead of relying on the slab alone. Drainage and elevation also matter, especially if the finished space needs to stay dry during rain or slope away from the house. A site inspection should determine whether the slab is usable as-is or whether selective demo and new foundations are the better long-term choice.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but not always. An existing concrete slab may be usable only if it can support the new loads and meets the project’s footing and code requirements. M"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-construction-sequence-for-a-covered-outdoor-living-area",
+  "name": "Should I build the patio cover before the outdoor kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best construction sequence for a covered outdoor living area?",
+    "text": "What is the best construction sequence for a covered outdoor living area?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best sequence is usually to design the structure first, then plan utilities and finishes around it. If the patio cover, electrical, plumbing, gas, and appliance locations are coordinated early, the final layout is cleaner and easier to permit. Building the kitchen first and trying to add shade later often causes conflicts with clearances, posts, footings, and roof framing. A good outdoor living construction plan starts with the footprint, drainage, access points, and how people will move through the space. Then the builder can place the grill, sink, seating, lighting, and storage in the right locations. That approach reduces change orders and avoids moving expensive finished work.",
+      "@type": "Answer",
+      "description": "Usually the structural shell should be designed first, then utilities and finishes added after. If a patio cover, outdoor kitchen, and lighting are coordinated early, the project is easier to build and permit.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best sequence is usually to design the structure first, then plan utilities and finishes around it. If the patio cover, electrical, plumbing, gas, and appliance locations are coordinated early, the final layout is cleaner and easier to permit. Building the kitchen first and trying to add shade later often causes conflicts with clearances, posts, footings, and roof framing. A good outdoor living construction plan starts with the footprint, drainage, access points, and how people will move through the space. Then the builder can place the grill, sink, seating, lighting, and storage in the right locations. That approach reduces change orders and avoids moving expensive finished work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Usually the structural shell should be designed first, then utilities and finishes added after. If a patio cover, outdoor kitchen, and lighting are coordinated "
+}

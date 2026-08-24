@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-decide-between-a-full-backyard-renovation-and-a-simple-refresh",
+  "name": "How do I know if I need a backyard renovation or just a refresh?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I decide between a full backyard renovation and a simple refresh?",
+    "text": "How do I decide between a full backyard renovation and a simple refresh?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A backyard refresh is usually enough when the site already functions well and only looks tired or outdated. That might include pruning, new planting, irrigation repair, lighting updates, mulch, turf replacement, or small surface improvements. A full renovation is the better choice when the layout does not work, the yard has drainage problems, the hardscape is failing, or the homeowner wants new outdoor living features such as a kitchen, patio cover, or fire feature. In Los Angeles, many properties start as a simple refresh request but quickly become a renovation once the owner realizes the yard needs better flow and structure. The decision usually comes down to whether the project is changing the appearance only or changing how the yard is used every day.",
+      "@type": "Answer",
+      "description": "Choose a refresh if the yard mainly needs cosmetic improvements such as planting, cleanup, lighting, or minor surface updates. Choose a renovation if the space needs new layout, drainage correction, hardscape, structures, utilities, or a complete outdoor living redesign.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A backyard refresh is usually enough when the site already functions well and only looks tired or outdated. That might include pruning, new planting, irrigation repair, lighting updates, mulch, turf replacement, or small surface improvements. A full renovation is the better choice when the layout does not work, the yard has drainage problems, the hardscape is failing, or the homeowner wants new outdoor living features such as a kitchen, patio cover, or fire feature. In Los Angeles, many properties start as a simple refresh request but quickly become a renovation once the owner realizes the yard needs better flow and structure. The decision usually comes down to whether the project is changing the appearance only or changing how the yard is used every day.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Choose a refresh if the yard mainly needs cosmetic improvements such as planting, cleanup, lighting, or minor surface updates. Choose a renovation if the space "
+}

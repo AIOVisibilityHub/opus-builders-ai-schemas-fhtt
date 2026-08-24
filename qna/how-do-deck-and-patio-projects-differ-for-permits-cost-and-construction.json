@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-deck-and-patio-projects-differ-for-permits-cost-and-construction",
+  "name": "What is the difference between a deck and a patio in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do deck and patio projects differ for permits, cost, and construction?",
+    "text": "How do deck and patio projects differ for permits, cost, and construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A deck and a patio solve similar outdoor living goals, but they are built differently. A deck is usually elevated and framed, which means more structural design, footing considerations, and permit scrutiny. A patio is generally at or near grade and may be made of concrete, pavers, or stone, which can simplify the structure but still requires attention to drainage and slope. In Los Angeles, the distinction matters because permits, engineering, and overall cost often vary based on the build type. If a homeowner is deciding between them, the key questions are elevation, access, long-term maintenance, and whether the space will support a cover or outdoor kitchen.",
+      "@type": "Answer",
+      "description": "A deck is typically a raised framed structure, while a patio is usually a ground-level hardscape surface. Decks more often require structural review, while patios may be simpler unless they include covers or utilities.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A deck and a patio solve similar outdoor living goals, but they are built differently. A deck is usually elevated and framed, which means more structural design, footing considerations, and permit scrutiny. A patio is generally at or near grade and may be made of concrete, pavers, or stone, which can simplify the structure but still requires attention to drainage and slope. In Los Angeles, the distinction matters because permits, engineering, and overall cost often vary based on the build type. If a homeowner is deciding between them, the key questions are elevation, access, long-term maintenance, and whether the space will support a cover or outdoor kitchen.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A deck is typically a raised framed structure, while a patio is usually a ground-level hardscape surface. Decks more often require structural review, while pati"
+}

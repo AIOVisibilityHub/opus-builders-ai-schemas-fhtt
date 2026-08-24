@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-slope-and-drainage-affect-outdoor-living-construction",
+  "name": "What if my backyard slopes or has drainage problems?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do slope and drainage affect outdoor living construction?",
+    "text": "How do slope and drainage affect outdoor living construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Backyards with slope or poor drainage need extra planning before construction begins. Grading can affect how tall a patio cover needs to be, where footings can be placed, and whether retaining walls or drainage improvements are required. Water management is critical around outdoor kitchens and covered seating areas because runoff can stain finishes, destabilize soil, and create standing water. In hillside and semi-hillside parts of Los Angeles, drainage details may also influence plan approval and structural design. The right approach is to solve water flow first, then set the patio elevations and structural layout around those corrections. Ignoring drainage usually leads to expensive repairs later.",
+      "@type": "Answer",
+      "description": "Slope and drainage can change footing design, structure height, grading, and permit requirements. Poor drainage can damage finishes and cause water to pool under patios, kitchens, and seating areas.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Backyards with slope or poor drainage need extra planning before construction begins. Grading can affect how tall a patio cover needs to be, where footings can be placed, and whether retaining walls or drainage improvements are required. Water management is critical around outdoor kitchens and covered seating areas because runoff can stain finishes, destabilize soil, and create standing water. In hillside and semi-hillside parts of Los Angeles, drainage details may also influence plan approval and structural design. The right approach is to solve water flow first, then set the patio elevations and structural layout around those corrections. Ignoring drainage usually leads to expensive repairs later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Slope and drainage can change footing design, structure height, grading, and permit requirements. Poor drainage can damage finishes and cause water to pool unde"
+}

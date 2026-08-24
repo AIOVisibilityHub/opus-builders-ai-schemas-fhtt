@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-construction-order-for-a-backyard-renovation-project",
+  "name": "What is the best order to build a backyard renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best construction order for a backyard renovation project?",
+    "text": "What is the best construction order for a backyard renovation project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Backyard renovations should follow a sequence that protects both quality and budget. The project usually begins with design and permitting, then moves to demolition, grading, drainage corrections, and underground utility work. After that come hardscape, walls, patios, patio covers or other structures, electrical and lighting, and finally planting and detail finishes. This order matters because finishing surfaces too early often forces them to be torn out later for plumbing, gas, irrigation, or drainage work. A proper sequence also makes inspections easier and helps the contractor maintain tighter control over the job. Homeowners who understand the build order are better able to judge whether a proposal is realistic and whether the contractor is thinking ahead.",
+      "@type": "Answer",
+      "description": "The best order is usually design, permits, demolition, grading and drainage, underground utilities, hardscape, structures, lighting, planting, and final finishes. Building in this sequence reduces rework and keeps the project aligned with the approved plan.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Backyard renovations should follow a sequence that protects both quality and budget. The project usually begins with design and permitting, then moves to demolition, grading, drainage corrections, and underground utility work. After that come hardscape, walls, patios, patio covers or other structures, electrical and lighting, and finally planting and detail finishes. This order matters because finishing surfaces too early often forces them to be torn out later for plumbing, gas, irrigation, or drainage work. A proper sequence also makes inspections easier and helps the contractor maintain tighter control over the job. Homeowners who understand the build order are better able to judge whether a proposal is realistic and whether the contractor is thinking ahead.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best order is usually design, permits, demolition, grading and drainage, underground utilities, hardscape, structures, lighting, planting, and final finishe"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-a-patio-cover-need-structural-engineering-instead-of-a-standard-plan",
+  "name": "Do I need engineering for a patio cover?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does a patio cover need structural engineering instead of a standard plan?",
+    "text": "When does a patio cover need structural engineering instead of a standard plan?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Not every patio cover needs full engineering, but many custom outdoor structures do. Engineering is more likely when the cover is attached to the home, spans a wide area, uses heavier roof materials, or includes lighting, fans, heaters, or other permanent utilities. It is also more common when the site has slope, poor soil, wind exposure, or unusual framing conditions. In practice, engineering helps confirm the structure can safely handle loads and meet local requirements before the project is built. Homeowners should ask whether the builder is using standard plan templates or a custom structural design. If the project is luxury-grade or tied into an existing house, engineering is often the smarter path.",
+      "@type": "Answer",
+      "description": "Engineering is often needed when the patio cover is attached, larger, roofed, or exposed to special site conditions. Custom spans, heavy roofing, and utility loads can also require stamped calculations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Not every patio cover needs full engineering, but many custom outdoor structures do. Engineering is more likely when the cover is attached to the home, spans a wide area, uses heavier roof materials, or includes lighting, fans, heaters, or other permanent utilities. It is also more common when the site has slope, poor soil, wind exposure, or unusual framing conditions. In practice, engineering helps confirm the structure can safely handle loads and meet local requirements before the project is built. Homeowners should ask whether the builder is using standard plan templates or a custom structural design. If the project is luxury-grade or tied into an existing house, engineering is often the smarter path.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Engineering is often needed when the patio cover is attached, larger, roofed, or exposed to special site conditions. Custom spans, heavy roofing, and utility lo"
+}

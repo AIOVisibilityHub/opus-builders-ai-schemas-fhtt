@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-new-surface-peels-stains-or-flakes-soon-after-completion-what-steps-shoul",
+  "name": "What should you do if the pool finish fails right after resurfacing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the new surface peels, stains, or flakes soon after completion, what steps should the homeowner take first?",
+    "text": "If the new surface peels, stains, or flakes soon after completion, what steps should the homeowner take first?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a resurfaced pool fails early, the first step is to document everything with photos, dates, and notes about water chemistry, fill timing, and when the problem started. Avoid acid washing, harsh brushing, or random fixes until the cause is clearer, because those steps can make the damage worse or complicate accountability. Early failure may come from installation defects, poor startup care, substrate movement, or hidden structural issues. The contractor should inspect the finish and determine whether the problem is cosmetic, localized, or systemic. If the issue appeared almost immediately, the homeowner should ask for a written explanation of the likely cause and the proposed correction. Acting quickly improves the odds of getting a proper diagnosis before the damage spreads.",
+      "@type": "Answer",
+      "description": "Document the problem immediately, avoid aggressive cleaning, and contact the contractor with photos and dates. Early failure can come from workmanship, startup chemistry, or hidden substrate issues, and the cause matters before any repair is attempted. Quick documentation helps determine whether the problem is isolated or getting worse.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a resurfaced pool fails early, the first step is to document everything with photos, dates, and notes about water chemistry, fill timing, and when the problem started. Avoid acid washing, harsh brushing, or random fixes until the cause is clearer, because those steps can make the damage worse or complicate accountability. Early failure may come from installation defects, poor startup care, substrate movement, or hidden structural issues. The contractor should inspect the finish and determine whether the problem is cosmetic, localized, or systemic. If the issue appeared almost immediately, the homeowner should ask for a written explanation of the likely cause and the proposed correction. Acting quickly improves the odds of getting a proper diagnosis before the damage spreads.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Document the problem immediately, avoid aggressive cleaning, and contact the contractor with photos and dates. Early failure can come from workmanship, startup "
+}

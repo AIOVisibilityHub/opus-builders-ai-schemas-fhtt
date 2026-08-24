@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-an-outdoor-kitchen-need-a-permit-if-it-includes-gas-electrical-or-plumbing",
+  "name": "Do outdoor kitchens need permits for gas and electrical?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does an outdoor kitchen need a permit if it includes gas, electrical, or plumbing?",
+    "text": "Does an outdoor kitchen need a permit if it includes gas, electrical, or plumbing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Outdoor kitchens almost always become permit-sensitive once utilities are added. Gas lines, electrical circuits, plumbing, sinks, drains, heaters, and refrigeration can all trigger plan review and inspections. A basic grill island may be simpler, but once the project becomes a full outdoor kitchen with built-in appliances and permanent utility connections, it is usually treated as more than decorative landscaping. Homeowners should also account for access, ventilation, fire clearances, and equipment placement. Because utility rough-in is harder to fix after installation, the permit and design phase is the right time to confirm code requirements and coordinate the structural, plumbing, and electrical scope together.",
+      "@type": "Answer",
+      "description": "Yes. Outdoor kitchens that include gas lines, electrical wiring, water, or drainage usually require permit review. Even if the cooking area itself is modest, utility work often triggers additional approvals.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Outdoor kitchens almost always become permit-sensitive once utilities are added. Gas lines, electrical circuits, plumbing, sinks, drains, heaters, and refrigeration can all trigger plan review and inspections. A basic grill island may be simpler, but once the project becomes a full outdoor kitchen with built-in appliances and permanent utility connections, it is usually treated as more than decorative landscaping. Homeowners should also account for access, ventilation, fire clearances, and equipment placement. Because utility rough-in is harder to fix after installation, the permit and design phase is the right time to confirm code requirements and coordinate the structural, plumbing, and electrical scope together.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Outdoor kitchens that include gas lines, electrical wiring, water, or drainage usually require permit review. Even if the cooking area itself is modest, ut"
+}

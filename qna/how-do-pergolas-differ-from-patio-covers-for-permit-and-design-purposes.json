@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-pergolas-differ-from-patio-covers-for-permit-and-design-purposes",
+  "name": "What is the difference between a pergola and a patio cover?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do pergolas differ from patio covers for permit and design purposes?",
+    "text": "How do pergolas differ from patio covers for permit and design purposes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A pergola and a patio cover can look similar, but they are not treated the same in many building departments. A pergola usually has an open lattice or slatted top, while a patio cover is more like a roofed structure intended to provide greater weather protection. That distinction matters because patio covers are more likely to require permits, structural calculations, drainage planning, and inspection. In Los Angeles-area projects, the exact framing, roof material, and whether the structure is attached to the home can shift the classification. Homeowners should ask their builder which category the design fits before construction begins, because the permit path, material costs, and engineering needs may change based on that label.",
+      "@type": "Answer",
+      "description": "A pergola is usually an open shade structure, while a patio cover is more enclosed or roof-like. That difference matters because patio covers more often trigger permit review and structural requirements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A pergola and a patio cover can look similar, but they are not treated the same in many building departments. A pergola usually has an open lattice or slatted top, while a patio cover is more like a roofed structure intended to provide greater weather protection. That distinction matters because patio covers are more likely to require permits, structural calculations, drainage planning, and inspection. In Los Angeles-area projects, the exact framing, roof material, and whether the structure is attached to the home can shift the classification. Homeowners should ask their builder which category the design fits before construction begins, because the permit path, material costs, and engineering needs may change based on that label.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A pergola is usually an open shade structure, while a patio cover is more enclosed or roof-like. That difference matters because patio covers more often trigger"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-i-want-to-convert-an-existing-pergola-into-a-covered-patio",
+  "name": "Can I add a roof to an existing pergola?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if I want to convert an existing pergola into a covered patio?",
+    "text": "What happens if I want to convert an existing pergola into a covered patio?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Turning an open pergola into a roofed patio is not a simple cosmetic change. Adding a solid or semi-solid roof increases wind and dead loads, changes drainage behavior, and may alter fire and zoning compliance. In many cases, the upgrade also changes the structure’s permit status, especially if it becomes attached to the house or includes lighting, fans, or insulation. Builders should evaluate the existing footings, beam sizes, posts, and connections before recommending a roof conversion. In some projects, the safest option is to rebuild the structure rather than retrofit it, because the original frame may not be designed for the added weight. A structural review before design decisions saves time and avoids failed inspections.",
+      "@type": "Answer",
+      "description": "Adding a roof to an existing pergola usually changes the structure enough to trigger permit review and possibly engineering. The upgrade can also affect loads, drainage, and setback compliance.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Turning an open pergola into a roofed patio is not a simple cosmetic change. Adding a solid or semi-solid roof increases wind and dead loads, changes drainage behavior, and may alter fire and zoning compliance. In many cases, the upgrade also changes the structure’s permit status, especially if it becomes attached to the house or includes lighting, fans, or insulation. Builders should evaluate the existing footings, beam sizes, posts, and connections before recommending a roof conversion. In some projects, the safest option is to rebuild the structure rather than retrofit it, because the original frame may not be designed for the added weight. A structural review before design decisions saves time and avoids failed inspections.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Adding a roof to an existing pergola usually changes the structure enough to trigger permit review and possibly engineering. The upgrade can also affect loads, "
+}
