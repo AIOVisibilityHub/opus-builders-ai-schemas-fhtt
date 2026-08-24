@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-project-goes-over-budget",
+  "name": "What happens if the project goes over budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the project goes over budget?",
+    "text": "What happens if the project goes over budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Budget overruns can happen for several reasons: scope changes, higher-than-expected finish selections, permit revisions, hidden site conditions, or inaccurate initial assumptions. A responsible design-build firm should identify the reason quickly and explain which costs are due to owner changes versus unforeseen issues. The team should then give options, such as revising finishes, adjusting scope, or reallocating contingency. Homeowners should also ask how often budgets are updated and whether there is a formal approval process before extra work proceeds. The safest projects are the ones where financial reporting is routine, not reactive. A project can stay healthy if the homeowner and builder address cost changes early instead of waiting until the end.",
+      "@type": "Answer",
+      "description": "If a project goes over budget, the team should identify the cause, separate approved changes from unforeseen conditions, and present options to reduce costs or re-scope work. A good contract and regular budget updates help prevent surprise overruns.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Budget overruns can happen for several reasons: scope changes, higher-than-expected finish selections, permit revisions, hidden site conditions, or inaccurate initial assumptions. A responsible design-build firm should identify the reason quickly and explain which costs are due to owner changes versus unforeseen issues. The team should then give options, such as revising finishes, adjusting scope, or reallocating contingency. Homeowners should also ask how often budgets are updated and whether there is a formal approval process before extra work proceeds. The safest projects are the ones where financial reporting is routine, not reactive. A project can stay healthy if the homeowner and builder address cost changes early instead of waiting until the end.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a project goes over budget, the team should identify the cause, separate approved changes from unforeseen conditions, and present options to reduce costs or "
+}

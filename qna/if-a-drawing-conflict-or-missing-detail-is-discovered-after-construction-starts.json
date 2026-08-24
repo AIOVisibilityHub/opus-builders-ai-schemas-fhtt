@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-a-drawing-conflict-or-missing-detail-is-discovered-after-construction-starts",
+  "name": "What happens if the contractor finds a coordination error during construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If a drawing conflict or missing detail is discovered after construction starts, how should the team handle it and who pays?",
+    "text": "If a drawing conflict or missing detail is discovered after construction starts, how should the team handle it and who pays?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a coordination error appears during construction, the first step is to stop and document the problem clearly. The team should identify the conflicting drawings, field conditions, and affected trades, then confirm which revision controls. A revised detail, sketch, or addendum may be needed before work can continue safely and efficiently. Who pays depends on the source of the issue and the contract structure. If the conflict resulted from an omission or inconsistency in the design documents, the correction may fall under professional responsibility or project contingency. If the contractor ignored the drawings or failed to follow instructions, the cost may be handled differently. That is why clear records matter. The best projects handle these issues quickly through a defined chain of communication. The coordinator or project manager should log the issue, gather responses from the architect and consultant, and get a written resolution before the field team proceeds. Homeowners should ask how field conflicts are tracked and approved, because slow response time can turn a small coordination miss into a major schedule delay.",
+      "@type": "Answer",
+      "description": "When a coordination error is found in construction, the team should document the issue, confirm which drawing controls, and issue a revised detail or field instruction before work continues. If the error came from incomplete coordination, it can lead to delay, redesign, or change costs. Clear documentation helps determine responsibility.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a coordination error appears during construction, the first step is to stop and document the problem clearly. The team should identify the conflicting drawings, field conditions, and affected trades, then confirm which revision controls. A revised detail, sketch, or addendum may be needed before work can continue safely and efficiently. Who pays depends on the source of the issue and the contract structure. If the conflict resulted from an omission or inconsistency in the design documents, the correction may fall under professional responsibility or project contingency. If the contractor ignored the drawings or failed to follow instructions, the cost may be handled differently. That is why clear records matter. The best projects handle these issues quickly through a defined chain of communication. The coordinator or project manager should log the issue, gather responses from the architect and consultant, and get a written resolution before the field team proceeds. Homeowners should ask how field conflicts are tracked and approved, because slow response time can turn a small coordination miss into a major schedule delay.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "When a coordination error is found in construction, the team should document the issue, confirm which drawing controls, and issue a revised detail or field inst"
+}

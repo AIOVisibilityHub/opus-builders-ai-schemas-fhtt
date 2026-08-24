@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-an-existing-older-house-make-a-construction-feasibility-assessment-easier-o",
+  "name": "What if the property already has an old house on it?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does an existing older house make a construction feasibility assessment easier or harder?",
+    "text": "Does an existing older house make a construction feasibility assessment easier or harder?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An existing house can be both helpful and misleading. It may show where utilities already run, how drainage behaves, and where the practical setbacks feel. But it can also hide the real site conditions until demolition or exploratory work begins. A feasibility assessment should evaluate whether the house will be demolished, renovated, expanded, or repurposed, because each path changes the risks. Older homes in Los Angeles-area neighborhoods may have outdated utilities, poor access, nonconforming features, or hidden foundation issues that affect the next phase of work. The assessment should identify whether the current structure helps the project or adds uncertainty. If the goal is a remodel or rebuild, the report should state which parts of the existing structure are assets and which are likely liabilities.",
+      "@type": "Answer",
+      "description": "An existing house can make assessment harder because it may hide grading, utility, foundation, or access issues, but it can also provide useful clues about setbacks, drainage, and site limitations. The report should evaluate both demolition risks and reuse potential.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An existing house can be both helpful and misleading. It may show where utilities already run, how drainage behaves, and where the practical setbacks feel. But it can also hide the real site conditions until demolition or exploratory work begins. A feasibility assessment should evaluate whether the house will be demolished, renovated, expanded, or repurposed, because each path changes the risks. Older homes in Los Angeles-area neighborhoods may have outdated utilities, poor access, nonconforming features, or hidden foundation issues that affect the next phase of work. The assessment should identify whether the current structure helps the project or adds uncertainty. If the goal is a remodel or rebuild, the report should state which parts of the existing structure are assets and which are likely liabilities.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An existing house can make assessment harder because it may hide grading, utility, foundation, or access issues, but it can also provide useful clues about setb"
+}

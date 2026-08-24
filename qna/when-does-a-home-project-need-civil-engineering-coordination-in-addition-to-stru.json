@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-a-home-project-need-civil-engineering-coordination-in-addition-to-stru",
+  "name": "How do I know if my project needs a civil engineer and not just a structural engineer?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does a home project need civil engineering coordination in addition to structural work?",
+    "text": "When does a home project need civil engineering coordination in addition to structural work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A structural engineer focuses on the building, while a civil engineer focuses on the site around it. If your project changes grading, drainage, sewer or water routing, driveway layout, retaining walls tied to site conditions, or utility connections, civil engineering may be needed as well. This is common in Los Angeles and nearby cities because many projects involve sloped lots, tight setbacks, existing utility constraints, or stormwater requirements. Even if the structure itself is simple, the site can create permit issues if drainage or utility plans are incomplete. Good engineering coordination makes sure the structural and civil work do not conflict. Homeowners should ask early whether the project changes the site enough to require civil involvement, because discovering that late can delay permit submittal.",
+      "@type": "Answer",
+      "description": "A project usually needs civil engineering when grading, drainage, drainage systems, utilities, driveways, or site layout are affected. Structural engineering covers the building itself, but civil engineering handles how the site works outside and around it. Many LA-area projects need both because site conditions often affect permit approval.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A structural engineer focuses on the building, while a civil engineer focuses on the site around it. If your project changes grading, drainage, sewer or water routing, driveway layout, retaining walls tied to site conditions, or utility connections, civil engineering may be needed as well. This is common in Los Angeles and nearby cities because many projects involve sloped lots, tight setbacks, existing utility constraints, or stormwater requirements. Even if the structure itself is simple, the site can create permit issues if drainage or utility plans are incomplete. Good engineering coordination makes sure the structural and civil work do not conflict. Homeowners should ask early whether the project changes the site enough to require civil involvement, because discovering that late can delay permit submittal.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A project usually needs civil engineering when grading, drainage, drainage systems, utilities, driveways, or site layout are affected. Structural engineering co"
+}

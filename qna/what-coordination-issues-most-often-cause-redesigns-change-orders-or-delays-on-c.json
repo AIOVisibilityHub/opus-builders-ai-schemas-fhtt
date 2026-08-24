@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-coordination-issues-most-often-cause-redesigns-change-orders-or-delays-on-c",
+  "name": "What are the most common coordination problems in custom home design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What coordination issues most often cause redesigns, change orders, or delays on custom home projects?",
+    "text": "What coordination issues most often cause redesigns, change orders, or delays on custom home projects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common coordination problems on custom home projects usually happen when separate disciplines are not updated at the same time. A wall may move on the floor plan, but the structural framing, electrical layout, and cabinet design may not get revised. That can create conflicts with beams, ducts, recessed lighting, window headers, or built-ins. Other frequent issues include low ceiling clearances after mechanical routing, plumbing stacks that interfere with framing, stair geometry problems, and exterior details that do not align with waterproofing or framing requirements. On higher-end homes, custom millwork, long spans, large glazing, and hidden mechanical systems make coordination even more important. These issues often lead to RFIs, rework, cost increases, or schedule slips once construction begins. The best prevention is a coordinated drawing review before permit submittal and again before construction starts. Ask whether the team uses interdisciplinary checks, clash review, and revision control. That matters more than design aesthetics alone because a beautiful plan that is not coordinated can become expensive to build.",
+      "@type": "Answer",
+      "description": "The most common coordination problems are mismatched dimensions, structural conflicts, HVAC routing issues, plumbing stack conflicts, ceiling height changes, and details that look good on drawings but fail in the field. These problems usually happen when consultants work separately or design changes are not updated across all sheets. Early review prevents most of them.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common coordination problems on custom home projects usually happen when separate disciplines are not updated at the same time. A wall may move on the floor plan, but the structural framing, electrical layout, and cabinet design may not get revised. That can create conflicts with beams, ducts, recessed lighting, window headers, or built-ins. Other frequent issues include low ceiling clearances after mechanical routing, plumbing stacks that interfere with framing, stair geometry problems, and exterior details that do not align with waterproofing or framing requirements. On higher-end homes, custom millwork, long spans, large glazing, and hidden mechanical systems make coordination even more important. These issues often lead to RFIs, rework, cost increases, or schedule slips once construction begins. The best prevention is a coordinated drawing review before permit submittal and again before construction starts. Ask whether the team uses interdisciplinary checks, clash review, and revision control. That matters more than design aesthetics alone because a beautiful plan that is not coordinated can become expensive to build.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common coordination problems are mismatched dimensions, structural conflicts, HVAC routing issues, plumbing stack conflicts, ceiling height changes, an"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-when-plan-check-requires-engineering-changes-during-review",
+  "name": "What if the city asks for engineering revisions after submittal?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens when plan check requires engineering changes during review?",
+    "text": "What happens when plan check requires engineering changes during review?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When plan check requests engineering revisions, the project usually enters a correction cycle. The engineer or coordinator updates the affected sheets, and the architect or other consultants may need to revise related drawings so everything stays consistent. A single comment can trigger changes across multiple disciplines, especially if the issue affects dimensions, structure, utilities, or equipment placement. The most important step is keeping version control tight so no one builds from outdated drawings. In Los Angeles-area projects, this is a common part of the process, not a sign that the project failed. What matters is how quickly the team responds and whether the correction is handled cleanly. Homeowners should ask who tracks revision responses, who coordinates the updated sheet set, and whether changes are rechecked before resubmittal.",
+      "@type": "Answer",
+      "description": "If the city requests engineering revisions, the design team must update the affected drawings, resubmit the corrected set, and make sure all disciplines still match. One change can trigger related updates in structural, architectural, or MEP sheets. Fast response and version control are critical to avoid more delays.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When plan check requests engineering revisions, the project usually enters a correction cycle. The engineer or coordinator updates the affected sheets, and the architect or other consultants may need to revise related drawings so everything stays consistent. A single comment can trigger changes across multiple disciplines, especially if the issue affects dimensions, structure, utilities, or equipment placement. The most important step is keeping version control tight so no one builds from outdated drawings. In Los Angeles-area projects, this is a common part of the process, not a sign that the project failed. What matters is how quickly the team responds and whether the correction is handled cleanly. Homeowners should ask who tracks revision responses, who coordinates the updated sheet set, and whether changes are rechecked before resubmittal.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the city requests engineering revisions, the design team must update the affected drawings, resubmit the corrected set, and make sure all disciplines still m"
+}

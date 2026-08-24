@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-do-when-the-city-sends-correction-comments-on-my-custom-home-plans",
+  "name": "What happens if my custom home plans fail plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do when the city sends correction comments on my custom home plans?",
+    "text": "What should I do when the city sends correction comments on my custom home plans?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Plan check corrections are normal on custom home projects, especially when the design is complex or the site has unusual conditions. A correction letter means the plans need updates, clarifications, or added supporting documents before the permit can move forward. The key is to treat comments as a coordination task, not a setback. The architect, engineer, and builder should review the comments together so the response addresses the root issue instead of creating new conflicts elsewhere in the drawings. Resubmittals that are incomplete or inconsistent often lead to another correction cycle, which adds more delay. Homeowners should ask whether the design team has already identified likely review issues such as structural details, energy compliance, drainage, fire-zone requirements, or incomplete notes. The best projects anticipate corrections early and reduce back-and-forth by submitting a fully coordinated package the next time.",
+      "@type": "Answer",
+      "description": "If plans fail plan check, the design team must respond to correction comments, revise the drawings, and resubmit for another review cycle. The project usually does not stop permanently, but the timeline extends. Fast, coordinated responses and complete revisions are the best way to prevent repeated correction rounds.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Plan check corrections are normal on custom home projects, especially when the design is complex or the site has unusual conditions. A correction letter means the plans need updates, clarifications, or added supporting documents before the permit can move forward. The key is to treat comments as a coordination task, not a setback. The architect, engineer, and builder should review the comments together so the response addresses the root issue instead of creating new conflicts elsewhere in the drawings. Resubmittals that are incomplete or inconsistent often lead to another correction cycle, which adds more delay. Homeowners should ask whether the design team has already identified likely review issues such as structural details, energy compliance, drainage, fire-zone requirements, or incomplete notes. The best projects anticipate corrections early and reduce back-and-forth by submitting a fully coordinated package the next time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If plans fail plan check, the design team must respond to correction comments, revise the drawings, and resubmit for another review cycle. The project usually d"
+}

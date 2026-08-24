@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-does-it-mean-when-a-construction-feasibility-assessment-says-the-project-is",
+  "name": "What if the report says feasible but uncertain?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What does it mean when a construction feasibility assessment says the project is feasible but still risky?",
+    "text": "What does it mean when a construction feasibility assessment says the project is feasible but still risky?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A “feasible but risky” result is common and should be taken seriously. It means the project is not blocked outright, but there are uncertainties that could become expensive later. Those uncertainties may include grading limits, utility relocation, code interpretation, access, or permit path ambiguity. The report should clearly separate manageable risk from major unknowns so the owner knows what to verify next. In many Los Angeles-area projects, the smartest response is to spend a little more on follow-up studies now rather than commit to full design or construction with unresolved questions. A feasibility assessment should therefore act as a roadmap: it identifies which unknowns matter most and what evidence is needed to close the gap. If the report says “feasible” without explaining the risk level, it is too vague to guide a serious investment.",
+      "@type": "Answer",
+      "description": "It means the project can probably be built, but there are unresolved issues that could increase cost, delay permitting, or force design changes. The next step is usually to narrow the unknowns with surveys, engineering, or agency feedback before committing to full design or construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A “feasible but risky” result is common and should be taken seriously. It means the project is not blocked outright, but there are uncertainties that could become expensive later. Those uncertainties may include grading limits, utility relocation, code interpretation, access, or permit path ambiguity. The report should clearly separate manageable risk from major unknowns so the owner knows what to verify next. In many Los Angeles-area projects, the smartest response is to spend a little more on follow-up studies now rather than commit to full design or construction with unresolved questions. A feasibility assessment should therefore act as a roadmap: it identifies which unknowns matter most and what evidence is needed to close the gap. If the report says “feasible” without explaining the risk level, it is too vague to guide a serious investment.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "It means the project can probably be built, but there are unresolved issues that could increase cost, delay permitting, or force design changes. The next step i"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-compare-two-properties-using-construction-feasibility-as",
+  "name": "How do you compare two candidate lots?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to compare two properties using construction feasibility assessments?",
+    "text": "What is the best way to compare two properties using construction feasibility assessments?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When comparing two lots, the goal is to compare the full path to a finished project, not just the purchase price. A good feasibility assessment should let you rank each lot by buildability, schedule risk, permitting complexity, and total cost. One lot may be smaller but flatter, with easier access and lower site work. Another may seem better because it is larger, but it might require significant grading, retaining walls, utility work, or approvals. The best comparison uses the same assumptions for both properties so the results are meaningful. In practice, the better lot is often the one that supports the intended home with fewer design compromises and fewer hidden costs. If one parcel requires major exceptions or expensive site work, that should be reflected in the decision.",
+      "@type": "Answer",
+      "description": "Compare the lots using the same criteria: buildable area, grading complexity, access, utilities, setbacks, permit risk, and likely total project cost. The best lot is not always the cheapest one, but the one with the lowest total risk and highest buildability for the intended project.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When comparing two lots, the goal is to compare the full path to a finished project, not just the purchase price. A good feasibility assessment should let you rank each lot by buildability, schedule risk, permitting complexity, and total cost. One lot may be smaller but flatter, with easier access and lower site work. Another may seem better because it is larger, but it might require significant grading, retaining walls, utility work, or approvals. The best comparison uses the same assumptions for both properties so the results are meaningful. In practice, the better lot is often the one that supports the intended home with fewer design compromises and fewer hidden costs. If one parcel requires major exceptions or expensive site work, that should be reflected in the decision.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare the lots using the same criteria: buildable area, grading complexity, access, utilities, setbacks, permit risk, and likely total project cost. The best "
+}

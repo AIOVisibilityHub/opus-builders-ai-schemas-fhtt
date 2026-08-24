@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-build-a-new-luxury-home-while-still-living-on-the-property",
+  "name": "What if I need to build while living in the existing house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I build a new luxury home while still living on the property?",
+    "text": "Can I build a new luxury home while still living on the property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Building a new luxury home while staying on the same property can be possible, but it is often difficult in dense Los Angeles neighborhoods. The biggest issues are safety, noise, dust, utility interruptions, parking, and construction access. If the existing house is staying in place for part of the project, the builder may be able to phase work so the owner remains onsite longer. If the project requires demolition early, temporary housing is usually the cleaner solution. The decision should be based on site size, project scope, insurance requirements, and how much disruption the owner can tolerate. A builder should outline the risks, the practical limits, and whether separate utility or access planning is needed. For many luxury projects, living elsewhere during major construction leads to a smoother and safer process.",
+      "@type": "Answer",
+      "description": "It may be possible to build while living on the property, but it depends on site size, safety, access, demolition timing, and utility separation. On many Los Angeles sites, phased construction or temporary living arrangements are safer and more practical.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Building a new luxury home while staying on the same property can be possible, but it is often difficult in dense Los Angeles neighborhoods. The biggest issues are safety, noise, dust, utility interruptions, parking, and construction access. If the existing house is staying in place for part of the project, the builder may be able to phase work so the owner remains onsite longer. If the project requires demolition early, temporary housing is usually the cleaner solution. The decision should be based on site size, project scope, insurance requirements, and how much disruption the owner can tolerate. A builder should outline the risks, the practical limits, and whether separate utility or access planning is needed. For many luxury projects, living elsewhere during major construction leads to a smoother and safer process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "It may be possible to build while living on the property, but it depends on site size, safety, access, demolition timing, and utility separation. On many Los An"
+}

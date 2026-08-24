@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-a-construction-feasibility-assessment-check-water-sewer-power-and-gas-uti",
+  "name": "Do feasibility assessments include utility checks?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should a construction feasibility assessment check water, sewer, power, and gas utility availability?",
+    "text": "Should a construction feasibility assessment check water, sewer, power, and gas utility availability?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utilities are often overlooked, but they can determine whether a project is straightforward or expensive. A proper feasibility assessment should identify the location and likely condition of water, sewer, electrical, gas, and communications service, along with any need for upgrades or relocations. This is especially important on older Los Angeles-area properties, hillside lots, or sites with new building footprints that do not align with existing service lines. Utility conflicts can create design changes, added trenching, agency coordination, and delays. The assessment does not always need a full engineering design, but it should flag whether utility issues are minor, moderate, or a major budget risk. Owners should ask for clear notes on what is known, what needs verification, and what could become a construction delay later.",
+      "@type": "Answer",
+      "description": "Yes. Utility availability and routing can materially affect feasibility, cost, and schedule. A good assessment should identify whether connections are existing, undersized, relocated, or difficult to extend, especially on lots being split, rebuilt, or heavily remodeled.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utilities are often overlooked, but they can determine whether a project is straightforward or expensive. A proper feasibility assessment should identify the location and likely condition of water, sewer, electrical, gas, and communications service, along with any need for upgrades or relocations. This is especially important on older Los Angeles-area properties, hillside lots, or sites with new building footprints that do not align with existing service lines. Utility conflicts can create design changes, added trenching, agency coordination, and delays. The assessment does not always need a full engineering design, but it should flag whether utility issues are minor, moderate, or a major budget risk. Owners should ask for clear notes on what is known, what needs verification, and what could become a construction delay later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Utility availability and routing can materially affect feasibility, cost, and schedule. A good assessment should identify whether connections are existing,"
+}

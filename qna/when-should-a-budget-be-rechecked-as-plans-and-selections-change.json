@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-should-a-budget-be-rechecked-as-plans-and-selections-change",
+  "name": "How often should a construction estimate be updated during design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When should a budget be rechecked as plans and selections change?",
+    "text": "When should a budget be rechecked as plans and selections change?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A construction estimate should be updated at each major design milestone, not only at the end. The most useful checkpoints are early concept, schematic design, design development, permit set, and pre-bid. If the owner changes the layout, adds square footage, upgrades finishes, or adds structural complexity, the estimate should be revised right away. This is especially important in high-cost markets like Los Angeles, where small scope changes can create large cost swings. Regular updates keep the team from discovering a budget problem too late to fix it. A good estimator will treat the budget as a living document and will note which assumptions have changed over time. That makes it easier to control value decisions before the project becomes locked in.",
+      "@type": "Answer",
+      "description": "A construction estimate should be updated whenever the design changes materially, after schematic design, after design development, and before permit submission or bidding. Major finish or scope changes should trigger another budget review immediately.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A construction estimate should be updated at each major design milestone, not only at the end. The most useful checkpoints are early concept, schematic design, design development, permit set, and pre-bid. If the owner changes the layout, adds square footage, upgrades finishes, or adds structural complexity, the estimate should be revised right away. This is especially important in high-cost markets like Los Angeles, where small scope changes can create large cost swings. Regular updates keep the team from discovering a budget problem too late to fix it. A good estimator will treat the budget as a living document and will note which assumptions have changed over time. That makes it easier to control value decisions before the project becomes locked in.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A construction estimate should be updated whenever the design changes materially, after schematic design, after design development, and before permit submission"
+}

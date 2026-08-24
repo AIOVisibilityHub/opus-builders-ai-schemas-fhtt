@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-problems-usually-come-up-when-coordinating-engineering-for-hillside-homes-i",
+  "name": "What engineering issues are most common in hillside homes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What problems usually come up when coordinating engineering for hillside homes in Los Angeles?",
+    "text": "What problems usually come up when coordinating engineering for hillside homes in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside homes create some of the hardest coordination problems because the site itself affects the structure and utility layout. Common issues include deep foundations, retaining walls, slope stability, drainage control, access for excavation, and how to run utilities without creating future water or settlement problems. In Los Angeles-area hillside neighborhoods, engineering coordination often has to account for grading limits, geotechnical recommendations, and sequencing constraints so the house can actually be built on the site. If one discipline changes a wall, slab, or driveway elevation, it can affect the entire design. That is why hillside projects benefit from early, tightly managed coordination between the architect, structural engineer, civil engineer, geotechnical consultant, and contractor. Homeowners should expect more review time, more revisions, and more site-specific detail than on a flat-lot project.",
+      "@type": "Answer",
+      "description": "Common hillside issues include foundation design, retaining walls, slope stability, drainage, access for construction, and utility routing. These projects often need extra grading review and careful coordination between structural and civil engineering. Small design changes can affect soil loads, drainage paths, and permit approval.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside homes create some of the hardest coordination problems because the site itself affects the structure and utility layout. Common issues include deep foundations, retaining walls, slope stability, drainage control, access for excavation, and how to run utilities without creating future water or settlement problems. In Los Angeles-area hillside neighborhoods, engineering coordination often has to account for grading limits, geotechnical recommendations, and sequencing constraints so the house can actually be built on the site. If one discipline changes a wall, slab, or driveway elevation, it can affect the entire design. That is why hillside projects benefit from early, tightly managed coordination between the architect, structural engineer, civil engineer, geotechnical consultant, and contractor. Homeowners should expect more review time, more revisions, and more site-specific detail than on a flat-lot project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common hillside issues include foundation design, retaining walls, slope stability, drainage, access for construction, and utility routing. These projects often"
+}

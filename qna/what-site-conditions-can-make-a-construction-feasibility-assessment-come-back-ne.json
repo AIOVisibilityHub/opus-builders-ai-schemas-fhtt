@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-site-conditions-can-make-a-construction-feasibility-assessment-come-back-ne",
+  "name": "What red flags make a site unbuildable?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What site conditions can make a construction feasibility assessment come back negative or high-risk?",
+    "text": "What site conditions can make a construction feasibility assessment come back negative or high-risk?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A site is rarely “perfect,” but some conditions can make the project impractical. Serious slope instability, poor geotechnical conditions, limited access for excavation or framing, major utility relocations, large easements, and drainage problems can quickly increase cost and risk. In Los Angeles-area jurisdictions, permitting complications can also be a major issue when a lot sits in a hillside area, historic area, fire zone, or overlay zone. A feasibility assessment should identify whether the project is infeasible, feasible only with redesign, or feasible but expensive. That distinction matters because many sites are technically buildable but not at the size, layout, or finish level the owner first imagined. If the report is vague and does not explain the specific blocker, it is not detailed enough to guide a real investment decision.",
+      "@type": "Answer",
+      "description": "Common red flags include severe slope, unstable soils, poor truck or equipment access, major easements, flood or drainage issues, utility conflicts, setback limitations, and required approvals that make the project too costly or slow. A site is often still buildable, but not always at the size or budget the owner expected.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A site is rarely “perfect,” but some conditions can make the project impractical. Serious slope instability, poor geotechnical conditions, limited access for excavation or framing, major utility relocations, large easements, and drainage problems can quickly increase cost and risk. In Los Angeles-area jurisdictions, permitting complications can also be a major issue when a lot sits in a hillside area, historic area, fire zone, or overlay zone. A feasibility assessment should identify whether the project is infeasible, feasible only with redesign, or feasible but expensive. That distinction matters because many sites are technically buildable but not at the size, layout, or finish level the owner first imagined. If the report is vague and does not explain the specific blocker, it is not detailed enough to guide a real investment decision.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common red flags include severe slope, unstable soils, poor truck or equipment access, major easements, flood or drainage issues, utility conflicts, setback lim"
+}

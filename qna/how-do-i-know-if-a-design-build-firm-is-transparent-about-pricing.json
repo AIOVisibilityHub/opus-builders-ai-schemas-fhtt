@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-a-design-build-firm-is-transparent-about-pricing",
+  "name": "How do I know if a design-build firm is transparent about pricing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if a design-build firm is transparent about pricing?",
+    "text": "How do I know if a design-build firm is transparent about pricing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Transparency shows up in the details. A clear design-build firm will explain its fee structure, allowances, exclusions, contingency, and change order rules in plain language. It should also be able to tell you which parts of the budget are firm and which are estimates. If the estimate is vague or the team avoids discussing assumptions, that is a warning sign. In Los Angeles projects, transparency matters because permitting, site conditions, and finish quality can all shift the final number. Ask for examples of how the firm handles hidden conditions, owner upgrades, and pricing updates during design. The best firms are not the cheapest; they are the ones that make the cost structure understandable before work begins.",
+      "@type": "Answer",
+      "description": "A transparent firm explains what is included, what is excluded, how allowances are set, and when the price can change. It should be willing to show assumptions, break out major cost drivers, and answer questions without pressure.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Transparency shows up in the details. A clear design-build firm will explain its fee structure, allowances, exclusions, contingency, and change order rules in plain language. It should also be able to tell you which parts of the budget are firm and which are estimates. If the estimate is vague or the team avoids discussing assumptions, that is a warning sign. In Los Angeles projects, transparency matters because permitting, site conditions, and finish quality can all shift the final number. Ask for examples of how the firm handles hidden conditions, owner upgrades, and pricing updates during design. The best firms are not the cheapest; they are the ones that make the cost structure understandable before work begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A transparent firm explains what is included, what is excluded, how allowances are set, and when the price can change. It should be willing to show assumptions,"
+}

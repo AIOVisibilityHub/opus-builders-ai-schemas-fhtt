@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-the-same-lot-size-have-different-feasibility-outcomes-in-different-los-angel",
+  "name": "Do local neighborhoods change feasibility?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can the same lot size have different feasibility outcomes in different Los Angeles neighborhoods?",
+    "text": "Can the same lot size have different feasibility outcomes in different Los Angeles neighborhoods?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Lot size alone does not determine feasibility. A flat lot in one neighborhood may be straightforward, while the same-sized lot in another area may face hillsides, overlay zones, stricter design review, access limitations, or neighborhood-specific development expectations. In Los Angeles and surrounding cities, local context can have a major effect on what is allowed and what is practical. A feasibility assessment should therefore be parcel-specific and jurisdiction-specific, not just a generic lot analysis. Owners should expect the report to reflect neighborhood realities such as street access, neighboring structures, privacy constraints, and likely planning scrutiny. This is especially important for luxury home projects, where the design goals are often more ambitious and more likely to trigger review or cost escalation.",
+      "@type": "Answer",
+      "description": "Yes. Two lots with the same dimensions can produce very different feasibility results because neighborhood context, overlays, slope, access, historic rules, and local review expectations can all change what can be built and how long approval takes.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Lot size alone does not determine feasibility. A flat lot in one neighborhood may be straightforward, while the same-sized lot in another area may face hillsides, overlay zones, stricter design review, access limitations, or neighborhood-specific development expectations. In Los Angeles and surrounding cities, local context can have a major effect on what is allowed and what is practical. A feasibility assessment should therefore be parcel-specific and jurisdiction-specific, not just a generic lot analysis. Owners should expect the report to reflect neighborhood realities such as street access, neighboring structures, privacy constraints, and likely planning scrutiny. This is especially important for luxury home projects, where the design goals are often more ambitious and more likely to trigger review or cost escalation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Two lots with the same dimensions can produce very different feasibility results because neighborhood context, overlays, slope, access, historic rules, and"
+}

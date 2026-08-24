@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-usually-happens-right-after-a-design-build-project-starts-on-site",
+  "name": "What should a homeowner expect during the first 30 days of construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What usually happens right after a design-build project starts on site?",
+    "text": "What usually happens right after a design-build project starts on site?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The first month of construction usually focuses on setup and discovery. The crew may install protections, set up staging, complete demolition, and begin structural, framing, or rough utility work. It is also common for hidden conditions to appear during this phase, which can affect scope or timing. Homeowners should expect more activity and more questions during this period than later in the project, because the team is establishing the project rhythm. A good design-build firm will communicate daily progress, upcoming milestones, and any issues that need decisions. The first 30 days are important because they set expectations for the rest of the job. A well-organized start usually predicts a smoother finish.",
+      "@type": "Answer",
+      "description": "The first 30 days often include mobilization, protection of existing spaces, demolition, site setup, inspections, and initial structural or utility work. This is also when hidden conditions may appear and small schedule adjustments are made. Clear communication is especially important during this phase.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The first month of construction usually focuses on setup and discovery. The crew may install protections, set up staging, complete demolition, and begin structural, framing, or rough utility work. It is also common for hidden conditions to appear during this phase, which can affect scope or timing. Homeowners should expect more activity and more questions during this period than later in the project, because the team is establishing the project rhythm. A good design-build firm will communicate daily progress, upcoming milestones, and any issues that need decisions. The first 30 days are important because they set expectations for the rest of the job. A well-organized start usually predicts a smoother finish.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The first 30 days often include mobilization, protection of existing spaces, demolition, site setup, inspections, and initial structural or utility work. This i"
+}

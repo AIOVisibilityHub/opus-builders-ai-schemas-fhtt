@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-items-need-to-be-clearly-defined-in-a-custom-home-construction-agreement",
+  "name": "What should a custom home contract include before construction starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What items need to be clearly defined in a custom home construction agreement?",
+    "text": "What items need to be clearly defined in a custom home construction agreement?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong custom home contract should explain exactly what is being built, what materials are included, and how cost changes will be handled. It should define the base scope, allowances, exclusions, payment milestones, timeline assumptions, warranty terms, and the process for changes or unforeseen site conditions. If the builder is handling permits, the contract should say so clearly; if the owner is responsible for certain consultant fees or approvals, that should also be explicit. The contract should also address how delays are treated when they are caused by design revisions, owner selections, or permitting issues. In custom luxury projects, vague contracts create friction because the finish level and scope often evolve during the project. Clear documentation at the start makes it much easier to manage expectations and avoid disputes later.",
+      "@type": "Answer",
+      "description": "A custom home contract should clearly define scope, allowances, exclusions, payment schedule, change-order process, timeline assumptions, and who is responsible for permits and inspections. It should also identify what happens if site conditions change. Clear terms help prevent misunderstandings during construction.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong custom home contract should explain exactly what is being built, what materials are included, and how cost changes will be handled. It should define the base scope, allowances, exclusions, payment milestones, timeline assumptions, warranty terms, and the process for changes or unforeseen site conditions. If the builder is handling permits, the contract should say so clearly; if the owner is responsible for certain consultant fees or approvals, that should also be explicit. The contract should also address how delays are treated when they are caused by design revisions, owner selections, or permitting issues. In custom luxury projects, vague contracts create friction because the finish level and scope often evolve during the project. Clear documentation at the start makes it much easier to manage expectations and avoid disputes later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A custom home contract should clearly define scope, allowances, exclusions, payment schedule, change-order process, timeline assumptions, and who is responsible"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-remodels-require-more-coordination-than-new-construction-because-of-existing",
+  "name": "How does architectural coordination differ for remodels versus new builds?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do remodels require more coordination than new construction because of existing conditions and hidden field issues?",
+    "text": "Do remodels require more coordination than new construction because of existing conditions and hidden field issues?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Remodels often require more coordination than new construction because the design team has to work around existing conditions that are not always fully known at the start. Walls, foundations, framing, utilities, and finishes may differ from the original assumptions, which means the drawings need more verification and flexibility. New construction can be cleaner to document because the team starts with a blank slate. However, new builds may involve larger systems, more consultants, and more custom details, which can also increase coordination demands. The difference is less about which type is easier and more about where the risks are. For remodels, coordination should include field verification, existing-condition review, and a realistic plan for unknowns. For new builds, coordination should focus on keeping all consultants aligned and locking decisions early enough to avoid redesign. Ask how the team handles discovered conditions, because that is one of the biggest factors in a remodel’s success.",
+      "@type": "Answer",
+      "description": "Remodels often require more coordination than new builds because the team must work around existing structure, hidden conditions, and unknown site constraints. New builds are usually cleaner to document, but they can involve more consultant scope and larger system coordination. The risk profile is different, not necessarily smaller.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Remodels often require more coordination than new construction because the design team has to work around existing conditions that are not always fully known at the start. Walls, foundations, framing, utilities, and finishes may differ from the original assumptions, which means the drawings need more verification and flexibility. New construction can be cleaner to document because the team starts with a blank slate. However, new builds may involve larger systems, more consultants, and more custom details, which can also increase coordination demands. The difference is less about which type is easier and more about where the risks are. For remodels, coordination should include field verification, existing-condition review, and a realistic plan for unknowns. For new builds, coordination should focus on keeping all consultants aligned and locking decisions early enough to avoid redesign. Ask how the team handles discovered conditions, because that is one of the biggest factors in a remodel’s success.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Remodels often require more coordination than new builds because the team must work around existing structure, hidden conditions, and unknown site constraints. "
+}

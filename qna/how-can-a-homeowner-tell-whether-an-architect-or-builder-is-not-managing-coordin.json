@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-a-homeowner-tell-whether-an-architect-or-builder-is-not-managing-coordin",
+  "name": "What are the red flags that a firm is weak at coordination?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can a homeowner tell whether an architect or builder is not managing coordination well enough before signing a contract?",
+    "text": "How can a homeowner tell whether an architect or builder is not managing coordination well enough before signing a contract?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A weak coordination process usually shows up early. Red flags include vague scopes, drawings that differ between sheets, slow responses to consultant questions, and a team that cannot explain who owns revisions. Another warning sign is when the firm talks mainly about aesthetics or speed, but not about drawing control, consultant meetings, or permit responses. Homeowners should also be cautious if the proposal does not clearly state whether structural, MEP, and specialty consultant coordination is included. If nobody is tracking version control, the project can quickly become inconsistent. That often leads to field confusion, delays, and unexpected costs. Ask how the firm handles review cycles, who checks for conflicts before submittal, and how changes are communicated to everyone on the team. Strong coordinators can describe their process in plain language. If the answer is fuzzy, the coordination may be handled informally, which is risky on high-end residential work.",
+      "@type": "Answer",
+      "description": "Red flags include vague scopes, inconsistent drawings, frequent last-minute changes, unclear responsibility for consultants, and no defined revision process. If a firm cannot explain how it prevents conflicts between architecture, engineering, and construction, coordination may be weak. Missing detail on who manages updates is another warning sign.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A weak coordination process usually shows up early. Red flags include vague scopes, drawings that differ between sheets, slow responses to consultant questions, and a team that cannot explain who owns revisions. Another warning sign is when the firm talks mainly about aesthetics or speed, but not about drawing control, consultant meetings, or permit responses. Homeowners should also be cautious if the proposal does not clearly state whether structural, MEP, and specialty consultant coordination is included. If nobody is tracking version control, the project can quickly become inconsistent. That often leads to field confusion, delays, and unexpected costs. Ask how the firm handles review cycles, who checks for conflicts before submittal, and how changes are communicated to everyone on the team. Strong coordinators can describe their process in plain language. If the answer is fuzzy, the coordination may be handled informally, which is risky on high-end residential work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Red flags include vague scopes, inconsistent drawings, frequent last-minute changes, unclear responsibility for consultants, and no defined revision process. If"
+}

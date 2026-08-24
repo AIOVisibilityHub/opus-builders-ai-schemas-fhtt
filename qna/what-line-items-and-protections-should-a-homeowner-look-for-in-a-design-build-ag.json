@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-line-items-and-protections-should-a-homeowner-look-for-in-a-design-build-ag",
+  "name": "What should be included in a design-build contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What line items and protections should a homeowner look for in a design-build agreement?",
+    "text": "What line items and protections should a homeowner look for in a design-build agreement?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A complete design-build contract should spell out the project scope, design responsibilities, deliverables, materials, payment schedule, and how revisions are approved. It should identify whether the contractor or owner is responsible for permits, engineering, survey work, and selections. It should also explain allowances for finishes, how unforeseen conditions are priced, and how change orders are documented. For luxury projects, the contract should be especially clear about custom cabinetry, stone, appliances, millwork, and imported materials. Homeowners should also confirm warranty terms, project milestones, cleanup responsibilities, and how delays are handled. A vague agreement can create confusion when the project reaches construction. The best contracts make assumptions visible upfront so the homeowner understands what is included before signing.",
+      "@type": "Answer",
+      "description": "A strong design-build contract should clearly define scope, drawings, allowances, schedule, payment terms, change order rules, warranty coverage, and exclusions. It should also identify who handles permits, engineering, inspections, and subcontractor coordination. The more specific the contract, the less chance of disputes later.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A complete design-build contract should spell out the project scope, design responsibilities, deliverables, materials, payment schedule, and how revisions are approved. It should identify whether the contractor or owner is responsible for permits, engineering, survey work, and selections. It should also explain allowances for finishes, how unforeseen conditions are priced, and how change orders are documented. For luxury projects, the contract should be especially clear about custom cabinetry, stone, appliances, millwork, and imported materials. Homeowners should also confirm warranty terms, project milestones, cleanup responsibilities, and how delays are handled. A vague agreement can create confusion when the project reaches construction. The best contracts make assumptions visible upfront so the homeowner understands what is included before signing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A strong design-build contract should clearly define scope, drawings, allowances, schedule, payment terms, change order rules, warranty coverage, and exclusions"
+}

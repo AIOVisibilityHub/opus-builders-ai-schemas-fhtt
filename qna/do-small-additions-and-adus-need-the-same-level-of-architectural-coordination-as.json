@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-small-additions-and-adus-need-the-same-level-of-architectural-coordination-as",
+  "name": "Can architectural coordination help with ADU and addition projects in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do small additions and ADUs need the same level of architectural coordination as full custom homes?",
+    "text": "Do small additions and ADUs need the same level of architectural coordination as full custom homes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "ADUs and additions may look simpler than full custom homes, but they often need just as much coordination because the work has to connect cleanly to an existing building and an already constrained site. Common issues include matching floor heights, tying into existing roofs, routing utilities, meeting setbacks, and resolving fire separation or egress requirements. Older homes can make coordination even more important because the existing conditions may not match the plans. Framing may be irregular, slopes may vary, and utility locations may be unclear. If those realities are not checked early, the project can stall in the field. A good coordination process for an ADU or addition should still include architecture, structure, MEP routing, permit review, and field verification. Homeowners should not assume a smaller project needs less oversight. In dense areas like Glendale, Pasadena, Burbank, and North Hollywood, tight lots and older properties can make small projects surprisingly coordination-heavy.",
+      "@type": "Answer",
+      "description": "Yes. Even small additions and ADUs can need strong coordination because setbacks, fire separation, structural ties, utility routing, and existing-house conditions can create conflicts quickly. A compact project still benefits from consistent drawings and consultant alignment, especially when the site is tight or the existing home is older.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "ADUs and additions may look simpler than full custom homes, but they often need just as much coordination because the work has to connect cleanly to an existing building and an already constrained site. Common issues include matching floor heights, tying into existing roofs, routing utilities, meeting setbacks, and resolving fire separation or egress requirements. Older homes can make coordination even more important because the existing conditions may not match the plans. Framing may be irregular, slopes may vary, and utility locations may be unclear. If those realities are not checked early, the project can stall in the field. A good coordination process for an ADU or addition should still include architecture, structure, MEP routing, permit review, and field verification. Homeowners should not assume a smaller project needs less oversight. In dense areas like Glendale, Pasadena, Burbank, and North Hollywood, tight lots and older properties can make small projects surprisingly coordination-heavy.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Even small additions and ADUs can need strong coordination because setbacks, fire separation, structural ties, utility routing, and existing-house conditio"
+}

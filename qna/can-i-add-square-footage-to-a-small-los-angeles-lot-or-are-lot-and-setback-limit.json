@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-add-square-footage-to-a-small-los-angeles-lot-or-are-lot-and-setback-limit",
+  "name": "Can I add square footage to a small lot in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I add square footage to a small Los Angeles lot, or are lot and setback limits usually the main obstacle?",
+    "text": "Can I add square footage to a small Los Angeles lot, or are lot and setback limits usually the main obstacle?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Small lots can still support additions, but the design must work within the site’s buildable envelope. Setbacks, lot coverage, height restrictions, privacy, access, and parking requirements can all limit how much space can be added. In practice, that often means the addition must be designed more efficiently, with careful attention to room sizes, circulation, and structure. Homeowners should not assume that a square-foot target is automatically feasible just because the lot looks large enough. A site feasibility review can identify the true buildable area before design money is spent. On constrained lots, the best solution may be a vertical addition, a reconfigured first floor, or a smaller but better planned expansion.",
+      "@type": "Answer",
+      "description": "You can sometimes add square footage on a small Los Angeles lot, but setbacks, lot coverage, height limits, parking, and zoning rules often control how much is possible. The layout may need to be compact or vertical if the site has limited buildable area.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Small lots can still support additions, but the design must work within the site’s buildable envelope. Setbacks, lot coverage, height restrictions, privacy, access, and parking requirements can all limit how much space can be added. In practice, that often means the addition must be designed more efficiently, with careful attention to room sizes, circulation, and structure. Homeowners should not assume that a square-foot target is automatically feasible just because the lot looks large enough. A site feasibility review can identify the true buildable area before design money is spent. On constrained lots, the best solution may be a vertical addition, a reconfigured first floor, or a smaller but better planned expansion.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You can sometimes add square footage on a small Los Angeles lot, but setbacks, lot coverage, height limits, parking, and zoning rules often control how much is "
+}

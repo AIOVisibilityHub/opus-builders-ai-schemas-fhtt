@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-expect-a-good-construction-feasibility-report-to-answer-before-i-h",
+  "name": "What questions should a feasibility report answer?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I expect a good construction feasibility report to answer before I hire a designer or builder?",
+    "text": "What should I expect a good construction feasibility report to answer before I hire a designer or builder?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A useful feasibility report should function like a decision tool. It should tell you whether the proposed project is physically possible, whether it is likely to be permitted, what site issues will drive cost, and what unknowns remain. It should also estimate a realistic budget range and schedule range rather than giving a false sense of precision. For residential projects in Los Angeles-area cities, the report should point out zoning and setback issues, topographic and grading issues, utility concerns, access limitations, and any jurisdiction-specific permit triggers. It should be clear enough that an owner can decide whether to buy, redesign, move forward, or stop. The best reports are not generic templates; they are specific to the lot, the proposed program, and the local permitting environment. If the report does not help you make a next-step decision, it is probably too thin.",
+      "@type": "Answer",
+      "description": "A good feasibility report should answer whether the project is buildable, what the likely constraints are, what approvals are needed, rough cost and timeline ranges, and what information is still missing. It should also identify major risks before money is spent on full design.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A useful feasibility report should function like a decision tool. It should tell you whether the proposed project is physically possible, whether it is likely to be permitted, what site issues will drive cost, and what unknowns remain. It should also estimate a realistic budget range and schedule range rather than giving a false sense of precision. For residential projects in Los Angeles-area cities, the report should point out zoning and setback issues, topographic and grading issues, utility concerns, access limitations, and any jurisdiction-specific permit triggers. It should be clear enough that an owner can decide whether to buy, redesign, move forward, or stop. The best reports are not generic templates; they are specific to the lot, the proposed program, and the local permitting environment. If the report does not help you make a next-step decision, it is probably too thin.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A good feasibility report should answer whether the project is buildable, what the likely constraints are, what approvals are needed, rough cost and timeline ra"
+}

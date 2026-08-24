@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-does-engineering-coordination-help-speed-up-permits",
+  "name": "Why do coordinated engineering plans reduce permit delays?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why does engineering coordination help speed up permits?",
+    "text": "Why does engineering coordination help speed up permits?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit delays often happen when different plan sets do not match each other. A structural sheet may show one beam location while the architectural plan shows another, or the civil grading plan may conflict with drainage, utility, or foundation details. Engineering coordination reduces those mismatches before submittal, which helps the permit reviewer focus on compliance instead of correcting drawing conflicts. In Southern California cities, even small inconsistencies can trigger multiple correction rounds. Good coordination can also prevent last-minute resubmittals caused by missing notes, unclear dimensions, or unresolved utility conflicts. Homeowners and builders should look for a team that coordinates across disciplines before plan check, tracks revisions carefully, and keeps a single current set of drawings. The result is usually a smoother permit path, fewer surprises, and less time spent responding to correction comments.",
+      "@type": "Answer",
+      "description": "Coordinated plans reduce permit delays because reviewers see fewer contradictions between architectural, structural, civil, and MEP drawings. When sheets match, plan check comments are shorter and fewer revisions are needed. Strong coordination also lowers the chance that one discipline creates a problem for another during review.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit delays often happen when different plan sets do not match each other. A structural sheet may show one beam location while the architectural plan shows another, or the civil grading plan may conflict with drainage, utility, or foundation details. Engineering coordination reduces those mismatches before submittal, which helps the permit reviewer focus on compliance instead of correcting drawing conflicts. In Southern California cities, even small inconsistencies can trigger multiple correction rounds. Good coordination can also prevent last-minute resubmittals caused by missing notes, unclear dimensions, or unresolved utility conflicts. Homeowners and builders should look for a team that coordinates across disciplines before plan check, tracks revisions carefully, and keeps a single current set of drawings. The result is usually a smoother permit path, fewer surprises, and less time spent responding to correction comments.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Coordinated plans reduce permit delays because reviewers see fewer contradictions between architectural, structural, civil, and MEP drawings. When sheets match,"
+}

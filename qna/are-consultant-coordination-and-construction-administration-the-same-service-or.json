@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-consultant-coordination-and-construction-administration-the-same-service-or",
+  "name": "What is the difference between consultant coordination and construction administration?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are consultant coordination and construction administration the same service, or do they happen at different stages?",
+    "text": "Are consultant coordination and construction administration the same service, or do they happen at different stages?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Consultant coordination and construction administration are related, but they serve different parts of the project. Consultant coordination happens primarily during design and documentation. It focuses on aligning the architect, structural engineer, MEP consultants, and any specialty consultants so the permit set is complete and internally consistent. Construction administration begins once the project is under construction. It covers submittals, RFIs, site visits, punch lists, and responses to field conditions that arise during building. At that stage, coordination still matters, but the emphasis shifts from design alignment to construction support and issue resolution. For homeowners, the distinction matters because a firm may be strong in design coordination but light on field administration, or vice versa. On luxury homes, both are important. If construction administration is not included, the project may still run into delays when a contractor needs quick clarification. Ask whether the service includes only pre-construction coordination or also support during the build and closeout.",
+      "@type": "Answer",
+      "description": "Consultant coordination happens when the design team aligns architecture, engineering, and specialty consultants during planning and documentation. Construction administration happens after construction starts and focuses on submittals, RFIs, site observations, and resolving field issues. They are related but occur at different stages.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Consultant coordination and construction administration are related, but they serve different parts of the project. Consultant coordination happens primarily during design and documentation. It focuses on aligning the architect, structural engineer, MEP consultants, and any specialty consultants so the permit set is complete and internally consistent. Construction administration begins once the project is under construction. It covers submittals, RFIs, site visits, punch lists, and responses to field conditions that arise during building. At that stage, coordination still matters, but the emphasis shifts from design alignment to construction support and issue resolution. For homeowners, the distinction matters because a firm may be strong in design coordination but light on field administration, or vice versa. On luxury homes, both are important. If construction administration is not included, the project may still run into delays when a contractor needs quick clarification. Ask whether the service includes only pre-construction coordination or also support during the build and closeout.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Consultant coordination happens when the design team aligns architecture, engineering, and specialty consultants during planning and documentation. Construction"
+}

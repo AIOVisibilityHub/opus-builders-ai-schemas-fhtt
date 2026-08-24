@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-if-the-coordination-on-my-project-is-not-being-handled-well",
+  "name": "What are signs that an engineering coordination team is weak?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell if the coordination on my project is not being handled well?",
+    "text": "How can I tell if the coordination on my project is not being handled well?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Weak engineering coordination usually shows up as repeated mistakes and slow correction cycles. Common signs include drawings that disagree with each other, missing details, unclear responsibilities, outdated versions being circulated, and repeated discovery of the same conflict after every review. If permit comments keep returning because the same issues were not resolved, or if construction teams are constantly asking for clarification, the coordination process is probably not working well. In a high-end project, those warning signs can become expensive quickly. Homeowners should expect a proactive system with clear revision tracking, regular review points, and direct communication between consultants. If the process feels improvised, that is usually a red flag.",
+      "@type": "Answer",
+      "description": "Warning signs include repeated drawing conflicts, unclear revision control, slow responses to comments, inconsistent dimensions, and consultants who do not seem to review each other’s work. Another red flag is when issues are discovered only after permit comments or construction has started. Good coordination should feel organized and proactive.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Weak engineering coordination usually shows up as repeated mistakes and slow correction cycles. Common signs include drawings that disagree with each other, missing details, unclear responsibilities, outdated versions being circulated, and repeated discovery of the same conflict after every review. If permit comments keep returning because the same issues were not resolved, or if construction teams are constantly asking for clarification, the coordination process is probably not working well. In a high-end project, those warning signs can become expensive quickly. Homeowners should expect a proactive system with clear revision tracking, regular review points, and direct communication between consultants. If the process feels improvised, that is usually a red flag.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Warning signs include repeated drawing conflicts, unclear revision control, slow responses to comments, inconsistent dimensions, and consultants who do not seem"
+}

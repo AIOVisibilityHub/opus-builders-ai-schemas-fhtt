@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-reliable-are-the-cost-estimates-in-a-construction-feasibility-assessment",
+  "name": "How accurate are feasibility cost ranges?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How reliable are the cost estimates in a construction feasibility assessment?",
+    "text": "How reliable are the cost estimates in a construction feasibility assessment?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Cost ranges in a feasibility assessment should be treated as decision-making tools, not fixed prices. At this stage, the goal is to understand whether the project is likely to land within a realistic budget band and which elements are driving the estimate. Accuracy improves when the assessment has good site data, a clear scope, and local construction knowledge. It becomes less reliable when there are missing surveys, incomplete design assumptions, or unknown subsurface conditions. That is why the report should clearly state its assumptions and limitations. For owners, the right question is not whether the estimate is perfect, but whether it is good enough to avoid an unwise investment. A credible assessment should usually be conservative enough to protect the owner without being so inflated that it becomes useless.",
+      "@type": "Answer",
+      "description": "Feasibility cost ranges are directional, not final bids. They are most useful for comparing options and testing whether the project is financially realistic, but they should be refined later with surveys, engineering, and contractor input.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Cost ranges in a feasibility assessment should be treated as decision-making tools, not fixed prices. At this stage, the goal is to understand whether the project is likely to land within a realistic budget band and which elements are driving the estimate. Accuracy improves when the assessment has good site data, a clear scope, and local construction knowledge. It becomes less reliable when there are missing surveys, incomplete design assumptions, or unknown subsurface conditions. That is why the report should clearly state its assumptions and limitations. For owners, the right question is not whether the estimate is perfect, but whether it is good enough to avoid an unwise investment. A credible assessment should usually be conservative enough to protect the owner without being so inflated that it becomes useless.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Feasibility cost ranges are directional, not final bids. They are most useful for comparing options and testing whether the project is financially realistic, bu"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-builder-review-plans-for-constructability-before-construction-starts",
+  "name": "What does constructability review mean in preconstruction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a builder review plans for constructability before construction starts?",
+    "text": "How does a builder review plans for constructability before construction starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Constructability review is the process of checking design documents to see whether the project can be built efficiently and without avoidable problems. A builder reviewing constructability looks for conflicts between drawings, unclear details, difficult sequencing, access challenges, and items that may be expensive or impractical in the field. This step is important because not every design decision that looks good on paper is easy to build. Some details may require excessive labor, special materials, or complex coordination with other trades. When those issues are identified early, the team can adjust the design before construction starts. For Los Angeles homes, constructability review can be especially valuable because sites may be tight, sloped, or surrounded by existing structures. That can affect staging, access, and material delivery. A good constructability review also considers permit risk and whether the drawings are clear enough for plan check and subcontractor pricing. Ask your builder how they perform constructability review and whether they document the issues they find. The best reviews produce practical recommendations, not just criticism. The goal is to make the design easier to build, easier to price, and less likely to generate change orders later.",
+      "@type": "Answer",
+      "description": "Constructability review means checking whether the plans can actually be built as drawn, on time, and within budget. The review looks for conflicts, unclear details, sequencing problems, material issues, and code-related risks. It helps catch expensive mistakes early, before they become field changes or permit delays.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Constructability review is the process of checking design documents to see whether the project can be built efficiently and without avoidable problems. A builder reviewing constructability looks for conflicts between drawings, unclear details, difficult sequencing, access challenges, and items that may be expensive or impractical in the field. This step is important because not every design decision that looks good on paper is easy to build. Some details may require excessive labor, special materials, or complex coordination with other trades. When those issues are identified early, the team can adjust the design before construction starts. For Los Angeles homes, constructability review can be especially valuable because sites may be tight, sloped, or surrounded by existing structures. That can affect staging, access, and material delivery. A good constructability review also considers permit risk and whether the drawings are clear enough for plan check and subcontractor pricing. Ask your builder how they perform constructability review and whether they document the issues they find. The best reviews produce practical recommendations, not just criticism. The goal is to make the design easier to build, easier to price, and less likely to generate change orders later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Constructability review means checking whether the plans can actually be built as drawn, on time, and within budget. The review looks for conflicts, unclear det"
+}

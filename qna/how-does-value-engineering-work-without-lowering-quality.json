@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-value-engineering-work-without-lowering-quality",
+  "name": "What is value engineering in preconstruction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does value engineering work without lowering quality?",
+    "text": "How does value engineering work without lowering quality?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Value engineering in preconstruction should improve the project, not simply make it cheaper. The best version of value engineering asks which parts of the design create the most cost, delay, or construction complexity and whether there is a better way to achieve the same outcome. That may involve simplifying details, changing assemblies, standardizing dimensions, or selecting materials that are easier to source and install. For luxury residential projects, value engineering has to be handled carefully because the design intent matters. A good team should protect the look and function of the home while reducing unnecessary complexity. For example, a custom detail might be replaced with a simpler but visually similar detail that saves labor without hurting the experience. The key is that value engineering should happen early enough to matter. If it is done after plans are locked or construction has started, the options are usually worse and more disruptive. Ask your builder to identify where the biggest cost drivers are and which decisions have the most flexibility. That turns value engineering into a strategic tool instead of a last-minute compromise. The goal is a better project, not just a lower number.",
+      "@type": "Answer",
+      "description": "Value engineering is the process of changing materials, details, sequencing, or scope to improve cost, schedule, or constructability while protecting the project’s goals. Good value engineering is not about cheapening the design. It focuses on getting the same or better result with less risk, fewer labor hours, or simpler execution.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Value engineering in preconstruction should improve the project, not simply make it cheaper. The best version of value engineering asks which parts of the design create the most cost, delay, or construction complexity and whether there is a better way to achieve the same outcome. That may involve simplifying details, changing assemblies, standardizing dimensions, or selecting materials that are easier to source and install. For luxury residential projects, value engineering has to be handled carefully because the design intent matters. A good team should protect the look and function of the home while reducing unnecessary complexity. For example, a custom detail might be replaced with a simpler but visually similar detail that saves labor without hurting the experience. The key is that value engineering should happen early enough to matter. If it is done after plans are locked or construction has started, the options are usually worse and more disruptive. Ask your builder to identify where the biggest cost drivers are and which decisions have the most flexibility. That turns value engineering into a strategic tool instead of a last-minute compromise. The goal is a better project, not just a lower number.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Value engineering is the process of changing materials, details, sequencing, or scope to improve cost, schedule, or constructability while protecting the projec"
+}

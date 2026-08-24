@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-if-my-los-angeles-lot-is-suitable-for-a-luxury-custom-home",
+  "name": "How do I know if my property is suitable for a custom build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell if my Los Angeles lot is suitable for a luxury custom home?",
+    "text": "How can I tell if my Los Angeles lot is suitable for a luxury custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot may appear suitable for a luxury custom home, but true buildability depends on more than size or location. The property should be checked for zoning rules, setbacks, slope, utility access, drainage, easements, tree restrictions, and any neighborhood-specific limitations. A site review should also consider how equipment will access the lot, where materials can be staged, and whether the design can be built efficiently without major structural compromises. In Los Angeles, hillside conditions and older utility infrastructure can create hidden challenges even on desirable parcels. The best time to evaluate suitability is before finalizing design or purchasing the property, because some issues are easier to avoid than to solve later. A builder with local experience can help identify risks early and determine whether the lot is a strong candidate for a custom luxury build.",
+      "@type": "Answer",
+      "description": "A suitable lot should be evaluated for zoning, setbacks, grading conditions, access, utilities, and potential design constraints before construction begins. A site that looks ideal on the surface may still have hidden issues that affect buildability and cost.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot may appear suitable for a luxury custom home, but true buildability depends on more than size or location. The property should be checked for zoning rules, setbacks, slope, utility access, drainage, easements, tree restrictions, and any neighborhood-specific limitations. A site review should also consider how equipment will access the lot, where materials can be staged, and whether the design can be built efficiently without major structural compromises. In Los Angeles, hillside conditions and older utility infrastructure can create hidden challenges even on desirable parcels. The best time to evaluate suitability is before finalizing design or purchasing the property, because some issues are easier to avoid than to solve later. A builder with local experience can help identify risks early and determine whether the lot is a strong candidate for a custom luxury build.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A suitable lot should be evaluated for zoning, setbacks, grading conditions, access, utilities, and potential design constraints before construction begins. A s"
+}

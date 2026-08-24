@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-level-of-detail-should-a-material-takeoff-include-for-a-custom-home-estimat",
+  "name": "How detailed should a takeoff be for a custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What level of detail should a material takeoff include for a custom home estimate?",
+    "text": "What level of detail should a material takeoff include for a custom home estimate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A custom-home takeoff should be detailed enough to support pricing by trade and by measurable quantities. That usually means concrete, excavation, framing, sheathing, roofing, waterproofing, windows, doors, insulation, drywall, painting, flooring, cabinetry, plumbing, electrical, HVAC, and sitework all get separate counts. For luxury homes in Los Angeles, the takeoff should also reflect custom millwork, specialty glazing, premium fixtures, and any nonstandard structural conditions. A rough takeoff is useful for early budgeting, but a serious estimate needs enough detail to catch missing scopes and duplicate counts. The goal is not just to estimate the total; it is to expose where the total comes from so the owner can make informed decisions. The more unique the project, the more valuable a detailed takeoff becomes.",
+      "@type": "Answer",
+      "description": "A custom-home takeoff should be trade-by-trade and quantity-based, with separate counts for concrete, framing, roofing, windows, finishes, MEP systems, and sitework. The more detailed the takeoff, the better the estimate can reflect real material and labor needs.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A custom-home takeoff should be detailed enough to support pricing by trade and by measurable quantities. That usually means concrete, excavation, framing, sheathing, roofing, waterproofing, windows, doors, insulation, drywall, painting, flooring, cabinetry, plumbing, electrical, HVAC, and sitework all get separate counts. For luxury homes in Los Angeles, the takeoff should also reflect custom millwork, specialty glazing, premium fixtures, and any nonstandard structural conditions. A rough takeoff is useful for early budgeting, but a serious estimate needs enough detail to catch missing scopes and duplicate counts. The goal is not just to estimate the total; it is to expose where the total comes from so the owner can make informed decisions. The more unique the project, the more valuable a detailed takeoff becomes.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A custom-home takeoff should be trade-by-trade and quantity-based, with separate counts for concrete, framing, roofing, windows, finishes, MEP systems, and site"
+}

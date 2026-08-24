@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-an-accessory-dwelling-unit-budget-be-structured-so-it-does-not-run-ov",
+  "name": "What is the best way to budget an ADU estimate in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should an accessory dwelling unit budget be structured so it does not run over?",
+    "text": "How should an accessory dwelling unit budget be structured so it does not run over?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An ADU budget should be structured so each major cost bucket is visible. That includes design, survey, engineering, permits, grading or site prep, foundation, framing, roofing, doors and windows, plumbing, electrical, HVAC, insulation, drywall, finishes, appliances, utility connections, and contingency. In Los Angeles, ADUs can become expensive when utility upgrades, trenching, fire access, or site constraints are overlooked. A square-foot number may be useful at the beginning, but it should not replace a trade-by-trade estimate. Owners should also confirm whether the estimate assumes a garage conversion, detached unit, or attached addition, because those scenarios have very different costs. The safest budget is one that shows the full project cost from concept through completion, not just the construction shell. That helps prevent surprises when permit review or utility coordination begins.",
+      "@type": "Answer",
+      "description": "An ADU budget should separate design, permits, site utilities, foundation, framing, MEP systems, finishes, and contingency. Utility upgrades, soil work, and fire or access requirements can change the total quickly, so the estimate should not rely on a simple average price alone.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An ADU budget should be structured so each major cost bucket is visible. That includes design, survey, engineering, permits, grading or site prep, foundation, framing, roofing, doors and windows, plumbing, electrical, HVAC, insulation, drywall, finishes, appliances, utility connections, and contingency. In Los Angeles, ADUs can become expensive when utility upgrades, trenching, fire access, or site constraints are overlooked. A square-foot number may be useful at the beginning, but it should not replace a trade-by-trade estimate. Owners should also confirm whether the estimate assumes a garage conversion, detached unit, or attached addition, because those scenarios have very different costs. The safest budget is one that shows the full project cost from concept through completion, not just the construction shell. That helps prevent surprises when permit review or utility coordination begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU budget should separate design, permits, site utilities, foundation, framing, MEP systems, finishes, and contingency. Utility upgrades, soil work, and fir"
+}

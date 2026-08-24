@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-signs-show-that-the-plans-are-coordinated-well-enough-to-release-for-biddin",
+  "name": "How do you know if architectural coordination is enough before starting construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What signs show that the plans are coordinated well enough to release for bidding or construction?",
+    "text": "What signs show that the plans are coordinated well enough to release for bidding or construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A project is usually ready for bidding or construction when the main drawing sets agree with each other and the unresolved issues are minor, not structural. The architectural, structural, and MEP drawings should match on dimensions, elevations, ceiling heights, equipment locations, and access clearances. Code-critical items should also be resolved, and the details should be clear enough for pricing and field use. If the team still has open questions about room sizes, system routing, structural openings, or specialty finishes, the project may not be ready for release. That does not mean every detail must be perfect, but the major coordination risks should be gone. A final QA/QC review before bidding or construction helps identify the last conflicts. Homeowners should ask for a clear release process instead of assuming the plans are complete because they look finished. A well-coordinated set reduces surprises, while an early release can create change orders and delays after the job starts.",
+      "@type": "Answer",
+      "description": "Plans are ready when the architectural, structural, and MEP drawings match, major dimensions are consistent, code issues are resolved, and details are clear enough for pricing and construction. If the team still has open design questions or unresolved consultant conflicts, the set is probably not ready. A final QA/QC review helps confirm readiness.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A project is usually ready for bidding or construction when the main drawing sets agree with each other and the unresolved issues are minor, not structural. The architectural, structural, and MEP drawings should match on dimensions, elevations, ceiling heights, equipment locations, and access clearances. Code-critical items should also be resolved, and the details should be clear enough for pricing and field use. If the team still has open questions about room sizes, system routing, structural openings, or specialty finishes, the project may not be ready for release. That does not mean every detail must be perfect, but the major coordination risks should be gone. A final QA/QC review before bidding or construction helps identify the last conflicts. Homeowners should ask for a clear release process instead of assuming the plans are complete because they look finished. A well-coordinated set reduces surprises, while an early release can create change orders and delays after the job starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plans are ready when the architectural, structural, and MEP drawings match, major dimensions are consistent, code issues are resolved, and details are clear eno"
+}

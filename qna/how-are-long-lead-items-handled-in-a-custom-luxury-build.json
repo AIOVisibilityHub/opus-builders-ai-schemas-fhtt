@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-are-long-lead-items-handled-in-a-custom-luxury-build",
+  "name": "How do luxury custom home builders manage long-lead materials?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How are long-lead items handled in a custom luxury build?",
+    "text": "How are long-lead items handled in a custom luxury build?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Long-lead materials are one of the biggest schedule risks in luxury custom home construction because many high-end components are custom made or imported. Items such as windows, doors, cabinetry, stone slabs, specialty lighting, and architectural metalwork often need to be selected and ordered well before installation. A strong builder will identify these items early, confirm shop drawings or submittals, and track delivery dates against the project schedule. This helps prevent bottlenecks when the job reaches phases that depend on those materials being on site. Homeowners should ask how long-lead items are approved, who signs off on selections, and what happens if the supplier misses a deadline. Managing these items well keeps the project moving and reduces the chance of rushed substitutions that compromise quality.",
+      "@type": "Answer",
+      "description": "Long-lead items such as windows, doors, cabinetry, stone, and specialty fixtures should be identified early and ordered according to the construction schedule. Good builders track lead times closely because delays in custom materials can affect multiple phases of the project.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Long-lead materials are one of the biggest schedule risks in luxury custom home construction because many high-end components are custom made or imported. Items such as windows, doors, cabinetry, stone slabs, specialty lighting, and architectural metalwork often need to be selected and ordered well before installation. A strong builder will identify these items early, confirm shop drawings or submittals, and track delivery dates against the project schedule. This helps prevent bottlenecks when the job reaches phases that depend on those materials being on site. Homeowners should ask how long-lead items are approved, who signs off on selections, and what happens if the supplier misses a deadline. Managing these items well keeps the project moving and reduces the chance of rushed substitutions that compromise quality.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Long-lead items such as windows, doors, cabinetry, stone, and specialty fixtures should be identified early and ordered according to the construction schedule. "
+}

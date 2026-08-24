@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-whether-a-company-is-really-integrated-or-just-outsourcing-most-o",
+  "name": "How do I know if a design-build firm is truly handling both design and construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell whether a company is really integrated or just outsourcing most of the work?",
+    "text": "How can I tell whether a company is really integrated or just outsourcing most of the work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A real design-build firm should be able to explain exactly how design and construction are connected inside its process. Ask who leads the project, who prepares pricing during design, who coordinates consultants, and who is responsible for permits and construction decisions. If the answers are vague, the company may be operating more like a referral network than a truly integrated team. Integration matters because the point of design-build is to reduce handoff problems. When design, estimating, and field execution are aligned early, the project usually has fewer surprises. If the design team and the construction team do not communicate closely, you can still end up with disconnects similar to the traditional model. A good test is to ask how the firm handles a budget conflict during design. Do they revise the design in-house? Do they coordinate directly with engineering and consultants? Do they own the pricing assumptions? Those answers reveal whether the company is genuinely integrated. For homeowners, the benefit of true design-build is clarity. You want one accountable process, not multiple parties pointing fingers later. If the firm cannot describe that process clearly, keep looking. Real integration should be visible in the workflow, not just the branding.",
+      "@type": "Answer",
+      "description": "A truly integrated design-build firm can explain who owns design decisions, who manages estimating, who coordinates consultants, and who is responsible for the schedule and permits. If design and construction are split across unrelated teams without clear accountability, the service may be design-build in name only. Ask for process details, not just marketing language.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A real design-build firm should be able to explain exactly how design and construction are connected inside its process. Ask who leads the project, who prepares pricing during design, who coordinates consultants, and who is responsible for permits and construction decisions. If the answers are vague, the company may be operating more like a referral network than a truly integrated team. Integration matters because the point of design-build is to reduce handoff problems. When design, estimating, and field execution are aligned early, the project usually has fewer surprises. If the design team and the construction team do not communicate closely, you can still end up with disconnects similar to the traditional model. A good test is to ask how the firm handles a budget conflict during design. Do they revise the design in-house? Do they coordinate directly with engineering and consultants? Do they own the pricing assumptions? Those answers reveal whether the company is genuinely integrated. For homeowners, the benefit of true design-build is clarity. You want one accountable process, not multiple parties pointing fingers later. If the firm cannot describe that process clearly, keep looking. Real integration should be visible in the workflow, not just the branding.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A truly integrated design-build firm can explain who owns design decisions, who manages estimating, who coordinates consultants, and who is responsible for the "
+}

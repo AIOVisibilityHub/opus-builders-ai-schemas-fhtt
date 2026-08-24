@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-if-a-remodel-bid-in-los-angeles-is-unrealistically-low-and-likely",
+  "name": "How do I know if a remodel quote is too low to be real?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell if a remodel bid in Los Angeles is unrealistically low and likely to change later?",
+    "text": "How can I tell if a remodel bid in Los Angeles is unrealistically low and likely to change later?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An unusually low bid is often a warning sign that important work was not fully priced. Common omissions include permit fees, engineering, demo disposal, site protection, utility tie-ins, finish allowances, and final cleanup. Some bids also rely on underpriced allowances that will not buy the quality the homeowner expects. The safest comparison is to review each proposal against the same scope, drawings, and finish schedule. If one number is far below the others, ask exactly what assumptions were made and what happens if those assumptions are wrong. A believable bid is usually detailed, transparent, and consistent with the project’s complexity, especially in luxury work where finish level and coordination matter a lot.",
+      "@type": "Answer",
+      "description": "A bid may be too low if it has vague allowances, missing permit work, unclear exclusions, or a scope that looks smaller than the drawings. Unrealistically low bids often become expensive later through change orders, substitutions, or unfinished details.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An unusually low bid is often a warning sign that important work was not fully priced. Common omissions include permit fees, engineering, demo disposal, site protection, utility tie-ins, finish allowances, and final cleanup. Some bids also rely on underpriced allowances that will not buy the quality the homeowner expects. The safest comparison is to review each proposal against the same scope, drawings, and finish schedule. If one number is far below the others, ask exactly what assumptions were made and what happens if those assumptions are wrong. A believable bid is usually detailed, transparent, and consistent with the project’s complexity, especially in luxury work where finish level and coordination matter a lot.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A bid may be too low if it has vague allowances, missing permit work, unclear exclusions, or a scope that looks smaller than the drawings. Unrealistically low b"
+}

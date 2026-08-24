@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-los-angeles-permitting-requirements-change-construction-feasibility-asses",
+  "name": "How do permitting rules in Los Angeles affect feasibility?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do Los Angeles permitting requirements change construction feasibility assessments?",
+    "text": "How do Los Angeles permitting requirements change construction feasibility assessments?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permitting is often the difference between a project that looks good in concept and one that can actually move forward. In Los Angeles, permitting complexity can rise quickly when a property sits in a hillside area, coastal zone, historic area, fire hazard zone, or under other overlays. A feasibility assessment should identify likely approval steps early, including whether discretionary review, special reports, or plan revisions are likely. This matters because permit-driven redesign can add months and significant soft costs. The report should translate code and agency requirements into practical project impacts: how much the design may need to change, what documentation will be needed, and where the schedule risk sits. Owners should be wary of any assessment that treats permitting as a minor afterthought, since it can be one of the biggest determinants of whether a project feels feasible at all.",
+      "@type": "Answer",
+      "description": "Permitting can change feasibility by adding time, cost, and design constraints. A site may be buildable on paper but still require extra approvals, redesigns, or consultant reports because of hillside rules, overlays, historic review, fire-zone issues, or neighborhood-specific conditions.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permitting is often the difference between a project that looks good in concept and one that can actually move forward. In Los Angeles, permitting complexity can rise quickly when a property sits in a hillside area, coastal zone, historic area, fire hazard zone, or under other overlays. A feasibility assessment should identify likely approval steps early, including whether discretionary review, special reports, or plan revisions are likely. This matters because permit-driven redesign can add months and significant soft costs. The report should translate code and agency requirements into practical project impacts: how much the design may need to change, what documentation will be needed, and where the schedule risk sits. Owners should be wary of any assessment that treats permitting as a minor afterthought, since it can be one of the biggest determinants of whether a project feels feasible at all.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permitting can change feasibility by adding time, cost, and design constraints. A site may be buildable on paper but still require extra approvals, redesigns, o"
+}

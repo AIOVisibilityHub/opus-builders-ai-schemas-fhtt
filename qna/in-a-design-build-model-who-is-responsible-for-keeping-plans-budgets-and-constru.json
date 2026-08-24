@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/in-a-design-build-model-who-is-responsible-for-keeping-plans-budgets-and-constru",
+  "name": "How do architectural coordination services work in a design-build project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "In a design-build model, who is responsible for keeping plans, budgets, and construction details coordinated as the design evolves?",
+    "text": "In a design-build model, who is responsible for keeping plans, budgets, and construction details coordinated as the design evolves?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In a design-build project, architectural coordination is usually handled inside the same organization that is also managing construction. That can be a major advantage because the team can check design ideas against cost, schedule, and buildability at the same time. Instead of handing drawings from one firm to another, changes can be reviewed quickly and adjusted before they become expensive. The risk is that coordination can become too informal if roles are not clearly defined. Someone still needs to manage the master drawing set, track consultant input, confirm pricing impacts, and approve field changes. Without that structure, design-build can drift into last-minute decisions that create confusion. For homeowners, the best design-build setups include regular coordination checkpoints, updated drawings, and transparent pricing feedback as the design develops. Ask how often the team updates plans, who signs off on changes, and how budget changes are communicated. A strong design-build coordination process should make the project faster and more predictable, not just more convenient.",
+      "@type": "Answer",
+      "description": "In a design-build project, the same team usually handles design coordination and construction coordination, which can speed decisions and reduce handoff errors. The team is responsible for keeping the drawings, pricing, and field execution aligned as the design changes. That works best when roles and approval steps are clearly defined.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In a design-build project, architectural coordination is usually handled inside the same organization that is also managing construction. That can be a major advantage because the team can check design ideas against cost, schedule, and buildability at the same time. Instead of handing drawings from one firm to another, changes can be reviewed quickly and adjusted before they become expensive. The risk is that coordination can become too informal if roles are not clearly defined. Someone still needs to manage the master drawing set, track consultant input, confirm pricing impacts, and approve field changes. Without that structure, design-build can drift into last-minute decisions that create confusion. For homeowners, the best design-build setups include regular coordination checkpoints, updated drawings, and transparent pricing feedback as the design develops. Ask how often the team updates plans, who signs off on changes, and how budget changes are communicated. A strong design-build coordination process should make the project faster and more predictable, not just more convenient.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In a design-build project, the same team usually handles design coordination and construction coordination, which can speed decisions and reduce handoff errors."
+}

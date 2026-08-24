@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-architectural-coordination-be-managed-by-the-architect-a-design-build-com",
+  "name": "Who should lead architectural coordination: architect, design-build firm, or independent coordinator?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should architectural coordination be managed by the architect, a design-build company, or a separate coordinator on residential projects in Los Angeles?",
+    "text": "Should architectural coordination be managed by the architect, a design-build company, or a separate coordinator on residential projects in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The right lead for architectural coordination depends on how the project is structured. If the project is design-heavy and the architect is closely involved through permitting and construction, the architect can often lead coordination. If the project is being delivered by a design-build team, that firm may be the best choice because it can coordinate design, budget, and construction under one roof. If the project has multiple outside consultants or a complicated approval path, an independent coordinator can help keep everyone aligned. What matters most is not the title, but clear responsibility. Someone must own the drawing set, track revisions, communicate consultant deadlines, and confirm that changes are reflected across all disciplines. Without that ownership, projects often suffer from mismatched plans, delayed submittals, and avoidable field conflicts. For homeowners in Los Angeles-area cities, design-build coordination is often attractive when schedule and simplicity matter. An independent coordinator can be useful when the architect and contractor are separate and no one is clearly managing the handoff. Before hiring, ask who handles permit corrections, consultant coordination, and field changes, and how often the team reviews updated drawings together.",
+      "@type": "Answer",
+      "description": "The best lead depends on project complexity. An architect is ideal when design quality is the top priority, a design-build firm works well when you want one team controlling both plans and construction, and an independent coordinator helps when multiple consultants or outside vendors are involved. The key is clear ownership of drawing updates and issue tracking.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The right lead for architectural coordination depends on how the project is structured. If the project is design-heavy and the architect is closely involved through permitting and construction, the architect can often lead coordination. If the project is being delivered by a design-build team, that firm may be the best choice because it can coordinate design, budget, and construction under one roof. If the project has multiple outside consultants or a complicated approval path, an independent coordinator can help keep everyone aligned. What matters most is not the title, but clear responsibility. Someone must own the drawing set, track revisions, communicate consultant deadlines, and confirm that changes are reflected across all disciplines. Without that ownership, projects often suffer from mismatched plans, delayed submittals, and avoidable field conflicts. For homeowners in Los Angeles-area cities, design-build coordination is often attractive when schedule and simplicity matter. An independent coordinator can be useful when the architect and contractor are separate and no one is clearly managing the handoff. Before hiring, ask who handles permit corrections, consultant coordination, and field changes, and how often the team reviews updated drawings together.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best lead depends on project complexity. An architect is ideal when design quality is the top priority, a design-build firm works well when you want one tea"
+}

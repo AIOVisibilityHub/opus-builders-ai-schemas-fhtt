@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-signs-show-that-a-construction-estimate-is-incomplete-or-not-detailed-enoug",
+  "name": "How do I know if an estimate is too vague to trust?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What signs show that a construction estimate is incomplete or not detailed enough?",
+    "text": "What signs show that a construction estimate is incomplete or not detailed enough?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An estimate is too vague if it relies on broad lump sums, generic allowance language, or missing scope details. Red flags include no breakdown for sitework, no permit assumptions, no schedule notes, no exclusions, and no explanation of finish quality. If the estimate cannot show how the number was built, it is difficult to trust the total. In competitive Los Angeles markets, vague estimates can be especially misleading because labor and site conditions vary widely from one property to another. Owners should ask the estimator to clarify every ambiguous line before making a decision. A trustworthy estimate should be understandable enough that a non-builder can see where the money is going. If it is too general, it may not be a real project budget at all.",
+      "@type": "Answer",
+      "description": "An estimate is too vague if it uses lump sums without line items, has broad allowances, lacks exclusions, or does not identify sitework and permit assumptions. Vague estimates are hard to compare and often lead to change orders later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An estimate is too vague if it relies on broad lump sums, generic allowance language, or missing scope details. Red flags include no breakdown for sitework, no permit assumptions, no schedule notes, no exclusions, and no explanation of finish quality. If the estimate cannot show how the number was built, it is difficult to trust the total. In competitive Los Angeles markets, vague estimates can be especially misleading because labor and site conditions vary widely from one property to another. Owners should ask the estimator to clarify every ambiguous line before making a decision. A trustworthy estimate should be understandable enough that a non-builder can see where the money is going. If it is too general, it may not be a real project budget at all.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An estimate is too vague if it uses lump sums without line items, has broad allowances, lacks exclusions, or does not identify sitework and permit assumptions. "
+}

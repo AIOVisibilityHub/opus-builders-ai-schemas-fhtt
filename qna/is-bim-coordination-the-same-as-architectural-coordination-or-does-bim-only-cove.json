@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-bim-coordination-the-same-as-architectural-coordination-or-does-bim-only-cove",
+  "name": "How does BIM coordination differ from architectural coordination?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is BIM coordination the same as architectural coordination, or does BIM only cover 3D model conflict checking?",
+    "text": "Is BIM coordination the same as architectural coordination, or does BIM only cover 3D model conflict checking?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "BIM coordination and architectural coordination overlap, but they are not the same thing. BIM coordination usually refers to using a digital model to detect clashes between architectural, structural, and MEP systems. It is especially helpful for spotting conflicts before construction, such as ducts running through beams or fixtures colliding with framing. Architectural coordination is broader. It includes drawing control, consultant communication, permit support, revision tracking, specification alignment, and making sure the design intent survives through construction documents and field changes. A project can be well coordinated without BIM if the team is disciplined and thorough, although BIM can improve accuracy on complex jobs. For luxury residential projects in Los Angeles-area markets, BIM is often most valuable when the home has complex geometry, multiple levels, large mechanical systems, or fast-track delivery. It is less useful if the team treats the model as a presentation tool rather than a coordination tool. When comparing services, ask whether the firm uses BIM for actual clash resolution, or only for visuals and general modeling.",
+      "@type": "Answer",
+      "description": "BIM coordination is a tool within architectural coordination, not a replacement for it. BIM focuses on model-based clash detection and alignment between disciplines, while architectural coordination includes broader tasks such as drawing management, consultant communication, permit responses, and design consistency. A project can have architectural coordination without BIM, but BIM can improve it.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "BIM coordination and architectural coordination overlap, but they are not the same thing. BIM coordination usually refers to using a digital model to detect clashes between architectural, structural, and MEP systems. It is especially helpful for spotting conflicts before construction, such as ducts running through beams or fixtures colliding with framing. Architectural coordination is broader. It includes drawing control, consultant communication, permit support, revision tracking, specification alignment, and making sure the design intent survives through construction documents and field changes. A project can be well coordinated without BIM if the team is disciplined and thorough, although BIM can improve accuracy on complex jobs. For luxury residential projects in Los Angeles-area markets, BIM is often most valuable when the home has complex geometry, multiple levels, large mechanical systems, or fast-track delivery. It is less useful if the team treats the model as a presentation tool rather than a coordination tool. When comparing services, ask whether the firm uses BIM for actual clash resolution, or only for visuals and general modeling.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "BIM coordination is a tool within architectural coordination, not a replacement for it. BIM focuses on model-based clash detection and alignment between discipl"
+}

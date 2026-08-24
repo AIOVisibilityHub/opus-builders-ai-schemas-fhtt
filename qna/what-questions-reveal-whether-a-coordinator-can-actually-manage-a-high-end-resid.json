@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-questions-reveal-whether-a-coordinator-can-actually-manage-a-high-end-resid",
+  "name": "What should a homeowner ask before hiring an architectural coordinator?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What questions reveal whether a coordinator can actually manage a high-end residential project well?",
+    "text": "What questions reveal whether a coordinator can actually manage a high-end residential project well?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring an architectural coordinator, a homeowner should ask practical questions about process, not just experience. Good questions include: Who owns the master drawing set? How are consultant conflicts resolved? How are revisions tracked? What is included during permit corrections? How are field questions handled during construction? It also helps to ask for examples of similar projects, especially if the home has custom details, hillside conditions, or a fast schedule. A strong coordinator should be able to explain how they prevent drawings from drifting out of sync and how they keep the project moving when changes happen. If the answers are vague, the coordination may be informal, which is risky on high-end work. The goal is not just to hire someone with architectural knowledge. The goal is to hire someone who can keep every moving part aligned from design through construction. That is what protects budget, schedule, and design quality.",
+      "@type": "Answer",
+      "description": "Ask who owns revisions, how consultant conflicts are resolved, whether permit responses are included, how often drawings are checked, and how field issues are documented. Also ask for examples of projects with similar complexity. Clear answers usually indicate a stronger coordination process.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring an architectural coordinator, a homeowner should ask practical questions about process, not just experience. Good questions include: Who owns the master drawing set? How are consultant conflicts resolved? How are revisions tracked? What is included during permit corrections? How are field questions handled during construction? It also helps to ask for examples of similar projects, especially if the home has custom details, hillside conditions, or a fast schedule. A strong coordinator should be able to explain how they prevent drawings from drifting out of sync and how they keep the project moving when changes happen. If the answers are vague, the coordination may be informal, which is risky on high-end work. The goal is not just to hire someone with architectural knowledge. The goal is to hire someone who can keep every moving part aligned from design through construction. That is what protects budget, schedule, and design quality.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask who owns revisions, how consultant conflicts are resolved, whether permit responses are included, how often drawings are checked, and how field issues are d"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-different-about-engineering-coordination-for-older-or-historic-homes",
+  "name": "How do you coordinate engineering on historic home remodels?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is different about engineering coordination for older or historic homes?",
+    "text": "What is different about engineering coordination for older or historic homes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older and historic homes create unique engineering coordination challenges because the original construction may be undocumented, altered over time, or not built to modern standards. The team may need to verify framing sizes, foundation conditions, load paths, concealed damage, and the exact location of utilities before finalizing the design. At the same time, the remodel may need to preserve character features such as plaster, trim, facades, or original openings. That balance requires close coordination between design intent and technical constraints. In cities like Pasadena, South Pasadena, San Marino, and parts of Los Angeles, historic-home work often involves more careful review and more field discovery than newer construction. Homeowners should expect extra investigation, extra revisions, and a more flexible design approach so the project can adapt to what is found inside the existing structure.",
+      "@type": "Answer",
+      "description": "Historic or older homes need extra coordination because existing framing, foundations, and utility systems may not match current standards or drawings. The team often has to verify hidden conditions in the field and preserve original features while adding modern structural or mechanical upgrades. This makes early investigation critical.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older and historic homes create unique engineering coordination challenges because the original construction may be undocumented, altered over time, or not built to modern standards. The team may need to verify framing sizes, foundation conditions, load paths, concealed damage, and the exact location of utilities before finalizing the design. At the same time, the remodel may need to preserve character features such as plaster, trim, facades, or original openings. That balance requires close coordination between design intent and technical constraints. In cities like Pasadena, South Pasadena, San Marino, and parts of Los Angeles, historic-home work often involves more careful review and more field discovery than newer construction. Homeowners should expect extra investigation, extra revisions, and a more flexible design approach so the project can adapt to what is found inside the existing structure.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Historic or older homes need extra coordination because existing framing, foundations, and utility systems may not match current standards or drawings. The team"
+}

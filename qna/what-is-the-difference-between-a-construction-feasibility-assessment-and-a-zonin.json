@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-construction-feasibility-assessment-and-a-zonin",
+  "name": "How does a feasibility assessment differ from a zoning review?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a construction feasibility assessment and a zoning review?",
+    "text": "What is the difference between a construction feasibility assessment and a zoning review?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A zoning review is only one piece of the bigger picture. It answers questions like allowable use, setbacks, height, lot coverage, and density. A construction feasibility assessment includes zoning but also looks at whether the project can physically and financially happen on that site. That means access, topography, grading, utility capacity, structural complexity, soil conditions, drainage, and approximate construction cost. For owners in Los Angeles and nearby cities, the difference is important because a project can be legally allowed by zoning yet still be too expensive or complicated to build well. If the goal is to buy, design, or remodel with confidence, the assessment should combine code research with practical construction analysis. The most useful reports explain not only what is allowed, but what is sensible.",
+      "@type": "Answer",
+      "description": "A zoning review checks what the code allows on the property, while a construction feasibility assessment checks whether the project is actually buildable, affordable, and practical. Feasibility goes broader by including access, site conditions, grading, utilities, cost, schedule, and construction risk.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A zoning review is only one piece of the bigger picture. It answers questions like allowable use, setbacks, height, lot coverage, and density. A construction feasibility assessment includes zoning but also looks at whether the project can physically and financially happen on that site. That means access, topography, grading, utility capacity, structural complexity, soil conditions, drainage, and approximate construction cost. For owners in Los Angeles and nearby cities, the difference is important because a project can be legally allowed by zoning yet still be too expensive or complicated to build well. If the goal is to buy, design, or remodel with confidence, the assessment should combine code research with practical construction analysis. The most useful reports explain not only what is allowed, but what is sensible.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A zoning review checks what the code allows on the property, while a construction feasibility assessment checks whether the project is actually buildable, affor"
+}

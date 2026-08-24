@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-a-design-build-firm-manage-permits-or-do-i-still-need-to-deal-with-the-city",
+  "name": "Can design-build handle permitting in Los Angeles cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does a design-build firm manage permits, or do I still need to deal with the city myself?",
+    "text": "Does a design-build firm manage permits, or do I still need to deal with the city myself?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong design-build firm should be able to manage the permitting process or at least lead it with clear responsibility boundaries. That usually includes coordinating drawings, preparing permit packages, responding to plan check comments, and working with consultants such as structural engineers or surveyors. However, not every firm offers the same level of permit support. In Los Angeles, permitting can be one of the most important parts of preconstruction. Local jurisdiction requirements, plan check cycles, and project-specific conditions can influence both timing and cost. For homeowners, the key is knowing who owns the process. If the contract does not clearly say who prepares, submits, revises, and follows up on permits, confusion can arise later. Ask whether the firm handles only submission or full permit management. Ask how often they coordinate with the city and how they handle plan check corrections. If your project needs special approvals, site review, or additional consultant input, that should also be spelled out. The best design-build teams do not treat permitting as an afterthought. They build it into preconstruction so the project moves forward with fewer delays and fewer surprises.",
+      "@type": "Answer",
+      "description": "A full-service design-build firm can usually manage permit preparation, coordination, and city submissions, but the exact scope varies by company. Some firms handle the entire process, while others rely on outside consultants or expect the owner to stay involved. The contract should state who prepares documents, tracks revisions, and responds to plan check comments.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong design-build firm should be able to manage the permitting process or at least lead it with clear responsibility boundaries. That usually includes coordinating drawings, preparing permit packages, responding to plan check comments, and working with consultants such as structural engineers or surveyors. However, not every firm offers the same level of permit support. In Los Angeles, permitting can be one of the most important parts of preconstruction. Local jurisdiction requirements, plan check cycles, and project-specific conditions can influence both timing and cost. For homeowners, the key is knowing who owns the process. If the contract does not clearly say who prepares, submits, revises, and follows up on permits, confusion can arise later. Ask whether the firm handles only submission or full permit management. Ask how often they coordinate with the city and how they handle plan check corrections. If your project needs special approvals, site review, or additional consultant input, that should also be spelled out. The best design-build teams do not treat permitting as an afterthought. They build it into preconstruction so the project moves forward with fewer delays and fewer surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A full-service design-build firm can usually manage permit preparation, coordination, and city submissions, but the exact scope varies by company. Some firms ha"
+}

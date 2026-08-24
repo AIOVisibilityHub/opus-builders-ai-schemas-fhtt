@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-exactly-is-included-in-architectural-coordination-for-a-custom-home-and-wha",
+  "name": "What does architectural coordination include on a luxury home project in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What exactly is included in architectural coordination for a custom home, and what tasks should the coordinator handle versus the architect, engineer, and contractor?",
+    "text": "What exactly is included in architectural coordination for a custom home, and what tasks should the coordinator handle versus the architect, engineer, and contractor?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Architectural coordination on a luxury home project usually means managing the moving parts that keep the design buildable and consistent from concept through construction. A strong coordinator helps align the architect, structural engineer, MEP consultants, interior designer, and contractor so the plans do not conflict. That can include checking dimensions, resolving ceiling and shaft conflicts, updating drawings after design changes, organizing permit sets, tracking revisions, and making sure consultant drawings match the architectural intent. The architect usually leads design decisions, while the coordinator helps keep the documentation and communication organized. The engineer handles structural or system-specific design, and the contractor handles means and methods, pricing, and construction execution. Coordination becomes especially valuable when the project has custom details, hillside conditions, complex mechanical systems, or fast-moving design changes. For homeowners, the main benefit is fewer surprises during plan check and construction. Good coordination can reduce RFIs, change orders, rework, and permit delays. It is best to ask who is responsible for drawing reconciliation, consultant deadlines, permit responses, and field issue tracking before the project starts.",
+      "@type": "Answer",
+      "description": "Architectural coordination is the process of aligning the design, engineering, permitting, and construction teams so the project documents match the built work. It typically includes consultant coordination, plan revisions, permit support, drawing consistency checks, and responses to issues that affect constructability. On larger homes, it also helps reduce conflicts between architecture, structure, and MEP systems.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Architectural coordination on a luxury home project usually means managing the moving parts that keep the design buildable and consistent from concept through construction. A strong coordinator helps align the architect, structural engineer, MEP consultants, interior designer, and contractor so the plans do not conflict. That can include checking dimensions, resolving ceiling and shaft conflicts, updating drawings after design changes, organizing permit sets, tracking revisions, and making sure consultant drawings match the architectural intent. The architect usually leads design decisions, while the coordinator helps keep the documentation and communication organized. The engineer handles structural or system-specific design, and the contractor handles means and methods, pricing, and construction execution. Coordination becomes especially valuable when the project has custom details, hillside conditions, complex mechanical systems, or fast-moving design changes. For homeowners, the main benefit is fewer surprises during plan check and construction. Good coordination can reduce RFIs, change orders, rework, and permit delays. It is best to ask who is responsible for drawing reconciliation, consultant deadlines, permit responses, and field issue tracking before the project starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Architectural coordination is the process of aligning the design, engineering, permitting, and construction teams so the project documents match the built work."
+}

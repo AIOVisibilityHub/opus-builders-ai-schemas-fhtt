@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-home-addition-and-a-whole-home-remodel-in-plann",
+  "name": "What is the difference between an addition and a whole-home remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a home addition and a whole-home remodel in planning and construction terms?",
+    "text": "What is the difference between a home addition and a whole-home remodel in planning and construction terms?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The distinction matters because the scope, cost, and permit path are often very different. An addition expands the house outward or upward and typically requires new foundation, framing, roof integration, and utility tie-ins. A whole-home remodel usually stays within the existing envelope but may still replace nearly everything inside. In practice, many projects blend both categories, especially when homeowners want new rooms plus a reworked interior plan. The builder should define the project clearly so pricing matches the actual work, not just the marketing term. Asking whether the job is an addition, remodel, or hybrid helps set expectations for schedule, budget, and permitting.",
+      "@type": "Answer",
+      "description": "An addition increases the home’s footprint or square footage, while a whole-home remodel primarily reworks the existing structure. Additions usually involve more permitting, structural tie-ins, and site work, while whole-home remodels focus more on interior layout and system upgrades.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The distinction matters because the scope, cost, and permit path are often very different. An addition expands the house outward or upward and typically requires new foundation, framing, roof integration, and utility tie-ins. A whole-home remodel usually stays within the existing envelope but may still replace nearly everything inside. In practice, many projects blend both categories, especially when homeowners want new rooms plus a reworked interior plan. The builder should define the project clearly so pricing matches the actual work, not just the marketing term. Asking whether the job is an addition, remodel, or hybrid helps set expectations for schedule, budget, and permitting.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An addition increases the home’s footprint or square footage, while a whole-home remodel primarily reworks the existing structure. Additions usually involve mor"
+}

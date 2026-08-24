@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-reviewed-in-a-coordination-meeting-so-the-meeting-actually-preven",
+  "name": "What happens during a coordination meeting on a residential project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be reviewed in a coordination meeting so the meeting actually prevents problems instead of creating more discussion?",
+    "text": "What should be reviewed in a coordination meeting so the meeting actually prevents problems instead of creating more discussion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A useful coordination meeting should be focused, documented, and decision-oriented. The team should review recent design changes, unresolved consultant conflicts, permit comments, budget impacts, and any construction questions that could affect the next drawing issue. The meeting should end with clear action items, owners, and deadlines. The most effective meetings do not try to solve everything at once. They focus on the items that matter most to the current milestone, such as permit submittal, pricing, or construction release. Each participant should understand what needs to be updated and who is responsible for the next revision. For residential projects, a good coordination meeting also helps prevent communication drift. If design changes are only discussed informally, they can be missed when drawings are updated later. Ask whether the team issues meeting notes or decision logs after each session. That record often becomes the difference between controlled progress and repeated confusion.",
+      "@type": "Answer",
+      "description": "A good coordination meeting reviews plan changes, consultant conflicts, unresolved details, permit comments, scope changes, and schedule impacts. The goal is to confirm decisions, assign action items, and update the master set. Meetings that do not end with clear ownership and deadlines usually do not improve coordination.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A useful coordination meeting should be focused, documented, and decision-oriented. The team should review recent design changes, unresolved consultant conflicts, permit comments, budget impacts, and any construction questions that could affect the next drawing issue. The meeting should end with clear action items, owners, and deadlines. The most effective meetings do not try to solve everything at once. They focus on the items that matter most to the current milestone, such as permit submittal, pricing, or construction release. Each participant should understand what needs to be updated and who is responsible for the next revision. For residential projects, a good coordination meeting also helps prevent communication drift. If design changes are only discussed informally, they can be missed when drawings are updated later. Ask whether the team issues meeting notes or decision logs after each session. That record often becomes the difference between controlled progress and repeated confusion.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A good coordination meeting reviews plan changes, consultant conflicts, unresolved details, permit comments, scope changes, and schedule impacts. The goal is to"
+}

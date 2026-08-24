@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-common-mistakes-cause-stress-delays-or-budget-overruns-in-design-build-cons",
+  "name": "What are the biggest mistakes homeowners make in design-build projects?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What common mistakes cause stress, delays, or budget overruns in design-build construction?",
+    "text": "What common mistakes cause stress, delays, or budget overruns in design-build construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most design-build problems come from unclear expectations rather than construction alone. Common mistakes include starting with only a rough idea, approving plans before details are defined, underestimating the budget, and assuming allowances cover premium selections. Late decisions on finishes, fixtures, and appliances can also slow the schedule and increase cost. Another frequent issue is failing to ask what is excluded from the contract. Homeowners can avoid many problems by defining the project early, setting a realistic contingency, and asking for written clarification on allowances and assumptions. In luxury projects, it is especially important to lock in design direction before construction begins because changes become more expensive once work is underway. The smoother projects usually come from disciplined planning, not from rushing into demolition.",
+      "@type": "Answer",
+      "description": "The biggest mistakes are starting without a clear scope, choosing finishes too late, underestimating contingency, and approving vague contracts. Homeowners also get into trouble when they assume every item is included or change direction repeatedly during construction. Clear planning prevents most problems.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most design-build problems come from unclear expectations rather than construction alone. Common mistakes include starting with only a rough idea, approving plans before details are defined, underestimating the budget, and assuming allowances cover premium selections. Late decisions on finishes, fixtures, and appliances can also slow the schedule and increase cost. Another frequent issue is failing to ask what is excluded from the contract. Homeowners can avoid many problems by defining the project early, setting a realistic contingency, and asking for written clarification on allowances and assumptions. In luxury projects, it is especially important to lock in design direction before construction begins because changes become more expensive once work is underway. The smoother projects usually come from disciplined planning, not from rushing into demolition.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest mistakes are starting without a clear scope, choosing finishes too late, underestimating contingency, and approving vague contracts. Homeowners also"
+}

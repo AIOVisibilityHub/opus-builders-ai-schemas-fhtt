@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-homeowner-manage-several-engineers-and-consultants-on-the-same-proj",
+  "name": "What is the best way to coordinate multiple consultants on one home project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a homeowner manage several engineers and consultants on the same project?",
+    "text": "How should a homeowner manage several engineers and consultants on the same project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most effective way to coordinate multiple consultants is to give one person or firm clear responsibility for the overall technical process. That coordinator should collect the latest drawings, schedule review milestones, track changes, and make sure revisions from one consultant are reflected in the others’ sheets. Without that central ownership, different teams may each make correct decisions that still conflict with one another. This is common when a project has an architect, structural engineer, civil engineer, MEP consultant, landscape designer, and contractor all contributing separately. Homeowners should ask who owns the master drawing set, who reviews cross-discipline conflicts, and how changes are communicated. A good coordination lead keeps the project moving and reduces the risk of gaps, duplication, and last-minute surprises.",
+      "@type": "Answer",
+      "description": "The best approach is to assign one person or firm to own coordination, keep the latest drawing set, schedule review checkpoints, and track revisions across all consultants. Without one coordination lead, consultants can work in parallel and create conflicting plans. Clear ownership prevents gaps and duplicate work.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most effective way to coordinate multiple consultants is to give one person or firm clear responsibility for the overall technical process. That coordinator should collect the latest drawings, schedule review milestones, track changes, and make sure revisions from one consultant are reflected in the others’ sheets. Without that central ownership, different teams may each make correct decisions that still conflict with one another. This is common when a project has an architect, structural engineer, civil engineer, MEP consultant, landscape designer, and contractor all contributing separately. Homeowners should ask who owns the master drawing set, who reviews cross-discipline conflicts, and how changes are communicated. A good coordination lead keeps the project moving and reduces the risk of gaps, duplication, and last-minute surprises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best approach is to assign one person or firm to own coordination, keep the latest drawing set, schedule review checkpoints, and track revisions across all "
+}

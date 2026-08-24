@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-hidden-or-excluded-costs-should-be-clarified-before-approving-a-constructi",
+  "name": "What hidden costs should I ask about before signing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which hidden or excluded costs should be clarified before approving a construction estimate?",
+    "text": "Which hidden or excluded costs should be clarified before approving a construction estimate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing, the owner should ask for a written list of exclusions and assumptions. Hidden or underexplained costs often include demolition disposal, site protection, temporary fencing, scaffolding, utility upgrades, temporary power, inspection re-visits, engineering revisions, specialty equipment, and post-construction cleanup. In Los Angeles-area projects, there may also be costs tied to access limitations, parking, haul routes, and required neighborhood protections. If these items are not clearly addressed, they can appear later as change orders or extra invoices. The safest approach is to make the estimator spell out what is included and what is not, line by line. That makes the estimate more comparable and protects the budget from surprises. A transparent estimate should read like a complete project map, not a headline price with fine print hidden elsewhere.",
+      "@type": "Answer",
+      "description": "Ask about site protection, demo disposal, utility upgrades, temporary power, scaffolding, engineering revisions, inspections, change orders, and cleanup. These are often omitted or loosely described and can raise the final price if they are not clarified in writing.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing, the owner should ask for a written list of exclusions and assumptions. Hidden or underexplained costs often include demolition disposal, site protection, temporary fencing, scaffolding, utility upgrades, temporary power, inspection re-visits, engineering revisions, specialty equipment, and post-construction cleanup. In Los Angeles-area projects, there may also be costs tied to access limitations, parking, haul routes, and required neighborhood protections. If these items are not clearly addressed, they can appear later as change orders or extra invoices. The safest approach is to make the estimator spell out what is included and what is not, line by line. That makes the estimate more comparable and protects the budget from surprises. A transparent estimate should read like a complete project map, not a headline price with fine print hidden elsewhere.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about site protection, demo disposal, utility upgrades, temporary power, scaffolding, engineering revisions, inspections, change orders, and cleanup. These "
+}

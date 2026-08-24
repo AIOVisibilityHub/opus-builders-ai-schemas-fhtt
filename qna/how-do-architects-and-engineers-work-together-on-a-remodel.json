@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-architects-and-engineers-work-together-on-a-remodel",
+  "name": "How do engineers coordinate with architects on remodels?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do architects and engineers work together on a remodel?",
+    "text": "How do architects and engineers work together on a remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "On a remodel, the architect usually develops the space plan, exterior look, and design intent, while the engineer checks whether those ideas can be built safely and realistically. Coordination happens through shared drawing reviews, marked-up plan sets, coordination meetings, and revision cycles. The architect may adjust openings, ceiling heights, stair layouts, or room sizes after the engineer identifies structural or mechanical constraints. In older Los Angeles homes, this process is especially important because hidden conditions, nonstandard framing, and outdated systems are common. Good coordination keeps design ambition from colliding with technical requirements. Homeowners should expect the architect and engineer to review each other’s work repeatedly, not just exchange final drawings once. The smoother the coordination, the fewer redesigns, permit comments, and field changes will appear later.",
+      "@type": "Answer",
+      "description": "Architects and engineers coordinate by sharing drawings early, reviewing dimensions together, and resolving structural and system conflicts before permit submission. The architect typically drives layout and design intent, while the engineer confirms what can be built safely and code-compliantly. Regular markups and revision tracking keep both sets aligned.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "On a remodel, the architect usually develops the space plan, exterior look, and design intent, while the engineer checks whether those ideas can be built safely and realistically. Coordination happens through shared drawing reviews, marked-up plan sets, coordination meetings, and revision cycles. The architect may adjust openings, ceiling heights, stair layouts, or room sizes after the engineer identifies structural or mechanical constraints. In older Los Angeles homes, this process is especially important because hidden conditions, nonstandard framing, and outdated systems are common. Good coordination keeps design ambition from colliding with technical requirements. Homeowners should expect the architect and engineer to review each other’s work repeatedly, not just exchange final drawings once. The smoother the coordination, the fewer redesigns, permit comments, and field changes will appear later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Architects and engineers coordinate by sharing drawings early, reviewing dimensions together, and resolving structural and system conflicts before permit submis"
+}

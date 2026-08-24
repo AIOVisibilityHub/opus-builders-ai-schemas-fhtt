@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-construction-feasibility-assessment-useful-for-a-teardown-and-rebuild-proje",
+  "name": "Can a feasibility assessment help with a teardown-rebuild?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a construction feasibility assessment useful for a teardown and rebuild project in Los Angeles?",
+    "text": "Is a construction feasibility assessment useful for a teardown and rebuild project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Teardown-rebuild projects benefit heavily from early feasibility work because the existing house can hide many of the site’s true constraints. A feasibility assessment should check whether the proposed replacement home fits current zoning, whether demolition creates access or staging issues, and whether grading, retaining, or utility adjustments will be needed afterward. It should also assess whether the rebuild triggers additional permit steps, especially in neighborhoods with design review or hillside oversight. In luxury markets, owners often assume a teardown automatically clears the path for a larger home, but that is not always true. The lot size, access, and local rules still matter. A good assessment gives the owner a realistic picture of the rebuild path before demolition planning or contractor selection begins.",
+      "@type": "Answer",
+      "description": "Yes. A teardown-rebuild assessment can show whether the new home fits the lot, what demolition and grading issues will arise, and whether the rebuild is realistic under current zoning and site constraints. It can also reveal hidden costs that are easy to miss during acquisition.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Teardown-rebuild projects benefit heavily from early feasibility work because the existing house can hide many of the site’s true constraints. A feasibility assessment should check whether the proposed replacement home fits current zoning, whether demolition creates access or staging issues, and whether grading, retaining, or utility adjustments will be needed afterward. It should also assess whether the rebuild triggers additional permit steps, especially in neighborhoods with design review or hillside oversight. In luxury markets, owners often assume a teardown automatically clears the path for a larger home, but that is not always true. The lot size, access, and local rules still matter. A good assessment gives the owner a realistic picture of the rebuild path before demolition planning or contractor selection begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A teardown-rebuild assessment can show whether the new home fits the lot, what demolition and grading issues will arise, and whether the rebuild is realist"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-remodel-or-rebuild-a-luxury-home-in-los-angeles",
+  "name": "What if I want to remodel instead of rebuild?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I remodel or rebuild a luxury home in Los Angeles?",
+    "text": "Should I remodel or rebuild a luxury home in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The choice between remodeling and rebuilding depends on how much of the existing home can realistically support the owner’s goals. If the structure is in good condition and the changes are mostly cosmetic or selective, remodeling may be the more efficient path. If the home has poor layout, structural limitations, outdated systems, or a design that cannot be adapted without major compromise, rebuilding may deliver better long-term value. In luxury markets, many homeowners choose to rebuild when they want a fully customized plan, better energy performance, or a layout that aligns with modern living. The decision should include a careful review of condition, cost, timing, and permitting implications. A builder can help compare the two paths by estimating both the renovation scope and the replacement cost so the owner can choose based on facts rather than guesswork.",
+      "@type": "Answer",
+      "description": "Remodeling is usually better when the existing structure is sound and the layout can be improved efficiently, while rebuilding makes more sense when the home has major structural, spatial, or site-related limitations. The right choice depends on cost, goals, and the condition of the property.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The choice between remodeling and rebuilding depends on how much of the existing home can realistically support the owner’s goals. If the structure is in good condition and the changes are mostly cosmetic or selective, remodeling may be the more efficient path. If the home has poor layout, structural limitations, outdated systems, or a design that cannot be adapted without major compromise, rebuilding may deliver better long-term value. In luxury markets, many homeowners choose to rebuild when they want a fully customized plan, better energy performance, or a layout that aligns with modern living. The decision should include a careful review of condition, cost, timing, and permitting implications. A builder can help compare the two paths by estimating both the renovation scope and the replacement cost so the owner can choose based on facts rather than guesswork.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Remodeling is usually better when the existing structure is sound and the layout can be improved efficiently, while rebuilding makes more sense when the home ha"
+}

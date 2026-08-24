@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-are-conflicts-handled-when-the-homeowner-wants-changes-that-affect-the-budge",
+  "name": "What happens if the design-build firm and homeowner disagree on the final design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How are conflicts handled when the homeowner wants changes that affect the budget or schedule?",
+    "text": "How are conflicts handled when the homeowner wants changes that affect the budget or schedule?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A good design-build process includes a clear decision path for resolving disagreements. If the homeowner wants a change that affects cost, scope, or schedule, the team should present options, explain the impact, and document the revised direction before moving forward. This is one of the main advantages of having one coordinated team, because the design and construction sides can evaluate solutions together. Problems usually happen when expectations were not documented early or the homeowner assumed a feature was included when it was not. To avoid that, the firm should use written approvals, finish schedules, and budget updates throughout the process. Homeowners should ask who has final authority on design decisions, how revisions are priced, and what happens if a choice pushes the project beyond budget. Clear communication prevents most conflicts from becoming serious issues.",
+      "@type": "Answer",
+      "description": "Disagreements are usually handled through redesign, revised pricing, or scope tradeoffs. A clear design-build process should show how approvals work before construction starts so changes do not create confusion later. The best firms document decisions and explain cost and schedule impacts before moving forward.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A good design-build process includes a clear decision path for resolving disagreements. If the homeowner wants a change that affects cost, scope, or schedule, the team should present options, explain the impact, and document the revised direction before moving forward. This is one of the main advantages of having one coordinated team, because the design and construction sides can evaluate solutions together. Problems usually happen when expectations were not documented early or the homeowner assumed a feature was included when it was not. To avoid that, the firm should use written approvals, finish schedules, and budget updates throughout the process. Homeowners should ask who has final authority on design decisions, how revisions are priced, and what happens if a choice pushes the project beyond budget. Clear communication prevents most conflicts from becoming serious issues.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Disagreements are usually handled through redesign, revised pricing, or scope tradeoffs. A clear design-build process should show how approvals work before cons"
+}

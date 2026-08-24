@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-hillside-or-sloped-lots-affect-design-build-projects-in-los-angeles",
+  "name": "How do hillside or sloped lots affect design-build projects in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do hillside or sloped lots affect design-build projects in Los Angeles?",
+    "text": "How do hillside or sloped lots affect design-build projects in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside sites add risk because the design has to account for slope stability, drainage, foundation design, and construction access. In Los Angeles, that can mean more engineering, more permit scrutiny, and more time spent on site preparation before framing even begins. The design-build advantage is that the team can coordinate these issues early, rather than discovering them after drawings are complete. Homeowners should ask whether the firm has experience with grading, geotechnical reports, retaining walls, and difficult access conditions. It is also important to confirm how the budget handles unknown soil conditions or additional structural requirements. On sloped lots, a realistic contingency is not optional; it is part of sound planning. The right firm should be able to explain the risks before construction starts, not after the budget has already been stretched.",
+      "@type": "Answer",
+      "description": "Hillside or sloped lots can increase design-build complexity because they often require more engineering, grading, retaining walls, access planning, and permit coordination. They can also raise cost and extend timelines if soil or drainage conditions need additional work.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside sites add risk because the design has to account for slope stability, drainage, foundation design, and construction access. In Los Angeles, that can mean more engineering, more permit scrutiny, and more time spent on site preparation before framing even begins. The design-build advantage is that the team can coordinate these issues early, rather than discovering them after drawings are complete. Homeowners should ask whether the firm has experience with grading, geotechnical reports, retaining walls, and difficult access conditions. It is also important to confirm how the budget handles unknown soil conditions or additional structural requirements. On sloped lots, a realistic contingency is not optional; it is part of sound planning. The right firm should be able to explain the risks before construction starts, not after the budget has already been stretched.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hillside or sloped lots can increase design-build complexity because they often require more engineering, grading, retaining walls, access planning, and permit "
+}

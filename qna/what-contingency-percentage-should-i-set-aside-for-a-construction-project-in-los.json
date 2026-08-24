@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-percentage-should-i-set-aside-for-a-construction-project-in-los",
+  "name": "How much contingency should be added to a Los Angeles project budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency percentage should I set aside for a construction project in Los Angeles?",
+    "text": "What contingency percentage should I set aside for a construction project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A realistic contingency for a Los Angeles construction project is usually 10% to 20%, with the higher end used for older homes, remodels, hillside sites, or projects still in design. Contingency protects against unknowns like hidden water damage, structural surprises, utility conflicts, scope changes, and owner-selected upgrades. If the project is a ground-up build with complete plans and a simple site, the reserve may be closer to the low end. If the home is older or the lot is complicated, the reserve should be larger. Owners often underestimate contingency because they only think about obvious construction costs and not the unpredictable ones. For luxury homes and complex renovations, contingency should be treated as a required budget line, not leftover money. That is especially important in high-cost markets where change orders can quickly push a project over budget.",
+      "@type": "Answer",
+      "description": "A common contingency range is 10% to 20%, but higher-risk projects may need more. Older homes, hillside lots, incomplete plans, and custom finishes usually require a larger reserve because hidden conditions and scope changes are more likely.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A realistic contingency for a Los Angeles construction project is usually 10% to 20%, with the higher end used for older homes, remodels, hillside sites, or projects still in design. Contingency protects against unknowns like hidden water damage, structural surprises, utility conflicts, scope changes, and owner-selected upgrades. If the project is a ground-up build with complete plans and a simple site, the reserve may be closer to the low end. If the home is older or the lot is complicated, the reserve should be larger. Owners often underestimate contingency because they only think about obvious construction costs and not the unpredictable ones. For luxury homes and complex renovations, contingency should be treated as a required budget line, not leftover money. That is especially important in high-cost markets where change orders can quickly push a project over budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A common contingency range is 10% to 20%, but higher-risk projects may need more. Older homes, hillside lots, incomplete plans, and custom finishes usually requ"
+}

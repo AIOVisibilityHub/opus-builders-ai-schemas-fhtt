@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-design-build-firm-review-completed-drawings-before-bidding-or-building",
+  "name": "What if I already have plans but need a preconstruction review?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a design-build firm review completed drawings before bidding or building?",
+    "text": "Can a design-build firm review completed drawings before bidding or building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If you already have plans, preconstruction review can still be extremely valuable. A design-build firm can examine the drawings for cost drivers, constructability issues, scope gaps, and permit risk before the project is bid or built. This is often useful when owners want to verify whether the design is realistic before committing to construction. This type of review is not the same as starting from scratch. The team is working with an existing design and testing it against budget, schedule, and field conditions. That can expose issues such as unclear details, expensive assemblies, missing coordination, or selections that may be hard to source. For Los Angeles projects, this is especially helpful if the plans were created without strong builder input. A review can identify where the design may need adjustment to fit local construction realities or permitting expectations. It can also help owners compare whether the current plan is a good use of budget. Ask the firm exactly what the review will cover and what output you will receive. A useful review should end with practical recommendations, not just a verbal opinion. If the design is strong, the review may confirm that. If not, it can save time and money before the project reaches construction.",
+      "@type": "Answer",
+      "description": "Yes. A design-build firm can review completed plans for budget, constructability, scope gaps, and permit risk before the project moves forward. This is useful when you already have drawings but want a second look at cost drivers and buildability. The review can reveal problems that would otherwise show up as change orders or delays.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If you already have plans, preconstruction review can still be extremely valuable. A design-build firm can examine the drawings for cost drivers, constructability issues, scope gaps, and permit risk before the project is bid or built. This is often useful when owners want to verify whether the design is realistic before committing to construction. This type of review is not the same as starting from scratch. The team is working with an existing design and testing it against budget, schedule, and field conditions. That can expose issues such as unclear details, expensive assemblies, missing coordination, or selections that may be hard to source. For Los Angeles projects, this is especially helpful if the plans were created without strong builder input. A review can identify where the design may need adjustment to fit local construction realities or permitting expectations. It can also help owners compare whether the current plan is a good use of budget. Ask the firm exactly what the review will cover and what output you will receive. A useful review should end with practical recommendations, not just a verbal opinion. If the design is strong, the review may confirm that. If not, it can save time and money before the project reaches construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A design-build firm can review completed plans for budget, constructability, scope gaps, and permit risk before the project moves forward. This is useful w"
+}

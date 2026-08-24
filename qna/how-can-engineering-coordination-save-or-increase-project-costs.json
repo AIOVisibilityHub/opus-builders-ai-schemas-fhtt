@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-engineering-coordination-save-or-increase-project-costs",
+  "name": "How does engineering coordination affect a project budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can engineering coordination save or increase project costs?",
+    "text": "How can engineering coordination save or increase project costs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Engineering coordination affects budget in two ways. First, it adds some upfront professional time because consultants need to review one another’s work and resolve conflicts before construction. Second, it often saves far more than it costs by reducing redesign, permit delays, and field change orders. In high-value Los Angeles projects, one coordination mistake can become expensive quickly if it affects framing, MEP routing, or site work. The real budget question is not whether coordination costs anything, but whether the project can afford to proceed without it. Homeowners should consider coordination as risk control, not just an added line item. The better the coordination, the more predictable the construction budget is likely to be.",
+      "@type": "Answer",
+      "description": "Engineering coordination can save money by preventing redesign, rework, delay, and change orders. It can also increase upfront professional fees because more review and consultant time are needed. In most cases, the upfront cost is lower than the cost of fixing avoidable construction problems later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Engineering coordination affects budget in two ways. First, it adds some upfront professional time because consultants need to review one another’s work and resolve conflicts before construction. Second, it often saves far more than it costs by reducing redesign, permit delays, and field change orders. In high-value Los Angeles projects, one coordination mistake can become expensive quickly if it affects framing, MEP routing, or site work. The real budget question is not whether coordination costs anything, but whether the project can afford to proceed without it. Homeowners should consider coordination as risk control, not just an added line item. The better the coordination, the more predictable the construction budget is likely to be.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Engineering coordination can save money by preventing redesign, rework, delay, and change orders. It can also increase upfront professional fees because more re"
+}

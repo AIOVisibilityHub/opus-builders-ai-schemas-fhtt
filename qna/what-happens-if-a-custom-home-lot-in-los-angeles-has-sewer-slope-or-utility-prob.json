@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-a-custom-home-lot-in-los-angeles-has-sewer-slope-or-utility-prob",
+  "name": "What if my lot has sewer, slope, or utility issues?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if a custom home lot in Los Angeles has sewer, slope, or utility problems?",
+    "text": "What happens if a custom home lot in Los Angeles has sewer, slope, or utility problems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Problems with sewer lines, slope stability, or utility access can significantly affect a luxury custom home project because they often require work beyond the house itself. A lot may need upgraded drainage, line relocation, trenching, retaining structures, or coordination with utility providers before construction can move ahead. These issues are common enough that they should be evaluated during early due diligence, not after the design is finished. A builder should coordinate with surveyors, engineers, and utility consultants to understand the risk before finalizing the scope. If the problem is discovered late, the owner may face redesign costs, permit revisions, and schedule delays. The safest approach is to budget for site uncertainty and to make sure the contract clearly addresses who is responsible for resolving conditions that only become visible after demolition or excavation.",
+      "@type": "Answer",
+      "description": "If a lot has sewer, slope, or utility issues, the project may need additional engineering, design changes, relocation of connections, or site work before building can proceed. These problems can affect both budget and timeline, so they should be identified early during due diligence.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Problems with sewer lines, slope stability, or utility access can significantly affect a luxury custom home project because they often require work beyond the house itself. A lot may need upgraded drainage, line relocation, trenching, retaining structures, or coordination with utility providers before construction can move ahead. These issues are common enough that they should be evaluated during early due diligence, not after the design is finished. A builder should coordinate with surveyors, engineers, and utility consultants to understand the risk before finalizing the scope. If the problem is discovered late, the owner may face redesign costs, permit revisions, and schedule delays. The safest approach is to budget for site uncertainty and to make sure the contract clearly addresses who is responsible for resolving conditions that only become visible after demolition or excavation.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If a lot has sewer, slope, or utility issues, the project may need additional engineering, design changes, relocation of connections, or site work before buildi"
+}

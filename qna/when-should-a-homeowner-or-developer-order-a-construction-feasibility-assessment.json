@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-should-a-homeowner-or-developer-order-a-construction-feasibility-assessment",
+  "name": "What is the best time to order a feasibility assessment?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When should a homeowner or developer order a construction feasibility assessment?",
+    "text": "When should a homeowner or developer order a construction feasibility assessment?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The earlier the better. For a homebuyer, the ideal time is before removing contingencies or closing on the property. For an owner who already has the site, the next best time is before schematic design becomes expensive. The goal is to catch major blockers while decisions are still flexible. Early feasibility work can change whether the project proceeds, what the scope should be, or which design path is most practical. This is especially important in Los Angeles and nearby cities where local conditions can change a simple project into a more complex one. If the site is unusual, steep, tight, or located in a review-heavy area, early assessment becomes even more valuable. Waiting until after design is advanced usually means paying twice: once to design the wrong concept and again to revise it.",
+      "@type": "Answer",
+      "description": "The best time is before purchasing the property or before paying for full architectural design. Ordering it early helps identify zoning, grading, access, utility, and permit issues while there is still room to change direction without major sunk costs.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The earlier the better. For a homebuyer, the ideal time is before removing contingencies or closing on the property. For an owner who already has the site, the next best time is before schematic design becomes expensive. The goal is to catch major blockers while decisions are still flexible. Early feasibility work can change whether the project proceeds, what the scope should be, or which design path is most practical. This is especially important in Los Angeles and nearby cities where local conditions can change a simple project into a more complex one. If the site is unusual, steep, tight, or located in a review-heavy area, early assessment becomes even more valuable. Waiting until after design is advanced usually means paying twice: once to design the wrong concept and again to revise it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best time is before purchasing the property or before paying for full architectural design. Ordering it early helps identify zoning, grading, access, utilit"
+}

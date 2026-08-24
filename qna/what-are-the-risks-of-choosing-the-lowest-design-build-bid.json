@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-risks-of-choosing-the-lowest-design-build-bid",
+  "name": "What are the risks of choosing the lowest design-build bid?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the risks of choosing the lowest design-build bid?",
+    "text": "What are the risks of choosing the lowest design-build bid?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The lowest bid is risky when the scope is not fully apples-to-apples. Some firms understate allowances, omit site work, or price only the simplest version of the project to win the job. That can lead to frequent change orders, delays, and frustration once construction begins. In design-build, an unusually low quote may also signal weak preconstruction planning or limited experience with complex homes. For Los Angeles projects, hidden costs can show up in structural work, utility upgrades, access issues, and permit revisions. Instead of asking which bid is cheapest, ask which proposal is most complete and which firm is best at predicting the real final cost. A fair price with clear assumptions is usually safer than a bargain price with major gaps.",
+      "@type": "Answer",
+      "description": "The lowest bid may exclude permit work, underestimate allowances, or rely on optimistic assumptions that lead to change orders later. A cheap upfront price can become expensive if the team cuts corners, misses scope, or underprices labor and materials.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The lowest bid is risky when the scope is not fully apples-to-apples. Some firms understate allowances, omit site work, or price only the simplest version of the project to win the job. That can lead to frequent change orders, delays, and frustration once construction begins. In design-build, an unusually low quote may also signal weak preconstruction planning or limited experience with complex homes. For Los Angeles projects, hidden costs can show up in structural work, utility upgrades, access issues, and permit revisions. Instead of asking which bid is cheapest, ask which proposal is most complete and which firm is best at predicting the real final cost. A fair price with clear assumptions is usually safer than a bargain price with major gaps.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The lowest bid may exclude permit work, underestimate allowances, or rely on optimistic assumptions that lead to change orders later. A cheap upfront price can "
+}

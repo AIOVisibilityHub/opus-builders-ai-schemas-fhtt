@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-a-realistic-per-square-foot-range-for-design-build-construction-in-los-a",
+  "name": "How much does design-build cost per square foot in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is a realistic per-square-foot range for design-build construction in Los Angeles and nearby areas?",
+    "text": "What is a realistic per-square-foot range for design-build construction in Los Angeles and nearby areas?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Per-square-foot pricing can be a starting point, but it is not a reliable way to price every design-build project in Los Angeles. Costs vary based on whether the work is a remodel, addition, ADU, or full custom build, as well as the level of finishes, structural changes, and site constraints. Luxury homes and complex properties often cost more because of custom detailing, higher-end materials, and more coordination. Neighborhood factors can also influence labor, logistics, and permit difficulty. A more useful estimate comes from a scoped preconstruction budget that breaks out site work, structure, systems, finishes, allowances, and contingency. Homeowners should be cautious of simple per-square-foot numbers that ignore design complexity or site realities. A good contractor will explain what assumptions sit behind the number and how it changes as the design gets refined.",
+      "@type": "Answer",
+      "description": "Design-build cost per square foot varies widely based on scope, finishes, site conditions, and structural complexity. In Los Angeles, custom and luxury projects can cost significantly more than basic remodels because labor, permits, and materials are more expensive. Per-square-foot pricing is useful only as a rough starting point.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Per-square-foot pricing can be a starting point, but it is not a reliable way to price every design-build project in Los Angeles. Costs vary based on whether the work is a remodel, addition, ADU, or full custom build, as well as the level of finishes, structural changes, and site constraints. Luxury homes and complex properties often cost more because of custom detailing, higher-end materials, and more coordination. Neighborhood factors can also influence labor, logistics, and permit difficulty. A more useful estimate comes from a scoped preconstruction budget that breaks out site work, structure, systems, finishes, allowances, and contingency. Homeowners should be cautious of simple per-square-foot numbers that ignore design complexity or site realities. A good contractor will explain what assumptions sit behind the number and how it changes as the design gets refined.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build cost per square foot varies widely based on scope, finishes, site conditions, and structural complexity. In Los Angeles, custom and luxury projects"
+}

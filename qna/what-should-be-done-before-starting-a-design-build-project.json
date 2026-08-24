@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-done-before-starting-a-design-build-project",
+  "name": "What should be done before starting a design-build project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be done before starting a design-build project?",
+    "text": "What should be done before starting a design-build project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best projects begin with clear homeowner goals. Before meeting a design-build firm, define your budget range, must-have spaces, preferred finishes, timing constraints, and any design inspiration that reflects your style. If you have existing plans, surveys, prior permits, or inspection reports, bring those too. For Los Angeles properties, it also helps to know whether there are HOA rules, hillside issues, or known utility limitations. The more information the team has up front, the faster it can identify feasibility and budget risk. Homeowners should also decide who is making selections and how quickly decisions can be made, since slow approvals can delay the entire job. A short planning phase before design starts usually saves time and money later.",
+      "@type": "Answer",
+      "description": "Before starting, define your budget, priorities, timeline, and must-have features, then gather site information such as surveys, existing plans, and utility details if available. The clearer the starting information, the more accurate the design and pricing will be.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best projects begin with clear homeowner goals. Before meeting a design-build firm, define your budget range, must-have spaces, preferred finishes, timing constraints, and any design inspiration that reflects your style. If you have existing plans, surveys, prior permits, or inspection reports, bring those too. For Los Angeles properties, it also helps to know whether there are HOA rules, hillside issues, or known utility limitations. The more information the team has up front, the faster it can identify feasibility and budget risk. Homeowners should also decide who is making selections and how quickly decisions can be made, since slow approvals can delay the entire job. A short planning phase before design starts usually saves time and money later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before starting, define your budget, priorities, timeline, and must-have features, then gather site information such as surveys, existing plans, and utility det"
+}

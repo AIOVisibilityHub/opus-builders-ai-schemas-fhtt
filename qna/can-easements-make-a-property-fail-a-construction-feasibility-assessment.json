@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-easements-make-a-property-fail-a-construction-feasibility-assessment",
+  "name": "How do easements affect buildability?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can easements make a property fail a construction feasibility assessment?",
+    "text": "Can easements make a property fail a construction feasibility assessment?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Easements are one of the most common reasons a project becomes harder than expected. They may restrict building placement, foundations, driveways, utility routes, or drainage improvements. In some cases, an easement does not make the property unusable, but it can reduce the buildable area enough to change the whole design. A feasibility assessment should check recorded documents and compare them with the site plan so the owner understands exactly what is affected. This matters a lot on tight urban lots in Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, where even a small setback change can alter the entire design. If an assessment does not mention easements, it may be too shallow to rely on. The report should explain whether the easement is a minor note or a major buildability constraint.",
+      "@type": "Answer",
+      "description": "Yes. Easements can limit where you can build, excavate, place utilities, or access the site. A feasibility assessment should identify recorded and visible easements early because they can shrink the buildable area or force expensive redesigns.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Easements are one of the most common reasons a project becomes harder than expected. They may restrict building placement, foundations, driveways, utility routes, or drainage improvements. In some cases, an easement does not make the property unusable, but it can reduce the buildable area enough to change the whole design. A feasibility assessment should check recorded documents and compare them with the site plan so the owner understands exactly what is affected. This matters a lot on tight urban lots in Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood, where even a small setback change can alter the entire design. If an assessment does not mention easements, it may be too shallow to rely on. The report should explain whether the easement is a minor note or a major buildability constraint.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Easements can limit where you can build, excavate, place utilities, or access the site. A feasibility assessment should identify recorded and visible easem"
+}

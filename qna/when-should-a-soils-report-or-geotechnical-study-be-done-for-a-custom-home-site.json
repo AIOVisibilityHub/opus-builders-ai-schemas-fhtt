@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-should-a-soils-report-or-geotechnical-study-be-done-for-a-custom-home-site",
+  "name": "How do I know if my lot needs geotechnical work before design starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When should a soils report or geotechnical study be done for a custom home site?",
+    "text": "When should a soils report or geotechnical study be done for a custom home site?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A geotechnical study should be done early whenever the lot has slope, questionable soil conditions, prior fill, drainage problems, or any design that depends on a more complex foundation system. The report helps the team understand how the building will sit on the site, what kind of foundation is appropriate, and whether grading or retaining solutions will be required. Waiting too long can create costly redesigns if the soils report changes assumptions already built into the plans. For custom homes in Los Angeles, early geotechnical input is especially useful on hillside sites, lots with basements, and properties with visible cracking, settlement, or runoff issues. The goal is to design around the real site conditions instead of discovering them after permit submittal.",
+      "@type": "Answer",
+      "description": "A soils or geotechnical study is often needed before final design when the lot is sloped, previously disturbed, has drainage issues, or may require a basement or retaining walls. The report helps guide foundation and grading decisions. Doing it early reduces redesign risk and permit delays.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A geotechnical study should be done early whenever the lot has slope, questionable soil conditions, prior fill, drainage problems, or any design that depends on a more complex foundation system. The report helps the team understand how the building will sit on the site, what kind of foundation is appropriate, and whether grading or retaining solutions will be required. Waiting too long can create costly redesigns if the soils report changes assumptions already built into the plans. For custom homes in Los Angeles, early geotechnical input is especially useful on hillside sites, lots with basements, and properties with visible cracking, settlement, or runoff issues. The goal is to design around the real site conditions instead of discovering them after permit submittal.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A soils or geotechnical study is often needed before final design when the lot is sloped, previously disturbed, has drainage issues, or may require a basement o"
+}

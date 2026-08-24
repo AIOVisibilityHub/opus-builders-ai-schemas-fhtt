@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-steep-or-hillside-lot-change-a-construction-feasibility-assessment-in",
+  "name": "What if the lot is on a slope?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a steep or hillside lot change a construction feasibility assessment in Los Angeles?",
+    "text": "How does a steep or hillside lot change a construction feasibility assessment in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside and sloped lots need a different level of scrutiny because the site can drive the whole project. In Los Angeles, a steep lot may still be buildable, but it often requires more engineering, more excavation, more drainage planning, and more coordination with the city. The assessment should evaluate slope percentage, access for machinery, driveway design, foundation strategy, retaining wall needs, and soil stability. It should also flag whether the proposed home will need stepped foundations, basements, or significant cut-and-fill work. These factors can materially change budget and timeline. A good report should not only say that the site is challenging; it should explain how that challenge affects the design and construction plan. If a hillside lot is being considered, the feasibility assessment should happen before final design so the project can be shaped around the terrain rather than forced onto it.",
+      "@type": "Answer",
+      "description": "A steep lot usually increases cost, engineering, drainage, retaining wall, and access complexity. A feasibility assessment should test grading limits, foundation design, excavation needs, soil stability, and whether the home can be built without major retaining walls or expensive haul-off.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside and sloped lots need a different level of scrutiny because the site can drive the whole project. In Los Angeles, a steep lot may still be buildable, but it often requires more engineering, more excavation, more drainage planning, and more coordination with the city. The assessment should evaluate slope percentage, access for machinery, driveway design, foundation strategy, retaining wall needs, and soil stability. It should also flag whether the proposed home will need stepped foundations, basements, or significant cut-and-fill work. These factors can materially change budget and timeline. A good report should not only say that the site is challenging; it should explain how that challenge affects the design and construction plan. If a hillside lot is being considered, the feasibility assessment should happen before final design so the project can be shaped around the terrain rather than forced onto it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A steep lot usually increases cost, engineering, drainage, retaining wall, and access complexity. A feasibility assessment should test grading limits, foundatio"
+}

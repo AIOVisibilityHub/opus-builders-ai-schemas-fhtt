@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-design-build-firm-different-from-hiring-a-general-contractor-who-also-helps",
+  "name": "What is the difference between design-build and a general contractor in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a design-build firm different from hiring a general contractor who also helps with plans?",
+    "text": "Is a design-build firm different from hiring a general contractor who also helps with plans?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A general contractor typically takes plans created by someone else and builds them, though some may assist with value engineering or recommend designers. A design-build firm, by contrast, is structured to handle both design development and construction execution together. That changes how the project is planned, priced, and managed. For Los Angeles homeowners, the distinction matters because integrated teams can often anticipate structural, permitting, and scheduling issues earlier. A contractor who only offers informal design help may still leave the homeowner juggling separate responsibilities and contracts. Before hiring, ask whether the company has true in-house or tightly coordinated design capability, whether drawings are part of the service, and who is responsible for permit documents and revisions. The right answer depends on whether the homeowner wants a construction-only role or a full-service delivery model.",
+      "@type": "Answer",
+      "description": "A design-build firm manages both design and construction under one contract, while a general contractor usually focuses on building and may only coordinate with outside designers. Some contractors offer limited design help, but that is not the same as an integrated design-build process. The difference affects accountability and coordination.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A general contractor typically takes plans created by someone else and builds them, though some may assist with value engineering or recommend designers. A design-build firm, by contrast, is structured to handle both design development and construction execution together. That changes how the project is planned, priced, and managed. For Los Angeles homeowners, the distinction matters because integrated teams can often anticipate structural, permitting, and scheduling issues earlier. A contractor who only offers informal design help may still leave the homeowner juggling separate responsibilities and contracts. Before hiring, ask whether the company has true in-house or tightly coordinated design capability, whether drawings are part of the service, and who is responsible for permit documents and revisions. The right answer depends on whether the homeowner wants a construction-only role or a full-service delivery model.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A design-build firm manages both design and construction under one contract, while a general contractor usually focuses on building and may only coordinate with"
+}

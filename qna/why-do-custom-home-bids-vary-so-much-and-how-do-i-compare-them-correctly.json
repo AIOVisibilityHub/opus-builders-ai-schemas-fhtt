@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-custom-home-bids-vary-so-much-and-how-do-i-compare-them-correctly",
+  "name": "How do I compare custom home builders when prices are very different?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do custom home bids vary so much, and how do I compare them correctly?",
+    "text": "Why do custom home bids vary so much, and how do I compare them correctly?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Custom home bids often differ because each contractor may be pricing a different scope, even when the totals look similar. One bid may include higher-quality allowances, more detailed site work, or more complete permit coordination, while another may rely on very low allowances that are unlikely to cover the actual selections. To compare bids correctly, homeowners should review the scope line by line and look for exclusions related to site prep, grading, utilities, landscaping, appliances, fixtures, and finish upgrades. It also helps to ask how the builder handles change orders and whether the proposal includes contingency for unknown site conditions. The cheapest number is not always the best value if it shifts risk back to the owner. A reliable comparison depends on apples-to-apples scope, not just the bottom line.",
+      "@type": "Answer",
+      "description": "Custom home bids vary because builders may include different allowances, site work, finishes, and permit responsibilities. A lower bid is not always cheaper if it excludes major items or assumes basic materials. Compare the scope, exclusions, allowances, and assumptions line by line before choosing a builder.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Custom home bids often differ because each contractor may be pricing a different scope, even when the totals look similar. One bid may include higher-quality allowances, more detailed site work, or more complete permit coordination, while another may rely on very low allowances that are unlikely to cover the actual selections. To compare bids correctly, homeowners should review the scope line by line and look for exclusions related to site prep, grading, utilities, landscaping, appliances, fixtures, and finish upgrades. It also helps to ask how the builder handles change orders and whether the proposal includes contingency for unknown site conditions. The cheapest number is not always the best value if it shifts risk back to the owner. A reliable comparison depends on apples-to-apples scope, not just the bottom line.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Custom home bids vary because builders may include different allowances, site work, finishes, and permit responsibilities. A lower bid is not always cheaper if "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-signs-a-design-build-firm-is-hiding-scope-gaps",
+  "name": "What are the signs a design-build firm is hiding scope gaps?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the signs a design-build firm is hiding scope gaps?",
+    "text": "What are the signs a design-build firm is hiding scope gaps?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Scope gaps usually show up when a proposal sounds complete but lacks detail. Watch for missing permit language, undefined allowances, unclear demolition boundaries, and no mention of site protection, cleanup, or utility coordination. If one proposal is far lower than the rest, it may simply omit key tasks rather than offer a better value. In design-build, good documentation protects both parties by making expectations explicit. Homeowners should compare proposals line by line and ask direct questions about any item that seems too broad. The most reliable firms will welcome that scrutiny and explain their assumptions. If answers stay vague, the estimate is probably not ready for a serious project.",
+      "@type": "Answer",
+      "description": "Warning signs include vague exclusions, unclear allowances, no detailed schedule, no permit responsibility, and a quote that is much lower than others. If the proposal avoids specific scope language, important work may be missing.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Scope gaps usually show up when a proposal sounds complete but lacks detail. Watch for missing permit language, undefined allowances, unclear demolition boundaries, and no mention of site protection, cleanup, or utility coordination. If one proposal is far lower than the rest, it may simply omit key tasks rather than offer a better value. In design-build, good documentation protects both parties by making expectations explicit. Homeowners should compare proposals line by line and ask direct questions about any item that seems too broad. The most reliable firms will welcome that scrutiny and explain their assumptions. If answers stay vague, the estimate is probably not ready for a serious project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Warning signs include vague exclusions, unclear allowances, no detailed schedule, no permit responsibility, and a quote that is much lower than others. If the p"
+}

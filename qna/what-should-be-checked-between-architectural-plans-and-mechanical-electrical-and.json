@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-checked-between-architectural-plans-and-mechanical-electrical-and",
+  "name": "How do you coordinate architectural drawings with MEP systems in a luxury home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be checked between architectural plans and mechanical, electrical, and plumbing drawings to avoid field conflicts?",
+    "text": "What should be checked between architectural plans and mechanical, electrical, and plumbing drawings to avoid field conflicts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "MEP coordination is one of the most important parts of architectural coordination in a luxury home because mechanical, electrical, and plumbing systems often compete for the same spaces. The team should check ceiling heights, duct routes, light fixture locations, sprinkler heads, plumbing stacks, equipment clearances, access panels, and any concealed systems that need service access. The architectural drawings need to protect the design intent while making room for the systems to function properly. That is especially important in homes with long spans, large rooms, hidden diffusers, custom lighting, or minimal ceiling drop allowances. If coordination happens late, the project may lose ceiling height, create awkward bulkheads, or force visible revisions. The best process is to review these systems before permit documents are finalized and again before field installation. Ask whether the team uses coordination overlays or model-based review to catch clashes early. Good MEP coordination is often what separates a polished custom home from one with visible compromises.",
+      "@type": "Answer",
+      "description": "Architectural and MEP coordination should verify ceiling heights, duct routes, fixture locations, switch placement, plumbing stacks, equipment clearances, and access panels. The goal is to make sure the systems fit inside the architecture without reducing design quality or function. Early coordination prevents costly clashes and visible compromises.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "MEP coordination is one of the most important parts of architectural coordination in a luxury home because mechanical, electrical, and plumbing systems often compete for the same spaces. The team should check ceiling heights, duct routes, light fixture locations, sprinkler heads, plumbing stacks, equipment clearances, access panels, and any concealed systems that need service access. The architectural drawings need to protect the design intent while making room for the systems to function properly. That is especially important in homes with long spans, large rooms, hidden diffusers, custom lighting, or minimal ceiling drop allowances. If coordination happens late, the project may lose ceiling height, create awkward bulkheads, or force visible revisions. The best process is to review these systems before permit documents are finalized and again before field installation. Ask whether the team uses coordination overlays or model-based review to catch clashes early. Good MEP coordination is often what separates a polished custom home from one with visible compromises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Architectural and MEP coordination should verify ceiling heights, duct routes, fixture locations, switch placement, plumbing stacks, equipment clearances, and a"
+}

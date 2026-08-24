@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-a-physical-site-visit-necessary-for-a-reliable-construction-feasibility-asses",
+  "name": "Should a feasibility assessment include a site walk?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is a physical site visit necessary for a reliable construction feasibility assessment?",
+    "text": "Is a physical site visit necessary for a reliable construction feasibility assessment?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A physical site visit adds real-world context that maps and records often miss. On paper, a property may look easy to build on, but on site there may be access problems, retaining wall needs, drainage problems, or neighbor conditions that affect staging and construction. For Los Angeles-area projects, site visits are especially useful on hillside lots, tight urban parcels, and properties with mature trees, narrow driveways, or visible utility conflicts. A feasibility assessment that includes a site walk is usually more trustworthy because it combines record research with field observations. If an assessment is being used for a purchase decision or a major renovation, a site visit is one of the best ways to reduce blind spots. Owners should ask exactly who is attending the visit and whether the observations are being translated into design and cost implications.",
+      "@type": "Answer",
+      "description": "A site walk is strongly recommended because many buildability issues are not visible in records alone. On-site review can reveal slope changes, drainage patterns, access problems, neighboring encroachments, utility locations, and practical staging constraints that documents may miss.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A physical site visit adds real-world context that maps and records often miss. On paper, a property may look easy to build on, but on site there may be access problems, retaining wall needs, drainage problems, or neighbor conditions that affect staging and construction. For Los Angeles-area projects, site visits are especially useful on hillside lots, tight urban parcels, and properties with mature trees, narrow driveways, or visible utility conflicts. A feasibility assessment that includes a site walk is usually more trustworthy because it combines record research with field observations. If an assessment is being used for a purchase decision or a major renovation, a site visit is one of the best ways to reduce blind spots. Owners should ask exactly who is attending the visit and whether the observations are being translated into design and cost implications.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A site walk is strongly recommended because many buildability issues are not visible in records alone. On-site review can reveal slope changes, drainage pattern"
+}

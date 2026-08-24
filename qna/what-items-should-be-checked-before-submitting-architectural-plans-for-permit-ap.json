@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-items-should-be-checked-before-submitting-architectural-plans-for-permit-ap",
+  "name": "What should be included in a coordination checklist for permit drawings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What items should be checked before submitting architectural plans for permit approval in Los Angeles-area cities?",
+    "text": "What items should be checked before submitting architectural plans for permit approval in Los Angeles-area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A permit drawing coordination checklist should confirm that every major sheet matches the rest of the set. That means checking dimensions, room labels, wall types, window and door schedules, structural notes, stair details, roof heights, setbacks, and any code-required clearances. The architectural plans should also match the structural, mechanical, plumbing, and electrical sheets so reviewers do not find contradictions. It helps to verify that all design changes made during revisions were carried through to elevations, sections, details, and schedules. Common misses include a moved wall that was not updated in the structural plan, a window size that no longer matches the elevation, or mechanical equipment that conflicts with roof design. For permit submittals, even small inconsistencies can create correction cycles. In Los Angeles-area jurisdictions, a strong checklist should also confirm that consultant sheets, title blocks, code data, and project addresses are all consistent. The more complex the home, the more important it is to have a formal pre-submittal review. Ask the team whether they use an internal QA/QC process before filing.",
+      "@type": "Answer",
+      "description": "A permit coordination checklist should include dimensions, code compliance, setbacks, heights, egress, stair geometry, structural callouts, MEP routing, fire and life safety items, and consistency between all drawing sheets. It should also confirm that details, schedules, and notes match the floor plans and elevations. Missing coordination items often trigger corrections.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A permit drawing coordination checklist should confirm that every major sheet matches the rest of the set. That means checking dimensions, room labels, wall types, window and door schedules, structural notes, stair details, roof heights, setbacks, and any code-required clearances. The architectural plans should also match the structural, mechanical, plumbing, and electrical sheets so reviewers do not find contradictions. It helps to verify that all design changes made during revisions were carried through to elevations, sections, details, and schedules. Common misses include a moved wall that was not updated in the structural plan, a window size that no longer matches the elevation, or mechanical equipment that conflicts with roof design. For permit submittals, even small inconsistencies can create correction cycles. In Los Angeles-area jurisdictions, a strong checklist should also confirm that consultant sheets, title blocks, code data, and project addresses are all consistent. The more complex the home, the more important it is to have a formal pre-submittal review. Ask the team whether they use an internal QA/QC process before filing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A permit coordination checklist should include dimensions, code compliance, setbacks, heights, egress, stair geometry, structural callouts, MEP routing, fire an"
+}

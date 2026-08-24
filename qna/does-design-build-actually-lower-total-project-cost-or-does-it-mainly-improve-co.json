@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-design-build-actually-lower-total-project-cost-or-does-it-mainly-improve-co",
+  "name": "Can design-build save money on a custom home in the Los Angeles area?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does design-build actually lower total project cost, or does it mainly improve coordination?",
+    "text": "Does design-build actually lower total project cost, or does it mainly improve coordination?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build can save money, but the savings often show up in the total project outcome rather than in the initial price tag. Because design and construction are coordinated together, the team can identify cost issues early, avoid unnecessary redesign, and reduce the chance of expensive change orders later. That is especially valuable in custom homes, where small design choices can have major cost implications. In Los Angeles, the value also comes from local permit knowledge, accurate budgeting, and better planning for site conditions. However, design-build does not automatically mean cheaper. If the project includes luxury finishes, structural complexity, or major scope changes, the price may still be high. The real advantage is better alignment between design intent, budget, and buildability, which often creates a more predictable overall result.",
+      "@type": "Answer",
+      "description": "Design-build can save money by reducing redesign, limiting change orders, and improving constructability. It does not always create the lowest upfront bid, but it can lower total project cost when coordination problems are avoided. The biggest savings often come from fewer mistakes and better early decisions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build can save money, but the savings often show up in the total project outcome rather than in the initial price tag. Because design and construction are coordinated together, the team can identify cost issues early, avoid unnecessary redesign, and reduce the chance of expensive change orders later. That is especially valuable in custom homes, where small design choices can have major cost implications. In Los Angeles, the value also comes from local permit knowledge, accurate budgeting, and better planning for site conditions. However, design-build does not automatically mean cheaper. If the project includes luxury finishes, structural complexity, or major scope changes, the price may still be high. The real advantage is better alignment between design intent, budget, and buildability, which often creates a more predictable overall result.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build can save money by reducing redesign, limiting change orders, and improving constructability. It does not always create the lowest upfront bid, but "
+}

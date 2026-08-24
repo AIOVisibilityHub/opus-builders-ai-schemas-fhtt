@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-done-if-structural-drawings-clash-with-mechanical-electrical-or-p",
+  "name": "What happens when structural and MEP drawings conflict?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be done if structural drawings clash with mechanical, electrical, or plumbing plans?",
+    "text": "What should be done if structural drawings clash with mechanical, electrical, or plumbing plans?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When structural and MEP drawings conflict, the project should not move forward until the team resolves the issue across all affected disciplines. A beam, joist, or shear wall may block ductwork, piping, or conduit, or an MEP route may weaken a structural element. The correct fix depends on the project, but the process should always include review by both the structural engineer and the MEP designer, with the architect confirming that the change still fits the design. In complex homes, a seemingly small conflict can affect ceiling heights, soffits, equipment access, and finish work. That is why coordination should happen before construction, not after crews are already in the field. Homeowners should expect the team to issue updated, consistent drawings before work continues.",
+      "@type": "Answer",
+      "description": "If structural and MEP drawings conflict, the team should pause, identify the affected systems, and revise the coordinated set before construction continues. The structural change may require rerouting ducts, pipes, or conduit, or it may require a structural redesign. The fix should be approved across all disciplines, not just one sheet.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When structural and MEP drawings conflict, the project should not move forward until the team resolves the issue across all affected disciplines. A beam, joist, or shear wall may block ductwork, piping, or conduit, or an MEP route may weaken a structural element. The correct fix depends on the project, but the process should always include review by both the structural engineer and the MEP designer, with the architect confirming that the change still fits the design. In complex homes, a seemingly small conflict can affect ceiling heights, soffits, equipment access, and finish work. That is why coordination should happen before construction, not after crews are already in the field. Homeowners should expect the team to issue updated, consistent drawings before work continues.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If structural and MEP drawings conflict, the team should pause, identify the affected systems, and revise the coordinated set before construction continues. The"
+}

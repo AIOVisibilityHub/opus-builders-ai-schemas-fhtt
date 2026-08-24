@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-a-pre-permit-engineering-coordination-checklist-include",
+  "name": "What should be included in a coordination checklist before permit submittal?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should a pre-permit engineering coordination checklist include?",
+    "text": "What should a pre-permit engineering coordination checklist include?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before permit submittal, a coordination checklist should confirm that all drawings tell the same story. That means checking dimensions, section details, structural framing, foundation notes, grading, drainage, utility routing, mechanical and electrical equipment locations, fire and safety requirements, and any city-specific notes. The team should also confirm that every consultant is working from the same architectural base set and that revision numbers are current. In Los Angeles-area projects, this is especially important because permit reviewers often notice inconsistencies quickly and send the package back for correction. A strong checklist also includes constructability checks, like whether equipment can physically fit in the assigned space or whether a beam conflicts with ducting or plumbing. Homeowners should ask their team whether they use a formal pre-submittal review, not just an informal walkthrough.",
+      "@type": "Answer",
+      "description": "A pre-permit coordination checklist should verify dimensions, structural framing, foundation details, grading, drainage, utility routing, equipment clearances, code notes, and consistency across all plan sheets. It should also confirm that revisions are tracked and that all consultant drawings match the latest architectural set.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before permit submittal, a coordination checklist should confirm that all drawings tell the same story. That means checking dimensions, section details, structural framing, foundation notes, grading, drainage, utility routing, mechanical and electrical equipment locations, fire and safety requirements, and any city-specific notes. The team should also confirm that every consultant is working from the same architectural base set and that revision numbers are current. In Los Angeles-area projects, this is especially important because permit reviewers often notice inconsistencies quickly and send the package back for correction. A strong checklist also includes constructability checks, like whether equipment can physically fit in the assigned space or whether a beam conflicts with ducting or plumbing. Homeowners should ask their team whether they use a formal pre-submittal review, not just an informal walkthrough.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A pre-permit coordination checklist should verify dimensions, structural framing, foundation details, grading, drainage, utility routing, equipment clearances, "
+}

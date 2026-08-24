@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-coordination-problems-still-happen-after-plans-are-approved",
+  "name": "What causes engineering coordination problems during construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do coordination problems still happen after plans are approved?",
+    "text": "Why do coordination problems still happen after plans are approved?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Even approved plans can create problems in the field if the team has not kept the design fully coordinated through the start of construction. Common causes include hidden site conditions, missed field measurements, design changes made after permit approval, subcontractors working from outdated sheets, and unclear responsibility for last-minute revisions. In older Los Angeles homes, unexpected framing, utility, or foundation conditions often appear after demolition, which can force quick design decisions. The best way to reduce these issues is to verify conditions on site, maintain strict version control, and make sure every trade is using the current set of documents. Homeowners should ask how the team handles field discoveries and whether there is a clear process for rapid engineering review when the unexpected appears.",
+      "@type": "Answer",
+      "description": "Coordination problems during construction usually happen because of hidden site conditions, incomplete field verification, outdated drawings, or late design changes. Even approved plans can fail if the team does not compare the latest revisions before work starts. Good site communication is as important as good design coordination.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Even approved plans can create problems in the field if the team has not kept the design fully coordinated through the start of construction. Common causes include hidden site conditions, missed field measurements, design changes made after permit approval, subcontractors working from outdated sheets, and unclear responsibility for last-minute revisions. In older Los Angeles homes, unexpected framing, utility, or foundation conditions often appear after demolition, which can force quick design decisions. The best way to reduce these issues is to verify conditions on site, maintain strict version control, and make sure every trade is using the current set of documents. Homeowners should ask how the team handles field discoveries and whether there is a clear process for rapid engineering review when the unexpected appears.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Coordination problems during construction usually happen because of hidden site conditions, incomplete field verification, outdated drawings, or late design cha"
+}

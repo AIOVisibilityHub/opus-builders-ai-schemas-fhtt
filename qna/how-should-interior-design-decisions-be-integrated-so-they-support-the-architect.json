@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-interior-design-decisions-be-integrated-so-they-support-the-architect",
+  "name": "How do you coordinate with interior design without losing the architectural intent?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should interior design decisions be integrated so they support the architecture instead of forcing constant plan changes?",
+    "text": "How should interior design decisions be integrated so they support the architecture instead of forcing constant plan changes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Interior design works best when it is coordinated early and tied to the architectural framework, not added as an afterthought. The architecture should establish room proportions, circulation, structure, window placement, and ceiling heights. The interior design should then refine finishes, fixtures, millwork, lighting, and furnishings within those boundaries. If the interior design arrives too late, it can force changes to walls, ceilings, or structural openings, which often creates cost and schedule issues. That is why shared floor plans, reflected ceiling plans, finish schedules, and milestone reviews matter. The team should make sure the design intent is consistent across architecture and interiors before fabrication starts. For high-end homes, the best coordination process also protects the visual language of the house. Materials, trim details, and built-ins should complement the architecture rather than fight it. Ask whether the team coordinates interior design decisions at the same time as architectural revisions, not after. That approach usually produces a cleaner result.",
+      "@type": "Answer",
+      "description": "Interior design should be coordinated through shared floor plans, reflected ceiling plans, finish schedules, and milestone reviews. The architecture should set the spatial framework, while interior decisions refine materials, built-ins, and lighting within that framework. Early alignment prevents conflicts between layout, structure, and finishes.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Interior design works best when it is coordinated early and tied to the architectural framework, not added as an afterthought. The architecture should establish room proportions, circulation, structure, window placement, and ceiling heights. The interior design should then refine finishes, fixtures, millwork, lighting, and furnishings within those boundaries. If the interior design arrives too late, it can force changes to walls, ceilings, or structural openings, which often creates cost and schedule issues. That is why shared floor plans, reflected ceiling plans, finish schedules, and milestone reviews matter. The team should make sure the design intent is consistent across architecture and interiors before fabrication starts. For high-end homes, the best coordination process also protects the visual language of the house. Materials, trim details, and built-ins should complement the architecture rather than fight it. Ask whether the team coordinates interior design decisions at the same time as architectural revisions, not after. That approach usually produces a cleaner result.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Interior design should be coordinated through shared floor plans, reflected ceiling plans, finish schedules, and milestone reviews. The architecture should set "
+}

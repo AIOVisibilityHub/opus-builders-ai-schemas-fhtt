@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-different-about-coordinating-architectural-and-structural-drawings-on-sl",
+  "name": "How do you coordinate architecture with structural engineering on a hillside lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is different about coordinating architectural and structural drawings on sloped or hillside properties in Los Angeles?",
+    "text": "What is different about coordinating architectural and structural drawings on sloped or hillside properties in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside lots create coordination challenges because the architecture, grading, foundation design, and structural system all affect one another. The house plan cannot be finalized without considering slope, retaining conditions, lateral support, drainage, and access for construction. Structural requirements may change floor elevations, footing locations, wall thicknesses, or the placement of shear elements. This means architectural coordination must happen much earlier and more often than on a flat lot. The architect and structural engineer should review the layout together before the design is locked, not after permit drawings are complete. On hillside homes, even small design changes can affect excavation, retaining walls, drainage paths, and foundation cost. A good coordination process also checks how the home meets the site from the street, how utilities will enter the property, and whether large openings or cantilevers are feasible. Homeowners should ask whether the team has experience with hillside conditions in Los Angeles-area neighborhoods. That experience matters because the best-looking plan is not useful if it is structurally inefficient or difficult to build on the site.",
+      "@type": "Answer",
+      "description": "Hillside projects need closer architectural and structural coordination because grading, retaining, foundations, lateral loads, and access constraints affect the layout early. The structure may dictate footing depth, shear walls, and framing elevations, while the architecture must adapt without losing design intent. Early collaboration prevents expensive redesigns.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside lots create coordination challenges because the architecture, grading, foundation design, and structural system all affect one another. The house plan cannot be finalized without considering slope, retaining conditions, lateral support, drainage, and access for construction. Structural requirements may change floor elevations, footing locations, wall thicknesses, or the placement of shear elements. This means architectural coordination must happen much earlier and more often than on a flat lot. The architect and structural engineer should review the layout together before the design is locked, not after permit drawings are complete. On hillside homes, even small design changes can affect excavation, retaining walls, drainage paths, and foundation cost. A good coordination process also checks how the home meets the site from the street, how utilities will enter the property, and whether large openings or cantilevers are feasible. Homeowners should ask whether the team has experience with hillside conditions in Los Angeles-area neighborhoods. That experience matters because the best-looking plan is not useful if it is structurally inefficient or difficult to build on the site.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hillside projects need closer architectural and structural coordination because grading, retaining, foundations, lateral loads, and access constraints affect th"
+}

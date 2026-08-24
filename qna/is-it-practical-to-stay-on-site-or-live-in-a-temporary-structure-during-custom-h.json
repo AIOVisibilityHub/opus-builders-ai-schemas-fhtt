@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-practical-to-stay-on-site-or-live-in-a-temporary-structure-during-custom-h",
+  "name": "Can I live on the lot while building a new custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it practical to stay on-site or live in a temporary structure during custom home construction?",
+    "text": "Is it practical to stay on-site or live in a temporary structure during custom home construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Living on the lot during construction is possible in some situations, but it is usually difficult to make it efficient and safe. The answer depends on whether there is an existing structure, whether utilities can remain active, how the site is fenced and staged, and whether inspections or machinery access would be blocked. On compact or hillside lots, on-site living can interfere with logistics and create safety concerns. Temporary housing off-site is often the smoother option because it gives the builder more room to work and reduces disruption for the owner. If staying on the property is being considered, the project team should confirm local rules, temporary utility needs, and whether the arrangement would affect insurance or construction sequencing. It is a decision that should be made before construction begins, not after demolition starts.",
+      "@type": "Answer",
+      "description": "Living on the lot during custom home construction is sometimes possible, but it depends on safety, zoning, utility access, and how the site is staged. In many cases, temporary housing off-site is simpler and safer. On-site living can slow work if access, inspections, or utility setups are constrained.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Living on the lot during construction is possible in some situations, but it is usually difficult to make it efficient and safe. The answer depends on whether there is an existing structure, whether utilities can remain active, how the site is fenced and staged, and whether inspections or machinery access would be blocked. On compact or hillside lots, on-site living can interfere with logistics and create safety concerns. Temporary housing off-site is often the smoother option because it gives the builder more room to work and reduces disruption for the owner. If staying on the property is being considered, the project team should confirm local rules, temporary utility needs, and whether the arrangement would affect insurance or construction sequencing. It is a decision that should be made before construction begins, not after demolition starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Living on the lot during custom home construction is sometimes possible, but it depends on safety, zoning, utility access, and how the site is staged. In many c"
+}

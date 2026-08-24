@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-real-difference-between-design-build-and-the-traditional-architect-p",
+  "name": "How is design-build different from hiring an architect and contractor separately?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the real difference between design-build and the traditional architect-plus-contractor model?",
+    "text": "What is the real difference between design-build and the traditional architect-plus-contractor model?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The biggest difference is responsibility. In design-build, one team is responsible for both designing the project and building it, so the design is typically developed with budget, constructability, and schedule in mind from the start. In the traditional model, the architect designs first and the contractor prices and builds later, which can create mismatches between the plans and the construction budget. For homeowners in Los Angeles, design-build often works well for remodels, additions, and custom homes where speed and coordination matter. The traditional method may be better when a homeowner wants a highly independent design phase or multiple bid options before selecting a builder. A good comparison should look at communication style, cost transparency, and how much flexibility the homeowner wants during design changes. The best choice depends on whether the priority is creative exploration, fixed-budget control, or faster delivery.",
+      "@type": "Answer",
+      "description": "Design-build uses one integrated team for both design and construction, while the traditional model separates the architect and contractor into different contracts. In design-build, decisions are coordinated earlier, which can shorten timelines and reduce conflicts. In the traditional model, design may be more independent, but coordination issues can increase during construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The biggest difference is responsibility. In design-build, one team is responsible for both designing the project and building it, so the design is typically developed with budget, constructability, and schedule in mind from the start. In the traditional model, the architect designs first and the contractor prices and builds later, which can create mismatches between the plans and the construction budget. For homeowners in Los Angeles, design-build often works well for remodels, additions, and custom homes where speed and coordination matter. The traditional method may be better when a homeowner wants a highly independent design phase or multiple bid options before selecting a builder. A good comparison should look at communication style, cost transparency, and how much flexibility the homeowner wants during design changes. The best choice depends on whether the priority is creative exploration, fixed-budget control, or faster delivery.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build uses one integrated team for both design and construction, while the traditional model separates the architect and contractor into different contra"
+}

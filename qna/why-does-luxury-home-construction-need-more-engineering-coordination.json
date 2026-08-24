@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-does-luxury-home-construction-need-more-engineering-coordination",
+  "name": "Is engineering coordination different for luxury homes than standard homes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why does luxury home construction need more engineering coordination?",
+    "text": "Why does luxury home construction need more engineering coordination?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Luxury home projects usually require more coordination than standard homes because the design is more custom and the tolerance for mistakes is lower. Large openings, floating stairs, hidden HVAC, expansive glazing, specialty finishes, pools, basements, and complex lighting all create more opportunities for conflicts between disciplines. The project may also involve more consultants and more revision cycles because the design is being tailored to the site and the owner’s preferences. In Los Angeles-area luxury homes, coordination is especially important where the architecture is ambitious and the site has restrictions. A good coordination process helps preserve the design vision while making sure the project is actually buildable. Homeowners should expect more up-front technical review, more consultant communication, and more detail checking than on a basic production-style home.",
+      "@type": "Answer",
+      "description": "Luxury homes usually need more engineering coordination because they have more custom details, more systems, tighter finish tolerances, and more complex site or architecture demands. High-end projects often include hidden mechanical systems, specialty materials, larger openings, and more consultants, all of which increase the chance of conflicts.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Luxury home projects usually require more coordination than standard homes because the design is more custom and the tolerance for mistakes is lower. Large openings, floating stairs, hidden HVAC, expansive glazing, specialty finishes, pools, basements, and complex lighting all create more opportunities for conflicts between disciplines. The project may also involve more consultants and more revision cycles because the design is being tailored to the site and the owner’s preferences. In Los Angeles-area luxury homes, coordination is especially important where the architecture is ambitious and the site has restrictions. A good coordination process helps preserve the design vision while making sure the project is actually buildable. Homeowners should expect more up-front technical review, more consultant communication, and more detail checking than on a basic production-style home.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Luxury homes usually need more engineering coordination because they have more custom details, more systems, tighter finish tolerances, and more complex site or"
+}

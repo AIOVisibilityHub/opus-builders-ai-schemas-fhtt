@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-decided-early-so-the-architect-builder-and-consultants-can-stay-a",
+  "name": "What questions should be answered in the first coordination meeting with a builder?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be decided early so the architect, builder, and consultants can stay aligned throughout the project?",
+    "text": "What should be decided early so the architect, builder, and consultants can stay aligned throughout the project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The first coordination meeting with a builder should establish how the project will work, not just what it will look like. The team should confirm scope, schedule targets, budget expectations, consultant roles, communication methods, and the approval process for changes. It is also smart to identify long-lead items and any site conditions that could affect planning. This meeting should create a shared understanding of priorities. For example, the team may need to decide whether the project is driven by design flexibility, speed, budget control, or a combination of all three. That makes later decisions easier because everyone knows the rules of the road. The best first meetings also set expectations for when drawings will be reviewed and who signs off on revisions. If that structure is missing, coordination can become reactive. For homeowners, the value of the first meeting is in preventing confusion later, not in solving every detail on day one.",
+      "@type": "Answer",
+      "description": "The first coordination meeting should confirm scope, schedule, budget targets, communication flow, design priorities, consultant roles, and how changes will be approved. It should also identify long-lead items and any site constraints. Early agreement on process prevents confusion later.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The first coordination meeting with a builder should establish how the project will work, not just what it will look like. The team should confirm scope, schedule targets, budget expectations, consultant roles, communication methods, and the approval process for changes. It is also smart to identify long-lead items and any site conditions that could affect planning. This meeting should create a shared understanding of priorities. For example, the team may need to decide whether the project is driven by design flexibility, speed, budget control, or a combination of all three. That makes later decisions easier because everyone knows the rules of the road. The best first meetings also set expectations for when drawings will be reviewed and who signs off on revisions. If that structure is missing, coordination can become reactive. For homeowners, the value of the first meeting is in preventing confusion later, not in solving every detail on day one.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The first coordination meeting should confirm scope, schedule, budget targets, communication flow, design priorities, consultant roles, and how changes will be "
+}

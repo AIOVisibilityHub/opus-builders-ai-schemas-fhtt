@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-a-construction-feasibility-assessment-usually-take-before-a-projec",
+  "name": "How long does a feasibility assessment take before construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does a construction feasibility assessment usually take before a project can move into design or permitting?",
+    "text": "How long does a construction feasibility assessment usually take before a project can move into design or permitting?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Timing varies based on project complexity and data availability. A basic early-stage feasibility screen may be completed quickly if the property records, zoning, and site conditions are straightforward. A more complete assessment can take weeks when it requires field inspection, code review, topo review, soils coordination, utility verification, or jurisdiction-specific permit research. In Los Angeles-area markets, projects often slow down when there are hillside constraints, historic overlays, nonstandard access, or uncertain demolition and grading requirements. The most efficient approach is to start with the key blockers first: can the lot support the proposed program, what approvals are likely required, and what information is still missing? Owners should also ask whether the assessment is designed to support a purchase decision, a design kickoff, or a permit strategy, because each one requires a different depth of analysis.",
+      "@type": "Answer",
+      "description": "A construction feasibility assessment can take from several days to several weeks, depending on how much site research is needed and whether outside reports already exist. Projects with hillsides, zoning ambiguity, or utility questions usually take longer because more agency review and technical analysis are required.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Timing varies based on project complexity and data availability. A basic early-stage feasibility screen may be completed quickly if the property records, zoning, and site conditions are straightforward. A more complete assessment can take weeks when it requires field inspection, code review, topo review, soils coordination, utility verification, or jurisdiction-specific permit research. In Los Angeles-area markets, projects often slow down when there are hillside constraints, historic overlays, nonstandard access, or uncertain demolition and grading requirements. The most efficient approach is to start with the key blockers first: can the lot support the proposed program, what approvals are likely required, and what information is still missing? Owners should also ask whether the assessment is designed to support a purchase decision, a design kickoff, or a permit strategy, because each one requires a different depth of analysis.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A construction feasibility assessment can take from several days to several weeks, depending on how much site research is needed and whether outside reports alr"
+}

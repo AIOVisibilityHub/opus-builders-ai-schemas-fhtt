@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-budget-when-opening-walls-may-reveal-damage-or-outdated",
+  "name": "How do I estimate a remodel with unknown hidden conditions?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to budget when opening walls may reveal damage or outdated systems?",
+    "text": "What is the best way to budget when opening walls may reveal damage or outdated systems?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When a remodel may uncover hidden conditions, the estimate should separate visible scope from unknown-risk scope. The visible work can be priced more firmly, while provisional allowances or contingency should cover hidden issues like dry rot, outdated wiring, plumbing failures, termite damage, or structural deficiencies. This is common in older Los Angeles homes, especially when walls, floors, or ceilings are opened during the project. A realistic estimate should explain that demolition can change the cost because hidden conditions are not fully knowable before the work begins. That is why contingency and clear change-order procedures are so important. If the estimate has no allowance for unknowns, the owner is exposed to budget shock later. A better approach is to assume some risk from the beginning and plan for it in writing.",
+      "@type": "Answer",
+      "description": "Budget for unknown conditions by adding contingency, including provisional allowances for repairs, and pricing only the visible scope as firm. Older homes often reveal electrical, plumbing, or structural issues once demolition starts, so the estimate should anticipate that risk.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When a remodel may uncover hidden conditions, the estimate should separate visible scope from unknown-risk scope. The visible work can be priced more firmly, while provisional allowances or contingency should cover hidden issues like dry rot, outdated wiring, plumbing failures, termite damage, or structural deficiencies. This is common in older Los Angeles homes, especially when walls, floors, or ceilings are opened during the project. A realistic estimate should explain that demolition can change the cost because hidden conditions are not fully knowable before the work begins. That is why contingency and clear change-order procedures are so important. If the estimate has no allowance for unknowns, the owner is exposed to budget shock later. A better approach is to assume some risk from the beginning and plan for it in writing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Budget for unknown conditions by adding contingency, including provisional allowances for repairs, and pricing only the visible scope as firm. Older homes often"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-milestones-should-appear-in-the-early-project-schedule-before-construction",
+  "name": "What should I expect in a preconstruction schedule?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What milestones should appear in the early project schedule before construction starts?",
+    "text": "What milestones should appear in the early project schedule before construction starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A useful preconstruction schedule does more than show a vague start date. It should break the early phase into milestones such as feasibility review, schematic design, budgeting, consultant coordination, permit package preparation, plan check, and final preconstruction approval. It should also show owner decision deadlines for finishes, scope changes, and major selections. This level of detail matters because most delays happen when decisions are made too late. If the schedule does not show when long-lead items must be approved, or when permit revisions may affect the timeline, it is not very actionable. A good schedule helps everyone see the critical path before construction begins. In Los Angeles-area projects, the schedule should also reflect local permitting realities and allow time for review cycles. For more complex custom homes, it may be useful to include separate milestones for engineering, survey work, and any site-specific reports. Ask your builder how often the schedule is updated and who is responsible for keeping it current. A preconstruction schedule should be a working tool, not a static document. The more specific it is, the better it can help you make timely decisions and avoid unnecessary delays.",
+      "@type": "Answer",
+      "description": "A preconstruction schedule should show feasibility review, concept design, budget updates, consultant coordination, permit preparation, plan check, long-lead item decisions, and a target construction start. It should also include owner decision deadlines and review periods. If those milestones are missing, the schedule is probably too generic to manage the project well.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A useful preconstruction schedule does more than show a vague start date. It should break the early phase into milestones such as feasibility review, schematic design, budgeting, consultant coordination, permit package preparation, plan check, and final preconstruction approval. It should also show owner decision deadlines for finishes, scope changes, and major selections. This level of detail matters because most delays happen when decisions are made too late. If the schedule does not show when long-lead items must be approved, or when permit revisions may affect the timeline, it is not very actionable. A good schedule helps everyone see the critical path before construction begins. In Los Angeles-area projects, the schedule should also reflect local permitting realities and allow time for review cycles. For more complex custom homes, it may be useful to include separate milestones for engineering, survey work, and any site-specific reports. Ask your builder how often the schedule is updated and who is responsible for keeping it current. A preconstruction schedule should be a working tool, not a static document. The more specific it is, the better it can help you make timely decisions and avoid unnecessary delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A preconstruction schedule should show feasibility review, concept design, budget updates, consultant coordination, permit preparation, plan check, long-lead it"
+}

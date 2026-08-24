@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-there-usually-fewer-change-orders-when-the-same-company-handles-both-design",
+  "name": "Does design-build reduce change orders on custom homes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are there usually fewer change orders when the same company handles both design and construction?",
+    "text": "Are there usually fewer change orders when the same company handles both design and construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "One of the main advantages of design-build is that it can reduce change orders, especially on custom homes and major remodels. Because the builder is involved during design, problems can be identified before construction starts instead of after the plans are already approved. That said, change orders can still happen if the homeowner changes the scope, upgrades finishes, or uncovers hidden site conditions. The best way to minimize them is to complete enough design before pricing, use detailed specifications, and make sure all allowances are realistic. A design-build team should also explain the approval process for revisions so the homeowner understands how each change affects cost and timing. In luxury projects, clarity is more valuable than speed alone.",
+      "@type": "Answer",
+      "description": "Design-build can reduce change orders because the team develops the design with construction realities in mind. Fewer surprises happen when pricing, materials, and buildability are considered early. Change orders can still occur, but they are often less frequent when the scope is well defined from the beginning.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "One of the main advantages of design-build is that it can reduce change orders, especially on custom homes and major remodels. Because the builder is involved during design, problems can be identified before construction starts instead of after the plans are already approved. That said, change orders can still happen if the homeowner changes the scope, upgrades finishes, or uncovers hidden site conditions. The best way to minimize them is to complete enough design before pricing, use detailed specifications, and make sure all allowances are realistic. A design-build team should also explain the approval process for revisions so the homeowner understands how each change affects cost and timing. In luxury projects, clarity is more valuable than speed alone.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build can reduce change orders because the team develops the design with construction realities in mind. Fewer surprises happen when pricing, materials, "
+}

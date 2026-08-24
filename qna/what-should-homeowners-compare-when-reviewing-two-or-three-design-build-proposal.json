@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-homeowners-compare-when-reviewing-two-or-three-design-build-proposal",
+  "name": "How do you compare design-build bids for a custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should homeowners compare when reviewing two or three design-build proposals for a custom home?",
+    "text": "What should homeowners compare when reviewing two or three design-build proposals for a custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build proposals should be compared line by line, not just by the total price. Look at whether each firm includes architectural development, engineering, permits, demolition, site prep, utility work, and finish allowances. Also check exclusions carefully, because items like appliances, landscaping, fee payments, and specialty fixtures are often left out. In Los Angeles, a good proposal should reflect local realities such as complex permitting, labor costs, and potential structural upgrades. Ask who will manage the project daily, how selections are finalized, and whether the budget includes contingency. If one proposal is far cheaper than the others, it may be missing major scope items or using low allowances that will later increase the price. A useful comparison should also include communication style, past projects, timeline realism, and warranty terms. The best bid is the one that is most complete and most transparent, not simply the cheapest.",
+      "@type": "Answer",
+      "description": "Compare scope, allowances, exclusions, schedule, supervision, warranty, and what level of design work is included. The lowest price is not always the best value if it hides missing items or unrealistic allowances. A strong bid should make it clear how changes, permits, and upgrades will be handled.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build proposals should be compared line by line, not just by the total price. Look at whether each firm includes architectural development, engineering, permits, demolition, site prep, utility work, and finish allowances. Also check exclusions carefully, because items like appliances, landscaping, fee payments, and specialty fixtures are often left out. In Los Angeles, a good proposal should reflect local realities such as complex permitting, labor costs, and potential structural upgrades. Ask who will manage the project daily, how selections are finalized, and whether the budget includes contingency. If one proposal is far cheaper than the others, it may be missing major scope items or using low allowances that will later increase the price. A useful comparison should also include communication style, past projects, timeline realism, and warranty terms. The best bid is the one that is most complete and most transparent, not simply the cheapest.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare scope, allowances, exclusions, schedule, supervision, warranty, and what level of design work is included. The lowest price is not always the best value"
+}

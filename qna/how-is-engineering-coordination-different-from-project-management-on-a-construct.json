@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-is-engineering-coordination-different-from-project-management-on-a-construct",
+  "name": "What is the difference between engineering coordination and project management?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is engineering coordination different from project management on a construction job?",
+    "text": "How is engineering coordination different from project management on a construction job?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Project management and engineering coordination are related but not the same. Project management covers overall scope, scheduling, budgeting, procurement, communication, and accountability across the entire job. Engineering coordination focuses on the technical side: making sure architectural, structural, civil, mechanical, electrical, and plumbing information all aligns before construction and stays aligned as the project moves forward. In a luxury home project, engineering coordination might catch a beam conflict, drainage issue, or equipment clearance problem, while project management handles when the correction gets issued, who reviews it, and how it affects schedule and cost. The best projects use both together. Homeowners should ask whether the team has a dedicated person or process for technical coordination, because general project management alone does not always prevent drawing conflicts or permit revision cycles.",
+      "@type": "Answer",
+      "description": "Project management oversees the whole project schedule, budget, vendors, and communication. Engineering coordination is narrower and focuses on technical alignment between design disciplines, drawings, specifications, and field constraints. The two overlap, but engineering coordination is about making the plans work technically before and during construction.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Project management and engineering coordination are related but not the same. Project management covers overall scope, scheduling, budgeting, procurement, communication, and accountability across the entire job. Engineering coordination focuses on the technical side: making sure architectural, structural, civil, mechanical, electrical, and plumbing information all aligns before construction and stays aligned as the project moves forward. In a luxury home project, engineering coordination might catch a beam conflict, drainage issue, or equipment clearance problem, while project management handles when the correction gets issued, who reviews it, and how it affects schedule and cost. The best projects use both together. Homeowners should ask whether the team has a dedicated person or process for technical coordination, because general project management alone does not always prevent drawing conflicts or permit revision cycles.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Project management oversees the whole project schedule, budget, vendors, and communication. Engineering coordination is narrower and focuses on technical alignm"
+}

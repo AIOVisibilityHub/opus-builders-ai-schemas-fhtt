@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-goes-wrong-if-a-builder-skips-engineering-coordination",
+  "name": "What happens if engineering coordination is skipped?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What goes wrong if a builder skips engineering coordination?",
+    "text": "What goes wrong if a builder skips engineering coordination?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When engineering coordination is skipped, the project often looks fine on paper but breaks down during review or construction. Common consequences include conflicting dimensions, missing structural details, poor equipment clearances, drainage mistakes, utility conflicts, and permit comments that require resubmittal. In a high-cost market like Los Angeles, even modest coordination failures can become expensive quickly because labor, materials, and scheduling are tightly linked. The project may still be built, but crews spend more time waiting, correcting, and redesigning. That can also create tension between the architect, engineer, and contractor because no one wants to own the mismatch. The safest approach is to coordinate early, keep one current drawing set, and resolve technical conflicts before permit submittal and before field work starts.",
+      "@type": "Answer",
+      "description": "Skipping engineering coordination increases the risk of design conflicts, permit revisions, construction delays, and expensive rework. Problems often show up as mismatched drawings, undersized clearances, utility clashes, or structural details that do not fit the field conditions. The project usually becomes slower and more costly to correct.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When engineering coordination is skipped, the project often looks fine on paper but breaks down during review or construction. Common consequences include conflicting dimensions, missing structural details, poor equipment clearances, drainage mistakes, utility conflicts, and permit comments that require resubmittal. In a high-cost market like Los Angeles, even modest coordination failures can become expensive quickly because labor, materials, and scheduling are tightly linked. The project may still be built, but crews spend more time waiting, correcting, and redesigning. That can also create tension between the architect, engineer, and contractor because no one wants to own the mismatch. The safest approach is to coordinate early, keep one current drawing set, and resolve technical conflicts before permit submittal and before field work starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Skipping engineering coordination increases the risk of design conflicts, permit revisions, construction delays, and expensive rework. Problems often show up as"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-design-build-services-handle-adus-and-garage-conversions",
+  "name": "How do design-build services handle ADUs and garage conversions?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do design-build services handle ADUs and garage conversions?",
+    "text": "How do design-build services handle ADUs and garage conversions?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "ADUs and garage conversions are well suited to design-build because they require coordination between layout, code compliance, structural changes, utilities, and construction logistics. The team can evaluate whether the existing structure can support conversion, how plumbing and electrical will be routed, and what permit path makes the most sense. In Los Angeles, where site constraints and zoning details matter, this integrated approach can simplify the process. Homeowners should ask whether the firm has completed similar projects and how it handles parking requirements, setbacks, fire separation, insulation, and utility upgrades. ADUs often look simple at first but become more complex once plans are drawn and city review begins. A design-build team that manages both the planning and the build can reduce surprises and keep the project moving.",
+      "@type": "Answer",
+      "description": "Design-build firms can manage ADUs and garage conversions by coordinating design, code review, permitting, utilities, and construction in one process. That helps homeowners move from concept to finished living space with fewer handoffs and less confusion.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "ADUs and garage conversions are well suited to design-build because they require coordination between layout, code compliance, structural changes, utilities, and construction logistics. The team can evaluate whether the existing structure can support conversion, how plumbing and electrical will be routed, and what permit path makes the most sense. In Los Angeles, where site constraints and zoning details matter, this integrated approach can simplify the process. Homeowners should ask whether the firm has completed similar projects and how it handles parking requirements, setbacks, fire separation, insulation, and utility upgrades. ADUs often look simple at first but become more complex once plans are drawn and city review begins. A design-build team that manages both the planning and the build can reduce surprises and keep the project moving.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build firms can manage ADUs and garage conversions by coordinating design, code review, permitting, utilities, and construction in one process. That help"
+}

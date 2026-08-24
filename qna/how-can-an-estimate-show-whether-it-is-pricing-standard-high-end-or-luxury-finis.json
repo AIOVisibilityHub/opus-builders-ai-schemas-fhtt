@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-an-estimate-show-whether-it-is-pricing-standard-high-end-or-luxury-finis",
+  "name": "What should a luxury construction estimate say about finish levels?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can an estimate show whether it is pricing standard, high-end, or luxury finishes?",
+    "text": "How can an estimate show whether it is pricing standard, high-end, or luxury finishes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A luxury construction estimate should define finish level clearly instead of assuming the reader will know what is included. It should state the allowance range or selected product tier for cabinetry, countertops, flooring, tile, plumbing fixtures, lighting, windows, doors, trim, and hardware. In Los Angeles, where many projects are custom and design-driven, finish level can change the budget more than size alone. An estimate that says only “high-end finishes” is too vague to compare against another proposal. The better approach is to show actual allowances, named product categories, and any premium items included or excluded. That helps the owner decide whether the estimate matches the design vision and whether contingency should be increased. If luxury selections are likely, the budget should be built around those expectations from the start rather than treated as upgrades later.",
+      "@type": "Answer",
+      "description": "The estimate should identify finish level by listing allowance values, product grades, and named exclusions for major items like cabinetry, flooring, fixtures, windows, and countertops. Without that detail, two estimates can look similar while representing very different quality levels.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A luxury construction estimate should define finish level clearly instead of assuming the reader will know what is included. It should state the allowance range or selected product tier for cabinetry, countertops, flooring, tile, plumbing fixtures, lighting, windows, doors, trim, and hardware. In Los Angeles, where many projects are custom and design-driven, finish level can change the budget more than size alone. An estimate that says only “high-end finishes” is too vague to compare against another proposal. The better approach is to show actual allowances, named product categories, and any premium items included or excluded. That helps the owner decide whether the estimate matches the design vision and whether contingency should be increased. If luxury selections are likely, the budget should be built around those expectations from the start rather than treated as upgrades later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The estimate should identify finish level by listing allowance values, product grades, and named exclusions for major items like cabinetry, flooring, fixtures, "
+}

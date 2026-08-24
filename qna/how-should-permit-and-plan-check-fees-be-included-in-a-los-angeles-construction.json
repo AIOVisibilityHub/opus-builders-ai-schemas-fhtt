@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-permit-and-plan-check-fees-be-included-in-a-los-angeles-construction",
+  "name": "How do permit fees affect a construction estimate in LA County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should permit and plan check fees be included in a Los Angeles construction budget?",
+    "text": "How should permit and plan check fees be included in a Los Angeles construction budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit and plan check fees should always be listed separately in a Los Angeles construction estimate because they are part of the total project budget even though they are not physical construction. These costs can vary depending on project valuation, scope, city, and whether additional reviews are required. If the estimate lumps permits into a general overhead number, the owner cannot tell how much is actually reserved for approvals. A better estimate identifies permit fees, plan check charges, school or agency fees if applicable, and any expected re-submittal costs. That approach is especially important for additions, remodels, and custom homes where the approval process can change during design. Owners should also verify whether the estimate includes permit expediting, energy compliance documentation, or specialty consultant fees. Clear separation of these costs makes the whole budget more reliable.",
+      "@type": "Answer",
+      "description": "Permit and plan check fees should be shown as separate soft costs in the budget, not hidden inside labor or materials. They can vary by project type, valuation, and city, and they should be confirmed early so the owner is not surprised later.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit and plan check fees should always be listed separately in a Los Angeles construction estimate because they are part of the total project budget even though they are not physical construction. These costs can vary depending on project valuation, scope, city, and whether additional reviews are required. If the estimate lumps permits into a general overhead number, the owner cannot tell how much is actually reserved for approvals. A better estimate identifies permit fees, plan check charges, school or agency fees if applicable, and any expected re-submittal costs. That approach is especially important for additions, remodels, and custom homes where the approval process can change during design. Owners should also verify whether the estimate includes permit expediting, energy compliance documentation, or specialty consultant fees. Clear separation of these costs makes the whole budget more reliable.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permit and plan check fees should be shown as separate soft costs in the budget, not hidden inside labor or materials. They can vary by project type, valuation,"
+}

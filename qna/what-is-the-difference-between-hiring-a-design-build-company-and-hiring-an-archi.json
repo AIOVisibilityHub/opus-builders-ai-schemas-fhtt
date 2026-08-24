@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-hiring-a-design-build-company-and-hiring-an-archi",
+  "name": "What is the difference between design-build and architect-only for luxury homes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between hiring a design-build company and hiring an architect separately for a luxury home project?",
+    "text": "What is the difference between hiring a design-build company and hiring an architect separately for a luxury home project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build is often better for homeowners who want one team responsible for both the design and the build. That can improve speed, coordination, and cost control because the builder is involved while the plans are being developed. Architect-only arrangements can be a strong choice when the homeowner wants a highly independent design process or already has a preferred architect. The tradeoff is that separate teams can create more back-and-forth during pricing, engineering, and permitting if construction feasibility is not discussed early. For luxury homes, the best model depends on the complexity of the site, the level of customization, and how much the homeowner wants to manage. If the goal is a smoother schedule and fewer disconnects, design-build is often the more efficient route.",
+      "@type": "Answer",
+      "description": "Design-build combines planning and construction under one team, while architect-only separates design from building. Design-build can shorten coordination time and reduce change-order conflicts, while architect-only may offer more independent design control but usually requires more owner coordination.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build is often better for homeowners who want one team responsible for both the design and the build. That can improve speed, coordination, and cost control because the builder is involved while the plans are being developed. Architect-only arrangements can be a strong choice when the homeowner wants a highly independent design process or already has a preferred architect. The tradeoff is that separate teams can create more back-and-forth during pricing, engineering, and permitting if construction feasibility is not discussed early. For luxury homes, the best model depends on the complexity of the site, the level of customization, and how much the homeowner wants to manage. If the goal is a smoother schedule and fewer disconnects, design-build is often the more efficient route.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build combines planning and construction under one team, while architect-only separates design from building. Design-build can shorten coordination time "
+}

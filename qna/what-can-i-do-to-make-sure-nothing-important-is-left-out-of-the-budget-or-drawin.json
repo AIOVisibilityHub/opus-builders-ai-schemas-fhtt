@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-can-i-do-to-make-sure-nothing-important-is-left-out-of-the-budget-or-drawin",
+  "name": "How do I avoid scope gaps in preconstruction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What can I do to make sure nothing important is left out of the budget or drawings?",
+    "text": "What can I do to make sure nothing important is left out of the budget or drawings?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Scope gaps happen when something important is left out of the drawings, budget, or assumptions. The best way to avoid them is to build a detailed preconstruction checklist and review it carefully with your design-build team. That checklist should cover demolition, structural work, site work, utilities, finishes, permits, consultant fees, and any special features unique to your project. You should also review exclusions line by line. Many budget problems come from items that were assumed to be included but were not actually part of the proposal. Allowances need attention too, because they can hide underpriced items until later. If the project includes custom details or specialty materials, those should be identified early and priced realistically. Coordination is another major issue. If the architect, engineer, builder, and owner are not aligned, gaps can appear between disciplines. In Los Angeles, that can be especially costly because permit requirements and site conditions may reveal missing scope later. Ask your builder to walk through the budget and scope as if they were trying to find what is missing. That is one of the most effective ways to protect the project. The goal is not to create a perfect plan. It is to make sure the important unknowns are addressed before construction starts.",
+      "@type": "Answer",
+      "description": "Avoid scope gaps by defining the full project program early, reviewing exclusions line by line, coordinating all consultants, and confirming allowances and finish selections. A detailed scope checklist should cover site work, permits, utility work, demolition, structural changes, and finishes. The goal is to catch missing items before pricing becomes final.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Scope gaps happen when something important is left out of the drawings, budget, or assumptions. The best way to avoid them is to build a detailed preconstruction checklist and review it carefully with your design-build team. That checklist should cover demolition, structural work, site work, utilities, finishes, permits, consultant fees, and any special features unique to your project. You should also review exclusions line by line. Many budget problems come from items that were assumed to be included but were not actually part of the proposal. Allowances need attention too, because they can hide underpriced items until later. If the project includes custom details or specialty materials, those should be identified early and priced realistically. Coordination is another major issue. If the architect, engineer, builder, and owner are not aligned, gaps can appear between disciplines. In Los Angeles, that can be especially costly because permit requirements and site conditions may reveal missing scope later. Ask your builder to walk through the budget and scope as if they were trying to find what is missing. That is one of the most effective ways to protect the project. The goal is not to create a perfect plan. It is to make sure the important unknowns are addressed before construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Avoid scope gaps by defining the full project program early, reviewing exclusions line by line, coordinating all consultants, and confirming allowances and fini"
+}

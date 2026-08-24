@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-a-homeowner-get-a-realistic-design-build-price-before-architectural-plan",
+  "name": "How does design-build pricing work before plans are finished in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can a homeowner get a realistic design-build price before architectural plans are complete?",
+    "text": "How can a homeowner get a realistic design-build price before architectural plans are complete?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Homeowners in Los Angeles often want a firm number before design is finished, but the best preconstruction pricing starts as a working range. A good design-build team should begin with zoning review, site constraints, a rough program, and a feasibility-based budget that shows likely cost drivers. Early estimates should separate hard costs, soft costs, allowances, and contingency so you can see what is fixed and what may change. The most useful pricing conversation happens before schematic design is over. At that stage, the builder should explain key assumptions such as square footage, structural complexity, finish level, utility upgrades, and permit-related costs. If a firm gives a tight number too early without showing assumptions, that can create change-order risk later. For luxury homes in LA, the goal is not just the lowest number. It is budget reliability. Ask for a line-item budget, escalation assumptions, and a process for updating pricing at each milestone. That gives you a better decision framework and reduces surprises once design moves into permitting and construction.",
+      "@type": "Answer",
+      "description": "A realistic preconstruction price usually starts with a feasibility review, a rough scope, and early allowance-based estimating. In Los Angeles, the first budget is often a range, not a fixed number, because zoning, structural needs, permitting, and site conditions can change the final cost. The best estimate includes design assumptions, exclusions, contingencies, and update points as drawings progress.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Homeowners in Los Angeles often want a firm number before design is finished, but the best preconstruction pricing starts as a working range. A good design-build team should begin with zoning review, site constraints, a rough program, and a feasibility-based budget that shows likely cost drivers. Early estimates should separate hard costs, soft costs, allowances, and contingency so you can see what is fixed and what may change. The most useful pricing conversation happens before schematic design is over. At that stage, the builder should explain key assumptions such as square footage, structural complexity, finish level, utility upgrades, and permit-related costs. If a firm gives a tight number too early without showing assumptions, that can create change-order risk later. For luxury homes in LA, the goal is not just the lowest number. It is budget reliability. Ask for a line-item budget, escalation assumptions, and a process for updating pricing at each milestone. That gives you a better decision framework and reduces surprises once design moves into permitting and construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A realistic preconstruction price usually starts with a feasibility review, a rough scope, and early allowance-based estimating. In Los Angeles, the first budge"
+}

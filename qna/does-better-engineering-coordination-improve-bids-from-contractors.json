@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-better-engineering-coordination-improve-bids-from-contractors",
+  "name": "Can engineering coordination help with contractor pricing accuracy?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does better engineering coordination improve bids from contractors?",
+    "text": "Does better engineering coordination improve bids from contractors?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Engineering coordination can improve contractor pricing accuracy because builders can price a more complete and consistent set of documents. If the plans are missing details or show conflicts, contractors usually add contingency to protect themselves against unknowns. That makes bids less comparable and often more expensive. Coordinated drawings help contractors understand scope, quantities, clearances, and technical complexity before they submit pricing. This is especially valuable on custom homes and remodels in Los Angeles where every project has different site constraints. Homeowners who want better pricing should make sure the engineering is coordinated before sending plans out for bid. That does not guarantee the lowest price, but it usually produces bids that are clearer and less likely to change dramatically later.",
+      "@type": "Answer",
+      "description": "Yes. Better coordination gives contractors clearer drawings and fewer unknowns, which usually leads to more accurate pricing. When plans are incomplete or conflicting, bids often include higher contingencies to cover risk. Coordinated documents make it easier to compare apples to apples.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Engineering coordination can improve contractor pricing accuracy because builders can price a more complete and consistent set of documents. If the plans are missing details or show conflicts, contractors usually add contingency to protect themselves against unknowns. That makes bids less comparable and often more expensive. Coordinated drawings help contractors understand scope, quantities, clearances, and technical complexity before they submit pricing. This is especially valuable on custom homes and remodels in Los Angeles where every project has different site constraints. Homeowners who want better pricing should make sure the engineering is coordinated before sending plans out for bid. That does not guarantee the lowest price, but it usually produces bids that are clearer and less likely to change dramatically later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Better coordination gives contractors clearer drawings and fewer unknowns, which usually leads to more accurate pricing. When plans are incomplete or confl"
+}

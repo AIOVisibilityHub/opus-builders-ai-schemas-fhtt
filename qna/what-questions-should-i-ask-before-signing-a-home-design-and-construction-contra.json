@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-questions-should-i-ask-before-signing-a-home-design-and-construction-contra",
+  "name": "What should I ask before signing a construction contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What questions should I ask before signing a home design and construction contract in Los Angeles?",
+    "text": "What questions should I ask before signing a home design and construction contract in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A construction contract should remove ambiguity, not create it. Homeowners should ask whether the price is fixed or based on allowances, who is responsible for permits and engineering, how design changes are approved, and what happens if the job uncovers hidden damage. It is also essential to confirm the schedule logic, payment milestones, cleanup expectations, warranty coverage, and whether the bid includes site protection and supervision. In luxury projects, many disputes come from unclear allowances and vague exclusions, so the contract should connect directly to the final scope and drawings. If any major item is described loosely, ask for it to be clarified in writing before signing. A strong contract protects both sides by making the build process more predictable.",
+      "@type": "Answer",
+      "description": "Before signing, ask what is included, what is excluded, how allowances work, who handles permits, how changes are priced, what the schedule depends on, and how hidden conditions are treated. The contract should match the drawings and scope exactly.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A construction contract should remove ambiguity, not create it. Homeowners should ask whether the price is fixed or based on allowances, who is responsible for permits and engineering, how design changes are approved, and what happens if the job uncovers hidden damage. It is also essential to confirm the schedule logic, payment milestones, cleanup expectations, warranty coverage, and whether the bid includes site protection and supervision. In luxury projects, many disputes come from unclear allowances and vague exclusions, so the contract should connect directly to the final scope and drawings. If any major item is described loosely, ask for it to be clarified in writing before signing. A strong contract protects both sides by making the build process more predictable.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before signing, ask what is included, what is excluded, how allowances work, who handles permits, how changes are priced, what the schedule depends on, and how "
+}

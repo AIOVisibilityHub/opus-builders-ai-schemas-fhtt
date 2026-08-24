@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-does-a-narrow-lot-tight-street-or-limited-staging-area-increase-the-estimate",
+  "name": "How does site access affect construction pricing in the city?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why does a narrow lot, tight street, or limited staging area increase the estimate?",
+    "text": "Why does a narrow lot, tight street, or limited staging area increase the estimate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Site access can have a major impact on construction pricing because it affects productivity, equipment choice, and logistics. If a lot has a narrow driveway, limited street parking, no staging area, or difficult haul routes, the contractor may need more labor hours and more coordination to complete the same work. Materials may need to be delivered in smaller loads, and equipment may need to be downsized or staged elsewhere. In Los Angeles and nearby cities, access problems are common on older streets, hillside parcels, and dense residential blocks. A good estimate should mention access assumptions explicitly so the owner understands whether the price is based on easy truck access or a constrained site. If access is tight, the estimate should reflect the added time and equipment costs from the start.",
+      "@type": "Answer",
+      "description": "Poor site access raises costs because crews, materials, and equipment take longer to move, and some tasks require smaller machinery or extra labor. Tight staging, limited parking, and difficult haul routes can also increase overhead and schedule time.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Site access can have a major impact on construction pricing because it affects productivity, equipment choice, and logistics. If a lot has a narrow driveway, limited street parking, no staging area, or difficult haul routes, the contractor may need more labor hours and more coordination to complete the same work. Materials may need to be delivered in smaller loads, and equipment may need to be downsized or staged elsewhere. In Los Angeles and nearby cities, access problems are common on older streets, hillside parcels, and dense residential blocks. A good estimate should mention access assumptions explicitly so the owner understands whether the price is based on easy truck access or a constrained site. If access is tight, the estimate should reflect the added time and equipment costs from the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Poor site access raises costs because crews, materials, and equipment take longer to move, and some tasks require smaller machinery or extra labor. Tight stagin"
+}

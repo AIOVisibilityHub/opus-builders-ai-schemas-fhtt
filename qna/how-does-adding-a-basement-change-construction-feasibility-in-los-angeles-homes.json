@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-adding-a-basement-change-construction-feasibility-in-los-angeles-homes",
+  "name": "What if I want to add a basement?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does adding a basement change construction feasibility in Los Angeles homes?",
+    "text": "How does adding a basement change construction feasibility in Los Angeles homes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Basements can add value, but they also add risk. In Los Angeles-area projects, basement feasibility depends on soil conditions, groundwater concerns, slope, retaining wall needs, access for excavation equipment, and how much of the house footprint sits below grade. A feasibility assessment should estimate whether the basement is likely to be straightforward, challenging, or impractical based on the site. It should also identify likely cost multipliers such as waterproofing, shoring, haul-off, and structural reinforcement. For luxury homes, basements often affect the entire project budget more than the square footage suggests. The report should help the owner decide whether the added space justifies the added complexity. If not, the assessment may recommend a slab-on-grade or partial-below-grade alternative instead.",
+      "@type": "Answer",
+      "description": "Adding a basement usually raises excavation, waterproofing, structural, drainage, and permitting complexity. A feasibility assessment should test whether the lot can support the excavation depth, retaining conditions, and access needed without creating major cost or schedule risk.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Basements can add value, but they also add risk. In Los Angeles-area projects, basement feasibility depends on soil conditions, groundwater concerns, slope, retaining wall needs, access for excavation equipment, and how much of the house footprint sits below grade. A feasibility assessment should estimate whether the basement is likely to be straightforward, challenging, or impractical based on the site. It should also identify likely cost multipliers such as waterproofing, shoring, haul-off, and structural reinforcement. For luxury homes, basements often affect the entire project budget more than the square footage suggests. The report should help the owner decide whether the added space justifies the added complexity. If not, the assessment may recommend a slab-on-grade or partial-below-grade alternative instead.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Adding a basement usually raises excavation, waterproofing, structural, drainage, and permitting complexity. A feasibility assessment should test whether the lo"
+}

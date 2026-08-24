@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-should-engineering-coordination-start-on-a-new-build-or-remodel",
+  "name": "How early should engineering coordination start on a home project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When should engineering coordination start on a new build or remodel?",
+    "text": "When should engineering coordination start on a new build or remodel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best time to start engineering coordination is as soon as the project scope is defined and the layout is still flexible. In practice, that means during schematic design or early design development, not after the plans are finished. Early coordination lets the team test structural spans, foundation assumptions, drainage, utility connections, equipment clearances, and code constraints while the design is still easy to adjust. That matters in Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood because many projects face tight sites, grading limits, hillside conditions, or city-specific review comments. If coordination starts too late, the team often has to redraw portions of the plan, which can add weeks or months. A good rule is to involve engineering coordination before permit drawings are finalized and before any major architectural decisions are locked in. Homeowners should confirm that consultants are reviewing each other’s drawings from the start, not working in separate silos.",
+      "@type": "Answer",
+      "description": "Engineering coordination should start during concept design, before final plans are drawn and before permit submission. Early coordination lets the team resolve structural, grading, utility, and system-routing issues while changes are still inexpensive. Waiting until construction documents are complete usually increases revision cycles, permit delays, and field change orders.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best time to start engineering coordination is as soon as the project scope is defined and the layout is still flexible. In practice, that means during schematic design or early design development, not after the plans are finished. Early coordination lets the team test structural spans, foundation assumptions, drainage, utility connections, equipment clearances, and code constraints while the design is still easy to adjust. That matters in Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood because many projects face tight sites, grading limits, hillside conditions, or city-specific review comments. If coordination starts too late, the team often has to redraw portions of the plan, which can add weeks or months. A good rule is to involve engineering coordination before permit drawings are finalized and before any major architectural decisions are locked in. Homeowners should confirm that consultants are reviewing each other’s drawings from the start, not working in separate silos.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Engineering coordination should start during concept design, before final plans are drawn and before permit submission. Early coordination lets the team resolve"
+}

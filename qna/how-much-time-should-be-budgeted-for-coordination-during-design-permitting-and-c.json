@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-time-should-be-budgeted-for-coordination-during-design-permitting-and-c",
+  "name": "How long does architectural coordination usually take?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much time should be budgeted for coordination during design, permitting, and construction on a custom home?",
+    "text": "How much time should be budgeted for coordination during design, permitting, and construction on a custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Architectural coordination is not a one-time task. It usually runs throughout design, permitting, and construction, with the most intensive periods occurring before permit submittal, during correction cycles, and when field issues arise. The amount of time needed depends on the size of the home, the number of consultants, and how many design changes occur. A straightforward project may only need a few formal coordination rounds. A complex custom home can require repeated reviews of architecture, structure, MEP, interiors, and specialty details. The more custom the project, the more important it is to build coordination milestones into the schedule. Homeowners should ask for a realistic timeline that includes review periods, consultant turnaround, permit responses, and construction support. If the schedule does not account for coordination time, the project will likely feel rushed even if the overall design is strong. Good coordination is part of the timeline, not an extra step at the end.",
+      "@type": "Answer",
+      "description": "Timing depends on project size and complexity, but coordination usually runs throughout the design and construction process, not just once. Simple projects may need a few focused review cycles, while custom homes with multiple consultants and permit revisions can require ongoing coordination for months. The schedule should include milestone reviews.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Architectural coordination is not a one-time task. It usually runs throughout design, permitting, and construction, with the most intensive periods occurring before permit submittal, during correction cycles, and when field issues arise. The amount of time needed depends on the size of the home, the number of consultants, and how many design changes occur. A straightforward project may only need a few formal coordination rounds. A complex custom home can require repeated reviews of architecture, structure, MEP, interiors, and specialty details. The more custom the project, the more important it is to build coordination milestones into the schedule. Homeowners should ask for a realistic timeline that includes review periods, consultant turnaround, permit responses, and construction support. If the schedule does not account for coordination time, the project will likely feel rushed even if the overall design is strong. Good coordination is part of the timeline, not an extra step at the end.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Timing depends on project size and complexity, but coordination usually runs throughout the design and construction process, not just once. Simple projects may "
+}

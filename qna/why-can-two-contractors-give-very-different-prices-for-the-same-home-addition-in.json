@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-can-two-contractors-give-very-different-prices-for-the-same-home-addition-in",
+  "name": "Why do home addition bids vary so much between contractors?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why can two contractors give very different prices for the same home addition in Los Angeles?",
+    "text": "Why can two contractors give very different prices for the same home addition in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Big price differences usually mean the bids are not truly identical. One contractor may assume standard finishes, while another prices luxury-grade materials. One may include engineering, permit support, site prep, and cleanup, while another excludes them. Some bids also rely on missing information and use low allowances that look cheaper up front but increase later through change orders. In Los Angeles, site conditions, access, and permit complexity can also change pricing substantially. The best way to compare bids is to line them up against the same drawings, scope sheet, and allowance list. Homeowners should ask exactly what is included, what is excluded, and what triggers an extra charge. Clear bids are usually more important than the lowest number.",
+      "@type": "Answer",
+      "description": "Home addition bids vary because contractors may be pricing different scopes, allowances, engineering assumptions, permit responsibilities, and finish levels. A lower bid often excludes items that become extra charges later, while a higher bid may include more complete coordination or higher-grade materials.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Big price differences usually mean the bids are not truly identical. One contractor may assume standard finishes, while another prices luxury-grade materials. One may include engineering, permit support, site prep, and cleanup, while another excludes them. Some bids also rely on missing information and use low allowances that look cheaper up front but increase later through change orders. In Los Angeles, site conditions, access, and permit complexity can also change pricing substantially. The best way to compare bids is to line them up against the same drawings, scope sheet, and allowance list. Homeowners should ask exactly what is included, what is excluded, and what triggers an extra charge. Clear bids are usually more important than the lowest number.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Home addition bids vary because contractors may be pricing different scopes, allowances, engineering assumptions, permit responsibilities, and finish levels. A "
+}

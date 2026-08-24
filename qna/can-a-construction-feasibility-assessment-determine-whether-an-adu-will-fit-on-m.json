@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-construction-feasibility-assessment-determine-whether-an-adu-will-fit-on-m",
+  "name": "Can a feasibility assessment tell me if an ADU will fit?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a construction feasibility assessment determine whether an ADU will fit on my Los Angeles property?",
+    "text": "Can a construction feasibility assessment determine whether an ADU will fit on my Los Angeles property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A feasibility assessment is one of the best ways to determine whether an ADU makes sense before spending money on plans. In Los Angeles-area markets, the answer is not just about size. It also depends on setbacks, fire access, slopes, existing structures, utility routing, parking rules where applicable, and whether the site needs grading or retaining work. The assessment should identify the most realistic ADU type for the property, such as detached, attached, garage conversion, or above-garage construction. It should also estimate whether the project is likely to trigger higher soft costs due to engineering or permit complexity. Owners should be cautious if the report only says “an ADU may be possible” without explaining where it fits, what must move, or what the likely cost range is. A useful assessment provides a buildability path, not just a yes-or-no answer.",
+      "@type": "Answer",
+      "description": "Yes. A feasibility assessment can test whether an ADU is likely to fit by checking setbacks, lot coverage, access, utility routes, fire separation, grading, and existing improvements. It can also show whether the ADU is more realistic as attached, detached, above-garage, or conversion-based construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A feasibility assessment is one of the best ways to determine whether an ADU makes sense before spending money on plans. In Los Angeles-area markets, the answer is not just about size. It also depends on setbacks, fire access, slopes, existing structures, utility routing, parking rules where applicable, and whether the site needs grading or retaining work. The assessment should identify the most realistic ADU type for the property, such as detached, attached, garage conversion, or above-garage construction. It should also estimate whether the project is likely to trigger higher soft costs due to engineering or permit complexity. Owners should be cautious if the report only says “an ADU may be possible” without explaining where it fits, what must move, or what the likely cost range is. A useful assessment provides a buildability path, not just a yes-or-no answer.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A feasibility assessment can test whether an ADU is likely to fit by checking setbacks, lot coverage, access, utility routes, fire separation, grading, and"
+}

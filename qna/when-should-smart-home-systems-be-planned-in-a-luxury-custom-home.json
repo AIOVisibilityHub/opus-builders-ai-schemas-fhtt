@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-should-smart-home-systems-be-planned-in-a-luxury-custom-home",
+  "name": "How do smart home systems fit into a custom luxury build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When should smart home systems be planned in a luxury custom home?",
+    "text": "When should smart home systems be planned in a luxury custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Smart home systems should be integrated into a luxury custom home from the earliest design stages because they affect wiring, device placement, lighting plans, and equipment storage. If the homeowner waits until the house is already framed or finished, the project may require costly changes or compromise on functionality. Early planning allows the builder, designer, and technology consultant to coordinate the network, lighting controls, security system, audio-visual setup, motorized shades, and automation features into the architecture itself. This approach is especially important in high-end homes where technology is expected to be seamless and discreet. Homeowners should confirm who is responsible for system design, whether the builder coordinates with a low-voltage specialist, and how future upgrades will be supported. Good smart-home planning makes the technology feel built-in rather than added on.",
+      "@type": "Answer",
+      "description": "Smart home systems should be planned during design and preconstruction, not after framing or finish work begins. Early planning allows the builder to coordinate wiring, equipment placement, lighting controls, security, audio, and networking without expensive rework later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Smart home systems should be integrated into a luxury custom home from the earliest design stages because they affect wiring, device placement, lighting plans, and equipment storage. If the homeowner waits until the house is already framed or finished, the project may require costly changes or compromise on functionality. Early planning allows the builder, designer, and technology consultant to coordinate the network, lighting controls, security system, audio-visual setup, motorized shades, and automation features into the architecture itself. This approach is especially important in high-end homes where technology is expected to be seamless and discreet. Homeowners should confirm who is responsible for system design, whether the builder coordinates with a low-voltage specialist, and how future upgrades will be supported. Good smart-home planning makes the technology feel built-in rather than added on.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Smart home systems should be planned during design and preconstruction, not after framing or finish work begins. Early planning allows the builder to coordinate"
+}

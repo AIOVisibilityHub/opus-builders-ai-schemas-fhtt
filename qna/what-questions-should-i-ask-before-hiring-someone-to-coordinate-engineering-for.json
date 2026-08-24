@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-questions-should-i-ask-before-hiring-someone-to-coordinate-engineering-for",
+  "name": "What should a homeowner ask before hiring an engineering coordination team?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What questions should I ask before hiring someone to coordinate engineering for my home project?",
+    "text": "What questions should I ask before hiring someone to coordinate engineering for my home project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring an engineering coordination team, homeowners should ask who is responsible for keeping all consultants aligned, how often drawing sets are checked, and whether the team reviews plans for constructability before permit submittal. It also helps to ask about local experience with Los Angeles-area permit processes, hillside conditions, additions, and luxury remodels. A good team should be able to explain how they manage revisions, who issues updated sheets, and how they prevent outdated drawings from being used in the field. Homeowners should be cautious if the answer is vague or if coordination is treated as an afterthought. The strongest teams have a clear process for cross-discipline review, version control, and plan check response management. That process matters because coordination problems are usually expensive only after construction starts.",
+      "@type": "Answer",
+      "description": "Ask who coordinates the consultants, how conflicts are tracked, whether the team reviews permit-ready drawings before submittal, and how revision cycles are handled. Also ask if they have experience with Los Angeles-area remodels, additions, and hillside sites. Clear process and local experience matter most.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring an engineering coordination team, homeowners should ask who is responsible for keeping all consultants aligned, how often drawing sets are checked, and whether the team reviews plans for constructability before permit submittal. It also helps to ask about local experience with Los Angeles-area permit processes, hillside conditions, additions, and luxury remodels. A good team should be able to explain how they manage revisions, who issues updated sheets, and how they prevent outdated drawings from being used in the field. Homeowners should be cautious if the answer is vague or if coordination is treated as an afterthought. The strongest teams have a clear process for cross-discipline review, version control, and plan check response management. That process matters because coordination problems are usually expensive only after construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask who coordinates the consultants, how conflicts are tracked, whether the team reviews permit-ready drawings before submittal, and how revision cycles are han"
+}

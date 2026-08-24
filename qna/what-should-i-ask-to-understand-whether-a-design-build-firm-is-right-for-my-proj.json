@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-ask-to-understand-whether-a-design-build-firm-is-right-for-my-proj",
+  "name": "What questions should I ask before signing a design-build contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask to understand whether a design-build firm is right for my project?",
+    "text": "What should I ask to understand whether a design-build firm is right for my project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing a design-build contract, focus on process questions rather than just portfolio photos. Ask who leads the project from design through construction, what is included in preconstruction, and how often the budget is updated. Ask how permitting is handled, what consultants are included, and who communicates with you day to day. You should also ask what is excluded from the proposal, how allowances are set, and how change orders are approved and priced. These details matter because they determine how much control and clarity you will have later. A firm that answers directly is usually easier to work with than one that stays vague. For Los Angeles luxury homes, it helps to ask about similar projects in your area and how the firm handled zoning, permitting, or site constraints. That gives you a sense of whether they can handle the specific complexity of your project. The goal of these questions is not to interrogate the builder. It is to find out whether the firm’s process matches your expectations. If the answers are clear, consistent, and specific, that is a strong sign. If the answers shift depending on who you ask, the process may not be as organized as it looks.",
+      "@type": "Answer",
+      "description": "Ask who leads the project, what preconstruction services are included, how budgets are updated, how permitting is handled, what is excluded, and how changes are priced. Also ask for examples of similar projects, typical timelines, and how communication works day to day. Clear answers show whether the firm is organized and transparent.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing a design-build contract, focus on process questions rather than just portfolio photos. Ask who leads the project from design through construction, what is included in preconstruction, and how often the budget is updated. Ask how permitting is handled, what consultants are included, and who communicates with you day to day. You should also ask what is excluded from the proposal, how allowances are set, and how change orders are approved and priced. These details matter because they determine how much control and clarity you will have later. A firm that answers directly is usually easier to work with than one that stays vague. For Los Angeles luxury homes, it helps to ask about similar projects in your area and how the firm handled zoning, permitting, or site constraints. That gives you a sense of whether they can handle the specific complexity of your project. The goal of these questions is not to interrogate the builder. It is to find out whether the firm’s process matches your expectations. If the answers are clear, consistent, and specific, that is a strong sign. If the answers shift depending on who you ask, the process may not be as organized as it looks.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask who leads the project, what preconstruction services are included, how budgets are updated, how permitting is handled, what is excluded, and how changes are"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-design-build-better-than-hiring-an-architect-first-and-then-a-separate-builde",
+  "name": "What is the difference between design-build and architect-plus-builder for a custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is design-build better than hiring an architect first and then a separate builder for a custom home?",
+    "text": "Is design-build better than hiring an architect first and then a separate builder for a custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build is often better for homeowners who want faster coordination, clearer accountability, and fewer gaps between drawings and real construction costs. Because the same team is managing both design and buildability, value engineering and permit readiness can happen earlier. Architect-plus-builder can work well when the owner wants a highly independent design process, but it may require more effort to align scope, budget, and schedule after the plans are complete. In expensive markets like Los Angeles, the biggest risk is often designing a house that looks right on paper but becomes too costly or difficult to permit once the builder prices it. Design-build can reduce that risk, especially for custom luxury homes with complex site conditions. Homeowners should compare how each approach handles budgeting, permit coordination, change orders, and responsibility for errors before deciding.",
+      "@type": "Answer",
+      "description": "Design-build combines design and construction under one team, which can improve coordination and reduce back-and-forth during pricing and permitting. Architect-plus-builder gives the owner more separation between design and construction, but it can create more handoff risk and slower budgeting. The better choice depends on how fixed the design needs to be and how much owner involvement is desired.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build is often better for homeowners who want faster coordination, clearer accountability, and fewer gaps between drawings and real construction costs. Because the same team is managing both design and buildability, value engineering and permit readiness can happen earlier. Architect-plus-builder can work well when the owner wants a highly independent design process, but it may require more effort to align scope, budget, and schedule after the plans are complete. In expensive markets like Los Angeles, the biggest risk is often designing a house that looks right on paper but becomes too costly or difficult to permit once the builder prices it. Design-build can reduce that risk, especially for custom luxury homes with complex site conditions. Homeowners should compare how each approach handles budgeting, permit coordination, change orders, and responsibility for errors before deciding.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build combines design and construction under one team, which can improve coordination and reduce back-and-forth during pricing and permitting. Architect-"
+}

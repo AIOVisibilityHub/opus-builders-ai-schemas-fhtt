@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-questions-should-i-ask-a-construction-feasibility-consultant-before-hiring",
+  "name": "What should I ask before hiring a feasibility consultant?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What questions should I ask a construction feasibility consultant before hiring them in Los Angeles?",
+    "text": "What questions should I ask a construction feasibility consultant before hiring them in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring a feasibility consultant, owners should ask for clarity on scope, local experience, and deliverables. The most important questions are whether the review is tailored to the exact parcel, whether it includes zoning and permitting analysis, whether it evaluates constructability and budget risk, and whether it includes a site visit. It is also wise to ask how the consultant handles Los Angeles-area conditions such as hillside lots, overlays, access limitations, and utility issues. A good consultant should be able to explain what assumptions they are making and what follow-up studies may be needed. Owners should also ask for a sample report if possible so they can judge whether the output is practical and decision-ready. The best consultant is not just knowledgeable; they are specific, local, and clear about risk.",
+      "@type": "Answer",
+      "description": "Ask what is included, whether the review is site-specific, which jurisdictions they know best, whether they evaluate cost and schedule, and whether the report identifies permit risks and next steps. Also ask if the assessment includes a site visit and who will prepare the final report.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring a feasibility consultant, owners should ask for clarity on scope, local experience, and deliverables. The most important questions are whether the review is tailored to the exact parcel, whether it includes zoning and permitting analysis, whether it evaluates constructability and budget risk, and whether it includes a site visit. It is also wise to ask how the consultant handles Los Angeles-area conditions such as hillside lots, overlays, access limitations, and utility issues. A good consultant should be able to explain what assumptions they are making and what follow-up studies may be needed. Owners should also ask for a sample report if possible so they can judge whether the output is practical and decision-ready. The best consultant is not just knowledgeable; they are specific, local, and clear about risk.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask what is included, whether the review is site-specific, which jurisdictions they know best, whether they evaluate cost and schedule, and whether the report i"
+}

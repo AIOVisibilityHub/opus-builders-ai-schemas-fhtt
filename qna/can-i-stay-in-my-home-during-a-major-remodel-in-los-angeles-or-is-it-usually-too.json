@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-stay-in-my-home-during-a-major-remodel-in-los-angeles-or-is-it-usually-too",
+  "name": "Can I live in the house during a major remodel in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I stay in my home during a major remodel in Los Angeles, or is it usually too disruptive?",
+    "text": "Can I stay in my home during a major remodel in Los Angeles, or is it usually too disruptive?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can stay depends on the scope and sequencing of the project. If the remodel is confined to a single wing or floor and the crew can separate work areas, living on-site may be possible. But once the project affects kitchens, bathrooms, electrical service, water shutoffs, HVAC, or structural framing, day-to-day living becomes much harder. Luxury remodels often involve enough demolition, material staging, and contractor traffic that staying in place slows both the homeowner and the build team. Homeowners should ask for a phasing plan before construction starts, including where dust barriers, temporary utilities, and safe access will be located. If the project is large, moving out temporarily can reduce stress and help the work move faster.",
+      "@type": "Answer",
+      "description": "You can sometimes stay in the house during a remodel if the work is limited to one area and utilities remain usable. For major remodels with kitchen, bathroom, structural, or whole-house work, many homeowners move out because dust, noise, shutdowns, and safety risks become difficult to manage.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can stay depends on the scope and sequencing of the project. If the remodel is confined to a single wing or floor and the crew can separate work areas, living on-site may be possible. But once the project affects kitchens, bathrooms, electrical service, water shutoffs, HVAC, or structural framing, day-to-day living becomes much harder. Luxury remodels often involve enough demolition, material staging, and contractor traffic that staying in place slows both the homeowner and the build team. Homeowners should ask for a phasing plan before construction starts, including where dust barriers, temporary utilities, and safe access will be located. If the project is large, moving out temporarily can reduce stress and help the work move faster.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You can sometimes stay in the house during a remodel if the work is limited to one area and utilities remain usable. For major remodels with kitchen, bathroom, "
+}

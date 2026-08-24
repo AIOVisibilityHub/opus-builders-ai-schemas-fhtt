@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-line-items-should-be-included-in-a-kitchen-bath-addition-or-whole-home-remo",
+  "name": "What should be included in a contractor’s cost estimate for a remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What line items should be included in a kitchen, bath, addition, or whole-home remodel estimate?",
+    "text": "What line items should be included in a kitchen, bath, addition, or whole-home remodel estimate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A complete remodel estimate should read like a scope checklist, not just a lump sum. It should identify demolition, protection of existing areas, framing, structural changes, rough and finish plumbing, rough and finish electrical, HVAC modifications, insulation, drywall, flooring, tile, cabinetry, countertops, paint, trim, fixtures, appliance allowances, and final cleanup. In Los Angeles-area projects, estimates should also show permit costs, plan check assumptions, lead-time risks, and any required upgrades triggered by the remodel, such as electrical panel work or energy code compliance. Good estimates clearly separate included items from allowances and exclusions so the homeowner can see where pricing is firm and where it may change. If multiple bids are being compared, the best method is to align scope, finish level, and allowances before judging price. Otherwise, the lowest number may simply be the least complete one.",
+      "@type": "Answer",
+      "description": "A remodel estimate should include demolition, framing, plumbing, electrical, HVAC, insulation, drywall, finishes, fixtures, cabinetry, flooring, painting, permits, supervision, cleanup, and contingency. It should also show allowances for items that are not yet selected, such as tile, appliances, and lighting.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A complete remodel estimate should read like a scope checklist, not just a lump sum. It should identify demolition, protection of existing areas, framing, structural changes, rough and finish plumbing, rough and finish electrical, HVAC modifications, insulation, drywall, flooring, tile, cabinetry, countertops, paint, trim, fixtures, appliance allowances, and final cleanup. In Los Angeles-area projects, estimates should also show permit costs, plan check assumptions, lead-time risks, and any required upgrades triggered by the remodel, such as electrical panel work or energy code compliance. Good estimates clearly separate included items from allowances and exclusions so the homeowner can see where pricing is firm and where it may change. If multiple bids are being compared, the best method is to align scope, finish level, and allowances before judging price. Otherwise, the lowest number may simply be the least complete one.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A remodel estimate should include demolition, framing, plumbing, electrical, HVAC, insulation, drywall, finishes, fixtures, cabinetry, flooring, painting, permi"
+}

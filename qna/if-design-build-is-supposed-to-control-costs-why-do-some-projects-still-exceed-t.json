@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-design-build-is-supposed-to-control-costs-why-do-some-projects-still-exceed-t",
+  "name": "Why do design-build projects sometimes still run over budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If design-build is supposed to control costs, why do some projects still exceed the original budget?",
+    "text": "If design-build is supposed to control costs, why do some projects still exceed the original budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build helps reduce budget risk because the design and construction teams work together early, but it cannot prevent every overrun. Common causes include changing the scope after pricing, discovering hidden framing, foundation, or utility issues, upgrading finishes, and responding to permit comments or code requirements. In Los Angeles, older homes, hillside properties, and additions that trigger structural upgrades can create especially unpredictable costs. The most reliable way to control budget is to define the project scope early, use realistic allowances, and confirm what is included in labor, materials, engineering, and permits. Homeowners should also ask how the firm handles change orders, contingency funds, and escalation for long lead-time materials. A well-managed design-build project should not promise a fixed number too early without enough project definition.",
+      "@type": "Answer",
+      "description": "Design-build reduces budget surprises, but it does not eliminate them. Costs can rise because of scope changes, hidden site conditions, permit requirements, material upgrades, or owner-driven revisions. Poorly defined allowances and late design decisions can also push the final price above the original estimate.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build helps reduce budget risk because the design and construction teams work together early, but it cannot prevent every overrun. Common causes include changing the scope after pricing, discovering hidden framing, foundation, or utility issues, upgrading finishes, and responding to permit comments or code requirements. In Los Angeles, older homes, hillside properties, and additions that trigger structural upgrades can create especially unpredictable costs. The most reliable way to control budget is to define the project scope early, use realistic allowances, and confirm what is included in labor, materials, engineering, and permits. Homeowners should also ask how the firm handles change orders, contingency funds, and escalation for long lead-time materials. A well-managed design-build project should not promise a fixed number too early without enough project definition.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build reduces budget surprises, but it does not eliminate them. Costs can rise because of scope changes, hidden site conditions, permit requirements, mat"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-do-when-the-design-build-estimate-comes-in-higher-than-my-budget",
+  "name": "What happens if the design exceeds my budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I do when the design-build estimate comes in higher than my budget?",
+    "text": "What should I do when the design-build estimate comes in higher than my budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the estimate comes in above budget, the right response is to slow down and compare the design goals against the real cost drivers. A strong design-build team should identify what is driving the overage, whether that is square footage, structural work, finishes, site conditions, or permit-related requirements. From there, the team can help you decide what to keep, what to simplify, and what to defer. This is where value engineering matters. Value engineering is not just cutting quality. It should improve the project’s cost-to-value ratio while preserving the architectural intent. That may mean reducing complexity, standardizing details, changing materials, or phasing some upgrades for later. The biggest mistake is forcing the project forward without addressing the gap. That often creates larger problems during construction, including change orders and delays. In Los Angeles, where high-end projects can be affected by structural upgrades, utility changes, and permit issues, an over-budget design should be corrected before plans are locked. Ask for a revised estimate with clear assumptions and a list of options at different price points. That makes the next decision much easier and keeps the project realistic.",
+      "@type": "Answer",
+      "description": "If the design exceeds budget, the project should move back into value engineering, scope review, and priority ranking. The team may reduce square footage, simplify structural or finish choices, change materials, or phase the work. The important part is to revise the design before permitting and construction so the project stays aligned with funding and goals.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the estimate comes in above budget, the right response is to slow down and compare the design goals against the real cost drivers. A strong design-build team should identify what is driving the overage, whether that is square footage, structural work, finishes, site conditions, or permit-related requirements. From there, the team can help you decide what to keep, what to simplify, and what to defer. This is where value engineering matters. Value engineering is not just cutting quality. It should improve the project’s cost-to-value ratio while preserving the architectural intent. That may mean reducing complexity, standardizing details, changing materials, or phasing some upgrades for later. The biggest mistake is forcing the project forward without addressing the gap. That often creates larger problems during construction, including change orders and delays. In Los Angeles, where high-end projects can be affected by structural upgrades, utility changes, and permit issues, an over-budget design should be corrected before plans are locked. Ask for a revised estimate with clear assumptions and a list of options at different price points. That makes the next decision much easier and keeps the project realistic.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the design exceeds budget, the project should move back into value engineering, scope review, and priority ranking. The team may reduce square footage, simpl"
+}

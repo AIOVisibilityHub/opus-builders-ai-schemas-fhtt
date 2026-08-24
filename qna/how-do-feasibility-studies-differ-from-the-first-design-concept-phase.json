@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-feasibility-studies-differ-from-the-first-design-concept-phase",
+  "name": "What is the difference between feasibility and schematic design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do feasibility studies differ from the first design concept phase?",
+    "text": "How do feasibility studies differ from the first design concept phase?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Feasibility and schematic design are related, but they serve different purposes. Feasibility comes first and answers whether the project is realistic on the site, within zoning limits, and within a likely budget range. It focuses on constraints, risks, and general project viability. Schematic design comes after feasibility and begins translating the project into an actual layout and concept. At that point, the team is deciding how spaces relate to each other, how the home or remodel should function, and what the design direction should feel like. The distinction matters because many owners jump into schematic design before understanding feasibility. That can lead to beautiful concepts that later prove too large, too costly, or difficult to permit. A good design-build process uses feasibility to narrow the options before design becomes too advanced. For Los Angeles homes, especially in high-value neighborhoods or on constrained lots, this sequence can save time and money. Ask your builder or designer whether the project has truly passed feasibility before investing heavily in concept development. If not, the concept may need to be adjusted later. The best projects move from feasibility to schematic design only after the core constraints are understood.",
+      "@type": "Answer",
+      "description": "Feasibility studies answer whether the project can work on the site and within the likely budget. Schematic design turns that conclusion into an early layout and concept. Feasibility is about risk and constraints; schematic design is about shape, function, and design direction. The two stages are related but not the same.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Feasibility and schematic design are related, but they serve different purposes. Feasibility comes first and answers whether the project is realistic on the site, within zoning limits, and within a likely budget range. It focuses on constraints, risks, and general project viability. Schematic design comes after feasibility and begins translating the project into an actual layout and concept. At that point, the team is deciding how spaces relate to each other, how the home or remodel should function, and what the design direction should feel like. The distinction matters because many owners jump into schematic design before understanding feasibility. That can lead to beautiful concepts that later prove too large, too costly, or difficult to permit. A good design-build process uses feasibility to narrow the options before design becomes too advanced. For Los Angeles homes, especially in high-value neighborhoods or on constrained lots, this sequence can save time and money. Ask your builder or designer whether the project has truly passed feasibility before investing heavily in concept development. If not, the concept may need to be adjusted later. The best projects move from feasibility to schematic design only after the core constraints are understood.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Feasibility studies answer whether the project can work on the site and within the likely budget. Schematic design turns that conclusion into an early layout an"
+}

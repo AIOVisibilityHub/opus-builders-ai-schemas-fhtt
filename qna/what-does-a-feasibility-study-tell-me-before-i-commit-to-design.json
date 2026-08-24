@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-does-a-feasibility-study-tell-me-before-i-commit-to-design",
+  "name": "What is a feasibility study in preconstruction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What does a feasibility study tell me before I commit to design?",
+    "text": "What does a feasibility study tell me before I commit to design?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A feasibility study is an early diagnostic step that tells you whether your project is realistic before you spend heavily on design and engineering. It looks at the site, zoning, setbacks, height limits, lot coverage, access, utility conditions, and any known constraints that may affect the build. It also helps establish a realistic budget range based on the type of home or remodel you want. In Los Angeles-area projects, feasibility is especially useful because many properties have hidden complexity. Hillside lots, small lots, older homes, and coastal-influenced areas can all introduce design and permitting issues that are not obvious at first glance. A feasibility study helps identify those issues before they turn into expensive redesigns. The best feasibility studies do more than confirm that a house can be built. They help answer what should be built, how much it is likely to cost, and what the likely approval path will look like. That gives homeowners a smarter foundation for design decisions. If the study is too vague, it is not very useful. Ask for a written summary with key risks, constraints, and recommended next steps so you can decide whether to move into full design confidently.",
+      "@type": "Answer",
+      "description": "A feasibility study checks whether the project is realistic before full design starts. It usually reviews zoning, setbacks, buildable area, utility constraints, site conditions, budget range, and likely permitting issues. The goal is to catch problems early so the owner does not spend heavily on plans for a project that is unlikely to work as envisioned.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A feasibility study is an early diagnostic step that tells you whether your project is realistic before you spend heavily on design and engineering. It looks at the site, zoning, setbacks, height limits, lot coverage, access, utility conditions, and any known constraints that may affect the build. It also helps establish a realistic budget range based on the type of home or remodel you want. In Los Angeles-area projects, feasibility is especially useful because many properties have hidden complexity. Hillside lots, small lots, older homes, and coastal-influenced areas can all introduce design and permitting issues that are not obvious at first glance. A feasibility study helps identify those issues before they turn into expensive redesigns. The best feasibility studies do more than confirm that a house can be built. They help answer what should be built, how much it is likely to cost, and what the likely approval path will look like. That gives homeowners a smarter foundation for design decisions. If the study is too vague, it is not very useful. Ask for a written summary with key risks, constraints, and recommended next steps so you can decide whether to move into full design confidently.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A feasibility study checks whether the project is realistic before full design starts. It usually reviews zoning, setbacks, buildable area, utility constraints,"
+}

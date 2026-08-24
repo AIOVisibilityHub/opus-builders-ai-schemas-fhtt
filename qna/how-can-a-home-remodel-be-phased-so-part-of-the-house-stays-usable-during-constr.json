@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-a-home-remodel-be-phased-so-part-of-the-house-stays-usable-during-constr",
+  "name": "How do I phase a remodel to keep some rooms usable?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can a home remodel be phased so part of the house stays usable during construction?",
+    "text": "How can a home remodel be phased so part of the house stays usable during construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phasing works when the builder and designer plan the project as a series of controlled zones rather than one large disruption. The team may complete one bathroom or wing first, then move to the next area while maintaining access to a temporary kitchen or living space. Good phasing depends on utility shutoffs, dust barriers, material staging, and safe pathways through the house. It is often possible on moderate remodels, but it becomes difficult when structural changes or major system replacements affect multiple parts of the home at once. Homeowners should ask for a phasing schedule before work starts so they know what rooms will be available and when. The more complicated the project, the more important it is to decide early whether living in place is realistic.",
+      "@type": "Answer",
+      "description": "A remodel can be phased by separating work zones, sequencing demolition and utilities, and finishing one area before starting the next. This works best when the project is planned around access, dust control, and temporary use of kitchens, bathrooms, or bedrooms.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phasing works when the builder and designer plan the project as a series of controlled zones rather than one large disruption. The team may complete one bathroom or wing first, then move to the next area while maintaining access to a temporary kitchen or living space. Good phasing depends on utility shutoffs, dust barriers, material staging, and safe pathways through the house. It is often possible on moderate remodels, but it becomes difficult when structural changes or major system replacements affect multiple parts of the home at once. Homeowners should ask for a phasing schedule before work starts so they know what rooms will be available and when. The more complicated the project, the more important it is to decide early whether living in place is realistic.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A remodel can be phased by separating work zones, sequencing demolition and utilities, and finishing one area before starting the next. This works best when the"
+}

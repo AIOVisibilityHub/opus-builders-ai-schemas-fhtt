@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-services-are-included-in-a-design-build-contract-for-a-luxury-remodel-or-ad",
+  "name": "What does design-build actually include for a luxury home remodel in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What services are included in a design-build contract for a luxury remodel or addition in Los Angeles?",
+    "text": "What services are included in a design-build contract for a luxury remodel or addition in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A design-build contract typically covers the full project lifecycle: initial consultation, concept design, budgeting, permitting support, scheduling, construction, and final closeout. For luxury homes in Los Angeles, it may also include custom architectural details, premium finish selections, structural engineering coordination, and site-specific planning for hillside lots or tight urban properties. The main advantage is that the same team manages both the design and construction phases, which reduces gaps between drawings and field execution. That can help with faster decisions, fewer change orders, and better budget control. Homeowners should still ask exactly what is included and excluded, because some firms bundle drafting and engineering while others treat them as separate services. A clear scope document, allowance schedule, and milestone timeline are essential before work begins.",
+      "@type": "Answer",
+      "description": "A design-build contract usually includes design planning, budgeting, permitting support, construction management, and coordination of trades under one team. For luxury homes, it may also include architectural detailing, material selection, engineering coordination, and finish specifications. The key benefit is a single point of accountability from concept through completion.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A design-build contract typically covers the full project lifecycle: initial consultation, concept design, budgeting, permitting support, scheduling, construction, and final closeout. For luxury homes in Los Angeles, it may also include custom architectural details, premium finish selections, structural engineering coordination, and site-specific planning for hillside lots or tight urban properties. The main advantage is that the same team manages both the design and construction phases, which reduces gaps between drawings and field execution. That can help with faster decisions, fewer change orders, and better budget control. Homeowners should still ask exactly what is included and excluded, because some firms bundle drafting and engineering while others treat them as separate services. A clear scope document, allowance schedule, and milestone timeline are essential before work begins.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A design-build contract usually includes design planning, budgeting, permitting support, construction management, and coordination of trades under one team. For"
+}

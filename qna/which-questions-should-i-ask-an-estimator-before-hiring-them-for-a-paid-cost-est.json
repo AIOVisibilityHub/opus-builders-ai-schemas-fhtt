@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-questions-should-i-ask-an-estimator-before-hiring-them-for-a-paid-cost-est",
+  "name": "What should I ask before paying for a professional estimate?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which questions should I ask an estimator before hiring them for a paid cost estimate?",
+    "text": "Which questions should I ask an estimator before hiring them for a paid cost estimate?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before paying for a professional estimate, ask what information is required, what deliverables you will receive, and how detailed the pricing will be. Confirm whether the estimate is conceptual, schematic, or bid-ready, because those are very different outputs. Ask whether the estimator includes labor, materials, permit fees, sitework, contingency, and allowances, and ask how changes are handled if the design evolves. It is also smart to ask what project types they specialize in, especially if the job is a luxury home, addition, ADU, or hillside property in Los Angeles. A good estimator should be able to explain their assumptions clearly and tell you what could change the price later. That transparency is often more valuable than the lowest fee. The goal is to buy clarity, not just a number.",
+      "@type": "Answer",
+      "description": "Ask what drawings they need, what level of detail they provide, what is included and excluded, whether allowances are realistic, how revisions are handled, and how long delivery takes. You should also confirm whether the estimate is conceptual or bid-ready.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before paying for a professional estimate, ask what information is required, what deliverables you will receive, and how detailed the pricing will be. Confirm whether the estimate is conceptual, schematic, or bid-ready, because those are very different outputs. Ask whether the estimator includes labor, materials, permit fees, sitework, contingency, and allowances, and ask how changes are handled if the design evolves. It is also smart to ask what project types they specialize in, especially if the job is a luxury home, addition, ADU, or hillside property in Los Angeles. A good estimator should be able to explain their assumptions clearly and tell you what could change the price later. That transparency is often more valuable than the lowest fee. The goal is to buy clarity, not just a number.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask what drawings they need, what level of detail they provide, what is included and excluded, whether allowances are realistic, how revisions are handled, and "
+}

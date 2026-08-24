@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-when-permit-reviewers-ask-for-revisions-after-plans-are-submitted",
+  "name": "What if the city requires design changes after submission?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens when permit reviewers ask for revisions after plans are submitted?",
+    "text": "What happens when permit reviewers ask for revisions after plans are submitted?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Plan check revisions are common, especially in cities with detailed review processes. If reviewers ask for changes, the design-build team should update the drawings, coordinate any needed engineering changes, and resubmit the corrected set. The impact on schedule depends on how significant the comments are and how quickly the team can respond. This is one reason preconstruction matters so much. A strong team anticipates likely review issues before submission and builds time into the schedule for one or more revision cycles. Without that planning, permit-related changes can create frustration and delay construction start dates. For homeowners, the most important question is whether the firm is proactive or reactive. A proactive team tracks comments, communicates what changed, and explains whether the revision affects cost, scope, or timing. If the revisions create new expenses, those should be discussed clearly before moving ahead. In Los Angeles-area projects, permit revision cycles can be a normal part of the process rather than a sign of failure. The best outcome is a team that handles them without derailing the project. Ask how many permit cycles are included in the preconstruction scope and how additional rounds are billed if needed.",
+      "@type": "Answer",
+      "description": "If the city requires revisions, the design-build team should revise the plans, respond to comments, and update the permit set as needed. This is common in preconstruction and can affect both schedule and budget. Good planning includes time for plan check cycles, so revisions do not derail the project.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Plan check revisions are common, especially in cities with detailed review processes. If reviewers ask for changes, the design-build team should update the drawings, coordinate any needed engineering changes, and resubmit the corrected set. The impact on schedule depends on how significant the comments are and how quickly the team can respond. This is one reason preconstruction matters so much. A strong team anticipates likely review issues before submission and builds time into the schedule for one or more revision cycles. Without that planning, permit-related changes can create frustration and delay construction start dates. For homeowners, the most important question is whether the firm is proactive or reactive. A proactive team tracks comments, communicates what changed, and explains whether the revision affects cost, scope, or timing. If the revisions create new expenses, those should be discussed clearly before moving ahead. In Los Angeles-area projects, permit revision cycles can be a normal part of the process rather than a sign of failure. The best outcome is a team that handles them without derailing the project. Ask how many permit cycles are included in the preconstruction scope and how additional rounds are billed if needed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the city requires revisions, the design-build team should revise the plans, respond to comments, and update the permit set as needed. This is common in preco"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-compare-two-or-three-construction-estimates-without-miss",
+  "name": "How do I compare construction estimates from different builders?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to compare two or three construction estimates without missing hidden costs?",
+    "text": "What is the best way to compare two or three construction estimates without missing hidden costs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best way to compare construction estimates is to normalize the scope before looking at the total. Make sure every builder is pricing the same drawings, finish level, allowance amounts, exclusions, and schedule assumptions. Then compare line items for sitework, demolition, framing, MEP trades, cabinetry, flooring, permit fees, supervision, and contingency. In Los Angeles, one estimate may include hillside excavation, Title 24 compliance, or specialty inspections while another may not. That makes the lower number misleading. A strong comparison matrix should highlight included, excluded, and provisional items so you can see exactly why one bid is higher. If a proposal is much lower than the others, look for missing permit costs, underestimated labor, vague finish allowances, or unrealistic timelines. The safest decision usually comes from the estimate that is most complete and transparent, not the one with the smallest headline price.",
+      "@type": "Answer",
+      "description": "Compare estimates by scope, allowances, exclusions, unit pricing, contingency, permit assumptions, and schedule. The cheapest proposal is not always the best if it omits sitework, engineering, finish upgrades, or supervision. A clean comparison uses the same drawings and the same assumptions for every bidder.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best way to compare construction estimates is to normalize the scope before looking at the total. Make sure every builder is pricing the same drawings, finish level, allowance amounts, exclusions, and schedule assumptions. Then compare line items for sitework, demolition, framing, MEP trades, cabinetry, flooring, permit fees, supervision, and contingency. In Los Angeles, one estimate may include hillside excavation, Title 24 compliance, or specialty inspections while another may not. That makes the lower number misleading. A strong comparison matrix should highlight included, excluded, and provisional items so you can see exactly why one bid is higher. If a proposal is much lower than the others, look for missing permit costs, underestimated labor, vague finish allowances, or unrealistic timelines. The safest decision usually comes from the estimate that is most complete and transparent, not the one with the smallest headline price.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare estimates by scope, allowances, exclusions, unit pricing, contingency, permit assumptions, and schedule. The cheapest proposal is not always the best if"
+}

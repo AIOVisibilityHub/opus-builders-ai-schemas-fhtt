@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-coordinate-engineering-when-setbacks-leave-very-little-r",
+  "name": "How do you coordinate engineering on projects with tight lot setbacks?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to coordinate engineering when setbacks leave very little room?",
+    "text": "What is the best way to coordinate engineering when setbacks leave very little room?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "When setbacks are tight, every inch matters. The team needs to confirm the property lines, building envelope, wall thickness, foundation dimensions, utility locations, and equipment clearances before design gets too far along. This is especially important in denser parts of Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood where lots can be narrow and existing conditions may not match older records. If the team assumes more space than the site actually has, the project can run into setback, access, or maintenance clearance problems later. Careful engineering coordination helps the architect and engineers preserve usable interior space while staying within the site limits. Homeowners should expect site verification, survey review, and repeated plan checks before the design is finalized. Tight-lot projects reward precision, not guesswork.",
+      "@type": "Answer",
+      "description": "Tight setback projects require early coordination of foundation size, wall thickness, utility placement, drainage, and equipment clearances. The team should verify actual property dimensions, not just assumptions from old plans. Small mistakes can create code conflicts or force redesigns later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "When setbacks are tight, every inch matters. The team needs to confirm the property lines, building envelope, wall thickness, foundation dimensions, utility locations, and equipment clearances before design gets too far along. This is especially important in denser parts of Los Angeles, Glendale, Pasadena, Burbank, and North Hollywood where lots can be narrow and existing conditions may not match older records. If the team assumes more space than the site actually has, the project can run into setback, access, or maintenance clearance problems later. Careful engineering coordination helps the architect and engineers preserve usable interior space while staying within the site limits. Homeowners should expect site verification, survey review, and repeated plan checks before the design is finalized. Tight-lot projects reward precision, not guesswork.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Tight setback projects require early coordination of foundation size, wall thickness, utility placement, drainage, and equipment clearances. The team should ver"
+}

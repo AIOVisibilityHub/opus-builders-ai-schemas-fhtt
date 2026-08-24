@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-during-preconstruction-for-a-luxury-custom-home",
+  "name": "What does a luxury custom home builder do before construction starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens during preconstruction for a luxury custom home?",
+    "text": "What happens during preconstruction for a luxury custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Preconstruction is where a luxury custom home project is set up for success. During this phase, the builder reviews the site, studies plans, checks constructability, builds the budget, and helps coordinate with architects and engineers. It is also when permit strategy, lead times, and sequencing are mapped out so the project has a realistic path forward. For luxury homes, this phase is especially important because custom details, hillside conditions, and city approvals can create hidden problems if they are not addressed early. A strong preconstruction process should also identify long-lead items, confirm allowance levels, and flag any design elements that could create cost or schedule risk. Homeowners should expect to make decisions during preconstruction that will affect the rest of the job. The better this phase is handled, the smoother the build will be.",
+      "@type": "Answer",
+      "description": "Preconstruction usually includes site review, budgeting, constructability checks, scheduling, permit strategy, engineering coordination, and material planning. This phase helps reduce surprises by aligning the design, scope, and budget before the first day on site.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Preconstruction is where a luxury custom home project is set up for success. During this phase, the builder reviews the site, studies plans, checks constructability, builds the budget, and helps coordinate with architects and engineers. It is also when permit strategy, lead times, and sequencing are mapped out so the project has a realistic path forward. For luxury homes, this phase is especially important because custom details, hillside conditions, and city approvals can create hidden problems if they are not addressed early. A strong preconstruction process should also identify long-lead items, confirm allowance levels, and flag any design elements that could create cost or schedule risk. Homeowners should expect to make decisions during preconstruction that will affect the rest of the job. The better this phase is handled, the smoother the build will be.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Preconstruction usually includes site review, budgeting, constructability checks, scheduling, permit strategy, engineering coordination, and material planning. "
+}

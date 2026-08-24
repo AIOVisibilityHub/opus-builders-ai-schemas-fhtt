@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-homeowner-wants-changes-after-plans-have-already-been-submitted-or-approv",
+  "name": "What if the design changes after permit submittal?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the homeowner wants changes after plans have already been submitted or approved, how does coordination handle the revisions?",
+    "text": "If the homeowner wants changes after plans have already been submitted or approved, how does coordination handle the revisions?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design changes after permit submittal are common, but they need careful coordination because even one revision can affect multiple sheets and consultants. The coordinator should identify every impacted document, update the master set, and confirm whether the city requires a revised submittal, an addendum, or a separate permit response. The risk is not just the change itself. It is the chain reaction the change can create. A moved wall can affect structure, HVAC, lighting, cabinetry, and elevations. If those updates are not synchronized, the project may move forward with inconsistent documents. For homeowners, the key is to ask how the team manages late changes before the permit is filed. Some firms can absorb limited changes easily. Others need a formal change process. The best practice is to freeze major decisions as early as possible and reserve late changes for truly necessary updates. That keeps the project from cycling back into review or construction delays.",
+      "@type": "Answer",
+      "description": "If the design changes after permit submittal, the coordinator must update every affected drawing, confirm consultant revisions, and determine whether a new submittal or addendum is needed. Small changes may be manageable, but larger changes can restart review or create field delays. Version control becomes critical at that stage.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design changes after permit submittal are common, but they need careful coordination because even one revision can affect multiple sheets and consultants. The coordinator should identify every impacted document, update the master set, and confirm whether the city requires a revised submittal, an addendum, or a separate permit response. The risk is not just the change itself. It is the chain reaction the change can create. A moved wall can affect structure, HVAC, lighting, cabinetry, and elevations. If those updates are not synchronized, the project may move forward with inconsistent documents. For homeowners, the key is to ask how the team manages late changes before the permit is filed. Some firms can absorb limited changes easily. Others need a formal change process. The best practice is to freeze major decisions as early as possible and reserve late changes for truly necessary updates. That keeps the project from cycling back into review or construction delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the design changes after permit submittal, the coordinator must update every affected drawing, confirm consultant revisions, and determine whether a new subm"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-the-homeowner-still-make-design-decisions-or-does-design-build-limit-creativ",
+  "name": "How much input do homeowners get during a design-build project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can the homeowner still make design decisions, or does design-build limit creative control?",
+    "text": "Can the homeowner still make design decisions, or does design-build limit creative control?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build does not eliminate homeowner involvement. In most projects, the homeowner helps define the overall goals, approves layouts, selects finishes, and signs off on key design decisions. The difference is that those choices are made within a process coordinated by one team, so the options are tested against budget and construction feasibility earlier. That can actually give homeowners more confidence because they see how each decision affects the project before work starts. The downside is that decision deadlines are more structured, so last-minute changes can be costly or disruptive. Homeowners who want high creative control should ask how the team handles design revisions, presentation rounds, and final approvals. The best design-build relationship is collaborative, not rigid.",
+      "@type": "Answer",
+      "description": "Homeowners usually have substantial input in a design-build project, especially on layout, finishes, fixtures, and overall style. The process is collaborative, but decision deadlines matter because late changes can affect budget and schedule. Good firms guide choices without taking control away from the homeowner.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build does not eliminate homeowner involvement. In most projects, the homeowner helps define the overall goals, approves layouts, selects finishes, and signs off on key design decisions. The difference is that those choices are made within a process coordinated by one team, so the options are tested against budget and construction feasibility earlier. That can actually give homeowners more confidence because they see how each decision affects the project before work starts. The downside is that decision deadlines are more structured, so last-minute changes can be costly or disruptive. Homeowners who want high creative control should ask how the team handles design revisions, presentation rounds, and final approvals. The best design-build relationship is collaborative, not rigid.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Homeowners usually have substantial input in a design-build project, especially on layout, finishes, fixtures, and overall style. The process is collaborative, "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-hard-costs-and-soft-costs-differ-in-a-construction-budget",
+  "name": "What is the difference between hard costs and soft costs?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do hard costs and soft costs differ in a construction budget?",
+    "text": "How do hard costs and soft costs differ in a construction budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hard costs are the direct expenses needed to build the project, including labor, materials, equipment, and subcontractor work. Soft costs are the supporting expenses that make the project possible, such as design, engineering, survey work, reports, permits, plan check, insurance, financing, and sometimes legal or consulting services. In Los Angeles, soft costs can be significant enough to change whether a project is feasible. Owners often look only at hard costs and underestimate the full budget. A strong estimate should separate these categories clearly so the owner understands what is being paid for before construction starts. That also makes it easier to compare different projects, because one contractor may quote only hard construction while another may include more of the preconstruction work. Clear separation prevents confusion and reduces the chance of budget overruns.",
+      "@type": "Answer",
+      "description": "Hard costs are the physical construction expenses like labor and materials. Soft costs are the project services and approvals, such as design, engineering, surveys, permits, and financing. A complete budget should show both so the owner sees the real total.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hard costs are the direct expenses needed to build the project, including labor, materials, equipment, and subcontractor work. Soft costs are the supporting expenses that make the project possible, such as design, engineering, survey work, reports, permits, plan check, insurance, financing, and sometimes legal or consulting services. In Los Angeles, soft costs can be significant enough to change whether a project is feasible. Owners often look only at hard costs and underestimate the full budget. A strong estimate should separate these categories clearly so the owner understands what is being paid for before construction starts. That also makes it easier to compare different projects, because one contractor may quote only hard construction while another may include more of the preconstruction work. Clear separation prevents confusion and reduces the chance of budget overruns.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Hard costs are the physical construction expenses like labor and materials. Soft costs are the project services and approvals, such as design, engineering, surv"
+}

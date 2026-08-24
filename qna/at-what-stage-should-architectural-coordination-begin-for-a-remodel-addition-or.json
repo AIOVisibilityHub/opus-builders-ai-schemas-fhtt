@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/at-what-stage-should-architectural-coordination-begin-for-a-remodel-addition-or",
+  "name": "When should coordination start on a remodel or new custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "At what stage should architectural coordination begin for a remodel, addition, or new custom home project?",
+    "text": "At what stage should architectural coordination begin for a remodel, addition, or new custom home project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Architectural coordination should start as early as possible, ideally during pre-design or schematic design. That is the stage when major decisions about layout, massing, structure, and systems are still flexible. Early coordination allows the team to spot constraints such as existing framing limitations, mechanical routing paths, grading issues, utility locations, and setback or height concerns before the design becomes too fixed. For remodels and additions, early coordination is even more important because the existing house can create hidden conflicts. Walls may not be plumb, framing may not match the drawings, and field conditions may differ from the as-built assumptions. If coordination starts late, the project can end up paying to redesign details that could have been solved earlier. A good rule is to coordinate before permit submittal, before consultant drawings are finalized, and again before construction begins. That gives the team time to reconcile changes across every sheet. Ask for a coordination milestone schedule so everyone knows when architecture, structure, MEP, interiors, and cost checks happen.",
+      "@type": "Answer",
+      "description": "Architectural coordination should begin as early as pre-design or schematic design, before final plans are locked. Starting early helps the team resolve structural, mechanical, site, and permit constraints before they become expensive revisions. Waiting until construction documents or permit corrections usually increases delays and change orders.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Architectural coordination should start as early as possible, ideally during pre-design or schematic design. That is the stage when major decisions about layout, massing, structure, and systems are still flexible. Early coordination allows the team to spot constraints such as existing framing limitations, mechanical routing paths, grading issues, utility locations, and setback or height concerns before the design becomes too fixed. For remodels and additions, early coordination is even more important because the existing house can create hidden conflicts. Walls may not be plumb, framing may not match the drawings, and field conditions may differ from the as-built assumptions. If coordination starts late, the project can end up paying to redesign details that could have been solved earlier. A good rule is to coordinate before permit submittal, before consultant drawings are finalized, and again before construction begins. That gives the team time to reconcile changes across every sheet. Ask for a coordination milestone schedule so everyone knows when architecture, structure, MEP, interiors, and cost checks happen.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Architectural coordination should begin as early as pre-design or schematic design, before final plans are locked. Starting early helps the team resolve structu"
+}

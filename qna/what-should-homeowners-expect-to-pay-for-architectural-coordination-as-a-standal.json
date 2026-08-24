@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-homeowners-expect-to-pay-for-architectural-coordination-as-a-standal",
+  "name": "How much does architectural coordination cost for a custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should homeowners expect to pay for architectural coordination as a standalone service or as part of a design-build package?",
+    "text": "What should homeowners expect to pay for architectural coordination as a standalone service or as part of a design-build package?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Architectural coordination costs vary widely because the scope can range from basic drawing review to full consultant management and permit response support. On smaller projects, coordination may be folded into the architect’s fee. On larger custom homes, it may be billed as part of design-build services, project management, or a dedicated coordination role. The biggest cost drivers are project complexity, number of consultants, revision volume, and how many permit or field issues need active management. A simple remodel may need only periodic coordination. A luxury home with structural engineering, MEP coordination, specialty glazing, landscape interfaces, and multiple city review cycles can require much more time. Homeowners should ask exactly what is included. Does the fee cover drawing reconciliation, consultant meetings, permit revisions, field responses, and closeout support, or only general communication? A lower fee can become expensive if it excludes the tasks that prevent change orders later. The best way to compare proposals is to compare scope, not just price. Ask for clear deliverables and a description of who owns revision tracking.",
+      "@type": "Answer",
+      "description": "Costs vary based on project size, complexity, and whether coordination is included in design fees or billed separately. Simple projects may only need limited coordination, while custom homes with multiple consultants and permit rounds need more time. The main cost drivers are revision volume, consultant count, and how much permit management is included.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Architectural coordination costs vary widely because the scope can range from basic drawing review to full consultant management and permit response support. On smaller projects, coordination may be folded into the architect’s fee. On larger custom homes, it may be billed as part of design-build services, project management, or a dedicated coordination role. The biggest cost drivers are project complexity, number of consultants, revision volume, and how many permit or field issues need active management. A simple remodel may need only periodic coordination. A luxury home with structural engineering, MEP coordination, specialty glazing, landscape interfaces, and multiple city review cycles can require much more time. Homeowners should ask exactly what is included. Does the fee cover drawing reconciliation, consultant meetings, permit revisions, field responses, and closeout support, or only general communication? A lower fee can become expensive if it excludes the tasks that prevent change orders later. The best way to compare proposals is to compare scope, not just price. Ask for clear deliverables and a description of who owns revision tracking.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Costs vary based on project size, complexity, and whether coordination is included in design fees or billed separately. Simple projects may only need limited co"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-a-feasibility-assessment-shows-the-project-cost-is-higher-than-t",
+  "name": "What if the budget does not match the site?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if a feasibility assessment shows the project cost is higher than the budget?",
+    "text": "What happens if a feasibility assessment shows the project cost is higher than the budget?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A budget mismatch is one of the most valuable things a feasibility assessment can reveal early. If the site demands more grading, structural work, permitting, or utility relocation than the budget can support, the project should be redesigned before full plans are completed. Common responses include reducing square footage, removing basements, simplifying rooflines, adjusting the footprint, or choosing a different lot strategy. The key is to identify the biggest cost drivers, not just the final number. In Los Angeles-area projects, the most expensive surprises often come from site work rather than visible finishes. A good assessment should separate controllable costs from non-negotiable site costs so the owner can make a rational decision. If the budget is too low for the site, the report should say so plainly and explain the cheapest path to feasibility.",
+      "@type": "Answer",
+      "description": "If the projected cost is above budget, the next step is usually to reduce scope, simplify the structure, change materials, revise the site plan, or pause the project. A feasibility assessment should highlight which design elements are driving the overage so the owner can decide what to change first.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A budget mismatch is one of the most valuable things a feasibility assessment can reveal early. If the site demands more grading, structural work, permitting, or utility relocation than the budget can support, the project should be redesigned before full plans are completed. Common responses include reducing square footage, removing basements, simplifying rooflines, adjusting the footprint, or choosing a different lot strategy. The key is to identify the biggest cost drivers, not just the final number. In Los Angeles-area projects, the most expensive surprises often come from site work rather than visible finishes. A good assessment should separate controllable costs from non-negotiable site costs so the owner can make a rational decision. If the budget is too low for the site, the report should say so plainly and explain the cheapest path to feasibility.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the projected cost is above budget, the next step is usually to reduce scope, simplify the structure, change materials, revise the site plan, or pause the pr"
+}

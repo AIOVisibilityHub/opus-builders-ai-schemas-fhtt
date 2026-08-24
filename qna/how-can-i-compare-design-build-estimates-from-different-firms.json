@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-compare-design-build-estimates-from-different-firms",
+  "name": "How can I compare design-build estimates from different firms?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I compare design-build estimates from different firms?",
+    "text": "How can I compare design-build estimates from different firms?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "To compare design-build estimates fairly, normalize the scope first. Make sure each firm is pricing the same project size, finish level, permit work, engineering, and site conditions. Then compare allowances, exclusions, contingencies, supervision, and payment terms. One quote may look cheaper simply because it assumes lower-quality finishes or leaves out important tasks. Ask each firm to explain where their estimate is firm and where it is still provisional. For Los Angeles luxury projects, it also helps to compare how the firms handle change orders, long-lead items, and owner-requested upgrades. The most useful estimate is the one that is transparent about assumptions. If a proposal is hard to understand, it is harder to trust.",
+      "@type": "Answer",
+      "description": "Compare estimates by scope, allowances, exclusions, schedule, and contract type, not just price. Two bids can look different because one includes more design, permit work, supervision, or higher-end finish assumptions than the other.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "To compare design-build estimates fairly, normalize the scope first. Make sure each firm is pricing the same project size, finish level, permit work, engineering, and site conditions. Then compare allowances, exclusions, contingencies, supervision, and payment terms. One quote may look cheaper simply because it assumes lower-quality finishes or leaves out important tasks. Ask each firm to explain where their estimate is firm and where it is still provisional. For Los Angeles luxury projects, it also helps to compare how the firms handle change orders, long-lead items, and owner-requested upgrades. The most useful estimate is the one that is transparent about assumptions. If a proposal is hard to understand, it is harder to trust.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare estimates by scope, allowances, exclusions, schedule, and contract type, not just price. Two bids can look different because one includes more design, p"
+}

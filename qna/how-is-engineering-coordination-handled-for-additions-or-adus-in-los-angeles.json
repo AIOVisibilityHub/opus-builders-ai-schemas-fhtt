@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-is-engineering-coordination-handled-for-additions-or-adus-in-los-angeles",
+  "name": "How does engineering coordination work on additions and ADUs?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How is engineering coordination handled for additions or ADUs in Los Angeles?",
+    "text": "How is engineering coordination handled for additions or ADUs in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Additions and ADUs require extra coordination because the new work has to connect to an existing structure that may not match current standards. The team needs to check how the addition ties into the existing foundation, framing, roof lines, utilities, drainage, and fire separation requirements. In older Los Angeles-area homes, existing conditions are often imperfect or undocumented, so coordination may also depend on site verification and field measurements. Good engineering coordination helps determine whether the new work can sit on the existing foundation, whether reinforcement is needed, and how the new systems will connect without creating code or constructability issues. Homeowners should expect more investigation and more revision on an addition than on a ground-up project because the existing house controls many of the decisions. A coordinated approach reduces surprises once demolition starts.",
+      "@type": "Answer",
+      "description": "For additions and ADUs, engineering coordination usually checks structural tie-ins, foundation compatibility, utility routing, drainage, fire separation, and setback constraints. The existing home often creates the biggest challenges because new work must connect cleanly to old conditions. Careful coordination helps avoid redesign after demolition begins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Additions and ADUs require extra coordination because the new work has to connect to an existing structure that may not match current standards. The team needs to check how the addition ties into the existing foundation, framing, roof lines, utilities, drainage, and fire separation requirements. In older Los Angeles-area homes, existing conditions are often imperfect or undocumented, so coordination may also depend on site verification and field measurements. Good engineering coordination helps determine whether the new work can sit on the existing foundation, whether reinforcement is needed, and how the new systems will connect without creating code or constructability issues. Homeowners should expect more investigation and more revision on an addition than on a ground-up project because the existing house controls many of the decisions. A coordinated approach reduces surprises once demolition starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "For additions and ADUs, engineering coordination usually checks structural tie-ins, foundation compatibility, utility routing, drainage, fire separation, and se"
+}
