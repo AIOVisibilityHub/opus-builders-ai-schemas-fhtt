@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-i-want-the-adu-to-match-my-main-house-style-without-looking-fake-or-over",
+  "name": "What if I want the ADU to match my main house style?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if I want the ADU to match my main house style without looking fake or oversized?",
+    "text": "What if I want the ADU to match my main house style without looking fake or oversized?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Matching an ADU to the main house works best when the new structure borrows the right design cues without duplicating every detail. A successful match usually comes from roof pitch, material palette, trim proportions, window rhythm, and overall massing. The ADU should feel related to the existing home, but it should still read as a smaller secondary structure. Copying the main house exactly can make the ADU feel forced or overly ornate. In luxury neighborhoods, subtle continuity is usually better than a literal replica. The designer should look at what makes the main house distinctive and translate those features into a cleaner, simpler version for the ADU. That approach creates visual harmony while keeping the project buildable and cost-aware.",
+      "@type": "Answer",
+      "description": "The ADU should echo the main house through scale, roof shape, proportions, materials, and window rhythm, but it should not be a copy. A matching design feels coherent when it shares the same architectural language at a smaller scale.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Matching an ADU to the main house works best when the new structure borrows the right design cues without duplicating every detail. A successful match usually comes from roof pitch, material palette, trim proportions, window rhythm, and overall massing. The ADU should feel related to the existing home, but it should still read as a smaller secondary structure. Copying the main house exactly can make the ADU feel forced or overly ornate. In luxury neighborhoods, subtle continuity is usually better than a literal replica. The designer should look at what makes the main house distinctive and translate those features into a cleaner, simpler version for the ADU. That approach creates visual harmony while keeping the project buildable and cost-aware.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The ADU should echo the main house through scale, roof shape, proportions, materials, and window rhythm, but it should not be a copy. A matching design feels co"
+}

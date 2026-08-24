@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-choose-between-an-attached-and-detached-adu-design-for-a-los-angeles-pr",
+  "name": "How do I choose between attached and detached ADU design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I choose between an attached and detached ADU design for a Los Angeles property?",
+    "text": "How do I choose between an attached and detached ADU design for a Los Angeles property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Attached and detached ADUs solve different problems. An attached ADU can be more efficient when the lot is tight, when the homeowner wants to share walls or utilities, or when the goal is to expand an existing building envelope. A detached ADU usually offers better privacy and a more separate residential feel, which can be valuable for rental, multigenerational living, or guest use. The decision should also reflect site access, existing structures, outdoor space, and construction cost. Detached units often require more exterior work and can feel like a second home on the lot, while attached units may be easier to integrate architecturally but can reduce flexibility. A designer should compare both options before the project advances too far. In many cases, the best answer is not obvious until the lot is measured and the owner’s priorities are ranked.",
+      "@type": "Answer",
+      "description": "Choose attached if you want lower site impact, shared infrastructure, or a tighter build site. Choose detached if you want stronger privacy, clearer separation, and a more independent home feel. The right answer depends on lot shape, cost, and how much yard space you want to preserve.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Attached and detached ADUs solve different problems. An attached ADU can be more efficient when the lot is tight, when the homeowner wants to share walls or utilities, or when the goal is to expand an existing building envelope. A detached ADU usually offers better privacy and a more separate residential feel, which can be valuable for rental, multigenerational living, or guest use. The decision should also reflect site access, existing structures, outdoor space, and construction cost. Detached units often require more exterior work and can feel like a second home on the lot, while attached units may be easier to integrate architecturally but can reduce flexibility. A designer should compare both options before the project advances too far. In many cases, the best answer is not obvious until the lot is measured and the owner’s priorities are ranked.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Choose attached if you want lower site impact, shared infrastructure, or a tighter build site. Choose detached if you want stronger privacy, clearer separation,"
+}

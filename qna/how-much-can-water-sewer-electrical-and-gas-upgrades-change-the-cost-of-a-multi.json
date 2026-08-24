@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-can-water-sewer-electrical-and-gas-upgrades-change-the-cost-of-a-multi",
+  "name": "How do utility upgrades affect a multi-family budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much can water, sewer, electrical, and gas upgrades change the cost of a multi-family project?",
+    "text": "How much can water, sewer, electrical, and gas upgrades change the cost of a multi-family project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility upgrades can affect both budget and schedule more than owners expect. A site may already have service, but a new multi-family building often needs larger capacity, rerouted connections, new meters, or system coordination that was not required for the previous use. Work can include trenching, street or sidewalk cuts, backflow devices, transformers, sewer tie-ins, and utility company review. These items are frequently slow because they involve separate approvals and coordination outside the general contractor’s control. In urban Los Angeles neighborhoods, utility work can also be constrained by limited access and existing underground conflicts. A strong preconstruction review should confirm what utility capacity exists, what needs to be upgraded, and who is responsible for each piece. That prevents budget surprises after the project is already in motion.",
+      "@type": "Answer",
+      "description": "Utility upgrades can add substantial cost because they may require trenching, permits, utility company coordination, design changes, and off-site work. Even a site that already has service may need larger connections or upgraded capacity for a new apartment building. Utility work is often underestimated until engineering starts.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility upgrades can affect both budget and schedule more than owners expect. A site may already have service, but a new multi-family building often needs larger capacity, rerouted connections, new meters, or system coordination that was not required for the previous use. Work can include trenching, street or sidewalk cuts, backflow devices, transformers, sewer tie-ins, and utility company review. These items are frequently slow because they involve separate approvals and coordination outside the general contractor’s control. In urban Los Angeles neighborhoods, utility work can also be constrained by limited access and existing underground conflicts. A strong preconstruction review should confirm what utility capacity exists, what needs to be upgraded, and who is responsible for each piece. That prevents budget surprises after the project is already in motion.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utility upgrades can add substantial cost because they may require trenching, permits, utility company coordination, design changes, and off-site work. Even a s"
+}

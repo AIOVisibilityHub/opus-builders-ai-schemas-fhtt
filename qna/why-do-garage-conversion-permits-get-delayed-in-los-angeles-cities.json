@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-garage-conversion-permits-get-delayed-in-los-angeles-cities",
+  "name": "What are the most common permit delays for garage conversions?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do garage conversion permits get delayed in Los Angeles cities?",
+    "text": "Why do garage conversion permits get delayed in Los Angeles cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit delays usually happen because the plan set does not fully answer the city’s questions. In garage conversions, common causes include missing structural details, unclear insulation or energy compliance information, poor existing-condition measurements, incomplete plumbing or electrical scope, and revisions requested during plan review. If the conversion adds a bathroom, kitchen, or new openings, the review becomes more involved because more trades and code topics are triggered. Delays also happen when homeowners underestimate the amount of documentation needed for an older structure or a garage with nonstandard conditions. In some Los Angeles-area jurisdictions, utility coordination or address issues can add extra time as well. The most reliable way to reduce delays is to treat the permit package as a technical document, not just a concept drawing. Measurements should be accurate, scope should be clearly defined, and the final use of the room should be established before submission. Homeowners who start with vague plans usually lose time later. A contractor or designer familiar with local plan check expectations can prevent repeated correction cycles, which are often the biggest schedule killer.",
+      "@type": "Answer",
+      "description": "The most common delays come from incomplete drawings, missing structural or energy documents, utility coordination, and correction cycles after plan check. Conversions that change the footprint or add plumbing usually take longer because more departments need to review the plans.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit delays usually happen because the plan set does not fully answer the city’s questions. In garage conversions, common causes include missing structural details, unclear insulation or energy compliance information, poor existing-condition measurements, incomplete plumbing or electrical scope, and revisions requested during plan review. If the conversion adds a bathroom, kitchen, or new openings, the review becomes more involved because more trades and code topics are triggered. Delays also happen when homeowners underestimate the amount of documentation needed for an older structure or a garage with nonstandard conditions. In some Los Angeles-area jurisdictions, utility coordination or address issues can add extra time as well. The most reliable way to reduce delays is to treat the permit package as a technical document, not just a concept drawing. Measurements should be accurate, scope should be clearly defined, and the final use of the room should be established before submission. Homeowners who start with vague plans usually lose time later. A contractor or designer familiar with local plan check expectations can prevent repeated correction cycles, which are often the biggest schedule killer.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common delays come from incomplete drawings, missing structural or energy documents, utility coordination, and correction cycles after plan check. Conv"
+}

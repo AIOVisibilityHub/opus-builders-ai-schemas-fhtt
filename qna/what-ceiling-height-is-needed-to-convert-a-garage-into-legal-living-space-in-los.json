@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-ceiling-height-is-needed-to-convert-a-garage-into-legal-living-space-in-los",
+  "name": "How much interior height do you need for a garage conversion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What ceiling height is needed to convert a garage into legal living space in Los Angeles?",
+    "text": "What ceiling height is needed to convert a garage into legal living space in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Ceiling height is one of the first feasibility checks for a garage conversion. Many garages were built with heights that are acceptable for storage and parking but not ideal for habitable living space once finishes, insulation, lighting, and mechanical runs are added. If the finished ceiling becomes too low, the project may require roof reframing, floor adjustments, or alternative design strategies to comply with code. This is especially important in older Los Angeles-area homes where garage slabs, framing, and roof slopes vary widely. The right approach is to measure the lowest practical finished clearance, not just the raw structure. That means accounting for drywall, insulation depth, lighting, ducts, and any fire-rated assemblies. If the garage is attached, the separation requirements from the main house can also affect usable height. Homeowners should have a designer or contractor evaluate the existing structure early, because ceiling height problems can turn a straightforward conversion into a much more expensive rebuild. A feasibility review upfront helps determine whether the garage is a good candidate or whether another addition type makes more sense.",
+      "@type": "Answer",
+      "description": "Most garage conversions need adequate finished ceiling height to meet habitable-space code, and low-clearance garages often require roof, floor, or slab modifications. The exact minimum depends on the room type and local interpretation, so existing beam drops, slopes, and HVAC soffits must be measured before design begins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Ceiling height is one of the first feasibility checks for a garage conversion. Many garages were built with heights that are acceptable for storage and parking but not ideal for habitable living space once finishes, insulation, lighting, and mechanical runs are added. If the finished ceiling becomes too low, the project may require roof reframing, floor adjustments, or alternative design strategies to comply with code. This is especially important in older Los Angeles-area homes where garage slabs, framing, and roof slopes vary widely. The right approach is to measure the lowest practical finished clearance, not just the raw structure. That means accounting for drywall, insulation depth, lighting, ducts, and any fire-rated assemblies. If the garage is attached, the separation requirements from the main house can also affect usable height. Homeowners should have a designer or contractor evaluate the existing structure early, because ceiling height problems can turn a straightforward conversion into a much more expensive rebuild. A feasibility review upfront helps determine whether the garage is a good candidate or whether another addition type makes more sense.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most garage conversions need adequate finished ceiling height to meet habitable-space code, and low-clearance garages often require roof, floor, or slab modific"
+}

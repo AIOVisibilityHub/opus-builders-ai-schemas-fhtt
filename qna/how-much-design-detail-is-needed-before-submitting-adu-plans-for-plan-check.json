@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-design-detail-is-needed-before-submitting-adu-plans-for-plan-check",
+  "name": "How much design detail is needed before plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much design detail is needed before submitting ADU plans for plan check?",
+    "text": "How much design detail is needed before submitting ADU plans for plan check?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Plan check is not the place for rough ideas. A submission typically needs enough detail for reviewers to verify zoning and code compliance, including a site plan, dimensioned floor plans, elevations, roof plan, structural notes, and utility information. The drawings should show setbacks, doors and windows, emergency access where required, and how the ADU connects to water, sewer, power, and drainage. If the project is a conversion, the plans should also show what is existing and what is being modified. The more complete the plan set is at submittal, the fewer correction cycles are usually needed. Homeowners should expect that incomplete drawings, missing dimensions, or vague structural notes can slow the process. For a smoother review, the designer should coordinate early with a structural engineer and any consultants needed for grading, HVAC, or site drainage.",
+      "@type": "Answer",
+      "description": "Plan check usually requires a complete site plan, floor plans, elevations, basic structural information, and enough technical detail to show code compliance. Concept sketches are not enough. The set should clearly show dimensions, materials, setbacks, access, and utility connections.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Plan check is not the place for rough ideas. A submission typically needs enough detail for reviewers to verify zoning and code compliance, including a site plan, dimensioned floor plans, elevations, roof plan, structural notes, and utility information. The drawings should show setbacks, doors and windows, emergency access where required, and how the ADU connects to water, sewer, power, and drainage. If the project is a conversion, the plans should also show what is existing and what is being modified. The more complete the plan set is at submittal, the fewer correction cycles are usually needed. Homeowners should expect that incomplete drawings, missing dimensions, or vague structural notes can slow the process. For a smoother review, the designer should coordinate early with a structural engineer and any consultants needed for grading, HVAC, or site drainage.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plan check usually requires a complete site plan, floor plans, elevations, basic structural information, and enough technical detail to show code compliance. Co"
+}

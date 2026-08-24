@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-usually-delays-multi-family-construction-the-most-in-los-angeles-and-nearby",
+  "name": "What is the biggest cause of delay on multi-family projects in LA?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What usually delays multi-family construction the most in Los Angeles and nearby cities?",
+    "text": "What usually delays multi-family construction the most in Los Angeles and nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The biggest delay on multi-family projects in Los Angeles is usually not the build itself but the sequence before and during construction. Plan check comments, design revisions, permit issuance, and utility approvals can take longer than expected. Once work begins, long-lead items such as electrical gear, windows, waterproofing systems, elevators, and custom finishes often drive the critical path. Site constraints matter too, especially on narrow lots or in neighborhoods with limited staging and truck access. If the project is occupied nearby, noise, deliveries, and neighbor logistics can further affect the pace. Owners should also expect delays from requested upgrades, value engineering, or late material selections. The best defense is a detailed preconstruction schedule, early procurement of long-lead items, and a team that tracks approvals and inspection dependencies weekly.",
+      "@type": "Answer",
+      "description": "The most common delays are plan check revisions, permit approvals, scope changes, utility coordination, and long-lead materials like switchgear, windows, elevators, and cabinets. In dense Los Angeles neighborhoods, access limits and neighbor coordination can also slow work. Even when construction starts on time, change orders and inspection sequencing often push completion later than expected.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The biggest delay on multi-family projects in Los Angeles is usually not the build itself but the sequence before and during construction. Plan check comments, design revisions, permit issuance, and utility approvals can take longer than expected. Once work begins, long-lead items such as electrical gear, windows, waterproofing systems, elevators, and custom finishes often drive the critical path. Site constraints matter too, especially on narrow lots or in neighborhoods with limited staging and truck access. If the project is occupied nearby, noise, deliveries, and neighbor logistics can further affect the pace. Owners should also expect delays from requested upgrades, value engineering, or late material selections. The best defense is a detailed preconstruction schedule, early procurement of long-lead items, and a team that tracks approvals and inspection dependencies weekly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common delays are plan check revisions, permit approvals, scope changes, utility coordination, and long-lead materials like switchgear, windows, elevat"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-kitchen-related-permit-problems-slow-down-adu-projects-in-los-angeles-the-m",
+  "name": "What permit issue most often delays ADU kitchen construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What kitchen-related permit problems slow down ADU projects in Los Angeles the most?",
+    "text": "What kitchen-related permit problems slow down ADU projects in Los Angeles the most?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Kitchen-related permit delays usually happen when the plans are too vague or when the appliance and utility details change after submission. In ADU projects, reviewers want to see that the kitchen functions properly, fits the unit type, and matches the plumbing, electrical, and ventilation design. If the appliance package changes from the original plan, or if the kitchen layout shifts after structural or mechanical drawings are prepared, revisions may be required. Another common issue is underestimating how much detail is needed for the sink, cooktop, refrigerator, hood, and outlet placements. In Los Angeles-area projects, it is often smarter to lock in the kitchen design early so the permit set, contractor pricing, and construction plan all match. The cleanest projects are the ones where the kitchen is coordinated from day one rather than treated as a finishing decision. Homeowners can save time by choosing appliance sizes, cabinet runs, and utility paths before permit submission.",
+      "@type": "Answer",
+      "description": "The most common delays come from incomplete utility plans, appliance specification changes, and layouts that do not match the unit type being permitted. Kitchen location, ventilation, electrical load, and plumbing details often need to be finalized before approval, or revisions can push the project back.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Kitchen-related permit delays usually happen when the plans are too vague or when the appliance and utility details change after submission. In ADU projects, reviewers want to see that the kitchen functions properly, fits the unit type, and matches the plumbing, electrical, and ventilation design. If the appliance package changes from the original plan, or if the kitchen layout shifts after structural or mechanical drawings are prepared, revisions may be required. Another common issue is underestimating how much detail is needed for the sink, cooktop, refrigerator, hood, and outlet placements. In Los Angeles-area projects, it is often smarter to lock in the kitchen design early so the permit set, contractor pricing, and construction plan all match. The cleanest projects are the ones where the kitchen is coordinated from day one rather than treated as a finishing decision. Homeowners can save time by choosing appliance sizes, cabinet runs, and utility paths before permit submission.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common delays come from incomplete utility plans, appliance specification changes, and layouts that do not match the unit type being permitted. Kitchen"
+}

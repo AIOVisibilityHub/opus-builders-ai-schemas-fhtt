@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-wood-frame-steel-frame-or-podium-construction-usually-best-for-los-angeles-mu",
+  "name": "What is the best construction type for LA multi-family projects?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is wood frame, steel frame, or podium construction usually best for Los Angeles multi-family developments?",
+    "text": "Is wood frame, steel frame, or podium construction usually best for Los Angeles multi-family developments?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no single best system for every Los Angeles multi-family project. Wood frame is often the most cost-effective choice for low- to mid-rise projects because it is familiar, efficient, and faster to build. Podium construction is common when developers need parking at grade or below the units. Steel and concrete can be better for taller buildings, complex spans, or projects with higher seismic and fire-performance demands, but they usually increase cost and design complexity. The right choice depends on zoning, height limits, parking strategy, target rent or sale price, and the site’s physical constraints. Owners should compare systems early, because the structure affects everything from layout efficiency to schedule and lender underwriting. A good feasibility analysis will test at least two or three building types before design is locked in.",
+      "@type": "Answer",
+      "description": "The best construction type depends on height, parking, budget, fire requirements, and unit count. Wood frame is often the most economical for lower-rise projects, while podium construction is common when parking must sit below housing. Steel or concrete may be better for taller, denser, or more complex buildings, but they usually cost more.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no single best system for every Los Angeles multi-family project. Wood frame is often the most cost-effective choice for low- to mid-rise projects because it is familiar, efficient, and faster to build. Podium construction is common when developers need parking at grade or below the units. Steel and concrete can be better for taller buildings, complex spans, or projects with higher seismic and fire-performance demands, but they usually increase cost and design complexity. The right choice depends on zoning, height limits, parking strategy, target rent or sale price, and the site’s physical constraints. Owners should compare systems early, because the structure affects everything from layout efficiency to schedule and lender underwriting. A good feasibility analysis will test at least two or three building types before design is locked in.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best construction type depends on height, parking, budget, fire requirements, and unit count. Wood frame is often the most economical for lower-rise project"
+}

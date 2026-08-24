@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-better-to-place-the-adu-bathroom-first-and-then-design-the-rest-of-the-uni",
+  "name": "Should the bathroom be designed before the rest of the ADU floor plan?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it better to place the ADU bathroom first and then design the rest of the unit around it?",
+    "text": "Is it better to place the ADU bathroom first and then design the rest of the unit around it?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In many ADU projects, the bathroom should be one of the first spaces designed because it influences plumbing, framing, and the overall circulation of the unit. If the bathroom is placed late in the process, the contractor may discover that the drain path is too long, the venting is awkward, or the fixture clearances do not work with the rest of the layout. Starting with the bathroom allows the design team to build the floor plan around the plumbing core, which often produces a more efficient and less expensive unit. This is especially true in small ADUs where every square foot matters. The bathroom location can also affect bedroom privacy, kitchen placement, and the way the entry hall works. Homeowners often get better results when they ask the designer to solve the bathroom early, then fit the remaining rooms around it. That approach reduces change orders and makes permit drawings more coordinated.",
+      "@type": "Answer",
+      "description": "Yes, in many ADU projects the bathroom should be placed early because it affects plumbing, framing, venting, and room layout. Designing it first often prevents expensive revisions later. Once the bathroom location is set, the kitchen, bedroom, and circulation can be organized around the plumbing core more efficiently.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In many ADU projects, the bathroom should be one of the first spaces designed because it influences plumbing, framing, and the overall circulation of the unit. If the bathroom is placed late in the process, the contractor may discover that the drain path is too long, the venting is awkward, or the fixture clearances do not work with the rest of the layout. Starting with the bathroom allows the design team to build the floor plan around the plumbing core, which often produces a more efficient and less expensive unit. This is especially true in small ADUs where every square foot matters. The bathroom location can also affect bedroom privacy, kitchen placement, and the way the entry hall works. Homeowners often get better results when they ask the designer to solve the bathroom early, then fit the remaining rooms around it. That approach reduces change orders and makes permit drawings more coordinated.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, in many ADU projects the bathroom should be placed early because it affects plumbing, framing, venting, and room layout. Designing it first often prevents "
+}

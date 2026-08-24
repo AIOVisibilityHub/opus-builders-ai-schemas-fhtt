@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-close-can-an-adu-be-to-the-main-house-and-when-does-fire-separation-become-a",
+  "name": "How close can an ADU be to the main house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How close can an ADU be to the main house, and when does fire separation become a design issue?",
+    "text": "How close can an ADU be to the main house, and when does fire separation become a design issue?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An ADU can sometimes sit very close to the main house, especially on tight urban lots, but proximity affects fire safety detailing and overall design. The closer the structures are, the more important it becomes to understand wall ratings, opening protection, roof overhang interactions, and any required separation between structures. A design that ignores these issues can look good on a floor plan but fail in review or become expensive to correct later. This is why the designer and engineer should evaluate the relationship between the main house and ADU early. In some cases, small shifts in placement can simplify construction and reduce fire-rated assembly costs. Homeowners should treat close separation as a design condition, not just a site convenience.",
+      "@type": "Answer",
+      "description": "An ADU can often be placed close to the main house, but fire separation, wall ratings, opening protection, and access rules may affect the layout. The actual distance and detailing depend on the structure type and local code requirements.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An ADU can sometimes sit very close to the main house, especially on tight urban lots, but proximity affects fire safety detailing and overall design. The closer the structures are, the more important it becomes to understand wall ratings, opening protection, roof overhang interactions, and any required separation between structures. A design that ignores these issues can look good on a floor plan but fail in review or become expensive to correct later. This is why the designer and engineer should evaluate the relationship between the main house and ADU early. In some cases, small shifts in placement can simplify construction and reduce fire-rated assembly costs. Homeowners should treat close separation as a design condition, not just a site convenience.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU can often be placed close to the main house, but fire separation, wall ratings, opening protection, and access rules may affect the layout. The actual di"
+}

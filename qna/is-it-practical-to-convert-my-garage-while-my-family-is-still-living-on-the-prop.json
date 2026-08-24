@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-practical-to-convert-my-garage-while-my-family-is-still-living-on-the-prop",
+  "name": "Can I do a garage conversion while living in the house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it practical to convert my garage while my family is still living on the property?",
+    "text": "Is it practical to convert my garage while my family is still living on the property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "It is often possible to stay in the house during a garage conversion, but the level of disruption depends on how the garage is connected to the home and how much utility work is involved. Detached garages are typically easier because construction can happen outside the main living area. Attached garages can be more disruptive due to shared walls, access through the house, and tie-ins to electrical, plumbing, or HVAC systems. Families should plan for dust control, contractor access, material staging, and temporary parking changes before work begins. If the garage currently stores household items, those need to be relocated safely. Utility shutdowns may also affect daily routines, especially if the project includes new electrical panels or plumbing reroutes. A good contractor should help the owner sequence work to reduce disruption and keep the site safe. The project is usually more manageable when expectations are set early and the schedule is realistic. Living through construction is possible, but it works best on organized, well-phased projects.",
+      "@type": "Answer",
+      "description": "Yes, many garage conversions can be done while the owners remain in the home, but dust, noise, parking changes, and utility interruptions can make the process disruptive. Detached garages are usually easier to live with during construction than attached ones.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "It is often possible to stay in the house during a garage conversion, but the level of disruption depends on how the garage is connected to the home and how much utility work is involved. Detached garages are typically easier because construction can happen outside the main living area. Attached garages can be more disruptive due to shared walls, access through the house, and tie-ins to electrical, plumbing, or HVAC systems. Families should plan for dust control, contractor access, material staging, and temporary parking changes before work begins. If the garage currently stores household items, those need to be relocated safely. Utility shutdowns may also affect daily routines, especially if the project includes new electrical panels or plumbing reroutes. A good contractor should help the owner sequence work to reduce disruption and keep the site safe. The project is usually more manageable when expectations are set early and the schedule is realistic. Living through construction is possible, but it works best on organized, well-phased projects.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many garage conversions can be done while the owners remain in the home, but dust, noise, parking changes, and utility interruptions can make the process d"
+}

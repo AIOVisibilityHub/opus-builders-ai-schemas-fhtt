@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-side-rear-and-front-setbacks-affect-duplex-construction-on-a-small-or-nar",
+  "name": "What setbacks apply to duplex construction on small lots?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do side, rear, and front setbacks affect duplex construction on a small or narrow lot?",
+    "text": "How do side, rear, and front setbacks affect duplex construction on a small or narrow lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Setbacks are one of the most important feasibility issues for a duplex because they define the buildable envelope before any floor plan is drawn. On narrow or shallow lots, a few feet of setback can change whether the project can fit two practical units, garage space, stairs, or outdoor areas. Side setbacks are especially important when trying to preserve unit privacy and meet fire separation requirements. Rear setbacks can affect yard size, massing, and the ability to place parking or mechanical equipment. Front setbacks can limit the footprint and influence the building’s curb appeal and entry sequence. Because rules can vary by city, zoning district, lot shape, and whether the project is new construction or replacement construction, a scale site plan is essential. Owners should verify setbacks with a surveyor or planner before making architectural assumptions. Many bad duplex concepts fail simply because they were drawn without a true buildable envelope analysis.",
+      "@type": "Answer",
+      "description": "Setbacks determine how much of the lot can actually be built on, and they can make or break a duplex design on a small parcel. Side and rear setbacks reduce buildable width and depth, while front setbacks can limit the first-floor footprint. On tight lots, accurate measurements are essential before sketching plans.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Setbacks are one of the most important feasibility issues for a duplex because they define the buildable envelope before any floor plan is drawn. On narrow or shallow lots, a few feet of setback can change whether the project can fit two practical units, garage space, stairs, or outdoor areas. Side setbacks are especially important when trying to preserve unit privacy and meet fire separation requirements. Rear setbacks can affect yard size, massing, and the ability to place parking or mechanical equipment. Front setbacks can limit the footprint and influence the building’s curb appeal and entry sequence. Because rules can vary by city, zoning district, lot shape, and whether the project is new construction or replacement construction, a scale site plan is essential. Owners should verify setbacks with a surveyor or planner before making architectural assumptions. Many bad duplex concepts fail simply because they were drawn without a true buildable envelope analysis.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Setbacks determine how much of the lot can actually be built on, and they can make or break a duplex design on a small parcel. Side and rear setbacks reduce bui"
+}

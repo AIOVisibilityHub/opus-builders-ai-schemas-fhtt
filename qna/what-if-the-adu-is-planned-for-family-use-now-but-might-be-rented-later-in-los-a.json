@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-the-adu-is-planned-for-family-use-now-but-might-be-rented-later-in-los-a",
+  "name": "What if the ADU is intended for family use now but rental later?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if the ADU is planned for family use now but might be rented later in Los Angeles or Glendale?",
+    "text": "What if the ADU is planned for family use now but might be rented later in Los Angeles or Glendale?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the ADU may be used by family first and rented later, the design should be practical, durable, and flexible. From a zoning standpoint, the future occupancy plan does not change the basic compliance checks: setbacks, height, access, and site fit still control the project. However, the owner may want to think ahead about privacy, entry separation, parking arrangement, and utility metering so the unit works well in both phases. The best approach is to coordinate the zoning as if the unit will need to function independently, even if it is initially occupied by family. That avoids design choices that are easy for short-term use but awkward for later rental use. Planning for both stages early usually produces a better long-term investment.",
+      "@type": "Answer",
+      "description": "The design should be flexible enough to support both uses, but zoning coordination should still focus on the same compliance issues. The future use does not change setbacks, access, or permit requirements.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the ADU may be used by family first and rented later, the design should be practical, durable, and flexible. From a zoning standpoint, the future occupancy plan does not change the basic compliance checks: setbacks, height, access, and site fit still control the project. However, the owner may want to think ahead about privacy, entry separation, parking arrangement, and utility metering so the unit works well in both phases. The best approach is to coordinate the zoning as if the unit will need to function independently, even if it is initially occupied by family. That avoids design choices that are easy for short-term use but awkward for later rental use. Planning for both stages early usually produces a better long-term investment.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The design should be flexible enough to support both uses, but zoning coordination should still focus on the same compliance issues. The future use does not cha"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-duplex-construction-usually-take-from-design-to-completion-in-los",
+  "name": "How long does it take to build a duplex in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does duplex construction usually take from design to completion in Los Angeles-area cities?",
+    "text": "How long does duplex construction usually take from design to completion in Los Angeles-area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Timeline depends on whether the site is straightforward or complicated. A duplex on a flat lot with clear zoning and no major design conflicts may move through feasibility, plans, permits, and construction on a relatively predictable schedule. In contrast, lots with slope, tight setbacks, demolition requirements, utility relocations, or design review can extend the process significantly. The biggest delay is often not the physical build but entitlement and permit approval, especially when plan corrections are required. Owners should also account for time spent on surveys, geotechnical work, structural engineering, and utility coordination before construction even starts. After permits are issued, procurement and subcontractor scheduling can also affect delivery. A realistic schedule should include design time, city review, permit issuance, mobilization, construction, inspections, and final closeout. For investors or homeowners with a deadline, it is smarter to build a buffer into the schedule rather than assuming the earliest possible completion date.",
+      "@type": "Answer",
+      "description": "A duplex project can take many months from feasibility to move-in because it includes design, permitting, plan check, and construction. Simple lots move faster, while projects with zoning issues, neighbors’ appeals, hillside work, or utility upgrades can add substantial time. The permitting phase often takes longer than owners expect.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Timeline depends on whether the site is straightforward or complicated. A duplex on a flat lot with clear zoning and no major design conflicts may move through feasibility, plans, permits, and construction on a relatively predictable schedule. In contrast, lots with slope, tight setbacks, demolition requirements, utility relocations, or design review can extend the process significantly. The biggest delay is often not the physical build but entitlement and permit approval, especially when plan corrections are required. Owners should also account for time spent on surveys, geotechnical work, structural engineering, and utility coordination before construction even starts. After permits are issued, procurement and subcontractor scheduling can also affect delivery. A realistic schedule should include design time, city review, permit issuance, mobilization, construction, inspections, and final closeout. For investors or homeowners with a deadline, it is smarter to build a buffer into the schedule rather than assuming the earliest possible completion date.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A duplex project can take many months from feasibility to move-in because it includes design, permitting, plan check, and construction. Simple lots move faster,"
+}

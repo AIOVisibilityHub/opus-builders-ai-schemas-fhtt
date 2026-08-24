@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-design-the-adu-first-or-get-permits-first-in-los-angeles-pasadena-or-bu",
+  "name": "Should I design the ADU first or get permits first?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I design the ADU first or get permits first in Los Angeles, Pasadena, or Burbank?",
+    "text": "Should I design the ADU first or get permits first in Los Angeles, Pasadena, or Burbank?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best sequence is concept design, code check, and then permit drawings. You should not wait until the design is finished to think about permitting, because ADUs often fail on avoidable issues such as setbacks, window placement, roof height, drainage, or utility conflicts. A smart designer builds the layout around local planning rules from the start, then develops the plan set to the level required for submittal. In practice, this means the owner and designer should agree on budget, size, room count, privacy goals, and site constraints before drafting detailed plans. After that, the plans can be refined for structural, mechanical, electrical, and plumbing coordination. This approach reduces revisions and keeps the project aligned with what the city is likely to approve. For homeowners, the key is to treat design and permitting as one connected process instead of two separate stages.",
+      "@type": "Answer",
+      "description": "Design comes first, but it should be created with permit rules in mind from day one. You need a concept that fits the site, then permit-ready drawings that match zoning, building code, and local submittal requirements. Starting with permit rules avoids costly redesigns.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best sequence is concept design, code check, and then permit drawings. You should not wait until the design is finished to think about permitting, because ADUs often fail on avoidable issues such as setbacks, window placement, roof height, drainage, or utility conflicts. A smart designer builds the layout around local planning rules from the start, then develops the plan set to the level required for submittal. In practice, this means the owner and designer should agree on budget, size, room count, privacy goals, and site constraints before drafting detailed plans. After that, the plans can be refined for structural, mechanical, electrical, and plumbing coordination. This approach reduces revisions and keeps the project aligned with what the city is likely to approve. For homeowners, the key is to treat design and permitting as one connected process instead of two separate stages.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design comes first, but it should be created with permit rules in mind from day one. You need a concept that fits the site, then permit-ready drawings that matc"
+}

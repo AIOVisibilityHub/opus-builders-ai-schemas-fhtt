@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-backyard-guest-house-be-used-as-a-rental-unit-in-los-angeles-or-is-it-only",
+  "name": "Can a backyard guest house be rented out in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a backyard guest house be used as a rental unit in Los Angeles, or is it only for family and guests?",
+    "text": "Can a backyard guest house be used as a rental unit in Los Angeles, or is it only for family and guests?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Rental potential is one of the main reasons homeowners build backyard units, but the answer depends on how the project is classified and approved. A true ADU is the more flexible option because it is designed as a separate dwelling. A simple guest house without the features of independent living is much less useful for rental purposes. Homeowners should align the intended use with the design from the beginning so the unit is built to the correct standard. That means thinking about privacy, sound separation, parking implications, utility metering, and long-term maintenance. If rental income is a goal, the layout should be planned as a functional home rather than a casual guest retreat.",
+      "@type": "Answer",
+      "description": "If the structure is permitted as an ADU, it may be used as a rental unit subject to local rules and property-specific conditions. If it is only a non-ADU guest house, rental use is usually much more limited. The permit classification determines what you can legally do with the space.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Rental potential is one of the main reasons homeowners build backyard units, but the answer depends on how the project is classified and approved. A true ADU is the more flexible option because it is designed as a separate dwelling. A simple guest house without the features of independent living is much less useful for rental purposes. Homeowners should align the intended use with the design from the beginning so the unit is built to the correct standard. That means thinking about privacy, sound separation, parking implications, utility metering, and long-term maintenance. If rental income is a goal, the layout should be planned as a functional home rather than a casual guest retreat.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the structure is permitted as an ADU, it may be used as a rental unit subject to local rules and property-specific conditions. If it is only a non-ADU guest "
+}

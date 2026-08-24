@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-only-want-a-guest-suite-or-office-do-i-still-need-the-same-permits-as-a-ful",
+  "name": "Can I convert a garage into a guest house without a full kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I only want a guest suite or office, do I still need the same permits as a full ADU?",
+    "text": "If I only want a guest suite or office, do I still need the same permits as a full ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Not every garage conversion has to become a full independent dwelling unit. Some owners want a guest suite, office, gym, or flexible family room without adding a full kitchen or making the space fully self-sufficient. That can simplify the layout and reduce plumbing work, but it does not automatically remove permit requirements. If the work changes the structure, electrical system, insulation, windows, or occupancy use, permits are still usually involved. The key question is how the space will be used day to day and whether it will be habitable under code. A guest suite may need different planning than a legal rental unit, especially if the owner wants to avoid certain fixture requirements. However, it is still important to design the space properly so it functions well and passes inspection. The project should be defined clearly before plans are drawn, because the intended use drives the approval path. A well-built guest suite can be a smart middle ground between a simple finished room and a full ADU.",
+      "@type": "Answer",
+      "description": "A garage converted into a guest suite or office may need fewer systems than a full ADU, but it still usually requires permits if the work changes the structure or creates habitable space. The permit path depends on the final use and features included.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Not every garage conversion has to become a full independent dwelling unit. Some owners want a guest suite, office, gym, or flexible family room without adding a full kitchen or making the space fully self-sufficient. That can simplify the layout and reduce plumbing work, but it does not automatically remove permit requirements. If the work changes the structure, electrical system, insulation, windows, or occupancy use, permits are still usually involved. The key question is how the space will be used day to day and whether it will be habitable under code. A guest suite may need different planning than a legal rental unit, especially if the owner wants to avoid certain fixture requirements. However, it is still important to design the space properly so it functions well and passes inspection. The project should be defined clearly before plans are drawn, because the intended use drives the approval path. A well-built guest suite can be a smart middle ground between a simple finished room and a full ADU.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A garage converted into a guest suite or office may need fewer systems than a full ADU, but it still usually requires permits if the work changes the structure "
+}

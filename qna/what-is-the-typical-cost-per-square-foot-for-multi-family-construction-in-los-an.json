@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-typical-cost-per-square-foot-for-multi-family-construction-in-los-an",
+  "name": "How much does multi-family construction cost per square foot in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the typical cost per square foot for multi-family construction in Los Angeles right now?",
+    "text": "What is the typical cost per square foot for multi-family construction in Los Angeles right now?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Multi-family construction pricing in Los Angeles is highly variable because the final cost depends on structure type, parking configuration, labor conditions, finishes, and site constraints. A basic wood-frame building on a simple site will usually cost less than a podium project, mixed-use building, or hillside development. Dense neighborhoods, limited access, staging restrictions, and higher design standards also increase costs. Site conditions such as grading, shoring, drainage, utilities, and fire access can add major expense before vertical construction even starts. Owners should ask for a budget that separates hard costs, soft costs, contingency, and escalation assumptions. A credible estimate also needs to reflect finish level, elevator count, sprinklers, energy code compliance, and local approval requirements. The most useful comparison is not a generic square-foot number but a conceptual estimate tied to the actual site and plan set.",
+      "@type": "Answer",
+      "description": "Costs vary widely, but Los Angeles multi-family construction often falls into a broad range based on height, parking type, finish level, structure, and site complexity. Simple wood-frame projects cost less than podium or mixed-use buildings. Luxury finishes, hillside conditions, tight access, and seismic requirements can push costs significantly higher than national averages.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Multi-family construction pricing in Los Angeles is highly variable because the final cost depends on structure type, parking configuration, labor conditions, finishes, and site constraints. A basic wood-frame building on a simple site will usually cost less than a podium project, mixed-use building, or hillside development. Dense neighborhoods, limited access, staging restrictions, and higher design standards also increase costs. Site conditions such as grading, shoring, drainage, utilities, and fire access can add major expense before vertical construction even starts. Owners should ask for a budget that separates hard costs, soft costs, contingency, and escalation assumptions. A credible estimate also needs to reflect finish level, elevator count, sprinklers, energy code compliance, and local approval requirements. The most useful comparison is not a generic square-foot number but a conceptual estimate tied to the actual site and plan set.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Costs vary widely, but Los Angeles multi-family construction often falls into a broad range based on height, parking type, finish level, structure, and site com"
+}

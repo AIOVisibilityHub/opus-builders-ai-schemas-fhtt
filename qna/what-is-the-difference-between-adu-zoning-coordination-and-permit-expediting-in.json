@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-adu-zoning-coordination-and-permit-expediting-in",
+  "name": "What is the difference between zoning coordination and permit expediting?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between ADU zoning coordination and permit expediting in Los Angeles and nearby cities?",
+    "text": "What is the difference between ADU zoning coordination and permit expediting in Los Angeles and nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Zoning coordination and permit expediting are related but not the same. Zoning coordination is the upfront feasibility work that checks whether the ADU can fit the property under local objective standards. It deals with setbacks, height, access, lot constraints, and design fit. Permit expediting, by contrast, is more about managing submittals, tracking review comments, and helping the application move efficiently through the city process. A project can be expedited and still fail if the zoning was never verified correctly. For that reason, zoning coordination should come first. Once the design is feasible, permit expediting becomes much more useful because the package is less likely to be rejected for avoidable site issues.",
+      "@type": "Answer",
+      "description": "Zoning coordination focuses on whether the ADU design fits the city’s rules, while permit expediting focuses on moving the paperwork through review. One solves feasibility, the other helps manage the process.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Zoning coordination and permit expediting are related but not the same. Zoning coordination is the upfront feasibility work that checks whether the ADU can fit the property under local objective standards. It deals with setbacks, height, access, lot constraints, and design fit. Permit expediting, by contrast, is more about managing submittals, tracking review comments, and helping the application move efficiently through the city process. A project can be expedited and still fail if the zoning was never verified correctly. For that reason, zoning coordination should come first. Once the design is feasible, permit expediting becomes much more useful because the package is less likely to be rejected for avoidable site issues.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Zoning coordination focuses on whether the ADU design fits the city’s rules, while permit expediting focuses on moving the paperwork through review. One solves "
+}

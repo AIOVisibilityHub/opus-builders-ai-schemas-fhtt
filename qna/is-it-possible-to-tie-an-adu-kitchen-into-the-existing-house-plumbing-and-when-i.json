@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-tie-an-adu-kitchen-into-the-existing-house-plumbing-and-when-i",
+  "name": "Can an ADU kitchen share plumbing with the main house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to tie an ADU kitchen into the existing house plumbing, and when is separate plumbing better?",
+    "text": "Is it possible to tie an ADU kitchen into the existing house plumbing, and when is separate plumbing better?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An ADU kitchen can sometimes use shared plumbing infrastructure, especially in attached additions or conversions where the utility lines are already nearby. But shared plumbing is not always the best choice. If the ADU is detached, far from the main house, or being built in an older property with aging pipes, it may be more efficient to run new lines designed specifically for the ADU kitchen. That can improve water pressure, reduce maintenance problems, and simplify future repairs. The layout of the sink, dishwasher, and refrigerator water line also matters because poor placement can force long pipe runs or awkward cabinet cutouts. In many projects, plumbing decisions affect not just the kitchen but the whole interior layout. A good design will place the sink and wet wall where utility routing is simplest, then build the rest of the kitchen around that core. Homeowners should ask their contractor whether the plumbing plan is using existing capacity or relying on new infrastructure, because that affects both cost and reliability.",
+      "@type": "Answer",
+      "description": "An ADU kitchen can sometimes connect to existing plumbing, but that depends on distance, fixture layout, pipe condition, and local code requirements. Separate or newly routed plumbing is often better when the ADU is detached or when the existing system is old, undersized, or difficult to access.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An ADU kitchen can sometimes use shared plumbing infrastructure, especially in attached additions or conversions where the utility lines are already nearby. But shared plumbing is not always the best choice. If the ADU is detached, far from the main house, or being built in an older property with aging pipes, it may be more efficient to run new lines designed specifically for the ADU kitchen. That can improve water pressure, reduce maintenance problems, and simplify future repairs. The layout of the sink, dishwasher, and refrigerator water line also matters because poor placement can force long pipe runs or awkward cabinet cutouts. In many projects, plumbing decisions affect not just the kitchen but the whole interior layout. A good design will place the sink and wet wall where utility routing is simplest, then build the rest of the kitchen around that core. Homeowners should ask their contractor whether the plumbing plan is using existing capacity or relying on new infrastructure, because that affects both cost and reliability.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU kitchen can sometimes connect to existing plumbing, but that depends on distance, fixture layout, pipe condition, and local code requirements. Separate o"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-adu-zoning-coordination-work-on-a-corner-lot-in-los-angeles-or-pasadena",
+  "name": "How does ADU coordination work for corner lots?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does ADU zoning coordination work on a corner lot in Los Angeles or Pasadena when two street frontages affect setbacks and privacy?",
+    "text": "How does ADU zoning coordination work on a corner lot in Los Angeles or Pasadena when two street frontages affect setbacks and privacy?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Corner lots need special attention because two sides of the parcel may function like front-facing edges, which can affect setbacks, access, and the overall placement of the ADU. A design that works on an interior lot may be too close to one of the street frontages on a corner parcel. Zoning coordination should identify which yard is considered front, side, and rear under the local code, then test how the ADU fits without creating privacy or massing conflicts. This matters especially when the owner wants a detached unit near the street, a garage conversion with new entrances, or a second-story component. Corner lots can be very workable, but they require a site-specific reading of the parcel rather than a standard template. Early coordination reduces the chance of a plan being rejected for a frontage issue that could have been fixed with a different placement.",
+      "@type": "Answer",
+      "description": "Corner lots often need extra review because two street-facing sides can change setback interpretation, window placement, and privacy controls. The lot should be checked for both frontages before deciding where the ADU can sit.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Corner lots need special attention because two sides of the parcel may function like front-facing edges, which can affect setbacks, access, and the overall placement of the ADU. A design that works on an interior lot may be too close to one of the street frontages on a corner parcel. Zoning coordination should identify which yard is considered front, side, and rear under the local code, then test how the ADU fits without creating privacy or massing conflicts. This matters especially when the owner wants a detached unit near the street, a garage conversion with new entrances, or a second-story component. Corner lots can be very workable, but they require a site-specific reading of the parcel rather than a standard template. Early coordination reduces the chance of a plan being rejected for a frontage issue that could have been fixed with a different placement.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Corner lots often need extra review because two street-facing sides can change setback interpretation, window placement, and privacy controls. The lot should be"
+}

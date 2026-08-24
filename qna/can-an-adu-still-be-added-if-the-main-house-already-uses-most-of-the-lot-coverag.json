@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-adu-still-be-added-if-the-main-house-already-uses-most-of-the-lot-coverag",
+  "name": "Can an ADU be added if the main house is already maxed out on coverage?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an ADU still be added if the main house already uses most of the lot coverage in Glendale, Burbank, or Los Angeles?",
+    "text": "Can an ADU still be added if the main house already uses most of the lot coverage in Glendale, Burbank, or Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the main house already uses most of the available lot coverage, the project becomes a geometry problem. The question is whether the ADU can fit within the applicable setbacks and site limits without forcing the property over its allowed buildout. In some cases, the answer is yes because the ADU is treated under separate standards or because a conversion does not add new footprint. In other cases, the project must be smaller, shifted, or rethought as an attached or conversion-based plan. Zoning coordination should resolve this before full design work begins. That allows the owner to compare options instead of discovering at submittal that the lot cannot support the preferred layout.",
+      "@type": "Answer",
+      "description": "Possibly, but it depends on how the city treats ADU area, lot coverage, and the existing development on the site. Some projects work only as conversions or smaller detached units after a zoning feasibility check.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the main house already uses most of the available lot coverage, the project becomes a geometry problem. The question is whether the ADU can fit within the applicable setbacks and site limits without forcing the property over its allowed buildout. In some cases, the answer is yes because the ADU is treated under separate standards or because a conversion does not add new footprint. In other cases, the project must be smaller, shifted, or rethought as an attached or conversion-based plan. Zoning coordination should resolve this before full design work begins. That allows the owner to compare options instead of discovering at submittal that the lot cannot support the preferred layout.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Possibly, but it depends on how the city treats ADU area, lot coverage, and the existing development on the site. Some projects work only as conversions or smal"
+}

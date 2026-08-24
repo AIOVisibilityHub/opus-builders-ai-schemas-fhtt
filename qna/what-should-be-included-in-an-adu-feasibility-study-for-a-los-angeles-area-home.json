@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-included-in-an-adu-feasibility-study-for-a-los-angeles-area-home",
+  "name": "What should be included in an ADU feasibility study?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in an ADU feasibility study for a Los Angeles-area home?",
+    "text": "What should be included in an ADU feasibility study for a Los Angeles-area home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong feasibility study is more than a yes-or-no zoning check. It should identify the buildable envelope, measure setbacks and lot coverage, review height and massing, note easements and utility conflicts, and flag site conditions such as slope, drainage, or difficult access. In Los Angeles-area cities, it should also test whether the property is better suited for a detached unit, attached unit, garage conversion, or second-story option. The best studies include a rough floor plan concept, estimated square footage, and a practical cost range so the owner can compare design ideas before committing to construction documents. If the property is in a neighborhood with narrow side yards or limited backyard depth, the study should also explain how circulation, privacy, and fire-rated separations will affect the final layout. A feasibility study saves time because it prevents expensive redesigns later.",
+      "@type": "Answer",
+      "description": "A proper ADU feasibility study should include zoning verification, setbacks, lot coverage, height limits, parking exposure, utility locations, grading concerns, access paths, and likely permitting constraints. It should also compare at least two layout options and identify red flags before design money is spent on full plans.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong feasibility study is more than a yes-or-no zoning check. It should identify the buildable envelope, measure setbacks and lot coverage, review height and massing, note easements and utility conflicts, and flag site conditions such as slope, drainage, or difficult access. In Los Angeles-area cities, it should also test whether the property is better suited for a detached unit, attached unit, garage conversion, or second-story option. The best studies include a rough floor plan concept, estimated square footage, and a practical cost range so the owner can compare design ideas before committing to construction documents. If the property is in a neighborhood with narrow side yards or limited backyard depth, the study should also explain how circulation, privacy, and fire-rated separations will affect the final layout. A feasibility study saves time because it prevents expensive redesigns later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A proper ADU feasibility study should include zoning verification, setbacks, lot coverage, height limits, parking exposure, utility locations, grading concerns,"
+}

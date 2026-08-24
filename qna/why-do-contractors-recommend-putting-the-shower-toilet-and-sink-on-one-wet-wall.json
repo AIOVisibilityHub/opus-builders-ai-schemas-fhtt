@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-contractors-recommend-putting-the-shower-toilet-and-sink-on-one-wet-wall",
+  "name": "What is the difference between a wet wall and a standard bathroom wall in an ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do contractors recommend putting the shower, toilet, and sink on one wet wall in an ADU bathroom?",
+    "text": "Why do contractors recommend putting the shower, toilet, and sink on one wet wall in an ADU bathroom?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A wet wall is the wall where the main plumbing for the bathroom is concentrated. In ADU construction, putting the shower, sink, and sometimes the toilet on one wet wall can reduce the length of drain and supply runs, lower labor, and make inspections simpler. It also helps keep the rest of the room cleaner structurally because fewer walls need to be opened up for pipes. When fixtures are spread across multiple walls, the project often needs more framing changes, more patching, and more labor to route drains and vents. For a small ADU, this can significantly increase cost and reduce usable space. Designers often use the wet wall as the starting point for the bathroom plan, then build the rest of the layout around it. If the goal is efficiency, ask the contractor to show how a one-wall plumbing design would change the estimate compared with a more spread-out layout. That comparison often makes the best option obvious.",
+      "@type": "Answer",
+      "description": "A wet wall is the wall that carries the main plumbing for the shower, sink, and sometimes the toilet. Grouping fixtures on one wet wall usually shortens pipe runs, reduces demolition, and simplifies framing and waterproofing. It is one of the easiest ways to cut cost in a small ADU bathroom.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A wet wall is the wall where the main plumbing for the bathroom is concentrated. In ADU construction, putting the shower, sink, and sometimes the toilet on one wet wall can reduce the length of drain and supply runs, lower labor, and make inspections simpler. It also helps keep the rest of the room cleaner structurally because fewer walls need to be opened up for pipes. When fixtures are spread across multiple walls, the project often needs more framing changes, more patching, and more labor to route drains and vents. For a small ADU, this can significantly increase cost and reduce usable space. Designers often use the wet wall as the starting point for the bathroom plan, then build the rest of the layout around it. If the goal is efficiency, ask the contractor to show how a one-wall plumbing design would change the estimate compared with a more spread-out layout. That comparison often makes the best option obvious.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A wet wall is the wall that carries the main plumbing for the shower, sink, and sometimes the toilet. Grouping fixtures on one wet wall usually shortens pipe ru"
+}

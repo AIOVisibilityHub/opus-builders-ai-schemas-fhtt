@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-should-i-expect-for-city-plan-check-on-an-adu-in-los-angeles-pasadena-g",
+  "name": "How long should I expect for city plan check on an ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long should I expect for city plan check on an ADU in Los Angeles, Pasadena, Glendale, or Burbank?",
+    "text": "How long should I expect for city plan check on an ADU in Los Angeles, Pasadena, Glendale, or Burbank?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Plan check timing is highly variable because it depends on the city, the quality of the submittal, and whether the project triggers extra review steps. A complete, well-coordinated plan set usually has a better chance of moving efficiently through review than a set with missing dimensions, unclear structural details, or unresolved site issues. The biggest delays often come from corrections, not the first filing. Homeowners should expect that a review cycle may reveal questions about setbacks, fire separation, drainage, structural design, or utility coordination. To keep the project moving, the designer should prepare the set carefully and respond quickly to corrections. It also helps to ask early whether the property has any special conditions that could slow review, such as easements, slope, or over-height massing. A realistic timeline is always safer than assuming a fast approval.",
+      "@type": "Answer",
+      "description": "Plan check timing varies by city, project type, and how complete the submittal is. A clean submission can move faster, while incomplete drawings or complex site conditions can add review cycles and delay approval significantly.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Plan check timing is highly variable because it depends on the city, the quality of the submittal, and whether the project triggers extra review steps. A complete, well-coordinated plan set usually has a better chance of moving efficiently through review than a set with missing dimensions, unclear structural details, or unresolved site issues. The biggest delays often come from corrections, not the first filing. Homeowners should expect that a review cycle may reveal questions about setbacks, fire separation, drainage, structural design, or utility coordination. To keep the project moving, the designer should prepare the set carefully and respond quickly to corrections. It also helps to ask early whether the property has any special conditions that could slow review, such as easements, slope, or over-height massing. A realistic timeline is always safer than assuming a fast approval.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plan check timing varies by city, project type, and how complete the submittal is. A clean submission can move faster, while incomplete drawings or complex site"
+}

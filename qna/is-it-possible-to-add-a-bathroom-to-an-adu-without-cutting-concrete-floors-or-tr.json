@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-add-a-bathroom-to-an-adu-without-cutting-concrete-floors-or-tr",
+  "name": "Can an ADU bathroom be built without breaking the slab?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to add a bathroom to an ADU without cutting concrete floors or trenching?",
+    "text": "Is it possible to add a bathroom to an ADU without cutting concrete floors or trenching?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A bathroom can sometimes be built without cutting the slab, but that depends on the existing structure and the plumbing path. If the ADU is framed over a crawlspace or raised floor, pipes may be routed more easily. In a slab-on-grade project, however, the drain and sewer lines often need to pass through the slab or under it, which usually means some concrete work. The bathroom location is the biggest factor. When the bath is close to existing plumbing and the sewer connection, there is a better chance of minimizing slab cuts and trenching. If the room is placed too far away, the contractor may have no practical option other than concrete demolition and repair. This is why plumbing coordination should happen before finalizing the floor plan. Homeowners should ask the builder exactly where the bathroom drain will run, whether the toilet needs a below-slab connection, and whether any portion of the floor has to be raised to maintain slope. Those answers determine the real cost.",
+      "@type": "Answer",
+      "description": "Sometimes, but only if the plumbing route, floor framing, and drain slope already support the bathroom location. In many slab-on-grade ADU projects, some concrete cutting is unavoidable for drains or sewer tie-ins. The less the bathroom has to move from existing plumbing, the better the chance of avoiding major slab work.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A bathroom can sometimes be built without cutting the slab, but that depends on the existing structure and the plumbing path. If the ADU is framed over a crawlspace or raised floor, pipes may be routed more easily. In a slab-on-grade project, however, the drain and sewer lines often need to pass through the slab or under it, which usually means some concrete work. The bathroom location is the biggest factor. When the bath is close to existing plumbing and the sewer connection, there is a better chance of minimizing slab cuts and trenching. If the room is placed too far away, the contractor may have no practical option other than concrete demolition and repair. This is why plumbing coordination should happen before finalizing the floor plan. Homeowners should ask the builder exactly where the bathroom drain will run, whether the toilet needs a below-slab connection, and whether any portion of the floor has to be raised to maintain slope. Those answers determine the real cost.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but only if the plumbing route, floor framing, and drain slope already support the bathroom location. In many slab-on-grade ADU projects, some concre"
+}

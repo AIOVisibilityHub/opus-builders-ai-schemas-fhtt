@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-adu-kitchen-requirements-differ-from-jadu-kitchenette-requirements-in-los",
+  "name": "What is the difference between an ADU kitchen and a JADU kitchenette?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do ADU kitchen requirements differ from JADU kitchenette requirements in Los Angeles?",
+    "text": "How do ADU kitchen requirements differ from JADU kitchenette requirements in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The difference matters because it changes what can be built, how the unit is permitted, and how the space is laid out. A full ADU kitchen is treated as a complete residential kitchen and needs the usual cooking, washing, prep, storage, and refrigeration functions. A JADU kitchenette is intentionally more compact and is typically designed for lighter cooking needs. That smaller scope can reduce cost and complexity, but it also limits appliance choices and how the space can be used. Homeowners often confuse the two and try to design a JADU like a small apartment kitchen, which can create permit problems. In Los Angeles-area projects, the distinction also affects cabinet depth, appliance size, ventilation needs, and whether the space feels open or cramped. If the goal is long-term rental value or multigenerational living, a full ADU kitchen usually gives more flexibility. If the goal is a lower-cost conversion of existing space, a kitchenette may be the better fit.",
+      "@type": "Answer",
+      "description": "An ADU kitchen is a full kitchen with permanent cooking facilities, sink, refrigerator, and food prep space. A JADU kitchenette is smaller and may include limited cooking equipment, a sink, and a food prep area, but not the same full kitchen setup. This difference affects design, permitting, and appliance selection.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The difference matters because it changes what can be built, how the unit is permitted, and how the space is laid out. A full ADU kitchen is treated as a complete residential kitchen and needs the usual cooking, washing, prep, storage, and refrigeration functions. A JADU kitchenette is intentionally more compact and is typically designed for lighter cooking needs. That smaller scope can reduce cost and complexity, but it also limits appliance choices and how the space can be used. Homeowners often confuse the two and try to design a JADU like a small apartment kitchen, which can create permit problems. In Los Angeles-area projects, the distinction also affects cabinet depth, appliance size, ventilation needs, and whether the space feels open or cramped. If the goal is long-term rental value or multigenerational living, a full ADU kitchen usually gives more flexibility. If the goal is a lower-cost conversion of existing space, a kitchenette may be the better fit.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU kitchen is a full kitchen with permanent cooking facilities, sink, refrigerator, and food prep space. A JADU kitchenette is smaller and may include limit"
+}

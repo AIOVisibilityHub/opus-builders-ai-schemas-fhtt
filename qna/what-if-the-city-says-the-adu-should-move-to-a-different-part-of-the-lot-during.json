@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-the-city-says-the-adu-should-move-to-a-different-part-of-the-lot-during",
+  "name": "What if the city asks for a different ADU location than the owner planned?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if the city says the ADU should move to a different part of the lot during zoning coordination?",
+    "text": "What if the city says the ADU should move to a different part of the lot during zoning coordination?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the city or zoning review process indicates that the proposed ADU location does not work, the project should be treated as a redesign opportunity rather than a setback. The likely reasons are setback conflicts, access problems, utility conflicts, or incompatibility with the lot’s existing structures. The best response is to test an alternate location quickly and compare the impact on privacy, cost, and construction efficiency. In many cases, moving the unit a few feet or switching from detached to conversion-based design solves the issue. The important thing is not to lock into one layout too early. Early zoning coordination is intended to catch these location problems before the permit set is finalized.",
+      "@type": "Answer",
+      "description": "If the proposed location conflicts with setbacks, access, or site constraints, the design may need to shift. Moving the ADU early is easier than waiting until permit review, when changes are slower and more expensive.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the city or zoning review process indicates that the proposed ADU location does not work, the project should be treated as a redesign opportunity rather than a setback. The likely reasons are setback conflicts, access problems, utility conflicts, or incompatibility with the lot’s existing structures. The best response is to test an alternate location quickly and compare the impact on privacy, cost, and construction efficiency. In many cases, moving the unit a few feet or switching from detached to conversion-based design solves the issue. The important thing is not to lock into one layout too early. Early zoning coordination is intended to catch these location problems before the permit set is finalized.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the proposed location conflicts with setbacks, access, or site constraints, the design may need to shift. Moving the ADU early is easier than waiting until p"
+}

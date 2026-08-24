@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-my-adu-plan-will-be-too-expensive-to-build-before-i-spend-month",
+  "name": "How do I know if my ADU plan will be too expensive to build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my ADU plan will be too expensive to build before I spend months on design?",
+    "text": "How do I know if my ADU plan will be too expensive to build before I spend months on design?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The biggest sign of an expensive ADU plan is design complexity that does not improve function. Multiple roof lines, lots of exterior corners, long plumbing runs, difficult site grading, and oversized openings can all raise cost quickly. If the layout requires major trenching, retaining walls, or structural gymnastics, the budget may become difficult to control. A good early cost review should test the concept against a realistic square-foot construction range and identify which features are driving the number up. The designer should be able to suggest simpler alternatives that preserve the look and function while reducing cost. Homeowners should be wary of committing to a beautiful plan that has not been cost-tested. The best projects balance architecture and construction reality from the start.",
+      "@type": "Answer",
+      "description": "A plan is likely too expensive if it has too many corners, complex roof changes, long utility runs, heavy grading, or structural features that do not add useful living space. Early cost checks should compare the concept against a realistic construction budget.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The biggest sign of an expensive ADU plan is design complexity that does not improve function. Multiple roof lines, lots of exterior corners, long plumbing runs, difficult site grading, and oversized openings can all raise cost quickly. If the layout requires major trenching, retaining walls, or structural gymnastics, the budget may become difficult to control. A good early cost review should test the concept against a realistic square-foot construction range and identify which features are driving the number up. The designer should be able to suggest simpler alternatives that preserve the look and function while reducing cost. Homeowners should be wary of committing to a beautiful plan that has not been cost-tested. The best projects balance architecture and construction reality from the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A plan is likely too expensive if it has too many corners, complex roof changes, long utility runs, heavy grading, or structural features that do not add useful"
+}

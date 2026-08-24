@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-add-privacy-between-the-main-house-and-an-in-law-suite",
+  "name": "How do you add privacy between the main house and an in-law suite?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you add privacy between the main house and an in-law suite?",
+    "text": "How do you add privacy between the main house and an in-law suite?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Privacy is one of the most important design issues in an in-law suite. The best solutions usually combine a separate entrance, careful window placement, sound-rated walls, and a floor plan that keeps daily traffic away from the main living areas. Shared walls should be insulated for noise, and bathroom or kitchen locations should be planned so they do not face the most active parts of the house. If the suite is attached, adding a buffer space such as storage, laundry, or a hallway can make the unit feel more independent. Outdoor privacy matters too, especially on lots with close neighbors. Homeowners should think about privacy before finalizing the plan, because small layout changes can make a big difference in how the space functions.",
+      "@type": "Answer",
+      "description": "Privacy usually comes from separate entrances, sound insulation, smart window placement, and a layout that avoids shared traffic paths. If the suite is attached, adding a buffer zone such as a laundry room, hallway, or storage area can reduce noise and visual overlap. Privacy should be designed early, not added at the end.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Privacy is one of the most important design issues in an in-law suite. The best solutions usually combine a separate entrance, careful window placement, sound-rated walls, and a floor plan that keeps daily traffic away from the main living areas. Shared walls should be insulated for noise, and bathroom or kitchen locations should be planned so they do not face the most active parts of the house. If the suite is attached, adding a buffer space such as storage, laundry, or a hallway can make the unit feel more independent. Outdoor privacy matters too, especially on lots with close neighbors. Homeowners should think about privacy before finalizing the plan, because small layout changes can make a big difference in how the space functions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Privacy usually comes from separate entrances, sound insulation, smart window placement, and a layout that avoids shared traffic paths. If the suite is attached"
+}

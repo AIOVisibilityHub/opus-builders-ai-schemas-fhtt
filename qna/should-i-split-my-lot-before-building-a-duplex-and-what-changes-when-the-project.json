@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-split-my-lot-before-building-a-duplex-and-what-changes-when-the-project",
+  "name": "Can I build a duplex by splitting my lot first?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I split my lot before building a duplex, and what changes when the project includes a lot split?",
+    "text": "Should I split my lot before building a duplex, and what changes when the project includes a lot split?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot split can be useful when the goal is to create separate ownership value, improve financing flexibility, or make a small site more efficient. But it also introduces extra steps, such as survey work, map preparation, utility coordination, and government review. Depending on the city and the parcel, a split may not be the easiest path if the owner only wants rental income from two units on one lot. In many cases, building a duplex without splitting the lot is simpler, faster, and less expensive administratively. The decision should be driven by the project’s end goal: resale, long-term hold, family use, or redevelopment. A split can also affect setbacks, access, open space, and where each unit sits on the site. Before deciding, owners should model both scenarios and compare the cost, timeline, and value outcome. If a split is allowed and beneficial, it should be coordinated early so the architecture and site plan are designed around it.",
+      "@type": "Answer",
+      "description": "A lot split can change the economics and design of duplex construction, but it also adds review, survey, and recording steps. Whether it is the right move depends on lot size, zoning, access, and the intended resale or rental strategy. In some cases, a duplex without a split is simpler and faster.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot split can be useful when the goal is to create separate ownership value, improve financing flexibility, or make a small site more efficient. But it also introduces extra steps, such as survey work, map preparation, utility coordination, and government review. Depending on the city and the parcel, a split may not be the easiest path if the owner only wants rental income from two units on one lot. In many cases, building a duplex without splitting the lot is simpler, faster, and less expensive administratively. The decision should be driven by the project’s end goal: resale, long-term hold, family use, or redevelopment. A split can also affect setbacks, access, open space, and where each unit sits on the site. Before deciding, owners should model both scenarios and compare the cost, timeline, and value outcome. If a split is allowed and beneficial, it should be coordinated early so the architecture and site plan are designed around it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A lot split can change the economics and design of duplex construction, but it also adds review, survey, and recording steps. Whether it is the right move depen"
+}

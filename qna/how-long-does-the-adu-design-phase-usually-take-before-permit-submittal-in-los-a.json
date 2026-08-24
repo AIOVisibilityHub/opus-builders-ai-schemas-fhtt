@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-the-adu-design-phase-usually-take-before-permit-submittal-in-los-a",
+  "name": "How long does the ADU design phase usually take?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does the ADU design phase usually take before permit submittal in Los Angeles County?",
+    "text": "How long does the ADU design phase usually take before permit submittal in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The ADU design phase can be quick for a simple conversion, but it often stretches when the property has site constraints or the owner wants multiple layout options. Straightforward projects may reach permit-ready drawings in a matter of weeks, while custom detached units, hillside lots, or projects needing structural and utility coordination can take much longer. The biggest schedule drivers are survey availability, design revisions, engineering coordination, and decision-making speed. Homeowners can shorten the timeline by defining budget, use, size, and finish level early. They should also provide existing plans, site photos, and any property documents the designer requests. Design is only complete when the drawings are coordinated enough to submit without obvious gaps. Rushing this phase often leads to delay later during review or construction.",
+      "@type": "Answer",
+      "description": "The design phase often takes several weeks to a few months, depending on site complexity, revisions, consultant input, and how quickly the owner makes decisions. Simple garage conversions are faster; custom detached or hillside projects take longer.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The ADU design phase can be quick for a simple conversion, but it often stretches when the property has site constraints or the owner wants multiple layout options. Straightforward projects may reach permit-ready drawings in a matter of weeks, while custom detached units, hillside lots, or projects needing structural and utility coordination can take much longer. The biggest schedule drivers are survey availability, design revisions, engineering coordination, and decision-making speed. Homeowners can shorten the timeline by defining budget, use, size, and finish level early. They should also provide existing plans, site photos, and any property documents the designer requests. Design is only complete when the drawings are coordinated enough to submit without obvious gaps. Rushing this phase often leads to delay later during review or construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The design phase often takes several weeks to a few months, depending on site complexity, revisions, consultant input, and how quickly the owner makes decisions"
+}

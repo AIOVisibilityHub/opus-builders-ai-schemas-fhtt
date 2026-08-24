@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-adu-layout-for-privacy-when-the-main-house-and-adu-are-close-to",
+  "name": "What is the best ADU layout for privacy?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best ADU layout for privacy when the main house and ADU are close together?",
+    "text": "What is the best ADU layout for privacy when the main house and ADU are close together?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Privacy starts with orientation. A strong ADU layout minimizes direct sightlines between the main house and the new unit by turning windows, doors, and patios away from each other when possible. Side entries, offset walls, clerestory windows, and screened outdoor areas can make a small property feel much more private. Landscaping and fencing also matter, especially in dense neighborhoods where the ADU may sit close to a property line or a main bedroom window. Inside the unit, privacy improves when sleeping areas are separated from shared zones and when mechanical equipment is kept away from patios and bedrooms. The best solution depends on the site, but the general rule is to design privacy intentionally rather than assume it will work itself out. Homeowners should ask the designer to show both daytime and nighttime sightlines before finalizing the plan.",
+      "@type": "Answer",
+      "description": "The best privacy-focused ADU layout usually places windows away from the main house, uses side-entry circulation, and separates outdoor spaces with fences, landscaping, or offsets. Interior privacy improves when bedrooms and living areas are not directly facing each other across short distances.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Privacy starts with orientation. A strong ADU layout minimizes direct sightlines between the main house and the new unit by turning windows, doors, and patios away from each other when possible. Side entries, offset walls, clerestory windows, and screened outdoor areas can make a small property feel much more private. Landscaping and fencing also matter, especially in dense neighborhoods where the ADU may sit close to a property line or a main bedroom window. Inside the unit, privacy improves when sleeping areas are separated from shared zones and when mechanical equipment is kept away from patios and bedrooms. The best solution depends on the site, but the general rule is to design privacy intentionally rather than assume it will work itself out. Homeowners should ask the designer to show both daytime and nighttime sightlines before finalizing the plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best privacy-focused ADU layout usually places windows away from the main house, uses side-entry circulation, and separates outdoor spaces with fences, land"
+}

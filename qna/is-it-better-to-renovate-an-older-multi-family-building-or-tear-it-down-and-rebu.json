@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-better-to-renovate-an-older-multi-family-building-or-tear-it-down-and-rebu",
+  "name": "Should you renovate or rebuild a small apartment building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it better to renovate an older multi-family building or tear it down and rebuild in Los Angeles?",
+    "text": "Is it better to renovate an older multi-family building or tear it down and rebuild in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The right choice depends on the condition of the building and the value of the site. Renovation can be the smarter move when the structure is solid, systems can be upgraded efficiently, and the existing layout already supports competitive rents. Rebuilding may be better when the property has major structural defects, outdated plumbing and electrical systems, poor unit layouts, or a site that can support more density. In Los Angeles, owners also need to factor in permitting, code upgrades, seismic considerations, and the cost of uncovering hidden conditions during renovation. A rebuild usually takes longer and costs more up front, but it can unlock a better long-term asset if the existing building is too compromised. The best decision usually comes from a side-by-side feasibility study comparing repair cost, loss of income during construction, and projected end value.",
+      "@type": "Answer",
+      "description": "Renovation makes sense when the structure is sound and the layout can be improved without major hidden repairs. Rebuilds are usually better when the building has serious structural issues, poor unit efficiency, obsolete systems, or zoning potential for more value. The decision often comes down to total cost, rental upside, and how much risk the existing building hides.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The right choice depends on the condition of the building and the value of the site. Renovation can be the smarter move when the structure is solid, systems can be upgraded efficiently, and the existing layout already supports competitive rents. Rebuilding may be better when the property has major structural defects, outdated plumbing and electrical systems, poor unit layouts, or a site that can support more density. In Los Angeles, owners also need to factor in permitting, code upgrades, seismic considerations, and the cost of uncovering hidden conditions during renovation. A rebuild usually takes longer and costs more up front, but it can unlock a better long-term asset if the existing building is too compromised. The best decision usually comes from a side-by-side feasibility study comparing repair cost, loss of income during construction, and projected end value.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Renovation makes sense when the structure is sound and the layout can be improved without major hidden repairs. Rebuilds are usually better when the building ha"
+}

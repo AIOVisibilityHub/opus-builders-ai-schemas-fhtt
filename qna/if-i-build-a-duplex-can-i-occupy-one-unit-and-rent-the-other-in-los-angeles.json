@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-build-a-duplex-can-i-occupy-one-unit-and-rent-the-other-in-los-angeles",
+  "name": "Can I live in one unit and rent the other?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I build a duplex, can I occupy one unit and rent the other in Los Angeles?",
+    "text": "If I build a duplex, can I occupy one unit and rent the other in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Owner-occupying one unit and renting the other is one of the most common reasons people build duplexes. It can help offset mortgage costs, create long-term flexibility, and make the property more useful for multigenerational living or future investment. However, owner occupancy does not change the need to comply with zoning, building code, fire separation, accessibility where applicable, and utility requirements. The design should consider privacy, sound control, separate entries, and parking so the arrangement works in daily life. It is also important to think about financing, because the lender may underwrite the project differently if the owner plans to live in one unit. The best duplexes for owner-occupants feel like two independent homes rather than one house divided awkwardly in half. If that is the goal, the plan should prioritize livability, privacy, and long-term maintenance from the beginning.",
+      "@type": "Answer",
+      "description": "Yes, many owners build duplexes so they can live in one unit and rent the other, but the project must still meet all zoning, building, and occupancy rules. Owner-use does not remove permit requirements. It can, however, make financing and long-term return more attractive for some buyers.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Owner-occupying one unit and renting the other is one of the most common reasons people build duplexes. It can help offset mortgage costs, create long-term flexibility, and make the property more useful for multigenerational living or future investment. However, owner occupancy does not change the need to comply with zoning, building code, fire separation, accessibility where applicable, and utility requirements. The design should consider privacy, sound control, separate entries, and parking so the arrangement works in daily life. It is also important to think about financing, because the lender may underwrite the project differently if the owner plans to live in one unit. The best duplexes for owner-occupants feel like two independent homes rather than one house divided awkwardly in half. If that is the goal, the plan should prioritize livability, privacy, and long-term maintenance from the beginning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many owners build duplexes so they can live in one unit and rent the other, but the project must still meet all zoning, building, and occupancy rules. Owne"
+}

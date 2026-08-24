@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-seismic-design-rules-change-the-cost-and-layout-of-a-multi-family-buildin",
+  "name": "How do seismic requirements affect apartment construction in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do seismic design rules change the cost and layout of a multi-family building in Los Angeles?",
+    "text": "How do seismic design rules change the cost and layout of a multi-family building in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Seismic design is a major part of multi-family construction in Los Angeles because it influences both cost and layout. The structure must resist lateral forces, which can require larger foundations, stronger framing, shear walls, hold-downs, and more detailed connections. These requirements can reduce flexibility in unit planning, especially if the building is tall, has large openings, or uses irregular geometry. If seismic design is not considered early, the project can face redesign later when engineering conflicts with architecture or parking. That often means extra cost and lost time. Owners should ask the design team how the structural system affects both first cost and constructability. Good seismic planning also helps avoid field changes, which are expensive on multi-family projects because many trades depend on the structural layout.",
+      "@type": "Answer",
+      "description": "Seismic requirements affect structural design, foundation size, shear walls, connections, and sometimes the building layout itself. In Los Angeles, these rules can increase engineering complexity and material cost, especially for taller or irregular buildings. The earlier seismic design is addressed, the fewer layout compromises and change orders usually occur.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Seismic design is a major part of multi-family construction in Los Angeles because it influences both cost and layout. The structure must resist lateral forces, which can require larger foundations, stronger framing, shear walls, hold-downs, and more detailed connections. These requirements can reduce flexibility in unit planning, especially if the building is tall, has large openings, or uses irregular geometry. If seismic design is not considered early, the project can face redesign later when engineering conflicts with architecture or parking. That often means extra cost and lost time. Owners should ask the design team how the structural system affects both first cost and constructability. Good seismic planning also helps avoid field changes, which are expensive on multi-family projects because many trades depend on the structural layout.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Seismic requirements affect structural design, foundation size, shear walls, connections, and sometimes the building layout itself. In Los Angeles, these rules "
+}

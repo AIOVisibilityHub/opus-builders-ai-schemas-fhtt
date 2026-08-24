@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-my-los-angeles-area-lot-is-eligible-for-an-adu-before-i-spend-m",
+  "name": "How do I know if my lot is eligible for an ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my Los Angeles-area lot is eligible for an ADU before I spend money on plans?",
+    "text": "How do I know if my Los Angeles-area lot is eligible for an ADU before I spend money on plans?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Eligibility starts with the parcel itself, not the design. The first step is to confirm the zoning district and whether the lot contains or can contain the residential use required by the city’s ADU rules. Next, check for overlays, historic status, easements, and unusual site conditions that could limit placement or size. In many Los Angeles-area cities, lots with existing single-family or multifamily dwellings can qualify, but the exact outcome depends on the city’s objective standards. Before paying for full plans, owners should obtain a zoning feasibility review so they know whether the lot can support a detached ADU, conversion, or attached unit. That early check prevents spending money on a design that does not fit the site or local rules.",
+      "@type": "Answer",
+      "description": "Check the parcel’s zoning, confirm that residential use is allowed, and verify whether any overlays, historic rules, or site constraints affect the lot. If the lot already has a qualifying dwelling and the city allows ADUs in that zone, it is often eligible.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Eligibility starts with the parcel itself, not the design. The first step is to confirm the zoning district and whether the lot contains or can contain the residential use required by the city’s ADU rules. Next, check for overlays, historic status, easements, and unusual site conditions that could limit placement or size. In many Los Angeles-area cities, lots with existing single-family or multifamily dwellings can qualify, but the exact outcome depends on the city’s objective standards. Before paying for full plans, owners should obtain a zoning feasibility review so they know whether the lot can support a detached ADU, conversion, or attached unit. That early check prevents spending money on a design that does not fit the site or local rules.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Check the parcel’s zoning, confirm that residential use is allowed, and verify whether any overlays, historic rules, or site constraints affect the lot. If the "
+}

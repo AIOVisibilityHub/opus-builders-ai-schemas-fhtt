@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-an-adu-was-built-without-a-full-bathroom-is-it-possible-to-add-one-later-with",
+  "name": "Can I add a bathroom to an existing ADU later?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If an ADU was built without a full bathroom, is it possible to add one later without rebuilding the unit?",
+    "text": "If an ADU was built without a full bathroom, is it possible to add one later without rebuilding the unit?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Adding a bathroom later is possible, but it is usually much easier and cheaper if the ADU was originally designed with future plumbing in mind. The main questions are where the drain can run, whether there is enough slope to the sewer connection, where the vent will go, and whether the existing floor and walls can be opened without major damage. If the unit was built without a planned bathroom location, the retrofit may require demolition, slab cuts, or significant reconfiguration of the interior layout. That is why many builders recommend deciding on the bathroom during the initial design phase, even if the finishes are installed later. A future bathroom rough-in can save a lot of money and reduce disruptions. Homeowners considering a retrofit should ask a contractor to inspect the floor structure, utility paths, and available wall cavities before committing to the idea. In many cases, the answer is yes, but the cheapest path is not always obvious until the plumbing is mapped out.",
+      "@type": "Answer",
+      "description": "Yes, but the feasibility depends on available space, drain slope, venting, and how close the unit is to existing plumbing. Adding a bathroom later is much easier if the ADU was originally designed with a future plumbing chase or rough-in. Retrofitting a finished unit usually costs more than building the bathroom from the start.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Adding a bathroom later is possible, but it is usually much easier and cheaper if the ADU was originally designed with future plumbing in mind. The main questions are where the drain can run, whether there is enough slope to the sewer connection, where the vent will go, and whether the existing floor and walls can be opened without major damage. If the unit was built without a planned bathroom location, the retrofit may require demolition, slab cuts, or significant reconfiguration of the interior layout. That is why many builders recommend deciding on the bathroom during the initial design phase, even if the finishes are installed later. A future bathroom rough-in can save a lot of money and reduce disruptions. Homeowners considering a retrofit should ask a contractor to inspect the floor structure, utility paths, and available wall cavities before committing to the idea. In many cases, the answer is yes, but the cheapest path is not always obvious until the plumbing is mapped out.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the feasibility depends on available space, drain slope, venting, and how close the unit is to existing plumbing. Adding a bathroom later is much easie"
+}

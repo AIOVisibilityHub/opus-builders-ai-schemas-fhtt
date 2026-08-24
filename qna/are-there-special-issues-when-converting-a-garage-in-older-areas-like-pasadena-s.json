@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-there-special-issues-when-converting-a-garage-in-older-areas-like-pasadena-s",
+  "name": "Can you convert a garage in a historic or older neighborhood?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are there special issues when converting a garage in older areas like Pasadena, South Pasadena, or San Marino?",
+    "text": "Are there special issues when converting a garage in older areas like Pasadena, South Pasadena, or San Marino?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Garage conversions in older or architecturally sensitive neighborhoods can be more complicated than they first appear. Areas like Pasadena, South Pasadena, San Marino, and parts of Glendale or Burbank often have older garages, irregular lot shapes, and additions that may not match current records. That can create issues with setbacks, documentation, foundation condition, and how the structure is classified during plan review. If the garage was built long ago or without clear records, the project team may need to prove the structure’s existence and configuration through permits, assessor records, or historical documentation. Older buildings may also contain materials or framing methods that require special handling once walls and ceilings are opened. In some neighborhoods, design sensitivity matters as much as code compliance, because the converted structure should still fit the character of the property. The smartest approach is to do a records check and on-site inspection before finalizing the design. That helps identify whether the conversion is straightforward or whether the garage should be redesigned, partially rebuilt, or documented more carefully before permit submission.",
+      "@type": "Answer",
+      "description": "Yes. Older neighborhoods can involve nonconforming setbacks, aging structures, historic review concerns, and undocumented construction. These projects often need extra feasibility work to confirm whether the garage can be legally converted and what parts of the structure need upgrade.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Garage conversions in older or architecturally sensitive neighborhoods can be more complicated than they first appear. Areas like Pasadena, South Pasadena, San Marino, and parts of Glendale or Burbank often have older garages, irregular lot shapes, and additions that may not match current records. That can create issues with setbacks, documentation, foundation condition, and how the structure is classified during plan review. If the garage was built long ago or without clear records, the project team may need to prove the structure’s existence and configuration through permits, assessor records, or historical documentation. Older buildings may also contain materials or framing methods that require special handling once walls and ceilings are opened. In some neighborhoods, design sensitivity matters as much as code compliance, because the converted structure should still fit the character of the property. The smartest approach is to do a records check and on-site inspection before finalizing the design. That helps identify whether the conversion is straightforward or whether the garage should be redesigned, partially rebuilt, or documented more carefully before permit submission.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Older neighborhoods can involve nonconforming setbacks, aging structures, historic review concerns, and undocumented construction. These projects often nee"
+}

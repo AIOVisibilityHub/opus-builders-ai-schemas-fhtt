@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-the-adu-must-share-driveway-access-with-the-main-house-in-a-dense-neighb",
+  "name": "What if the ADU needs to share driveway access with the main house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if the ADU must share driveway access with the main house in a dense neighborhood like North Hollywood or Glendale?",
+    "text": "What if the ADU must share driveway access with the main house in a dense neighborhood like North Hollywood or Glendale?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Shared driveway access is common on constrained urban lots, but it can strongly influence where the ADU can be built. The key zoning question is whether the site can support safe circulation to both the main house and the ADU without creating conflicts at the entrance, parking area, or pedestrian path. In dense neighborhoods such as North Hollywood or Glendale, a narrow driveway can force the unit farther back, reduce usable yard space, or require a different entry configuration. Coordination should check whether the city expects a clear path of travel, how parking is handled if required, and whether turning movements or gate placement create a problem. The earlier this is reviewed, the better, because driveway constraints often determine whether the project stays detached, becomes attached, or shifts to a conversion plan.",
+      "@type": "Answer",
+      "description": "Shared driveway access can be acceptable, but the site plan must show safe circulation, clear entry paths, and enough width for the proposed use. A tight shared drive often affects placement more than the building size itself.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Shared driveway access is common on constrained urban lots, but it can strongly influence where the ADU can be built. The key zoning question is whether the site can support safe circulation to both the main house and the ADU without creating conflicts at the entrance, parking area, or pedestrian path. In dense neighborhoods such as North Hollywood or Glendale, a narrow driveway can force the unit farther back, reduce usable yard space, or require a different entry configuration. Coordination should check whether the city expects a clear path of travel, how parking is handled if required, and whether turning movements or gate placement create a problem. The earlier this is reviewed, the better, because driveway constraints often determine whether the project stays detached, becomes attached, or shifts to a conversion plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Shared driveway access can be acceptable, but the site plan must show safe circulation, clear entry paths, and enough width for the proposed use. A tight shared"
+}

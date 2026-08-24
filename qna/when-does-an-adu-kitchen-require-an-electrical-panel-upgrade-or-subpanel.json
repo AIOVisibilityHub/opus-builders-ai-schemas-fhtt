@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-an-adu-kitchen-require-an-electrical-panel-upgrade-or-subpanel",
+  "name": "Do you need a separate electrical panel for an ADU kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does an ADU kitchen require an electrical panel upgrade or subpanel?",
+    "text": "When does an ADU kitchen require an electrical panel upgrade or subpanel?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether an ADU kitchen needs a panel upgrade depends on the home’s existing electrical capacity and the appliance package chosen for the new unit. Older homes in Los Angeles-area neighborhoods often have limited panel space or insufficient amperage for a full kitchen plus HVAC and other ADU loads. Electric cooking equipment, dishwashers, microwaves, and under-cabinet lighting can add up quickly. The issue is not just whether the lights turn on, but whether the system can safely handle peak demand without nuisance trips or future limitations. This is why the electrical review should happen before the final kitchen layout is approved. If a panel upgrade is needed, it may affect the entire project sequence and cost. Homeowners should also think about future needs, such as EV charging or additional outdoor circuits, because it can be smarter to size the system once than to upgrade twice. A contractor should confirm capacity early so the kitchen design matches the available service.",
+      "@type": "Answer",
+      "description": "An ADU kitchen may need an electrical panel upgrade if the existing service cannot support the added load from cooking appliances, lighting, outlets, and HVAC. Electric ranges, induction cooktops, dishwashers, and water heaters often increase load enough to require a closer electrical review before construction starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether an ADU kitchen needs a panel upgrade depends on the home’s existing electrical capacity and the appliance package chosen for the new unit. Older homes in Los Angeles-area neighborhoods often have limited panel space or insufficient amperage for a full kitchen plus HVAC and other ADU loads. Electric cooking equipment, dishwashers, microwaves, and under-cabinet lighting can add up quickly. The issue is not just whether the lights turn on, but whether the system can safely handle peak demand without nuisance trips or future limitations. This is why the electrical review should happen before the final kitchen layout is approved. If a panel upgrade is needed, it may affect the entire project sequence and cost. Homeowners should also think about future needs, such as EV charging or additional outdoor circuits, because it can be smarter to size the system once than to upgrade twice. A contractor should confirm capacity early so the kitchen design matches the available service.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU kitchen may need an electrical panel upgrade if the existing service cannot support the added load from cooking appliances, lighting, outlets, and HVAC. "
+}

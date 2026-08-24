@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-build-more-than-one-kitchen-like-cooking-area-in-the-same-adu",
+  "name": "Can you add a second kitchen to an ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to build more than one kitchen-like cooking area in the same ADU?",
+    "text": "Is it possible to build more than one kitchen-like cooking area in the same ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A second kitchen-like area in an ADU can create design and permitting complications because the unit is supposed to function as one dwelling unit, not multiple separate households. In some projects, homeowners want a prep pantry, wet bar, or secondary cooking zone for entertaining or multigenerational use. Those features may be possible, but they should be planned carefully so they do not look like an attempt to create a second dwelling. The difference often comes down to how the space is labeled, equipped, and routed for utilities. Extra sinks, cooktops, or appliance clusters can trigger questions if the layout starts to resemble a separate unit. If the goal is convenience rather than a second residence, a designer can often create a flexible serving area or pantry with limited functions. The safest approach is to define the kitchen’s primary purpose clearly and make sure the plans support that intent. A contractor experienced in ADUs can help avoid configurations that create unnecessary review issues.",
+      "@type": "Answer",
+      "description": "A standard ADU is generally designed around one primary kitchen, not multiple independent kitchens. Adding extra cooking zones may be possible in some layouts, but the design must still fit the unit type and local approval standards. Extra kitchen features should be reviewed carefully before construction.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A second kitchen-like area in an ADU can create design and permitting complications because the unit is supposed to function as one dwelling unit, not multiple separate households. In some projects, homeowners want a prep pantry, wet bar, or secondary cooking zone for entertaining or multigenerational use. Those features may be possible, but they should be planned carefully so they do not look like an attempt to create a second dwelling. The difference often comes down to how the space is labeled, equipped, and routed for utilities. Extra sinks, cooktops, or appliance clusters can trigger questions if the layout starts to resemble a separate unit. If the goal is convenience rather than a second residence, a designer can often create a flexible serving area or pantry with limited functions. The safest approach is to define the kitchen’s primary purpose clearly and make sure the plans support that intent. A contractor experienced in ADUs can help avoid configurations that create unnecessary review issues.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A standard ADU is generally designed around one primary kitchen, not multiple independent kitchens. Adding extra cooking zones may be possible in some layouts, "
+}

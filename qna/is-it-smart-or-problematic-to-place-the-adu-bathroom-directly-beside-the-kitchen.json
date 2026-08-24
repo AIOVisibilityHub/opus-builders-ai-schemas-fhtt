@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-smart-or-problematic-to-place-the-adu-bathroom-directly-beside-the-kitchen",
+  "name": "Can you put the bathroom next to the kitchen in an ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it smart or problematic to place the ADU bathroom directly beside the kitchen wall?",
+    "text": "Is it smart or problematic to place the ADU bathroom directly beside the kitchen wall?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Putting the bathroom next to the kitchen is often a practical design choice in an ADU because it can reduce plumbing length and help group water, drain, and vent lines into one core. That can lower cost and make the floor plan more efficient. The main drawbacks are privacy, sound transfer, and the need for good ventilation so the bathroom does not affect the kitchen area. If the two rooms share a wall, the design should also account for insulation, plumbing noise, and how the doors open. This layout usually works best when the bathroom and kitchen are separated by a buffer wall or when the fixtures are arranged so the loudest plumbing is not directly behind the dining or seating area. In a small ADU, the space savings often outweigh the drawbacks, especially if the goal is to keep construction simple. Contractors and designers should verify that the shared wall still allows for code-compliant plumbing, venting, and fire/sound detailing as needed.",
+      "@type": "Answer",
+      "description": "Yes, placing the bathroom near the kitchen is often smart because it can shorten plumbing runs and reduce cost. The important concern is sound, odor control, and keeping proper separation between food prep and bathroom fixtures. Good ventilation and wall detailing make the layout work better.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Putting the bathroom next to the kitchen is often a practical design choice in an ADU because it can reduce plumbing length and help group water, drain, and vent lines into one core. That can lower cost and make the floor plan more efficient. The main drawbacks are privacy, sound transfer, and the need for good ventilation so the bathroom does not affect the kitchen area. If the two rooms share a wall, the design should also account for insulation, plumbing noise, and how the doors open. This layout usually works best when the bathroom and kitchen are separated by a buffer wall or when the fixtures are arranged so the loudest plumbing is not directly behind the dining or seating area. In a small ADU, the space savings often outweigh the drawbacks, especially if the goal is to keep construction simple. Contractors and designers should verify that the shared wall still allows for code-compliant plumbing, venting, and fire/sound detailing as needed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, placing the bathroom near the kitchen is often smart because it can shorten plumbing runs and reduce cost. The important concern is sound, odor control, an"
+}

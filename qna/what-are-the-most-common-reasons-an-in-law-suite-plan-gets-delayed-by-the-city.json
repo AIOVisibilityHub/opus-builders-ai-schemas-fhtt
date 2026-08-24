@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-common-reasons-an-in-law-suite-plan-gets-delayed-by-the-city",
+  "name": "What are the most common reasons an in-law suite plan gets delayed by the city?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common reasons an in-law suite plan gets delayed by the city?",
+    "text": "What are the most common reasons an in-law suite plan gets delayed by the city?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "City delays are usually caused by preventable plan issues rather than the concept itself. Common problems include missing dimensions, unclear existing conditions, weak structural details, poor site access information, and utility routing that is not fully documented. If the project involves an older home, reviewers may also ask for upgrades related to fire separation, energy compliance, or structural support. Detached units can face additional scrutiny on grading, drainage, and utility capacity. The best way to reduce delays is to submit complete drawings that show the existing house, the proposed suite, and all connections clearly. It also helps to build a contingency into the schedule because at least one correction round is common on many residential projects.",
+      "@type": "Answer",
+      "description": "Plan delays usually happen when drawings are incomplete, site information is unclear, utility details are missing, or the layout does not match zoning and building rules. Older homes can create extra delays if the city asks for structural, fire, or energy code corrections. Clean, complete submittals usually move faster than redesign-heavy plans.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "City delays are usually caused by preventable plan issues rather than the concept itself. Common problems include missing dimensions, unclear existing conditions, weak structural details, poor site access information, and utility routing that is not fully documented. If the project involves an older home, reviewers may also ask for upgrades related to fire separation, energy compliance, or structural support. Detached units can face additional scrutiny on grading, drainage, and utility capacity. The best way to reduce delays is to submit complete drawings that show the existing house, the proposed suite, and all connections clearly. It also helps to build a contingency into the schedule because at least one correction round is common on many residential projects.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Plan delays usually happen when drawings are incomplete, site information is unclear, utility details are missing, or the layout does not match zoning and build"
+}

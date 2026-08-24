@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-biggest-issues-when-adding-a-bathroom-to-a-garage-adu-conversion",
+  "name": "Can you add a bathroom to a garage conversion ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the biggest issues when adding a bathroom to a garage ADU conversion?",
+    "text": "What are the biggest issues when adding a bathroom to a garage ADU conversion?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A garage conversion can absolutely include a bathroom, but the plumbing often becomes the biggest challenge. Since the existing garage slab was not built around a bathroom, the contractor may need to cut concrete for drains, route venting through tight wall spaces, and solve slope without raising the floor too much. The best bathroom location is often near the side of the house or closest to existing plumbing to reduce the amount of trenching and slab work. Waterproofing also matters more in garage conversions because the room may be built on a slab with different moisture conditions than a standard interior bath. Homeowners should also think about door swings, fixture spacing, and where the water heater, laundry, or kitchen lines are located. In many garage ADU projects, the bathroom design should be coordinated before framing begins, because moving it later can add major cost. A contractor experienced with ADU conversions should be able to show the drain route and explain how inspections will be handled.",
+      "@type": "Answer",
+      "description": "Yes, but garage conversions often have the hardest plumbing conditions because the slab, drain route, and sewer connection may not line up with the new bathroom. The main challenges are cutting concrete, raising floors for slope, and fitting venting and waterproofing into a compact space. Bathroom placement is usually critical in a garage ADU.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A garage conversion can absolutely include a bathroom, but the plumbing often becomes the biggest challenge. Since the existing garage slab was not built around a bathroom, the contractor may need to cut concrete for drains, route venting through tight wall spaces, and solve slope without raising the floor too much. The best bathroom location is often near the side of the house or closest to existing plumbing to reduce the amount of trenching and slab work. Waterproofing also matters more in garage conversions because the room may be built on a slab with different moisture conditions than a standard interior bath. Homeowners should also think about door swings, fixture spacing, and where the water heater, laundry, or kitchen lines are located. In many garage ADU projects, the bathroom design should be coordinated before framing begins, because moving it later can add major cost. A contractor experienced with ADU conversions should be able to show the drain route and explain how inspections will be handled.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but garage conversions often have the hardest plumbing conditions because the slab, drain route, and sewer connection may not line up with the new bathroom"
+}

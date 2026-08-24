@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-ask-an-adu-designer-before-signing-a-contract-for-an-adu-project-i",
+  "name": "What should I ask an ADU designer before signing?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask an ADU designer before signing a contract for an ADU project in Pasadena or Glendale?",
+    "text": "What should I ask an ADU designer before signing a contract for an ADU project in Pasadena or Glendale?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing, homeowners should ask whether the designer has completed ADUs on similar lots and in the same local jurisdictions. The most important questions are practical: what is included in the fee, how many revisions are allowed, who coordinates engineering, who handles permit responses, and whether the drawings are created for buildability or only for approval. It also helps to ask how the designer approaches setbacks, privacy, utility planning, and cost control. A designer with strong ADU experience should be able to explain likely constraints clearly and give examples of past projects with narrow lots, garage conversions, or two-story units. Homeowners should be careful about vague proposals that do not spell out deliverables or permit support. The right designer should reduce uncertainty, not create it.",
+      "@type": "Answer",
+      "description": "Ask about ADU-specific experience, local permit familiarity, what deliverables are included, who handles engineering, how revisions are billed, and whether the design is optimized for both approval and construction cost. Also ask for examples of completed local ADUs similar to your lot type.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing, homeowners should ask whether the designer has completed ADUs on similar lots and in the same local jurisdictions. The most important questions are practical: what is included in the fee, how many revisions are allowed, who coordinates engineering, who handles permit responses, and whether the drawings are created for buildability or only for approval. It also helps to ask how the designer approaches setbacks, privacy, utility planning, and cost control. A designer with strong ADU experience should be able to explain likely constraints clearly and give examples of past projects with narrow lots, garage conversions, or two-story units. Homeowners should be careful about vague proposals that do not spell out deliverables or permit support. The right designer should reduce uncertainty, not create it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about ADU-specific experience, local permit familiarity, what deliverables are included, who handles engineering, how revisions are billed, and whether the "
+}

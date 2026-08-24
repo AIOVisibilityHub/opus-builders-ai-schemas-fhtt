@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-zoning-issue-most-often-causes-adu-projects-to-stall-in-los-angeles-area-ci",
+  "name": "What zoning issue blocks the most ADU projects in these cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What zoning issue most often causes ADU projects to stall in Los Angeles-area cities during zoning coordination?",
+    "text": "What zoning issue most often causes ADU projects to stall in Los Angeles-area cities during zoning coordination?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common problem is not whether an ADU is allowed, but whether the proposed design fits the lot cleanly. Tight side yards, limited rear-yard depth, existing garage locations, utility easements, and unusual lot shapes often create conflicts that delay approval. In some cases, the issue is not the building itself but access to the unit, path of travel, or how the ADU relates to the main house and property lines. Historic or special-plan areas can add another layer of review. The best way to avoid delays is to start zoning coordination with an accurate site survey and a realistic massing study. That lets the team identify whether the project needs a smaller footprint, a different placement, or a conversion-based approach instead of new construction. Early issue spotting is usually the difference between a straightforward permit and weeks of redesign.",
+      "@type": "Answer",
+      "description": "The most common blocker is a mismatch between the proposed ADU footprint and the site’s objective setbacks, access, or existing lot conditions. Properties with tight side yards, shallow rear yards, detached garages, or historic constraints often need redesign before they can move forward.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common problem is not whether an ADU is allowed, but whether the proposed design fits the lot cleanly. Tight side yards, limited rear-yard depth, existing garage locations, utility easements, and unusual lot shapes often create conflicts that delay approval. In some cases, the issue is not the building itself but access to the unit, path of travel, or how the ADU relates to the main house and property lines. Historic or special-plan areas can add another layer of review. The best way to avoid delays is to start zoning coordination with an accurate site survey and a realistic massing study. That lets the team identify whether the project needs a smaller footprint, a different placement, or a conversion-based approach instead of new construction. Early issue spotting is usually the difference between a straightforward permit and weeks of redesign.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common blocker is a mismatch between the proposed ADU footprint and the site’s objective setbacks, access, or existing lot conditions. Properties with "
+}

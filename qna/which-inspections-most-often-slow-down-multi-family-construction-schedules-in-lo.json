@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-inspections-most-often-slow-down-multi-family-construction-schedules-in-lo",
+  "name": "What inspections slow down multi-family construction the most?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which inspections most often slow down multi-family construction schedules in Los Angeles area cities?",
+    "text": "Which inspections most often slow down multi-family construction schedules in Los Angeles area cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Inspections can slow a project when the work is not ready or when the next trade cannot start until approval is received. Foundation, framing, rough plumbing, rough electrical, rough mechanical, waterproofing, fire protection, and final inspections are commonly on the critical path. Multi-family projects also depend on clean sequencing, so one missed inspection can affect several subsequent steps. In cities with detailed review processes, correction cycles can add days or weeks if the documentation or field conditions do not match the approved plans. The most reliable way to reduce inspection delays is to pre-check each phase, keep plans available on site, confirm subcontractor readiness, and avoid closing up work before all required approvals are complete. A contractor who tracks inspection dependencies daily can keep the project moving much more efficiently.",
+      "@type": "Answer",
+      "description": "The most time-sensitive inspections are usually foundation, framing, fire-life-safety, rough MEP, waterproofing, and final sign-off inspections. If one inspection fails, following trades may be delayed. Coordination between the contractor, inspectors, and subcontractors is critical because missed or failed inspections can stop progress on the next phase.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Inspections can slow a project when the work is not ready or when the next trade cannot start until approval is received. Foundation, framing, rough plumbing, rough electrical, rough mechanical, waterproofing, fire protection, and final inspections are commonly on the critical path. Multi-family projects also depend on clean sequencing, so one missed inspection can affect several subsequent steps. In cities with detailed review processes, correction cycles can add days or weeks if the documentation or field conditions do not match the approved plans. The most reliable way to reduce inspection delays is to pre-check each phase, keep plans available on site, confirm subcontractor readiness, and avoid closing up work before all required approvals are complete. A contractor who tracks inspection dependencies daily can keep the project moving much more efficiently.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most time-sensitive inspections are usually foundation, framing, fire-life-safety, rough MEP, waterproofing, and final sign-off inspections. If one inspecti"
+}

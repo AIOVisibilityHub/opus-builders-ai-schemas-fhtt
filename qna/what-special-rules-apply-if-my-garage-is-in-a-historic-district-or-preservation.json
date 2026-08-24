@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-special-rules-apply-if-my-garage-is-in-a-historic-district-or-preservation",
+  "name": "Can I convert a garage in a historic district or HPOZ?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What special rules apply if my garage is in a historic district or preservation zone in Pasadena, Los Angeles, or Glendale?",
+    "text": "What special rules apply if my garage is in a historic district or preservation zone in Pasadena, Los Angeles, or Glendale?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Projects in historic districts, HPOZ areas, or preservation overlays often face more design sensitivity than ordinary residential conversions. The structure may still be convertible, but exterior changes such as doors, windows, siding, rooflines, and visible additions can be more tightly controlled. That can affect whether the garage door can be removed, how openings are placed, and how the finished unit blends into the existing property. In some neighborhoods, even small exterior changes can require a more detailed review than a standard conversion would. This does not necessarily make the project impossible, but it can change the design strategy and timeline. Owners in Pasadena, Los Angeles, or Glendale should assume extra review is possible if the property is within a protected area. The smartest approach is to determine the historic status before design work gets too far along. That way, the team can create a plan that satisfies both code and neighborhood character without expensive revisions later.",
+      "@type": "Answer",
+      "description": "Historic districts and preservation zones can add design review, material restrictions, and limits on exterior changes. Even if a garage conversion is otherwise allowed, the project may need more careful planning to preserve the street-facing appearance.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Projects in historic districts, HPOZ areas, or preservation overlays often face more design sensitivity than ordinary residential conversions. The structure may still be convertible, but exterior changes such as doors, windows, siding, rooflines, and visible additions can be more tightly controlled. That can affect whether the garage door can be removed, how openings are placed, and how the finished unit blends into the existing property. In some neighborhoods, even small exterior changes can require a more detailed review than a standard conversion would. This does not necessarily make the project impossible, but it can change the design strategy and timeline. Owners in Pasadena, Los Angeles, or Glendale should assume extra review is possible if the property is within a protected area. The smartest approach is to determine the historic status before design work gets too far along. That way, the team can create a plan that satisfies both code and neighborhood character without expensive revisions later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Historic districts and preservation zones can add design review, material restrictions, and limits on exterior changes. Even if a garage conversion is otherwise"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-most-common-adu-design-mistakes-homeowners-make-during-planning",
+  "name": "What are the most common ADU design mistakes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the most common ADU design mistakes homeowners make during planning?",
+    "text": "What are the most common ADU design mistakes homeowners make during planning?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common ADU design mistakes happen early. Homeowners often begin with a floor plan before understanding the site, which leads to setback conflicts, awkward access, and wasted design effort. Another frequent mistake is focusing only on square footage instead of circulation, privacy, storage, and utility routing. Overly complex roof shapes, too many corners, and poorly placed windows can increase costs without improving the unit. People also underestimate how much utilities, drainage, and site preparation affect the budget. A good design should be buildable, not just attractive on paper. It should also fit the neighborhood and the main house in scale and quality. The safest way to avoid mistakes is to start with a feasibility study, use an accurate survey, and coordinate design with engineering and permitting requirements from the beginning.",
+      "@type": "Answer",
+      "description": "Common mistakes include starting without a survey, ignoring setbacks, placing windows poorly, underestimating utility costs, overcomplicating the roofline, and designing a layout that looks good but is hard to build. The best plans are simple, site-specific, and code-aware.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common ADU design mistakes happen early. Homeowners often begin with a floor plan before understanding the site, which leads to setback conflicts, awkward access, and wasted design effort. Another frequent mistake is focusing only on square footage instead of circulation, privacy, storage, and utility routing. Overly complex roof shapes, too many corners, and poorly placed windows can increase costs without improving the unit. People also underestimate how much utilities, drainage, and site preparation affect the budget. A good design should be buildable, not just attractive on paper. It should also fit the neighborhood and the main house in scale and quality. The safest way to avoid mistakes is to start with a feasibility study, use an accurate survey, and coordinate design with engineering and permitting requirements from the beginning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common mistakes include starting without a survey, ignoring setbacks, placing windows poorly, underestimating utility costs, overcomplicating the roofline, and "
+}

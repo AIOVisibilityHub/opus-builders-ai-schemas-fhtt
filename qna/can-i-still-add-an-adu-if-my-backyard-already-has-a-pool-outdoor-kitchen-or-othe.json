@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-still-add-an-adu-if-my-backyard-already-has-a-pool-outdoor-kitchen-or-othe",
+  "name": "Can I add an ADU if I already have a pool or outdoor kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I still add an ADU if my backyard already has a pool, outdoor kitchen, or other major landscaping?",
+    "text": "Can I still add an ADU if my backyard already has a pool, outdoor kitchen, or other major landscaping?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Existing outdoor improvements do not automatically prevent an ADU, but they make layout decisions more important. A pool, outdoor kitchen, patio, or mature landscaping can define where the ADU should go and how circulation should work around it. The designer should look at how the new unit affects privacy, drainage, equipment access, and usable outdoor living space. In some cases, the best answer is a smaller footprint in a less valuable part of the yard so the owner keeps the highest-use exterior areas intact. In other cases, the ADU can actually help organize the backyard by creating a defined edge or courtyard effect. Homeowners should not assume they need to remove everything to make room for the unit. The right design protects the best parts of the property while integrating the new living space cleanly.",
+      "@type": "Answer",
+      "description": "Yes, but the ADU layout must work around existing outdoor features, drainage, and access. In some cases, the ADU should be placed to preserve the most valuable outdoor zones rather than forcing a full-yard redesign.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Existing outdoor improvements do not automatically prevent an ADU, but they make layout decisions more important. A pool, outdoor kitchen, patio, or mature landscaping can define where the ADU should go and how circulation should work around it. The designer should look at how the new unit affects privacy, drainage, equipment access, and usable outdoor living space. In some cases, the best answer is a smaller footprint in a less valuable part of the yard so the owner keeps the highest-use exterior areas intact. In other cases, the ADU can actually help organize the backyard by creating a defined edge or courtyard effect. Homeowners should not assume they need to remove everything to make room for the unit. The right design protects the best parts of the property while integrating the new living space cleanly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the ADU layout must work around existing outdoor features, drainage, and access. In some cases, the ADU should be placed to preserve the most valuable "
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-adu-zoning-coordination-usually-take-in-los-angeles-area-cities-be",
+  "name": "How long does ADU zoning coordination usually take?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does ADU zoning coordination usually take in Los Angeles-area cities before a permit set can be submitted?",
+    "text": "How long does ADU zoning coordination usually take in Los Angeles-area cities before a permit set can be submitted?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The timeline depends on parcel complexity and how much information is already available. A straightforward lot with clear zoning and no special constraints may be checked quickly, while a property with historic, hillside, or irregular-lot issues can take much longer. The coordination phase usually includes parcel verification, code review, concept testing, and a round of revisions before the permit set is ready. If the site survey is complete and the design is simple, the process can move efficiently. If the lot is complicated, the timeline often expands because the project must be tested against multiple scenarios. Owners should expect zoning coordination to happen before permit submission, not after, because fixing a bad fit later is slower and more expensive. The more complete the property information is at the start, the shorter the coordination period tends to be.",
+      "@type": "Answer",
+      "description": "Simple ADU zoning coordination can take a few days, but properties with special conditions, historic status, or complex setbacks often take longer. The timeline depends on how quickly the parcel can be verified and how many redesign questions come up.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The timeline depends on parcel complexity and how much information is already available. A straightforward lot with clear zoning and no special constraints may be checked quickly, while a property with historic, hillside, or irregular-lot issues can take much longer. The coordination phase usually includes parcel verification, code review, concept testing, and a round of revisions before the permit set is ready. If the site survey is complete and the design is simple, the process can move efficiently. If the lot is complicated, the timeline often expands because the project must be tested against multiple scenarios. Owners should expect zoning coordination to happen before permit submission, not after, because fixing a bad fit later is slower and more expensive. The more complete the property information is at the start, the shorter the coordination period tends to be.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Simple ADU zoning coordination can take a few days, but properties with special conditions, historic status, or complex setbacks often take longer. The timeline"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-adu-zoning-rules-differ-between-los-angeles-glendale-pasadena-and-burbank",
+  "name": "How do zoning rules differ between Los Angeles, Glendale, Pasadena, and Burbank for ADUs?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do ADU zoning rules differ between Los Angeles, Glendale, Pasadena, and Burbank, and which differences matter most for design coordination?",
+    "text": "How do ADU zoning rules differ between Los Angeles, Glendale, Pasadena, and Burbank, and which differences matter most for design coordination?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The important differences are usually not whether an ADU is allowed, but how it must fit the lot and what documentation the city expects. Burbank, Pasadena, Glendale, and Los Angeles all have local ADU guidance, but each city may differ on allowed zones, minimum setbacks, height, exterior design expectations, and the way zoning questions are handled. For example, Burbank’s guidance is especially specific about setback distances and structure separation, while Pasadena and Glendale direct applicants to city zoning staff for property-specific questions. Los Angeles also has its own ordinance and planning process. For a homeowner or builder, the practical issue is that a design that works in one city may need adjustments in another. That makes city-specific zoning coordination critical before committing to floor plans, rooflines, or site placement. A strong pre-design review should confirm the applicable city, zoning district, and any special constraints affecting the parcel.",
+      "@type": "Answer",
+      "description": "The biggest differences are usually in allowed zones, dimensional limits, and local design review expectations. Burbank publishes a detailed ADU handout with specific setback and separation standards, while Pasadena and Glendale provide city-specific ADU guidance and contact points for zoning questions, and Los Angeles has its own city planning ordinance and clearance process.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The important differences are usually not whether an ADU is allowed, but how it must fit the lot and what documentation the city expects. Burbank, Pasadena, Glendale, and Los Angeles all have local ADU guidance, but each city may differ on allowed zones, minimum setbacks, height, exterior design expectations, and the way zoning questions are handled. For example, Burbank’s guidance is especially specific about setback distances and structure separation, while Pasadena and Glendale direct applicants to city zoning staff for property-specific questions. Los Angeles also has its own ordinance and planning process. For a homeowner or builder, the practical issue is that a design that works in one city may need adjustments in another. That makes city-specific zoning coordination critical before committing to floor plans, rooflines, or site placement. A strong pre-design review should confirm the applicable city, zoning district, and any special constraints affecting the parcel.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest differences are usually in allowed zones, dimensional limits, and local design review expectations. Burbank publishes a detailed ADU handout with sp"
+}

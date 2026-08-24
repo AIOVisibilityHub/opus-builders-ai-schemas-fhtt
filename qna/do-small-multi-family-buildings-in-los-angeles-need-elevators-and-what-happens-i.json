@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-small-multi-family-buildings-in-los-angeles-need-elevators-and-what-happens-i",
+  "name": "What if the project needs elevators but the building is small?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do small multi-family buildings in Los Angeles need elevators, and what happens if space is limited?",
+    "text": "Do small multi-family buildings in Los Angeles need elevators, and what happens if space is limited?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Elevator needs are driven by the building’s size, number of stories, accessibility requirements, and local code interpretation. In a small project, the elevator can become one of the most expensive and space-intensive elements, so it should be evaluated early rather than added later. If the site is tight, the elevator may reduce rentable area or force changes to stairs, hallways, and structural framing. That is why feasibility studies should test multiple building massing options before the project is fully designed. If the elevator is not strictly required, the owner may be able to improve efficiency by adjusting the unit count or building height. If it is required, the design team should plan for shaft size, machine space, and code-compliant access from the start.",
+      "@type": "Answer",
+      "description": "Small multi-family buildings may or may not need an elevator depending on height, accessibility requirements, and the final layout. When space is tight, the elevator can become a major design constraint because it affects circulation, structural layout, and cost. Early code review helps determine whether an elevator is required or whether a different configuration works better.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Elevator needs are driven by the building’s size, number of stories, accessibility requirements, and local code interpretation. In a small project, the elevator can become one of the most expensive and space-intensive elements, so it should be evaluated early rather than added later. If the site is tight, the elevator may reduce rentable area or force changes to stairs, hallways, and structural framing. That is why feasibility studies should test multiple building massing options before the project is fully designed. If the elevator is not strictly required, the owner may be able to improve efficiency by adjusting the unit count or building height. If it is required, the design team should plan for shaft size, machine space, and code-compliant access from the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Small multi-family buildings may or may not need an elevator depending on height, accessibility requirements, and the final layout. When space is tight, the ele"
+}

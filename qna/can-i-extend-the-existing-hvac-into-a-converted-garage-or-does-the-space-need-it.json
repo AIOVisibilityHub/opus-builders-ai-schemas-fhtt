@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-extend-the-existing-hvac-into-a-converted-garage-or-does-the-space-need-it",
+  "name": "Do garage conversions need new HVAC systems?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I extend the existing HVAC into a converted garage, or does the space need its own system?",
+    "text": "Can I extend the existing HVAC into a converted garage, or does the space need its own system?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Heating and cooling are critical because a garage becomes much less usable if it still behaves like a garage thermally. In some cases, existing HVAC can be extended, but that depends on system capacity, duct routing, and how the home is already balanced. Many conversions work better with a dedicated mini-split or another independent system because it offers better comfort control and avoids overloading the main house. This is especially important in Los Angeles, where summer heat can make an under-conditioned unit uncomfortable. HVAC planning should happen early because it affects electrical load, equipment placement, and ceiling or wall framing. It also influences energy compliance and occupant comfort. A builder who treats HVAC as an afterthought can create a finished space that still feels underpowered. For any serious conversion, climate control should be designed as part of the core plan, not added at the end. That decision can materially affect both cost and livability.",
+      "@type": "Answer",
+      "description": "A converted garage often needs dedicated heating and cooling because garages are typically outside the home’s existing conditioned envelope. Whether the existing system can be extended depends on capacity, duct routing, and comfort goals.",
+      "upvoteCount": 2
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Heating and cooling are critical because a garage becomes much less usable if it still behaves like a garage thermally. In some cases, existing HVAC can be extended, but that depends on system capacity, duct routing, and how the home is already balanced. Many conversions work better with a dedicated mini-split or another independent system because it offers better comfort control and avoids overloading the main house. This is especially important in Los Angeles, where summer heat can make an under-conditioned unit uncomfortable. HVAC planning should happen early because it affects electrical load, equipment placement, and ceiling or wall framing. It also influences energy compliance and occupant comfort. A builder who treats HVAC as an afterthought can create a finished space that still feels underpowered. For any serious conversion, climate control should be designed as part of the core plan, not added at the end. That decision can materially affect both cost and livability.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A converted garage often needs dedicated heating and cooling because garages are typically outside the home’s existing conditioned envelope. Whether the existin"
+}

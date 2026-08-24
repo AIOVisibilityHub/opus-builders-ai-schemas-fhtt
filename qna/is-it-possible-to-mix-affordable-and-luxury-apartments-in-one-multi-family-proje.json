@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-mix-affordable-and-luxury-apartments-in-one-multi-family-proje",
+  "name": "Can you build affordable units and luxury units in the same building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to mix affordable and luxury apartments in one multi-family project in Los Angeles?",
+    "text": "Is it possible to mix affordable and luxury apartments in one multi-family project in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A mixed-market building can work well if the design clearly supports both segments. The project may share the same structure, MEP systems, and exterior architecture while using different interior finishes, unit sizes, or amenity levels to fit separate rent targets. The biggest challenge is avoiding a layout that feels inconsistent or inefficient. If the affordable and luxury components are too disconnected, the building can lose operational simplicity and market clarity. Owners should plan the unit mix, parking, circulation, mail, trash, and amenity spaces early so the building functions as one coherent project. A strong feasibility study will test how different mixes affect income, construction cost, and leasing performance. The goal is to create a building that is efficient to build and competitive in the market.",
+      "@type": "Answer",
+      "description": "Yes, mixed-market projects are possible, but the unit mix, amenities, finishes, and parking strategy must be planned carefully. The two product types can share structure and systems while using different interior packages or layouts. The challenge is making the building function efficiently without confusing the target market or overspending on the wrong spaces.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A mixed-market building can work well if the design clearly supports both segments. The project may share the same structure, MEP systems, and exterior architecture while using different interior finishes, unit sizes, or amenity levels to fit separate rent targets. The biggest challenge is avoiding a layout that feels inconsistent or inefficient. If the affordable and luxury components are too disconnected, the building can lose operational simplicity and market clarity. Owners should plan the unit mix, parking, circulation, mail, trash, and amenity spaces early so the building functions as one coherent project. A strong feasibility study will test how different mixes affect income, construction cost, and leasing performance. The goal is to create a building that is efficient to build and competitive in the market.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, mixed-market projects are possible, but the unit mix, amenities, finishes, and parking strategy must be planned carefully. The two product types can share "
+}

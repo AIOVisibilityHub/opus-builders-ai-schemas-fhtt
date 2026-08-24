@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-approvals-and-reports-are-typically-required-for-duplex-constructio",
+  "name": "What permits do I need to build a duplex in Glendale or Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits, approvals, and reports are typically required for duplex construction in Glendale, Pasadena, Burbank, or nearby cities?",
+    "text": "What permits, approvals, and reports are typically required for duplex construction in Glendale, Pasadena, Burbank, or nearby cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Duplex permitting usually starts with zoning confirmation and then moves into plan preparation, building permit submittal, and corrections from the city. Many projects also need a site survey, structural calculations, energy compliance documentation, and civil or grading input if the lot is challenging. In some neighborhoods, additional review may apply for design compatibility, demolition, or tree protection. Glendale, Pasadena, Burbank, and nearby cities can each have their own workflow, so a permit package that works in one city may not be complete in another. Utility coordination is also important, especially where new meters, sewer upgrades, or service capacity changes are needed. The best approach is to assemble a complete permit strategy before finalizing architectural drawings. That avoids redesign after plan check and helps keep the project on schedule. A local contractor or design-build team should be able to map the likely permit path before final pricing.",
+      "@type": "Answer",
+      "description": "Most duplex projects need zoning verification, plan check, building permits, and typically structural, energy, and utility coordination before construction begins. Depending on the site, you may also need a survey, soils report, grading approval, or design review. Cities can require different submittals even for similar lots, so permit scope should be confirmed early.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Duplex permitting usually starts with zoning confirmation and then moves into plan preparation, building permit submittal, and corrections from the city. Many projects also need a site survey, structural calculations, energy compliance documentation, and civil or grading input if the lot is challenging. In some neighborhoods, additional review may apply for design compatibility, demolition, or tree protection. Glendale, Pasadena, Burbank, and nearby cities can each have their own workflow, so a permit package that works in one city may not be complete in another. Utility coordination is also important, especially where new meters, sewer upgrades, or service capacity changes are needed. The best approach is to assemble a complete permit strategy before finalizing architectural drawings. That avoids redesign after plan check and helps keep the project on schedule. A local contractor or design-build team should be able to map the likely permit path before final pricing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most duplex projects need zoning verification, plan check, building permits, and typically structural, energy, and utility coordination before construction begi"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-adu-bathroom-tie-into-the-main-house-plumbing-line-or-does-it-need-a-sepa",
+  "name": "Can an ADU bathroom share plumbing with the main house in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an ADU bathroom tie into the main house plumbing line, or does it need a separate branch line?",
+    "text": "Can an ADU bathroom tie into the main house plumbing line, or does it need a separate branch line?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An ADU bathroom can often connect to the existing home’s plumbing, but the right approach depends on the building layout and the condition of the current system. If the ADU is close to the main house, a shared branch line may be practical. If the run is long, the project may need a new line, a lifted floor, or a different bathroom placement to avoid expensive trenching and drainage issues. The most important checks are line capacity, venting, slope to sewer, fixture count, and access for inspection. In Los Angeles-area projects, a bathroom is commonly one of the first spaces that forces design changes because plumbing can drive both cost and floor plan. Before construction starts, the contractor should map the proposed drain route, confirm where the sewer connection will be made, and coordinate the bathroom with the kitchen and laundry to reduce duplicate plumbing work. If the ADU is being converted from a garage or existing room, the best bathroom location is often the one that shortens the drain run the most.",
+      "@type": "Answer",
+      "description": "An ADU bathroom can sometimes connect to the main home’s plumbing system if the layout, pipe sizing, venting, and capacity allow it. The key issues are distance, slope, fixture load, and whether the route creates excessive demolition or pressure problems. A plumber or designer should verify the best tie-in point before plans are finalized.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An ADU bathroom can often connect to the existing home’s plumbing, but the right approach depends on the building layout and the condition of the current system. If the ADU is close to the main house, a shared branch line may be practical. If the run is long, the project may need a new line, a lifted floor, or a different bathroom placement to avoid expensive trenching and drainage issues. The most important checks are line capacity, venting, slope to sewer, fixture count, and access for inspection. In Los Angeles-area projects, a bathroom is commonly one of the first spaces that forces design changes because plumbing can drive both cost and floor plan. Before construction starts, the contractor should map the proposed drain route, confirm where the sewer connection will be made, and coordinate the bathroom with the kitchen and laundry to reduce duplicate plumbing work. If the ADU is being converted from a garage or existing room, the best bathroom location is often the one that shortens the drain run the most.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU bathroom can sometimes connect to the main home’s plumbing system if the layout, pipe sizing, venting, and capacity allow it. The key issues are distance"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-every-garage-conversion-considered-an-adu-or-can-it-just-be-extra-living-spac",
+  "name": "What is the difference between a garage conversion and an ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is every garage conversion considered an ADU, or can it just be extra living space?",
+    "text": "Is every garage conversion considered an ADU, or can it just be extra living space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The terms are related, but they are not identical. A garage conversion describes the construction work, while an ADU describes the legal use of the finished space. If the converted garage includes a kitchen, bathroom, and independent living function, it may be treated as an ADU. If it becomes a family room, office, gym, or guest space without full dwelling features, it may not be an ADU. This distinction matters because permit requirements, utility planning, occupancy rules, and parking impacts can change based on classification. Homeowners often start with a vague idea of “converting the garage” and only later discover that their intended use determines the approvals. In Los Angeles-area cities, the right classification can also affect rental potential and resale value. Before drawing plans, the owner should decide whether the goal is independent housing, a flexible living space, or a future rental unit. That decision should drive the layout, number of plumbing fixtures, kitchen design, and permit strategy. Good planning at the start avoids redesign later.",
+      "@type": "Answer",
+      "description": "A garage conversion is the physical project of changing a garage into habitable space. An ADU is a legal dwelling unit with its own sleeping, cooking, and bathroom facilities, so some conversions qualify as ADUs while others do not.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The terms are related, but they are not identical. A garage conversion describes the construction work, while an ADU describes the legal use of the finished space. If the converted garage includes a kitchen, bathroom, and independent living function, it may be treated as an ADU. If it becomes a family room, office, gym, or guest space without full dwelling features, it may not be an ADU. This distinction matters because permit requirements, utility planning, occupancy rules, and parking impacts can change based on classification. Homeowners often start with a vague idea of “converting the garage” and only later discover that their intended use determines the approvals. In Los Angeles-area cities, the right classification can also affect rental potential and resale value. Before drawing plans, the owner should decide whether the goal is independent housing, a flexible living space, or a future rental unit. That decision should drive the layout, number of plumbing fixtures, kitchen design, and permit strategy. Good planning at the start avoids redesign later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A garage conversion is the physical project of changing a garage into habitable space. An ADU is a legal dwelling unit with its own sleeping, cooking, and bathr"
+}

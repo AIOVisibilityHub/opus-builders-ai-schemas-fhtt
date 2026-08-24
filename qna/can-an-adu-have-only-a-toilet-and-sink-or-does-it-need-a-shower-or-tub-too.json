@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-adu-have-only-a-toilet-and-sink-or-does-it-need-a-shower-or-tub-too",
+  "name": "Does an ADU bathroom need a shower to be considered legal?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an ADU have only a toilet and sink, or does it need a shower or tub too?",
+    "text": "Can an ADU have only a toilet and sink, or does it need a shower or tub too?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "For an ADU, a toilet and sink alone are usually not enough for a fully functional independent living unit. Most ADUs are designed as complete dwelling spaces, so the bathroom normally includes a shower or tub in addition to the toilet and lavatory. The exact requirements can vary by project type, but from a planning standpoint the bathroom should be treated as a complete bathing and sanitation room rather than a powder room. This matters because the room size, ventilation, waterproofing, and plumbing layout all change once a shower is included. Homeowners sometimes try to start with a simple half-bath concept and later discover it does not support the intended use of the ADU. The safest approach is to decide early whether the unit will be a true independent living space, then size the bathroom accordingly. If space is tight, a compact shower pan, pocket door, and stacked fixture layout can help keep the room functional without wasting square footage.",
+      "@type": "Answer",
+      "description": "An ADU bathroom typically needs full sanitation fixtures that support independent living, which usually means a toilet, sink, and bathing facility such as a shower or tub. A half-bath may work for other parts of a house, but it usually does not meet the expectations for a self-contained ADU. Confirm the fixture set during design, not after construction starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "For an ADU, a toilet and sink alone are usually not enough for a fully functional independent living unit. Most ADUs are designed as complete dwelling spaces, so the bathroom normally includes a shower or tub in addition to the toilet and lavatory. The exact requirements can vary by project type, but from a planning standpoint the bathroom should be treated as a complete bathing and sanitation room rather than a powder room. This matters because the room size, ventilation, waterproofing, and plumbing layout all change once a shower is included. Homeowners sometimes try to start with a simple half-bath concept and later discover it does not support the intended use of the ADU. The safest approach is to decide early whether the unit will be a true independent living space, then size the bathroom accordingly. If space is tight, a compact shower pan, pocket door, and stacked fixture layout can help keep the room functional without wasting square footage.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU bathroom typically needs full sanitation fixtures that support independent living, which usually means a toilet, sink, and bathing facility such as a sho"
+}

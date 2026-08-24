@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-adu-zoning-coordination-be-done-without-a-full-survey-or-is-a-current-survey",
+  "name": "Can an ADU be coordinated without a full survey?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can ADU zoning coordination be done without a full survey, or is a current survey necessary for Los Angeles-area properties?",
+    "text": "Can ADU zoning coordination be done without a full survey, or is a current survey necessary for Los Angeles-area properties?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A rough feasibility review can sometimes start without a full survey, but accurate zoning coordination is much stronger when a current survey is available. Setbacks, building separation, driveway access, and utility conflicts all depend on exact site measurements. Without that information, the project may look feasible on paper and then fail once the real dimensions are checked. A survey is especially important on tight lots, corner lots, or properties with multiple structures. It gives the design team a reliable base for testing options and reduces the risk of drawing an ADU that does not actually fit. If the owner wants a serious go/no-go answer, a survey is usually one of the best investments in the early stage.",
+      "@type": "Answer",
+      "description": "A rough concept may be possible without a full survey, but a current survey is usually needed for reliable zoning coordination. Exact setbacks, structure locations, and utility conflicts are hard to confirm without accurate site dimensions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A rough feasibility review can sometimes start without a full survey, but accurate zoning coordination is much stronger when a current survey is available. Setbacks, building separation, driveway access, and utility conflicts all depend on exact site measurements. Without that information, the project may look feasible on paper and then fail once the real dimensions are checked. A survey is especially important on tight lots, corner lots, or properties with multiple structures. It gives the design team a reliable base for testing options and reduces the risk of drawing an ADU that does not actually fit. If the owner wants a serious go/no-go answer, a survey is usually one of the best investments in the early stage.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A rough concept may be possible without a full survey, but a current survey is usually needed for reliable zoning coordination. Exact setbacks, structure locati"
+}

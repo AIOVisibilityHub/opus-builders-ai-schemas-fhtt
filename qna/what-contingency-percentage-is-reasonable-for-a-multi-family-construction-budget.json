@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contingency-percentage-is-reasonable-for-a-multi-family-construction-budget",
+  "name": "How much contingency should you budget for a Los Angeles apartment project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contingency percentage is reasonable for a multi-family construction budget in Los Angeles?",
+    "text": "What contingency percentage is reasonable for a multi-family construction budget in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Contingency should reflect how much uncertainty remains in the project. If the design is early, the site is constrained, or the geotechnical and utility conditions are not fully known, the contingency should be higher. Multi-family work in Los Angeles often involves risks that are hard to see at the beginning, such as underground obstructions, redesign during plan check, escalation in labor or materials, and scope changes from code or accessibility requirements. Once drawings are more complete and subcontractor pricing is firm, the contingency can often be reduced, but it should not disappear entirely. Owners should separate contingency from escalation and soft-cost reserves so the budget is easier to manage. A good budget review will identify what is included, what is excluded, and where the biggest unknowns still exist.",
+      "@type": "Answer",
+      "description": "A reasonable contingency depends on how complete the drawings are and how complex the site is. Early-stage apartment budgets often carry a larger contingency because permitting, soil conditions, utilities, and design changes can create surprises. More complete plans usually need less contingency, but urban projects still require a meaningful buffer.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Contingency should reflect how much uncertainty remains in the project. If the design is early, the site is constrained, or the geotechnical and utility conditions are not fully known, the contingency should be higher. Multi-family work in Los Angeles often involves risks that are hard to see at the beginning, such as underground obstructions, redesign during plan check, escalation in labor or materials, and scope changes from code or accessibility requirements. Once drawings are more complete and subcontractor pricing is firm, the contingency can often be reduced, but it should not disappear entirely. Owners should separate contingency from escalation and soft-cost reserves so the budget is easier to manage. A good budget review will identify what is included, what is excluded, and where the biggest unknowns still exist.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A reasonable contingency depends on how complete the drawings are and how complex the site is. Early-stage apartment budgets often carry a larger contingency be"
+}

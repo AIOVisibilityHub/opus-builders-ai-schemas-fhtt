@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-a-sloped-or-hillside-lot-change-duplex-construction-costs-engineering-a",
+  "name": "What if the duplex needs to be built on a slope or hillside?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does a sloped or hillside lot change duplex construction costs, engineering, and approvals?",
+    "text": "How does a sloped or hillside lot change duplex construction costs, engineering, and approvals?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hillside and sloped lots can dramatically change duplex construction because the building may need stepped foundations, retaining walls, drainage engineering, and more detailed structural design. Excavation and grading often add cost, and access for trucks, cranes, and trades can be much more complicated than on a flat lot. Sloped sites can also trigger additional review for geotechnical conditions, stormwater management, and drainage paths. The architectural design may need to respond to the terrain with split-level layouts, terraces, or a lower-impact foundation strategy. Because of these factors, a hillside duplex should not be priced like a flat-lot build. A geotechnical report and site survey are essential early documents, and the project team should understand how soil conditions and slope affect foundation selection. The right design can turn the slope into an advantage, but only if the engineering is coordinated from the beginning.",
+      "@type": "Answer",
+      "description": "A slope or hillside lot usually increases cost, complexity, and approval risk because foundations, grading, drainage, and structural engineering become more demanding. Access for equipment and material delivery can also be difficult. Site-specific reports are usually needed before a duplex plan is finalized.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hillside and sloped lots can dramatically change duplex construction because the building may need stepped foundations, retaining walls, drainage engineering, and more detailed structural design. Excavation and grading often add cost, and access for trucks, cranes, and trades can be much more complicated than on a flat lot. Sloped sites can also trigger additional review for geotechnical conditions, stormwater management, and drainage paths. The architectural design may need to respond to the terrain with split-level layouts, terraces, or a lower-impact foundation strategy. Because of these factors, a hillside duplex should not be priced like a flat-lot build. A geotechnical report and site survey are essential early documents, and the project team should understand how soil conditions and slope affect foundation selection. The right design can turn the slope into an advantage, but only if the engineering is coordinated from the beginning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A slope or hillside lot usually increases cost, complexity, and approval risk because foundations, grading, drainage, and structural engineering become more dem"
+}

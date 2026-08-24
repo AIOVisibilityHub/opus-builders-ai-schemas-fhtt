@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-i-need-zoning-coordination-before-hiring-an-architect-for-an-adu-in-los-angel",
+  "name": "Do I need a zoning coordinator before hiring an architect?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do I need zoning coordination before hiring an architect for an ADU in Los Angeles or Pasadena, or can the architect handle it later?",
+    "text": "Do I need zoning coordination before hiring an architect for an ADU in Los Angeles or Pasadena, or can the architect handle it later?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Zoning coordination should happen before or at the very start of architectural design. The reason is simple: setbacks, height, allowed placement, and special constraints determine the building envelope, so the architect needs those rules before finalizing the floor plan. If design starts too early, the project may later fail to fit the lot, which means wasted time and redesign costs. A strong workflow is to confirm zoning feasibility, then move into conceptual design, then prepare permit drawings. Architects can handle zoning research, but the project moves more efficiently when someone verifies the parcel-specific rules first and gives the design team a clear framework. This is especially important in cities with different local standards, because even small differences can affect the layout.",
+      "@type": "Answer",
+      "description": "Zoning should be checked first, because it determines whether the architect can safely size and place the ADU. Starting design before zoning review often leads to avoidable redraws and permit delays.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Zoning coordination should happen before or at the very start of architectural design. The reason is simple: setbacks, height, allowed placement, and special constraints determine the building envelope, so the architect needs those rules before finalizing the floor plan. If design starts too early, the project may later fail to fit the lot, which means wasted time and redesign costs. A strong workflow is to confirm zoning feasibility, then move into conceptual design, then prepare permit drawings. Architects can handle zoning research, but the project moves more efficiently when someone verifies the parcel-specific rules first and gives the design team a clear framework. This is especially important in cities with different local standards, because even small differences can affect the layout.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Zoning should be checked first, because it determines whether the architect can safely size and place the ADU. Starting design before zoning review often leads "
+}

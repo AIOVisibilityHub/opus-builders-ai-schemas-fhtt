@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-an-existing-house-or-small-building-has-to-be-demolished-before",
+  "name": "What if the lot needs demolition before multi-family construction starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if an existing house or small building has to be demolished before a multi-family project can start?",
+    "text": "What happens if an existing house or small building has to be demolished before a multi-family project can start?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Demolition is often an early milestone, but it should be treated as its own project phase. Before tearing down an existing structure, the team usually needs utility disconnects, demolition permits, hazardous material review, and a clear plan for debris removal and site protection. In older Los Angeles-area properties, asbestos, lead paint, or underground obstructions can add time and cost. Demolition also affects the start date for grading and foundation work because the lot must be cleared, surveyed, and sometimes tested before construction can begin. On tight urban sites, protection of adjacent structures and safe truck access can matter as much as the teardown itself. Owners should budget for demolition separately and confirm whether temporary fencing, shoring, or environmental inspections are required before scheduling the build.",
+      "@type": "Answer",
+      "description": "If demolition is required, it adds time, cost, inspections, and possible environmental testing before new construction can begin. Utility disconnects, hazardous material checks, debris hauling, and site clearing all need to happen in sequence. Demolition can also trigger extra permits and neighbor coordination, especially on tight urban lots.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Demolition is often an early milestone, but it should be treated as its own project phase. Before tearing down an existing structure, the team usually needs utility disconnects, demolition permits, hazardous material review, and a clear plan for debris removal and site protection. In older Los Angeles-area properties, asbestos, lead paint, or underground obstructions can add time and cost. Demolition also affects the start date for grading and foundation work because the lot must be cleared, surveyed, and sometimes tested before construction can begin. On tight urban sites, protection of adjacent structures and safe truck access can matter as much as the teardown itself. Owners should budget for demolition separately and confirm whether temporary fencing, shoring, or environmental inspections are required before scheduling the build.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If demolition is required, it adds time, cost, inspections, and possible environmental testing before new construction can begin. Utility disconnects, hazardous"
+}

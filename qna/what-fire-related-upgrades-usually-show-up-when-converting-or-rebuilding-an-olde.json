@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-fire-related-upgrades-usually-show-up-when-converting-or-rebuilding-an-olde",
+  "name": "What fire protection upgrades are required in older multi-family buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What fire-related upgrades usually show up when converting or rebuilding an older apartment property?",
+    "text": "What fire-related upgrades usually show up when converting or rebuilding an older apartment property?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Fire protection upgrades depend on the existing condition of the building and the scope of the project. Older apartment properties often need better alarms, sprinklers, fire-rated separations, protected corridors, improved egress paths, and upgraded penetrations or assemblies. When a project is a full rebuild, these systems are integrated into the new design from the start. When it is a renovation or conversion, fire requirements can force layout changes, ceiling adjustments, or added equipment rooms. Because these items can affect many trades, they should be reviewed early with the architect and contractor. Owners should also verify how fire requirements interact with parking, stairs, and mechanical systems so there are no late surprises during plan check or inspection.",
+      "@type": "Answer",
+      "description": "Older multi-family buildings often need upgraded sprinklers, alarms, fire-rated assemblies, egress improvements, and better compartmentation depending on the scope of work. The exact requirements depend on the existing building and the amount of demolition or renovation. Fire protection changes can affect layout, ceiling heights, and mechanical routing.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Fire protection upgrades depend on the existing condition of the building and the scope of the project. Older apartment properties often need better alarms, sprinklers, fire-rated separations, protected corridors, improved egress paths, and upgraded penetrations or assemblies. When a project is a full rebuild, these systems are integrated into the new design from the start. When it is a renovation or conversion, fire requirements can force layout changes, ceiling adjustments, or added equipment rooms. Because these items can affect many trades, they should be reviewed early with the architect and contractor. Owners should also verify how fire requirements interact with parking, stairs, and mechanical systems so there are no late surprises during plan check or inspection.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older multi-family buildings often need upgraded sprinklers, alarms, fire-rated assemblies, egress improvements, and better compartmentation depending on the sc"
+}

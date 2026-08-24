@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-plans-reports-and-measurements-should-be-prepared-before-building-a-backyar",
+  "name": "What documents are needed before starting a backyard guest house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What plans, reports, and measurements should be prepared before building a backyard guest house in Los Angeles?",
+    "text": "What plans, reports, and measurements should be prepared before building a backyard guest house in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong project begins with accurate information. At minimum, the team should know the exact lot dimensions, existing structures, grades, and utility locations. Surveys and site plans help confirm what can physically fit, while engineering and soils information address structural and foundation needs. If the lot has slope, mature trees, drainage issues, or unusual access, those factors should be documented before design is finalized. The more complete the preconstruction package, the easier it is to price the work and move through review. Homeowners who skip this step often discover problems after plans are already drawn, which is the most expensive time to find them.",
+      "@type": "Answer",
+      "description": "Before starting, homeowners usually need a survey, site measurements, design plans, engineering, and utility information. Depending on the property, soils, drainage, and tree or slope conditions may also be needed. Getting these documents early reduces surprises during design and permitting.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong project begins with accurate information. At minimum, the team should know the exact lot dimensions, existing structures, grades, and utility locations. Surveys and site plans help confirm what can physically fit, while engineering and soils information address structural and foundation needs. If the lot has slope, mature trees, drainage issues, or unusual access, those factors should be documented before design is finalized. The more complete the preconstruction package, the easier it is to price the work and move through review. Homeowners who skip this step often discover problems after plans are already drawn, which is the most expensive time to find them.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before starting, homeowners usually need a survey, site measurements, design plans, engineering, and utility information. Depending on the property, soils, drai"
+}

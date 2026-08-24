@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-long-does-multi-family-construction-usually-take-in-los-angeles-when-the-lot",
+  "name": "How long does a multi-family construction project take in Los Angeles if the site already has utilities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How long does multi-family construction usually take in Los Angeles when the lot already has water, sewer, and power connections?",
+    "text": "How long does multi-family construction usually take in Los Angeles when the lot already has water, sewer, and power connections?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If a site already has water, sewer, and electrical connections, the project can often avoid some early infrastructure delays, but the overall schedule still depends on approvals, design completeness, and construction scope. In Los Angeles-area cities, the biggest time variables are entitlement review, plan check corrections, permit issuance, long-lead materials, and inspection timing. A straightforward small apartment building may finish faster than a larger podium or mixed-use project, but even then the schedule usually includes preconstruction, mobilization, framing, MEP rough-in, finishes, punch list, and closeout. Weather is rarely the main delay; coordination and approvals are. Owners should ask for a realistic critical-path schedule, not just a best-case timeline. The best way to reduce risk is to finalize drawings early, confirm utility capacities, and build in contingency for city comments, revisions, and procurement delays.",
+      "@type": "Answer",
+      "description": "A multi-family project on an already served lot can still take 12 to 24 months, depending on design complexity, permitting, utility coordination, grading, and inspections. Utility access helps, but it does not remove the time needed for plan check, procurement, structural work, and finishes. Smaller wood-frame buildings move faster than mixed-use or podium projects.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If a site already has water, sewer, and electrical connections, the project can often avoid some early infrastructure delays, but the overall schedule still depends on approvals, design completeness, and construction scope. In Los Angeles-area cities, the biggest time variables are entitlement review, plan check corrections, permit issuance, long-lead materials, and inspection timing. A straightforward small apartment building may finish faster than a larger podium or mixed-use project, but even then the schedule usually includes preconstruction, mobilization, framing, MEP rough-in, finishes, punch list, and closeout. Weather is rarely the main delay; coordination and approvals are. Owners should ask for a realistic critical-path schedule, not just a best-case timeline. The best way to reduce risk is to finalize drawings early, confirm utility capacities, and build in contingency for city comments, revisions, and procurement delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A multi-family project on an already served lot can still take 12 to 24 months, depending on design complexity, permitting, utility coordination, grading, and i"
+}

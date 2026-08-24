@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-one-adu-design-be-reused-across-los-angeles-glendale-pasadena-and-burbank-or",
+  "name": "Can one ADU design be reused across multiple cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can one ADU design be reused across Los Angeles, Glendale, Pasadena, and Burbank, or does each city require a separate zoning coordination strategy?",
+    "text": "Can one ADU design be reused across Los Angeles, Glendale, Pasadena, and Burbank, or does each city require a separate zoning coordination strategy?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "One ADU concept can often serve as a starting point, but it should not be assumed to be permit-ready everywhere. Los Angeles, Glendale, Pasadena, and Burbank may all allow ADUs, yet the site constraints and submittal expectations can differ enough to force redesign. The same plan may work on one lot and fail on another because of rear-yard depth, side-yard clearance, driveway access, building separation, roof height, or historic district restrictions. If a builder wants to reuse a plan efficiently, the right approach is to create a flexible base design and then run a city-by-city zoning check before finalizing dimensions. That prevents expensive revisions after the drawings are already complete. Reuse is most successful when the layout, windows, and building footprint are adaptable rather than fixed to one parcel.",
+      "@type": "Answer",
+      "description": "A single ADU concept can sometimes be reused, but each city may require different setbacks, massing, parking treatment, and permit submittal details. A plan that is close to compliant in one city may need revisions in another before it can pass zoning review.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "One ADU concept can often serve as a starting point, but it should not be assumed to be permit-ready everywhere. Los Angeles, Glendale, Pasadena, and Burbank may all allow ADUs, yet the site constraints and submittal expectations can differ enough to force redesign. The same plan may work on one lot and fail on another because of rear-yard depth, side-yard clearance, driveway access, building separation, roof height, or historic district restrictions. If a builder wants to reuse a plan efficiently, the right approach is to create a flexible base design and then run a city-by-city zoning check before finalizing dimensions. That prevents expensive revisions after the drawings are already complete. Reuse is most successful when the layout, windows, and building footprint are adaptable rather than fixed to one parcel.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A single ADU concept can sometimes be reused, but each city may require different setbacks, massing, parking treatment, and permit submittal details. A plan tha"
+}

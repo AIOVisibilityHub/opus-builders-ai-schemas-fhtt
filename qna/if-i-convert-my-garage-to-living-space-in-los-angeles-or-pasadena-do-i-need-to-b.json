@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-convert-my-garage-to-living-space-in-los-angeles-or-pasadena-do-i-need-to-b",
+  "name": "Do you need to replace parking after a garage conversion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I convert my garage to living space in Los Angeles or Pasadena, do I need to build new parking elsewhere?",
+    "text": "If I convert my garage to living space in Los Angeles or Pasadena, do I need to build new parking elsewhere?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking replacement is one of the most common homeowner concerns, especially in dense neighborhoods like North Hollywood, Glendale, Pasadena, and Burbank. For many garage-to-living-space projects, the converted garage does not need to be replaced with a new parking stall. That is one reason garage conversions are often more attractive than additions that remove yard area or require new site circulation. Even so, the answer can depend on how the project is classified and what rules apply to the property. The safest approach is to confirm the zoning and permit pathway early instead of assuming every garage conversion is treated the same way. If the garage is attached, detached, part of a nonconforming configuration, or located in a special district, the review may be more nuanced. Homeowners should also think beyond code compliance and consider livability: losing enclosed parking changes storage, weather protection, and resale perceptions. In some homes, adding a driveway redesign, carport, or storage solution can offset the loss of garage function without complicating the conversion itself. The main planning mistake is designing the interior first and leaving parking implications for last.",
+      "@type": "Answer",
+      "description": "In many Los Angeles-area garage conversions, replacement parking is not required when a garage is legally converted to habitable space. However, site conditions, local zoning, and project type still matter, so the property should be checked before design begins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking replacement is one of the most common homeowner concerns, especially in dense neighborhoods like North Hollywood, Glendale, Pasadena, and Burbank. For many garage-to-living-space projects, the converted garage does not need to be replaced with a new parking stall. That is one reason garage conversions are often more attractive than additions that remove yard area or require new site circulation. Even so, the answer can depend on how the project is classified and what rules apply to the property. The safest approach is to confirm the zoning and permit pathway early instead of assuming every garage conversion is treated the same way. If the garage is attached, detached, part of a nonconforming configuration, or located in a special district, the review may be more nuanced. Homeowners should also think beyond code compliance and consider livability: losing enclosed parking changes storage, weather protection, and resale perceptions. In some homes, adding a driveway redesign, carport, or storage solution can offset the loss of garage function without complicating the conversion itself. The main planning mistake is designing the interior first and leaving parking implications for last.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In many Los Angeles-area garage conversions, replacement parking is not required when a garage is legally converted to habitable space. However, site conditions"
+}

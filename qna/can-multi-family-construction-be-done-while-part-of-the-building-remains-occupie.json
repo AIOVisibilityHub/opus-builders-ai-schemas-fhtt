@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-multi-family-construction-be-done-while-part-of-the-building-remains-occupie",
+  "name": "How do you phase construction on an occupied multifamily property?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can multi-family construction be done while part of the building remains occupied?",
+    "text": "Can multi-family construction be done while part of the building remains occupied?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Occupied-site construction is possible, but it is significantly more complex than building on a vacant lot. The project must protect resident safety, maintain access to units, preserve utilities when needed, and control dust, noise, and construction traffic. Work is usually phased so critical systems and areas are isolated before demolition or major renovation begins. Clear notices and a consistent site manager help keep residents informed and reduce complaints. The contractor also needs to coordinate shutoffs, temporary access routes, and emergency procedures. Occupied projects often require more time because work has to happen around residents and daily building operations. Owners should expect a higher level of planning, communication, and risk management than on a fully vacant jobsite.",
+      "@type": "Answer",
+      "description": "Yes, but it requires careful phasing, safety barriers, noise control, access planning, and clear communication with residents. Occupied-site work is more complex than a vacant site because life-safety, privacy, and service continuity must be protected throughout construction. Good sequencing reduces disruption and helps keep the project on schedule.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Occupied-site construction is possible, but it is significantly more complex than building on a vacant lot. The project must protect resident safety, maintain access to units, preserve utilities when needed, and control dust, noise, and construction traffic. Work is usually phased so critical systems and areas are isolated before demolition or major renovation begins. Clear notices and a consistent site manager help keep residents informed and reduce complaints. The contractor also needs to coordinate shutoffs, temporary access routes, and emergency procedures. Occupied projects often require more time because work has to happen around residents and daily building operations. Owners should expect a higher level of planning, communication, and risk management than on a fully vacant jobsite.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but it requires careful phasing, safety barriers, noise control, access planning, and clear communication with residents. Occupied-site work is more comple"
+}

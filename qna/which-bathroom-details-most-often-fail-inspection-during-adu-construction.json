@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-bathroom-details-most-often-fail-inspection-during-adu-construction",
+  "name": "What are the most common ADU bathroom inspection issues?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which bathroom details most often fail inspection during ADU construction?",
+    "text": "Which bathroom details most often fail inspection during ADU construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most common ADU bathroom inspection issues usually involve plumbing rough-in, venting, waterproofing, and clearance problems. A fixture may be set slightly off from the approved plan, a vent may be routed incorrectly, or waterproofing details may not be ready when the inspector arrives. In some cases, the bathroom fails because the contractor made a field change without updating the plan. These issues are frustrating because they often delay the next trade from starting. To reduce the risk of failed inspections, the contractor should confirm that the rough plumbing matches the drawings, that waterproofing is complete before tile, and that all required clearances are maintained. Keeping the design simple also helps. In ADU work, inspection problems are often a sign that the bathroom was not fully coordinated during design. A good build team should catch those issues before the inspector does.",
+      "@type": "Answer",
+      "description": "The most common inspection problems are incomplete plumbing rough-in, poor venting, missing fireblocking, inadequate waterproofing, and fixture clearances that do not match the approved plans. Inspection problems are usually avoidable when the bathroom layout is coordinated early and field changes are kept minimal.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most common ADU bathroom inspection issues usually involve plumbing rough-in, venting, waterproofing, and clearance problems. A fixture may be set slightly off from the approved plan, a vent may be routed incorrectly, or waterproofing details may not be ready when the inspector arrives. In some cases, the bathroom fails because the contractor made a field change without updating the plan. These issues are frustrating because they often delay the next trade from starting. To reduce the risk of failed inspections, the contractor should confirm that the rough plumbing matches the drawings, that waterproofing is complete before tile, and that all required clearances are maintained. Keeping the design simple also helps. In ADU work, inspection problems are often a sign that the bathroom was not fully coordinated during design. A good build team should catch those issues before the inspector does.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common inspection problems are incomplete plumbing rough-in, poor venting, missing fireblocking, inadequate waterproofing, and fixture clearances that "
+}

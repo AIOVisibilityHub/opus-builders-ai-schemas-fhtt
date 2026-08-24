@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-changes-usually-cause-budget-overruns-on-multi-family-projects",
+  "name": "What are the most common change orders in apartment construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What changes usually cause budget overruns on multi-family projects?",
+    "text": "What changes usually cause budget overruns on multi-family projects?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders usually come from incomplete scope, unexpected site conditions, or late design decisions. In multi-family construction, a small change can multiply across many units, so even minor revisions may have a large cost impact. Common triggers include upgraded finishes, fixture substitutions, layout changes, utility relocations, code-driven modifications, and hidden conditions found during demolition or excavation. In Los Angeles, plan-check revisions and inspection corrections can also lead to extra work. The best way to control change orders is to make design decisions early, define allowances clearly, and review constructability before bidding. Owners should also understand which items are fixed-price and which remain provisional so the budget stays realistic.",
+      "@type": "Answer",
+      "description": "Common change orders come from design revisions, site conditions, utility conflicts, owner finish upgrades, code-related changes, and hidden structural or mechanical issues. On multi-family projects, late decisions are especially expensive because they affect many units at once. The earlier the scope is finalized, the fewer budget surprises usually occur.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders usually come from incomplete scope, unexpected site conditions, or late design decisions. In multi-family construction, a small change can multiply across many units, so even minor revisions may have a large cost impact. Common triggers include upgraded finishes, fixture substitutions, layout changes, utility relocations, code-driven modifications, and hidden conditions found during demolition or excavation. In Los Angeles, plan-check revisions and inspection corrections can also lead to extra work. The best way to control change orders is to make design decisions early, define allowances clearly, and review constructability before bidding. Owners should also understand which items are fixed-price and which remain provisional so the budget stays realistic.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common change orders come from design revisions, site conditions, utility conflicts, owner finish upgrades, code-related changes, and hidden structural or mecha"
+}

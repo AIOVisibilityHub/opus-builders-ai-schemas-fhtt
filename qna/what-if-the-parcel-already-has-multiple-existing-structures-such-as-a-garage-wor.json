@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-the-parcel-already-has-multiple-existing-structures-such-as-a-garage-wor",
+  "name": "What if there are multiple existing structures on the lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if the parcel already has multiple existing structures, such as a garage, workshop, or pool house, before adding an ADU?",
+    "text": "What if the parcel already has multiple existing structures, such as a garage, workshop, or pool house, before adding an ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot with several existing structures can still support an ADU, but the coordination process becomes more complex. The design has to account for how the new unit relates to every existing building, including the garage, workshop, pool house, and any accessory structures. Key issues include building separation, access paths, fire safety considerations, and whether the new footprint fits without overcrowding the site. The more structures that already exist, the more important an accurate site survey becomes. It may reveal that one configuration works cleanly while another creates conflicts with setbacks or circulation. The best approach is to test the whole site, not just the empty patch where the owner wants the ADU.",
+      "@type": "Answer",
+      "description": "Multiple existing structures can make ADU siting more difficult because separation, setbacks, access, and lot coverage all interact. The site should be mapped carefully before choosing the new ADU location.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot with several existing structures can still support an ADU, but the coordination process becomes more complex. The design has to account for how the new unit relates to every existing building, including the garage, workshop, pool house, and any accessory structures. Key issues include building separation, access paths, fire safety considerations, and whether the new footprint fits without overcrowding the site. The more structures that already exist, the more important an accurate site survey becomes. It may reveal that one configuration works cleanly while another creates conflicts with setbacks or circulation. The best approach is to test the whole site, not just the empty patch where the owner wants the ADU.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Multiple existing structures can make ADU siting more difficult because separation, setbacks, access, and lot coverage all interact. The site should be mapped c"
+}

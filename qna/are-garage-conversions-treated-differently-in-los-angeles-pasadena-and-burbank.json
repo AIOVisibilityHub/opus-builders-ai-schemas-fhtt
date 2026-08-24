@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-garage-conversions-treated-differently-in-los-angeles-pasadena-and-burbank",
+  "name": "How do Los Angeles and Pasadena garage conversion rules differ?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are garage conversions treated differently in Los Angeles, Pasadena, and Burbank?",
+    "text": "Are garage conversions treated differently in Los Angeles, Pasadena, and Burbank?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Even though California’s ADU rules create a broad statewide framework, each city still handles administration differently. That means a garage conversion can be relatively straightforward in one jurisdiction and more document-heavy in another. The owner may encounter different plan check processes, local design standards, historic overlay concerns, or neighborhood-specific limitations. Pasadena, Burbank, Glendale, and Los Angeles all have their own permit culture, which affects how quickly plans move and what details reviewers focus on. That is why a one-size-fits-all answer is not enough for a real project. The practical question is not just whether a conversion is allowed, but how the city expects the project to be documented and built. Homeowners should compare permit process, not just eligibility. A team with local experience can often spot city-specific issues early and avoid back-and-forth with reviewers. For multi-city service areas, the best page answers the broad rule and then explains local differences clearly.",
+      "@type": "Answer",
+      "description": "Yes, the overall ADU framework is similar, but each city can differ in permit workflow, local overlays, historic review, parking interpretation, and site-specific documentation. A project that is straightforward in one city can require extra steps in another.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Even though California’s ADU rules create a broad statewide framework, each city still handles administration differently. That means a garage conversion can be relatively straightforward in one jurisdiction and more document-heavy in another. The owner may encounter different plan check processes, local design standards, historic overlay concerns, or neighborhood-specific limitations. Pasadena, Burbank, Glendale, and Los Angeles all have their own permit culture, which affects how quickly plans move and what details reviewers focus on. That is why a one-size-fits-all answer is not enough for a real project. The practical question is not just whether a conversion is allowed, but how the city expects the project to be documented and built. Homeowners should compare permit process, not just eligibility. A team with local experience can often spot city-specific issues early and avoid back-and-forth with reviewers. For multi-city service areas, the best page answers the broad rule and then explains local differences clearly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, the overall ADU framework is similar, but each city can differ in permit workflow, local overlays, historic review, parking interpretation, and site-specif"
+}

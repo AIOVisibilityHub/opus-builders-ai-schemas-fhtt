@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-permits-are-typically-required-for-a-small-multi-family-building-in-glendal",
+  "name": "What permits are needed for a small apartment building in Glendale or Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What permits are typically required for a small multi-family building in Glendale or Pasadena?",
+    "text": "What permits are typically required for a small multi-family building in Glendale or Pasadena?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most small multi-family projects need more than one permit package. Typical approvals include planning or design review, building plan check, structural review, and trade permits for plumbing, mechanical, and electrical work. If the site needs excavation, retaining walls, shoring, or drainage changes, those items can trigger separate review. Glendale and Pasadena also tend to pay close attention to site access, fire protection, setbacks, parking, and neighborhood compatibility. If the project involves demolition or work near the public right-of-way, additional permits may be needed. The best first step is a site-specific entitlement and permitting review before finalizing drawings. That helps identify whether the project is by-right, requires discretionary review, or needs design modifications to fit local standards. Early coordination can prevent expensive redesign later.",
+      "@type": "Answer",
+      "description": "A small apartment building usually needs planning approval, building permits, structural review, grading or retaining wall permits if needed, fire department review, and utility-related approvals. Depending on the site, additional permits may be required for demolition, tree protection, encroachment, or sidewalk work. The exact permit list changes with zoning, height, density, and existing site conditions.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most small multi-family projects need more than one permit package. Typical approvals include planning or design review, building plan check, structural review, and trade permits for plumbing, mechanical, and electrical work. If the site needs excavation, retaining walls, shoring, or drainage changes, those items can trigger separate review. Glendale and Pasadena also tend to pay close attention to site access, fire protection, setbacks, parking, and neighborhood compatibility. If the project involves demolition or work near the public right-of-way, additional permits may be needed. The best first step is a site-specific entitlement and permitting review before finalizing drawings. That helps identify whether the project is by-right, requires discretionary review, or needs design modifications to fit local standards. Early coordination can prevent expensive redesign later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A small apartment building usually needs planning approval, building permits, structural review, grading or retaining wall permits if needed, fire department re"
+}

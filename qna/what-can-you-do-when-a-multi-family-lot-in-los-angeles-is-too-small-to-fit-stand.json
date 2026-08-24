@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-can-you-do-when-a-multi-family-lot-in-los-angeles-is-too-small-to-fit-stand",
+  "name": "What if the project needs parking but the lot is too small?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What can you do when a multi-family lot in Los Angeles is too small to fit standard parking requirements?",
+    "text": "What can you do when a multi-family lot in Los Angeles is too small to fit standard parking requirements?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking is one of the most common feasibility issues on small Los Angeles-area lots. When the site is too constrained for standard parking, the project may still work with a different layout, fewer units, compact spaces, stackers, or a podium design that uses the site more efficiently. Some properties can also benefit from local code allowances or alternative parking strategies, depending on zoning and use. The key is to solve parking early, because it directly affects building footprint, circulation, foundation design, and cost. If parking is forced into the plan too late, the project can end up with awkward unit layouts or expensive redesign. A pre-development review should test parking options alongside unit count and building massing so the owner can compare viable scenarios before committing to construction documents.",
+      "@type": "Answer",
+      "description": "If the lot cannot fit standard parking, the project may need a different building type, reduced unit count, compact or mechanical parking, shared parking, or a design strategy that fits local rules. Parking is often the constraint that determines whether a project works at all. Early feasibility review is essential before spending on full plans.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking is one of the most common feasibility issues on small Los Angeles-area lots. When the site is too constrained for standard parking, the project may still work with a different layout, fewer units, compact spaces, stackers, or a podium design that uses the site more efficiently. Some properties can also benefit from local code allowances or alternative parking strategies, depending on zoning and use. The key is to solve parking early, because it directly affects building footprint, circulation, foundation design, and cost. If parking is forced into the plan too late, the project can end up with awkward unit layouts or expensive redesign. A pre-development review should test parking options alongside unit count and building massing so the owner can compare viable scenarios before committing to construction documents.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the lot cannot fit standard parking, the project may need a different building type, reduced unit count, compact or mechanical parking, shared parking, or a "
+}

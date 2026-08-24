@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-plumbing-systems-usually-have-to-be-planned-for-an-adu-bathroom-before-perm",
+  "name": "What plumbing is required for an ADU bathroom in Los Angeles County?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What plumbing systems usually have to be planned for an ADU bathroom before permit approval?",
+    "text": "What plumbing systems usually have to be planned for an ADU bathroom before permit approval?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An ADU bathroom requires more than just fixture placement on a floor plan. The plumbing design usually has to show water supply lines, drain and waste lines, venting, the toilet connection, the lavatory, and the shower or tub. The project also needs a clear route to the sewer connection and enough slope for drainage. If the bathroom is being added to an existing structure, the design may also need to show how the new plumbing ties into the current system without creating backflow or venting problems. Electrical and lighting details matter too because bathrooms need their own circuits and proper lighting. For Los Angeles-area permits, it is smart to coordinate plumbing early because the bathroom layout can affect structural work, slab cuts, and utility planning. Contractors should be able to explain where the main waste line runs, where the vent stack goes, and whether any fixtures are being moved far enough to change the slope or framing. If those answers are unclear, the plan is probably not fully coordinated yet.",
+      "@type": "Answer",
+      "description": "An ADU bathroom usually needs supply lines, drain lines, venting, a toilet connection, sink plumbing, shower or tub plumbing, and an approved sewer tie-in route. Many projects also need a bathroom circuit, lighting, and coordinated mechanical planning. The exact layout should be shown on the permit drawings before work starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An ADU bathroom requires more than just fixture placement on a floor plan. The plumbing design usually has to show water supply lines, drain and waste lines, venting, the toilet connection, the lavatory, and the shower or tub. The project also needs a clear route to the sewer connection and enough slope for drainage. If the bathroom is being added to an existing structure, the design may also need to show how the new plumbing ties into the current system without creating backflow or venting problems. Electrical and lighting details matter too because bathrooms need their own circuits and proper lighting. For Los Angeles-area permits, it is smart to coordinate plumbing early because the bathroom layout can affect structural work, slab cuts, and utility planning. Contractors should be able to explain where the main waste line runs, where the vent stack goes, and whether any fixtures are being moved far enough to change the slope or framing. If those answers are unclear, the plan is probably not fully coordinated yet.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An ADU bathroom usually needs supply lines, drain lines, venting, a toilet connection, sink plumbing, shower or tub plumbing, and an approved sewer tie-in route"
+}

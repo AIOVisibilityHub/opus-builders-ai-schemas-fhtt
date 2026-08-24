@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-know-if-my-lot-is-actually-suitable-for-an-adu-layout-in-los-angeles-or",
+  "name": "How do I know if my lot is actually suitable for an ADU layout?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I know if my lot is actually suitable for an ADU layout in Los Angeles or Glendale before I hire a designer?",
+    "text": "How do I know if my lot is actually suitable for an ADU layout in Los Angeles or Glendale before I hire a designer?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring a designer, confirm whether the lot can physically and legally support an ADU footprint. A good early feasibility review looks at setbacks, easements, slope, lot coverage, driveway access, utility routing, and where grading or retaining walls may be needed. In hillside or tightly packed neighborhoods, the ADU may be possible but only in a smaller or more customized form. A site survey is often the most useful starting document because it shows the real property lines, existing structures, trees, and grades. From there, a designer can test different options: detached backyard unit, attached addition, garage conversion, or two-story ADU. The right answer is not just whether an ADU is allowed, but whether it can be built efficiently without creating expensive sitework or code conflicts. Homeowners should also ask whether the layout will preserve privacy, usable outdoor space, and future resale value.",
+      "@type": "Answer",
+      "description": "A lot is suitable for an ADU when it has enough buildable area, required setbacks, legal access, and room for utilities, drainage, and fire separation. The fastest first check is a site survey plus zoning review to confirm easements, slope, lot coverage, and whether a detached, attached, or garage conversion layout fits the property.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring a designer, confirm whether the lot can physically and legally support an ADU footprint. A good early feasibility review looks at setbacks, easements, slope, lot coverage, driveway access, utility routing, and where grading or retaining walls may be needed. In hillside or tightly packed neighborhoods, the ADU may be possible but only in a smaller or more customized form. A site survey is often the most useful starting document because it shows the real property lines, existing structures, trees, and grades. From there, a designer can test different options: detached backyard unit, attached addition, garage conversion, or two-story ADU. The right answer is not just whether an ADU is allowed, but whether it can be built efficiently without creating expensive sitework or code conflicts. Homeowners should also ask whether the layout will preserve privacy, usable outdoor space, and future resale value.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A lot is suitable for an ADU when it has enough buildable area, required setbacks, legal access, and room for utilities, drainage, and fire separation. The fast"
+}

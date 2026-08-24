@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-an-adu-property-in-pasadena-glendale-or-los-angeles-is-in-a-historic-dis",
+  "name": "What if the property is in a historic district or has a historic home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if an ADU property in Pasadena, Glendale, or Los Angeles is in a historic district or has a designated historic home?",
+    "text": "What if an ADU property in Pasadena, Glendale, or Los Angeles is in a historic district or has a designated historic home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Historic properties are one of the most common reasons an otherwise straightforward ADU becomes more complicated. Even when an ADU is permitted by zoning, a historic district or individually designated historic property may require an additional design review process, stricter exterior treatment, or limits on visibility from the street. Pasadena explicitly separates historic ADU questions from standard zoning questions, which shows how important it is to identify historic status early. Glendale and Los Angeles may also have special constraints depending on the property’s location and designation. The safest approach is to verify historic status before completing the site plan, because window placement, roof form, exterior materials, and visibility from public rights-of-way may all matter. If the property has historic constraints, zoning coordination should be treated as both a compliance and design exercise so the project does not stall later in the process.",
+      "@type": "Answer",
+      "description": "Historic properties can trigger extra review even when ADUs are otherwise allowed. Pasadena specifically routes historic district and individually designated historic property questions to a separate historic preservation contact, which means zoning coordination should include historic review from the start.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Historic properties are one of the most common reasons an otherwise straightforward ADU becomes more complicated. Even when an ADU is permitted by zoning, a historic district or individually designated historic property may require an additional design review process, stricter exterior treatment, or limits on visibility from the street. Pasadena explicitly separates historic ADU questions from standard zoning questions, which shows how important it is to identify historic status early. Glendale and Los Angeles may also have special constraints depending on the property’s location and designation. The safest approach is to verify historic status before completing the site plan, because window placement, roof form, exterior materials, and visibility from public rights-of-way may all matter. If the property has historic constraints, zoning coordination should be treated as both a compliance and design exercise so the project does not stall later in the process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Historic properties can trigger extra review even when ADUs are otherwise allowed. Pasadena specifically routes historic district and individually designated hi"
+}

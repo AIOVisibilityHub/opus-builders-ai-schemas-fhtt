@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-neighborhood-conditions-in-areas-like-north-hollywood-sherman-oaks-or-pas",
+  "name": "How do neighborhood conditions influence ADU coordination?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do neighborhood conditions in areas like North Hollywood, Sherman Oaks, or Pasadena affect ADU zoning coordination?",
+    "text": "How do neighborhood conditions in areas like North Hollywood, Sherman Oaks, or Pasadena affect ADU zoning coordination?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Neighborhood context matters because citywide ADU rules are only part of the picture. A parcel in North Hollywood, Sherman Oaks, or Pasadena may have different lot patterns, access conditions, slopes, mature trees, or overlay rules that change the design strategy. Even when the base zoning is similar, the actual buildable envelope can be very different from one street to the next. That is why a city name alone is not enough for coordination. The parcel should be checked for site-specific constraints, then the design should respond to those conditions instead of assuming a standard template will work. This is especially important in older neighborhoods where lot configuration and existing development patterns are less uniform.",
+      "@type": "Answer",
+      "description": "Neighborhood conditions can influence access, privacy, lot shape, and the presence of overlays or special rules. Two parcels in the same city can have very different ADU outcomes because of site-specific conditions.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Neighborhood context matters because citywide ADU rules are only part of the picture. A parcel in North Hollywood, Sherman Oaks, or Pasadena may have different lot patterns, access conditions, slopes, mature trees, or overlay rules that change the design strategy. Even when the base zoning is similar, the actual buildable envelope can be very different from one street to the next. That is why a city name alone is not enough for coordination. The parcel should be checked for site-specific constraints, then the design should respond to those conditions instead of assuming a standard template will work. This is especially important in older neighborhoods where lot configuration and existing development patterns are less uniform.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Neighborhood conditions can influence access, privacy, lot shape, and the presence of overlays or special rules. Two parcels in the same city can have very diff"
+}

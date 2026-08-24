@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-narrow-lot-in-north-hollywood-support-a-multi-family-building-or-does-the",
+  "name": "Can you build multi-family housing on a narrow lot in North Hollywood?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a narrow lot in North Hollywood support a multi-family building, or does the site usually need to be widened?",
+    "text": "Can a narrow lot in North Hollywood support a multi-family building, or does the site usually need to be widened?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A narrow lot can still be developable, but the design has to work around circulation, parking, setbacks, and emergency access. In North Hollywood, the real question is not only whether the lot is buildable, but whether it can fit a code-compliant layout that still performs well financially. Tight sites often require careful planning of stairs, elevators, trash, utility rooms, and parking ramps or stackers. Construction access is another issue because material deliveries, equipment placement, and staging can be difficult on constrained parcels. A feasibility study should check the lot dimensions against local zoning, fire access needs, and the building footprint before any major design money is spent. If the site is especially narrow, a smaller unit count or a different parking strategy may be more efficient than forcing a larger building that creates expensive compromises.",
+      "@type": "Answer",
+      "description": "Yes, a narrow lot can sometimes support multi-family construction if zoning, setbacks, parking rules, fire access, and building code requirements can be met. The main constraints are circulation, light and air, and construction access. On very tight lots, design efficiency and early feasibility review are critical because parking and stair placement can determine whether the project works.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A narrow lot can still be developable, but the design has to work around circulation, parking, setbacks, and emergency access. In North Hollywood, the real question is not only whether the lot is buildable, but whether it can fit a code-compliant layout that still performs well financially. Tight sites often require careful planning of stairs, elevators, trash, utility rooms, and parking ramps or stackers. Construction access is another issue because material deliveries, equipment placement, and staging can be difficult on constrained parcels. A feasibility study should check the lot dimensions against local zoning, fire access needs, and the building footprint before any major design money is spent. If the site is especially narrow, a smaller unit count or a different parking strategy may be more efficient than forcing a larger building that creates expensive compromises.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a narrow lot can sometimes support multi-family construction if zoning, setbacks, parking rules, fire access, and building code requirements can be met. Th"
+}

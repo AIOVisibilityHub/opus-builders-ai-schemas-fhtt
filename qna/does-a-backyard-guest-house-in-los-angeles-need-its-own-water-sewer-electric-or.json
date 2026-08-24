@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-a-backyard-guest-house-in-los-angeles-need-its-own-water-sewer-electric-or",
+  "name": "Do backyard guest houses need separate utility hookups?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does a backyard guest house in Los Angeles need its own water, sewer, electric, or gas service?",
+    "text": "Does a backyard guest house in Los Angeles need its own water, sewer, electric, or gas service?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility strategy depends on the size and use of the structure. Some backyard guest houses connect to the main home’s existing systems, while others require new or upgraded service due to load, distance, or design requirements. Even when separate meters are not used, the lines still need to be properly sized and routed. The farther the unit sits from the main house, the more important this becomes. Homeowners should address utility planning early because it affects trenching, foundation work, panel capacity, and equipment selection. A clean utility plan can make the project more efficient, while a poorly thought-out one can create budget overruns and schedule delays.",
+      "@type": "Answer",
+      "description": "Not always, but utilities must be planned carefully. Some projects tie into the main house, while others need upgraded service or separate runs depending on size, code requirements, and site layout. Utility design is often one of the biggest drivers of cost and construction complexity.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility strategy depends on the size and use of the structure. Some backyard guest houses connect to the main home’s existing systems, while others require new or upgraded service due to load, distance, or design requirements. Even when separate meters are not used, the lines still need to be properly sized and routed. The farther the unit sits from the main house, the more important this becomes. Homeowners should address utility planning early because it affects trenching, foundation work, panel capacity, and equipment selection. A clean utility plan can make the project more efficient, while a poorly thought-out one can create budget overruns and schedule delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Not always, but utilities must be planned carefully. Some projects tie into the main house, while others need upgraded service or separate runs depending on siz"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-building-a-new-duplex-and-converting-an-existing",
+  "name": "What is the difference between duplex construction and duplex conversion?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between building a new duplex and converting an existing house into a duplex?",
+    "text": "What is the difference between building a new duplex and converting an existing house into a duplex?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A duplex conversion starts with an existing house and changes it into two approved dwelling units, often by reworking walls, utilities, kitchens, bathrooms, exits, and fire-rated assemblies. A new duplex is designed from scratch, which gives more flexibility for layout, parking, privacy, and unit sizes, but it usually involves higher soft costs and a longer entitlement and build timeline. Conversions can be attractive when the structure is large enough and the zoning supports two units, but hidden issues such as outdated framing, undersized sewer lines, or missing separate metering can add cost quickly. New construction is often better when the lot is underbuilt, the existing house is obsolete, or the goal is a higher-end rental or resale product. The right choice depends on the condition of the existing building, code compliance, and the property’s development potential. A feasibility study should compare both options before committing to design.",
+      "@type": "Answer",
+      "description": "A new duplex is ground-up construction of two dwelling units on a lot, while a conversion adapts an existing structure into two legal units. Conversion usually depends on the current floor plan, fire separation, structural changes, and whether zoning allows two units on that site. New construction offers more design freedom but usually costs more and takes longer.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A duplex conversion starts with an existing house and changes it into two approved dwelling units, often by reworking walls, utilities, kitchens, bathrooms, exits, and fire-rated assemblies. A new duplex is designed from scratch, which gives more flexibility for layout, parking, privacy, and unit sizes, but it usually involves higher soft costs and a longer entitlement and build timeline. Conversions can be attractive when the structure is large enough and the zoning supports two units, but hidden issues such as outdated framing, undersized sewer lines, or missing separate metering can add cost quickly. New construction is often better when the lot is underbuilt, the existing house is obsolete, or the goal is a higher-end rental or resale product. The right choice depends on the condition of the existing building, code compliance, and the property’s development potential. A feasibility study should compare both options before committing to design.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A new duplex is ground-up construction of two dwelling units on a lot, while a conversion adapts an existing structure into two legal units. Conversion usually "
+}

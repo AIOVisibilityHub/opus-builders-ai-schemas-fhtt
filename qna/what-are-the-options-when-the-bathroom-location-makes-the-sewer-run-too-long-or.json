@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-the-options-when-the-bathroom-location-makes-the-sewer-run-too-long-or",
+  "name": "What happens if the ADU bathroom is too far from the sewer line?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are the options when the bathroom location makes the sewer run too long or too difficult?",
+    "text": "What are the options when the bathroom location makes the sewer run too long or too difficult?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the bathroom is too far from the sewer line, the contractor usually has to choose between changing the layout, creating a new drain route, or revising the floor structure to achieve proper slope. Long sewer runs are expensive because they may require trenching, concrete cutting, deeper excavation, or extra framing work. They also create more inspection and coordination challenges. In many ADU projects, the smartest solution is not to force a distant bathroom to work, but to move the bath closer to the plumbing core and redesign the rest of the unit around it. If the layout cannot change much, the team should study whether a raised floor section, soffit, or alternative venting strategy can solve the issue without major demolition. The important thing is to identify the problem before finishes are ordered or framing is complete. Once the bathroom is built in the wrong place, the cost of fixing it can escalate quickly.",
+      "@type": "Answer",
+      "description": "If the bathroom is too far from the sewer line, the project may need a new drain route, a different bathroom location, a raised floor section, or in some cases a plumbing redesign. Long sewer runs increase cost, risk, and inspection complexity, so the plan should be adjusted before construction begins.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the bathroom is too far from the sewer line, the contractor usually has to choose between changing the layout, creating a new drain route, or revising the floor structure to achieve proper slope. Long sewer runs are expensive because they may require trenching, concrete cutting, deeper excavation, or extra framing work. They also create more inspection and coordination challenges. In many ADU projects, the smartest solution is not to force a distant bathroom to work, but to move the bath closer to the plumbing core and redesign the rest of the unit around it. If the layout cannot change much, the team should study whether a raised floor section, soffit, or alternative venting strategy can solve the issue without major demolition. The important thing is to identify the problem before finishes are ordered or framing is complete. Once the bathroom is built in the wrong place, the cost of fixing it can escalate quickly.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the bathroom is too far from the sewer line, the project may need a new drain route, a different bathroom location, a raised floor section, or in some cases "
+}

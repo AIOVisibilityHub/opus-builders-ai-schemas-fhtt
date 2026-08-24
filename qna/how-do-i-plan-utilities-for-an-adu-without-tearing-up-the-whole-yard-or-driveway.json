@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-i-plan-utilities-for-an-adu-without-tearing-up-the-whole-yard-or-driveway",
+  "name": "How do I plan utilities for an ADU without tearing up the whole yard?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do I plan utilities for an ADU without tearing up the whole yard or driveway?",
+    "text": "How do I plan utilities for an ADU without tearing up the whole yard or driveway?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utility planning is one of the biggest hidden cost drivers in ADU projects. The best way to limit site disruption is to locate the ADU near existing service lines and stack plumbing fixtures on the side of the unit closest to the main utilities. That reduces trench length, limits driveway demolition, and can lower restoration costs. Designers should coordinate early with the contractor and utility providers to understand where lines enter the property and whether new panels, subpanels, or separate meters are needed. Drainage should also be planned at the same time, because regrading or trenching after the fact is expensive. Homeowners should not treat utilities as a later construction detail. Good utility routing is a design decision that affects cost, schedule, and how much of the yard must be disturbed.",
+      "@type": "Answer",
+      "description": "Utilities should be routed during the design phase so water, sewer, power, and drainage can take the shortest practical path with the least site disruption. The most efficient plans place mechanical and plumbing walls close to existing service runs and avoid unnecessary trenching.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utility planning is one of the biggest hidden cost drivers in ADU projects. The best way to limit site disruption is to locate the ADU near existing service lines and stack plumbing fixtures on the side of the unit closest to the main utilities. That reduces trench length, limits driveway demolition, and can lower restoration costs. Designers should coordinate early with the contractor and utility providers to understand where lines enter the property and whether new panels, subpanels, or separate meters are needed. Drainage should also be planned at the same time, because regrading or trenching after the fact is expensive. Homeowners should not treat utilities as a later construction detail. Good utility routing is a design decision that affects cost, schedule, and how much of the yard must be disturbed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utilities should be routed during the design phase so water, sewer, power, and drainage can take the shortest practical path with the least site disruption. The"
+}

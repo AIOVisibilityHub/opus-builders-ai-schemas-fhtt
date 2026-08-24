@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-the-owner-wants-an-adu-for-rental-income-but-also-wants-maximum-privacy",
+  "name": "What if the ADU is for a rental but the owner wants privacy?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if the owner wants an ADU for rental income but also wants maximum privacy from the main house in North Hollywood or Pasadena?",
+    "text": "What if the owner wants an ADU for rental income but also wants maximum privacy from the main house in North Hollywood or Pasadena?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Privacy is not just a design preference; it is often a zoning-driven site-planning issue. The position of the ADU, the placement of windows and doors, fence lines, and the location of outdoor areas all affect how private the unit feels. On tighter lots, privacy goals may compete with setback rules and access requirements, so zoning coordination should explore building placement options before the plan is finalized. The most successful projects usually use smart orientation, screened openings, and thoughtful separation between entries rather than trying to solve privacy after construction. If the owner wants both rental value and privacy, that should be stated early so the design team can balance those goals with the city’s objective standards.",
+      "@type": "Answer",
+      "description": "Privacy is mainly a site-planning issue, but it is shaped by zoning limits on placement, windows, setbacks, and access. A good design can improve privacy without violating objective rules.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Privacy is not just a design preference; it is often a zoning-driven site-planning issue. The position of the ADU, the placement of windows and doors, fence lines, and the location of outdoor areas all affect how private the unit feels. On tighter lots, privacy goals may compete with setback rules and access requirements, so zoning coordination should explore building placement options before the plan is finalized. The most successful projects usually use smart orientation, screened openings, and thoughtful separation between entries rather than trying to solve privacy after construction. If the owner wants both rental value and privacy, that should be stated early so the design team can balance those goals with the city’s objective standards.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Privacy is mainly a site-planning issue, but it is shaped by zoning limits on placement, windows, setbacks, and access. A good design can improve privacy withou"
+}

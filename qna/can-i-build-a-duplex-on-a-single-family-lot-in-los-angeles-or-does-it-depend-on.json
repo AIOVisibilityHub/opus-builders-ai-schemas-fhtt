@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-build-a-duplex-on-a-single-family-lot-in-los-angeles-or-does-it-depend-on",
+  "name": "Can I build a duplex on my single-family lot in Los Angeles right now?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I build a duplex on a single-family lot in Los Angeles, or does it depend on zoning and recent local restrictions?",
+    "text": "Can I build a duplex on a single-family lot in Los Angeles, or does it depend on zoning and recent local restrictions?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The first question is always whether the parcel is eligible, because duplex rules in Los Angeles-area cities vary by zoning district, lot size, existing use, and any special overlays. In some cases, a property that looks like a standard single-family lot may still qualify for a duplex, while others may only support an ADU or a renovation. Recent policy changes can also affect rebuild areas, hillside parcels, or neighborhoods with additional development controls. The safest next step is a zoning and feasibility review that confirms the base zone, setbacks, lot coverage, height limits, parking requirements, and any local restrictions before spending money on plans. A site survey, title review, and planning pre-check can prevent a design that cannot be approved. Owners should also verify whether demolition, replacement construction, or a lot split is part of the plan, since those paths trigger different rules and timelines.",
+      "@type": "Answer",
+      "description": "Whether you can build a duplex on a single-family lot in Los Angeles depends on zoning, lot conditions, and local overlays or emergency restrictions. Some areas may allow duplexes or lot splits under state housing rules, while others have city-specific limits that change by neighborhood. A parcel check is usually the first step before design or permitting.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The first question is always whether the parcel is eligible, because duplex rules in Los Angeles-area cities vary by zoning district, lot size, existing use, and any special overlays. In some cases, a property that looks like a standard single-family lot may still qualify for a duplex, while others may only support an ADU or a renovation. Recent policy changes can also affect rebuild areas, hillside parcels, or neighborhoods with additional development controls. The safest next step is a zoning and feasibility review that confirms the base zone, setbacks, lot coverage, height limits, parking requirements, and any local restrictions before spending money on plans. A site survey, title review, and planning pre-check can prevent a design that cannot be approved. Owners should also verify whether demolition, replacement construction, or a lot split is part of the plan, since those paths trigger different rules and timelines.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Whether you can build a duplex on a single-family lot in Los Angeles depends on zoning, lot conditions, and local overlays or emergency restrictions. Some areas"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-there-enough-room-for-required-parking-on-a-narrow-lot-if-i-build-a-duplex-in",
+  "name": "Can I fit parking for a duplex on a narrow Los Angeles lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is there enough room for required parking on a narrow lot if I build a duplex in Los Angeles or North Hollywood?",
+    "text": "Is there enough room for required parking on a narrow lot if I build a duplex in Los Angeles or North Hollywood?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking can be the constraint that determines whether a duplex project works at all, especially on narrow urban lots in Los Angeles-area neighborhoods. Even if the lot can fit two units, the design may fail if there is not enough room for a legal driveway, garage depth, circulation, and required maneuvering space. Some sites can use tandem parking or alternative layouts, but the exact solution depends on city rules and the dimensions of the parcel. Parking also interacts with unit layout, because garage placement can affect ground-floor living space, entries, storage, and privacy. On difficult lots, it is smart to test several layouts early: front-loaded garage, side drive, rear garage, or a stacked parking concept if allowed. A site plan should also account for trash access, utilities, and fire department access if relevant. Parking feasibility should be resolved before architectural detailing so the project does not need a major redesign later.",
+      "@type": "Answer",
+      "description": "Parking on narrow lots is often the hardest part of duplex design because access, driveway width, garage depth, and turning movements all compete for space. Some sites can use tandem parking, carports, or reconfigured access, but feasibility depends on zoning and lot layout. Parking should be tested before the floor plan is finalized.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking can be the constraint that determines whether a duplex project works at all, especially on narrow urban lots in Los Angeles-area neighborhoods. Even if the lot can fit two units, the design may fail if there is not enough room for a legal driveway, garage depth, circulation, and required maneuvering space. Some sites can use tandem parking or alternative layouts, but the exact solution depends on city rules and the dimensions of the parcel. Parking also interacts with unit layout, because garage placement can affect ground-floor living space, entries, storage, and privacy. On difficult lots, it is smart to test several layouts early: front-loaded garage, side drive, rear garage, or a stacked parking concept if allowed. A site plan should also account for trash access, utilities, and fire department access if relevant. Parking feasibility should be resolved before architectural detailing so the project does not need a major redesign later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Parking on narrow lots is often the hardest part of duplex design because access, driveway width, garage depth, and turning movements all compete for space. Som"
+}

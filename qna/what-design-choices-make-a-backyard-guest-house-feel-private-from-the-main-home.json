@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-design-choices-make-a-backyard-guest-house-feel-private-from-the-main-home",
+  "name": "How do you add privacy between the main house and guest house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What design choices make a backyard guest house feel private from the main home and neighbors?",
+    "text": "What design choices make a backyard guest house feel private from the main home and neighbors?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Privacy should be designed, not added later. The strongest strategies are thoughtful placement on the lot, careful window orientation, screened outdoor areas, and landscape buffers that interrupt direct views. If the guest house will be used by family, renters, or long-term guests, separate entry paths and distinct patio zones help both buildings feel more comfortable. In dense neighborhoods, privacy also depends on second-floor window placement and how rooflines relate to neighboring yards. A good designer will look at privacy from inside the house and from the backyard approach so the whole property feels balanced. The goal is to make the unit feel independent without creating a boxed-in or closed-off appearance.",
+      "@type": "Answer",
+      "description": "Privacy comes from smart placement, window orientation, landscaping, screens, and separation of outdoor zones. Positioning entrances and glazing away from sightlines is often more effective than simply adding fences. The best results come from planning privacy into the site layout before construction starts.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Privacy should be designed, not added later. The strongest strategies are thoughtful placement on the lot, careful window orientation, screened outdoor areas, and landscape buffers that interrupt direct views. If the guest house will be used by family, renters, or long-term guests, separate entry paths and distinct patio zones help both buildings feel more comfortable. In dense neighborhoods, privacy also depends on second-floor window placement and how rooflines relate to neighboring yards. A good designer will look at privacy from inside the house and from the backyard approach so the whole property feels balanced. The goal is to make the unit feel independent without creating a boxed-in or closed-off appearance.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Privacy comes from smart placement, window orientation, landscaping, screens, and separation of outdoor zones. Positioning entrances and glazing away from sight"
+}

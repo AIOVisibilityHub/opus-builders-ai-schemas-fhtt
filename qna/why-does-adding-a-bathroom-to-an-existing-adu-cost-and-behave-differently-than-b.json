@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-does-adding-a-bathroom-to-an-existing-adu-cost-and-behave-differently-than-b",
+  "name": "What is the difference between an ADU bathroom remodel and a new ADU bathroom build?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why does adding a bathroom to an existing ADU cost and behave differently than building it during new construction?",
+    "text": "Why does adding a bathroom to an existing ADU cost and behave differently than building it during new construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The biggest difference between a remodel and a new ADU bathroom build is flexibility. In new construction, the contractor can choose the bathroom location, size, and plumbing route from the start, which often makes it easier to create an efficient wet wall and reduce labor. In an existing ADU remodel, the team must work around the current structure, which can limit fixture placement and increase demolition. That said, a remodel can be economical if the plumbing is already nearby and the layout is mostly workable. The cost and timeline depend heavily on how much must be opened up behind the walls or under the floor. Homeowners comparing the two should look at how far the fixtures need to move, whether the shower is being relocated, and whether any slab or framing changes are required. New construction usually gives the cleanest result, but a smart remodel can still deliver a high-quality bathroom if the existing infrastructure is cooperative. The decision should be made based on the plumbing path, not just the room dimensions.",
+      "@type": "Answer",
+      "description": "A bathroom remodel inside an existing ADU is usually more limited by the existing walls, floor, and plumbing paths, while a new build lets the contractor place fixtures more freely. New construction often makes it easier to group plumbing, but remodels can be cheaper if existing rough-ins are already close. The main difference is how much can be changed without demolition.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The biggest difference between a remodel and a new ADU bathroom build is flexibility. In new construction, the contractor can choose the bathroom location, size, and plumbing route from the start, which often makes it easier to create an efficient wet wall and reduce labor. In an existing ADU remodel, the team must work around the current structure, which can limit fixture placement and increase demolition. That said, a remodel can be economical if the plumbing is already nearby and the layout is mostly workable. The cost and timeline depend heavily on how much must be opened up behind the walls or under the floor. Homeowners comparing the two should look at how far the fixtures need to move, whether the shower is being relocated, and whether any slab or framing changes are required. New construction usually gives the cleanest result, but a smart remodel can still deliver a high-quality bathroom if the existing infrastructure is cooperative. The decision should be made based on the plumbing path, not just the room dimensions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A bathroom remodel inside an existing ADU is usually more limited by the existing walls, floor, and plumbing paths, while a new build lets the contractor place "
+}

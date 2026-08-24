@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/where-should-the-toilet-be-placed-to-maximize-space-and-reduce-plumbing-cost",
+  "name": "What is the best toilet location in a small ADU bathroom?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Where should the toilet be placed to maximize space and reduce plumbing cost?",
+    "text": "Where should the toilet be placed to maximize space and reduce plumbing cost?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The best toilet location is usually the one that gives the shortest and simplest route to the main drain and vent. In many small ADU bathrooms, placing the toilet on the shared wet wall with the shower and vanity reduces piping complexity and keeps the room more open. A toilet that is too far from the drain or stack can require extra framing, longer pipe runs, and more labor. It can also make the room feel awkward if the door opens directly toward the fixture. When planning the bathroom, the toilet should be checked against clearance requirements, fixture spacing, and the final door swing. It is often better to shift the vanity or shower slightly than to force the toilet into a bad spot. If the project is a garage conversion or detached ADU, the toilet location may be the single most important design decision for controlling cost. Contractors should be able to show the drain path and explain why the chosen location is the most efficient one.",
+      "@type": "Answer",
+      "description": "The best toilet location is usually as close as possible to the main drain line and within a straightforward venting path. In a small ADU bathroom, placing the toilet on the same wall as the shower and vanity can reduce plumbing complexity and free up open floor area. Avoid forcing the toilet into a corner with poor clearance.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The best toilet location is usually the one that gives the shortest and simplest route to the main drain and vent. In many small ADU bathrooms, placing the toilet on the shared wet wall with the shower and vanity reduces piping complexity and keeps the room more open. A toilet that is too far from the drain or stack can require extra framing, longer pipe runs, and more labor. It can also make the room feel awkward if the door opens directly toward the fixture. When planning the bathroom, the toilet should be checked against clearance requirements, fixture spacing, and the final door swing. It is often better to shift the vanity or shower slightly than to force the toilet into a bad spot. If the project is a garage conversion or detached ADU, the toilet location may be the single most important design decision for controlling cost. Contractors should be able to show the drain path and explain why the chosen location is the most efficient one.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best toilet location is usually as close as possible to the main drain line and within a straightforward venting path. In a small ADU bathroom, placing the "
+}

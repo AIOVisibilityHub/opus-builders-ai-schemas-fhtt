@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-the-city-requires-a-smaller-adu-than-the-owner-wanted-after-zoning-revie",
+  "name": "What if the city says the ADU must be smaller than expected?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if the city requires a smaller ADU than the owner wanted after zoning review?",
+    "text": "What if the city requires a smaller ADU than the owner wanted after zoning review?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the city or zoning review shows that the proposed ADU is too large for the site, the most efficient response is usually to scale the unit to fit the parcel rather than fight the constraint. A smaller design can preserve the project’s permitability while reducing redesign risk. In many cases, the change is less about the city limiting ADU size in the abstract and more about the unit fitting within setbacks, access paths, and site geometry. Owners should compare the impact of a reduced footprint against the cost of redesign or delay. Often, a slightly smaller but cleaner layout is more valuable than a larger plan that keeps getting flagged. The key is to make size decisions based on the lot, not just on the wish list.",
+      "@type": "Answer",
+      "description": "If the proposed size does not fit the parcel or local standards, the design may need to shrink to stay compliant. Smaller footprints are often the fastest way to keep the project moving without restarting the entire plan.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the city or zoning review shows that the proposed ADU is too large for the site, the most efficient response is usually to scale the unit to fit the parcel rather than fight the constraint. A smaller design can preserve the project’s permitability while reducing redesign risk. In many cases, the change is less about the city limiting ADU size in the abstract and more about the unit fitting within setbacks, access paths, and site geometry. Owners should compare the impact of a reduced footprint against the cost of redesign or delay. Often, a slightly smaller but cleaner layout is more valuable than a larger plan that keeps getting flagged. The key is to make size decisions based on the lot, not just on the wish list.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the proposed size does not fit the parcel or local standards, the design may need to shrink to stay compliant. Smaller footprints are often the fastest way t"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-close-can-an-adu-be-to-a-side-or-rear-property-line-in-burbank-or-glendale-a",
+  "name": "How close can an ADU be to a property line in Burbank or Glendale?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How close can an ADU be to a side or rear property line in Burbank or Glendale, and what setbacks are commonly missed in coordination?",
+    "text": "How close can an ADU be to a side or rear property line in Burbank or Glendale, and what setbacks are commonly missed in coordination?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Setback errors are one of the easiest ways to derail an ADU submittal. Burbank’s published guidance states a 4-foot rear and side-yard setback for new attached or detached ADUs, including units built on top of garages or accessory structures. Glendale also has city-specific ADU standards, but the exact limits should be confirmed against the property’s zoning and any overlays before drafting. The practical mistake many owners make is assuming the same setback applies everywhere in the region. In reality, the correct answer depends on the city, the zone, and the parcel conditions. A zoning coordinator should verify not just the numeric setback, but also whether eave projections, wall-to-wall separation, and front-yard placement rules affect the concept. That check should happen before structural plans are prepared, because moving a building a few feet later can force a redesign of the entire site plan.",
+      "@type": "Answer",
+      "description": "In Burbank, the cited ADU guidance states a 4-foot rear and side-yard setback for new attached or detached ADUs, including units over garages. Glendale has city-specific objective standards, so the exact setback should be verified for the parcel before design is finalized.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Setback errors are one of the easiest ways to derail an ADU submittal. Burbank’s published guidance states a 4-foot rear and side-yard setback for new attached or detached ADUs, including units built on top of garages or accessory structures. Glendale also has city-specific ADU standards, but the exact limits should be confirmed against the property’s zoning and any overlays before drafting. The practical mistake many owners make is assuming the same setback applies everywhere in the region. In reality, the correct answer depends on the city, the zone, and the parcel conditions. A zoning coordinator should verify not just the numeric setback, but also whether eave projections, wall-to-wall separation, and front-yard placement rules affect the concept. That check should happen before structural plans are prepared, because moving a building a few feet later can force a redesign of the entire site plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In Burbank, the cited ADU guidance states a 4-foot rear and side-yard setback for new attached or detached ADUs, including units over garages. Glendale has city"
+}

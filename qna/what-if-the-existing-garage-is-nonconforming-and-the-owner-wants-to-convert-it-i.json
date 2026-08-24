@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-the-existing-garage-is-nonconforming-and-the-owner-wants-to-convert-it-i",
+  "name": "What if the existing garage is nonconforming?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if the existing garage is nonconforming and the owner wants to convert it into an ADU in Pasadena, Glendale, or Burbank?",
+    "text": "What if the existing garage is nonconforming and the owner wants to convert it into an ADU in Pasadena, Glendale, or Burbank?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A nonconforming garage can complicate an ADU conversion, but it does not automatically end the project. The main issues are whether the structure can be adapted to meet current objective standards, how the conversion affects setbacks and lot coverage, and whether the building can be upgraded structurally and mechanically. Zoning coordination should determine whether the garage’s current location or dimensions create any conflict that would force demolition or relocation. In some cases, a conversion is still the best option because it avoids new footprint issues. In others, the garage’s nonconforming status makes a detached ADU more practical. The right answer depends on both the zoning rules and the existing structure, so the garage should be evaluated before anyone commits to a conversion design.",
+      "@type": "Answer",
+      "description": "A nonconforming garage may still be usable for an ADU conversion, but the project must be checked for code, zoning, and structural issues. The key question is whether the conversion can occur without creating a new compliance problem.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A nonconforming garage can complicate an ADU conversion, but it does not automatically end the project. The main issues are whether the structure can be adapted to meet current objective standards, how the conversion affects setbacks and lot coverage, and whether the building can be upgraded structurally and mechanically. Zoning coordination should determine whether the garage’s current location or dimensions create any conflict that would force demolition or relocation. In some cases, a conversion is still the best option because it avoids new footprint issues. In others, the garage’s nonconforming status makes a detached ADU more practical. The right answer depends on both the zoning rules and the existing structure, so the garage should be evaluated before anyone commits to a conversion design.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A nonconforming garage may still be usable for an ADU conversion, but the project must be checked for code, zoning, and structural issues. The key question is w"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/are-pre-approved-adu-plans-enough-for-los-angeles-glendale-pasadena-or-burbank-o",
+  "name": "Are pre-approved ADU plans enough for these cities?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Are pre-approved ADU plans enough for Los Angeles, Glendale, Pasadena, or Burbank, or does the lot still need separate zoning coordination?",
+    "text": "Are pre-approved ADU plans enough for Los Angeles, Glendale, Pasadena, or Burbank, or does the lot still need separate zoning coordination?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Pre-approved plans can be a helpful shortcut, but they are not a substitute for parcel-specific zoning coordination. A plan that is approved in concept still has to fit the lot, meet setbacks, satisfy access rules, and work with the existing house, garage, and utilities. In cities with detailed local standards, a pre-approved plan may reduce design time but still require adjustments for the site. The biggest risk is assuming that a city-approved plan solves everything when the parcel itself may not support the footprint or placement. Owners should use pre-approved plans as a starting point, then verify that the lot can accommodate them without triggering redesign. That is the difference between a faster permit path and a false shortcut.",
+      "@type": "Answer",
+      "description": "Pre-approved plans can save time, but the parcel still has to be checked for zoning fit, setbacks, utilities, and site conditions. A pre-approved plan is not automatically compliant on every lot.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Pre-approved plans can be a helpful shortcut, but they are not a substitute for parcel-specific zoning coordination. A plan that is approved in concept still has to fit the lot, meet setbacks, satisfy access rules, and work with the existing house, garage, and utilities. In cities with detailed local standards, a pre-approved plan may reduce design time but still require adjustments for the site. The biggest risk is assuming that a city-approved plan solves everything when the parcel itself may not support the footprint or placement. Owners should use pre-approved plans as a starting point, then verify that the lot can accommodate them without triggering redesign. That is the difference between a faster permit path and a false shortcut.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Pre-approved plans can save time, but the parcel still has to be checked for zoning fit, setbacks, utilities, and site conditions. A pre-approved plan is not au"
+}

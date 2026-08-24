@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-existing-utilities-affect-adu-zoning-coordination-especially-when-the-adu",
+  "name": "How do utilities affect ADU zoning coordination?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do existing utilities affect ADU zoning coordination, especially when the ADU is placed behind the main house or over a garage?",
+    "text": "How do existing utilities affect ADU zoning coordination, especially when the ADU is placed behind the main house or over a garage?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Utilities often matter more than owners expect. Sewer laterals, water service, electrical panels, gas lines, and meter locations can all influence the best place for an ADU. If the proposed building sits over an existing utility path or requires major trenching, the project may become more expensive or need a different layout. Zoning coordination should therefore happen alongside utility review, especially for detached units behind the main house or ADUs over garages. The goal is to identify conflicts before the design is frozen. In some cases, the most compliant zoning solution is not the cheapest construction solution, so both factors need to be balanced. Early utility mapping helps avoid surprises during permitting and construction.",
+      "@type": "Answer",
+      "description": "Utilities can control where an ADU can go because water, sewer, electric, and gas routes may conflict with the footprint or excavation. A site plan should account for utility relocation early, not after design is complete.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Utilities often matter more than owners expect. Sewer laterals, water service, electrical panels, gas lines, and meter locations can all influence the best place for an ADU. If the proposed building sits over an existing utility path or requires major trenching, the project may become more expensive or need a different layout. Zoning coordination should therefore happen alongside utility review, especially for detached units behind the main house or ADUs over garages. The goal is to identify conflicts before the design is frozen. In some cases, the most compliant zoning solution is not the cheapest construction solution, so both factors need to be balanced. Early utility mapping helps avoid surprises during permitting and construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Utilities can control where an ADU can go because water, sewer, electric, and gas routes may conflict with the footprint or excavation. A site plan should accou"
+}

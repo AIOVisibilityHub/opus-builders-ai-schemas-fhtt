@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-my-adu-needs-a-second-story-because-the-lot-is-too-small-for-a-one-story",
+  "name": "What if my ADU needs a second story?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if my ADU needs a second story because the lot is too small for a one-story layout?",
+    "text": "What if my ADU needs a second story because the lot is too small for a one-story layout?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A second-story ADU is sometimes the best answer on small or narrow lots, especially when the owner wants to preserve yard space. The tradeoff is higher complexity: the structure must support the added load, stairs must be designed efficiently, and privacy impacts on neighboring homes must be considered. A two-story solution may also trigger more careful review of height, massing, and fire separation. In some cases, a second level makes sense only if the ground floor can be kept compact or dedicated to parking, storage, or entry functions. A good design team will compare a one-story and two-story option side by side, including cost, square footage, privacy, and outdoor space. Homeowners should be cautious about adding a second floor just to gain area if the site can achieve the same function with a simpler footprint. The structural and permitting burden can outweigh the benefit unless the lot truly demands it.",
+      "@type": "Answer",
+      "description": "A second-story ADU can solve a tight-lot problem, but it adds structural cost, privacy concerns, stair design, and potential height-limit challenges. It works best when the site can support the structure and when the layout justifies the extra complexity.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A second-story ADU is sometimes the best answer on small or narrow lots, especially when the owner wants to preserve yard space. The tradeoff is higher complexity: the structure must support the added load, stairs must be designed efficiently, and privacy impacts on neighboring homes must be considered. A two-story solution may also trigger more careful review of height, massing, and fire separation. In some cases, a second level makes sense only if the ground floor can be kept compact or dedicated to parking, storage, or entry functions. A good design team will compare a one-story and two-story option side by side, including cost, square footage, privacy, and outdoor space. Homeowners should be cautious about adding a second floor just to gain area if the site can achieve the same function with a simpler footprint. The structural and permitting burden can outweigh the benefit unless the lot truly demands it.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A second-story ADU can solve a tight-lot problem, but it adds structural cost, privacy concerns, stair design, and potential height-limit challenges. It works b"
+}

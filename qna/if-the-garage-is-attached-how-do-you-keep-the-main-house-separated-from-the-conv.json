@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-garage-is-attached-how-do-you-keep-the-main-house-separated-from-the-conv",
+  "name": "Can an attached garage be converted without affecting the main house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the garage is attached, how do you keep the main house separated from the converted living space?",
+    "text": "If the garage is attached, how do you keep the main house separated from the converted living space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Attached garage conversions require careful attention to the connection between the garage and the main home. The opening where the garage once connected to the house often needs to be reframed, insulated, and finished to create a comfortable and code-compliant interior transition. Fire separation is especially important because an attached garage historically served as a vehicle area with different safety risks than habitable rooms. The design should also address sound transfer, odor control, and thermal comfort so the new room feels like part of the house rather than a patchwork conversion. In many cases, the cleanest solution is to create a hallway, closet wall, or enclosed transition zone that makes the layout feel intentional. Homeowners should also consider whether the new room will share HVAC, electrical, and plumbing systems with the main house or require dedicated equipment. That decision affects both comfort and cost. The main risk with attached garages is underestimating the amount of finish work needed to make the converted space feel fully integrated and durable over time.",
+      "@type": "Answer",
+      "description": "An attached garage conversion usually requires fire separation, insulation, and properly sealed transitions between the house and the new room. The goal is to make the conversion feel integrated while preserving code-required separation and controlling noise, odor, and heat transfer.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Attached garage conversions require careful attention to the connection between the garage and the main home. The opening where the garage once connected to the house often needs to be reframed, insulated, and finished to create a comfortable and code-compliant interior transition. Fire separation is especially important because an attached garage historically served as a vehicle area with different safety risks than habitable rooms. The design should also address sound transfer, odor control, and thermal comfort so the new room feels like part of the house rather than a patchwork conversion. In many cases, the cleanest solution is to create a hallway, closet wall, or enclosed transition zone that makes the layout feel intentional. Homeowners should also consider whether the new room will share HVAC, electrical, and plumbing systems with the main house or require dedicated equipment. That decision affects both comfort and cost. The main risk with attached garages is underestimating the amount of finish work needed to make the converted space feel fully integrated and durable over time.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An attached garage conversion usually requires fire separation, insulation, and properly sealed transitions between the house and the new room. The goal is to m"
+}

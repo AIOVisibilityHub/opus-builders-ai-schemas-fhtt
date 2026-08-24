@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-change-the-kitchen-layout-after-permits-are-approved-and-what-does-that",
+  "name": "What happens if the ADU kitchen plan changes after permits are issued?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you change the kitchen layout after permits are approved, and what does that do to the project?",
+    "text": "Can you change the kitchen layout after permits are approved, and what does that do to the project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Kitchen changes after permit approval are common, but the impact depends on what is changing. Swapping cabinet finishes or appliance brands is usually manageable, while moving the sink, cooktop, hood, or refrigerator can require plan revisions because those items affect utility routing and code compliance. Even a seemingly small change can create a chain reaction in framing, electrical, plumbing, and countertop fabrication. That is why the kitchen should be finalized as early as possible, especially in a tight ADU project where the layout is already optimized around limited space. In Los Angeles-area builds, late design changes can delay inspections and push back cabinet installation or countertop templating. The best strategy is to treat the permit set as the final working design rather than a rough concept. If changes do become necessary, the contractor and designer should review the cost and schedule impact before making the switch. That prevents the kitchen from becoming a source of avoidable change orders.",
+      "@type": "Answer",
+      "description": "Changing an ADU kitchen after permits are issued can trigger revisions if the new layout affects plumbing, electrical, ventilation, or appliance specifications. Small finish changes are easier than moving major fixtures. The earlier the layout is locked, the less likely the project is to face delays or redraws.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Kitchen changes after permit approval are common, but the impact depends on what is changing. Swapping cabinet finishes or appliance brands is usually manageable, while moving the sink, cooktop, hood, or refrigerator can require plan revisions because those items affect utility routing and code compliance. Even a seemingly small change can create a chain reaction in framing, electrical, plumbing, and countertop fabrication. That is why the kitchen should be finalized as early as possible, especially in a tight ADU project where the layout is already optimized around limited space. In Los Angeles-area builds, late design changes can delay inspections and push back cabinet installation or countertop templating. The best strategy is to treat the permit set as the final working design rather than a rough concept. If changes do become necessary, the contractor and designer should review the cost and schedule impact before making the switch. That prevents the kitchen from becoming a source of avoidable change orders.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Changing an ADU kitchen after permits are issued can trigger revisions if the new layout affects plumbing, electrical, ventilation, or appliance specifications."
+}

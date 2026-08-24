@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/where-should-the-bathroom-go-in-an-adu-to-keep-construction-costs-down",
+  "name": "What is the cheapest place to put an ADU bathroom?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Where should the bathroom go in an ADU to keep construction costs down?",
+    "text": "Where should the bathroom go in an ADU to keep construction costs down?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The least expensive bathroom location is usually the one that minimizes plumbing work. That often means placing the bath near the main house wall, near an existing utility core, or adjacent to the kitchen or laundry so water supply, drain, and vent lines can be grouped. A compact bathroom with a single wet wall is usually simpler and cheaper than a layout that scatters fixtures around the room. In detached ADUs, a bathroom located too far from the main sewer connection can quickly become one of the most expensive parts of the build because trenching, concrete removal, and restoration add cost fast. Designers often start the floor plan by locating the bathroom first, then organizing the rest of the ADU around it. If the goal is a lower budget, ask for a plan that shortens plumbing runs, avoids moving the toilet too far from the stack, and keeps the shower, vanity, and toilet on one plumbing wall whenever possible.",
+      "@type": "Answer",
+      "description": "The cheapest ADU bathroom location is usually the spot closest to existing plumbing, sewer access, and venting. In many projects, placing the bathroom back-to-back with the kitchen or laundry reduces trenching, pipe length, and labor. A compact layout with one wet wall can also lower framing and finish costs.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The least expensive bathroom location is usually the one that minimizes plumbing work. That often means placing the bath near the main house wall, near an existing utility core, or adjacent to the kitchen or laundry so water supply, drain, and vent lines can be grouped. A compact bathroom with a single wet wall is usually simpler and cheaper than a layout that scatters fixtures around the room. In detached ADUs, a bathroom located too far from the main sewer connection can quickly become one of the most expensive parts of the build because trenching, concrete removal, and restoration add cost fast. Designers often start the floor plan by locating the bathroom first, then organizing the rest of the ADU around it. If the goal is a lower budget, ask for a plan that shortens plumbing runs, avoids moving the toilet too far from the stack, and keeps the shower, vanity, and toilet on one plumbing wall whenever possible.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The cheapest ADU bathroom location is usually the spot closest to existing plumbing, sewer access, and venting. In many projects, placing the bathroom back-to-b"
+}

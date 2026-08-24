@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-geotechnical-testing-finds-poor-soil-on-a-multi-family-site-in-l",
+  "name": "What if soil conditions are bad on a multi-family site?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if geotechnical testing finds poor soil on a multi-family site in Los Angeles?",
+    "text": "What happens if geotechnical testing finds poor soil on a multi-family site in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Poor soil conditions can significantly change a multi-family project because the foundation design is based on what lies beneath the building. If tests show weak, expansive, or unstable soil, the team may need deeper footings, piles, grade beams, compaction, or over-excavation and replacement. On urban sites, shoring and export hauling can also become major line items. These issues are especially important in Los Angeles, where site conditions vary widely even within a few blocks. A project that looks simple on paper may become much more expensive once geotechnical reports are reviewed. Owners should not lock in a budget until soil data is incorporated into the estimate. Early geotechnical work reduces the risk of redesign, schedule slippage, and change orders after construction starts.",
+      "@type": "Answer",
+      "description": "Bad soil can require deeper foundations, compaction, shoring, over-excavation, or soil replacement before building begins. That can add cost and time, especially on smaller sites where there is little room for correction. Geotechnical findings should be reviewed before final pricing so the budget reflects real site conditions.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Poor soil conditions can significantly change a multi-family project because the foundation design is based on what lies beneath the building. If tests show weak, expansive, or unstable soil, the team may need deeper footings, piles, grade beams, compaction, or over-excavation and replacement. On urban sites, shoring and export hauling can also become major line items. These issues are especially important in Los Angeles, where site conditions vary widely even within a few blocks. A project that looks simple on paper may become much more expensive once geotechnical reports are reviewed. Owners should not lock in a budget until soil data is incorporated into the estimate. Early geotechnical work reduces the risk of redesign, schedule slippage, and change orders after construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Bad soil can require deeper foundations, compaction, shoring, over-excavation, or soil replacement before building begins. That can add cost and time, especiall"
+}

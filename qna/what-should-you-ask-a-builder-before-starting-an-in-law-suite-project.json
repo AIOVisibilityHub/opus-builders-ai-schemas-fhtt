@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-you-ask-a-builder-before-starting-an-in-law-suite-project",
+  "name": "What should you ask a builder before starting an in-law suite project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should you ask a builder before starting an in-law suite project?",
+    "text": "What should you ask a builder before starting an in-law suite project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before hiring a builder, homeowners should focus on experience with similar in-law suite projects, especially in the city where the home is located. Important questions include whether the builder has handled garage conversions, attached additions, and detached units; how they manage permits and inspections; and how they estimate hidden costs such as utilities, fire separation, and structural upgrades. It also helps to ask who coordinates with designers, engineers, and the city, because coordination problems often cause delays. A strong builder should explain the likely constraints before construction starts and offer realistic budget ranges rather than a single optimistic number. The best projects usually begin with a clear feasibility review and a detailed scope of work.",
+      "@type": "Answer",
+      "description": "Ask about permit experience, similar completed projects, utility upgrades, site constraints, timeline, change-order handling, and how the builder estimates code-related work. You should also ask who handles design coordination and inspection scheduling. The best builder is the one who can explain both construction and approval risks clearly.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before hiring a builder, homeowners should focus on experience with similar in-law suite projects, especially in the city where the home is located. Important questions include whether the builder has handled garage conversions, attached additions, and detached units; how they manage permits and inspections; and how they estimate hidden costs such as utilities, fire separation, and structural upgrades. It also helps to ask who coordinates with designers, engineers, and the city, because coordination problems often cause delays. A strong builder should explain the likely constraints before construction starts and offer realistic budget ranges rather than a single optimistic number. The best projects usually begin with a clear feasibility review and a detailed scope of work.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about permit experience, similar completed projects, utility upgrades, site constraints, timeline, change-order handling, and how the builder estimates code"
+}

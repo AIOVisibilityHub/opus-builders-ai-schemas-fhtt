@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-an-in-law-suite-be-attached-or-detached-in-pasadena",
+  "name": "Should an in-law suite be attached or detached in Pasadena?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should an in-law suite be attached or detached in Pasadena?",
+    "text": "Should an in-law suite be attached or detached in Pasadena?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Attached and detached suites solve different problems. An attached suite is often the better choice when the lot is tight, the budget is controlled, or the homeowner wants easier utility tie-ins. A detached suite usually offers better privacy, stronger separation, and a more independent feel, but it typically costs more and needs more yard space. In Pasadena, the right answer depends on lot dimensions, existing house placement, and how the family plans to use the space. If the suite is for long-term multigenerational living, privacy may be worth the extra cost. If the goal is to preserve outdoor space and keep the project simpler, an attached design may be the smarter route.",
+      "@type": "Answer",
+      "description": "An attached suite is usually better when space is limited or when you want lower construction complexity, while a detached suite works better for privacy and separation. Pasadena lots with enough rear-yard space may support either option. The right choice depends on budget, lot size, and how independent the suite should feel.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Attached and detached suites solve different problems. An attached suite is often the better choice when the lot is tight, the budget is controlled, or the homeowner wants easier utility tie-ins. A detached suite usually offers better privacy, stronger separation, and a more independent feel, but it typically costs more and needs more yard space. In Pasadena, the right answer depends on lot dimensions, existing house placement, and how the family plans to use the space. If the suite is for long-term multigenerational living, privacy may be worth the extra cost. If the goal is to preserve outdoor space and keep the project simpler, an attached design may be the smarter route.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "An attached suite is usually better when space is limited or when you want lower construction complexity, while a detached suite works better for privacy and se"
+}

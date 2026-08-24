@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-can-i-do-if-my-lot-is-not-large-enough-for-a-standard-duplex-design",
+  "name": "What if my lot is too small for a duplex?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What can I do if my lot is not large enough for a standard duplex design?",
+    "text": "What can I do if my lot is not large enough for a standard duplex design?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A small lot does not automatically rule out duplex construction, but it usually means the design must be more efficient and the rules must be checked carefully. Some parcels can still support two compact units if the massing, setbacks, and parking are managed correctly. Others may work better as a lot split plus two smaller homes, or as a single-family home with ADUs if the duplex envelope is too constrained. The key is to test the parcel against real dimensions, not rough assumptions. A professional feasibility analysis should look at lot width, depth, slope, access, easements, utility locations, and any overlay constraints. Even if a duplex is allowed in theory, the usable floor area may be too limited to make financial sense. In that case, a different development strategy may produce a better return and a better living experience. Owners should compare the site’s highest and best use before choosing a direction.",
+      "@type": "Answer",
+      "description": "If the lot is too small for a standard duplex, options may include a smaller two-unit layout, a different building configuration, a lot split where allowed, or an ADU-based strategy instead. The right choice depends on zoning, setbacks, and parking. A feasibility study can show whether the parcel can still support two units legally.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A small lot does not automatically rule out duplex construction, but it usually means the design must be more efficient and the rules must be checked carefully. Some parcels can still support two compact units if the massing, setbacks, and parking are managed correctly. Others may work better as a lot split plus two smaller homes, or as a single-family home with ADUs if the duplex envelope is too constrained. The key is to test the parcel against real dimensions, not rough assumptions. A professional feasibility analysis should look at lot width, depth, slope, access, easements, utility locations, and any overlay constraints. Even if a duplex is allowed in theory, the usable floor area may be too limited to make financial sense. In that case, a different development strategy may produce a better return and a better living experience. Owners should compare the site’s highest and best use before choosing a direction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the lot is too small for a standard duplex, options may include a smaller two-unit layout, a different building configuration, a lot split where allowed, or "
+}

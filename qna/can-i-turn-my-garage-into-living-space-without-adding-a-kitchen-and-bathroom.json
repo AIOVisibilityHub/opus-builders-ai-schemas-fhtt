@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-turn-my-garage-into-living-space-without-adding-a-kitchen-and-bathroom",
+  "name": "Can a garage conversion in Los Angeles be done without making it an ADU?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I turn my garage into living space without adding a kitchen and bathroom?",
+    "text": "Can I turn my garage into living space without adding a kitchen and bathroom?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A garage conversion does not have to become a full ADU if the goal is extra living space for the main home. If you are not adding a separate kitchen and creating an independent unit, the project may be treated as additional habitable space rather than a separate dwelling. That distinction matters because it affects plan check, utility scope, and how the city reviews the project. In Los Angeles-area cities, the best first step is to define the intended use clearly: guest room, office, gym, family room, or studio. Even without a kitchen or bath, the converted area still needs to meet building code for ceiling height, insulation, ventilation, electrical safety, emergency egress, and fire separation if attached to the house. The main risk is assuming a “light remodel” can skip permits. In practice, once a garage becomes habitable space, permit review is usually required. A qualified designer or contractor should confirm whether your specific project is treated as interior conversion, room addition, or ADU-related work before plans are submitted.",
+      "@type": "Answer",
+      "description": "Yes. A garage can be converted into habitable living space without becoming a full ADU if it is used as a bedroom, office, family room, or similar space and does not function as a separate dwelling unit. The scope, permits, and code requirements are still different from a simple cosmetic remodel and usually include electrical, insulation, ventilation, and egress updates.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A garage conversion does not have to become a full ADU if the goal is extra living space for the main home. If you are not adding a separate kitchen and creating an independent unit, the project may be treated as additional habitable space rather than a separate dwelling. That distinction matters because it affects plan check, utility scope, and how the city reviews the project. In Los Angeles-area cities, the best first step is to define the intended use clearly: guest room, office, gym, family room, or studio. Even without a kitchen or bath, the converted area still needs to meet building code for ceiling height, insulation, ventilation, electrical safety, emergency egress, and fire separation if attached to the house. The main risk is assuming a “light remodel” can skip permits. In practice, once a garage becomes habitable space, permit review is usually required. A qualified designer or contractor should confirm whether your specific project is treated as interior conversion, room addition, or ADU-related work before plans are submitted.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. A garage can be converted into habitable living space without becoming a full ADU if it is used as a bedroom, office, family room, or similar space and doe"
+}

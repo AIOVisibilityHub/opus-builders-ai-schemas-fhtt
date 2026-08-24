@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-want-rental-income-what-must-a-garage-conversion-include-to-be-a-legal-rent",
+  "name": "Can you convert a garage into a rental unit in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I want rental income, what must a garage conversion include to be a legal rental space?",
+    "text": "If I want rental income, what must a garage conversion include to be a legal rental space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If the goal is rental income, the conversion needs to do more than just look finished. It must function as a legitimate living unit with the systems and layout that support independent occupancy. That usually means a kitchen or kitchen-equivalent, a bathroom, sleeping area, safe entry and exit, and code-compliant mechanical and electrical systems. A simple room conversion may be useful for family living, but it may not be enough for legal rental use. Homeowners should also think about privacy, sound control, and utility separation because tenants need a space that feels independent and practical. In Los Angeles-area neighborhoods, rental potential can be strong, but the project should be planned carefully from the start to avoid having to redo walls, plumbing, or electrical later. Before design begins, it is wise to confirm whether the intended use is a guest suite, a full ADU, or just extra living space. That choice affects the entire permitting and construction strategy. A rental-focused conversion is usually most successful when it is designed as a complete, comfortable unit rather than a repurposed garage with leftover features.",
+      "@type": "Answer",
+      "description": "A rental-ready garage conversion usually needs to function as a self-contained living unit with sleeping, kitchen, bathroom, and safe egress features. The exact requirements depend on the project classification, but rental use generally demands a more complete buildout than a simple room conversion.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If the goal is rental income, the conversion needs to do more than just look finished. It must function as a legitimate living unit with the systems and layout that support independent occupancy. That usually means a kitchen or kitchen-equivalent, a bathroom, sleeping area, safe entry and exit, and code-compliant mechanical and electrical systems. A simple room conversion may be useful for family living, but it may not be enough for legal rental use. Homeowners should also think about privacy, sound control, and utility separation because tenants need a space that feels independent and practical. In Los Angeles-area neighborhoods, rental potential can be strong, but the project should be planned carefully from the start to avoid having to redo walls, plumbing, or electrical later. Before design begins, it is wise to confirm whether the intended use is a guest suite, a full ADU, or just extra living space. That choice affects the entire permitting and construction strategy. A rental-focused conversion is usually most successful when it is designed as a complete, comfortable unit rather than a repurposed garage with leftover features.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A rental-ready garage conversion usually needs to function as a self-contained living unit with sleeping, kitchen, bathroom, and safe egress features. The exact"
+}

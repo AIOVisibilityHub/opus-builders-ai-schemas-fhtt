@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-adu-be-designed-around-an-existing-garage-in-los-angeles-county-without-f",
+  "name": "Can an ADU be designed around an existing garage?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an ADU be designed around an existing garage in Los Angeles County without fully demolishing it?",
+    "text": "Can an ADU be designed around an existing garage in Los Angeles County without fully demolishing it?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An existing garage can often be reused as part of an ADU project, but the final approach depends on the building’s condition and the desired layout. Some garages are ideal for full conversion, while others need substantial structural upgrades, new insulation, fire-rated assemblies, replaced doors and windows, or added plumbing and HVAC. In some cases, the project may keep part of the shell and rebuild the interior to create a better unit. The designer and engineer should evaluate slab condition, ceiling height, foundation adequacy, drainage, and whether the existing structure can support the required changes economically. Reusing the garage can save time and money, but it can also create compromises in ceiling height, window placement, and room planning. The best decision is based on a detailed feasibility review rather than assuming conversion is always cheaper than new construction.",
+      "@type": "Answer",
+      "description": "Yes, many ADUs can be designed as garage conversions or partial conversions, depending on the garage condition, slab height, roof framing, and fire separation requirements. Some projects keep parts of the structure and rebuild only what is needed for code compliance.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An existing garage can often be reused as part of an ADU project, but the final approach depends on the building’s condition and the desired layout. Some garages are ideal for full conversion, while others need substantial structural upgrades, new insulation, fire-rated assemblies, replaced doors and windows, or added plumbing and HVAC. In some cases, the project may keep part of the shell and rebuild the interior to create a better unit. The designer and engineer should evaluate slab condition, ceiling height, foundation adequacy, drainage, and whether the existing structure can support the required changes economically. Reusing the garage can save time and money, but it can also create compromises in ceiling height, window placement, and room planning. The best decision is based on a detailed feasibility review rather than assuming conversion is always cheaper than new construction.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many ADUs can be designed as garage conversions or partial conversions, depending on the garage condition, slab height, roof framing, and fire separation r"
+}

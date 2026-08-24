@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-included-in-a-proper-estimate-for-a-multi-family-construction-pro",
+  "name": "What is included in a multi-family construction estimate?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in a proper estimate for a multi-family construction project?",
+    "text": "What should be included in a proper estimate for a multi-family construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A useful multi-family estimate should break the project into clear categories so the owner can see where money is going and what still needs confirmation. Typical items include demolition, grading, excavation, foundations, framing, structural steel or wood framing, plumbing, electrical, HVAC, fire protection, insulation, drywall, finishes, appliances, exterior cladding, landscaping, hardscape, utility connections, and final cleanup. It should also identify soft costs such as design, permits, testing, and inspections, plus contingency and escalation assumptions. Just as important is the exclusions list, which shows what is not included and prevents surprises later. Incomplete estimates often create budget gaps because they leave out site conditions, code upgrades, or finish allowances. The best estimate is tied to actual drawings and a defined scope, not just a rough square-foot number.",
+      "@type": "Answer",
+      "description": "A proper estimate should include site work, demolition if needed, foundations, structure, framing, MEP systems, finishes, appliances, landscaping, utilities, permits, contingency, and contractor overhead and profit. It should also state what is excluded, such as furnishings, financing, or tenant relocation costs. Missing scope is a common reason budgets run over.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A useful multi-family estimate should break the project into clear categories so the owner can see where money is going and what still needs confirmation. Typical items include demolition, grading, excavation, foundations, framing, structural steel or wood framing, plumbing, electrical, HVAC, fire protection, insulation, drywall, finishes, appliances, exterior cladding, landscaping, hardscape, utility connections, and final cleanup. It should also identify soft costs such as design, permits, testing, and inspections, plus contingency and escalation assumptions. Just as important is the exclusions list, which shows what is not included and prevents surprises later. Incomplete estimates often create budget gaps because they leave out site conditions, code upgrades, or finish allowances. The best estimate is tied to actual drawings and a defined scope, not just a rough square-foot number.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A proper estimate should include site work, demolition if needed, foundations, structure, framing, MEP systems, finishes, appliances, landscaping, utilities, pe"
+}

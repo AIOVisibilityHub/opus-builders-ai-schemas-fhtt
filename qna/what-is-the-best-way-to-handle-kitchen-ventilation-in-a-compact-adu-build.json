@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-way-to-handle-kitchen-ventilation-in-a-compact-adu-build",
+  "name": "How do you vent a range hood in a small ADU kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best way to handle kitchen ventilation in a compact ADU build?",
+    "text": "What is the best way to handle kitchen ventilation in a compact ADU build?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Ventilation is easy to overlook in an ADU kitchen, but it has a big impact on comfort, indoor air quality, and long-term finish durability. A compact kitchen still generates heat, moisture, odors, and grease, so the hood or ventilation solution needs to be sized correctly for the appliance and room volume. Ducted ventilation is usually preferred when the design allows for it because it removes contaminants from the space rather than recirculating them. In some small ADUs, however, duct routing is difficult, so the design may rely on a recirculating hood or a shorter vent path. That decision should be made early because it affects cabinet layout, ceiling details, and whether the hood can terminate through a wall or roof. Homeowners should also consider noise, maintenance, and how the ventilation interacts with make-up air or tight building envelopes. A kitchen that looks sleek but traps heat and cooking smells will feel lower quality over time, so ventilation should be treated as a core design feature, not an afterthought.",
+      "@type": "Answer",
+      "description": "Small ADU kitchens still need effective ventilation, especially when using gas cooking or frequent high-heat cooking. The venting plan may use a ducted range hood, recirculating hood, or a layout that minimizes duct length. The best option depends on the appliance type and the available wall or roof path.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Ventilation is easy to overlook in an ADU kitchen, but it has a big impact on comfort, indoor air quality, and long-term finish durability. A compact kitchen still generates heat, moisture, odors, and grease, so the hood or ventilation solution needs to be sized correctly for the appliance and room volume. Ducted ventilation is usually preferred when the design allows for it because it removes contaminants from the space rather than recirculating them. In some small ADUs, however, duct routing is difficult, so the design may rely on a recirculating hood or a shorter vent path. That decision should be made early because it affects cabinet layout, ceiling details, and whether the hood can terminate through a wall or roof. Homeowners should also consider noise, maintenance, and how the ventilation interacts with make-up air or tight building envelopes. A kitchen that looks sleek but traps heat and cooking smells will feel lower quality over time, so ventilation should be treated as a core design feature, not an afterthought.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Small ADU kitchens still need effective ventilation, especially when using gas cooking or frequent high-heat cooking. The venting plan may use a ducted range ho"
+}

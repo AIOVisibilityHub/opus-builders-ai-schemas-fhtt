@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-minimum-practical-size-for-a-full-adu-bathroom-with-a-shower",
+  "name": "How much space does an ADU bathroom need?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the minimum practical size for a full ADU bathroom with a shower?",
+    "text": "What is the minimum practical size for a full ADU bathroom with a shower?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The practical size of an ADU bathroom depends on the fixtures and layout, not just the square footage. A compact bathroom can work well if the toilet, vanity, and shower clearances are planned carefully, the door swing does not block movement, and the room avoids dead space. In small ADUs, a shower often works better than a tub because it uses less room and makes the layout easier to manage. The exact dimensions should be coordinated with the architect and contractor early so the room remains comfortable after framing, waterproofing, tile, and finish materials are added. Homeowners often underestimate how much thickness is added by walls, tile, and shower assemblies, which can make a room feel smaller than the plan suggests. If the bathroom is too tight, the best fix is often to redesign the plumbing wall or use a more compact fixture package instead of forcing the original layout to work. A slightly larger bathroom usually pays off in usability and resale value.",
+      "@type": "Answer",
+      "description": "A full ADU bathroom can be compact, but it still needs enough room for code-compliant fixture clearances, safe door movement, and comfortable shower access. The practical size depends on whether the bathroom includes a tub or shower, how the door swings, and how tightly the plumbing is grouped. Small bathrooms need careful planning to avoid awkward clearances.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The practical size of an ADU bathroom depends on the fixtures and layout, not just the square footage. A compact bathroom can work well if the toilet, vanity, and shower clearances are planned carefully, the door swing does not block movement, and the room avoids dead space. In small ADUs, a shower often works better than a tub because it uses less room and makes the layout easier to manage. The exact dimensions should be coordinated with the architect and contractor early so the room remains comfortable after framing, waterproofing, tile, and finish materials are added. Homeowners often underestimate how much thickness is added by walls, tile, and shower assemblies, which can make a room feel smaller than the plan suggests. If the bathroom is too tight, the best fix is often to redesign the plumbing wall or use a more compact fixture package instead of forcing the original layout to work. A slightly larger bathroom usually pays off in usability and resale value.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A full ADU bathroom can be compact, but it still needs enough room for code-compliant fixture clearances, safe door movement, and comfortable shower access. The"
+}

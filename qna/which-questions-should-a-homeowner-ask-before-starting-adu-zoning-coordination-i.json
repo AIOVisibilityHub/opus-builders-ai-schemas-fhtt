@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-questions-should-a-homeowner-ask-before-starting-adu-zoning-coordination-i",
+  "name": "Which questions should I ask before starting ADU zoning coordination?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which questions should a homeowner ask before starting ADU zoning coordination in Los Angeles, Glendale, Pasadena, or Burbank?",
+    "text": "Which questions should a homeowner ask before starting ADU zoning coordination in Los Angeles, Glendale, Pasadena, or Burbank?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before starting zoning coordination, a homeowner should ask a short list of feasibility questions: Is the lot eligible for an ADU in this zoning district? What setbacks, height limits, and separation rules apply? Are there overlays, historic constraints, or access issues that could change the design? Does the existing garage, driveway, or utility layout interfere with placement? And does the owner want a detached unit, conversion, or attached option if the first choice does not fit? Those questions guide the early feasibility stage and help prevent expensive design mistakes. The best projects start with clear answers to those issues before any final drawings are produced. That creates a smoother path to permit submission and a better chance of approval on the first pass.",
+      "@type": "Answer",
+      "description": "Ask whether the lot is eligible, which setbacks apply, whether the parcel has overlays or historic restrictions, whether the existing structures affect placement, and whether the preferred design fits the site without redesign.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before starting zoning coordination, a homeowner should ask a short list of feasibility questions: Is the lot eligible for an ADU in this zoning district? What setbacks, height limits, and separation rules apply? Are there overlays, historic constraints, or access issues that could change the design? Does the existing garage, driveway, or utility layout interfere with placement? And does the owner want a detached unit, conversion, or attached option if the first choice does not fit? Those questions guide the early feasibility stage and help prevent expensive design mistakes. The best projects start with clear answers to those issues before any final drawings are produced. That creates a smoother path to permit submission and a better chance of approval on the first pass.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask whether the lot is eligible, which setbacks apply, whether the parcel has overlays or historic restrictions, whether the existing structures affect placemen"
+}

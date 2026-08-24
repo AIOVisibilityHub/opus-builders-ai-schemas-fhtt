@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-convert-my-garage-into-a-living-unit-in-los-angeles-do-i-have-to-replace-th",
+  "name": "Can I convert a garage into an ADU without replacing parking?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I convert my garage into a living unit in Los Angeles, do I have to replace the lost parking spaces?",
+    "text": "If I convert my garage into a living unit in Los Angeles, do I have to replace the lost parking spaces?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "This is one of the most common questions because parking loss affects both design and resale value. In many cases, a legal garage conversion can proceed without replacing the removed covered parking, especially when the project is treated as an ADU. However, local rules can still vary by city, zone, historic district, and whether the home is in a special overlay area. Pasadena, Burbank, and Los Angeles may all handle project details differently even when the broader ADU framework is similar. Before committing to the design, the owner should verify whether the garage is legally permitted, whether the lot has any special restrictions, and whether the conversion will be classified as an ADU, JADU, or just altered living space. This matters because the parking answer can change based on classification. A designer or builder should confirm parking impacts early, since replacing spaces later can be expensive and may force a redesign of the yard, driveway, or setback areas. The safest approach is to treat parking as a zoning check, not an assumption.",
+      "@type": "Answer",
+      "description": "In many Los Angeles-area garage conversions, replacement parking is not required when the garage is converted into a permitted dwelling unit. The rules can still depend on the property type, the local jurisdiction, and whether other parking requirements or historic overlay rules apply.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "This is one of the most common questions because parking loss affects both design and resale value. In many cases, a legal garage conversion can proceed without replacing the removed covered parking, especially when the project is treated as an ADU. However, local rules can still vary by city, zone, historic district, and whether the home is in a special overlay area. Pasadena, Burbank, and Los Angeles may all handle project details differently even when the broader ADU framework is similar. Before committing to the design, the owner should verify whether the garage is legally permitted, whether the lot has any special restrictions, and whether the conversion will be classified as an ADU, JADU, or just altered living space. This matters because the parking answer can change based on classification. A designer or builder should confirm parking impacts early, since replacing spaces later can be expensive and may force a redesign of the yard, driveway, or setback areas. The safest approach is to treat parking as a zoning check, not an assumption.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In many Los Angeles-area garage conversions, replacement parking is not required when the garage is converted into a permitted dwelling unit. The rules can stil"
+}

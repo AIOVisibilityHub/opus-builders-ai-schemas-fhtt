@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/does-a-shared-or-close-property-line-wall-make-a-garage-conversion-harder-in-den",
+  "name": "What if my garage shares a wall with the neighbor?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Does a shared or close property-line wall make a garage conversion harder in dense Los Angeles neighborhoods?",
+    "text": "Does a shared or close property-line wall make a garage conversion harder in dense Los Angeles neighborhoods?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A garage that sits close to a property line, or shares a wall with another structure, often requires more careful planning than a standalone structure in the middle of a lot. The design may need more fire-rated construction, fewer openings on the side wall, and more attention to sound and privacy. That can reduce flexibility in the floor plan and affect where windows or vents can be placed. In dense neighborhoods, this is a common issue because lots are narrow and garages are often located near side setbacks. The project may still be feasible, but the team needs to account for code-driven wall assemblies and potential neighbor-facing privacy concerns. A well-planned design can turn those constraints into a quieter, more private unit. Owners should not assume that proximity to a property line makes the project impossible; it usually means the details matter more. Early review of setbacks and wall conditions prevents costly redesign later.",
+      "@type": "Answer",
+      "description": "A garage near a property line or sharing a wall can create stricter fire separation, privacy, and opening requirements. It does not automatically prevent conversion, but it can limit window placement, door options, and wall assembly choices.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A garage that sits close to a property line, or shares a wall with another structure, often requires more careful planning than a standalone structure in the middle of a lot. The design may need more fire-rated construction, fewer openings on the side wall, and more attention to sound and privacy. That can reduce flexibility in the floor plan and affect where windows or vents can be placed. In dense neighborhoods, this is a common issue because lots are narrow and garages are often located near side setbacks. The project may still be feasible, but the team needs to account for code-driven wall assemblies and potential neighbor-facing privacy concerns. A well-planned design can turn those constraints into a quieter, more private unit. Owners should not assume that proximity to a property line makes the project impossible; it usually means the details matter more. Early review of setbacks and wall conditions prevents costly redesign later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A garage near a property line or sharing a wall can create stricter fire separation, privacy, and opening requirements. It does not automatically prevent conver"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-cut-costs-on-a-multi-family-building-without-making-it-look-cheap-or",
+  "name": "What is the best way to value-engineer a multi-family project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you cut costs on a multi-family building without making it look cheap or hurting long-term value?",
+    "text": "How do you cut costs on a multi-family building without making it look cheap or hurting long-term value?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Effective value engineering is about choosing where to simplify and where to protect value. On multi-family projects, the biggest savings often come from repeating unit types, simplifying structural spans, standardizing window sizes, reducing custom details, and selecting durable finishes that still meet the target market. It can also help to rethink parking, roof forms, and mechanical routing early, because those items affect both cost and schedule. The mistake many owners make is cutting visible quality without improving the underlying efficiency of the building. That can hurt rental performance and increase maintenance later. A better approach is to evaluate each change by its impact on total lifecycle cost, constructability, and market appeal. The most useful value engineering happens before permits and bidding are finalized.",
+      "@type": "Answer",
+      "description": "The best value engineering targets structural efficiency, repetition, finishes, systems, and site complexity rather than removing features blindly. Good cost cuts simplify the building while protecting the unit layout, curb appeal, and maintenance efficiency. The goal is to lower total cost, not just the initial bid price.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Effective value engineering is about choosing where to simplify and where to protect value. On multi-family projects, the biggest savings often come from repeating unit types, simplifying structural spans, standardizing window sizes, reducing custom details, and selecting durable finishes that still meet the target market. It can also help to rethink parking, roof forms, and mechanical routing early, because those items affect both cost and schedule. The mistake many owners make is cutting visible quality without improving the underlying efficiency of the building. That can hurt rental performance and increase maintenance later. A better approach is to evaluate each change by its impact on total lifecycle cost, constructability, and market appeal. The most useful value engineering happens before permits and bidding are finalized.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best value engineering targets structural efficiency, repetition, finishes, systems, and site complexity rather than removing features blindly. Good cost cu"
+}

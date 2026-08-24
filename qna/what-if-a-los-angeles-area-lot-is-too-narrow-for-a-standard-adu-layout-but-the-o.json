@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-a-los-angeles-area-lot-is-too-narrow-for-a-standard-adu-layout-but-the-o",
+  "name": "What if the lot is too narrow for a standard ADU layout?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if a Los Angeles-area lot is too narrow for a standard ADU layout, but the owner still wants zoning coordination to move forward?",
+    "text": "What if a Los Angeles-area lot is too narrow for a standard ADU layout, but the owner still wants zoning coordination to move forward?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A narrow lot does not automatically rule out an ADU, but it often changes the strategy. Instead of forcing a standard detached layout, the project may need to use a garage conversion, an attached design, a reduced footprint, or a different siting approach that better fits setbacks and access requirements. Zoning coordination should test several options early so the owner can compare cost, privacy, and buildability. In many cases, the issue is not total square footage but how the unit fits between property lines, existing structures, and required circulation paths. If the lot is especially constrained, a feasibility study can show which version is most likely to clear zoning with the fewest revisions. The goal is to find a compliant solution before drawings are finalized, not after the city has already flagged the plan.",
+      "@type": "Answer",
+      "description": "A narrow lot may still work if the design shifts to a conversion, smaller footprint, taller layout, or different placement on the site. The key is to test the lot against local objective standards before assuming the project is not feasible.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A narrow lot does not automatically rule out an ADU, but it often changes the strategy. Instead of forcing a standard detached layout, the project may need to use a garage conversion, an attached design, a reduced footprint, or a different siting approach that better fits setbacks and access requirements. Zoning coordination should test several options early so the owner can compare cost, privacy, and buildability. In many cases, the issue is not total square footage but how the unit fits between property lines, existing structures, and required circulation paths. If the lot is especially constrained, a feasibility study can show which version is most likely to clear zoning with the fewest revisions. The goal is to find a compliant solution before drawings are finalized, not after the city has already flagged the plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A narrow lot may still work if the design shifts to a conversion, smaller footprint, taller layout, or different placement on the site. The key is to test the l"
+}

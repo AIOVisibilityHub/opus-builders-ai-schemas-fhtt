@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-if-my-property-has-a-slope-or-hillside-access-issue-and-i-still-want-an-adu",
+  "name": "What if my property has a slope or hillside access issue?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What if my property has a slope or hillside access issue and I still want an ADU?",
+    "text": "What if my property has a slope or hillside access issue and I still want an ADU?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Slope does not automatically prevent an ADU, but it changes the entire design strategy. On hillside or sloped lots, the project may require grading, retaining walls, stepped foundations, drainage solutions, and careful access planning. The building may need to sit on a different pad elevation or be broken into levels to fit the terrain. These conditions usually increase both design complexity and construction cost. They also make early site evaluation essential, because a nice-looking concept can become unrealistic once the grade is measured. Homeowners should expect more coordination between the designer, structural engineer, and contractor when slope is involved. In many cases, the best ADU is the one that works with the site rather than trying to flatten it completely. A realistic slope strategy can save money and reduce permitting problems.",
+      "@type": "Answer",
+      "description": "A sloped or hillside property can still support an ADU, but the design must address grading, drainage, retaining walls, structural loads, and safe access. These conditions usually push the project toward a more customized plan and higher construction cost.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Slope does not automatically prevent an ADU, but it changes the entire design strategy. On hillside or sloped lots, the project may require grading, retaining walls, stepped foundations, drainage solutions, and careful access planning. The building may need to sit on a different pad elevation or be broken into levels to fit the terrain. These conditions usually increase both design complexity and construction cost. They also make early site evaluation essential, because a nice-looking concept can become unrealistic once the grade is measured. Homeowners should expect more coordination between the designer, structural engineer, and contractor when slope is involved. In many cases, the best ADU is the one that works with the site rather than trying to flatten it completely. A realistic slope strategy can save money and reduce permitting problems.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A sloped or hillside property can still support an ADU, but the design must address grading, drainage, retaining walls, structural loads, and safe access. These"
+}

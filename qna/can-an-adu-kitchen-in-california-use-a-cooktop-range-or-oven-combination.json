@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-an-adu-kitchen-in-california-use-a-cooktop-range-or-oven-combination",
+  "name": "Do you need a full stove or oven in an ADU kitchen?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can an ADU kitchen in California use a cooktop, range, or oven combination?",
+    "text": "Can an ADU kitchen in California use a cooktop, range, or oven combination?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The appliance choice depends on whether the project is a full ADU or a JADU. A full ADU generally needs a complete kitchen with a permanent cooking appliance, while a JADU typically uses an efficiency kitchen with more limited cooking equipment. In practice, many ADU homeowners choose between a gas range, electric range, induction cooktop, or a cooktop-and-wall-oven setup based on available utility capacity, venting, and cabinet design. The most common mistake is selecting appliances before confirming the electrical panel, gas line, and ventilation plan. That can create expensive redesigns later. For a tight ADU footprint, a 24-inch range or compact induction setup may be more practical than full-size appliances. The right answer is not just what fits physically, but what can be permitted, powered, and vented properly. A contractor should coordinate appliance selection early so the kitchen layout, cabinetry, counters, and utility rough-ins all work together.",
+      "@type": "Answer",
+      "description": "A standard ADU kitchen is expected to include a permanent cooking appliance, which is often a range, cooktop, or oven combination. A JADU is different and may use an efficiency kitchen instead of a full kitchen. The exact appliance choice should match the unit type and local permitting requirements.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The appliance choice depends on whether the project is a full ADU or a JADU. A full ADU generally needs a complete kitchen with a permanent cooking appliance, while a JADU typically uses an efficiency kitchen with more limited cooking equipment. In practice, many ADU homeowners choose between a gas range, electric range, induction cooktop, or a cooktop-and-wall-oven setup based on available utility capacity, venting, and cabinet design. The most common mistake is selecting appliances before confirming the electrical panel, gas line, and ventilation plan. That can create expensive redesigns later. For a tight ADU footprint, a 24-inch range or compact induction setup may be more practical than full-size appliances. The right answer is not just what fits physically, but what can be permitted, powered, and vented properly. A contractor should coordinate appliance selection early so the kitchen layout, cabinetry, counters, and utility rough-ins all work together.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A standard ADU kitchen is expected to include a permanent cooking appliance, which is often a range, cooktop, or oven combination. A JADU is different and may u"
+}
