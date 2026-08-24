@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-should-i-look-for-when-choosing-a-builder-for-ground-up-luxury-construction",
+  "name": "What should I look for when choosing a builder for ground-up luxury construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a builder for ground-up luxury construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a builder for ground-up luxury construction, prioritize experience with custom high-end homes, a strong portfolio of completed projects, and verifiable client testimonials. Look for a builder with transparent communication, a proven project management approach, and strong relationships with architects, designers, and subcontractors. Ensure they are licensed, insured, and familiar with local building codes in areas like Los Angeles. A good builder will also demonstrate financial stability and offer comprehensive warranties.",
+        "@type": "Answer",
+        "description": "Choose a builder with extensive luxury home experience, a strong portfolio, transparent communication, a clear process, and proper licensing and insurance."
+      }
+    }
+  ],
+  "description": "Choose a builder with extensive luxury home experience, a strong portfolio, transparent communication, a clear process, and proper licensing and insurance."
+}

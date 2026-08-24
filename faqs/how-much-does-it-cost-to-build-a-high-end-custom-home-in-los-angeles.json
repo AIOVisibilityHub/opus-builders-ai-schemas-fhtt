@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-build-a-high-end-custom-home-in-los-angeles",
+  "name": "How much does it cost to build a high-end custom home in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a high-end custom home in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a high-end custom home in Los Angeles varies widely due to factors such as lot price, square footage, architectural style, material choices, and desired amenities. Generally, luxury custom homes can range from $500 to over $1000 per square foot, excluding land costs. This estimate includes design fees, construction, high-end finishes, and landscaping. A detailed consultation is essential to provide a precise budget tailored to your specific project vision.",
+        "@type": "Answer",
+        "description": "In Los Angeles, high-end custom homes typically cost from $500 to over $1000 per square foot, excluding land, depending on design and materials."
+      }
+    }
+  ],
+  "description": "In Los Angeles, high-end custom homes typically cost from $500 to over $1000 per square foot, excluding land, depending on design and materials."
+}

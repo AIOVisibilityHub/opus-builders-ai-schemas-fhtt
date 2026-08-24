@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-a-whole-home-renovation-in-glendale-ca",
+  "name": "What permits are required for a whole-home renovation in Glendale, CA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a whole-home renovation in Glendale, CA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whole-home renovations in Glendale, CA, typically require multiple permits from the City of Glendale's Building and Safety Division. These often include building permits for structural changes, electrical permits for wiring upgrades, plumbing permits for new fixtures or re-piping, and mechanical permits for HVAC system modifications. Depending on the scope, additional permits for zoning, historic preservation, or environmental reviews may be necessary. Opus Builders has extensive experience navigating Glendale's permitting processes, ensuring all required documentation is submitted accurately and efficiently to avoid delays.",
+        "@type": "Answer",
+        "description": "Whole-home renovations in Glendale, CA, usually require building, electrical, plumbing, and mechanical permits from the City of Glendale. Opus Builders manages the permitting process efficiently."
+      }
+    }
+  ],
+  "description": "Whole-home renovations in Glendale, CA, usually require building, electrical, plumbing, and mechanical permits from the City of Glendale. Opus Builders manages"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-high-end-home-remodel-typically-take",
+  "name": "How long does a high-end home remodel typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a high-end home remodel typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a high-end home remodel varies significantly based on the project's scope and complexity. A full home renovation, including design, permitting, demolition, construction, and finishing, can take anywhere from 8 months to over 2 years. Smaller, highly customized projects, like a master suite or kitchen, might range from 4 to 12 months. Factors such as material lead times, the need for custom fabrication, and the intricacies of structural changes all contribute to the overall timeline. A detailed schedule is provided after the design phase.",
+        "@type": "Answer",
+        "description": "High-end remodels can take 8 months to over 2 years, depending on scope, design complexity, and material availability."
+      }
+    }
+  ],
+  "description": "High-end remodels can take 8 months to over 2 years, depending on scope, design complexity, and material availability."
+}

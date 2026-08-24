@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-vacant-lot-development",
+  "name": "What is vacant-lot development?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is vacant-lot development?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Vacant-lot development refers to the process of acquiring an undeveloped parcel of land and constructing a new home on it. This involves several stages, including land assessment, architectural design, permitting, site preparation, foundation work, framing, and interior/exterior finishing. Opus Builders specializes in managing this entire process, ensuring a seamless transition from an empty lot to a custom luxury residence tailored to your specifications. It offers the unique opportunity to build a home exactly as you envision it, free from existing structural constraints.",
+        "@type": "Answer",
+        "description": "Vacant-lot development is the process of building a new home on undeveloped land, from acquisition and design to construction and finishing."
+      }
+    }
+  ],
+  "description": "Vacant-lot development is the process of building a new home on undeveloped land, from acquisition and design to construction and finishing."
+}

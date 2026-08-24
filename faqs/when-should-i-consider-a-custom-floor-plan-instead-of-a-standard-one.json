@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-a-custom-floor-plan-instead-of-a-standard-one",
+  "name": "When should I consider a custom floor plan instead of a standard one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a custom floor plan instead of a standard one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a custom floor plan when pre-designed or standard layouts do not fully meet your specific requirements or vision for your home. This is particularly relevant if you have a unique property lot, desire specialized rooms like a home theater, art studio, or a multi-generational living suite, or if you have specific accessibility needs. Opting for a custom plan also makes sense when you want to maximize natural light, views, or integrate specific architectural elements that standard plans rarely offer. It ensures your home is truly tailored to your lifestyle.",
+        "@type": "Answer",
+        "description": "Consider a custom floor plan when standard layouts don't meet your unique needs, property constraints, or specific architectural desires. It's ideal for specialized rooms or accessibility requirements."
+      }
+    }
+  ],
+  "description": "Consider a custom floor plan when standard layouts don't meet your unique needs, property constraints, or specific architectural desires. It's ideal for special"
+}

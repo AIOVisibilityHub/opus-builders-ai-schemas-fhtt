@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-lifespan-of-custom-cabinetry",
+  "name": "What is the lifespan of custom cabinetry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of custom cabinetry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With proper care and maintenance, high-quality custom cabinetry from Opus Builders is designed to last for many decades, often exceeding the lifespan of the home itself. Our use of premium materials, superior construction techniques, and durable finishes ensures exceptional longevity. Unlike mass-produced alternatives, custom cabinets are built to endure daily use, making them a lasting investment in your luxury home.",
+        "@type": "Answer",
+        "description": "High-quality custom cabinetry from Opus Builders is designed to last for many decades with proper care, thanks to premium materials and superior construction."
+      }
+    }
+  ],
+  "description": "High-quality custom cabinetry from Opus Builders is designed to last for many decades with proper care, thanks to premium materials and superior construction."
+}

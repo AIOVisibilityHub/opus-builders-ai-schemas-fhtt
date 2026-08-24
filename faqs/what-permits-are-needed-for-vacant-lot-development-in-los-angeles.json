@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-needed-for-vacant-lot-development-in-los-angeles",
+  "name": "What permits are needed for vacant-lot development in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for vacant-lot development in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, developing a vacant lot requires numerous permits from various city departments. These typically include grading permits for site preparation, building permits for the construction of the structure, plumbing permits, electrical permits, and mechanical permits. Additionally, depending on the specific location and project, you might need permits for tree removal, hillside development, or coastal zone management. Opus Builders assists clients in navigating the complex permitting process with the Los Angeles Department of Building and Safety and other relevant agencies to ensure compliance.",
+        "@type": "Answer",
+        "description": "Vacant-lot development in Los Angeles requires grading, building, plumbing, electrical, and mechanical permits, often with additional specific permits depending on the site."
+      }
+    }
+  ],
+  "description": "Vacant-lot development in Los Angeles requires grading, building, plumbing, electrical, and mechanical permits, often with additional specific permits depending"
+}

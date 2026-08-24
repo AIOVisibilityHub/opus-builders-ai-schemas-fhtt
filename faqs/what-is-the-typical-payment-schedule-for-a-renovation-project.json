@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-payment-schedule-for-a-renovation-project",
+  "name": "What is the typical payment schedule for a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment schedule for a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical payment schedule for a renovation project usually involves an initial deposit, followed by progress payments tied to specific project milestones, and a final payment upon satisfactory completion. The deposit covers initial planning and material procurement, while subsequent payments ensure that work is funded as it progresses. Opus Builders outlines a clear, transparent payment schedule in the contract, ensuring clients understand when payments are due in relation to project advancements.",
+        "@type": "Answer",
+        "description": "Renovation payment schedules typically involve an initial deposit, progress payments tied to milestones, and a final payment upon project completion."
+      }
+    }
+  ],
+  "description": "Renovation payment schedules typically involve an initial deposit, progress payments tied to milestones, and a final payment upon project completion."
+}

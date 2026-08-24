@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-common-challenges-in-vacant-lot-development",
+  "name": "What are common challenges in vacant-lot development?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges in vacant-lot development?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in vacant-lot development often include navigating complex local zoning laws and obtaining necessary permits, which can be time-consuming. Unforeseen site conditions, such as unstable soil, bedrock, or buried utilities, can lead to delays and increased costs. Connecting to existing infrastructure for water, sewer, and electricity might also pose challenges, especially in more remote areas. Additionally, managing project timelines and budgets for a custom build requires careful planning and experienced oversight to mitigate potential issues.",
+        "@type": "Answer",
+        "description": "Challenges in vacant-lot development include zoning and permitting hurdles, unforeseen site conditions, utility connections, and managing project timelines and budgets."
+      }
+    }
+  ],
+  "description": "Challenges in vacant-lot development include zoning and permitting hurdles, unforeseen site conditions, utility connections, and managing project timelines and"
+}

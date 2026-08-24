@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-is-the-best-time-to-undertake-a-whole-home-renovation",
+  "name": "When is the best time to undertake a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to undertake a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 'best' time for a whole-home renovation often depends on personal circumstances, such as your family's schedule, travel plans, or desire to minimize disruption. From a construction standpoint, certain phases like exterior work or landscaping might be preferable during specific seasons with more favorable weather, though much of the interior work is less weather-dependent. Planning ahead is crucial, as the design and permitting process can take several months. We recommend initiating discussions well in advance of your desired start date to allow ample time for thorough preparation.",
+        "@type": "Answer",
+        "description": "The best time depends on your personal schedule and project phases. Exterior work may favor certain seasons, but planning well in advance for design and permits is always recommended."
+      }
+    }
+  ],
+  "description": "The best time depends on your personal schedule and project phases. Exterior work may favor certain seasons, but planning well in advance for design and permits"
+}

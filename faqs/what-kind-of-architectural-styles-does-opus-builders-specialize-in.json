@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-kind-of-architectural-styles-does-opus-builders-specialize-in",
+  "name": "What kind of architectural styles does Opus Builders specialize in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of architectural styles does Opus Builders specialize in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders specializes in a diverse range of luxury architectural styles, tailored to client preferences and the specific context of the Los Angeles area. Our portfolio includes, but is not limited to, Modern, Contemporary, Mediterranean, Spanish Colonial Revival, Traditional, and Transitional designs. We work closely with our clients and leading architects to realize their unique vision, ensuring that each home is a distinctive reflection of their style while harmonizing with its surroundings and maximizing functionality.",
+        "@type": "Answer",
+        "description": "Opus Builders specializes in diverse luxury architectural styles, including Modern, Contemporary, Mediterranean, and Traditional. We tailor designs to client preferences and location."
+      }
+    }
+  ],
+  "description": "Opus Builders specializes in diverse luxury architectural styles, including Modern, Contemporary, Mediterranean, and Traditional. We tailor designs to client pr"
+}

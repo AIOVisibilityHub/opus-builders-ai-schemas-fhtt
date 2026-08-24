@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-whole-home-renovation-and-how-does-it-differ-from-remodeling-or-remode",
+  "name": "What is a whole-home renovation, and how does it differ from remodeling or remodeling an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a whole-home renovation, and how does it differ from remodeling or remodeling an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home renovation involves updating or transforming most, if not all, areas of your residence, often encompassing structural changes, reconfiguring layouts, and modernizing systems like plumbing and electrical. This differs from a partial remodel, which focuses on specific rooms, or an addition, which expands the existing footprint. A whole-home renovation aims for a cohesive design and improved functionality throughout the entire property, often increasing its value and aligning it with your lifestyle needs, particularly in luxury markets like Los Angeles where comprehensive updates are sought after.",
+        "@type": "Answer",
+        "description": "A whole-home renovation updates most or all areas of a house, including structural and system changes, for a cohesive design. It differs from partial remodels or additions by focusing on a property-wide transformation."
+      }
+    }
+  ],
+  "description": "A whole-home renovation updates most or all areas of a house, including structural and system changes, for a cohesive design. It differs from partial remodels o"
+}

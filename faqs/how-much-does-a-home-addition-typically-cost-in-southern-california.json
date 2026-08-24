@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-home-addition-typically-cost-in-southern-california",
+  "name": "How much does a home addition typically cost in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a home addition typically cost in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a home addition in Southern California varies significantly based on its size, complexity, materials, and the specific finishes chosen. A rough estimate can range from $200 to $600 per square foot, but this can increase for luxury finishes or structural challenges. Factors like foundation work, utility relocation, and the need for new roofing systems also impact the overall budget. It's crucial to have a detailed consultation to get an accurate estimate tailored to your project.",
+        "@type": "Answer",
+        "description": "Home addition costs in Southern California typically range from $200 to $600 per square foot, varying based on size, complexity, materials, and finishes. Detailed consultation is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Home addition costs in Southern California typically range from $200 to $600 per square foot, varying based on size, complexity, materials, and finishes. Detail"
+}

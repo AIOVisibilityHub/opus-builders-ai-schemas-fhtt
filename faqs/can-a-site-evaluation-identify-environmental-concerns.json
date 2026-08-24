@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-a-site-evaluation-identify-environmental-concerns",
+  "name": "Can a site evaluation identify environmental concerns?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a site evaluation identify environmental concerns?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a comprehensive site evaluation can identify various environmental concerns. This includes assessing potential for erosion, determining the presence of protected flora or fauna, identifying wetland areas, and evaluating proximity to floodplains or wildfire risk zones. For luxury homes, understanding these factors is crucial for responsible development and ensuring compliance with environmental regulations, which may involve specific mitigation strategies.",
+        "@type": "Answer",
+        "description": "Yes, it can identify environmental concerns like erosion potential, protected species, wetlands, floodplains, and wildfire risks for responsible development."
+      }
+    }
+  ],
+  "description": "Yes, it can identify environmental concerns like erosion potential, protected species, wetlands, floodplains, and wildfire risks for responsible development."
+}

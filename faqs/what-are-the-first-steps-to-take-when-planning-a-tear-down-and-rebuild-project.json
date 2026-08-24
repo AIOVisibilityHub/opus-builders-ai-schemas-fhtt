@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-first-steps-to-take-when-planning-a-tear-down-and-rebuild-project",
+  "name": "What are the first steps to take when planning a tear-down and rebuild project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to take when planning a tear-down and rebuild project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps involve assessing your property's suitability and defining your vision. Begin by consulting with a reputable luxury home builder like Opus Builders and an architect to discuss your goals, budget, and desired style. They can help evaluate the existing site, understand local zoning ordinances, and provide preliminary feasibility assessments. Simultaneously, research financing options. This initial planning phase is crucial for establishing a solid foundation for the entire project, ensuring that your vision aligns with practical and regulatory realities.",
+        "@type": "Answer",
+        "description": "Start by consulting with a luxury home builder and architect to assess your property, define your vision and budget, and understand local zoning, while also researching financing."
+      }
+    }
+  ],
+  "description": "Start by consulting with a luxury home builder and architect to assess your property, define your vision and budget, and understand local zoning, while also res"
+}

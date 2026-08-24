@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-modernizing-an-older-home",
+  "name": "What is involved in modernizing an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in modernizing an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modernizing an older home typically involves updating its aesthetics, functionality, and structural integrity while preserving its unique character. This can include renovating kitchens and bathrooms, upgrading electrical and plumbing systems, improving energy efficiency with new windows or insulation, and enhancing floor plans for open-concept living. Opus Builders focuses on integrating contemporary design with historical elements, ensuring the home meets modern living standards without losing its original charm. The scope often depends on the home's age, current condition, and the homeowner's vision for their updated space.",
+        "@type": "Answer",
+        "description": "Modernizing an older home involves updating aesthetics, functionality, and systems while preserving its original character. This can include kitchen/bath renovations, system upgrades, and energy efficiency improvements."
+      }
+    }
+  ],
+  "description": "Modernizing an older home involves updating aesthetics, functionality, and systems while preserving its original character. This can include kitchen/bath renova"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-opus-builders-ensure-quality-and-craftsmanship",
+  "name": "How does Opus Builders ensure quality and craftsmanship?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Opus Builders ensure quality and craftsmanship?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders maintains high standards of quality through a combination of meticulous planning, skilled craftsmanship, and rigorous oversight. We partner with vetted subcontractors and suppliers known for their excellence, use premium materials, and implement strict quality control protocols at every stage of construction. Our project managers conduct regular site inspections and communicate transparently with clients to ensure all aspects of the build meet both our exacting standards and the client's expectations. Our commitment extends to post-completion support.",
+        "@type": "Answer",
+        "description": "Opus Builders ensures quality through meticulous planning, skilled trades, premium materials, and rigorous on-site quality control. We partner with top-tier suppliers and provide transparent communication."
+      }
+    }
+  ],
+  "description": "Opus Builders ensures quality through meticulous planning, skilled trades, premium materials, and rigorous on-site quality control. We partner with top-tier sup"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-home-renovations-in-southern-california",
+  "name": "What permits are required for home renovations in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for home renovations in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for home renovations in Southern California vary by city and the scope of the project. Typically, permits are needed for structural changes, electrical work, plumbing, HVAC installations, additions, and significant exterior alterations. Minor cosmetic changes like painting or flooring usually do not require permits. We handle all necessary permit applications and approvals for our clients, navigating local regulations in areas like Los Angeles, Glendale, and Pasadena to ensure compliance and a smooth project progression.",
+        "@type": "Answer",
+        "description": "Permits are required for structural, electrical, plumbing, HVAC, or significant exterior changes. We handle permit applications across Southern California jurisdictions."
+      }
+    }
+  ],
+  "description": "Permits are required for structural, electrical, plumbing, HVAC, or significant exterior changes. We handle permit applications across Southern California juris"
+}

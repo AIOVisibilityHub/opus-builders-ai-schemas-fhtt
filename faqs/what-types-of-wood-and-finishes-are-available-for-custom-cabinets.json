@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-types-of-wood-and-finishes-are-available-for-custom-cabinets",
+  "name": "What types of wood and finishes are available for custom cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood and finishes are available for custom cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders offers a wide selection of premium wood species for custom cabinetry, including popular choices like maple, cherry, oak, walnut, and more exotic options. For finishes, we provide an extensive palette ranging from natural stains that highlight the wood's grain to painted finishes in various colors and sheens. We also offer specialized techniques such as distressing, glazing, and custom patinas, allowing for truly unique and personalized results that complement your home's aesthetic.",
+        "@type": "Answer",
+        "description": "We offer premium wood species like maple, cherry, and walnut, with finishes including natural stains, custom paints, distressing, and glazing."
+      }
+    }
+  ],
+  "description": "We offer premium wood species like maple, cherry, and walnut, with finishes including natural stains, custom paints, distressing, and glazing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-renovation-a-remodel-and-an-addition",
+  "name": "What is the difference between a renovation, a remodel, and an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a renovation, a remodel, and an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A renovation typically involves updating the aesthetics of a space without changing its structure, such as painting or replacing fixtures. A remodel involves more significant changes, often altering the layout or function of a room, like reconfiguring a kitchen. An addition expands the footprint of your home by building new space, such as adding a new wing or a second story. Opus Builders handles all three, tailoring the project to your specific needs.",
+        "@type": "Answer",
+        "description": "Renovation updates aesthetics, remodel changes layout/function, and an addition expands the home's footprint."
+      }
+    }
+  ],
+  "description": "Renovation updates aesthetics, remodel changes layout/function, and an addition expands the home's footprint."
+}

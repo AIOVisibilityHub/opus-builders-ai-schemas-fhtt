@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-remodel-and-a-renovation",
+  "name": "What is the difference between a remodel and a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a remodel and a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a renovation generally refers to updating and restoring an existing structure to a good state of repair, focusing on refreshing its appearance and functionality without changing its core layout. Examples include new paint, flooring, or updated fixtures. A remodel, however, involves changing the structure or layout of a space, like moving walls, altering room configurations, or adding an extension, to create a new aesthetic or purpose. Both improve a home, but remodels typically involve more extensive design and construction work.",
+        "@type": "Answer",
+        "description": "Renovation updates existing features without changing layout, like painting; remodel alters a space's structure or layout, like moving walls or adding an extension."
+      }
+    }
+  ],
+  "description": "Renovation updates existing features without changing layout, like painting; remodel alters a space's structure or layout, like moving walls or adding an extens"
+}

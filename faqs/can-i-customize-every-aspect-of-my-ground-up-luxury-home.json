@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-customize-every-aspect-of-my-ground-up-luxury-home",
+  "name": "Can I customize every aspect of my ground-up luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize every aspect of my ground-up luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, one of the primary advantages of ground-up luxury home construction is the ability to customize nearly every aspect of your new residence. From the overall architectural style, floor plan, and room dimensions to specific material selections, smart home technology integrations, and unique finishes, you have complete control. This ensures the final product perfectly aligns with your lifestyle, aesthetic preferences, and functional requirements, creating a truly bespoke living space.",
+        "@type": "Answer",
+        "description": "Yes, ground-up luxury home construction allows for customization of nearly every aspect, including architectural style, floor plan, materials, and smart home features."
+      }
+    }
+  ],
+  "description": "Yes, ground-up luxury home construction allows for customization of nearly every aspect, including architectural style, floor plan, materials, and smart home fe"
+}

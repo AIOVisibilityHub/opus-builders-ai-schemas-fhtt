@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-do-i-need-to-hire-an-architect-versus-just-a-general-contractor",
+  "name": "When do I need to hire an architect versus just a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to hire an architect versus just a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need an architect when your renovation involves significant structural changes, additions, or a complete redesign of your home's layout. Architects provide detailed drawings, ensure structural integrity, and often manage the permitting process. For cosmetic updates, material upgrades, or minor reconfigurations that don't alter the load-bearing elements, a general contractor may be sufficient to execute the plan. Opus Builders integrates both design and construction expertise, simplifying this decision by offering a comprehensive solution for luxury projects.",
+        "@type": "Answer",
+        "description": "Hire an architect for structural changes, additions, or major redesigns; a general contractor for cosmetic or minor updates. Integrated design-build firms offer a comprehensive solution."
+      }
+    }
+  ],
+  "description": "Hire an architect for structural changes, additions, or major redesigns; a general contractor for cosmetic or minor updates. Integrated design-build firms offer"
+}

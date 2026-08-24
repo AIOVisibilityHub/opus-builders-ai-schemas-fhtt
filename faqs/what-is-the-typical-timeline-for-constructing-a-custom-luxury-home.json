@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-constructing-a-custom-luxury-home",
+  "name": "What is the typical timeline for constructing a custom luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a custom luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom luxury home varies significantly based on design complexity, material selections, site conditions, and permitting processes. Generally, the design phase can take 3-6 months, while construction can range from 12-24 months or longer. Factors like custom cabinetry, intricate finishes, and extensive landscaping will extend the duration. We work closely with clients to establish a realistic schedule and provide regular updates on progress.",
+        "@type": "Answer",
+        "description": "Custom luxury home construction typically takes 12-24 months after a 3-6 month design phase, depending on complexity and materials."
+      }
+    }
+  ],
+  "description": "Custom luxury home construction typically takes 12-24 months after a 3-6 month design phase, depending on complexity and materials."
+}

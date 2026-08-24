@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-a-home-addition-in-cities-like-glendale-or-pasaden",
+  "name": "What permits are required for a home addition in cities like Glendale or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a home addition in cities like Glendale or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For home additions in cities like Glendale or Pasadena, several permits are typically required. These commonly include building permits for structural changes, electrical permits for wiring, plumbing permits for water and waste lines, and mechanical permits for HVAC systems. Zoning and planning department approvals are also essential to ensure the addition complies with local regulations regarding setbacks, height limits, and lot coverage. Opus Builders assists clients in navigating these specific local permitting processes.",
+        "@type": "Answer",
+        "description": "Home additions in Glendale or Pasadena generally require building, electrical, plumbing, and mechanical permits, along with zoning and planning approvals to ensure compliance with local regulations."
+      }
+    }
+  ],
+  "description": "Home additions in Glendale or Pasadena generally require building, electrical, plumbing, and mechanical permits, along with zoning and planning approvals to ens"
+}

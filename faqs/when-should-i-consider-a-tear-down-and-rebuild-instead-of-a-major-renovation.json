@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-a-tear-down-and-rebuild-instead-of-a-major-renovation",
+  "name": "When should I consider a tear-down and rebuild instead of a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a tear-down and rebuild instead of a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a tear-down and rebuild if the existing home has significant structural issues, outdated systems that are costly to upgrade, or a layout that cannot be adapted to your needs. If the desired renovations would require extensive demolition and rebuilding anyway, or if the cost of renovation approaches or exceeds the cost of new construction, a rebuild often provides better long-term value. It also offers the advantage of building to current codes and energy efficiency standards from the ground up, allowing for complete design freedom.",
+        "@type": "Answer",
+        "description": "Opt for a tear-down and rebuild if your current home has major structural flaws, expensive system upgrades, or an unadaptable layout, especially when renovation costs near new construction."
+      }
+    }
+  ],
+  "description": "Opt for a tear-down and rebuild if your current home has major structural flaws, expensive system upgrades, or an unadaptable layout, especially when renovation"
+}

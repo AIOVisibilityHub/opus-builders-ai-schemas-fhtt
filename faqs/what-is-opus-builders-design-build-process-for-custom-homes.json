@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-opus-builders-design-build-process-for-custom-homes",
+  "name": "What is Opus Builders' design-build process for custom homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is Opus Builders' design-build process for custom homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our design-build process integrates design and construction under a single point of responsibility. This begins with an initial consultation to define your vision, budget, and site considerations. Next, our architects and designers develop conceptual plans, which are refined through client feedback. Once the design is approved, we handle all permitting and detailed planning. Construction then commences, managed by our project team who ensures quality, schedule adherence, and budget control, culminating in the delivery of your dream home.",
+        "@type": "Answer",
+        "description": "Opus Builders' design-build process integrates architectural design and construction management under one team, from initial concept to final build."
+      }
+    }
+  ],
+  "description": "Opus Builders' design-build process integrates architectural design and construction management under one team, from initial concept to final build."
+}

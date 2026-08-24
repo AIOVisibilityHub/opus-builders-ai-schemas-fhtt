@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-modernize-an-older-home-in-los-angeles",
+  "name": "How much does it cost to modernize an older home in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to modernize an older home in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of modernizing an older home in the Los Angeles area varies significantly based on the project's scope, the home's size, and the quality of materials selected. Minor updates might range from tens of thousands, while extensive renovations involving structural changes, multiple room remodels, and system overhauls can easily reach several hundred thousand dollars or more. Factors like historic preservation requirements, unforeseen issues common in older properties, and custom finishes also influence the budget. Opus Builders provides detailed estimates after an initial consultation and assessment.",
+        "@type": "Answer",
+        "description": "Costs vary widely for older home modernization in Los Angeles, depending on project scope, home size, and material choices. Extensive renovations can be several hundred thousand dollars or more."
+      }
+    }
+  ],
+  "description": "Costs vary widely for older home modernization in Los Angeles, depending on project scope, home size, and material choices. Extensive renovations can be several"
+}

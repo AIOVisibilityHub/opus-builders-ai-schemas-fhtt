@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-custom-home-and-a-semi-custom-or-production-hom",
+  "name": "What is the difference between a custom home and a semi-custom or production home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom home and a semi-custom or production home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom home is uniquely designed from the ground up to meet the specific desires, lifestyle, and site conditions of a single client, offering unparalleled personalization in layout, features, and finishes. Semi-custom homes are built from existing floor plans that can be modified to some extent, with choices from a limited selection of finishes. Production homes, conversely, are built on speculation using standardized plans and materials, offering minimal to no customization. Opus Builders specializes exclusively in fully custom homes.",
+        "@type": "Answer",
+        "description": "A custom home is a unique, client-specific design, unlike semi-custom homes with limited modifications or production homes with no customization. Opus Builders specializes in fully custom homes."
+      }
+    }
+  ],
+  "description": "A custom home is a unique, client-specific design, unlike semi-custom homes with limited modifications or production homes with no customization. Opus Builders"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-common-signs-that-my-home-may-need-structural-repair",
+  "name": "What are the common signs that my home may need structural repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my home may need structural repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your home might need structural repair include significant cracks in foundation walls, interior and exterior walls (especially horizontal or stair-step cracks), uneven or sloping floors, doors and windows that stick or don't close properly, and sagging roofs or ceilings. In some cases, visible gaps between walls and ceilings, or excessive moisture in crawl spaces, can also indicate underlying structural issues. If you observe any of these signs, it's advisable to consult with a structural engineer or a qualified general contractor for an assessment.",
+        "@type": "Answer",
+        "description": "Common signs of structural issues include foundation cracks, uneven floors, sticking doors/windows, sagging roofs, or gaps between walls and ceilings. Consult a professional if noticed."
+      }
+    }
+  ],
+  "description": "Common signs of structural issues include foundation cracks, uneven floors, sticking doors/windows, sagging roofs, or gaps between walls and ceilings. Consult a"
+}

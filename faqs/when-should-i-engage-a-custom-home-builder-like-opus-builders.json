@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-engage-a-custom-home-builder-like-opus-builders",
+  "name": "When should I engage a custom home builder like Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a custom home builder like Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is best to engage a custom home builder early in the process, ideally before or during the initial architectural design phase, even if you don't yet own a lot. Bringing Opus Builders into the conversation early allows us to provide valuable input on site selection, budget feasibility, material costs, and construction logistics. This proactive approach can help optimize the design for constructability and cost-efficiency, potentially saving time and money while avoiding costly revisions later on.",
+        "@type": "Answer",
+        "description": "Engage a custom home builder early, ideally during site selection or initial design. This helps optimize design, manage costs, and streamline the entire building process."
+      }
+    }
+  ],
+  "description": "Engage a custom home builder early, ideally during site selection or initial design. This helps optimize design, manage costs, and streamline the entire buildin"
+}

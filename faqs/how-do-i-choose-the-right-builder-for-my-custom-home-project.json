@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-builder-for-my-custom-home-project",
+  "name": "How do I choose the right builder for my custom home project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right builder for my custom home project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right builder involves evaluating their experience, portfolio, reputation, and communication style. Look for a builder with a strong track record in custom home construction, especially in your desired architectural style or location. Review their past projects, check references, and ensure they are licensed and insured. A good builder should also demonstrate clear communication, transparency in pricing, and a strong understanding of your vision. We encourage you to ask detailed questions about our process, team, and previous work.",
+        "@type": "Answer",
+        "description": "Choose a builder by evaluating their experience, portfolio, references, licensing, and communication. Ensure their expertise aligns with your custom home vision."
+      }
+    }
+  ],
+  "description": "Choose a builder by evaluating their experience, portfolio, references, licensing, and communication. Ensure their expertise aligns with your custom home vision"
+}

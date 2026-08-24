@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-whole-house-remodel-take",
+  "name": "How long does a typical whole-house remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical whole-house remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole-house remodel varies significantly based on the project's complexity, the size of your home, and the extent of changes. A minor remodel might take 4-6 months, while extensive structural changes or additions could extend to 12-18 months or more. Key factors include design finalization, permitting processes, material lead times, and the construction phase itself. We establish a detailed timeline at the outset to manage expectations.",
+        "@type": "Answer",
+        "description": "A whole-house remodel typically takes 4-18 months, depending on the project's complexity, home size, and scope of changes."
+      }
+    }
+  ],
+  "description": "A whole-house remodel typically takes 4-18 months, depending on the project's complexity, home size, and scope of changes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-construction-site-evaluation",
+  "name": "What is a construction site evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a construction site evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A construction site evaluation is a comprehensive assessment of a property before building begins. It examines various factors like soil conditions, topography, existing utilities, access, and environmental considerations. This process identifies potential challenges or opportunities, ensuring the site is suitable for the proposed luxury home design and helps in planning a smooth construction process.",
+        "@type": "Answer",
+        "description": "A construction site evaluation is an assessment of a property's suitability for building, examining factors like soil, topography, and utilities."
+      }
+    }
+  ],
+  "description": "A construction site evaluation is an assessment of a property's suitability for building, examining factors like soil, topography, and utilities."
+}

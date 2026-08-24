@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-should-i-consider-before-starting-a-home-renovation-project",
+  "name": "What should I consider before starting a home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting a home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a home renovation, consider your budget, desired timeline, and the scope of work. Define your goals for the renovation, understanding what you want to achieve functionally and aesthetically. Research local zoning laws and HOA restrictions that might impact your plans. Think about how the renovation will affect your daily life and living arrangements during construction. Finally, compile inspiration and ideas to communicate your vision effectively to your design and build team, ensuring alignment from the project's inception.",
+        "@type": "Answer",
+        "description": "Consider your budget, timeline, project scope, desired outcomes, and local regulations. Gather inspiration to effectively communicate your vision."
+      }
+    }
+  ],
+  "description": "Consider your budget, timeline, project scope, desired outcomes, and local regulations. Gather inspiration to effectively communicate your vision."
+}

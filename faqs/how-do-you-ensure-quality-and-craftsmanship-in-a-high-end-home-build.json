@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-you-ensure-quality-and-craftsmanship-in-a-high-end-home-build",
+  "name": "How do you ensure quality and craftsmanship in a high-end home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure quality and craftsmanship in a high-end home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We ensure quality through a rigorous selection of skilled artisans, premium materials, and close supervision at every stage of construction. Our project managers conduct regular site inspections and implement strict quality control protocols. We partner with vetted subcontractors known for their expertise in luxury finishes and systems. This comprehensive approach, combined with detailed planning and open communication, guarantees that every aspect of the home meets our exacting standards and your expectations.",
+        "@type": "Answer",
+        "description": "Quality is ensured through skilled artisans, premium materials, strict supervision, regular inspections, and partnerships with vetted subcontractors."
+      }
+    }
+  ],
+  "description": "Quality is ensured through skilled artisans, premium materials, strict supervision, regular inspections, and partnerships with vetted subcontractors."
+}

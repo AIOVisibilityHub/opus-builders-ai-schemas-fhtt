@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-ground-up-construction-in-los-angeles-county",
+  "name": "What permits are required for ground-up construction in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for ground-up construction in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For ground-up construction in Los Angeles County, a variety of permits are typically required, including building permits, grading permits, electrical permits, plumbing permits, and mechanical permits. Depending on the project and site, additional permits may be needed for environmental impact, tree removal, or specific zoning variances. The exact requirements vary by municipality (e.g., City of Los Angeles vs. Pasadena) and project scope. Your builder or architect will manage the permit application process.",
+        "@type": "Answer",
+        "description": "Ground-up construction in Los Angeles County requires various permits, including building, grading, electrical, plumbing, and mechanical, with specific needs varying by municipality."
+      }
+    }
+  ],
+  "description": "Ground-up construction in Los Angeles County requires various permits, including building, grading, electrical, plumbing, and mechanical, with specific needs va"
+}

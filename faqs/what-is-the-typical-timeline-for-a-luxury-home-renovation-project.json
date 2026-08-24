@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-a-luxury-home-renovation-project",
+  "name": "What is the typical timeline for a luxury home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a luxury home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a luxury home renovation varies significantly based on the project's scope and complexity. A small-scale interior update might take 3-6 months, while a major whole-home remodel or addition could extend to 12-24 months or more. This includes design, permitting, material selection, and construction phases. Factors like unforeseen structural issues, material lead times, and client revisions can also influence the overall duration. We work closely with clients to establish a realistic timeline from the outset.",
+        "@type": "Answer",
+        "description": "Timelines vary: 3-6 months for small updates, 12-24+ months for major remodels, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "Timelines vary: 3-6 months for small updates, 12-24+ months for major remodels, depending on scope and complexity."
+}

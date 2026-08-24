@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-structural-remodeling-in-los-angeles-and-surroundi",
+  "name": "What permits are required for structural remodeling in Los Angeles and surrounding cities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for structural remodeling in Los Angeles and surrounding cities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural remodeling projects in Los Angeles, Glendale, Pasadena, and surrounding cities typically require several permits to ensure safety and compliance with building codes. This usually includes a building permit, which necessitates detailed architectural and structural plans signed by licensed professionals. Depending on the scope, plumbing, electrical, and mechanical permits might also be required if those systems are affected. Our team assists clients in navigating the local permitting process, ensuring all necessary approvals are obtained before construction begins, which can significantly streamline the project.",
+        "@type": "Answer",
+        "description": "Structural remodeling in the Los Angeles area requires building permits, often with architectural and structural plans. Additional permits for plumbing, electrical, or mechanical work may also be necessary."
+      }
+    }
+  ],
+  "description": "Structural remodeling in the Los Angeles area requires building permits, often with architectural and structural plans. Additional permits for plumbing, electri"
+}

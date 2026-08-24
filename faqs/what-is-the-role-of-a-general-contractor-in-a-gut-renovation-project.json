@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-role-of-a-general-contractor-in-a-gut-renovation-project",
+  "name": "What is the role of a general contractor in a gut renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a general contractor in a gut renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The general contractor oversees all aspects of your gut renovation project, acting as the primary point of contact. This includes managing subcontractors, coordinating schedules, procuring materials, ensuring adherence to the budget, and maintaining quality control. They are also responsible for site safety, managing inspections, and ensuring the project complies with all local building codes and regulations, ensuring a smooth and efficient construction process from start to finish.",
+        "@type": "Answer",
+        "description": "A general contractor manages all aspects of a gut renovation, including subcontractors, scheduling, materials, budget, quality control, safety, and code compliance."
+      }
+    }
+  ],
+  "description": "A general contractor manages all aspects of a gut renovation, including subcontractors, scheduling, materials, budget, quality control, safety, and code complia"
+}

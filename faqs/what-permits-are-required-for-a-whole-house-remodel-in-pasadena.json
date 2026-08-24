@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-a-whole-house-remodel-in-pasadena",
+  "name": "What permits are required for a whole-house remodel in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a whole-house remodel in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a whole-house remodel in Pasadena, various permits are typically required, including building permits for structural changes, additions, or significant alterations. Additionally, separate permits may be needed for electrical, plumbing, mechanical (HVAC), and potentially grading or historic preservation if your property falls within a designated district. We handle all necessary permit applications and coordinate with the City of Pasadena to ensure compliance with local codes and regulations.",
+        "@type": "Answer",
+        "description": "A whole-house remodel in Pasadena typically requires building, electrical, plumbing, and mechanical permits, with additional permits for historic districts or grading, all handled by our team."
+      }
+    }
+  ],
+  "description": "A whole-house remodel in Pasadena typically requires building, electrical, plumbing, and mechanical permits, with additional permits for historic districts or g"
+}

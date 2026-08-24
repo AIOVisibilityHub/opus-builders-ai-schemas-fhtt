@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-average-cost-per-square-foot-for-a-luxury-custom-home-in-los-angeles",
+  "name": "What is the average cost per square foot for a luxury custom home in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for a luxury custom home in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for a luxury custom home in Los Angeles can vary significantly, often ranging from $400 to over $1000, depending on factors like architectural style, quality of finishes, site challenges, and specific amenities. This estimate typically includes construction costs but excludes land acquisition, landscaping, and other soft costs. We provide detailed cost breakdowns and work with clients to align the design with their budget during the initial planning stages, ensuring transparency and no hidden surprises.",
+        "@type": "Answer",
+        "description": "Luxury custom homes in Los Angeles can range from $400 to over $1000 per square foot, depending on design, finishes, and site conditions."
+      }
+    }
+  ],
+  "description": "Luxury custom homes in Los Angeles can range from $400 to over $1000 per square foot, depending on design, finishes, and site conditions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-selecting-an-architect-and-builder-for-a-new-home-constr",
+  "name": "What is the process for selecting an architect and builder for a new home construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for selecting an architect and builder for a new home construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing an architect and builder involves researching firms with experience in luxury home construction and a portfolio that aligns with your aesthetic. Look for professionals who demonstrate strong communication skills and a clear process. Often, the builder can recommend architects they have successfully collaborated with. Reviewing past projects, checking references, and ensuring their design philosophy and quality standards match yours are crucial steps before making your selection.",
+        "@type": "Answer",
+        "description": "Research firms with relevant experience, review portfolios, check references, and ensure their design philosophy aligns with yours to select an architect and builder."
+      }
+    }
+  ],
+  "description": "Research firms with relevant experience, review portfolios, check references, and ensure their design philosophy aligns with yours to select an architect and bu"
+}

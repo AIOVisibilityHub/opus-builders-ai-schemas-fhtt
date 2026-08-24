@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-you-manage-unexpected-issues-or-changes-during-a-renovation",
+  "name": "How do you manage unexpected issues or changes during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you manage unexpected issues or changes during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Managing unexpected issues and changes is a critical part of any renovation. Our process includes transparent communication, immediate notification of any unforeseen challenges, and collaborative problem-solving with the client. We maintain a contingency budget within the project plan to address minor surprises without significant delays. For larger changes, we provide detailed change orders outlining the impact on cost and schedule for your approval, ensuring you are fully informed and in control throughout the project.",
+        "@type": "Answer",
+        "description": "We manage unexpected issues through transparent communication, immediate notification, collaborative problem-solving, and detailed change orders for client approval."
+      }
+    }
+  ],
+  "description": "We manage unexpected issues through transparent communication, immediate notification, collaborative problem-solving, and detailed change orders for client appr"
+}

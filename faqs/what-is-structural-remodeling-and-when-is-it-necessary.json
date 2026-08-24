@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-structural-remodeling-and-when-is-it-necessary",
+  "name": "What is structural remodeling and when is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is structural remodeling and when is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural remodeling involves making changes to the load-bearing elements of a building, such as walls, beams, columns, and foundations. This type of remodeling is necessary when you plan to significantly alter the layout of your home, such as removing a load-bearing wall to create an open-concept space, adding a second story, or reinforcing existing structures due to damage or age. It ensures the safety and stability of your home by redistributing weight and maintaining the building's integrity. Engaging professionals is crucial for proper assessment and execution.",
+        "@type": "Answer",
+        "description": "Structural remodeling alters load-bearing elements like walls or foundations. It's necessary for significant layout changes, adding stories, or reinforcing damaged structures to ensure safety."
+      }
+    }
+  ],
+  "description": "Structural remodeling alters load-bearing elements like walls or foundations. It's necessary for significant layout changes, adding stories, or reinforcing dama"
+}

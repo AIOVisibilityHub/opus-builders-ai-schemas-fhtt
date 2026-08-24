@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-a-luxury-interior-remodeling-project-in-glendale",
+  "name": "Do I need permits for a luxury interior remodeling project in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a luxury interior remodeling project in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most luxury interior remodeling projects in Glendale, permits are required, especially if the work involves structural changes, significant alterations to plumbing or electrical systems, or changes to the exterior of the property. Non-structural cosmetic updates like painting or new flooring typically do not require permits. We manage the entire permitting process on your behalf, ensuring all work complies with local building codes and regulations in Glendale.",
+        "@type": "Answer",
+        "description": "Permits are generally required for luxury interior remodeling in Glendale involving structural, plumbing, or electrical changes. We manage the permitting process."
+      }
+    }
+  ],
+  "description": "Permits are generally required for luxury interior remodeling in Glendale involving structural, plumbing, or electrical changes. We manage the permitting proces"
+}

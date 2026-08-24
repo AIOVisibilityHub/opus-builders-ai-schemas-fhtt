@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-see-examples-of-your-custom-cabinetry-work-in-the-glendale-or-pasadena-are",
+  "name": "Can I see examples of your custom cabinetry work in the Glendale or Pasadena area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I see examples of your custom cabinetry work in the Glendale or Pasadena area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we are proud to showcase our portfolio of custom cabinetry and finish projects throughout the Los Angeles area, including Glendale and Pasadena. While we prioritize client privacy, we can often share examples of our past work during a consultation or provide references upon request. This allows you to see the quality of our craftsmanship and design capabilities firsthand, helping you envision possibilities for your own luxury home.",
+        "@type": "Answer",
+        "description": "Yes, we can share examples of our custom cabinetry portfolio in Glendale and Pasadena during a consultation or provide references upon request."
+      }
+    }
+  ],
+  "description": "Yes, we can share examples of our custom cabinetry portfolio in Glendale and Pasadena during a consultation or provide references upon request."
+}

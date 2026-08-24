@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-installing-luxury-fixtures-and-custom-finishes",
+  "name": "What is the typical timeline for installing luxury fixtures and custom finishes in a new home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for installing luxury fixtures and custom finishes in a new home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for installing luxury fixtures and custom finishes varies significantly based on the project's complexity and scope. Generally, after the structural phases, rough-ins, and drywall are complete, these installations begin. High-end plumbing fixtures, custom cabinetry, intricate tile work, and specialized lighting can take several weeks to months. Bespoke elements, especially those requiring fabrication, might extend the schedule. Proper sequencing and coordination with other trades are vital to ensure a smooth and efficient process, minimizing delays while maintaining quality standards.",
+        "@type": "Answer",
+        "description": "Installation of luxury fixtures and custom finishes typically takes several weeks to months, commencing after structural and rough-in phases, with bespoke elements potentially extending the timeline."
+      }
+    }
+  ],
+  "description": "Installation of luxury fixtures and custom finishes typically takes several weeks to months, commencing after structural and rough-in phases, with bespoke eleme"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-take-to-develop-a-custom-floor-plan",
+  "name": "How long does it take to develop a custom floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to develop a custom floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for developing a custom floor plan varies depending on the complexity of the design, the size of the home, and the number of revisions required. Generally, the initial conceptual design phase can take 4-8 weeks. The subsequent refinement and detailing phase, which involves multiple review cycles, can extend this by another 6-12 weeks. Factors such as the homeowner's responsiveness and decision-making speed also influence the overall duration. Our goal is to ensure a thorough and collaborative process to achieve your ideal design.",
+        "@type": "Answer",
+        "description": "Development typically takes 10-20 weeks, depending on design complexity, home size, and revisions. The initial concept takes 4-8 weeks, with refinement adding 6-12 weeks."
+      }
+    }
+  ],
+  "description": "Development typically takes 10-20 weeks, depending on design complexity, home size, and revisions. The initial concept takes 4-8 weeks, with refinement adding 6"
+}

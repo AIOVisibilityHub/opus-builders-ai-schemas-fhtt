@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-average-cost-of-a-whole-house-remodel-in-los-angeles",
+  "name": "What is the average cost of a whole-house remodel in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a whole-house remodel in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a whole-house remodel in the Los Angeles area can vary widely, starting from approximately $150 per square foot for basic updates and potentially exceeding $400 per square foot for luxury, high-end renovations. This range depends on factors like the quality of materials, the extent of structural work, custom finishes, and the complexity of design. We provide a detailed estimate after understanding your project goals and conducting an initial assessment.",
+        "@type": "Answer",
+        "description": "In Los Angeles, whole-house remodels typically range from $150 to over $400 per square foot, varying by material quality, structural work, and design complexity."
+      }
+    }
+  ],
+  "description": "In Los Angeles, whole-house remodels typically range from $150 to over $400 per square foot, varying by material quality, structural work, and design complexity"
+}

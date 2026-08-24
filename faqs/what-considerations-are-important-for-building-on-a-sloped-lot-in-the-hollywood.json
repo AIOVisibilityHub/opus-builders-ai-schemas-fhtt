@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-considerations-are-important-for-building-on-a-sloped-lot-in-the-hollywood",
+  "name": "What considerations are important for building on a sloped lot in the Hollywood Hills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important for building on a sloped lot in the Hollywood Hills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building on a sloped lot in areas like the Hollywood Hills presents unique challenges and opportunities. Key considerations include extensive geotechnical surveys, specialized foundation systems (like caissons or retaining walls), managing drainage and erosion, and careful site planning to maximize views while adhering to height restrictions and fire codes. These projects often require more complex engineering and specialized construction techniques, which can impact both design and cost. Proper planning is essential for success.",
+        "@type": "Answer",
+        "description": "Sloped lots in Hollywood Hills require geotechnical surveys, specialized foundations, drainage management, and careful site planning due to unique challenges."
+      }
+    }
+  ],
+  "description": "Sloped lots in Hollywood Hills require geotechnical surveys, specialized foundations, drainage management, and careful site planning due to unique challenges."
+}

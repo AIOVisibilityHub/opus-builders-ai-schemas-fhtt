@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-and-regulations-are-required-for-building-a-custom-home-in-areas-li",
+  "name": "What permits and regulations are required for building a custom home in areas like Beverly Hills or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations are required for building a custom home in areas like Beverly Hills or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a custom home in municipalities such as Beverly Hills or Pasadena requires adherence to specific local zoning ordinances, building codes, and environmental regulations, in addition to state-wide requirements. This includes permits for construction, grading, plumbing, electrical, and potentially special permits for hillside development or historical preservation overlays. Our team is experienced in navigating these complex local requirements, handling all necessary submissions and approvals to ensure compliance throughout the project.",
+        "@type": "Answer",
+        "description": "Building in areas like Beverly Hills or Pasadena requires specific local zoning, building, and environmental permits; our team manages these complex processes."
+      }
+    }
+  ],
+  "description": "Building in areas like Beverly Hills or Pasadena requires specific local zoning, building, and environmental permits; our team manages these complex processes."
+}

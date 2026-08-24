@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/why-is-a-site-evaluation-important-for-luxury-home-construction",
+  "name": "Why is a site evaluation important for luxury home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is a site evaluation important for luxury home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For luxury home construction, a thorough site evaluation is crucial because it informs critical design and engineering decisions. It helps avoid costly surprises related to unstable foundations, drainage issues, or unforeseen utility conflicts. Understanding the site's unique characteristics allows us to optimize the home's placement, maximize views, and integrate the design seamlessly with the natural landscape, ensuring the highest quality outcome.",
+        "@type": "Answer",
+        "description": "A thorough site evaluation is crucial for luxury homes to inform design decisions, avoid costly surprises, and optimize placement for quality."
+      }
+    }
+  ],
+  "description": "A thorough site evaluation is crucial for luxury homes to inform design decisions, avoid costly surprises, and optimize placement for quality."
+}

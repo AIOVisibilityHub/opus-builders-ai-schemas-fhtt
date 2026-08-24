@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-opus-builders-help-with-finding-a-suitable-lot-or-property-for-a-custom-home",
+  "name": "Can Opus Builders help with finding a suitable lot or property for a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Opus Builders help with finding a suitable lot or property for a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While Opus Builders primarily focuses on the design and construction phases, we often collaborate with clients who are in the process of acquiring a lot. We can offer valuable insights regarding site feasibility, potential building challenges, zoning considerations, and how different properties might impact design and budget. Our experience in various luxury communities across Los Angeles allows us to provide informed perspectives that can guide your property search, even before formal design work begins.",
+        "@type": "Answer",
+        "description": "Yes, Opus Builders can provide expert insights on site feasibility, zoning, and potential building challenges during your lot search to help inform your decision."
+      }
+    }
+  ],
+  "description": "Yes, Opus Builders can provide expert insights on site feasibility, zoning, and potential building challenges during your lot search to help inform your decisio"
+}

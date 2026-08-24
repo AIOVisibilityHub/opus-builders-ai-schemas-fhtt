@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-a-gut-renovation-in-los-angeles-county",
+  "name": "What permits are required for a gut renovation in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a gut renovation in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles County, a gut renovation typically requires a comprehensive building permit, which encompasses structural changes, plumbing, electrical, and mechanical work. Specific permits may also be needed for significant alterations to the exterior, additions, or specialized systems. Our team manages the entire permitting process, ensuring compliance with local building codes and regulations to avoid delays.",
+        "@type": "Answer",
+        "description": "A gut renovation in Los Angeles County requires a building permit covering structural, plumbing, electrical, and mechanical work, with additional permits possibly needed for exterior or specialized alterations."
+      }
+    }
+  ],
+  "description": "A gut renovation in Los Angeles County requires a building permit covering structural, plumbing, electrical, and mechanical work, with additional permits possib"
+}

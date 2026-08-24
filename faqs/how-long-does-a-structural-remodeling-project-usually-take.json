@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-structural-remodeling-project-usually-take",
+  "name": "How long does a structural remodeling project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a structural remodeling project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a structural remodeling project depends heavily on its complexity and size. Smaller projects, such as removing a single load-bearing wall, might take 4-8 weeks, including design, permitting, and construction. More extensive projects, like adding an entire second story or significant foundation work, can extend from 4 to 9 months or even longer. Permitting timelines, which vary by municipality in the Los Angeles region, also play a significant role. We provide a projected timeline after developing a detailed project plan.",
+        "@type": "Answer",
+        "description": "Project timelines vary: small structural changes may take 4-8 weeks, while large projects can take 4-9 months or more, significantly influenced by permitting in Los Angeles."
+      }
+    }
+  ],
+  "description": "Project timelines vary: small structural changes may take 4-8 weeks, while large projects can take 4-9 months or more, significantly influenced by permitting in"
+}

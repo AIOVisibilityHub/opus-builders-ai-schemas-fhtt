@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-the-custom-cabinetry-design-and-installation-process-typically-tak",
+  "name": "How long does the custom cabinetry design and installation process typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the custom cabinetry design and installation process typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for custom cabinetry varies based on the project's complexity, size, and chosen materials. Generally, the design phase can take several weeks, followed by fabrication, which typically ranges from 8 to 16 weeks. Installation usually takes 1 to 2 weeks, depending on the scope. We provide a detailed project schedule early in the process to keep you informed every step of the way, ensuring efficient execution without compromising on quality for your luxury home.",
+        "@type": "Answer",
+        "description": "The process typically involves a few weeks for design, 8-16 weeks for fabrication, and 1-2 weeks for installation, depending on complexity."
+      }
+    }
+  ],
+  "description": "The process typically involves a few weeks for design, 8-16 weeks for fabrication, and 1-2 weeks for installation, depending on complexity."
+}

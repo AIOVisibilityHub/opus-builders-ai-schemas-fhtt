@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-prepare-my-home-for-a-living-space-renovation",
+  "name": "How do I prepare my home for a living space renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for a living space renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home involves several steps to protect belongings and facilitate construction. This includes decluttering and clearing out the renovation area, moving furniture, and covering items that cannot be removed to shield them from dust and debris. Consider creating a temporary living space if major areas are affected. Opus Builders provides guidance on pre-construction preparation and takes measures to minimize disruption to unaffected areas of your home during the renovation.",
+        "@type": "Answer",
+        "description": "Prepare your home by decluttering, moving furniture, covering belongings, and potentially setting up a temporary living space to minimize disruption during renovation."
+      }
+    }
+  ],
+  "description": "Prepare your home by decluttering, moving furniture, covering belongings, and potentially setting up a temporary living space to minimize disruption during reno"
+}

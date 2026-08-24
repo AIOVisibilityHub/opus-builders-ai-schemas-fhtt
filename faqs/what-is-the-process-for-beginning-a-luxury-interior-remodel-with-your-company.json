@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-beginning-a-luxury-interior-remodel-with-your-company",
+  "name": "What is the process for beginning a luxury interior remodel with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for beginning a luxury interior remodel with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, lifestyle, and design preferences. Following this, we conduct a detailed site assessment and develop preliminary design concepts. Once designs are refined and approved, we move into material selection, budgeting, and securing necessary permits. Construction then commences with meticulous project management, ensuring quality control and adherence to the timeline, culminating in the final walkthrough and project completion.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation, moves through design and planning, then permits, construction, and finishes with a final walkthrough."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation, moves through design and planning, then permits, construction, and finishes with a final walkthrough."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-an-open-floor-plan-conversion",
+  "name": "What permits are required for an open-floor-plan conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for an open-floor-plan conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-floor-plan conversion typically requires building permits from your local city or county planning department. If load-bearing walls are involved, structural permits are mandatory. Depending on the extent of work, additional permits for electrical, plumbing, or HVAC modifications may also be necessary. Our team assists clients in identifying and securing all required permits to ensure compliance with local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Building permits are always required; structural, electrical, plumbing, or HVAC permits may also be needed depending on the scope of work."
+      }
+    }
+  ],
+  "description": "Building permits are always required; structural, electrical, plumbing, or HVAC permits may also be needed depending on the scope of work."
+}

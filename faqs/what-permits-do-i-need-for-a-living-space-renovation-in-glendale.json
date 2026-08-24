@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-do-i-need-for-a-living-space-renovation-in-glendale",
+  "name": "What permits do I need for a living space renovation in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits do I need for a living space renovation in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For living space renovations in Glendale, permits are typically required for any structural changes, electrical or plumbing modifications, significant reconfigurations, or alterations affecting building safety codes. Cosmetic updates like painting or new flooring usually do not require permits. It's crucial to verify specific requirements with the City of Glendale Building and Safety Division. Opus Builders manages all necessary permit applications and inspections as part of our comprehensive project management, ensuring compliance with local regulations.",
+        "@type": "Answer",
+        "description": "In Glendale, permits are required for structural, electrical, plumbing, or significant reconfigurations. Opus Builders handles all permit applications."
+      }
+    }
+  ],
+  "description": "In Glendale, permits are required for structural, electrical, plumbing, or significant reconfigurations. Opus Builders handles all permit applications."
+}

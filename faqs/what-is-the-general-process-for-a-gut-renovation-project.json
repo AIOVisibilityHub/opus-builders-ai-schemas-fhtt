@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-general-process-for-a-gut-renovation-project",
+  "name": "What is the general process for a gut renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general process for a gut renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with design and planning, including architectural drawings and obtaining necessary permits. Next is the demolition phase, where the interior is stripped. This is followed by rough-ins for new electrical, plumbing, and HVAC systems, and any structural modifications. Once inspections are passed, insulation, drywall, flooring, cabinetry, and fixtures are installed. The project concludes with painting, finishing touches, and final walk-throughs.",
+        "@type": "Answer",
+        "description": "The process involves design, demolition, system rough-ins, structural work, inspections, interior finishes, and final touches."
+      }
+    }
+  ],
+  "description": "The process involves design, demolition, system rough-ins, structural work, inspections, interior finishes, and final touches."
+}

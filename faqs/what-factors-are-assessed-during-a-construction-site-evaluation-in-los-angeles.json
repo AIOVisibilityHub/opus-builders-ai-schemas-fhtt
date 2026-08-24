@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-are-assessed-during-a-construction-site-evaluation-in-los-angeles",
+  "name": "What factors are assessed during a construction site evaluation in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors are assessed during a construction site evaluation in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Los Angeles area, site evaluations consider geological stability due to seismic activity, fire hazard zones, and unique topographical features like hillsides. We assess soil composition, potential for landslides, access for large construction vehicles, existing vegetation for environmental impact, and utility connections. Local zoning ordinances and specific hillside development regulations are also critical factors.",
+        "@type": "Answer",
+        "description": "Factors in Los Angeles include geological stability, fire hazards, topography, soil composition, access, utilities, and local zoning ordinances."
+      }
+    }
+  ],
+  "description": "Factors in Los Angeles include geological stability, fire hazards, topography, soil composition, access, utilities, and local zoning ordinances."
+}

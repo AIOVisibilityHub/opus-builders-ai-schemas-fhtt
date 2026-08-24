@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-range-for-an-open-floor-plan-conversion-in-los-angeles",
+  "name": "What is the typical cost range for an open-floor-plan conversion in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for an open-floor-plan conversion in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an open-floor-plan conversion in Los Angeles can vary significantly based on scope. Factors include the number of walls to be removed, whether they are load-bearing, the need for structural reinforcements, and any associated finishes like new flooring, electrical, or plumbing. A basic conversion might start from $25,000, but complex projects involving structural engineering and high-end finishes can exceed $100,000. A detailed assessment is needed for an accurate quote.",
+        "@type": "Answer",
+        "description": "Costs in Los Angeles vary widely, from $25,000 for basic projects to over $100,000 for complex ones, depending on structural work and finishes."
+      }
+    }
+  ],
+  "description": "Costs in Los Angeles vary widely, from $25,000 for basic projects to over $100,000 for complex ones, depending on structural work and finishes."
+}

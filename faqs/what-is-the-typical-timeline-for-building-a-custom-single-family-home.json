@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-building-a-custom-single-family-home",
+  "name": "What is the typical timeline for building a custom single-family home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for building a custom single-family home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a custom single-family home can vary significantly depending on factors such as design complexity, site conditions, permitting processes, and material availability. Generally, the design phase can take 3-6 months, while the actual construction can range from 12-24 months. This does not include the time required for securing financing or property acquisition. We work to establish a realistic schedule upfront and provide regular updates throughout the project to keep you informed.",
+        "@type": "Answer",
+        "description": "Custom home construction typically takes 12-24 months, following a 3-6 month design phase. Overall duration depends on project specifics and permitting."
+      }
+    }
+  ],
+  "description": "Custom home construction typically takes 12-24 months, following a 3-6 month design phase. Overall duration depends on project specifics and permitting."
+}

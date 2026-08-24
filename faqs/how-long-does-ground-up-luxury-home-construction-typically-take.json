@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-ground-up-luxury-home-construction-typically-take",
+  "name": "How long does ground-up luxury home construction typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does ground-up luxury home construction typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for ground-up luxury home construction varies significantly based on factors such as the home's size, architectural complexity, site conditions, permitting processes, and material availability. Typically, a custom luxury home project can take anywhere from 12 to 24 months, or even longer for very large or intricate designs, from breaking ground to final completion. The initial design and planning phase also adds several months before construction begins.",
+        "@type": "Answer",
+        "description": "Ground-up luxury home construction typically takes 12 to 24 months, depending on size, complexity, and other factors, after the design and planning phase."
+      }
+    }
+  ],
+  "description": "Ground-up luxury home construction typically takes 12 to 24 months, depending on size, complexity, and other factors, after the design and planning phase."
+}

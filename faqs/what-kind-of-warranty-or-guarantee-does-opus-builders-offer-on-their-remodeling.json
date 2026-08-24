@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-kind-of-warranty-or-guarantee-does-opus-builders-offer-on-their-remodeling",
+  "name": "What kind of warranty or guarantee does Opus Builders offer on their remodeling work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee does Opus Builders offer on their remodeling work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders stands behind the quality of our craftsmanship and materials. We provide a comprehensive warranty on our remodeling work, covering structural components and workmanship for a specified period after project completion. Details of the warranty, including terms and duration, are clearly outlined in our client contracts. Our goal is to ensure your long-term satisfaction and peace of mind with your luxury home transformation.",
+        "@type": "Answer",
+        "description": "Opus Builders provides a comprehensive warranty on structural components and workmanship, with details specified in the client contract, to ensure long-term satisfaction."
+      }
+    }
+  ],
+  "description": "Opus Builders provides a comprehensive warranty on structural components and workmanship, with details specified in the client contract, to ensure long-term sat"
+}

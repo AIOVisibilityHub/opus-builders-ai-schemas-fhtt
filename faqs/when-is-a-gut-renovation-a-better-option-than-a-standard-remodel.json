@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-is-a-gut-renovation-a-better-option-than-a-standard-remodel",
+  "name": "When is a gut renovation a better option than a standard remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a gut renovation a better option than a standard remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gut renovation is ideal when your current home layout is entirely unsuitable, or if critical systems like plumbing, electrical, or HVAC are outdated and require extensive replacement. If you're looking to significantly increase the home's value, improve structural integrity, or achieve a completely new aesthetic and functional flow that a typical remodel can't provide, a gut renovation offers the most transformative solution.",
+        "@type": "Answer",
+        "description": "Choose a gut renovation when major layout changes or extensive system replacements are needed, or for a complete home transformation."
+      }
+    }
+  ],
+  "description": "Choose a gut renovation when major layout changes or extensive system replacements are needed, or for a complete home transformation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-any-home-be-converted-to-an-open-floor-plan",
+  "name": "Can any home be converted to an open-floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any home be converted to an open-floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many homes can benefit from an open-floor-plan conversion, not all are equally suited without extensive modification. The feasibility largely depends on the home's existing structure, especially the location of load-bearing walls, plumbing, and electrical systems. Historic homes or those with complex structural elements might require more intricate and costly engineering solutions. A professional assessment is crucial to determine viability and scope.",
+        "@type": "Answer",
+        "description": "Most homes can be converted, but feasibility depends on existing structure, load-bearing walls, and utility locations; a professional assessment is key."
+      }
+    }
+  ],
+  "description": "Most homes can be converted, but feasibility depends on existing structure, load-bearing walls, and utility locations; a professional assessment is key."
+}

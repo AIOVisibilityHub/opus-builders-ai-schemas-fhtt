@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-and-approvals-are-needed-for-custom-home-construction-in-pasadena",
+  "name": "What permits and approvals are needed for custom home construction in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are needed for custom home construction in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a custom home in Pasadena requires various permits and approvals from the city's planning and building departments. These typically include zoning permits, building permits, and potentially specific permits for grading, demolitions, or environmental considerations. Depending on the location within Pasadena, there might also be historic preservation or hillside development requirements. Opus Builders manages the entire permitting process on your behalf, ensuring all necessary documentation is submitted and approvals are secured efficiently.",
+        "@type": "Answer",
+        "description": "Custom home construction in Pasadena requires zoning, building, and potentially grading or historic preservation permits, all handled by Opus Builders."
+      }
+    }
+  ],
+  "description": "Custom home construction in Pasadena requires zoning, building, and potentially grading or historic preservation permits, all handled by Opus Builders."
+}

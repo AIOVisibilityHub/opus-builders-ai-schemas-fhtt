@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-an-architect-for-a-high-end-remodel-or-can-i-work-directly-with-a-buil",
+  "name": "Do I need an architect for a high-end remodel, or can I work directly with a builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for a high-end remodel, or can I work directly with a builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a high-end remodel, especially those involving significant structural changes, custom elements, or a unique aesthetic vision, an architect is often essential. An architect brings expertise in design, spatial planning, and understanding complex building codes, ensuring the project is both beautiful and functional. While a builder manages construction, an architect designs the project. Opus Builders offers an integrated design-build approach, where our in-house architects and builders collaborate closely from conception to completion, streamlining communication and ensuring design integrity.",
+        "@type": "Answer",
+        "description": "An architect is often essential for high-end remodels involving structural changes or unique design; Opus Builders offers integrated design-build."
+      }
+    }
+  ],
+  "description": "An architect is often essential for high-end remodels involving structural changes or unique design; Opus Builders offers integrated design-build."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-beginning-an-exterior-remodeling-project",
+  "name": "What is the process for beginning an exterior remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for beginning an exterior remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your vision, goals, and budget. Next, our design team develops conceptual plans and material selections, which are refined through collaboration. Once the design is approved, we handle necessary permitting, followed by the construction phase. Throughout construction, we ensure quality control and clear communication. The project concludes with a final walkthrough to ensure complete satisfaction. Our integrated approach streamlines every step from concept to completion.",
+        "@type": "Answer",
+        "description": "The process starts with a consultation, moves to design and permitting, then construction with ongoing communication, and ends with a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process starts with a consultation, moves to design and permitting, then construction with ongoing communication, and ends with a final walkthrough."
+}

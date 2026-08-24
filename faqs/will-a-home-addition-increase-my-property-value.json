@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/will-a-home-addition-increase-my-property-value",
+  "name": "Will a home addition increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a home addition increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and constructed home addition can significantly increase your property value, especially if it adds functional living space, enhances curb appeal, or introduces desirable amenities like a new master suite or an ADU. The return on investment varies based on the type of addition, the quality of materials, and local market demand. Additions that blend seamlessly with the existing structure and neighborhood aesthetics tend to yield the best value. Consulting with a local real estate professional can provide insight into specific ROI expectations.",
+        "@type": "Answer",
+        "description": "A well-designed home addition can increase property value by adding functional space or desirable amenities. The return on investment depends on the addition type, material quality, and local market trends."
+      }
+    }
+  ],
+  "description": "A well-designed home addition can increase property value by adding functional space or desirable amenities. The return on investment depends on the addition ty"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-provide-my-own-sketches-or-ideas-for-the-floor-plan",
+  "name": "Can I provide my own sketches or ideas for the floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I provide my own sketches or ideas for the floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. We encourage clients to share any sketches, inspiration photos, or specific ideas they have for their custom floor plan. These initial thoughts and visual references are invaluable as they help our design team understand your aesthetic preferences, functional needs, and overall vision. Providing such materials at the outset can streamline the design process and ensure the conceptual designs align closely with your expectations from the very beginning. Our architects will translate your ideas into a professional, buildable design.",
+        "@type": "Answer",
+        "description": "Yes, we welcome your sketches, inspiration photos, and ideas. These are valuable inputs that help our design team understand your vision and translate it into a professional plan."
+      }
+    }
+  ],
+  "description": "Yes, we welcome your sketches, inspiration photos, and ideas. These are valuable inputs that help our design team understand your vision and translate it into a"
+}

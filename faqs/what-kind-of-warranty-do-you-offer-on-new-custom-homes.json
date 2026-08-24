@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-kind-of-warranty-do-you-offer-on-new-custom-homes",
+  "name": "What kind of warranty do you offer on new custom homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty do you offer on new custom homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide a comprehensive warranty on all new custom homes we build, covering structural components, major systems, and workmanship. The specifics of the warranty, including durations for different components, are detailed in your contract. Our commitment extends beyond completion, and we address any covered issues promptly to ensure your long-term satisfaction and peace of mind with your new home. Details of your specific warranty will be provided during the contract phase.",
+        "@type": "Answer",
+        "description": "We offer a comprehensive warranty on new custom homes covering structural components, major systems, and workmanship. Details are provided in the contract."
+      }
+    }
+  ],
+  "description": "We offer a comprehensive warranty on new custom homes covering structural components, major systems, and workmanship. Details are provided in the contract."
+}

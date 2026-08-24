@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-architectural-plans-before-contacting-a-remodeler-or-can-opus-builders",
+  "name": "Do I need architectural plans before contacting a remodeler, or can Opus Builders help with design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need architectural plans before contacting a remodeler, or can Opus Builders help with design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not need fully developed architectural plans before contacting Opus Builders. We offer comprehensive design-build services, meaning we can assist you from the initial concept phase through detailed architectural and interior design. Our in-house team collaborates closely with you to translate your vision into precise plans and specifications, ensuring a cohesive and efficient process from start to finish. This integrated approach streamlines communication and minimizes potential issues.",
+        "@type": "Answer",
+        "description": "No, you don't need architectural plans. Opus Builders provides full design-build services, guiding you from concept through detailed architectural and interior design."
+      }
+    }
+  ],
+  "description": "No, you don't need architectural plans. Opus Builders provides full design-build services, guiding you from concept through detailed architectural and interior"
+}

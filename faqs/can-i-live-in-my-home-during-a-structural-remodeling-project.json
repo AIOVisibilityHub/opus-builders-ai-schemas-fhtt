@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-live-in-my-home-during-a-structural-remodeling-project",
+  "name": "Can I live in my home during a structural remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a structural remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home during structural remodeling depends entirely on the scope and nature of the work. If the project involves major structural elements in critical areas, such as foundation work or removing central load-bearing walls that affect the home's stability, it might be safer and more practical to temporarily relocate. For less intrusive structural changes, living areas can often be sealed off to minimize disruption, dust, and noise. We will discuss the feasibility of living on-site during our initial assessment and planning phases.",
+        "@type": "Answer",
+        "description": "Living at home during structural remodeling depends on project scope. Major work like foundation repair or central load-bearing wall removal might require temporary relocation for safety."
+      }
+    }
+  ],
+  "description": "Living at home during structural remodeling depends on project scope. Major work like foundation repair or central load-bearing wall removal might require tempo"
+}

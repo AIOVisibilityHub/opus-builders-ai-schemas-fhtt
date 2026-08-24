@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-to-move-out-of-my-home-during-a-gut-renovation",
+  "name": "Do I need to move out of my home during a gut renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out of my home during a gut renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is almost always necessary to vacate your home during a gut renovation. The nature of the work involves extensive demolition, exposure to dust and construction debris, noise, and the disruption of essential services like water and electricity for extended periods. For safety, health, and project efficiency, temporary relocation is highly recommended for the duration of the construction phase.",
+        "@type": "Answer",
+        "description": "Yes, vacating your home is almost always necessary during a gut renovation due to extensive demolition, dust, noise, and utility disruptions."
+      }
+    }
+  ],
+  "description": "Yes, vacating your home is almost always necessary during a gut renovation due to extensive demolition, dust, noise, and utility disruptions."
+}

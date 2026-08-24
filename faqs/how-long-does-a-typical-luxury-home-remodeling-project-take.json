@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-luxury-home-remodeling-project-take",
+  "name": "How long does a typical luxury home remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical luxury home remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a luxury home remodeling project varies significantly based on its scope, complexity, and the specific materials chosen. Smaller renovations might take a few months, while extensive whole-home remodels or additions can span six months to over a year. Factors like design finalization, permitting approval times, material lead times, and the size of the construction team all influence the timeline. We provide a detailed project schedule after the design phase is complete.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope, complexity, and materials, typically ranging from a few months for minor updates to over a year for extensive remodels."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope, complexity, and materials, typically ranging from a few months for minor updates to over a year for extensive remodels."
+}

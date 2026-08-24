@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-custom-cabinetry-be-designed-for-any-room-in-a-luxury-home",
+  "name": "Can custom cabinetry be designed for any room in a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom cabinetry be designed for any room in a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom cabinetry is incredibly versatile and can be designed for virtually any room in a luxury home. Beyond kitchens and bathrooms, we create bespoke solutions for home offices, libraries, living room built-ins, master closets, mudrooms, and even garages. Our designs are tailored to maximize storage, enhance aesthetics, and improve functionality wherever specific needs arise, ensuring a cohesive and luxurious feel throughout your entire residence.",
+        "@type": "Answer",
+        "description": "Absolutely. Custom cabinetry can be designed for any room, including kitchens, bathrooms, offices, libraries, closets, and built-ins, to maximize storage and aesthetics."
+      }
+    }
+  ],
+  "description": "Absolutely. Custom cabinetry can be designed for any room, including kitchens, bathrooms, offices, libraries, closets, and built-ins, to maximize storage and ae"
+}

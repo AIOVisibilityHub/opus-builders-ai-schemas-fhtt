@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-designing-a-custom-home-with-your-company",
+  "name": "What is the process for designing a custom home with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a custom home with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our custom home design process begins with an initial consultation to understand your vision, lifestyle, and budget. Following this, we collaborate with you to develop conceptual designs, refining layouts and aesthetics based on your feedback. Once the conceptual design is approved, we proceed with detailed architectural plans, structural engineering, and material specifications. We also handle the necessary permitting applications to ensure compliance with local regulations before construction commences.",
+        "@type": "Answer",
+        "description": "The custom home design process starts with a consultation, moves to conceptual designs, then detailed architectural plans, and finally permitting. We guide you through each stage."
+      }
+    }
+  ],
+  "description": "The custom home design process starts with a consultation, moves to conceptual designs, then detailed architectural plans, and finally permitting. We guide you"
+}

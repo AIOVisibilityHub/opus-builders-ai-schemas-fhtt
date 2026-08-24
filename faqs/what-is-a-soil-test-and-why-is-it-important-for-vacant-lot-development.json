@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-soil-test-and-why-is-it-important-for-vacant-lot-development",
+  "name": "What is a soil test, and why is it important for vacant-lot development?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a soil test, and why is it important for vacant-lot development?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A soil test, or geotechnical investigation, evaluates the composition and engineering properties of the soil on a vacant lot. This test is crucial for vacant-lot development because it provides vital information about the soil's bearing capacity, stability, and potential for expansion or settlement. The results inform the foundation design, ensuring it can adequately support the proposed structure and withstand seismic activity. Ignoring soil conditions can lead to structural problems, costly repairs, and safety hazards in the future. Opus Builders ensures proper soil testing is conducted for all projects.",
+        "@type": "Answer",
+        "description": "A soil test evaluates a vacant lot's soil composition and properties, crucial for informing foundation design and preventing future structural issues."
+      }
+    }
+  ],
+  "description": "A soil test evaluates a vacant lot's soil composition and properties, crucial for informing foundation design and preventing future structural issues."
+}

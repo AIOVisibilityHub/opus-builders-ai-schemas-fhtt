@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-older-home-modernization-projects",
+  "name": "Do I need permits for older-home modernization projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for older-home modernization projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most older-home modernization projects, especially those involving structural changes, electrical or plumbing upgrades, significant alterations to the footprint, or exterior modifications, will require permits from your local city or county building department. These permits ensure that the work complies with current building codes, safety standards, and zoning regulations. Failing to obtain necessary permits can lead to fines, project delays, or even the requirement to undo unpermitted work. Opus Builders assists clients with navigating the permitting process to ensure full compliance.",
+        "@type": "Answer",
+        "description": "Most older-home modernization projects, particularly those involving structural or system changes, require permits from local building departments. Permits ensure compliance with codes and avoid fines."
+      }
+    }
+  ],
+  "description": "Most older-home modernization projects, particularly those involving structural or system changes, require permits from local building departments. Permits ensu"
+}

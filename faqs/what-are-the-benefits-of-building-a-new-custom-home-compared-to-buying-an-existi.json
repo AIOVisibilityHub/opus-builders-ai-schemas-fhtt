@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-benefits-of-building-a-new-custom-home-compared-to-buying-an-existi",
+  "name": "What are the benefits of building a new custom home compared to buying an existing one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building a new custom home compared to buying an existing one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a new custom home through a tear-down and rebuild offers unparalleled benefits over buying an existing property. You gain complete control over the design, layout, materials, and finishes, ensuring the home perfectly reflects your lifestyle and aesthetic preferences. New homes are built to current energy efficiency standards, leading to lower utility costs and a reduced environmental footprint. They also incorporate modern technologies and safety features, often requiring less maintenance in the initial years. This approach allows you to achieve your ideal home in a desirable, established location.",
+        "@type": "Answer",
+        "description": "Building a new custom home provides complete design control, modern energy efficiency, lower maintenance, and the integration of current technologies, perfectly tailored to your lifestyle and location."
+      }
+    }
+  ],
+  "description": "Building a new custom home provides complete design control, modern energy efficiency, lower maintenance, and the integration of current technologies, perfectly"
+}

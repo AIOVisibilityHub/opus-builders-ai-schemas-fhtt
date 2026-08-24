@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-make-changes-to-the-design-or-materials-once-construction-has-started",
+  "name": "Can I make changes to the design or materials once construction has started?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to the design or materials once construction has started?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's ideal to finalize all design and material selections before construction begins, changes can sometimes be accommodated. However, modifications made during construction often incur additional costs and may extend the project timeline. We work closely with clients during the pre-construction phase to ensure all decisions are thoroughly vetted to minimize potential changes. Any requested changes are documented through a formal change order process, outlining the impact on cost and schedule.",
+        "@type": "Answer",
+        "description": "Changes during construction are possible but may incur additional costs and extend the timeline. We use a formal change order process to manage modifications."
+      }
+    }
+  ],
+  "description": "Changes during construction are possible but may incur additional costs and extend the timeline. We use a formal change order process to manage modifications."
+}

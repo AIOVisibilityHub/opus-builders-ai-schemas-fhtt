@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-luxury-interior-remodeling-project-take",
+  "name": "How long does a typical luxury interior remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical luxury interior remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a luxury interior remodeling project varies significantly based on its scope and complexity. A smaller project, like a single bathroom or kitchen update, might take 2-4 months from design to completion. Larger, multi-room renovations or whole-home interiors can extend from 6 months to over a year. Factors influencing the timeline include design finalization, material lead times, permitting processes, and the availability of specialized craftsmen. We provide a detailed schedule after the initial planning phase.",
+        "@type": "Answer",
+        "description": "Project timelines vary, with smaller renovations taking 2-4 months and larger projects up to a year or more, depending on scope and material lead times."
+      }
+    }
+  ],
+  "description": "Project timelines vary, with smaller renovations taking 2-4 months and larger projects up to a year or more, depending on scope and material lead times."
+}

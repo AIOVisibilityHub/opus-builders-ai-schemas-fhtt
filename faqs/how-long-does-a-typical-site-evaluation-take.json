@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-site-evaluation-take",
+  "name": "How long does a typical site evaluation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical site evaluation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a construction site evaluation can vary depending on the complexity and size of the property. A basic assessment might take a few days, while a comprehensive evaluation involving geotechnical surveys, environmental assessments, and detailed topographical mapping can take several weeks. We work efficiently to provide timely insights without compromising the thoroughness required for luxury home projects.",
+        "@type": "Answer",
+        "description": "The duration varies by complexity and size, ranging from a few days for basic assessments to several weeks for comprehensive evaluations."
+      }
+    }
+  ],
+  "description": "The duration varies by complexity and size, ranging from a few days for basic assessments to several weeks for comprehensive evaluations."
+}

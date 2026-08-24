@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-incorporate-smart-home-technology-into-my-custom-build",
+  "name": "Can I incorporate smart home technology into my custom build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I incorporate smart home technology into my custom build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Modern luxury custom homes frequently integrate advanced smart home technology. This can include automated lighting, climate control, security systems, integrated entertainment, and motorized window treatments, all controllable from a central hub or mobile device. During the design phase, we work with specialists to plan and install these systems seamlessly, ensuring they meet your specific needs for convenience, energy efficiency, and security, enhancing your daily living experience.",
+        "@type": "Answer",
+        "description": "Yes, smart home technology like automated lighting, climate, and security systems can be fully integrated into your custom build."
+      }
+    }
+  ],
+  "description": "Yes, smart home technology like automated lighting, climate, and security systems can be fully integrated into your custom build."
+}

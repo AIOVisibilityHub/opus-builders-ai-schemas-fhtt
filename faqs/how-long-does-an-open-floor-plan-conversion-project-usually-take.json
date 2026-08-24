@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-an-open-floor-plan-conversion-project-usually-take",
+  "name": "How long does an open-floor-plan conversion project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an open-floor-plan conversion project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an open-floor-plan conversion depends on the project's complexity. A straightforward removal of non-load-bearing walls might be completed in 3-6 weeks. However, if structural engineering is required for load-bearing walls, permits need to be secured, and significant alterations to flooring, electrical, or HVAC systems are involved, the project could extend to 2-4 months or more. This duration includes design, permitting, demolition, construction, and finishing stages.",
+        "@type": "Answer",
+        "description": "Project timelines range from 3-6 weeks for simple conversions to 2-4 months or longer for complex structural changes and finishing work."
+      }
+    }
+  ],
+  "description": "Project timelines range from 3-6 weeks for simple conversions to 2-4 months or longer for complex structural changes and finishing work."
+}

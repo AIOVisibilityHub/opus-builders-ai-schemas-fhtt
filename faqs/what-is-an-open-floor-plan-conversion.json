@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-an-open-floor-plan-conversion",
+  "name": "What is an open-floor-plan conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an open-floor-plan conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-floor-plan conversion involves removing or modifying interior walls to create larger, more interconnected living spaces. This often merges areas like the kitchen, dining room, and living room into one seamless area. The goal is to enhance natural light, improve flow, and foster a more social environment within the home. It typically transforms enclosed, compartmentalized layouts into expansive, contemporary living areas.",
+        "@type": "Answer",
+        "description": "An open-floor-plan conversion removes interior walls to create larger, connected living spaces, enhancing light and flow."
+      }
+    }
+  ],
+  "description": "An open-floor-plan conversion removes interior walls to create larger, connected living spaces, enhancing light and flow."
+}

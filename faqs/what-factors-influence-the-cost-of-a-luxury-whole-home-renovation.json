@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-a-luxury-whole-home-renovation",
+  "name": "What factors influence the cost of a luxury whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a luxury whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury whole-home renovation is influenced by several key factors. These include the size and age of the home, the extent of structural modifications, the quality of materials and finishes chosen (e.g., custom cabinetry, high-end appliances, imported stone), and the complexity of system upgrades (HVAC, electrical, plumbing). Additionally, design fees, permitting costs, and site-specific challenges can impact the overall budget. Opus Builders works closely with clients to define priorities and ensure investments align with their vision and desired outcomes.",
+        "@type": "Answer",
+        "description": "Key cost factors include home size, structural changes, material quality, system upgrades, design fees, and permitting. We help align your budget with your vision."
+      }
+    }
+  ],
+  "description": "Key cost factors include home size, structural changes, material quality, system upgrades, design fees, and permitting. We help align your budget with your visi"
+}

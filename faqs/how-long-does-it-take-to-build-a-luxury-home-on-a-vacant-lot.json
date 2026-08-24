@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-it-take-to-build-a-luxury-home-on-a-vacant-lot",
+  "name": "How long does it take to build a luxury home on a vacant lot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a luxury home on a vacant lot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a luxury home on a vacant lot can vary significantly, typically ranging from 12 to 24 months. This duration depends on factors such as the complexity of the design, the size of the home, site conditions, the permitting process in your specific location, and the availability of materials and labor. Initial design and permitting phases often take several months before physical construction begins. Opus Builders provides a detailed project schedule at the outset to manage expectations.",
+        "@type": "Answer",
+        "description": "Building a luxury home on a vacant lot usually takes 12 to 24 months, depending on design complexity, size, site conditions, and permitting."
+      }
+    }
+  ],
+  "description": "Building a luxury home on a vacant lot usually takes 12 to 24 months, depending on design complexity, size, site conditions, and permitting."
+}

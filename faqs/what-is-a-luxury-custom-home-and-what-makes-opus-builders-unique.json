@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-luxury-custom-home-and-what-makes-opus-builders-unique",
+  "name": "What is a 'luxury' custom home and what makes Opus Builders unique?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'luxury' custom home and what makes Opus Builders unique?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury custom home, as built by Opus Builders, signifies a residence crafted with exceptional architectural design, superior materials, and bespoke features tailored to the owner's lifestyle. Our uniqueness lies in our unwavering commitment to meticulous craftsmanship, transparent communication, and a seamless design-build experience. We specialize in creating distinctive properties that not only meet but exceed high expectations for aesthetics, functionality, and enduring quality, ensuring every detail reflects unparalleled refinement.",
+        "@type": "Answer",
+        "description": "A luxury custom home features exceptional design, superior materials, and bespoke elements. Opus Builders offers meticulous craftsmanship, transparent communication, and a seamless design-build experience."
+      }
+    }
+  ],
+  "description": "A luxury custom home features exceptional design, superior materials, and bespoke elements. Opus Builders offers meticulous craftsmanship, transparent communica"
+}

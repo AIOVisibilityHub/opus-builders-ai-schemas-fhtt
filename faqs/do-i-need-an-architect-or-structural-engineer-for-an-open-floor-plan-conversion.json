@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-an-architect-or-structural-engineer-for-an-open-floor-plan-conversion",
+  "name": "Do I need an architect or structural engineer for an open-floor-plan conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect or structural engineer for an open-floor-plan conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most open-floor-plan conversions, especially those involving load-bearing walls, you will need the expertise of both an architect and a structural engineer. An architect helps design the new layout and ensures aesthetic appeal and functionality. A structural engineer assesses the integrity of your home, determines if walls are load-bearing, and designs the necessary supports (like beams) to maintain structural stability and comply with building codes. This ensures safety and proper execution.",
+        "@type": "Answer",
+        "description": "Yes, an architect and structural engineer are often necessary, especially for load-bearing walls, to ensure design, safety, and code compliance."
+      }
+    }
+  ],
+  "description": "Yes, an architect and structural engineer are often necessary, especially for load-bearing walls, to ensure design, safety, and code compliance."
+}

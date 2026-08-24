@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-happens-after-the-site-evaluation-report-is-completed",
+  "name": "What happens after the site evaluation report is completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the site evaluation report is completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once the site evaluation report is complete, our team reviews the findings thoroughly. We then discuss the results with you, highlighting any significant considerations, opportunities, or constraints. This information is directly integrated into the architectural design process, informing foundation design, grading plans, drainage solutions, and overall site integration. It ensures your luxury home is optimally designed for its specific location.",
+        "@type": "Answer",
+        "description": "After the report, our team reviews findings, discusses them with you, and integrates the information directly into the architectural design process."
+      }
+    }
+  ],
+  "description": "After the report, our team reviews findings, discusses them with you, and integrates the information directly into the architectural design process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-gut-renovation",
+  "name": "What is a gut renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a gut renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A gut renovation involves stripping a home down to its essential structure, such as the studs, foundation, and roof. This extensive remodeling project allows for significant changes to the floor plan, electrical, plumbing, and HVAC systems. It's often chosen for older homes where existing layouts or infrastructure no longer meet modern standards or homeowner needs, providing a fresh start for design and functionality.",
+        "@type": "Answer",
+        "description": "A gut renovation strips a home down to its bare structure to allow for comprehensive changes to layout and systems."
+      }
+    }
+  ],
+  "description": "A gut renovation strips a home down to its bare structure to allow for comprehensive changes to layout and systems."
+}

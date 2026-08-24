@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-cosmetic-and-structural-remodeling",
+  "name": "What is the difference between cosmetic and structural remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cosmetic and structural remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cosmetic remodeling focuses on aesthetic improvements that do not affect the building's load-bearing integrity, such as painting, new flooring, cabinet replacement, or updated fixtures. Structural remodeling, conversely, involves altering the essential framework that supports the building's weight, including walls that bear loads, foundations, roofs, and floor systems. Cosmetic changes are generally less complex and don't require engineering oversight, whereas structural changes always necessitate professional structural engineering and specific permits to ensure the home's safety and stability.",
+        "@type": "Answer",
+        "description": "Cosmetic remodeling is aesthetic (paint, flooring); structural remodeling alters load-bearing elements (walls, foundation). Structural work requires engineering and permits for safety."
+      }
+    }
+  ],
+  "description": "Cosmetic remodeling is aesthetic (paint, flooring); structural remodeling alters load-bearing elements (walls, foundation). Structural work requires engineering"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-ground-up-construction",
+  "name": "What is ground-up construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is ground-up construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-up construction refers to building a new structure entirely from the ground level. This process involves acquiring land, preparing the site, laying the foundation, erecting the frame, and completing all interior and exterior finishes. It differs from renovations or additions as it creates a completely new, independent building. For luxury homes, this allows for full customization from design concept to final execution, ensuring every detail meets the homeowner's vision and specific needs.",
+        "@type": "Answer",
+        "description": "Ground-up construction involves building a completely new structure from its foundation on previously undeveloped or cleared land. It offers total customization for luxury homes."
+      }
+    }
+  ],
+  "description": "Ground-up construction involves building a completely new structure from its foundation on previously undeveloped or cleared land. It offers total customization"
+}

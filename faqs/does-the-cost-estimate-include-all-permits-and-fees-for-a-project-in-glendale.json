@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/does-the-cost-estimate-include-all-permits-and-fees-for-a-project-in-glendale",
+  "name": "Does the cost estimate include all permits and fees for a project in Glendale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does the cost estimate include all permits and fees for a project in Glendale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a luxury home project in Glendale, a comprehensive cost estimate from a reputable builder should typically include all necessary permits and associated fees. This encompasses building permits, planning department fees, utility connection fees, and potentially impact fees, which can vary by jurisdiction. However, it's essential to explicitly confirm with your builder that these items are itemized and included in your specific estimate, as exclusions can lead to unexpected costs later in the project.",
+        "@type": "Answer",
+        "description": "A comprehensive cost estimate for a luxury home in Glendale should include all permits and associated fees. Always confirm with your builder that these items are explicitly itemized and included."
+      }
+    }
+  ],
+  "description": "A comprehensive cost estimate for a luxury home in Glendale should include all permits and associated fees. Always confirm with your builder that these items ar"
+}

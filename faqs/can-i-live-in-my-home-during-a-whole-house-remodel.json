@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-live-in-my-home-during-a-whole-house-remodel",
+  "name": "Can I live in my home during a whole-house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a whole-house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during a whole-house remodel is possible for smaller-scale projects that isolate work to specific areas. However, for extensive renovations involving multiple rooms, utility shutdowns, or significant dust and noise, it becomes challenging and potentially unsafe. We work with clients to develop strategies, such as phased construction or temporary living zones, to minimize disruption if staying is necessary, though temporary relocation often provides a smoother experience.",
+        "@type": "Answer",
+        "description": "Staying in your home during a whole-house remodel is feasible for minor projects, but extensive renovations often necessitate temporary relocation due to disruption and safety concerns."
+      }
+    }
+  ],
+  "description": "Staying in your home during a whole-house remodel is feasible for minor projects, but extensive renovations often necessitate temporary relocation due to disrup"
+}

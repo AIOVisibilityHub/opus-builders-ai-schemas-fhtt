@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-and-approvals-are-typically-required-for-custom-home-construction-i",
+  "name": "What permits and approvals are typically required for custom home construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are typically required for custom home construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a custom home in Los Angeles requires navigating a complex permitting landscape, which typically involves obtaining a building permit, zoning approvals, and potentially various specialized permits depending on the project's scope and site conditions. These can include permits for grading, demolitions, tree removal, and environmental reviews. Opus Builders manages the entire permitting process, working with local authorities like the Department of Building and Safety and planning departments in areas such as Glendale, Pasadena, and Beverly Hills, to ensure all necessary approvals are secured efficiently.",
+        "@type": "Answer",
+        "description": "Custom home construction in Los Angeles requires various permits, including building permits and zoning approvals. Opus Builders manages this complex process with local authorities."
+      }
+    }
+  ],
+  "description": "Custom home construction in Los Angeles requires various permits, including building permits and zoning approvals. Opus Builders manages this complex process wi"
+}

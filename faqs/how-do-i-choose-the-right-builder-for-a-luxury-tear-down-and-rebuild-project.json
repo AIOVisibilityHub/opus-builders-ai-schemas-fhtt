@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-builder-for-a-luxury-tear-down-and-rebuild-project",
+  "name": "How do I choose the right builder for a luxury tear-down and rebuild project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right builder for a luxury tear-down and rebuild project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right builder for a luxury tear-down and rebuild project involves looking for experience, reputation, and a strong portfolio of similar projects. Seek builders with extensive expertise in custom, high-end construction and a deep understanding of local building codes and permitting processes in your specific area. Evaluate their communication style, transparency in budgeting, and project management approach. Request references, review their past work, and ensure they have the necessary licenses and insurance. A strong builder-client relationship is key to a successful outcome.",
+        "@type": "Answer",
+        "description": "Choose a builder with proven experience in luxury custom homes, a strong portfolio, transparent communication, and expertise in local building codes and permitting. Always check references and licenses."
+      }
+    }
+  ],
+  "description": "Choose a builder with proven experience in luxury custom homes, a strong portfolio, transparent communication, and expertise in local building codes and permitt"
+}

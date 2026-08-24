@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-the-older-home-modernization-process-typically-take",
+  "name": "How long does the older-home modernization process typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the older-home modernization process typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for older-home modernization is highly variable, depending on the project's complexity and scope. A smaller-scale renovation, such as updating a single bathroom or kitchen, might take 2-4 months. Comprehensive projects involving multiple rooms, structural changes, and significant system upgrades can extend from 6-12 months or even longer. Factors like permitting processes, material lead times, and any unexpected issues discovered during demolition can also influence the schedule. Opus Builders prioritizes clear communication and efficient project management to minimize disruption.",
+        "@type": "Answer",
+        "description": "The timeline for older-home modernization varies, from 2-4 months for small projects to 6-12+ months for extensive renovations. Permitting, material availability, and unforeseen issues can affect the schedule."
+      }
+    }
+  ],
+  "description": "The timeline for older-home modernization varies, from 2-4 months for small projects to 6-12+ months for extensive renovations. Permitting, material availabilit"
+}

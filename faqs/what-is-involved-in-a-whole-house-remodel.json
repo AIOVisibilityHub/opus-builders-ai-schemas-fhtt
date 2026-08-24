@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-a-whole-house-remodel",
+  "name": "What is involved in a whole-house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a whole-house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-house remodel involves significant changes to multiple areas of your home, often including structural alterations, reconfiguring layouts, updating kitchens and bathrooms, and upgrading electrical and plumbing systems. It can range from cosmetic updates to a complete transformation of the property's design and functionality. The scope is determined by your vision for the home and its current condition, aiming to enhance aesthetics, efficiency, and overall living experience.",
+        "@type": "Answer",
+        "description": "A whole-house remodel involves comprehensive changes to multiple areas of your home, from cosmetic updates to structural alterations and system upgrades."
+      }
+    }
+  ],
+  "description": "A whole-house remodel involves comprehensive changes to multiple areas of your home, from cosmetic updates to structural alterations and system upgrades."
+}

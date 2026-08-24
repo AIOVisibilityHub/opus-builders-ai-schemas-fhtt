@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-role-of-a-project-manager-during-new-home-construction",
+  "name": "What is the role of a project manager during new home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a project manager during new home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The project manager serves as the central point of contact, overseeing all aspects of your new home construction. Their responsibilities include managing the budget and schedule, coordinating subcontractors, ensuring quality control, handling permits and inspections, and communicating progress to the client. They proactively identify and resolve issues, ensuring the project stays on track and within scope, ultimately delivering a seamless and stress-free building experience.",
+        "@type": "Answer",
+        "description": "A project manager oversees budget, schedule, subcontractors, quality, permits, and communication, ensuring a smooth and successful new home construction."
+      }
+    }
+  ],
+  "description": "A project manager oversees budget, schedule, subcontractors, quality, permits, and communication, ensuring a smooth and successful new home construction."
+}

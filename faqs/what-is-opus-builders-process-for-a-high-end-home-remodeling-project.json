@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-opus-builders-process-for-a-high-end-home-remodeling-project",
+  "name": "What is Opus Builders' process for a high-end home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is Opus Builders' process for a high-end home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision and project goals. This is followed by a design phase where our architects and designers create detailed plans, including material selections and 3D renderings. Once the design is approved, we handle all necessary permitting. The construction phase involves meticulous execution by skilled craftsmen, with regular communication and site visits. Finally, we conduct a thorough walk-through and address any final details to ensure your complete satisfaction. Our integrated approach ensures a seamless and transparent experience.",
+        "@type": "Answer",
+        "description": "Opus Builders' process includes initial consultation, design, permitting, construction, and a final walk-through, with integrated project management."
+      }
+    }
+  ],
+  "description": "Opus Builders' process includes initial consultation, design, permitting, construction, and a final walk-through, with integrated project management."
+}

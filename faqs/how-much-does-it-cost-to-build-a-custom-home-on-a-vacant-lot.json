@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-build-a-custom-home-on-a-vacant-lot",
+  "name": "How much does it cost to build a custom home on a vacant lot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a custom home on a vacant lot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a custom home on a vacant lot varies widely based on several factors. These include the size and complexity of the home's design, the quality of materials and finishes chosen, site preparation requirements (e.g., grading, utility connections), and local labor rates. Land acquisition costs are separate from construction costs. Luxury custom homes generally start at a certain price per square foot, but a detailed estimate can only be provided after design plans and site assessments are complete. Opus Builders works to provide transparent cost breakdowns.",
+        "@type": "Answer",
+        "description": "Custom home construction costs on a vacant lot vary significantly, influenced by design complexity, material quality, site prep, and labor rates."
+      }
+    }
+  ],
+  "description": "Custom home construction costs on a vacant lot vary significantly, influenced by design complexity, material quality, site prep, and labor rates."
+}

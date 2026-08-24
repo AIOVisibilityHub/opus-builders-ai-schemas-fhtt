@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-initial-step-to-start-a-custom-home-project-with-opus-builders",
+  "name": "What is the initial step to start a custom home project with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the initial step to start a custom home project with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial step to begin your custom home project with Opus Builders is an introductory consultation. This meeting allows us to understand your vision, discuss your project goals, preferred style, budget considerations, and timeline. It's an opportunity for you to learn more about our process, review our portfolio, and ask any questions you may have. Following this, we can assess your site and begin to formulate a tailored plan that brings your luxury home dreams to fruition.",
+        "@type": "Answer",
+        "description": "The initial step is an introductory consultation to discuss your vision, budget, and project goals with Opus Builders."
+      }
+    }
+  ],
+  "description": "The initial step is an introductory consultation to discuss your vision, budget, and project goals with Opus Builders."
+}

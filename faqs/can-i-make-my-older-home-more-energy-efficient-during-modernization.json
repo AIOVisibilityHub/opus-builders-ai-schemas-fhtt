@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-make-my-older-home-more-energy-efficient-during-modernization",
+  "name": "Can I make my older home more energy efficient during modernization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make my older home more energy efficient during modernization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Modernizing an older home is an excellent opportunity to significantly improve its energy efficiency. This can involve upgrading to energy-efficient windows and doors, adding modern insulation to walls, attics, and crawl spaces, replacing old HVAC systems with high-efficiency models, and installing smart home technology for optimized climate control. These upgrades not only reduce your environmental footprint but also lead to substantial savings on utility bills and increase overall indoor comfort. Opus Builders integrates sustainable practices and materials where possible.",
+        "@type": "Answer",
+        "description": "Yes, older-home modernization is ideal for improving energy efficiency through upgrades like new windows, insulation, efficient HVAC, and smart home technology. This reduces bills and improves comfort."
+      }
+    }
+  ],
+  "description": "Yes, older-home modernization is ideal for improving energy efficiency through upgrades like new windows, insulation, efficient HVAC, and smart home technology."
+}

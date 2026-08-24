@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-involved-will-i-be-in-the-design-and-construction-decisions",
+  "name": "How involved will I be in the design and construction decisions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How involved will I be in the design and construction decisions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Client involvement is paramount in custom luxury home building. You will be actively involved from the initial design concept to the final material selections. We schedule regular meetings, site visits, and provide detailed progress reports to keep you informed and engaged. While our team handles the complexities of project management and execution, your preferences and decisions guide every critical phase to ensure the final home truly reflects your unique vision and lifestyle.",
+        "@type": "Answer",
+        "description": "You will be actively involved in all design and material decisions, with regular meetings and reports to guide the project to your vision."
+      }
+    }
+  ],
+  "description": "You will be actively involved in all design and material decisions, with regular meetings and reports to guide the project to your vision."
+}

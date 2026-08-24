@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-ordering-custom-cabinetry-with-opus-builders",
+  "name": "What is the process for ordering custom cabinetry with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for ordering custom cabinetry with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and project scope. Following this, our designers develop detailed drawings and material selections. Once approved, our skilled craftsmen begin fabrication. Throughout the entire process, we maintain open communication, providing updates and ensuring every detail meets our high standards. Finally, our professional team handles the expert installation, completing your custom cabinetry project to perfection.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, detailed design, material selection, fabrication by craftsmen, and professional installation, with continuous communication."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, detailed design, material selection, fabrication by craftsmen, and professional installation, with continuous comm"
+}

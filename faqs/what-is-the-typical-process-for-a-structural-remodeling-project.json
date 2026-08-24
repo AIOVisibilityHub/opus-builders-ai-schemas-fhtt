@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-process-for-a-structural-remodeling-project",
+  "name": "What is the typical process for a structural remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a structural remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a consultation to understand your vision and assess the existing structure. Our team then conducts a detailed structural analysis, often involving an engineer, to design the necessary modifications. This leads to the creation of architectural and structural plans for permitting. Once permits are secured, demolition of existing elements occurs, followed by the installation of new structural components like steel beams or reinforced concrete. The final stages involve framing, inspections, and finishing work to integrate the changes seamlessly into your home.",
+        "@type": "Answer",
+        "description": "The process involves consultation, structural analysis, design, permitting, demolition, installation of new structural components, and finishing work."
+      }
+    }
+  ],
+  "description": "The process involves consultation, structural analysis, design, permitting, demolition, installation of new structural components, and finishing work."
+}

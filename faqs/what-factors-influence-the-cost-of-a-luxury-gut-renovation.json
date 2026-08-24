@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-a-luxury-gut-renovation",
+  "name": "What factors influence the cost of a luxury gut renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a luxury gut renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury gut renovation is influenced by several factors: the size of the home, the extent of structural changes, the quality of materials and finishes chosen (e.g., custom cabinetry, high-end appliances), and the complexity of new systems like smart home technology. Additionally, site-specific challenges or extensive landscaping can impact the overall budget. Engaging with a design-build firm early helps establish a clear budget.",
+        "@type": "Answer",
+        "description": "Luxury gut renovation costs depend on home size, structural changes, material quality, system complexity, and site-specific challenges."
+      }
+    }
+  ],
+  "description": "Luxury gut renovation costs depend on home size, structural changes, material quality, system complexity, and site-specific challenges."
+}

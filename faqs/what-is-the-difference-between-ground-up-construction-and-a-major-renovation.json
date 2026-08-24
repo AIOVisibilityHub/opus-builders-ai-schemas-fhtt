@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-ground-up-construction-and-a-major-renovation",
+  "name": "What is the difference between ground-up construction and a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ground-up construction and a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-up construction involves building a completely new structure from a cleared site, offering total control over design, layout, and systems from inception. A major renovation, conversely, modifies an existing structure, often retaining its original foundation and some structural elements. While renovations can significantly update a home, they are often limited by the existing footprint and structural constraints. Ground-up provides the ultimate opportunity for customization without inherited issues.",
+        "@type": "Answer",
+        "description": "Ground-up construction builds a new home from scratch, offering complete design freedom, while major renovation modifies an existing structure within its original framework."
+      }
+    }
+  ],
+  "description": "Ground-up construction builds a new home from scratch, offering complete design freedom, while major renovation modifies an existing structure within its origin"
+}

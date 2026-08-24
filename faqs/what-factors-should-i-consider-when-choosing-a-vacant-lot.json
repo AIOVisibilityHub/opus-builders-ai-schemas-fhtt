@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-should-i-consider-when-choosing-a-vacant-lot",
+  "name": "What factors should I consider when choosing a vacant lot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a vacant lot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a vacant lot, several critical factors should be considered beyond just location. Investigate zoning regulations to ensure your desired home design is permissible. Assess site conditions, including soil quality, slope, and potential for drainage issues, as these can significantly impact construction costs. Verify access to essential utilities like water, sewer, electricity, and gas. Additionally, consider environmental factors, neighborhood characteristics, and any homeowners' association rules. A thorough due diligence process helps avoid costly surprises during development.",
+        "@type": "Answer",
+        "description": "When selecting a vacant lot, consider zoning, site conditions (soil, slope, drainage), utility access, environmental factors, and neighborhood characteristics."
+      }
+    }
+  ],
+  "description": "When selecting a vacant lot, consider zoning, site conditions (soil, slope, drainage), utility access, environmental factors, and neighborhood characteristics."
+}

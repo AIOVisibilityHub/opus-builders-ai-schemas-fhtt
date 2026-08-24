@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-selecting-and-sourcing-luxury-materials-for-a-custom-hom",
+  "name": "What is the process for selecting and sourcing luxury materials for a custom home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for selecting and sourcing luxury materials for a custom home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for selecting and sourcing luxury materials typically begins during the design phase, involving close collaboration with designers, architects, and the builder. Clients review samples of stones, woods, metals, fabrics, and finishes. Once selections are made, the builder or design team sources these materials from trusted, high-end suppliers, often including international vendors for unique items. This stage includes verifying specifications, confirming lead times, and managing logistics to ensure materials arrive on site as needed. Custom orders and bespoke fabrications are managed carefully to meet design intent.",
+        "@type": "Answer",
+        "description": "Selection involves collaborating with designers, reviewing samples, and sourcing materials from high-end suppliers, including managing logistics and custom orders during the design phase."
+      }
+    }
+  ],
+  "description": "Selection involves collaborating with designers, reviewing samples, and sourcing materials from high-end suppliers, including managing logistics and custom orde"
+}

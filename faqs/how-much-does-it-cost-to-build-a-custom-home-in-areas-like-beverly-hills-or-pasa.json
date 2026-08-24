@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-to-build-a-custom-home-in-areas-like-beverly-hills-or-pasa",
+  "name": "How much does it cost to build a custom home in areas like Beverly Hills or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a custom home in areas like Beverly Hills or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a custom home in luxury markets like Beverly Hills or Pasadena depends on numerous factors, including lot acquisition (if applicable), home size, architectural style, quality of materials, finishes, and specific features like smart home technology or extensive landscaping. Per square foot costs can range widely, often starting from $600-$800 and going upwards of $1500+ for high-end luxury builds. We provide detailed cost breakdowns and work with clients to align their vision with their budget during the initial planning stages.",
+        "@type": "Answer",
+        "description": "Custom home costs in luxury areas vary greatly based on size, materials, and features. Expect per square foot costs to range from $600 to over $1500, depending on project specifics."
+      }
+    }
+  ],
+  "description": "Custom home costs in luxury areas vary greatly based on size, materials, and features. Expect per square foot costs to range from $600 to over $1500, depending"
+}

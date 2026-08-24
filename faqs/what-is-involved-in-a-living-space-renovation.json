@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-a-living-space-renovation",
+  "name": "What is involved in a living space renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a living space renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A living space renovation typically involves updating or reconfiguring areas like living rooms, family rooms, dining rooms, and open-concept spaces. This can include structural changes, such as moving walls to create more open areas, or aesthetic updates like new flooring, lighting, custom built-ins, and refreshed finishes. The process usually begins with design consultation, followed by detailed planning, material selection, and construction. Opus Builders focuses on enhancing both the functionality and luxury aesthetic of your home's central gathering areas.",
+        "@type": "Answer",
+        "description": "A living space renovation updates areas like living rooms and dining rooms, involving design, planning, and construction to improve aesthetics and functionality."
+      }
+    }
+  ],
+  "description": "A living space renovation updates areas like living rooms and dining rooms, involving design, planning, and construction to improve aesthetics and functionality"
+}

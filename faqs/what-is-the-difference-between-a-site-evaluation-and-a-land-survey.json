@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-a-site-evaluation-and-a-land-survey",
+  "name": "What is the difference between a site evaluation and a land survey?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a site evaluation and a land survey?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A land survey primarily focuses on defining property boundaries, identifying existing structures, and establishing precise elevations. A site evaluation, however, is a broader assessment that analyzes the suitability of the land for construction. It includes aspects beyond just boundaries and elevations, such as soil quality, geological conditions, drainage patterns, potential hazards, and how these factors impact design and construction feasibility.",
+        "@type": "Answer",
+        "description": "A land survey defines property boundaries and elevations, while a site evaluation broadly assesses the land's suitability for construction, including soil and geological conditions."
+      }
+    }
+  ],
+  "description": "A land survey defines property boundaries and elevations, while a site evaluation broadly assesses the land's suitability for construction, including soil and g"
+}

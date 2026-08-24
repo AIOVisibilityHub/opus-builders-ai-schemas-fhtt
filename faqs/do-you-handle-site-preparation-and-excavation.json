@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-you-handle-site-preparation-and-excavation",
+  "name": "Do you handle site preparation and excavation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle site preparation and excavation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our comprehensive single-family home construction services include site preparation and excavation. This crucial initial phase involves clearing the land, ensuring proper grading for drainage, and excavating for the foundation, utilities, and any basements or subterranean structures. We assess the specific geological conditions of your property to determine the most effective and safest methods for site work, coordinating with necessary specialists to prepare your land properly for construction.",
+        "@type": "Answer",
+        "description": "Yes, our services include comprehensive site preparation and excavation, covering land clearing, grading, and foundation digging to prepare for construction."
+      }
+    }
+  ],
+  "description": "Yes, our services include comprehensive site preparation and excavation, covering land clearing, grading, and foundation digging to prepare for construction."
+}

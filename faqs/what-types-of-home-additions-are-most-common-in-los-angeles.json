@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-types-of-home-additions-are-most-common-in-los-angeles",
+  "name": "What types of home additions are most common in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home additions are most common in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Los Angeles, popular home additions often include second-story additions to maximize space on smaller lots, master suite expansions for enhanced luxury, and detached accessory dwelling units (ADUs) for guest accommodations or rental income. Expanding kitchens, creating home offices, or adding dedicated entertainment spaces are also frequently requested to meet evolving lifestyle needs. The choice typically depends on the homeowner's specific needs, property size, and local zoning regulations, which can vary by neighborhood.",
+        "@type": "Answer",
+        "description": "Common home additions in Los Angeles include second-story additions, master suite expansions, and accessory dwelling units (ADUs). Kitchen expansions, home offices, and entertainment spaces are also popular."
+      }
+    }
+  ],
+  "description": "Common home additions in Los Angeles include second-story additions, master suite expansions, and accessory dwelling units (ADUs). Kitchen expansions, home offi"
+}

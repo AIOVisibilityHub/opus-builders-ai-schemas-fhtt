@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-common-challenges-to-expect-during-a-gut-renovation",
+  "name": "What are common challenges to expect during a gut renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges to expect during a gut renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include unexpected structural issues uncovered during demolition, which can lead to unforeseen costs and delays. Permitting can sometimes take longer than anticipated, and material lead times can vary, impacting the project schedule. Communication breakdowns between parties can also occur. Choosing an experienced general contractor with transparent processes and a robust communication plan can mitigate many of these potential hurdles.",
+        "@type": "Answer",
+        "description": "Expect challenges like unforeseen structural issues, permitting delays, material lead times, and communication issues; choose an experienced contractor to mitigate these."
+      }
+    }
+  ],
+  "description": "Expect challenges like unforeseen structural issues, permitting delays, material lead times, and communication issues; choose an experienced contractor to mitig"
+}

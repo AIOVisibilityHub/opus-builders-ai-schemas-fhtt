@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-and-approvals-are-needed-for-a-tear-down-and-rebuild",
+  "name": "What permits and approvals are needed for a tear-down and rebuild?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are needed for a tear-down and rebuild?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tear-down and rebuild project requires various permits and approvals from local municipal authorities, which can be complex and time-consuming, especially in areas like Los Angeles. These typically include demolition permits, building permits, grading permits, and potentially specific permits for tree removal, utilities, or environmental impact. Zoning regulations, setback requirements, and neighborhood design guidelines must also be met. Opus Builders assists clients in navigating this intricate process, preparing and submitting all necessary documentation to ensure compliance.",
+        "@type": "Answer",
+        "description": "Tear-down and rebuild projects require demolition, building, and other specialized permits from local authorities, along with compliance to zoning and design guidelines. We assist with this complex process."
+      }
+    }
+  ],
+  "description": "Tear-down and rebuild projects require demolition, building, and other specialized permits from local authorities, along with compliance to zoning and design gu"
+}

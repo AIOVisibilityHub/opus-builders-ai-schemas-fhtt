@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-are-changes-to-the-design-or-scope-handled-during-the-construction-phase",
+  "name": "How are changes to the design or scope handled during the construction phase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are changes to the design or scope handled during the construction phase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the construction phase, any proposed changes to the design or scope are managed through a formal change order process. This involves documenting the requested modification, assessing its impact on the schedule and budget, and providing a detailed estimate for your review and approval. Once approved, the change order is incorporated into the project plan. Our structured approach ensures transparency and clear communication, allowing you to make informed decisions about any adjustments without unexpected surprises.",
+        "@type": "Answer",
+        "description": "Changes during construction are handled via a formal change order process, detailing impacts on schedule and budget for client approval."
+      }
+    }
+  ],
+  "description": "Changes during construction are handled via a formal change order process, detailing impacts on schedule and budget for client approval."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/will-i-need-to-relocate-during-a-tear-down-and-rebuild-project",
+  "name": "Will I need to relocate during a tear-down and rebuild project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need to relocate during a tear-down and rebuild project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you will need to relocate during a tear-down and rebuild project. The existing structure will be completely demolished, and the site will be an active construction zone for many months. For safety, efficiency, and to allow uninterrupted progress, it is essential for homeowners and their families to move out before demolition begins and to remain off-site until the new home is substantially complete and safe for occupancy. This temporary relocation should be factored into your project planning and budget.",
+        "@type": "Answer",
+        "description": "Yes, relocation is necessary during a tear-down and rebuild project as the site will be an active construction zone. Plan for temporary housing for the duration of the demolition and construction phases."
+      }
+    }
+  ],
+  "description": "Yes, relocation is necessary during a tear-down and rebuild project as the site will be an active construction zone. Plan for temporary housing for the duration"
+}

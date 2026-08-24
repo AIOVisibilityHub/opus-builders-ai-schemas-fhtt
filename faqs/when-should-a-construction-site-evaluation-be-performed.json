@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-a-construction-site-evaluation-be-performed",
+  "name": "When should a construction site evaluation be performed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should a construction site evaluation be performed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A construction site evaluation should ideally be performed early in the project timeline, typically before architectural design begins in earnest, or even before purchasing a lot. This allows potential site challenges to be identified and addressed proactively, influencing design choices, budget estimates, and overall project feasibility. Early evaluation helps prevent redesigns and delays later on.",
+        "@type": "Answer",
+        "description": "It should be performed early, ideally before architectural design or lot purchase, to identify challenges and influence project feasibility."
+      }
+    }
+  ],
+  "description": "It should be performed early, ideally before architectural design or lot purchase, to identify challenges and influence project feasibility."
+}

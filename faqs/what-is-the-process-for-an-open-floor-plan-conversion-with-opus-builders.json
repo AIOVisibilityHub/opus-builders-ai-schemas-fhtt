@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-an-open-floor-plan-conversion-with-opus-builders",
+  "name": "What is the process for an open-floor-plan conversion with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an open-floor-plan conversion with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision and assess your home's potential. This is followed by a design phase where our architects create detailed plans, including structural considerations. We then manage the permitting process. Once permits are approved, our skilled construction team executes the demolition, structural reinforcement, and all finishing work, keeping you informed at every stage until project completion and final walkthrough.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design, permitting, demolition, structural work, and finishing, with client communication throughout."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design, permitting, demolition, structural work, and finishing, with client communication throughout."
+}

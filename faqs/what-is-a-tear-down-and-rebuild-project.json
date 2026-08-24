@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-tear-down-and-rebuild-project",
+  "name": "What is a tear-down and rebuild project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a tear-down and rebuild project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tear-down and rebuild project involves demolishing an existing structure on a property and constructing an entirely new home in its place. This approach is often chosen when the current house is outdated, structurally unsound, or doesn't meet the homeowner's functional or aesthetic needs, but the land itself is desirable. It allows for complete customization, modern amenities, and optimal use of the lot while retaining the established location and neighborhood. This differs from a major renovation, where significant portions of the original structure are retained.",
+        "@type": "Answer",
+        "description": "A tear-down and rebuild project involves demolishing an existing home and constructing a new one on the same site, often chosen for desirable land when the current house is unsuitable."
+      }
+    }
+  ],
+  "description": "A tear-down and rebuild project involves demolishing an existing home and constructing a new one on the same site, often chosen for desirable land when the curr"
+}

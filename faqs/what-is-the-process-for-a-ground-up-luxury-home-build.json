@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-a-ground-up-luxury-home-build",
+  "name": "What is the process for a ground-up luxury home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a ground-up luxury home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ground-up luxury home building process typically begins with a consultation to define your vision and budget. This is followed by architectural design and engineering, then securing necessary permits. Site preparation, including grading and utility connections, precedes foundation work. The next stages involve framing, roofing, and installing windows and doors to make the structure weather-tight. Interior and exterior finishes, including plumbing, electrical, HVAC, drywall, flooring, cabinetry, and landscaping, complete the project before final inspections and homeowner walkthrough.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, site preparation, foundation, framing, exterior enclosure, and then interior and exterior finishes, followed by inspections."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, site preparation, foundation, framing, exterior enclosure, and then interior and exterior finishes, follo"
+}

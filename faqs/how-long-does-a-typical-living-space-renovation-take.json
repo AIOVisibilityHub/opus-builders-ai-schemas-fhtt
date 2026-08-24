@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-living-space-renovation-take",
+  "name": "How long does a typical living space renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical living space renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a living space renovation varies significantly based on its scope and complexity. A minor cosmetic update might take a few weeks, while a major overhaul involving structural changes or custom millwork could extend to several months. Factors like material lead times, permitting requirements, and the availability of specialized trades also influence the timeline. Opus Builders provides a detailed project schedule early in the planning phase, keeping clients informed of progress and any potential adjustments.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary from weeks for minor updates to several months for major overhauls, depending on scope, materials, and permitting."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary from weeks for minor updates to several months for major overhauls, depending on scope, materials, and permitting."
+}

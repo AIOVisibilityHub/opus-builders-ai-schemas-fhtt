@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-opus-builders-assist-with-vacant-lot-development",
+  "name": "How does Opus Builders assist with vacant-lot development?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Opus Builders assist with vacant-lot development?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders provides comprehensive services for vacant-lot development, guiding clients through every stage. Our involvement begins with initial consultation and feasibility studies, helping you assess potential lots and understand local regulations. We collaborate with trusted architects and designers to bring your vision to life, ensuring the design is both luxurious and constructible. We manage the entire permitting process, oversee site preparation, and meticulously execute the construction phase with a focus on quality craftsmanship and transparent communication. Our goal is to deliver a bespoke luxury home on schedule and within budget.",
+        "@type": "Answer",
+        "description": "Opus Builders assists with vacant-lot development from feasibility studies and architectural design to permitting, site preparation, and construction oversight."
+      }
+    }
+  ],
+  "description": "Opus Builders assists with vacant-lot development from feasibility studies and architectural design to permitting, site preparation, and construction oversight."
+}

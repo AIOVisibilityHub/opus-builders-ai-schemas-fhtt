@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-tear-down-and-rebuild-project-cost-in-the-los-angeles-area",
+  "name": "How much does a tear-down and rebuild project cost in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a tear-down and rebuild project cost in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury tear-down and rebuild project in the Los Angeles area varies widely depending on factors like square footage, materials, finishes, site complexity, and architectural style. Generally, expect costs to start from around $400-$600 per square foot for high-end custom homes, and potentially higher for exceptional designs or challenging sites. This estimate typically includes demolition, construction, and basic finishes, but excludes land acquisition, landscaping, and design fees. A detailed budget will be established after initial design concepts are developed.",
+        "@type": "Answer",
+        "description": "In Los Angeles, luxury tear-down and rebuild projects can start from $400-$600 per square foot, varying with size, materials, and complexity. This covers demolition and construction, but not land or design fees."
+      }
+    }
+  ],
+  "description": "In Los Angeles, luxury tear-down and rebuild projects can start from $400-$600 per square foot, varying with size, materials, and complexity. This covers demoli"
+}

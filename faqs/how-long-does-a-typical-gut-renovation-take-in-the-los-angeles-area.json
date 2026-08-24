@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-gut-renovation-take-in-the-los-angeles-area",
+  "name": "How long does a typical gut renovation take in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gut renovation take in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gut renovation in the Los Angeles area can vary widely based on the project's scope, the home's size, and the complexity of desired changes. Generally, you can expect a gut renovation to take anywhere from 6 to 18 months, not including the design and permitting phases which can add several more months. Factors like material lead times, inspection schedules, and the availability of skilled trades can all influence the timeline.",
+        "@type": "Answer",
+        "description": "A gut renovation in Los Angeles typically takes 6 to 18 months, excluding design and permitting, depending on project scope and complexity."
+      }
+    }
+  ],
+  "description": "A gut renovation in Los Angeles typically takes 6 to 18 months, excluding design and permitting, depending on project scope and complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-a-whole-house-remodel-with-your-company",
+  "name": "What is the process for a whole-house remodel with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a whole-house remodel with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our whole-house remodel process begins with an initial consultation to understand your vision, needs, and budget. This leads to concept development and detailed design, followed by material selection and permitting. Once permits are secured, the construction phase commences, managed with regular communication and site supervision. The project concludes with final inspections and your walkthrough, ensuring every detail meets our high standards and your satisfaction.",
+        "@type": "Answer",
+        "description": "Our process includes consultation, design, material selection, permitting, construction with project management, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "Our process includes consultation, design, material selection, permitting, construction with project management, and a final walkthrough to ensure satisfaction."
+}

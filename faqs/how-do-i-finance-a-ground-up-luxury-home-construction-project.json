@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-finance-a-ground-up-luxury-home-construction-project",
+  "name": "How do I finance a ground-up luxury home construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I finance a ground-up luxury home construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing a ground-up luxury home construction project typically involves a construction loan. This type of loan is distinct from a traditional mortgage as funds are disbursed in stages, or draws, as construction milestones are met. Lenders assess the project's plans, budget, and the builder's reputation. Once construction is complete, the construction loan is usually converted into a standard mortgage. It's advisable to secure pre-approval early in the planning process.",
+        "@type": "Answer",
+        "description": "Ground-up luxury home construction is typically financed with a construction loan, where funds are disbursed in stages as the project progresses, later converting to a standard mortgage."
+      }
+    }
+  ],
+  "description": "Ground-up luxury home construction is typically financed with a construction loan, where funds are disbursed in stages as the project progresses, later converti"
+}

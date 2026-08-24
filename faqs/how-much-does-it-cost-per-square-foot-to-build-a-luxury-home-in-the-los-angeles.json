@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-it-cost-per-square-foot-to-build-a-luxury-home-in-the-los-angeles",
+  "name": "How much does it cost per square foot to build a luxury home in the Los Angeles area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost per square foot to build a luxury home in the Los Angeles area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for a luxury home in Los Angeles varies widely, typically ranging from $500 to over $1000, depending on several factors. These include the complexity of the design, the quality of materials and finishes chosen, site-specific challenges, and system integrations (e.g., smart home technology). It's important to consider that this range is a general estimate, and a detailed budget is developed after understanding your specific project requirements and design aspirations.",
+        "@type": "Answer",
+        "description": "Luxury home construction costs in Los Angeles generally range from $500 to over $1000 per square foot, depending on design, materials, and site complexity."
+      }
+    }
+  ],
+  "description": "Luxury home construction costs in Los Angeles generally range from $500 to over $1000 per square foot, depending on design, materials, and site complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-a-custom-floor-plan",
+  "name": "What factors influence the cost of a custom floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom floor plan is primarily influenced by the home's size and complexity, the level of detail required, and the experience of the design team. Larger homes with intricate architectural features, multi-level designs, or unique structural requirements generally incur higher design fees. The number of revisions requested by the client can also impact costs. Additionally, specialized elements like smart home integrations or complex outdoor living spaces that need detailed planning will contribute to the overall design investment. Our team provides transparent fee structures based on your project scope.",
+        "@type": "Answer",
+        "description": "Cost is influenced by home size and complexity, required detail, and the design team's experience. Larger, more intricate designs or numerous revisions typically increase the investment."
+      }
+    }
+  ],
+  "description": "Cost is influenced by home size and complexity, required detail, and the design team's experience. Larger, more intricate designs or numerous revisions typicall"
+}

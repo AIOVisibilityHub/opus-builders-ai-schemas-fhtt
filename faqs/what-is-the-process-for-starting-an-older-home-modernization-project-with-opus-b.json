@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-starting-an-older-home-modernization-project-with-opus-b",
+  "name": "What is the process for starting an older-home modernization project with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting an older-home modernization project with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starting an older-home modernization project with Opus Builders begins with an initial consultation to discuss your vision, goals, and budget. We then conduct a detailed site assessment to evaluate the home's current condition and identify any unique characteristics or potential challenges. Following this, our design team develops conceptual plans and material selections for your review. Once designs are approved and permits are secured, our construction team executes the renovation with meticulous attention to detail, keeping you informed throughout every phase until project completion.",
+        "@type": "Answer",
+        "description": "The process starts with a consultation and site assessment to define your vision and budget. Our team then develops designs, secures permits, and executes the renovation, keeping you informed until completion."
+      }
+    }
+  ],
+  "description": "The process starts with a consultation and site assessment to define your vision and budget. Our team then develops designs, secures permits, and executes the r"
+}

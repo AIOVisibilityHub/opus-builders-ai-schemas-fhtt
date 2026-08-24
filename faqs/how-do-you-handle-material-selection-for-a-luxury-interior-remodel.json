@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-you-handle-material-selection-for-a-luxury-interior-remodel",
+  "name": "How do you handle material selection for a luxury interior remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle material selection for a luxury interior remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Material selection is a collaborative and curated process for luxury remodels. We guide you through an extensive range of premium options, including unique natural stones, custom millwork, high-end fixtures, bespoke textiles, and sophisticated finishes. We present selections tailored to your design preferences and budget, providing samples and detailed specifications. Our expertise ensures that chosen materials not only meet aesthetic goals but also offer durability and functionality, contributing to the overall luxury feel.",
+        "@type": "Answer",
+        "description": "We guide clients through selecting premium materials like natural stones, custom millwork, and high-end fixtures, ensuring aesthetic goals, durability, and functionality are met."
+      }
+    }
+  ],
+  "description": "We guide clients through selecting premium materials like natural stones, custom millwork, and high-end fixtures, ensuring aesthetic goals, durability, and func"
+}

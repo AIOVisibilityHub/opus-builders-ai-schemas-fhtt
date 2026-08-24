@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-factors-influence-the-cost-of-custom-cabinetry",
+  "name": "What factors influence the cost of custom cabinetry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of custom cabinetry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom cabinetry is primarily influenced by the chosen wood species, the complexity of the design, the type of finishes, hardware selections, and the overall size and number of cabinets. Premium materials, intricate details, and specialized finishes will increase the investment. While custom cabinetry represents a significant investment, it offers superior quality, longevity, and a tailored aesthetic that enhances the value and functionality of your luxury home.",
+        "@type": "Answer",
+        "description": "Cost is influenced by wood species, design complexity, finishes, hardware, and cabinet quantity. Premium choices will increase the investment."
+      }
+    }
+  ],
+  "description": "Cost is influenced by wood species, design complexity, finishes, hardware, and cabinet quantity. Premium choices will increase the investment."
+}

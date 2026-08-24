@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-to-move-out-during-a-whole-house-remodel",
+  "name": "Do I need to move out during a whole-house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out during a whole-house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to move out during a whole-house remodel depends on the project's scope and the affected areas of your home. If major systems like plumbing or electrical are being entirely redone, or if large sections of the house are uninhabitable, temporary relocation is often recommended for safety and comfort. For less intrusive projects, it might be possible to remain, though expect some disruption. We discuss living arrangements early in the planning stage.",
+        "@type": "Answer",
+        "description": "Moving out during a whole-house remodel depends on the project's scope; it's often recommended for major system overhauls or extensive structural changes for safety and comfort."
+      }
+    }
+  ],
+  "description": "Moving out during a whole-house remodel depends on the project's scope; it's often recommended for major system overhauls or extensive structural changes for sa"
+}

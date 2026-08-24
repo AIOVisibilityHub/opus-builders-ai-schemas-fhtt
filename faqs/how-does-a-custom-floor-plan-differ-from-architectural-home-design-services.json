@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-does-a-custom-floor-plan-differ-from-architectural-home-design-services",
+  "name": "How does a custom floor plan differ from architectural home design services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a custom floor plan differ from architectural home design services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom floor plan is a critical component of architectural home design, but it's not the entire scope. A floor plan focuses specifically on the layout, dimensions, and arrangement of rooms, ensuring optimal flow and functionality within the interior. Architectural home design services encompass a broader range, including not just the floor plan but also exterior elevations, structural engineering, material specifications, energy efficiency considerations, site planning, and compliance with building codes. Essentially, the floor plan is the 'what' and 'where' inside, while architectural design covers the complete 'how' and 'why' of the entire structure.",
+        "@type": "Answer",
+        "description": "A custom floor plan details room layout and functionality, while architectural home design encompasses the broader scope, including exteriors, structure, materials, site planning, and code compliance."
+      }
+    }
+  ],
+  "description": "A custom floor plan details room layout and functionality, while architectural home design encompasses the broader scope, including exteriors, structure, materi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-live-in-my-home-during-a-major-renovation",
+  "name": "Can I live in my home during a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during a major renovation depends heavily on the project's scope and the areas being worked on. For kitchen or bathroom remodels, it might be possible with temporary solutions, though it often creates significant disruption. Whole-home renovations, structural changes, or additions typically necessitate temporary relocation due to safety concerns, dust, noise, and utility interruptions. Your project manager will discuss the feasibility and implications during the planning phase, advising on the best approach for your comfort and safety.",
+        "@type": "Answer",
+        "description": "Living in your home during a major renovation depends on the scope; structural changes or whole-home remodels often require temporary relocation due to disruption and safety."
+      }
+    }
+  ],
+  "description": "Living in your home during a major renovation depends on the scope; structural changes or whole-home remodels often require temporary relocation due to disrupti"
+}

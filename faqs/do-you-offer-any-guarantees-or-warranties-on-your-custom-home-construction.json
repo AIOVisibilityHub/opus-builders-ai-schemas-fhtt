@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-you-offer-any-guarantees-or-warranties-on-your-custom-home-construction",
+  "name": "Do you offer any guarantees or warranties on your custom home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer any guarantees or warranties on your custom home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Opus Builders stands behind the quality of our work. We provide a comprehensive warranty on all custom homes built, covering structural components, mechanical systems, and finishes for specific periods as outlined in our contract. Our commitment to craftsmanship means we address any issues that may arise post-completion in accordance with our warranty terms, providing peace of mind and ensuring your long-term satisfaction with your luxury home.",
+        "@type": "Answer",
+        "description": "Opus Builders provides a comprehensive warranty on all custom homes, covering structural components, mechanical systems, and finishes."
+      }
+    }
+  ],
+  "description": "Opus Builders provides a comprehensive warranty on all custom homes, covering structural components, mechanical systems, and finishes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-common-challenges-when-modernizing-an-older-home",
+  "name": "What are common challenges when modernizing an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges when modernizing an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modernizing an older home often presents unique challenges. These can include outdated electrical and plumbing systems that require full replacement, discovery of unexpected structural issues or hazardous materials like asbestos or lead paint, and adhering to strict historic preservation guidelines if the home is designated. Additionally, integrating modern technology and design elements seamlessly into an existing historical structure requires careful planning and skilled craftsmanship. Opus Builders has extensive experience navigating these complexities to ensure a smooth renovation.",
+        "@type": "Answer",
+        "description": "Common challenges include outdated systems, unforeseen structural issues, hazardous materials, and historic preservation guidelines. Seamlessly integrating modern design into older structures also requires expertise."
+      }
+    }
+  ],
+  "description": "Common challenges include outdated systems, unforeseen structural issues, hazardous materials, and historic preservation guidelines. Seamlessly integrating mode"
+}

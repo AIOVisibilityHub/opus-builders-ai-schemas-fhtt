@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-use-my-own-architect-or-does-opus-builders-provide-design-services",
+  "name": "Can I use my own architect or does Opus Builders provide design services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use my own architect or does Opus Builders provide design services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Opus Builders offers comprehensive in-house design services, collaborating with our team of skilled architects and designers to bring your vision to life. However, we are also flexible and happy to collaborate with an architect of your choice. If you already have architectural plans, we can work with your selected professional to ensure a seamless transition into the construction phase. Our priority is to facilitate a smooth and successful project, regardless of the design source.",
+        "@type": "Answer",
+        "description": "You can use your own architect, or Opus Builders can provide in-house design services; we are flexible to your preference."
+      }
+    }
+  ],
+  "description": "You can use your own architect, or Opus Builders can provide in-house design services; we are flexible to your preference."
+}

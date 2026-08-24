@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-design-build-process-and-how-does-opus-builders-utilize-it",
+  "name": "What is the design-build process, and how does Opus Builders utilize it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the design-build process, and how does Opus Builders utilize it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design-build process integrates architectural design and construction services under a single contract with one entity, which is Opus Builders. This approach fosters greater collaboration between the design and construction teams from the project's inception, often leading to more efficient communication, streamlined timelines, and better cost control. Our clients benefit from having a single point of contact responsible for both design and construction, simplifying decision-making and ensuring a cohesive vision from concept to completion.",
+        "@type": "Answer",
+        "description": "Design-build combines architectural design and construction under one contract, offering a single point of contact and streamlined project delivery. Opus Builders uses this approach for efficient, collaborative custom home projects."
+      }
+    }
+  ],
+  "description": "Design-build combines architectural design and construction under one contract, offering a single point of contact and streamlined project delivery. Opus Builde"
+}

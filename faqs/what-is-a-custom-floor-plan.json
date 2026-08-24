@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-a-custom-floor-plan",
+  "name": "What is a custom floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a custom floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom floor plan is a unique design for a home's layout, specifically created to meet the individual needs, preferences, and lifestyle of the homeowner. Unlike pre-designed plans, a custom floor plan considers factors such as lot orientation, specific room functions, desired architectural style, family size, and future expansion possibilities. This ensures that every space within the home is optimized for functionality, aesthetics, and personal comfort. It allows for a truly personalized living environment that reflects the owner's vision.",
+        "@type": "Answer",
+        "description": "A custom floor plan is a unique home layout designed specifically for an individual homeowner's needs and preferences. It optimizes every space for functionality, aesthetics, and comfort."
+      }
+    }
+  ],
+  "description": "A custom floor plan is a unique home layout designed specifically for an individual homeowner's needs and preferences. It optimizes every space for functionalit"
+}

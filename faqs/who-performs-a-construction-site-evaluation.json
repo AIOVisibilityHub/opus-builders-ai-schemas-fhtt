@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/who-performs-a-construction-site-evaluation",
+  "name": "Who performs a construction site evaluation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who performs a construction site evaluation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A construction site evaluation is typically performed by a team of qualified professionals. This often includes civil engineers, geotechnical engineers, land surveyors, and sometimes environmental consultants. Our project managers coordinate these specialists to gather all necessary data and insights, ensuring a holistic understanding of the property's characteristics and potential implications for your luxury home project.",
+        "@type": "Answer",
+        "description": "A team of civil engineers, geotechnical engineers, land surveyors, and environmental consultants typically perform site evaluations."
+      }
+    }
+  ],
+  "description": "A team of civil engineers, geotechnical engineers, land surveyors, and environmental consultants typically perform site evaluations."
+}

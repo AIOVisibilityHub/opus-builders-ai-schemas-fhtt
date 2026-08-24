@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-open-floor-plans-affect-home-resale-value-in-areas-like-glendale-or-pasad",
+  "name": "How do open-floor plans affect home resale value in areas like Glendale or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do open-floor plans affect home resale value in areas like Glendale or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In real estate markets like Glendale and Pasadena, open-floor plans generally enhance home resale value. Modern buyers often prefer contemporary layouts that offer spaciousness, abundant natural light, and better flow for entertaining. This design trend aligns with current lifestyle preferences, making properties with open layouts more appealing and competitive. While specific returns vary, it's often seen as a significant upgrade that attracts a broader range of potential buyers.",
+        "@type": "Answer",
+        "description": "Open-floor plans typically increase home resale value in Glendale and Pasadena by appealing to modern buyers who prioritize spaciousness and contemporary layouts."
+      }
+    }
+  ],
+  "description": "Open-floor plans typically increase home resale value in Glendale and Pasadena by appealing to modern buyers who prioritize spaciousness and contemporary layout"
+}

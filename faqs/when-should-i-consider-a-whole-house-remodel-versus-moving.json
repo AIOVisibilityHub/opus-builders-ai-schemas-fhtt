@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-should-i-consider-a-whole-house-remodel-versus-moving",
+  "name": "When should I consider a whole-house remodel versus moving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a whole-house remodel versus moving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a whole-house remodel if your current home's location, lot, or underlying structure is ideal, but the interior layout, finishes, or functionality no longer meet your needs. Remodeling allows you to customize your living space without the hassle and cost of selling, buying, and relocating. It's often a strategic choice when you love your neighborhood and want to invest in your existing property to create your dream home.",
+        "@type": "Answer",
+        "description": "Consider remodeling if you love your home's location and structure but need to update its layout, finishes, or functionality to better suit your lifestyle."
+      }
+    }
+  ],
+  "description": "Consider remodeling if you love your home's location and structure but need to update its layout, finishes, or functionality to better suit your lifestyle."
+}

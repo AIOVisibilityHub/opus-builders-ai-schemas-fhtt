@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-process-for-a-luxury-home-remodeling-project-with-opus-build",
+  "name": "What is the typical process for a luxury home remodeling project with Opus Builders?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a luxury home remodeling project with Opus Builders?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision and project goals. This leads to concept development, where our design team creates detailed plans and renderings. Once approved, we handle all necessary permitting and then move to the construction phase, ensuring meticulous attention to detail and quality. Throughout the project, we maintain open communication and provide regular updates, culminating in a final walkthrough to ensure your complete satisfaction with your transformed home.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design, permitting, construction, and a final walkthrough, with continuous communication."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design, permitting, construction, and a final walkthrough, with continuous communication."
+}
