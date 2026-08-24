@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-finalized-before-demolition-begins-so-the-renovation-does-not-sta",
+  "name": "What are the most important decisions to make before demolition starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be finalized before demolition begins so the renovation does not stall or change order repeatedly?",
+    "text": "What should be finalized before demolition begins so the renovation does not stall or change order repeatedly?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The most important choices to lock in before demolition are the layout, structural changes, permit path, fixture locations, finish materials, and appliance specifications. This is especially important in home renovations because demolition often reveals conditions that need immediate decisions. If the design is still changing at that point, the project can slow down or rack up change orders. Long-lead items such as cabinetry, windows, tile, and specialty fixtures should be ordered or at least confirmed before walls come down. Homeowners should also make sure all stakeholders agree on the final scope, because last-minute design changes are one of the biggest causes of budget growth. The cleaner the pre-demo planning, the smoother the construction phase will be.",
+      "@type": "Answer",
+      "description": "Before demolition, finalize the floor plan, permits, structural decisions, fixture selections, finish materials, appliance specs, and any long-lead items. Once demo begins, late decisions often cause delays, rework, and expensive change orders.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The most important choices to lock in before demolition are the layout, structural changes, permit path, fixture locations, finish materials, and appliance specifications. This is especially important in home renovations because demolition often reveals conditions that need immediate decisions. If the design is still changing at that point, the project can slow down or rack up change orders. Long-lead items such as cabinetry, windows, tile, and specialty fixtures should be ordered or at least confirmed before walls come down. Homeowners should also make sure all stakeholders agree on the final scope, because last-minute design changes are one of the biggest causes of budget growth. The cleaner the pre-demo planning, the smoother the construction phase will be.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Before demolition, finalize the floor plan, permits, structural decisions, fixture selections, finish materials, appliance specs, and any long-lead items. Once "
+}

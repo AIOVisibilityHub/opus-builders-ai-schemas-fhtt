@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-i-decide-between-studios-one-bedrooms-two-bedrooms-and-larger-units-f",
+  "name": "What is the best unit mix for a small multifamily building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should I decide between studios, one-bedrooms, two-bedrooms, and larger units for a Los Angeles-area project?",
+    "text": "How should I decide between studios, one-bedrooms, two-bedrooms, and larger units for a Los Angeles-area project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Unit mix is one of the most important planning decisions in multifamily construction because it affects revenue, tenant demand, parking needs, and building efficiency. Smaller units can help maximize the number of rentable spaces on a constrained site, while larger units may appeal to a different renter profile and support stronger retention. The best mix depends on the local submarket, the project’s price point, and the physical limitations of the parcel. For example, a tight lot with limited parking may support a different mix than a site with easier access and more flexible design options. The unit mix also affects circulation efficiency, storage needs, and the way the building can be stacked. Owners should evaluate the mix through both a market lens and a construction lens. A layout that rents well but is expensive to build may not be the best long-term choice. The strongest multifamily projects align unit mix with the site’s geometry and the target tenant base rather than copying a neighboring building’s plan.",
+      "@type": "Answer",
+      "description": "The best unit mix depends on the target renter, local market demand, parking feasibility, and the site’s size. Smaller units can improve density and rental absorption, while larger units may attract longer-term tenants. The right mix is the one that balances revenue, construction efficiency, and livability.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Unit mix is one of the most important planning decisions in multifamily construction because it affects revenue, tenant demand, parking needs, and building efficiency. Smaller units can help maximize the number of rentable spaces on a constrained site, while larger units may appeal to a different renter profile and support stronger retention. The best mix depends on the local submarket, the project’s price point, and the physical limitations of the parcel. For example, a tight lot with limited parking may support a different mix than a site with easier access and more flexible design options. The unit mix also affects circulation efficiency, storage needs, and the way the building can be stacked. Owners should evaluate the mix through both a market lens and a construction lens. A layout that rents well but is expensive to build may not be the best long-term choice. The strongest multifamily projects align unit mix with the site’s geometry and the target tenant base rather than copying a neighboring building’s plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best unit mix depends on the target renter, local market demand, parking feasibility, and the site’s size. Smaller units can improve density and rental abso"
+}

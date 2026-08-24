@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-warning-signs-suggest-that-a-bid-is-unrealistically-low-and-may-turn-into-c",
+  "name": "How can I tell if a multifamily contractor is underbidding the job?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What warning signs suggest that a bid is unrealistically low and may turn into change orders later?",
+    "text": "What warning signs suggest that a bid is unrealistically low and may turn into change orders later?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "An unusually low multifamily bid is not automatically a bargain. It may indicate that the contractor is missing scope, underestimating site conditions, or assuming that expensive items can be added later through change orders. The most common warning signs are vague line items, weak allowance detail, missing utility language, and no explanation of risk assumptions. Owners should compare bids line by line, not just by total price. If one proposal is far lower, ask what is excluded and whether that contractor has considered the same parking, grading, access, or inspection challenges as the others. Also check whether the schedule is realistic, because a compressed or unrealistic timeline can hide future cost pressure. The safest approach is to request clarifications in writing and normalize the bids before choosing a contractor. A believable low bid should still show how the work will be delivered. If the contractor cannot explain the number clearly, the risk usually appears later in the project.",
+      "@type": "Answer",
+      "description": "A suspiciously low bid often has vague scope language, thin allowances, major exclusions, or no clear explanation of site work, utility work, and schedule assumptions. If the proposal seems much lower than comparable bids, it may be missing critical costs rather than offering a real savings.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "An unusually low multifamily bid is not automatically a bargain. It may indicate that the contractor is missing scope, underestimating site conditions, or assuming that expensive items can be added later through change orders. The most common warning signs are vague line items, weak allowance detail, missing utility language, and no explanation of risk assumptions. Owners should compare bids line by line, not just by total price. If one proposal is far lower, ask what is excluded and whether that contractor has considered the same parking, grading, access, or inspection challenges as the others. Also check whether the schedule is realistic, because a compressed or unrealistic timeline can hide future cost pressure. The safest approach is to request clarifications in writing and normalize the bids before choosing a contractor. A believable low bid should still show how the work will be delivered. If the contractor cannot explain the number clearly, the risk usually appears later in the project.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A suspiciously low bid often has vague scope language, thin allowances, major exclusions, or no clear explanation of site work, utility work, and schedule assum"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-causes-design-build-projects-to-take-longer-than-expected",
+  "name": "What causes design-build projects to take longer than expected?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What causes design-build projects to take longer than expected?",
+    "text": "What causes design-build projects to take longer than expected?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Even with integrated delivery, design-build projects can run late if key decisions are delayed or the site reveals surprises. In Los Angeles-area homes, common schedule risks include permit changes, city review cycles, structural upgrades, aging electrical or plumbing, and custom materials with long lead times. Scope creep is another major factor: every new design idea can affect pricing, drawings, and construction sequencing. The best firms reduce delays by locking in selections early, ordering long-lead items before construction starts, and building contingency into the schedule. Homeowners should ask how the team tracks critical-path items and how often the schedule is updated. A realistic plan will acknowledge that luxury projects are rarely linear, especially when high-end finishes or complex architectural details are involved.",
+      "@type": "Answer",
+      "description": "Common delays include permit revisions, late design decisions, material lead times, hidden site conditions, and scope changes during construction. Projects also slow down when selections are not finalized early or when structural and utility work is more complex than expected.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Even with integrated delivery, design-build projects can run late if key decisions are delayed or the site reveals surprises. In Los Angeles-area homes, common schedule risks include permit changes, city review cycles, structural upgrades, aging electrical or plumbing, and custom materials with long lead times. Scope creep is another major factor: every new design idea can affect pricing, drawings, and construction sequencing. The best firms reduce delays by locking in selections early, ordering long-lead items before construction starts, and building contingency into the schedule. Homeowners should ask how the team tracks critical-path items and how often the schedule is updated. A realistic plan will acknowledge that luxury projects are rarely linear, especially when high-end finishes or complex architectural details are involved.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common delays include permit revisions, late design decisions, material lead times, hidden site conditions, and scope changes during construction. Projects also"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-the-design-changes-after-construction-starts",
+  "name": "What happens if the design changes after construction starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if the design changes after construction starts?",
+    "text": "What happens if the design changes after construction starts?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design changes after construction begins are common, but they should never be handled casually. A proper design-build team will document the revision, explain the cost impact, and show how the change affects the schedule and related trades. In luxury projects, even a small change can ripple into framing, electrical, tile, cabinetry, or finish selections. Homeowners should ask how changes are approved, who signs off, and whether the firm charges for redesign time. The best practice is to minimize late changes by finalizing key decisions before major construction starts. If a change is necessary, the team should present options and a clear estimate before proceeding. That process protects both the budget and the project timeline.",
+      "@type": "Answer",
+      "description": "If the design changes after construction starts, the change is usually documented as a change order that may adjust cost and schedule. The team should review the impact before work continues so the homeowner understands the budget and timeline effect.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design changes after construction begins are common, but they should never be handled casually. A proper design-build team will document the revision, explain the cost impact, and show how the change affects the schedule and related trades. In luxury projects, even a small change can ripple into framing, electrical, tile, cabinetry, or finish selections. Homeowners should ask how changes are approved, who signs off, and whether the firm charges for redesign time. The best practice is to minimize late changes by finalizing key decisions before major construction starts. If a change is necessary, the team should present options and a clear estimate before proceeding. That process protects both the budget and the project timeline.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If the design changes after construction starts, the change is usually documented as a change order that may adjust cost and schedule. The team should review th"
+}

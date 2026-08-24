@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-hidden-damage-is-found-during-demolition",
+  "name": "What happens if hidden damage is found during demolition?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if hidden damage is found during demolition?",
+    "text": "What happens if hidden damage is found during demolition?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Hidden damage is one of the most common reasons commercial projects change after demolition starts. Once walls, ceilings, or flooring are removed, contractors may uncover water damage, rot, corrosion, outdated wiring, damaged framing, or old unpermitted modifications. The correct response is to document the condition, isolate the affected area, and determine whether the issue is a safety concern, a code issue, or a pricing issue. In many cases, the contractor will prepare a revised scope and explain how the discovery affects schedule and budget. Owners should expect that some discoveries will require additional design input or permit revisions. The best protection is to plan for this possibility before demolition begins and make sure the contract explains how unforeseen conditions will be handled. In older Los Angeles-area buildings, hidden damage is not an exception; it is often part of the normal risk profile.",
+      "@type": "Answer",
+      "description": "If hidden damage is found during demolition, the contractor usually stops affected work, documents the condition, and reviews the scope with the owner before proceeding. The final solution may require repair, redesign, permit updates, or a change order depending on what was discovered.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Hidden damage is one of the most common reasons commercial projects change after demolition starts. Once walls, ceilings, or flooring are removed, contractors may uncover water damage, rot, corrosion, outdated wiring, damaged framing, or old unpermitted modifications. The correct response is to document the condition, isolate the affected area, and determine whether the issue is a safety concern, a code issue, or a pricing issue. In many cases, the contractor will prepare a revised scope and explain how the discovery affects schedule and budget. Owners should expect that some discoveries will require additional design input or permit revisions. The best protection is to plan for this possibility before demolition begins and make sure the contract explains how unforeseen conditions will be handled. In older Los Angeles-area buildings, hidden damage is not an exception; it is often part of the normal risk profile.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If hidden damage is found during demolition, the contractor usually stops affected work, documents the condition, and reviews the scope with the owner before pr"
+}

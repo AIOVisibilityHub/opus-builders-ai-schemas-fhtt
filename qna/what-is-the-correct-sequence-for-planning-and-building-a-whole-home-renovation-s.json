@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-correct-sequence-for-planning-and-building-a-whole-home-renovation-s",
+  "name": "What is the right order for a whole-home renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the correct sequence for planning and building a whole-home renovation so work does not have to be redone?",
+    "text": "What is the correct sequence for planning and building a whole-home renovation so work does not have to be redone?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A whole-home renovation should follow a clear sequence so trades are not working out of order. The typical order starts with planning, budget setting, and design development. After that comes scope definition, permit drawings, material selections, and any structural engineering needed. Once permits are approved, demolition begins, followed by framing, rough plumbing, rough electrical, HVAC changes, and required inspections. After the rough work is approved, insulation, drywall, flooring, cabinetry, tile, paint, trim, and fixtures come next, then final inspections and a punch list. The biggest scheduling mistake is waiting too long to choose finish materials such as tile, cabinetry, plumbing fixtures, and windows. Those items often have long lead times and can stall the entire project. A good contractor will also coordinate rough-ins around the final layout so walls, fixtures, and appliance locations are locked in before work starts. The cleaner the sequence, the fewer costly rework problems later.",
+      "@type": "Answer",
+      "description": "The usual order is planning and design, scope definition, permit drawings, selections, permit approval, demolition, structural and rough-in work, inspections, insulation and drywall, finishes, and final punch list. Finishing materials should be selected early so the schedule is not delayed by long lead items.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A whole-home renovation should follow a clear sequence so trades are not working out of order. The typical order starts with planning, budget setting, and design development. After that comes scope definition, permit drawings, material selections, and any structural engineering needed. Once permits are approved, demolition begins, followed by framing, rough plumbing, rough electrical, HVAC changes, and required inspections. After the rough work is approved, insulation, drywall, flooring, cabinetry, tile, paint, trim, and fixtures come next, then final inspections and a punch list. The biggest scheduling mistake is waiting too long to choose finish materials such as tile, cabinetry, plumbing fixtures, and windows. Those items often have long lead times and can stall the entire project. A good contractor will also coordinate rough-ins around the final layout so walls, fixtures, and appliance locations are locked in before work starts. The cleaner the sequence, the fewer costly rework problems later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The usual order is planning and design, scope definition, permit drawings, selections, permit approval, demolition, structural and rough-in work, inspections, i"
+}

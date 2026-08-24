@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-best-contract-type-for-a-commercial-construction-project",
+  "name": "What is the best contract type for a commercial construction project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the best contract type for a commercial construction project?",
+    "text": "What is the best contract type for a commercial construction project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "There is no single best contract type for every commercial construction project. Fixed-price contracts work best when the scope is clearly defined and the plans are complete, while cost-plus arrangements can be useful when the scope is still evolving or the owner wants more transparency into actual costs. A guaranteed maximum price can offer a middle ground by giving a ceiling while still allowing for some flexibility. The right choice depends on how complete the drawings are, how predictable the site conditions are, and how much risk the owner is willing to accept. In older or occupied Los Angeles-area buildings, a flexible structure may make more sense because hidden conditions are more likely. Owners should also pay attention to allowance language, contingency treatment, and how change orders are approved. The best contract is the one that matches the project’s uncertainty level instead of forcing a rigid pricing model onto a moving scope.",
+      "@type": "Answer",
+      "description": "The best contract type depends on how defined the scope is, how much risk the owner wants to carry, and whether the project is still in design. Fixed price, cost-plus, and GMP structures each work better in different situations, especially when the scope may change.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "There is no single best contract type for every commercial construction project. Fixed-price contracts work best when the scope is clearly defined and the plans are complete, while cost-plus arrangements can be useful when the scope is still evolving or the owner wants more transparency into actual costs. A guaranteed maximum price can offer a middle ground by giving a ceiling while still allowing for some flexibility. The right choice depends on how complete the drawings are, how predictable the site conditions are, and how much risk the owner is willing to accept. In older or occupied Los Angeles-area buildings, a flexible structure may make more sense because hidden conditions are more likely. Owners should also pay attention to allowance language, contingency treatment, and how change orders are approved. The best contract is the one that matches the project’s uncertainty level instead of forcing a rigid pricing model onto a moving scope.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best contract type depends on how defined the scope is, how much risk the owner wants to carry, and whether the project is still in design. Fixed price, cos"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-it-possible-to-build-a-custom-home-on-the-same-lot-while-staying-in-the-curre",
+  "name": "Can a luxury custom home be built while I live in the existing house?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is it possible to build a custom home on the same lot while staying in the current house?",
+    "text": "Is it possible to build a custom home on the same lot while staying in the current house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "It may be possible to remain in the existing home during part of a custom build, but it depends on the project logistics. If the new home is on the same lot, the builder must plan around access, safety barriers, utility isolation, dust control, and demolition sequencing. Some projects can be staged to minimize disruption, while others are too large or too constrained to make occupancy practical. The decision usually comes down to whether the old and new structures can be safely separated and whether construction traffic can move through the site without creating major risk. Homeowners should ask for a phased occupancy plan during preconstruction, not after permits are issued.",
+      "@type": "Answer",
+      "description": "In some cases, yes, but it depends on site access, utility separation, safety, and the scope of demolition or grading. It is often difficult on tight or heavily worked lots and should be evaluated before the design is finalized.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "It may be possible to remain in the existing home during part of a custom build, but it depends on the project logistics. If the new home is on the same lot, the builder must plan around access, safety barriers, utility isolation, dust control, and demolition sequencing. Some projects can be staged to minimize disruption, while others are too large or too constrained to make occupancy practical. The decision usually comes down to whether the old and new structures can be safely separated and whether construction traffic can move through the site without creating major risk. Homeowners should ask for a phased occupancy plan during preconstruction, not after permits are issued.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In some cases, yes, but it depends on site access, utility separation, safety, and the scope of demolition or grading. It is often difficult on tight or heavily"
+}

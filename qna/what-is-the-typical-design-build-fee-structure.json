@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-typical-design-build-fee-structure",
+  "name": "What is the typical design-build fee structure?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the typical design-build fee structure?",
+    "text": "What is the typical design-build fee structure?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build fee structures vary, but the most common models are fixed fee, percentage-based, cost-plus, or hybrid. A fixed fee gives more certainty for defined design work, while a percentage-based model scales with project size. Cost-plus adds transparency on actual labor and material costs, but it requires strong reporting and clear oversight. Many firms use a hybrid approach that bills preconstruction separately and then shifts to a construction contract once the scope is finalized. For homeowners, the key is understanding which parts of the project are covered by each fee and where extra charges can appear. Ask whether the fee includes design revisions, permit coordination, consultant management, site supervision, and procurement support. The right structure depends on project complexity and how much certainty you need early in the process.",
+      "@type": "Answer",
+      "description": "Common fee structures include a fixed design fee, a percentage of construction cost, or a cost-plus model with a management fee. Some firms use a hybrid structure that separates preconstruction from the building phase so the homeowner can see where money is going.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build fee structures vary, but the most common models are fixed fee, percentage-based, cost-plus, or hybrid. A fixed fee gives more certainty for defined design work, while a percentage-based model scales with project size. Cost-plus adds transparency on actual labor and material costs, but it requires strong reporting and clear oversight. Many firms use a hybrid approach that bills preconstruction separately and then shifts to a construction contract once the scope is finalized. For homeowners, the key is understanding which parts of the project are covered by each fee and where extra charges can appear. Ask whether the fee includes design revisions, permit coordination, consultant management, site supervision, and procurement support. The right structure depends on project complexity and how much certainty you need early in the process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Common fee structures include a fixed design fee, a percentage of construction cost, or a cost-plus model with a management fee. Some firms use a hybrid structu"
+}

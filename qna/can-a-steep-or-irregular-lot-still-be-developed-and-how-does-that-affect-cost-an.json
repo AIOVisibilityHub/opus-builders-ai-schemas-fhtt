@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-steep-or-irregular-lot-still-be-developed-and-how-does-that-affect-cost-an",
+  "name": "What if my multifamily site has a slope or retaining wall issue?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a steep or irregular lot still be developed, and how does that affect cost and design?",
+    "text": "Can a steep or irregular lot still be developed, and how does that affect cost and design?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A sloped site does not automatically rule out multifamily construction, but it often makes the project more complicated and expensive. Slope can affect grading, drainage, structural design, foundation depth, retaining walls, and accessibility. The building may need a split-level layout or a different parking strategy to fit the lot safely and efficiently. The risk is that a site that looks workable in concept may require much more earthwork or structural support than expected. That can increase both hard costs and schedule risk. Drainage and waterproofing also become more important because water movement on sloped sites can create long-term maintenance issues if not handled correctly. Owners should get civil and structural input early rather than waiting until architectural drawings are complete. A thorough feasibility study should show where the slope creates cost and where it may still be manageable. If a builder gives a fixed opinion without site data, that opinion should be treated cautiously.",
+      "@type": "Answer",
+      "description": "A sloped lot can still support multifamily construction, but it usually increases structural complexity, grading, drainage, retaining wall needs, and cost. The project may require split levels, deeper foundations, or more excavation. Early site studies are essential because slope conditions can change both the building form and the budget.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A sloped site does not automatically rule out multifamily construction, but it often makes the project more complicated and expensive. Slope can affect grading, drainage, structural design, foundation depth, retaining walls, and accessibility. The building may need a split-level layout or a different parking strategy to fit the lot safely and efficiently. The risk is that a site that looks workable in concept may require much more earthwork or structural support than expected. That can increase both hard costs and schedule risk. Drainage and waterproofing also become more important because water movement on sloped sites can create long-term maintenance issues if not handled correctly. Owners should get civil and structural input early rather than waiting until architectural drawings are complete. A thorough feasibility study should show where the slope creates cost and where it may still be manageable. If a builder gives a fixed opinion without site data, that opinion should be treated cautiously.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A sloped lot can still support multifamily construction, but it usually increases structural complexity, grading, drainage, retaining wall needs, and cost. The "
+}

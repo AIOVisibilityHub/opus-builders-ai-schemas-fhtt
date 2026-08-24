@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-commercial-construction-project-stay-open-during-renovation",
+  "name": "Can a commercial construction project stay open during renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a commercial construction project stay open during renovation?",
+    "text": "Can a commercial construction project stay open during renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Many commercial renovation projects in Los Angeles-area cities can continue operating during construction, but only if the work is carefully phased. The key issues are safety, access, noise, dust, odors, and maintaining life-safety systems while work is happening. In an occupied building, contractors often divide the project into zones, schedule disruptive tasks after hours, and use barriers and negative-air controls to protect occupants and customers. This is common for offices, retail spaces, restaurants, and multi-tenant buildings. The tradeoff is that occupied-phased work usually costs more and can take longer because crews must work around operations. Owners should also plan for temporary shutdowns of utilities, restrooms, or entrances if the scope affects those systems. The contractor should present a sequencing plan that shows how daily operations will remain functional. If the business cannot absorb interruptions, a full shutdown may be cheaper and faster than trying to build around active operations.",
+      "@type": "Answer",
+      "description": "Yes, many commercial projects can stay open during renovation if the contractor phases work, isolates dust and noise, protects customer access, and coordinates work hours carefully. Projects in occupied buildings usually need more planning, more signage, and tighter safety controls than vacant-space build-outs.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Many commercial renovation projects in Los Angeles-area cities can continue operating during construction, but only if the work is carefully phased. The key issues are safety, access, noise, dust, odors, and maintaining life-safety systems while work is happening. In an occupied building, contractors often divide the project into zones, schedule disruptive tasks after hours, and use barriers and negative-air controls to protect occupants and customers. This is common for offices, retail spaces, restaurants, and multi-tenant buildings. The tradeoff is that occupied-phased work usually costs more and can take longer because crews must work around operations. Owners should also plan for temporary shutdowns of utilities, restrooms, or entrances if the scope affects those systems. The contractor should present a sequencing plan that shows how daily operations will remain functional. If the business cannot absorb interruptions, a full shutdown may be cheaper and faster than trying to build around active operations.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, many commercial projects can stay open during renovation if the contractor phases work, isolates dust and noise, protects customer access, and coordinates "
+}

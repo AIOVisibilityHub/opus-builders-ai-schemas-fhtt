@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-older-homes-in-los-angeles-glendale-pasadena-or-burbank-usually-need-electric",
+  "name": "Do older Los Angeles homes need electrical upgrades during renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do older homes in Los Angeles, Glendale, Pasadena, or Burbank usually need electrical panel or wiring upgrades during a renovation?",
+    "text": "Do older homes in Los Angeles, Glendale, Pasadena, or Burbank usually need electrical panel or wiring upgrades during a renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older Los Angeles-area homes frequently need electrical improvements during renovation because their original systems were built for much lower household demand. Modern kitchens, induction ranges, dishwashers, HVAC equipment, multiple bathrooms, and EV chargers can require new circuits or a larger panel. In many homes, the issue is not just capacity but safety and code compatibility. Outdated wiring, insufficient grounding, or an old panel can become a hidden constraint once walls are opened. Homeowners should have the electrical system evaluated early in the design phase so the budget and scope reflect reality before demolition begins. If the project includes a kitchen or bath remodel, electrical changes can also trigger permit and inspection requirements. Planning for upgrades up front avoids delays, repeated patching, and surprise change orders after construction starts.",
+      "@type": "Answer",
+      "description": "Older homes often need electrical upgrades during major renovations, especially if the panel is undersized, wiring is outdated, or new appliances and circuits are added. Even if the home looks fine, modern kitchens, baths, HVAC, and EV charging can push the electrical system beyond its original capacity.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older Los Angeles-area homes frequently need electrical improvements during renovation because their original systems were built for much lower household demand. Modern kitchens, induction ranges, dishwashers, HVAC equipment, multiple bathrooms, and EV chargers can require new circuits or a larger panel. In many homes, the issue is not just capacity but safety and code compatibility. Outdated wiring, insufficient grounding, or an old panel can become a hidden constraint once walls are opened. Homeowners should have the electrical system evaluated early in the design phase so the budget and scope reflect reality before demolition begins. If the project includes a kitchen or bath remodel, electrical changes can also trigger permit and inspection requirements. Planning for upgrades up front avoids delays, repeated patching, and surprise change orders after construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Older homes often need electrical upgrades during major renovations, especially if the panel is undersized, wiring is outdated, or new appliances and circuits a"
+}

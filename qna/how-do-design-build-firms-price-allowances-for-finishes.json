@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-design-build-firms-price-allowances-for-finishes",
+  "name": "How do design-build firms price allowances for finishes?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do design-build firms price allowances for finishes?",
+    "text": "How do design-build firms price allowances for finishes?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Allowances are one of the most important pricing details in any design-build contract. They are placeholders for items that have not been selected yet, such as cabinetry, flooring, tile, plumbing fixtures, lighting, and appliances. If the allowance is too low, the project can look affordable on paper but become expensive once real selections are made. Homeowners should ask how allowances were set, whether they reflect the level of finish expected, and how overages are handled. In luxury projects, allowance quality matters even more because the range between standard and premium finishes can be very large. A well-prepared proposal should separate allowance items from fixed-price work so the budget is understandable. If the firm cannot explain its allowance assumptions clearly, the estimate may not be reliable.",
+      "@type": "Answer",
+      "description": "Allowances are estimated dollar amounts assigned to items like tile, fixtures, cabinets, and appliances when exact selections are not finalized. If the actual choice costs more than the allowance, the homeowner usually pays the difference.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Allowances are one of the most important pricing details in any design-build contract. They are placeholders for items that have not been selected yet, such as cabinetry, flooring, tile, plumbing fixtures, lighting, and appliances. If the allowance is too low, the project can look affordable on paper but become expensive once real selections are made. Homeowners should ask how allowances were set, whether they reflect the level of finish expected, and how overages are handled. In luxury projects, allowance quality matters even more because the range between standard and premium finishes can be very large. A well-prepared proposal should separate allowance items from fixed-price work so the budget is understandable. If the firm cannot explain its allowance assumptions clearly, the estimate may not be reliable.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Allowances are estimated dollar amounts assigned to items like tile, fixtures, cabinets, and appliances when exact selections are not finalized. If the actual c"
+}

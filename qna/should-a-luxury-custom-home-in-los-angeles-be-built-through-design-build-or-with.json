@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-a-luxury-custom-home-in-los-angeles-be-built-through-design-build-or-with",
+  "name": "Design-build vs architect-first: which is better for a luxury home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should a luxury custom home in Los Angeles be built through design-build or with a separate architect first?",
+    "text": "Should a luxury custom home in Los Angeles be built through design-build or with a separate architect first?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Both paths can work well for luxury homes, but they solve different problems. Design-build can reduce handoff errors, improve constructability, and help align the design with the budget earlier. Architect-first can provide more independent design exploration before a builder enters the process. For complex Los Angeles sites, especially hillside or highly customized homes, coordination is often the biggest value driver, so a team that can integrate design, engineering, and construction early may reduce delays and change orders. Owners should ask who is responsible for budget alignment, engineering coordination, and scope control at each stage. The right answer depends on whether the priority is design freedom, speed, budget certainty, or a balance of all three.",
+      "@type": "Answer",
+      "description": "Design-build can improve budget alignment and coordination, while architect-first can give the owner more design independence. The better choice depends on how much control the owner wants, how complex the site is, and how early the budget must be locked.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Both paths can work well for luxury homes, but they solve different problems. Design-build can reduce handoff errors, improve constructability, and help align the design with the budget earlier. Architect-first can provide more independent design exploration before a builder enters the process. For complex Los Angeles sites, especially hillside or highly customized homes, coordination is often the biggest value driver, so a team that can integrate design, engineering, and construction early may reduce delays and change orders. Owners should ask who is responsible for budget alignment, engineering coordination, and scope control at each stage. The right answer depends on whether the priority is design freedom, speed, budget certainty, or a balance of all three.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build can improve budget alignment and coordination, while architect-first can give the owner more design independence. The better choice depends on how "
+}

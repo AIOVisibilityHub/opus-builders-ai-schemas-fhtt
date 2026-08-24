@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-difference-between-hiring-a-landscape-architect-and-a-design-build-f",
+  "name": "What is the difference between hiring a landscape architect and a design-build firm for a backyard renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between hiring a landscape architect and a design-build firm for a backyard renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A landscape architect typically focuses solely on the design and planning aspects of your outdoor space, providing detailed blueprints and material specifications. You would then hire a separate contractor to execute the construction based on those plans. A design-build firm, like Opus Builders, offers a single point of contact responsible for both the design and the construction phases. This integrated approach often leads to better communication, streamlined project management, more accurate budgeting, and a more cohesive final product, as the design intent is carried through directly into construction.",
+        "@type": "Answer",
+        "description": "A landscape architect designs, while a design-build firm handles both design and construction, offering a streamlined, single-point-of-contact approach."
+      }
+    }
+  ],
+  "description": "A landscape architect designs, while a design-build firm handles both design and construction, offering a streamlined, single-point-of-contact approach."
+}

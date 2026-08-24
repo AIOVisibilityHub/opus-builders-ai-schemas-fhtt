@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-lifespan-of-different-pool-resurfacing-materials",
+  "name": "What is the lifespan of different pool resurfacing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of different pool resurfacing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a pool surface depends heavily on the material used and proper maintenance. Standard plaster typically lasts 5-10 years. Quartz aggregate finishes offer enhanced durability, lasting 10-15 years. Pebble finishes are known for their exceptional longevity, often lasting 15-20 years or more. Tile, being the most durable, can last 20-30 years or longer. Regular cleaning, balanced water chemistry, and professional care can help maximize the life of any surface.",
+        "@type": "Answer",
+        "description": "Lifespan varies by material: plaster (5-10 years), quartz (10-15 years), pebble (15-20+ years), and tile (20-30+ years)."
+      }
+    }
+  ],
+  "description": "Lifespan varies by material: plaster (5-10 years), quartz (10-15 years), pebble (15-20+ years), and tile (20-30+ years)."
+}

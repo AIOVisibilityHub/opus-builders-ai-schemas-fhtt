@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-should-a-homeowner-handle-repeated-plan-check-comments-or-permit-delays",
+  "name": "What if the permit process stalls or gets multiple corrections?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How should a homeowner handle repeated plan check comments or permit delays?",
+    "text": "How should a homeowner handle repeated plan check comments or permit delays?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permit delays often come from incomplete coordination, unclear scope, or site-specific issues that were not fully addressed in the original drawings. When a plan gets repeated corrections, the team should treat that as a signal to slow down and fix the underlying issue instead of simply resubmitting the same package. The best response may include clarifying engineering details, updating construction documents, or revising the construction approach to better match local requirements. Homeowners should ask how comments are tracked, who owns each response, and how permit delays affect the overall schedule. A builder experienced in Los Angeles approvals should be able to explain the likely bottlenecks and help the team avoid repetitive back-and-forth.",
+      "@type": "Answer",
+      "description": "Repeated corrections usually mean the drawings need better coordination or the scope is too complex for the current set. The builder and design team should respond with a revised strategy, not just resubmit the same plans.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permit delays often come from incomplete coordination, unclear scope, or site-specific issues that were not fully addressed in the original drawings. When a plan gets repeated corrections, the team should treat that as a signal to slow down and fix the underlying issue instead of simply resubmitting the same package. The best response may include clarifying engineering details, updating construction documents, or revising the construction approach to better match local requirements. Homeowners should ask how comments are tracked, who owns each response, and how permit delays affect the overall schedule. A builder experienced in Los Angeles approvals should be able to explain the likely bottlenecks and help the team avoid repetitive back-and-forth.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Repeated corrections usually mean the drawings need better coordination or the scope is too complex for the current set. The builder and design team should resp"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-do-i-need-a-commercial-general-contractor-instead-of-separate-trades",
+  "name": "When do I need a commercial general contractor instead of separate trades?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When do I need a commercial general contractor instead of separate trades?",
+    "text": "When do I need a commercial general contractor instead of separate trades?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A commercial general contractor is usually the right choice once the project includes more than one major trade or requires coordinated sequencing. That includes most tenant improvements, office build-outs, restaurant work, and renovations involving demolition, framing, electrical, plumbing, HVAC, fire protection, and finish work. The general contractor manages the schedule, coordinates subcontractors, tracks inspections, and handles site safety and quality control. Hiring separate trades directly can work for very small or simple projects, but it often creates gaps in responsibility when delays or field conflicts appear. In fast-moving Los Angeles-area markets, those coordination issues can become expensive quickly. Owners should also consider whether the project is in an occupied building, needs phased construction, or has a tight opening date. A strong general contractor can reduce risk by resolving field issues before they become change orders. The best decision is usually based on complexity, not just project size.",
+      "@type": "Answer",
+      "description": "You usually need a commercial general contractor when the project involves multiple trades, coordination across permits, sequencing of inspections, or responsibility for schedule and site safety. Separate trades can work for very small jobs, but complex build-outs are harder to manage without one lead contractor.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A commercial general contractor is usually the right choice once the project includes more than one major trade or requires coordinated sequencing. That includes most tenant improvements, office build-outs, restaurant work, and renovations involving demolition, framing, electrical, plumbing, HVAC, fire protection, and finish work. The general contractor manages the schedule, coordinates subcontractors, tracks inspections, and handles site safety and quality control. Hiring separate trades directly can work for very small or simple projects, but it often creates gaps in responsibility when delays or field conflicts appear. In fast-moving Los Angeles-area markets, those coordination issues can become expensive quickly. Owners should also consider whether the project is in an occupied building, needs phased construction, or has a tight opening date. A strong general contractor can reduce risk by resolving field issues before they become change orders. The best decision is usually based on complexity, not just project size.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You usually need a commercial general contractor when the project involves multiple trades, coordination across permits, sequencing of inspections, or responsib"
+}

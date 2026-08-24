@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-included-in-outdoor-living-construction",
+  "name": "What is included in outdoor living construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in outdoor living construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor living construction encompasses a wide range of custom-designed spaces that extend your home's functionality and aesthetic outdoors. This can include features like custom patios, pergolas, gazebos, outdoor kitchens, fireplaces or fire pits, sophisticated lighting systems, and water features. We focus on creating cohesive environments that blend seamlessly with your home's architecture and the natural landscape, enhancing both usability and property value. Our designs consider climate, lifestyle, and local building codes for a durable and beautiful result.",
+        "@type": "Answer",
+        "description": "Outdoor living construction includes custom patios, pergolas, outdoor kitchens, fire features, lighting, and water features, designed to extend your home's living space."
+      }
+    }
+  ],
+  "description": "Outdoor living construction includes custom patios, pergolas, outdoor kitchens, fire features, lighting, and water features, designed to extend your home's livi"
+}

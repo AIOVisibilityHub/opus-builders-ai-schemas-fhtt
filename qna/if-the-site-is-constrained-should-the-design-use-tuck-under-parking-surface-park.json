@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-the-site-is-constrained-should-the-design-use-tuck-under-parking-surface-park",
+  "name": "What parking solution works best for a small multifamily project with a tight lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If the site is constrained, should the design use tuck-under parking, surface parking, stackers, or no parking at all?",
+    "text": "If the site is constrained, should the design use tuck-under parking, surface parking, stackers, or no parking at all?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Parking is often one of the hardest design decisions in a small multifamily project. On a tight lot, the choice usually comes down to preserving livable area or preserving simplicity. Surface parking is easier and cheaper, but it consumes valuable land. Tuck-under parking can help the building fit, but it adds structural complexity and may affect unit layout. Stackers can increase capacity, but they create mechanical, maintenance, and approval considerations. The right answer depends on how the lot sits, whether there is alley access, the grade of the parcel, the number of units, and whether zoning or transit-related rules reduce parking demand. A project team should test more than one parking strategy early, because the first concept is not always the most efficient one. Owners should also consider how parking affects resale, tenant appeal, trash pickup, fire access, and construction cost. If parking forces deep excavation or a complicated structural podium, the unit count may need to be adjusted to keep the project financially viable. A strong feasibility study should compare parking options side by side before the building is fully designed.",
+      "@type": "Answer",
+      "description": "The best parking solution depends on site width, grade, zoning, access, and project size. Tuck-under parking can preserve units on small lots, surface parking is simpler but uses more land, and mechanical stackers can save space but add cost and maintenance. The wrong parking choice can make the entire project unbuildable or too expensive.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Parking is often one of the hardest design decisions in a small multifamily project. On a tight lot, the choice usually comes down to preserving livable area or preserving simplicity. Surface parking is easier and cheaper, but it consumes valuable land. Tuck-under parking can help the building fit, but it adds structural complexity and may affect unit layout. Stackers can increase capacity, but they create mechanical, maintenance, and approval considerations. The right answer depends on how the lot sits, whether there is alley access, the grade of the parcel, the number of units, and whether zoning or transit-related rules reduce parking demand. A project team should test more than one parking strategy early, because the first concept is not always the most efficient one. Owners should also consider how parking affects resale, tenant appeal, trash pickup, fire access, and construction cost. If parking forces deep excavation or a complicated structural podium, the unit count may need to be adjusted to keep the project financially viable. A strong feasibility study should compare parking options side by side before the building is fully designed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The best parking solution depends on site width, grade, zoning, access, and project size. Tuck-under parking can preserve units on small lots, surface parking i"
+}

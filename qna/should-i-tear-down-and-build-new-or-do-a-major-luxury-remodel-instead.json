@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-tear-down-and-build-new-or-do-a-major-luxury-remodel-instead",
+  "name": "Is it better to build new or remodel for a luxury home in Los Angeles?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I tear down and build new, or do a major luxury remodel instead?",
+    "text": "Should I tear down and build new, or do a major luxury remodel instead?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The choice between new construction and major remodeling depends on how much of the existing structure can realistically support the desired result. If the current home has poor layout, limited ceiling heights, outdated systems, or structural constraints, a ground-up build may deliver better long-term value and fewer compromises. Remodeling can be the smarter choice when the existing framework, envelope, and site are already aligned with the owner’s goals. In Los Angeles, lot value, neighborhood context, and permit implications also matter. A feasibility review should compare both paths before the owner commits to one direction, because the wrong choice can create hidden cost and schedule penalties later.",
+      "@type": "Answer",
+      "description": "The better option depends on the lot, existing structure, desired layout, and budget. New construction is often better when the existing house cannot efficiently support the design, while remodeling can make sense when the structure and site are already strong.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The choice between new construction and major remodeling depends on how much of the existing structure can realistically support the desired result. If the current home has poor layout, limited ceiling heights, outdated systems, or structural constraints, a ground-up build may deliver better long-term value and fewer compromises. Remodeling can be the smarter choice when the existing framework, envelope, and site are already aligned with the owner’s goals. In Los Angeles, lot value, neighborhood context, and permit implications also matter. A feasibility review should compare both paths before the owner commits to one direction, because the wrong choice can create hidden cost and schedule penalties later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The better option depends on the lot, existing structure, desired layout, and budget. New construction is often better when the existing house cannot efficientl"
+}

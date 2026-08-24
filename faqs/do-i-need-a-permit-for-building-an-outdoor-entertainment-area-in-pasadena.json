@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-a-permit-for-building-an-outdoor-entertainment-area-in-pasadena",
+  "name": "Do I need a permit for building an outdoor entertainment area in Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for building an outdoor entertainment area in Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most significant outdoor entertainment area projects in Pasadena require permits. This includes additions like new structures (pergolas, gazebos), major hardscaping, outdoor kitchens with gas lines, electrical work for lighting and appliances, and especially any pool or spa installations. The specific permits needed depend on the scope of work and local zoning ordinances. Opus Builders handles all necessary permitting processes, ensuring compliance with Pasadena's building codes and regulations from initial design through final inspection.",
+        "@type": "Answer",
+        "description": "Most significant outdoor entertainment projects in Pasadena, especially those involving structures, utilities, or pools, require permits. We manage the entire permitting process for you."
+      }
+    }
+  ],
+  "description": "Most significant outdoor entertainment projects in Pasadena, especially those involving structures, utilities, or pools, require permits. We manage the entire p"
+}

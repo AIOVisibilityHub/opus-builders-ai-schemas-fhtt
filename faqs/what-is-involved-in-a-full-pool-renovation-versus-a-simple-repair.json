@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-a-full-pool-renovation-versus-a-simple-repair",
+  "name": "What is involved in a full pool renovation versus a simple repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a full pool renovation versus a simple repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full pool renovation typically involves significant changes to the pool's structure, design, or features, such as reshaping, replastering, replacing coping and decking, or adding new water features like waterfalls or spas. It aims to transform the pool's appearance and functionality. In contrast, a simple repair addresses specific issues like leaks, cracked tiles, or equipment malfunctions without altering the overall design. Renovation projects often require permits and a more extensive timeline, delivering a comprehensive upgrade to your outdoor living space.",
+        "@type": "Answer",
+        "description": "A full renovation transforms the pool's design and structure, while a simple repair addresses specific issues without major alterations."
+      }
+    }
+  ],
+  "description": "A full renovation transforms the pool's design and structure, while a simple repair addresses specific issues without major alterations."
+}

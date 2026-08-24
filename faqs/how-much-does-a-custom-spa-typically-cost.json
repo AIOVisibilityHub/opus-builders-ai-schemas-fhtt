@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-much-does-a-custom-spa-typically-cost",
+  "name": "How much does a custom spa typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom spa typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom spa is highly variable, influenced by factors like size, materials, features (e.g., jets, lighting, heating systems), and site preparation. Basic custom spas may start from $30,000, while more elaborate designs with premium finishes and advanced technology can exceed $100,000. We provide detailed estimates after an initial consultation and site assessment.",
+        "@type": "Answer",
+        "description": "Custom spa costs vary greatly, starting from approximately $30,000 for basic designs and increasing with complexity and features."
+      }
+    }
+  ],
+  "description": "Custom spa costs vary greatly, starting from approximately $30,000 for basic designs and increasing with complexity and features."
+}

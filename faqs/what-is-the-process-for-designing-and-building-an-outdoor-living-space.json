@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-process-for-designing-and-building-an-outdoor-living-space",
+  "name": "What is the process for designing and building an outdoor living space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing and building an outdoor living space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and budget. Following this, our designers create conceptual plans and 3D renderings, allowing you to visualize the proposed space. Once the design is finalized and approved, we handle all necessary permitting. Construction then commences, managed by our experienced project managers who ensure quality control and adherence to the timeline. We maintain open communication throughout the entire process, culminating in the completion and handover of your beautiful new outdoor living area.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design, 3D renderings, permitting, and construction, with continuous communication and project management until completion."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design, 3D renderings, permitting, and construction, with continuous communication and project management until completion."
+}

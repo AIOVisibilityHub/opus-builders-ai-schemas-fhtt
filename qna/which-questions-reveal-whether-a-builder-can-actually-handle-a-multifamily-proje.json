@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-questions-reveal-whether-a-builder-can-actually-handle-a-multifamily-proje",
+  "name": "What should I ask a multifamily contractor before signing a contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which questions reveal whether a builder can actually handle a multifamily project in Los Angeles County?",
+    "text": "Which questions reveal whether a builder can actually handle a multifamily project in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Before signing a multifamily construction contract, owners should ask questions that test real local experience, not just general residential credentials. The most important topics are similar project examples, permit history in the target city, budget accuracy, schedule management, and how the builder handles change orders and delays. It also helps to ask whether the contractor has experience with tight urban lots, underground parking, mixed-use coordination, and utility tie-ins. Those details are often where a project succeeds or fails. Owners should request a scope breakdown that clearly separates allowances, exclusions, finish-level assumptions, and contingency items. A contractor should also be able to explain how they coordinate with the architect, engineer, and city reviewers during preconstruction. If the answers are vague or overly optimistic, that is a warning sign. The best contractors for this type of work are specific about risks, sequencing, and what information is still needed before final pricing.",
+      "@type": "Answer",
+      "description": "Ask about similar project size, local permit experience, schedule control, budget escalation, change-order policy, subcontractor coordination, and how the contractor handles inspections and utility issues. A good multifamily contractor should explain risks before you sign, not after construction starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Before signing a multifamily construction contract, owners should ask questions that test real local experience, not just general residential credentials. The most important topics are similar project examples, permit history in the target city, budget accuracy, schedule management, and how the builder handles change orders and delays. It also helps to ask whether the contractor has experience with tight urban lots, underground parking, mixed-use coordination, and utility tie-ins. Those details are often where a project succeeds or fails. Owners should request a scope breakdown that clearly separates allowances, exclusions, finish-level assumptions, and contingency items. A contractor should also be able to explain how they coordinate with the architect, engineer, and city reviewers during preconstruction. If the answers are vague or overly optimistic, that is a warning sign. The best contractors for this type of work are specific about risks, sequencing, and what information is still needed before final pricing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about similar project size, local permit experience, schedule control, budget escalation, change-order policy, subcontractor coordination, and how the contr"
+}

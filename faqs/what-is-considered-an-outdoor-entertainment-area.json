@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-considered-an-outdoor-entertainment-area",
+  "name": "What is considered an outdoor entertainment area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered an outdoor entertainment area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An outdoor entertainment area is a dedicated space designed for recreation and socializing outside your home. It can encompass various features such as outdoor kitchens, dining areas, lounges with fire pits, swimming pools, spas, pergolas, and integrated sound and lighting systems. These spaces are customized to extend your living area outdoors, providing comfort and functionality for hosting guests or relaxing with family, often incorporating elements that enhance the natural environment and provide shelter.",
+        "@type": "Answer",
+        "description": "An outdoor entertainment area is a customized space outside your home designed for recreation and socializing, often including kitchens, dining areas, lounges, and pools."
+      }
+    }
+  ],
+  "description": "An outdoor entertainment area is a customized space outside your home designed for recreation and socializing, often including kitchens, dining areas, lounges,"
+}

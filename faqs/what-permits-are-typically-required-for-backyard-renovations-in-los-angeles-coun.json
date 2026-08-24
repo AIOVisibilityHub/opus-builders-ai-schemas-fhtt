@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-typically-required-for-backyard-renovations-in-los-angeles-coun",
+  "name": "What permits are typically required for backyard renovations in Los Angeles County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for backyard renovations in Los Angeles County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Backyard renovations in Los Angeles County often require various permits depending on the scope of work. Common permits include those for grading, electrical work for outdoor lighting or kitchens, plumbing for irrigation or water features, and structural permits for decks, pergolas, or retaining walls. Swimming pool construction or significant hardscaping changes almost always require specific building permits. Opus Builders manages the entire permitting process, ensuring compliance with local zoning ordinances and building codes specific to your municipality within Los Angeles County.",
+        "@type": "Answer",
+        "description": "Permits for backyard renovations in Los Angeles County are needed for grading, electrical, plumbing, structural changes, and pools. Opus Builders handles this process."
+      }
+    }
+  ],
+  "description": "Permits for backyard renovations in Los Angeles County are needed for grading, electrical, plumbing, structural changes, and pools. Opus Builders handles this p"
+}

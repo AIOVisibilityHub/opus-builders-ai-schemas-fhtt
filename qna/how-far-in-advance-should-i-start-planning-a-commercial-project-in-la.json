@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-far-in-advance-should-i-start-planning-a-commercial-project-in-la",
+  "name": "How far in advance should I start planning a commercial project in LA?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How far in advance should I start planning a commercial project in LA?",
+    "text": "How far in advance should I start planning a commercial project in LA?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The earlier a commercial project is planned, the better the chance of keeping the budget and schedule under control. In Los Angeles-area markets, preconstruction often takes substantial time because drawings, scope reviews, pricing, permit submission, revisions, and procurement all happen before work starts. Projects that involve custom equipment, complex MEP systems, landlord approvals, or occupied-building logistics should start even earlier. Owners often underestimate how long it takes to finalize design decisions and get materials ordered, especially when the opening date is tied to a lease or business launch. A contractor can help by identifying long-lead items and likely permit risks before the design is locked. The best planning window is the one that gives time for scope refinement, not just construction. If the timeline is tight, owners should expect more premium pricing and less flexibility.",
+      "@type": "Answer",
+      "description": "Commercial projects in Los Angeles should usually start planning well before the desired construction start date because design, pricing, permitting, and procurement can take significant time. Projects with custom equipment, occupied sites, or multiple approvals need even more lead time.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The earlier a commercial project is planned, the better the chance of keeping the budget and schedule under control. In Los Angeles-area markets, preconstruction often takes substantial time because drawings, scope reviews, pricing, permit submission, revisions, and procurement all happen before work starts. Projects that involve custom equipment, complex MEP systems, landlord approvals, or occupied-building logistics should start even earlier. Owners often underestimate how long it takes to finalize design decisions and get materials ordered, especially when the opening date is tied to a lease or business launch. A contractor can help by identifying long-lead items and likely permit risks before the design is locked. The best planning window is the one that gives time for scope refinement, not just construction. If the timeline is tight, owners should expect more premium pricing and less flexibility.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Commercial projects in Los Angeles should usually start planning well before the desired construction start date because design, pricing, permitting, and procur"
+}

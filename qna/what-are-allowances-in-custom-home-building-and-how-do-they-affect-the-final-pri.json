@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-are-allowances-in-custom-home-building-and-how-do-they-affect-the-final-pri",
+  "name": "How do allowances work in a luxury custom home budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What are allowances in custom home building, and how do they affect the final price?",
+    "text": "What are allowances in custom home building, and how do they affect the final price?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Allowances are estimated amounts in the budget for items that have not been finalized yet. They are common in custom home projects because many finish selections are made during design or construction rather than before the contract is signed. The issue is that allowance numbers can look reasonable on paper but still be far below the actual cost of luxury selections. That gap creates budget overruns later. Homeowners should ask whether allowances reflect the desired quality level, not just a generic market average. The clearest budgets show what is included, what is excluded, and how overages or credits are handled when the final product costs more or less than the allowance.",
+      "@type": "Answer",
+      "description": "Allowances are budget placeholders for items not yet selected, such as tile, plumbing fixtures, lighting, appliances, and cabinetry details. If the allowance is too low for the actual finish level, the final cost rises when selections are made.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Allowances are estimated amounts in the budget for items that have not been finalized yet. They are common in custom home projects because many finish selections are made during design or construction rather than before the contract is signed. The issue is that allowance numbers can look reasonable on paper but still be far below the actual cost of luxury selections. That gap creates budget overruns later. Homeowners should ask whether allowances reflect the desired quality level, not just a generic market average. The clearest budgets show what is included, what is excluded, and how overages or credits are handled when the final product costs more or less than the allowance.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Allowances are budget placeholders for items not yet selected, such as tile, plumbing fixtures, lighting, appliances, and cabinetry details. If the allowance is"
+}

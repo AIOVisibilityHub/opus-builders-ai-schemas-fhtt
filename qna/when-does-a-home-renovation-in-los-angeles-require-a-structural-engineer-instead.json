@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-does-a-home-renovation-in-los-angeles-require-a-structural-engineer-instead",
+  "name": "How do I know if my house needs a structural engineer?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When does a home renovation in Los Angeles require a structural engineer instead of just a contractor or designer?",
+    "text": "When does a home renovation in Los Angeles require a structural engineer instead of just a contractor or designer?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A structural engineer becomes important when a renovation changes how the house carries loads. That includes removing or widening walls, adding large openings, modifying beams, building additions, converting garages, or dealing with sagging, settlement, or foundation concerns. In many Los Angeles-area homes, especially older ones, structural review is also wise when plans involve major layout changes or when the existing framing is not well documented. A contractor can build the work, but an engineer determines whether the structure can safely support the changes. This matters because design changes that look simple on paper can require engineered beams, posts, footings, or reinforcement once the load path is studied. Bringing in engineering early prevents redesign later and reduces permit delays. If the renovation is more than surface-level, it is safer to check than to guess.",
+      "@type": "Answer",
+      "description": "A structural engineer is usually needed when a project removes load-bearing walls, adds openings, changes roof or floor framing, builds an addition, or addresses settlement or foundation concerns. If the renovation changes how the house carries weight, engineering review is often the safest path.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A structural engineer becomes important when a renovation changes how the house carries loads. That includes removing or widening walls, adding large openings, modifying beams, building additions, converting garages, or dealing with sagging, settlement, or foundation concerns. In many Los Angeles-area homes, especially older ones, structural review is also wise when plans involve major layout changes or when the existing framing is not well documented. A contractor can build the work, but an engineer determines whether the structure can safely support the changes. This matters because design changes that look simple on paper can require engineered beams, posts, footings, or reinforcement once the load path is studied. Bringing in engineering early prevents redesign later and reduces permit delays. If the renovation is more than surface-level, it is safer to check than to guess.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A structural engineer is usually needed when a project removes load-bearing walls, adds openings, changes roof or floor framing, builds an addition, or addresse"
+}

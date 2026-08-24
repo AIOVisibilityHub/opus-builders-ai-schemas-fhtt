@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-permits-for-a-pool-remodel",
+  "name": "Do I need permits for a pool remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a pool remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most pool remodeling projects, especially those involving structural changes, significant plumbing or electrical work, or changes to the pool's footprint, require permits from the local building department (e.g., in Los Angeles, Glendale, or Pasadena). Minor cosmetic updates like resurfacing or replastering may not always require a permit, but it's crucial to verify. Opus Builders handles all necessary permitting processes on your behalf, ensuring compliance with local codes and regulations.",
+        "@type": "Answer",
+        "description": "Most pool remodels, especially those involving structural or significant electrical/plumbing changes, require local building permits. Opus Builders manages all necessary permitting."
+      }
+    }
+  ],
+  "description": "Most pool remodels, especially those involving structural or significant electrical/plumbing changes, require local building permits. Opus Builders manages all"
+}

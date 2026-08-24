@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-know-if-my-pool-needs-resurfacing",
+  "name": "How do I know if my pool needs resurfacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my pool needs resurfacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your pool needs resurfacing include a rough or abrasive surface that snags swimsuits or scrapes skin, persistent staining that cannot be cleaned, visible cracks or delamination of the existing finish, or a general dulling and fading of the pool's interior. You might also notice an increase in algae growth due to a compromised surface. Addressing these signs promptly can prevent more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Look for rough surfaces, persistent stains, cracks, fading, or increased algae. These indicate it's time for resurfacing."
+      }
+    }
+  ],
+  "description": "Look for rough surfaces, persistent stains, cracks, fading, or increased algae. These indicate it's time for resurfacing."
+}

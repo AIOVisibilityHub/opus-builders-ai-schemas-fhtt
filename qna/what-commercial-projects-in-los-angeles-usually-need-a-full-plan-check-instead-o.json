@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-commercial-projects-in-los-angeles-usually-need-a-full-plan-check-instead-o",
+  "name": "What commercial projects in Los Angeles usually need a full plan check instead of over-the-counter approval?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What commercial projects in Los Angeles usually need a full plan check instead of over-the-counter approval?",
+    "text": "What commercial projects in Los Angeles usually need a full plan check instead of over-the-counter approval?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In Los Angeles-area jurisdictions, over-the-counter approval is generally limited to smaller, lower-risk scope such as minor non-structural tenant improvements. Once a project includes structural work, new walls affecting egress, major mechanical or electrical changes, fire alarm or sprinkler changes, accessibility upgrades, or a change in use or occupancy, a full plan check is much more likely. That is why early scope definition matters so much. If drawings are incomplete or the project touches multiple building systems, the review process usually becomes longer and more expensive. Owners should ask the contractor which disciplines will be reviewed and whether the project can be broken into phases to reduce permit complexity. It also helps to verify whether the building is in a special district, historic area, or has prior unpermitted work, because those issues can trigger a deeper review. The most useful answer is not just whether the project needs plan check, but what parts of the work are causing that requirement.",
+      "@type": "Answer",
+      "description": "Most commercial projects that involve structural changes, occupancy changes, plumbing reroutes, fire-life-safety systems, accessibility modifications, or multiple trades need full plan check rather than simple over-the-counter approval. Smaller cosmetic work is more likely to qualify for a faster review, but city rules vary by location and scope.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In Los Angeles-area jurisdictions, over-the-counter approval is generally limited to smaller, lower-risk scope such as minor non-structural tenant improvements. Once a project includes structural work, new walls affecting egress, major mechanical or electrical changes, fire alarm or sprinkler changes, accessibility upgrades, or a change in use or occupancy, a full plan check is much more likely. That is why early scope definition matters so much. If drawings are incomplete or the project touches multiple building systems, the review process usually becomes longer and more expensive. Owners should ask the contractor which disciplines will be reviewed and whether the project can be broken into phases to reduce permit complexity. It also helps to verify whether the building is in a special district, historic area, or has prior unpermitted work, because those issues can trigger a deeper review. The most useful answer is not just whether the project needs plan check, but what parts of the work are causing that requirement.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Most commercial projects that involve structural changes, occupancy changes, plumbing reroutes, fire-life-safety systems, accessibility modifications, or multip"
+}

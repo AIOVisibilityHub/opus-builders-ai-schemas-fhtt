@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-estimate-commercial-construction-in-an-older-building",
+  "name": "How do you estimate commercial construction in an older building?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you estimate commercial construction in an older building?",
+    "text": "How do you estimate commercial construction in an older building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Older commercial buildings are more difficult to estimate because the visible conditions rarely tell the full story. A reliable estimate should include site inspection, review of available as-builts or prior permit history, and allowances for hidden conditions such as old wiring, plumbing issues, uneven slabs, damaged framing, and legacy HVAC equipment. If the building has had repeated tenant changes, the risk of unrecorded modifications is even higher. Owners should also expect code-related upgrades to appear once the new scope is defined, especially in accessibility, fire protection, or life-safety systems. The contractor should separate what is known from what is assumed so the estimate does not look cheaper than it really is. In many cases, the smartest approach is to price the job with specific allowances and a contingency rather than pretending all conditions are visible upfront. That is especially important in dense urban areas where delays can quickly increase carrying costs.",
+      "@type": "Answer",
+      "description": "Estimating work in an older commercial building requires careful field verification, allowance for hidden conditions, and extra attention to code upgrades, systems replacement, and demolition uncertainty. Older buildings are harder to price accurately because existing conditions are often unknown until walls and finishes are opened.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Older commercial buildings are more difficult to estimate because the visible conditions rarely tell the full story. A reliable estimate should include site inspection, review of available as-builts or prior permit history, and allowances for hidden conditions such as old wiring, plumbing issues, uneven slabs, damaged framing, and legacy HVAC equipment. If the building has had repeated tenant changes, the risk of unrecorded modifications is even higher. Owners should also expect code-related upgrades to appear once the new scope is defined, especially in accessibility, fire protection, or life-safety systems. The contractor should separate what is known from what is assumed so the estimate does not look cheaper than it really is. In many cases, the smartest approach is to price the job with specific allowances and a contingency rather than pretending all conditions are visible upfront. That is especially important in dense urban areas where delays can quickly increase carrying costs.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Estimating work in an older commercial building requires careful field verification, allowance for hidden conditions, and extra attention to code upgrades, syst"
+}

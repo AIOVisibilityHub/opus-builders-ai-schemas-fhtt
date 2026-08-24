@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-should-smart-home-lighting-control-and-av-systems-be-planned-in-a-custom-bu",
+  "name": "How do smart home and AV systems affect the build schedule?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When should smart home, lighting control, and AV systems be planned in a custom build?",
+    "text": "When should smart home, lighting control, and AV systems be planned in a custom build?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Technology systems should be part of the design conversation very early. In a luxury home, smart lighting, shades, surveillance, audio, networking, and automation all affect wiring, equipment placement, cabinet design, and even ceiling details. If these systems are not coordinated before rough-in, the team may need to open finished surfaces or compromise on performance. Homeowners should decide whether they want a basic setup or a fully integrated system and then make sure the builder, designer, and low-voltage specialist are aligned. The most efficient projects treat technology like a core building system rather than an add-on near the end. That planning protects both the aesthetic and the schedule.",
+      "@type": "Answer",
+      "description": "Smart home and AV systems should be planned early, before rough-in and finish selections are finalized. Late coordination can cause wiring conflicts, equipment changes, and expensive rework in walls, ceilings, and millwork.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Technology systems should be part of the design conversation very early. In a luxury home, smart lighting, shades, surveillance, audio, networking, and automation all affect wiring, equipment placement, cabinet design, and even ceiling details. If these systems are not coordinated before rough-in, the team may need to open finished surfaces or compromise on performance. Homeowners should decide whether they want a basic setup or a fully integrated system and then make sure the builder, designer, and low-voltage specialist are aligned. The most efficient projects treat technology like a core building system rather than an add-on near the end. That planning protects both the aesthetic and the schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Smart home and AV systems should be planned early, before rough-in and finish selections are finalized. Late coordination can cause wiring conflicts, equipment "
+}

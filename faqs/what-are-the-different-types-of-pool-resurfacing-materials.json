@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-different-types-of-pool-resurfacing-materials",
+  "name": "What are the different types of pool resurfacing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of pool resurfacing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common pool resurfacing materials are plaster, quartz, pebble, and tile. Plaster is the traditional and most economical choice, offering a smooth finish. Quartz aggregate finishes incorporate colored quartz for added durability and a wider range of colors. Pebble finishes use small, natural pebbles for a highly durable, slip-resistant, and natural look. Tile, while the most expensive, offers unmatched longevity, design versatility, and luxurious aesthetics.",
+        "@type": "Answer",
+        "description": "Common materials include plaster, quartz, pebble, and tile. Each offers different aesthetics, durability, and cost."
+      }
+    }
+  ],
+  "description": "Common materials include plaster, quartz, pebble, and tile. Each offers different aesthetics, durability, and cost."
+}

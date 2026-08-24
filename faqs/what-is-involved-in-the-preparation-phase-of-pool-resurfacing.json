@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-involved-in-the-preparation-phase-of-pool-resurfacing",
+  "name": "What is involved in the preparation phase of pool resurfacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the preparation phase of pool resurfacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The preparation phase is critical for a successful resurfacing project. It typically begins with draining the pool completely. Next, the existing surface is often chipped away or hydro-blasted to create a clean, bondable substrate. Any cracks, hollow spots, or structural imperfections are identified and repaired. The pool shell is then thoroughly cleaned and prepared to ensure optimal adhesion for the new finish. Proper preparation ensures durability and a smooth, long-lasting surface.",
+        "@type": "Answer",
+        "description": "Preparation involves draining, chipping or blasting the old surface, repairing imperfections, and thoroughly cleaning the shell for optimal adhesion."
+      }
+    }
+  ],
+  "description": "Preparation involves draining, chipping or blasting the old surface, repairing imperfections, and thoroughly cleaning the shell for optimal adhesion."
+}

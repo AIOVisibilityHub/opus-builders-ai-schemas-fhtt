@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/should-i-buy-design-services-first-or-start-with-the-builder-after-i-own-the-lan",
+  "name": "What if I already own a lot but haven’t finalized the design?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Should I buy design services first or start with the builder after I own the land?",
+    "text": "Should I buy design services first or start with the builder after I own the land?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Owning the lot first is helpful, but it does not mean the project is ready for final design. The best next step is usually a feasibility review that looks at zoning constraints, slope, utility access, setbacks, views, driveway access, and likely construction complexity. That early review helps avoid creating a beautiful plan that is too expensive or difficult to build. In luxury custom home building, the lot should guide the design, not the other way around. Once feasibility is clear, the owner can move into schematic design with a better sense of budget, timeline, and permit risk. This approach is especially useful in Los Angeles neighborhoods where lot conditions and local review can strongly shape what is possible.",
+      "@type": "Answer",
+      "description": "If you already own the lot, the next step is usually a feasibility review before final design. That helps confirm setbacks, slope issues, utility access, and realistic construction cost before you invest heavily in drawings.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Owning the lot first is helpful, but it does not mean the project is ready for final design. The best next step is usually a feasibility review that looks at zoning constraints, slope, utility access, setbacks, views, driveway access, and likely construction complexity. That early review helps avoid creating a beautiful plan that is too expensive or difficult to build. In luxury custom home building, the lot should guide the design, not the other way around. Once feasibility is clear, the owner can move into schematic design with a better sense of budget, timeline, and permit risk. This approach is especially useful in Los Angeles neighborhoods where lot conditions and local review can strongly shape what is possible.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If you already own the lot, the next step is usually a feasibility review before final design. That helps confirm setbacks, slope issues, utility access, and re"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-renovate-a-kitchen-bathroom-or-addition-without-triggering-major-work-in-t",
+  "name": "Can I remodel one part of the house without affecting the rest?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I renovate a kitchen, bathroom, or addition without triggering major work in the rest of the house?",
+    "text": "Can I renovate a kitchen, bathroom, or addition without triggering major work in the rest of the house?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In theory, a home renovation can stay localized to one room or one section of the house. In practice, many older homes do not isolate cleanly because kitchens, bathrooms, flooring, electrical circuits, and plumbing lines are often tied together. A kitchen remodel may reveal the need for panel upgrades, flooring changes, or ventilation adjustments. A bathroom project may expose outdated plumbing or water damage that extends beyond the visible area. That is why homeowners should budget and plan for some spillover work even if the initial scope looks narrow. The key is to decide in advance how much adjacent disruption is acceptable. A good contractor should explain where the project can stay contained and where hidden conditions might expand the scope.",
+      "@type": "Answer",
+      "description": "Yes, but only if the project stays isolated and the systems are not interconnected in ways that require broader updates. In older homes, one remodel can expose issues in adjacent rooms, shared plumbing, electrical capacity, flooring transitions, or structural framing that force additional work.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In theory, a home renovation can stay localized to one room or one section of the house. In practice, many older homes do not isolate cleanly because kitchens, bathrooms, flooring, electrical circuits, and plumbing lines are often tied together. A kitchen remodel may reveal the need for panel upgrades, flooring changes, or ventilation adjustments. A bathroom project may expose outdated plumbing or water damage that extends beyond the visible area. That is why homeowners should budget and plan for some spillover work even if the initial scope looks narrow. The key is to decide in advance how much adjacent disruption is acceptable. A good contractor should explain where the project can stay contained and where hidden conditions might expand the scope.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but only if the project stays isolated and the systems are not interconnected in ways that require broader updates. In older homes, one remodel can expose "
+}

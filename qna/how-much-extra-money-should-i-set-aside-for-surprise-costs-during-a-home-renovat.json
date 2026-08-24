@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-much-extra-money-should-i-set-aside-for-surprise-costs-during-a-home-renovat",
+  "name": "How much contingency should I keep for a renovation budget?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How much extra money should I set aside for surprise costs during a home renovation?",
+    "text": "How much extra money should I set aside for surprise costs during a home renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A renovation contingency exists because older homes almost always reveal at least some hidden conditions once work begins. Common surprises include damaged framing, water intrusion, outdated wiring, plumbing defects, termite damage, and code-related upgrades. The exact contingency depends on the age and complexity of the home, but the key is not to spend every dollar in the original bid. The reserve should stay available for real discoveries, not just upgrades. Homeowners should also separate true contingency from wish-list items so unexpected repair costs do not compete with optional finishes. The more walls are opened and the older the property, the more important that reserve becomes. A contractor should be able to explain which risks are known from the start and which ones are only likely to appear during demolition.",
+      "@type": "Answer",
+      "description": "A contingency reserve is essential because hidden issues often appear after demolition. Many homeowners set aside a separate percentage of the total budget for discoveries, scope changes, and material increases so the project can continue without stalling.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A renovation contingency exists because older homes almost always reveal at least some hidden conditions once work begins. Common surprises include damaged framing, water intrusion, outdated wiring, plumbing defects, termite damage, and code-related upgrades. The exact contingency depends on the age and complexity of the home, but the key is not to spend every dollar in the original bid. The reserve should stay available for real discoveries, not just upgrades. Homeowners should also separate true contingency from wish-list items so unexpected repair costs do not compete with optional finishes. The more walls are opened and the older the property, the more important that reserve becomes. A contractor should be able to explain which risks are known from the start and which ones are only likely to appear during demolition.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A contingency reserve is essential because hidden issues often appear after demolition. Many homeowners set aside a separate percentage of the total budget for "
+}

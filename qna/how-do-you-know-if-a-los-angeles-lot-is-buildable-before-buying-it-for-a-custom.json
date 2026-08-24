@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-know-if-a-los-angeles-lot-is-buildable-before-buying-it-for-a-custom",
+  "name": "How do you know if your lot is buildable before buying it?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you know if a Los Angeles lot is buildable before buying it for a custom home?",
+    "text": "How do you know if a Los Angeles lot is buildable before buying it for a custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot is only truly buildable if it can support the home you want within zoning, setback, height, access, utility, and site-condition limits. Before buying a Los Angeles lot, the best step is to have a builder, architect, and engineer review it together. They can evaluate whether the parcel has enough usable space, whether the slope or soils create extra cost, and whether utilities and driveway access are practical. It is also important to confirm whether any easements, drainage issues, or neighboring structures could affect the design. A lot may look ideal on paper but become difficult once grading, retaining walls, or code constraints are considered. Homeowners should avoid relying only on listing descriptions or a rough square-foot estimate. Site due diligence before purchase can prevent a very expensive mistake. If the intended home style is not feasible, it is better to learn that before closing on the property.",
+      "@type": "Answer",
+      "description": "A lot is not truly buildable until you confirm zoning, setbacks, access, utilities, slope, soils, and any site restrictions. A builder, architect, and engineer should review the lot early so you understand whether the desired home can actually fit and be permitted.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot is only truly buildable if it can support the home you want within zoning, setback, height, access, utility, and site-condition limits. Before buying a Los Angeles lot, the best step is to have a builder, architect, and engineer review it together. They can evaluate whether the parcel has enough usable space, whether the slope or soils create extra cost, and whether utilities and driveway access are practical. It is also important to confirm whether any easements, drainage issues, or neighboring structures could affect the design. A lot may look ideal on paper but become difficult once grading, retaining walls, or code constraints are considered. Homeowners should avoid relying only on listing descriptions or a rough square-foot estimate. Site due diligence before purchase can prevent a very expensive mistake. If the intended home style is not feasible, it is better to learn that before closing on the property.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A lot is not truly buildable until you confirm zoning, setbacks, access, utilities, slope, soils, and any site restrictions. A builder, architect, and engineer "
+}

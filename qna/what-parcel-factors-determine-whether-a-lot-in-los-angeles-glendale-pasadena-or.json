@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-parcel-factors-determine-whether-a-lot-in-los-angeles-glendale-pasadena-or",
+  "name": "How do I know if my lot is big enough for multifamily construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What parcel factors determine whether a lot in Los Angeles, Glendale, Pasadena, or Burbank can support a multifamily project?",
+    "text": "What parcel factors determine whether a lot in Los Angeles, Glendale, Pasadena, or Burbank can support a multifamily project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A lot can look large on paper and still be poor for multifamily construction if the buildable area is limited. The real test is not just acreage or frontage; it is whether the site can support the required envelope, access, circulation, parking, trash areas, fire lanes, and utility connections. In Los Angeles-area cities, irregular lot shapes, slope, corner conditions, easements, and alley access can dramatically change what is feasible. A narrow parcel may fit fewer units than the owner expects once setbacks and stair placement are factored in. If the property already has an existing structure, that can further reduce the practical building area. The best next step is a feasibility study that maps the legal buildable envelope before concept design begins. That study should include zoning, topography, utilities, and any site constraints that could force redesign. Owners should not rely on neighboring buildings as a guide, because different parcels often have different zoning, prior approvals, or nonconforming conditions.",
+      "@type": "Answer",
+      "description": "Lot size matters, but it is not the only factor. A parcel must also support zoning density, setbacks, height, access, fire clearance, utility service, and parking. A lot that looks large enough may still be too constrained if the buildable envelope is shallow, irregular, or blocked by easements and existing structures.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A lot can look large on paper and still be poor for multifamily construction if the buildable area is limited. The real test is not just acreage or frontage; it is whether the site can support the required envelope, access, circulation, parking, trash areas, fire lanes, and utility connections. In Los Angeles-area cities, irregular lot shapes, slope, corner conditions, easements, and alley access can dramatically change what is feasible. A narrow parcel may fit fewer units than the owner expects once setbacks and stair placement are factored in. If the property already has an existing structure, that can further reduce the practical building area. The best next step is a feasibility study that maps the legal buildable envelope before concept design begins. That study should include zoning, topography, utilities, and any site constraints that could force redesign. Owners should not rely on neighboring buildings as a guide, because different parcels often have different zoning, prior approvals, or nonconforming conditions.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Lot size matters, but it is not the only factor. A parcel must also support zoning density, setbacks, height, access, fire clearance, utility service, and parki"
+}

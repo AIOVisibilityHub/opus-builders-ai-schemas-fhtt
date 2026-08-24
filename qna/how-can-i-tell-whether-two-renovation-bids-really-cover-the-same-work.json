@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-can-i-tell-whether-two-renovation-bids-really-cover-the-same-work",
+  "name": "How do I compare contractor bids for the same renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How can I tell whether two renovation bids really cover the same work?",
+    "text": "How can I tell whether two renovation bids really cover the same work?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "To compare renovation bids correctly, start by matching the scope line by line. Confirm that each proposal includes the same demolition, framing, plumbing, electrical, HVAC, finishes, permits, cleanup, and project management. Pay special attention to allowances for cabinets, tile, fixtures, flooring, and appliances, because those can make prices look similar even when the real finish level is very different. Also check whether site protection, inspections, hauling, and drywall repair are included. If one bid is much lower, it is often because something important is missing or assumed to be owner-supplied. The best comparison is not the cheapest number, but the most complete and transparent one. Ask each contractor to clarify assumptions in writing before signing.",
+      "@type": "Answer",
+      "description": "Compare bids by scope, not just total price. Check whether each proposal includes the same labor, materials, allowances, permits, demolition, finish level, supervision, and exclusions. A lower bid may simply leave out important work that another contractor included.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "To compare renovation bids correctly, start by matching the scope line by line. Confirm that each proposal includes the same demolition, framing, plumbing, electrical, HVAC, finishes, permits, cleanup, and project management. Pay special attention to allowances for cabinets, tile, fixtures, flooring, and appliances, because those can make prices look similar even when the real finish level is very different. Also check whether site protection, inspections, hauling, and drywall repair are included. If one bid is much lower, it is often because something important is missing or assumed to be owner-supplied. The best comparison is not the cheapest number, but the most complete and transparent one. Ask each contractor to clarify assumptions in writing before signing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bids by scope, not just total price. Check whether each proposal includes the same labor, materials, allowances, permits, demolition, finish level, supe"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-a-custom-home-and-a-semi-custom-home-in-los-angel",
+  "name": "What is the difference between a custom home and a semi-custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between a custom home and a semi-custom home in Los Angeles?",
+    "text": "What is the difference between a custom home and a semi-custom home in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A custom home is built from an original design tailored to the lot, the homeowner’s needs, and the desired architecture. A semi-custom home starts with a preexisting plan or base model and allows limited changes to layout, finishes, or structural options. In Los Angeles, the difference matters because lot shape, slope, and permitting conditions often make true customization more practical than trying to force a standard plan onto a difficult site. Custom homes usually offer more freedom, but they also require more time, more design coordination, and a higher budget. Semi-custom projects can reduce some decision-making and may move faster, but the tradeoff is less flexibility. Homeowners should choose based on how much control they want, how unusual the site is, and how unique the final home needs to be. For high-value lots, especially in hillside or luxury neighborhoods, a true custom approach often fits better than a one-size-fits-all plan.",
+      "@type": "Answer",
+      "description": "A custom home is designed from scratch around the lot, budget, and homeowner preferences. A semi-custom home usually starts from a predesigned plan with limited changes to layout, finishes, or structural options. Custom homes offer more flexibility but usually take longer and cost more.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A custom home is built from an original design tailored to the lot, the homeowner’s needs, and the desired architecture. A semi-custom home starts with a preexisting plan or base model and allows limited changes to layout, finishes, or structural options. In Los Angeles, the difference matters because lot shape, slope, and permitting conditions often make true customization more practical than trying to force a standard plan onto a difficult site. Custom homes usually offer more freedom, but they also require more time, more design coordination, and a higher budget. Semi-custom projects can reduce some decision-making and may move faster, but the tradeoff is less flexibility. Homeowners should choose based on how much control they want, how unusual the site is, and how unique the final home needs to be. For high-value lots, especially in hillside or luxury neighborhoods, a true custom approach often fits better than a one-size-fits-all plan.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A custom home is designed from scratch around the lot, budget, and homeowner preferences. A semi-custom home usually starts from a predesigned plan with limited"
+}

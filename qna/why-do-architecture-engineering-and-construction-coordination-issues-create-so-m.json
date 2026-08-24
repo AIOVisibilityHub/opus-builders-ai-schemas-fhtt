@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/why-do-architecture-engineering-and-construction-coordination-issues-create-so-m",
+  "name": "How much does design coordination matter on multifamily projects?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Why do architecture, engineering, and construction coordination issues create so many delays and change orders?",
+    "text": "Why do architecture, engineering, and construction coordination issues create so many delays and change orders?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design coordination is a major driver of multifamily project success because the building systems are tightly linked. A change in structure can affect MEP routing. A parking adjustment can change stair placement. A fire-safety revision can affect walls, doors, or corridors. When those pieces are not coordinated early, the result is rework and delay. This is especially true in urban multifamily projects, where the design has to satisfy both space efficiency and code compliance. Good coordination reduces surprises during permit review and construction. It also helps the contractor price the work more accurately because fewer assumptions are left unresolved. Owners should ask how the team manages design meetings, clash detection, and constructability review. If the project is still evolving, coordination should be treated as an investment, not an overhead expense. The cost of better coordination is usually much lower than the cost of fixing bad coordination later.",
+      "@type": "Answer",
+      "description": "Design coordination matters because multifamily projects have many interdependent systems, including structure, MEP, fire safety, parking, and circulation. If one discipline changes late, the others often must be revised too. Poor coordination usually shows up as change orders, permit corrections, and delays during construction.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design coordination is a major driver of multifamily project success because the building systems are tightly linked. A change in structure can affect MEP routing. A parking adjustment can change stair placement. A fire-safety revision can affect walls, doors, or corridors. When those pieces are not coordinated early, the result is rework and delay. This is especially true in urban multifamily projects, where the design has to satisfy both space efficiency and code compliance. Good coordination reduces surprises during permit review and construction. It also helps the contractor price the work more accurately because fewer assumptions are left unresolved. Owners should ask how the team manages design meetings, clash detection, and constructability review. If the project is still evolving, coordination should be treated as an investment, not an overhead expense. The cost of better coordination is usually much lower than the cost of fixing bad coordination later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design coordination matters because multifamily projects have many interdependent systems, including structure, MEP, fire safety, parking, and circulation. If o"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-important-is-water-chemistry-after-pool-resurfacing",
+  "name": "How important is water chemistry after pool resurfacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How important is water chemistry after pool resurfacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining proper water chemistry immediately after resurfacing is crucial for the longevity and appearance of your new pool finish. The curing process for new surfaces can be sensitive to unbalanced water. Improper chemistry can lead to staining, mottling, or weakening of the surface, particularly with plaster or aggregate finishes. We provide detailed instructions on startup chemistry and recommend professional water balancing for the initial weeks to ensure proper curing and prevent premature wear or damage.",
+        "@type": "Answer",
+        "description": "Proper water chemistry is vital after resurfacing to ensure proper curing, prevent staining, and extend the finish's lifespan."
+      }
+    }
+  ],
+  "description": "Proper water chemistry is vital after resurfacing to ensure proper curing, prevent staining, and extend the finish's lifespan."
+}

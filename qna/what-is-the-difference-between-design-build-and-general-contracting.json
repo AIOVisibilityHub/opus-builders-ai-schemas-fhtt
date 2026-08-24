@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-design-build-and-general-contracting",
+  "name": "What is the difference between design-build and general contracting?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between design-build and general contracting?",
+    "text": "What is the difference between design-build and general contracting?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The key difference is timing and responsibility. In general contracting, the homeowner usually hires a designer or architect first, then seeks bids from contractors after plans are finished. In design-build, one integrated team handles both planning and construction, so cost, schedule, and constructability are considered earlier. That can be a major advantage in Los Angeles, where permitting, site constraints, and design changes can affect the whole project. General contracting can still work well when the drawings are already fully developed and the homeowner wants multiple competitive bids. Design-build is often better for projects that need faster decision-making, tighter coordination, or substantial design development during preconstruction. Homeowners should choose based on how much control they want over separate design and construction phases, how complex the project is, and whether they want a single accountable team.",
+      "@type": "Answer",
+      "description": "Design-build manages both design and construction under one team or contract, while general contracting usually starts after the plans are complete. In design-build, budget and constructability are addressed earlier, which can reduce delays and mismatched expectations.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The key difference is timing and responsibility. In general contracting, the homeowner usually hires a designer or architect first, then seeks bids from contractors after plans are finished. In design-build, one integrated team handles both planning and construction, so cost, schedule, and constructability are considered earlier. That can be a major advantage in Los Angeles, where permitting, site constraints, and design changes can affect the whole project. General contracting can still work well when the drawings are already fully developed and the homeowner wants multiple competitive bids. Design-build is often better for projects that need faster decision-making, tighter coordination, or substantial design development during preconstruction. Homeowners should choose based on how much control they want over separate design and construction phases, how complex the project is, and whether they want a single accountable team.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build manages both design and construction under one team or contract, while general contracting usually starts after the plans are complete. In design-b"
+}

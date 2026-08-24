@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-materials-are-best-for-a-luxury-custom-spa",
+  "name": "What materials are best for a luxury custom spa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for a luxury custom spa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For luxury custom spas, durable and aesthetically pleasing materials are paramount. Popular choices include natural stone (e.g., travertine, granite, slate) for coping and decking, mosaic tiles (glass, ceramic, porcelain) for interior finishes, and high-quality concrete for the shell structure. These materials offer longevity, resistance to chemicals and weathering, and contribute to a sophisticated, high-end appearance. Our designers will help you select materials that align with your home's style and your personal preferences.",
+        "@type": "Answer",
+        "description": "Luxury custom spas benefit from natural stone, mosaic tiles, and high-quality concrete, offering durability and a sophisticated aesthetic."
+      }
+    }
+  ],
+  "description": "Luxury custom spas benefit from natural stone, mosaic tiles, and high-quality concrete, offering durability and a sophisticated aesthetic."
+}

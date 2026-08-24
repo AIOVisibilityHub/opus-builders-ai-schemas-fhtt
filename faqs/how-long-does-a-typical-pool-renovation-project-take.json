@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-a-typical-pool-renovation-project-take",
+  "name": "How long does a typical pool renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical pool renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pool renovation varies significantly based on the project's scope. A minor cosmetic update, like replastering or tile replacement, might take 2-4 weeks. More extensive renovations involving structural changes, new decking, or adding features such as spas or water elements can extend to 6-12 weeks or even longer. Factors like material availability, weather conditions, inspection schedules, and the complexity of custom designs all influence the overall timeline. Your contractor should provide a detailed project schedule.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; minor updates take 2-4 weeks, while extensive renovations can last 6-12 weeks or more."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; minor updates take 2-4 weeks, while extensive renovations can last 6-12 weeks or more."
+}

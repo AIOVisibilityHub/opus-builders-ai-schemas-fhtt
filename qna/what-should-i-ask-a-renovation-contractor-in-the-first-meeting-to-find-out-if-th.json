@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-ask-a-renovation-contractor-in-the-first-meeting-to-find-out-if-th",
+  "name": "What renovation questions should I ask during the first contractor meeting?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I ask a renovation contractor in the first meeting to find out if they are a good fit?",
+    "text": "What should I ask a renovation contractor in the first meeting to find out if they are a good fit?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "The first contractor meeting should reveal whether the company is a good fit for your project and communication style. Ask what similar renovations they have completed, how they handle permits and inspections, who supervises the site daily, and how they manage changes once work begins. Also ask how allowances are set, how selections are approved, and what happens if hidden conditions are discovered during demolition. A strong contractor should explain the process clearly and show familiarity with the type of home you own, especially if it is older or architecturally specific. You should also ask about schedule expectations, dust control, site protection, subcontractor coordination, and payment milestones. The goal is to see whether the contractor has a process, not just a sales pitch.",
+      "@type": "Answer",
+      "description": "Ask about similar projects, permit experience, schedule, communication style, allowances, change orders, supervision, insurance, and how they handle hidden conditions. Good answers should be specific, not vague, and should match the level of complexity of your project.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "The first contractor meeting should reveal whether the company is a good fit for your project and communication style. Ask what similar renovations they have completed, how they handle permits and inspections, who supervises the site daily, and how they manage changes once work begins. Also ask how allowances are set, how selections are approved, and what happens if hidden conditions are discovered during demolition. A strong contractor should explain the process clearly and show familiarity with the type of home you own, especially if it is older or architecturally specific. You should also ask about schedule expectations, dust control, site protection, subcontractor coordination, and payment milestones. The goal is to see whether the contractor has a process, not just a sales pitch.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Ask about similar projects, permit experience, schedule, communication style, allowances, change orders, supervision, insurance, and how they handle hidden cond"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-permits-are-required-for-custom-spa-construction-in-los-angeles",
+  "name": "What permits are required for custom spa construction in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for custom spa construction in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom spa construction in Los Angeles typically requires several permits from the Department of Building and Safety, including building permits, electrical permits, and plumbing permits. Specific requirements can vary based on the spa's size, location on your property, and integration with existing structures. Opus Builders manages the entire permitting process, ensuring compliance with local zoning laws and building codes on your behalf.",
+        "@type": "Answer",
+        "description": "Custom spa construction in Los Angeles requires building, electrical, and plumbing permits from the Department of Building and Safety, which we handle."
+      }
+    }
+  ],
+  "description": "Custom spa construction in Los Angeles requires building, electrical, and plumbing permits from the Department of Building and Safety, which we handle."
+}

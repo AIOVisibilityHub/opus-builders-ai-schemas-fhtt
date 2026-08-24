@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-timeline-for-custom-spa-construction",
+  "name": "What is the typical timeline for custom spa construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for custom spa construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for custom spa construction varies depending on design complexity, material selections, and site conditions. Generally, the process from initial design to completion can take anywhere from 8 to 16 weeks. This includes detailed planning, permitting, excavation, plumbing and electrical installation, shell construction, finishing, and final testing. Factors such as unique features or unforeseen site challenges can extend this duration.",
+        "@type": "Answer",
+        "description": "Custom spa construction typically takes 8 to 16 weeks from design to completion, depending on complexity and site conditions."
+      }
+    }
+  ],
+  "description": "Custom spa construction typically takes 8 to 16 weeks from design to completion, depending on complexity and site conditions."
+}

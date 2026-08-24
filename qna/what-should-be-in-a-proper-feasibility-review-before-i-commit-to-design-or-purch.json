@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-in-a-proper-feasibility-review-before-i-commit-to-design-or-purch",
+  "name": "What does a feasibility study include for a multifamily project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be in a proper feasibility review before I commit to design or purchase a site?",
+    "text": "What should be in a proper feasibility review before I commit to design or purchase a site?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A proper multifamily feasibility study should answer one question: can the project actually work on this site, at this size, within this budget? That means reviewing zoning, setbacks, height, density, parking, access, utility capacity, topography, and any overlays or specific plan rules that apply to the parcel. A good study also tests multiple massing options so the owner can compare unit count, parking solutions, and structural implications. It should include a rough cost model, schedule risk review, and a list of likely approval steps. If the site has existing structures, the study should also address demolition, conversion potential, and phasing. The value of the feasibility study is that it identifies deal-breakers early. That helps owners avoid paying for full design on a project that cannot be approved or cannot be built economically. The best studies are practical, not theoretical: they show what is possible, what is risky, and what information still needs to be verified before moving forward.",
+      "@type": "Answer",
+      "description": "A multifamily feasibility study should include zoning analysis, site constraints, utility capacity, parking strategy, massing options, rough cost modeling, schedule risk, and entitlement issues. It should show whether the project is legally and financially realistic before major design money is spent.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A proper multifamily feasibility study should answer one question: can the project actually work on this site, at this size, within this budget? That means reviewing zoning, setbacks, height, density, parking, access, utility capacity, topography, and any overlays or specific plan rules that apply to the parcel. A good study also tests multiple massing options so the owner can compare unit count, parking solutions, and structural implications. It should include a rough cost model, schedule risk review, and a list of likely approval steps. If the site has existing structures, the study should also address demolition, conversion potential, and phasing. The value of the feasibility study is that it identifies deal-breakers early. That helps owners avoid paying for full design on a project that cannot be approved or cannot be built economically. The best studies are practical, not theoretical: they show what is possible, what is risky, and what information still needs to be verified before moving forward.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A multifamily feasibility study should include zoning analysis, site constraints, utility capacity, parking strategy, massing options, rough cost modeling, sche"
+}

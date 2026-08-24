@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-maintenance-is-required-for-a-custom-built-jacuzzi",
+  "name": "What maintenance is required for a custom-built Jacuzzi?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a custom-built Jacuzzi?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a custom-built Jacuzzi ensures its longevity, hygiene, and optimal performance. Regular tasks include balancing water chemistry (pH, alkalinity, sanitizer levels), cleaning or replacing filters, and periodic draining and refilling of the water. Inspecting jets and pumps for proper function and cleaning the Jacuzzi shell are also important. For custom systems, it's advisable to schedule annual professional inspections to check plumbing, heating elements, and electrical components. Proper maintenance prevents issues and extends the lifespan of your investment.",
+        "@type": "Answer",
+        "description": "Maintenance involves regular water chemistry balancing, filter cleaning, periodic draining, and annual professional inspections of components."
+      }
+    }
+  ],
+  "description": "Maintenance involves regular water chemistry balancing, filter cleaning, periodic draining, and annual professional inspections of components."
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-you-know-if-a-commercial-bid-is-too-low",
+  "name": "How do you know if a commercial bid is too low?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do you know if a commercial bid is too low?",
+    "text": "How do you know if a commercial bid is too low?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A commercial bid that is much lower than the others should be treated carefully, not celebrated immediately. The most common reason is that the contractor has missed scope, undercounted labor, or assumed favorable conditions that will not exist in the field. Missing permits, exclusions for demolition or haul-away, vague allowances, and weak supervision language can all create a deceptively low number. The best way to test the bid is to compare line items, assumptions, and exclusions across all proposals. Owners should ask the contractor to explain exactly how the job will be built, who is responsible for each trade, and what conditions would trigger additional cost. In commercial construction, the cheapest bid often becomes the most expensive once change orders start appearing. A bid is only valuable if it can actually deliver the completed project within the expected scope and schedule.",
+      "@type": "Answer",
+      "description": "A commercial bid may be too low if it leaves out key scope items, assumes ideal site conditions, or lacks detail on permits, supervision, and subcontractor work. If one price is far below the others, it often means the bidder misunderstood the project or excluded expensive items.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A commercial bid that is much lower than the others should be treated carefully, not celebrated immediately. The most common reason is that the contractor has missed scope, undercounted labor, or assumed favorable conditions that will not exist in the field. Missing permits, exclusions for demolition or haul-away, vague allowances, and weak supervision language can all create a deceptively low number. The best way to test the bid is to compare line items, assumptions, and exclusions across all proposals. Owners should ask the contractor to explain exactly how the job will be built, who is responsible for each trade, and what conditions would trigger additional cost. In commercial construction, the cheapest bid often becomes the most expensive once change orders start appearing. A bid is only valuable if it can actually deliver the completed project within the expected scope and schedule.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A commercial bid may be too low if it leaves out key scope items, assumes ideal site conditions, or lacks detail on permits, supervision, and subcontractor work"
+}

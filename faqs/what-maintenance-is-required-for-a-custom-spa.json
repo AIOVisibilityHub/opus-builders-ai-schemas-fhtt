@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-maintenance-is-required-for-a-custom-spa",
+  "name": "What maintenance is required for a custom spa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a custom spa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a custom spa involves regular water testing and balancing, filtration system cleaning, and periodic equipment checks. Proper chemical balance prevents algae growth and ensures water clarity and safety. Filters should be cleaned or replaced as recommended, and mechanical components inspected annually. We provide detailed guidance on maintenance schedules and can recommend professional spa service providers for ongoing care.",
+        "@type": "Answer",
+        "description": "Custom spa maintenance includes regular water testing, filter cleaning, and equipment checks to ensure water quality and system longevity."
+      }
+    }
+  ],
+  "description": "Custom spa maintenance includes regular water testing, filter cleaning, and equipment checks to ensure water quality and system longevity."
+}

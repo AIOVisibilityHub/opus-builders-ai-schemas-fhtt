@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-changes-when-the-ground-floor-includes-retail-office-or-other-commercial-sp",
+  "name": "How do mixed-use multifamily projects differ from standard apartment buildings?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What changes when the ground floor includes retail, office, or other commercial space under the housing?",
+    "text": "What changes when the ground floor includes retail, office, or other commercial space under the housing?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Mixed-use multifamily projects are more complex than standard apartment buildings because they have to satisfy both residential and commercial needs. A retail or office ground floor can change the structural grid, storefront design, utility sizing, fire separation, parking demand, and access requirements. It also often adds more review points during permitting. These projects can be a smart use of land in urban areas, but they require tighter coordination. The owner must think not only about unit mix and rent potential, but also about tenant access, loading, grease or odor controls if food uses are involved, noise separation, and long-term operations. A commercial tenant may also affect construction sequencing because the shell and core need to be coordinated with future tenant improvements. A strong proposal should explain how the contractor will separate residential and commercial scopes, how shared systems will be sized, and what assumptions are being made about tenant improvements. Without that clarity, mixed-use projects can blow past budget or end up with design changes late in the process.",
+      "@type": "Answer",
+      "description": "Mixed-use multifamily projects add complexity because they combine residential and nonresidential requirements in one building. The commercial portion can change structure, parking, access, fire separation, mechanical systems, loading, and permitting review. Even a small retail tenant can affect the whole project schedule and design.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Mixed-use multifamily projects are more complex than standard apartment buildings because they have to satisfy both residential and commercial needs. A retail or office ground floor can change the structural grid, storefront design, utility sizing, fire separation, parking demand, and access requirements. It also often adds more review points during permitting. These projects can be a smart use of land in urban areas, but they require tighter coordination. The owner must think not only about unit mix and rent potential, but also about tenant access, loading, grease or odor controls if food uses are involved, noise separation, and long-term operations. A commercial tenant may also affect construction sequencing because the shell and core need to be coordinated with future tenant improvements. A strong proposal should explain how the contractor will separate residential and commercial scopes, how shared systems will be sized, and what assumptions are being made about tenant improvements. Without that clarity, mixed-use projects can blow past budget or end up with design changes late in the process.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Mixed-use multifamily projects add complexity because they combine residential and nonresidential requirements in one building. The commercial portion can chang"
+}

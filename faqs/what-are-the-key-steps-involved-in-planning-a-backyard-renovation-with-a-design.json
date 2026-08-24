@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-are-the-key-steps-involved-in-planning-a-backyard-renovation-with-a-design",
+  "name": "What are the key steps involved in planning a backyard renovation with a design-build firm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps involved in planning a backyard renovation with a design-build firm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process with a design-build firm typically begins with an initial consultation to discuss your vision, needs, and budget. This leads to concept development, where our team creates preliminary designs and layouts. Once a concept is approved, detailed architectural plans, material selections, and engineering specifications are finalized. We then assist with permitting, ensuring all local regulations in Los Angeles and surrounding areas are met. The final stages involve construction and project management, ensuring quality execution until completion.",
+        "@type": "Answer",
+        "description": "Key steps involve consultation, concept development, detailed design, permitting, and construction, all managed by a single design-build team."
+      }
+    }
+  ],
+  "description": "Key steps involve consultation, concept development, detailed design, permitting, and construction, all managed by a single design-build team."
+}

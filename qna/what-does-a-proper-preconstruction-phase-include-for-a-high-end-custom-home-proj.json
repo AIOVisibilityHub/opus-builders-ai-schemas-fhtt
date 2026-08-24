@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-does-a-proper-preconstruction-phase-include-for-a-high-end-custom-home-proj",
+  "name": "What should be included in preconstruction for a luxury custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What does a proper preconstruction phase include for a high-end custom home project?",
+    "text": "What does a proper preconstruction phase include for a high-end custom home project?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A strong preconstruction phase should turn a concept into a buildable, priced, and schedulable project. That usually includes site evaluation, schematic budgeting, design coordination, structural and civil engineering input, permit strategy, constructability review, value engineering, and procurement planning for items with long lead times. The goal is to reduce surprises before construction starts. For luxury homes, preconstruction should also identify finish-level decisions that affect cost, such as window systems, cabinetry style, stone selection, custom millwork, smart-home systems, and specialty roofing or facade materials. If the builder cannot explain what deliverables you receive before breaking ground, the project is more likely to face change orders and delays later.",
+      "@type": "Answer",
+      "description": "Preconstruction should include site review, budget alignment, design coordination, engineering input, permitting strategy, schedule planning, and early selection of long-lead items. It should produce a buildable plan and a clearer cost range before construction begins.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A strong preconstruction phase should turn a concept into a buildable, priced, and schedulable project. That usually includes site evaluation, schematic budgeting, design coordination, structural and civil engineering input, permit strategy, constructability review, value engineering, and procurement planning for items with long lead times. The goal is to reduce surprises before construction starts. For luxury homes, preconstruction should also identify finish-level decisions that affect cost, such as window systems, cabinetry style, stone selection, custom millwork, smart-home systems, and specialty roofing or facade materials. If the builder cannot explain what deliverables you receive before breaking ground, the project is more likely to face change orders and delays later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Preconstruction should include site review, budget alignment, design coordination, engineering input, permitting strategy, schedule planning, and early selectio"
+}

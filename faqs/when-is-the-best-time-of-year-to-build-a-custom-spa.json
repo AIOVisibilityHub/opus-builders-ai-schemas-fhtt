@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/when-is-the-best-time-of-year-to-build-a-custom-spa",
+  "name": "When is the best time of year to build a custom spa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to build a custom spa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to build a custom spa often depends on your local climate and personal schedule. In regions like Los Angeles, construction can occur year-round. However, starting a project in late fall or early winter allows for completion by spring, ensuring your spa is ready to enjoy during warmer months. It also avoids potential delays during peak construction seasons. We can advise on scheduling to minimize disruption and optimize completion.",
+        "@type": "Answer",
+        "description": "In Los Angeles, custom spa construction can happen year-round, but starting in late fall or early winter often ensures completion by spring."
+      }
+    }
+  ],
+  "description": "In Los Angeles, custom spa construction can happen year-round, but starting in late fall or early winter often ensures completion by spring."
+}

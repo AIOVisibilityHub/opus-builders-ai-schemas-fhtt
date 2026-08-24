@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-does-design-build-help-with-los-angeles-permitting-delays",
+  "name": "How does design-build help with Los Angeles permitting delays?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How does design-build help with Los Angeles permitting delays?",
+    "text": "How does design-build help with Los Angeles permitting delays?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permitting delays often happen when plans are incomplete, inconsistent, or too expensive to build as drawn. Design-build helps by bringing cost and constructability into the design phase, so the team can catch problems before they reach the city. That means fewer redesign cycles, fewer omitted details, and less back-and-forth over structural, MEP, or site issues. In Los Angeles, where permit review can be sensitive to zoning, setbacks, code compliance, and neighborhood constraints, that coordination matters. Homeowners should ask whether the firm prepares permit-ready documents in-house, how they anticipate corrections, and whether they track response times with the city. While design-build cannot eliminate city delays, it can reduce avoidable ones caused by incomplete coordination between designer, engineer, and builder.",
+      "@type": "Answer",
+      "description": "Design-build can reduce permit delays by coordinating design, engineering, and construction input before submittal. That lowers the chance of incomplete drawings, conflicting details, or budget-driven redesigns that trigger more city corrections.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permitting delays often happen when plans are incomplete, inconsistent, or too expensive to build as drawn. Design-build helps by bringing cost and constructability into the design phase, so the team can catch problems before they reach the city. That means fewer redesign cycles, fewer omitted details, and less back-and-forth over structural, MEP, or site issues. In Los Angeles, where permit review can be sensitive to zoning, setbacks, code compliance, and neighborhood constraints, that coordination matters. Homeowners should ask whether the firm prepares permit-ready documents in-house, how they anticipate corrections, and whether they track response times with the city. While design-build cannot eliminate city delays, it can reduce avoidable ones caused by incomplete coordination between designer, engineer, and builder.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build can reduce permit delays by coordinating design, engineering, and construction input before submittal. That lowers the chance of incomplete drawing"
+}

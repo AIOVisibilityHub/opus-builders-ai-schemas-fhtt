@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-of-pool-resurfacing",
+  "name": "What is the typical cost of pool resurfacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of pool resurfacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of pool resurfacing is highly variable and depends on several factors, including the size and depth of your pool, the chosen resurfacing material (plaster, quartz, pebble, or tile), the extent of any necessary repairs, and regional labor costs. For a precise estimate, we conduct an on-site evaluation to assess the current condition of your pool and discuss your material preferences. This allows us to provide a detailed and accurate quote tailored to your project.",
+        "@type": "Answer",
+        "description": "Cost varies based on pool size, material, necessary repairs, and labor. A precise estimate requires an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Cost varies based on pool size, material, necessary repairs, and labor. A precise estimate requires an on-site evaluation."
+}

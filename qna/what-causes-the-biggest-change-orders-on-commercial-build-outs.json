@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-causes-the-biggest-change-orders-on-commercial-build-outs",
+  "name": "What causes the biggest change orders on commercial build-outs?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What causes the biggest change orders on commercial build-outs?",
+    "text": "What causes the biggest change orders on commercial build-outs?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Change orders are common in commercial build-outs, but the biggest ones usually come from a few predictable issues. Hidden conditions behind walls or under slabs can force structural, electrical, plumbing, or HVAC changes that were impossible to see during bidding. Other frequent causes are late design revisions, owner-driven finish changes, incomplete drawings, permit comments, and conflicts between trades. In older Los Angeles-area buildings, unrecorded modifications and code upgrades can also add scope after demolition begins. The best way to reduce change orders is to define the scope early, complete field verification before pricing, and make decisions before procurement starts. Owners should also make sure the contractor explains allowances and exclusions clearly. A low initial price is not valuable if it is based on assumptions that will not survive demolition. The strongest contracts are the ones that identify likely risk points before construction starts.",
+      "@type": "Answer",
+      "description": "The biggest change orders on commercial build-outs usually come from hidden site conditions, design changes, unclear scope, owner selection delays, permit revisions, and coordination problems between trades. Older buildings often create the most surprises because existing walls, utilities, and code conditions are not fully known until demolition starts.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Change orders are common in commercial build-outs, but the biggest ones usually come from a few predictable issues. Hidden conditions behind walls or under slabs can force structural, electrical, plumbing, or HVAC changes that were impossible to see during bidding. Other frequent causes are late design revisions, owner-driven finish changes, incomplete drawings, permit comments, and conflicts between trades. In older Los Angeles-area buildings, unrecorded modifications and code upgrades can also add scope after demolition begins. The best way to reduce change orders is to define the scope early, complete field verification before pricing, and make decisions before procurement starts. Owners should also make sure the contractor explains allowances and exclusions clearly. A low initial price is not valuable if it is based on assumptions that will not survive demolition. The strongest contracts are the ones that identify likely risk points before construction starts.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest change orders on commercial build-outs usually come from hidden site conditions, design changes, unclear scope, owner selection delays, permit revis"
+}

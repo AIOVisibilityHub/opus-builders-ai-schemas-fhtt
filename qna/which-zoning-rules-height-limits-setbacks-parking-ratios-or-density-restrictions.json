@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/which-zoning-rules-height-limits-setbacks-parking-ratios-or-density-restrictions",
+  "name": "What zoning issues most often block multifamily projects in Glendale, Pasadena, and Burbank?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Which zoning rules, height limits, setbacks, parking ratios, or density restrictions most commonly stop a multifamily project from moving forward in these cities?",
+    "text": "Which zoning rules, height limits, setbacks, parking ratios, or density restrictions most commonly stop a multifamily project from moving forward in these cities?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Zoning is often the first hidden risk in a multifamily project because the building that pencils on paper may not fit the parcel rules. In Glendale, Pasadena, Burbank, and North Hollywood, common blockers include height limits, setbacks, open-space requirements, parking ratios, lot coverage, and density caps. Even when multifamily use is allowed, the site may only support a smaller building mass than the owner expects. The most important step is to verify the parcel’s zoning designation, overlays, and any specific plan rules before designing the building. A project can also run into trouble if the proposed number of units conflicts with parking feasibility or if the building envelope cannot accommodate circulation, stair placement, trash storage, and fire access. A strong team will test multiple options early, including unit mix, parking layout, and massing alternatives. That helps determine whether the project works as new construction, an addition, a conversion, or a reduced-unit design. The most expensive mistake is moving forward with architectural plans before confirming the zoning envelope and access constraints.",
+      "@type": "Answer",
+      "description": "The most common zoning blockers are density limits, height caps, setback requirements, parking minimums, lot coverage rules, and use restrictions. In Los Angeles-area cities, a project can also be delayed by neighborhood-specific overlays, design review, and inconsistencies between the site’s intended unit count and allowed envelope. A quick zoning check early in design prevents expensive redesign later.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Zoning is often the first hidden risk in a multifamily project because the building that pencils on paper may not fit the parcel rules. In Glendale, Pasadena, Burbank, and North Hollywood, common blockers include height limits, setbacks, open-space requirements, parking ratios, lot coverage, and density caps. Even when multifamily use is allowed, the site may only support a smaller building mass than the owner expects. The most important step is to verify the parcel’s zoning designation, overlays, and any specific plan rules before designing the building. A project can also run into trouble if the proposed number of units conflicts with parking feasibility or if the building envelope cannot accommodate circulation, stair placement, trash storage, and fire access. A strong team will test multiple options early, including unit mix, parking layout, and massing alternatives. That helps determine whether the project works as new construction, an addition, a conversion, or a reduced-unit design. The most expensive mistake is moving forward with architectural plans before confirming the zoning envelope and access constraints.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The most common zoning blockers are density limits, height caps, setback requirements, parking minimums, lot coverage rules, and use restrictions. In Los Angele"
+}

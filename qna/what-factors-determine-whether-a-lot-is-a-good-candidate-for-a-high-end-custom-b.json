@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-factors-determine-whether-a-lot-is-a-good-candidate-for-a-high-end-custom-b",
+  "name": "How do I know if my lot is suitable for a luxury custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What factors determine whether a lot is a good candidate for a high-end custom build?",
+    "text": "What factors determine whether a lot is a good candidate for a high-end custom build?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A good luxury home lot is not just about location or views. The site also needs practical access, a buildable envelope, utility coordination, and a foundation strategy that fits the terrain and soil conditions. Slope, narrow frontage, easements, setbacks, and neighborhood constraints can all affect whether the desired home is feasible and affordable. The smartest buyers evaluate the lot before design is finalized so they understand what the property can realistically support. A feasibility study can save months of redesign and reduce the risk of choosing a concept that is too ambitious for the site. In luxury projects, the lot often determines the final quality of the home as much as the architecture does.",
+      "@type": "Answer",
+      "description": "A suitable lot has workable access, utility availability, manageable slope, buildable setbacks, and a concept that fits zoning and site conditions. Feasibility should be checked early so the design matches the lot instead of fighting it.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A good luxury home lot is not just about location or views. The site also needs practical access, a buildable envelope, utility coordination, and a foundation strategy that fits the terrain and soil conditions. Slope, narrow frontage, easements, setbacks, and neighborhood constraints can all affect whether the desired home is feasible and affordable. The smartest buyers evaluate the lot before design is finalized so they understand what the property can realistically support. A feasibility study can save months of redesign and reduce the risk of choosing a concept that is too ambitious for the site. In luxury projects, the lot often determines the final quality of the home as much as the architecture does.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A suitable lot has workable access, utility availability, manageable slope, buildable setbacks, and a concept that fits zoning and site conditions. Feasibility "
+}

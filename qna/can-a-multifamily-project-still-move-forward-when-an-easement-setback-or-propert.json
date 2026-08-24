@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-a-multifamily-project-still-move-forward-when-an-easement-setback-or-propert",
+  "name": "What happens if the property line or easement limits the buildable area?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can a multifamily project still move forward when an easement, setback, or property line constraint cuts into the building envelope?",
+    "text": "Can a multifamily project still move forward when an easement, setback, or property line constraint cuts into the building envelope?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Property line constraints and easements can significantly affect multifamily construction because they reduce the usable envelope. A parcel may be legally large enough on paper but functionally smaller once setback lines, utility easements, access requirements, and adjacent property restrictions are applied. When this happens, the building may need to be shifted, narrowed, shortened, or redesigned. Sometimes the unit count can still work with a more efficient layout. Other times, the only viable solution is to reduce density or change the parking plan. The important thing is to identify the constraint early rather than discovering it during permit review or construction documents. Owners should confirm exactly where the easement sits and what it restricts before finalizing the concept. A strong feasibility plan will show the true buildable area and test whether the desired program still works. If the project is moving forward without that analysis, the risk of redesign is high.",
+      "@type": "Answer",
+      "description": "Yes, but the design may need to shrink, shift, or reconfigure. Easements and property line constraints can eliminate portions of the buildable area, reduce unit count, or force a different parking and circulation plan. These issues should be identified before full design work begins.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Property line constraints and easements can significantly affect multifamily construction because they reduce the usable envelope. A parcel may be legally large enough on paper but functionally smaller once setback lines, utility easements, access requirements, and adjacent property restrictions are applied. When this happens, the building may need to be shifted, narrowed, shortened, or redesigned. Sometimes the unit count can still work with a more efficient layout. Other times, the only viable solution is to reduce density or change the parking plan. The important thing is to identify the constraint early rather than discovering it during permit review or construction documents. Owners should confirm exactly where the easement sits and what it restricts before finalizing the concept. A strong feasibility plan will show the true buildable area and test whether the desired program still works. If the project is moving forward without that analysis, the risk of redesign is high.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but the design may need to shrink, shift, or reconfigure. Easements and property line constraints can eliminate portions of the buildable area, reduce unit"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-average-cost-of-a-pool-remodel-in-los-angeles",
+  "name": "What is the average cost of a pool remodel in Los Angeles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a pool remodel in Los Angeles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a pool remodel in the Los Angeles area can range widely, typically starting from $15,000 for basic updates and potentially exceeding $100,000 for luxury, comprehensive renovations. Factors influencing cost include the size of the pool, the extent of structural work, chosen materials for resurfacing and decking, new equipment installations (e.g., heaters, automation), and the addition of features like spas or complex water elements. A detailed consultation allows for a precise estimate tailored to your specific project desires.",
+        "@type": "Answer",
+        "description": "In Los Angeles, pool remodel costs typically range from $15,000 for basic updates to over $100,000 for luxury renovations, depending on scope, materials, and features."
+      }
+    }
+  ],
+  "description": "In Los Angeles, pool remodel costs typically range from $15,000 for basic updates to over $100,000 for luxury renovations, depending on scope, materials, and fe"
+}

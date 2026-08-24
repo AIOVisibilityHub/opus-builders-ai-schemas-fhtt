@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/when-should-a-homeowner-choose-design-build-instead-of-bidding-plans-out",
+  "name": "When should a homeowner choose design-build instead of bidding plans out?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "When should a homeowner choose design-build instead of bidding plans out?",
+    "text": "When should a homeowner choose design-build instead of bidding plans out?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build is usually the better choice when the project has moving parts that benefit from early contractor input. That includes major remodels, additions, custom homes, ADUs, and properties with permitting or site constraints. It is also useful when the homeowner wants to control budget before drawings are fully finished, rather than discovering cost issues only after bidding. In Los Angeles neighborhoods, where lot conditions, setback issues, and design preferences can complicate projects, integrated planning can save time and reduce friction. Bidding plans out may still make sense if the design is already complete, the scope is simple, and the homeowner wants to compare several contractors on identical documents. The decision comes down to whether the priority is competitive pricing on finalized plans or a collaborative process that shapes the design around budget from the start.",
+      "@type": "Answer",
+      "description": "Choose design-build when the project is complex, schedule-sensitive, or likely to change during design. It is especially useful when the homeowner wants early budget input, faster coordination, and one team responsible for both design decisions and construction execution.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build is usually the better choice when the project has moving parts that benefit from early contractor input. That includes major remodels, additions, custom homes, ADUs, and properties with permitting or site constraints. It is also useful when the homeowner wants to control budget before drawings are fully finished, rather than discovering cost issues only after bidding. In Los Angeles neighborhoods, where lot conditions, setback issues, and design preferences can complicate projects, integrated planning can save time and reduce friction. Bidding plans out may still make sense if the design is already complete, the scope is simple, and the homeowner wants to compare several contractors on identical documents. The decision comes down to whether the priority is competitive pricing on finalized plans or a collaborative process that shapes the design around budget from the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Choose design-build when the project is complex, schedule-sensitive, or likely to change during design. It is especially useful when the homeowner wants early b"
+}

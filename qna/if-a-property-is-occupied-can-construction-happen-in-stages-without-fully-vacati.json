@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-a-property-is-occupied-can-construction-happen-in-stages-without-fully-vacati",
+  "name": "Can multifamily construction be phased while tenants stay in place?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If a property is occupied, can construction happen in stages without fully vacating the building?",
+    "text": "If a property is occupied, can construction happen in stages without fully vacating the building?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Phasing construction in an occupied multifamily building is possible in some cases, but it requires careful planning. The work has to be sequenced so tenants remain safe, paths of travel are maintained, and the building can function while construction continues. Small exterior repairs or limited interior upgrades may be manageable. Major structural work, utility replacement, or fire-system changes are much harder to phase. The biggest concerns are resident safety, dust control, noise, access to units, and the ability to separate active work zones from occupied areas. If the scope affects stairs, electrical service, plumbing mains, or life-safety systems, the building may need to be partially or fully vacated. Owners should not assume that tenants can stay simply because the work is being done in stages. A smart plan starts with a feasibility review that tests phasing options before final design. That review should also account for move-out timing, temporary services, schedule buffering, and tenant communication. If phasing is being considered, the builder must be able to show a realistic sequence, not just a hopeful promise.",
+      "@type": "Answer",
+      "description": "Phased multifamily construction is possible in some occupied properties, but it depends on access, life-safety separation, noise control, and the scope of work. Major structural, utility, or fire-system upgrades often make full occupancy difficult. The project team should confirm whether phased work is practical before promising tenants that they can remain in place.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Phasing construction in an occupied multifamily building is possible in some cases, but it requires careful planning. The work has to be sequenced so tenants remain safe, paths of travel are maintained, and the building can function while construction continues. Small exterior repairs or limited interior upgrades may be manageable. Major structural work, utility replacement, or fire-system changes are much harder to phase. The biggest concerns are resident safety, dust control, noise, access to units, and the ability to separate active work zones from occupied areas. If the scope affects stairs, electrical service, plumbing mains, or life-safety systems, the building may need to be partially or fully vacated. Owners should not assume that tenants can stay simply because the work is being done in stages. A smart plan starts with a feasibility review that tests phasing options before final design. That review should also account for move-out timing, temporary services, schedule buffering, and tenant communication. If phasing is being considered, the builder must be able to show a realistic sequence, not just a hopeful promise.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Phased multifamily construction is possible in some occupied properties, but it depends on access, life-safety separation, noise control, and the scope of work."
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-make-major-changes-once-a-luxury-custom-home-is-already-under-construction",
+  "name": "What if I want to change the design after construction starts?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I make major changes once a luxury custom home is already under construction?",
+    "text": "Can I make major changes once a luxury custom home is already under construction?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Late changes are common in custom home building, but they need to be managed carefully. A change that seems small on paper can affect framing, MEP coordination, finishes, permits, and procurement. In a luxury home, even a modest revision may require rework and new lead times for special-order items. The best practice is to document every change in writing, confirm the cost impact before work proceeds, and understand whether the change affects other trades or the permit set. Owners should expect that changes made after rough-in or finish ordering will cost more than changes made during design. A good builder will be transparent about the real schedule and budget consequences before approving the revision.",
+      "@type": "Answer",
+      "description": "Yes, but late design changes usually increase cost and extend the schedule because they can affect materials, engineering, inspections, and work already completed. The later the change, the more expensive and disruptive it usually becomes.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Late changes are common in custom home building, but they need to be managed carefully. A change that seems small on paper can affect framing, MEP coordination, finishes, permits, and procurement. In a luxury home, even a modest revision may require rework and new lead times for special-order items. The best practice is to document every change in writing, confirm the cost impact before work proceeds, and understand whether the change affects other trades or the permit set. Owners should expect that changes made after rough-in or finish ordering will cost more than changes made during design. A good builder will be transparent about the real schedule and budget consequences before approving the revision.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, but late design changes usually increase cost and extend the schedule because they can affect materials, engineering, inspections, and work already complet"
+}

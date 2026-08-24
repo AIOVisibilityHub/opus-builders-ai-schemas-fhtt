@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-do-i-choose-the-right-materials-for-my-pool-deck-and-interior",
+  "name": "How do I choose the right materials for my pool deck and interior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right materials for my pool deck and interior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing materials involves balancing aesthetics, durability, and maintenance. For pool interiors, options include traditional plaster, pebble finishes for enhanced texture and longevity, or various tile selections. Decking materials range from cool-to-the-touch pavers, stamped concrete for custom designs, to natural stone for a luxurious feel. Consider your home's architectural style, the level of slip resistance needed, and your maintenance preferences. Our design team can guide you through samples and recommendations to suit your vision and lifestyle.",
+        "@type": "Answer",
+        "description": "Select pool materials by balancing aesthetics, durability, and maintenance. Options include plaster, pebble, or tile for interiors, and pavers, concrete, or natural stone for decking. Our team assists with selections."
+      }
+    }
+  ],
+  "description": "Select pool materials by balancing aesthetics, durability, and maintenance. Options include plaster, pebble, or tile for interiors, and pavers, concrete, or nat"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-a-custom-spa-be-integrated-with-an-existing-swimming-pool",
+  "name": "Can a custom spa be integrated with an existing swimming pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a custom spa be integrated with an existing swimming pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a custom spa can be seamlessly integrated with an existing swimming pool. This often involves designing a cohesive aesthetic and connecting the plumbing and heating systems. Integration can create a unified outdoor living space, allowing for shared filtration or heating, depending on the design. Our team assesses your current pool setup to determine the best approach for a harmonious and functional integration.",
+        "@type": "Answer",
+        "description": "Yes, a custom spa can be seamlessly integrated with an existing swimming pool for a unified outdoor space and shared system functionality."
+      }
+    }
+  ],
+  "description": "Yes, a custom spa can be seamlessly integrated with an existing swimming pool for a unified outdoor space and shared system functionality."
+}

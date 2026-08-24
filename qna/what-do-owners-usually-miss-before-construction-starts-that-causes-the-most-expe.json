@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-do-owners-usually-miss-before-construction-starts-that-causes-the-most-expe",
+  "name": "What are the biggest mistakes in multifamily preconstruction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What do owners usually miss before construction starts that causes the most expensive problems later?",
+    "text": "What do owners usually miss before construction starts that causes the most expensive problems later?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Most multifamily project problems are created before construction starts. Common mistakes include skipping a serious feasibility study, assuming the zoning allows the intended unit count, underestimating utility upgrades, and moving into full design before confirming the site can actually support the building. Another frequent mistake is treating parking and access as afterthoughts. On tight urban lots, those issues can determine whether the project works at all. Owners also get into trouble when they rely on a vague early estimate without contingency or when they select a contractor before the design is far enough along to produce a reliable budget. A good preconstruction process tests the project from multiple angles: code, zoning, site constraints, utility capacity, schedule, and financing. Owners should ask for red-flag reporting early and often. The goal is to discover problems while they are still inexpensive to solve, not after drawings are complete or permits are already in review.",
+      "@type": "Answer",
+      "description": "The biggest preconstruction mistakes are skipping feasibility studies, underestimating utility work, finalizing designs before confirming zoning, ignoring parking and access constraints, and using a vague budget with no contingency. Most expensive problems in multifamily construction are locked in before the first permit is pulled.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Most multifamily project problems are created before construction starts. Common mistakes include skipping a serious feasibility study, assuming the zoning allows the intended unit count, underestimating utility upgrades, and moving into full design before confirming the site can actually support the building. Another frequent mistake is treating parking and access as afterthoughts. On tight urban lots, those issues can determine whether the project works at all. Owners also get into trouble when they rely on a vague early estimate without contingency or when they select a contractor before the design is far enough along to produce a reliable budget. A good preconstruction process tests the project from multiple angles: code, zoning, site constraints, utility capacity, schedule, and financing. Owners should ask for red-flag reporting early and often. The goal is to discover problems while they are still inexpensive to solve, not after drawings are complete or permits are already in review.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "The biggest preconstruction mistakes are skipping feasibility studies, underestimating utility work, finalizing designs before confirming zoning, ignoring parki"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-is-the-difference-between-shell-space-and-tenant-improvement-space",
+  "name": "What is the difference between shell space and tenant improvement space?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What is the difference between shell space and tenant improvement space?",
+    "text": "What is the difference between shell space and tenant improvement space?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Shell space and tenant improvement space are terms that affect both construction scope and budget. Shell space is typically the starting point: walls, finishes, and systems may be minimal or incomplete, so the tenant must build out the interior to suit the business. Tenant improvement space already has some level of build-out in place, which may reduce the amount of work needed or simply require modifications to an existing layout. The difference matters because shell projects often need more electrical, mechanical, plumbing, and finish work, along with more permit coordination. Tenant improvement projects can still be complicated if the existing systems are outdated or the space needs reconfiguration. Owners should verify exactly what conditions are included in the lease or purchase and what must be added before occupancy. A contractor should walk the site and identify whether the project is truly starting from shell or whether hidden existing work changes the scope.",
+      "@type": "Answer",
+      "description": "Shell space is an unfinished or minimally finished commercial space ready for tenant customization, while tenant improvement space already contains some or all of the build-out needed for occupancy. Shell space usually requires more construction, more coordination, and a broader permit scope.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Shell space and tenant improvement space are terms that affect both construction scope and budget. Shell space is typically the starting point: walls, finishes, and systems may be minimal or incomplete, so the tenant must build out the interior to suit the business. Tenant improvement space already has some level of build-out in place, which may reduce the amount of work needed or simply require modifications to an existing layout. The difference matters because shell projects often need more electrical, mechanical, plumbing, and finish work, along with more permit coordination. Tenant improvement projects can still be complicated if the existing systems are outdated or the space needs reconfiguration. Owners should verify exactly what conditions are included in the lease or purchase and what must be added before occupancy. A contractor should walk the site and identify whether the project is truly starting from shell or whether hidden existing work changes the scope.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Shell space is an unfinished or minimally finished commercial space ready for tenant customization, while tenant improvement space already contains some or all "
+}

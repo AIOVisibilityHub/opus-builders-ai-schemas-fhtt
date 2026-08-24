@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/can-i-choose-a-new-color-or-texture-when-resurfacing-my-pool",
+  "name": "Can I choose a new color or texture when resurfacing my pool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose a new color or texture when resurfacing my pool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, resurfacing your pool offers an excellent opportunity to completely change its aesthetic. You can select from a wide range of colors, from traditional blues and whites to darker shades that create a lagoon-like effect. Different materials also provide varying textures, from the smoothness of plaster to the natural feel of pebble. This allows for significant customization to match your home's design, enhance your landscape, or achieve a desired mood for your outdoor living space.",
+        "@type": "Answer",
+        "description": "Yes, resurfacing allows you to choose new colors and textures, offering significant customization to match your home's design."
+      }
+    }
+  ],
+  "description": "Yes, resurfacing allows you to choose new colors and textures, offering significant customization to match your home's design."
+}

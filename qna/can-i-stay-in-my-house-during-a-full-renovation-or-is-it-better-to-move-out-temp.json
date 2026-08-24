@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-stay-in-my-house-during-a-full-renovation-or-is-it-better-to-move-out-temp",
+  "name": "Can I live in my house during a whole-home remodel?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I stay in my house during a full renovation, or is it better to move out temporarily?",
+    "text": "Can I stay in my house during a full renovation, or is it better to move out temporarily?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Whether you can live in your home during a renovation depends on how much of the house is being worked on at once. If the project is limited to one room or can be phased carefully, staying put may be possible. But for a whole-home remodel, especially one that includes kitchen and bathroom downtime, electrical shutoffs, dust, noise, and repeated inspections, most families find temporary relocation far more manageable. Living in place also slows the job in many cases because crews must protect occupied areas, maintain access paths, and work around daily routines. The decision should consider safety, cleanliness, utility interruptions, and the ability to use essential spaces like cooking and bathing. If you do stay, ask for a phasing plan, dust containment strategy, and a clear schedule for outages and noisy work. If you move out, include temporary housing and storage in the project budget.",
+      "@type": "Answer",
+      "description": "You may be able to stay in the house during a limited or phased remodel, but full-home renovations are often easier and safer when the home is vacant. Living on site becomes difficult when kitchens, bathrooms, HVAC, power, or water are shut down during construction.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Whether you can live in your home during a renovation depends on how much of the house is being worked on at once. If the project is limited to one room or can be phased carefully, staying put may be possible. But for a whole-home remodel, especially one that includes kitchen and bathroom downtime, electrical shutoffs, dust, noise, and repeated inspections, most families find temporary relocation far more manageable. Living in place also slows the job in many cases because crews must protect occupied areas, maintain access paths, and work around daily routines. The decision should consider safety, cleanliness, utility interruptions, and the ability to use essential spaces like cooking and bathing. If you do stay, ask for a phasing plan, dust containment strategy, and a clear schedule for outages and noisy work. If you move out, include temporary housing and storage in the project budget.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "You may be able to stay in the house during a limited or phased remodel, but full-home renovations are often easier and safer when the home is vacant. Living on"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-details-should-a-renovation-estimate-include-so-i-can-compare-bids-accurate",
+  "name": "What should be included in a home renovation estimate?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What details should a renovation estimate include so I can compare bids accurately?",
+    "text": "What details should a renovation estimate include so I can compare bids accurately?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A detailed home renovation estimate should do more than give a total price. It should break out labor, materials, fixtures, allowances, permit costs, inspections, demolition, debris removal, site protection, subcontractor work, and project management. It should also identify exclusions, because items left out of one bid can make it look cheaper than a more complete proposal. For example, a contractor may include basic fixtures but not premium finishes, or may omit electrical upgrades, drywall repair, or design fees. The estimate should also explain how change orders are handled, because renovation projects often uncover hidden conditions once walls or floors are opened. Homeowners comparing bids should look for consistency in scope, not just price. The best estimate is specific enough to reduce guesswork, clarify assumptions, and make budget overruns less likely later.",
+      "@type": "Answer",
+      "description": "A useful renovation estimate should list labor, materials, allowances, permits, inspections, demolition, site protection, subcontractor work, project management, exclusions, and change-order terms. If key items are missing, the bid is hard to compare and may not reflect the real project cost.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A detailed home renovation estimate should do more than give a total price. It should break out labor, materials, fixtures, allowances, permit costs, inspections, demolition, debris removal, site protection, subcontractor work, and project management. It should also identify exclusions, because items left out of one bid can make it look cheaper than a more complete proposal. For example, a contractor may include basic fixtures but not premium finishes, or may omit electrical upgrades, drywall repair, or design fees. The estimate should also explain how change orders are handled, because renovation projects often uncover hidden conditions once walls or floors are opened. Homeowners comparing bids should look for consistency in scope, not just price. The best estimate is specific enough to reduce guesswork, clarify assumptions, and make budget overruns less likely later.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A useful renovation estimate should list labor, materials, allowances, permits, inspections, demolition, site protection, subcontractor work, project management"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-add-an-adu-and-a-main-custom-home-on-the-same-los-angeles-lot",
+  "name": "Can you add an ADU and a main custom home on the same Los Angeles lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you add an ADU and a main custom home on the same Los Angeles lot?",
+    "text": "Can you add an ADU and a main custom home on the same Los Angeles lot?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "In many cases, a Los Angeles lot can support both a main custom home and an ADU, but feasibility depends on zoning, setbacks, lot coverage, utility layout, and how the structures fit on the site. The project may also need careful sequencing so the main house and ADU do not conflict with each other during construction or with required access paths. On smaller or irregular lots, the design challenge becomes fitting both buildings while preserving privacy, light, and usable outdoor space. Utility planning is especially important because sewer, water, electrical, and gas service must support the full project. Homeowners should evaluate the lot early with a builder, architect, and engineer rather than assuming both structures will fit. When done well, the combination can increase property value and flexibility. When done poorly, it can create congestion, permit delays, and design compromises. Site-specific planning is essential.",
+      "@type": "Answer",
+      "description": "In many cases, yes, but feasibility depends on zoning, lot coverage, setbacks, parking, utilities, and site layout. The main house and ADU must fit the property while still meeting local code and construction access needs.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "In many cases, a Los Angeles lot can support both a main custom home and an ADU, but feasibility depends on zoning, setbacks, lot coverage, utility layout, and how the structures fit on the site. The project may also need careful sequencing so the main house and ADU do not conflict with each other during construction or with required access paths. On smaller or irregular lots, the design challenge becomes fitting both buildings while preserving privacy, light, and usable outdoor space. Utility planning is especially important because sewer, water, electrical, and gas service must support the full project. Homeowners should evaluate the lot early with a builder, architect, and engineer rather than assuming both structures will fit. When done well, the combination can increase property value and flexibility. When done poorly, it can create congestion, permit delays, and design compromises. Site-specific planning is essential.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "In many cases, yes, but feasibility depends on zoning, lot coverage, setbacks, parking, utilities, and site layout. The main house and ADU must fit the property"
+}

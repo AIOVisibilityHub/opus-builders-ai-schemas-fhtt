@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/do-i-need-a-permit-for-outdoor-living-construction-in-areas-like-glendale-or-pas",
+  "name": "Do I need a permit for outdoor living construction in areas like Glendale or Pasadena?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for outdoor living construction in areas like Glendale or Pasadena?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most significant outdoor living construction projects in Glendale, Pasadena, and surrounding cities require permits. This includes structures like pergolas, gazebos, outdoor kitchens with utilities, significant patio expansions, and retaining walls above a certain height. Permits ensure projects comply with local zoning laws, building codes, and safety regulations. Our team handles the entire permitting process, from drafting plans to submitting applications and coordinating with city officials, ensuring your project meets all necessary municipal requirements.",
+        "@type": "Answer",
+        "description": "Yes, most significant outdoor living projects in Glendale and Pasadena require permits to comply with local building codes and safety regulations. We manage this process."
+      }
+    }
+  ],
+  "description": "Yes, most significant outdoor living projects in Glendale and Pasadena require permits to comply with local building codes and safety regulations. We manage thi"
+}

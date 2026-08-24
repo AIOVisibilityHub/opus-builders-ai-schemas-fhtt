@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-included-in-a-design-build-proposal-for-a-custom-home",
+  "name": "What should be included in a design-build proposal for a custom home?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in a design-build proposal for a custom home?",
+    "text": "What should be included in a design-build proposal for a custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A complete design-build proposal should make the scope and pricing structure easy to compare. Look for a detailed scope of work, design services, engineering, permit coordination, site preparation, construction phases, allowances for finishes, and a clear list of exclusions. The proposal should explain whether pricing is lump sum, cost-plus, or hybrid, and it should identify any assumptions about soil, access, utility upgrades, or structural work. For custom homes in Los Angeles-area neighborhoods, that detail matters because site complexity can materially change cost and timing. It is also smart to verify how allowances are set for cabinetry, tile, fixtures, windows, and appliances, since underfunded allowances often create budget surprises. The strongest proposals also include a milestone schedule, payment draw structure, inspection responsibility, and a process for design revisions. If a proposal is vague, it usually means the homeowner is carrying too much risk.",
+      "@type": "Answer",
+      "description": "A good design-build proposal should list scope, drawings, permit work, engineering, allowances, exclusions, payment schedule, estimated timeline, and how change orders are handled. It should also clarify what is fixed-price, what is provisional, and which finishes or site conditions could change the total cost.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A complete design-build proposal should make the scope and pricing structure easy to compare. Look for a detailed scope of work, design services, engineering, permit coordination, site preparation, construction phases, allowances for finishes, and a clear list of exclusions. The proposal should explain whether pricing is lump sum, cost-plus, or hybrid, and it should identify any assumptions about soil, access, utility upgrades, or structural work. For custom homes in Los Angeles-area neighborhoods, that detail matters because site complexity can materially change cost and timing. It is also smart to verify how allowances are set for cabinetry, tile, fixtures, windows, and appliances, since underfunded allowances often create budget surprises. The strongest proposals also include a milestone schedule, payment draw structure, inspection responsibility, and a process for design revisions. If a proposal is vague, it usually means the homeowner is carrying too much risk.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A good design-build proposal should list scope, drawings, permit work, engineering, allowances, exclusions, payment schedule, estimated timeline, and how change"
+}

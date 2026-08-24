@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-happens-if-los-angeles-requires-design-changes-during-plan-check-for-a-cust",
+  "name": "What happens if the city requires design changes during plan check?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What happens if Los Angeles requires design changes during plan check for a custom home?",
+    "text": "What happens if Los Angeles requires design changes during plan check for a custom home?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "If Los Angeles plan check requires design changes, the project usually goes back to the architect, engineer, and builder for revisions before being resubmitted. The impact depends on how major the comments are. Simple corrections may only add a short delay, but structural changes, accessibility issues, grading revisions, or code-related redesign can extend the schedule significantly. The builder should explain whether the change affects materials already ordered, permit timing, or subcontractor sequencing. Homeowners should expect some iteration during permitting, especially on complex custom homes or hillside projects. The best defense is a strong pre-submittal review so obvious issues are caught early. It also helps to keep the design team and builder aligned on budget and feasibility before filing. If plan check changes are handled quickly and systematically, the project can move forward with less disruption. If they are not, the permit phase can become one of the longest parts of the build.",
+      "@type": "Answer",
+      "description": "If plan check requires changes, the architect and builder usually revise the drawings, resubmit the package, and adjust the schedule and budget if the changes affect structure, utilities, or finish selections. Even small revisions can add weeks or months to the timeline.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "If Los Angeles plan check requires design changes, the project usually goes back to the architect, engineer, and builder for revisions before being resubmitted. The impact depends on how major the comments are. Simple corrections may only add a short delay, but structural changes, accessibility issues, grading revisions, or code-related redesign can extend the schedule significantly. The builder should explain whether the change affects materials already ordered, permit timing, or subcontractor sequencing. Homeowners should expect some iteration during permitting, especially on complex custom homes or hillside projects. The best defense is a strong pre-submittal review so obvious issues are caught early. It also helps to keep the design team and builder aligned on budget and feasibility before filing. If plan check changes are handled quickly and systematically, the project can move forward with less disruption. If they are not, the permit phase can become one of the longest parts of the build.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "If plan check requires changes, the architect and builder usually revise the drawings, resubmit the package, and adjust the schedule and budget if the changes a"
+}

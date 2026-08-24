@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-i-look-at-besides-the-total-price-when-comparing-builders-for-a-mult",
+  "name": "How do I compare bids for a multifamily project without getting misled?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should I look at besides the total price when comparing builders for a multifamily job?",
+    "text": "What should I look at besides the total price when comparing builders for a multifamily job?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Multifamily bids are easy to misread because two proposals can have very different assumptions even when the bottom line looks close. Owners should compare scope coverage, exclusions, allowances, unit finishes, site work, utility upgrades, temporary protection, and permit-related responsibilities. A lower bid may simply be missing items that will later appear as change orders. The best comparison method is to normalize the bids so each one covers the same scope. That means checking whether grading, excavation, off-site utility work, testing, inspections, and cleanup are included. It also means confirming how schedule delays, material escalation, and contingency are handled. A contractor with real multifamily experience should be able to explain why the number is what it is and where the risk sits. If the proposal is too short or too generic, it is hard to trust. Owners should compare more than price; they should compare clarity, risk management, and the contractor’s ability to deliver the project without surprise costs.",
+      "@type": "Answer",
+      "description": "Compare bid assumptions, exclusions, allowances, schedule, contingency, change-order policy, and similar project experience. The lowest number is not always the best price if it leaves out site work, utility upgrades, permit support, or finish items that become expensive later.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Multifamily bids are easy to misread because two proposals can have very different assumptions even when the bottom line looks close. Owners should compare scope coverage, exclusions, allowances, unit finishes, site work, utility upgrades, temporary protection, and permit-related responsibilities. A lower bid may simply be missing items that will later appear as change orders. The best comparison method is to normalize the bids so each one covers the same scope. That means checking whether grading, excavation, off-site utility work, testing, inspections, and cleanup are included. It also means confirming how schedule delays, material escalation, and contingency are handled. A contractor with real multifamily experience should be able to explain why the number is what it is and where the risk sits. If the proposal is too short or too generic, it is hard to trust. Owners should compare more than price; they should compare clarity, risk management, and the contractor’s ability to deliver the project without surprise costs.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Compare bid assumptions, exclusions, allowances, schedule, contingency, change-order policy, and similar project experience. The lowest number is not always the"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-contract-terms-matter-most-before-starting-a-custom-luxury-build",
+  "name": "What should be in a luxury home construction contract?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What contract terms matter most before starting a custom luxury build?",
+    "text": "What contract terms matter most before starting a custom luxury build?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "A luxury home contract should be precise enough that both the owner and builder know what is included, what is excluded, and how changes will be handled. The most important items usually include scope of work, allowance definitions, payment schedule, progress billing, change-order procedure, exclusions, schedule assumptions, warranty terms, and responsibility for permits and consultants. If the contract uses vague language, it becomes harder to manage cost and quality later. Homeowners should also confirm how delays are addressed and whether there are escalation clauses for materials or labor. A clear contract protects both sides and creates a better foundation for a complex custom build.",
+      "@type": "Answer",
+      "description": "A strong contract should clearly define scope, allowances, exclusions, payment timing, change-order rules, schedule assumptions, and responsibility for permits and consultants. The goal is to avoid ambiguity before work begins.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "A luxury home contract should be precise enough that both the owner and builder know what is included, what is excluded, and how changes will be handled. The most important items usually include scope of work, allowance definitions, payment schedule, progress billing, change-order procedure, exclusions, schedule assumptions, warranty terms, and responsibility for permits and consultants. If the contract uses vague language, it becomes harder to manage cost and quality later. Homeowners should also confirm how delays are addressed and whether there are escalation clauses for materials or labor. A clear contract protects both sides and creates a better foundation for a complex custom build.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "A strong contract should clearly define scope, allowances, exclusions, payment timing, change-order rules, schedule assumptions, and responsibility for permits "
+}

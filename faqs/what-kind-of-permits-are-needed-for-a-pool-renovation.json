@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-kind-of-permits-are-needed-for-a-pool-renovation",
+  "name": "What kind of permits are needed for a pool renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of permits are needed for a pool renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for pool renovations vary based on the extent of the work and local regulations. Minor cosmetic updates like replastering or retiling typically do not require permits. However, any renovation involving structural changes, alterations to the pool's footprint, significant electrical or plumbing work, or the addition of new features like spas or water slides will almost certainly require permits from your local city or county building department. Your contractor should handle the permit application process on your behalf.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for structural changes, footprint alterations, significant electrical/plumbing work, or adding new features to a pool."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for structural changes, footprint alterations, significant electrical/plumbing work, or adding new features to a pool."
+}

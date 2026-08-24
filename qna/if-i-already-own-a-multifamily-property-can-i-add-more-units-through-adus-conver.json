@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/if-i-already-own-a-multifamily-property-can-i-add-more-units-through-adus-conver",
+  "name": "Can I build an ADU or additional units on an existing multifamily lot?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "If I already own a multifamily property, can I add more units through ADUs, conversions, or additions in Los Angeles County?",
+    "text": "If I already own a multifamily property, can I add more units through ADUs, conversions, or additions in Los Angeles County?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Adding units to an existing multifamily property is often possible, but the answer depends on the building’s current configuration and the city’s interpretation of state and local rules. Owners commonly explore garage conversions, storage-area conversions, rooftop additions, and detached ADUs where allowed. The challenge is that each option triggers different structural, fire, utility, and permitting questions. Before designing anything, the site should be checked for legal unit count, existing occupancy conditions, easements, access, sprinkler coverage, and utility capacity. A conversion that seems simple can become costly if the floor plan needs major rework, if the foundation cannot support the addition, or if fire separation must be upgraded throughout the building. Owners should also confirm whether the added units will affect parking replacement rules, trash location, drainage, and rental strategy. In many cases, the fastest path is to start with a feasibility study that compares conversion, addition, and detached unit options. That prevents investing in a concept that later fails plan check or becomes too expensive to build.",
+      "@type": "Answer",
+      "description": "Many multifamily properties in Los Angeles County can add units through ADU conversions or limited new detached ADUs, but the exact allowance depends on the site, existing unit count, and local rules. The key questions are whether the space is legally convertible, whether fire and access requirements can be met, and whether parking or utility capacity can support the change.",
+      "upvoteCount": 5
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Adding units to an existing multifamily property is often possible, but the answer depends on the building’s current configuration and the city’s interpretation of state and local rules. Owners commonly explore garage conversions, storage-area conversions, rooftop additions, and detached ADUs where allowed. The challenge is that each option triggers different structural, fire, utility, and permitting questions. Before designing anything, the site should be checked for legal unit count, existing occupancy conditions, easements, access, sprinkler coverage, and utility capacity. A conversion that seems simple can become costly if the floor plan needs major rework, if the foundation cannot support the addition, or if fire separation must be upgraded throughout the building. Owners should also confirm whether the added units will affect parking replacement rules, trash location, drainage, and rental strategy. In many cases, the fastest path is to start with a feasibility study that compares conversion, addition, and detached unit options. That prevents investing in a concept that later fails plan check or becomes too expensive to build.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Many multifamily properties in Los Angeles County can add units through ADU conversions or limited new detached ADUs, but the exact allowance depends on the sit"
+}

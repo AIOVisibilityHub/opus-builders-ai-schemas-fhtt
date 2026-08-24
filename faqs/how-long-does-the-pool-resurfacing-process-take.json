@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/how-long-does-the-pool-resurfacing-process-take",
+  "name": "How long does the pool resurfacing process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the pool resurfacing process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of the pool resurfacing process varies depending on the pool's size, the chosen material, and weather conditions. Generally, the process can take anywhere from one to two weeks, from draining the pool to refilling it. This includes preparation work like chipping out the old surface, cleaning, patching, applying the new finish, and allowing adequate curing time before refilling and balancing the water chemistry. We provide a detailed timeline after assessing your specific pool.",
+        "@type": "Answer",
+        "description": "The process typically takes one to two weeks, depending on pool size, material, and weather, including preparation, application, and curing."
+      }
+    }
+  ],
+  "description": "The process typically takes one to two weeks, depending on pool size, material, and weather, including preparation, application, and curing."
+}

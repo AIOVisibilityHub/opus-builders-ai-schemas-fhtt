@@ -1,0 +1,27 @@
+{
+  "url": "http://opusbuildersla.com/faq/what-is-the-typical-cost-for-an-outdoor-living-space-in-southern-california",
+  "name": "What is the typical cost for an outdoor living space in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for an outdoor living space in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an outdoor living space in Southern California can vary widely, starting from approximately $30,000 for simpler installations like a basic patio with a pergola, and extending well into $150,000+ for comprehensive designs featuring full outdoor kitchens, custom hardscaping, and advanced entertainment systems. Factors influencing cost include material choices (e.g., natural stone vs. pavers), the complexity of design, square footage, and integrated amenities like plumbing, electrical, and high-end appliances. We provide detailed estimates tailored to your specific vision and budget.",
+        "@type": "Answer",
+        "description": "Costs for outdoor living spaces in Southern California range from $30,000 for basic setups to over $150,000 for comprehensive designs, depending on features and materials."
+      }
+    }
+  ],
+  "description": "Costs for outdoor living spaces in Southern California range from $30,000 for basic setups to over $150,000 for comprehensive designs, depending on features and"
+}

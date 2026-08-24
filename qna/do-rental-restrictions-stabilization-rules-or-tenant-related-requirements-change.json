@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/do-rental-restrictions-stabilization-rules-or-tenant-related-requirements-change",
+  "name": "How do rent control and tenant rules affect new multifamily construction decisions?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Do rental restrictions, stabilization rules, or tenant-related requirements change how a new project should be designed or planned?",
+    "text": "Do rental restrictions, stabilization rules, or tenant-related requirements change how a new project should be designed or planned?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Tenant-related rules and rental restrictions can influence a multifamily project long before the building is complete. For owners deciding between renovation, conversion, addition, or full replacement, the structure of the project can affect how the finished units are treated operationally and financially. That matters because unit count, occupancy status, and project type can change the risk profile and the expected holding strategy. If existing units are involved, owners may need to think carefully about phasing, relocation timing, and whether renovations are worth the disruption compared with new construction. These decisions affect financing, schedule, and eventual rentability. A good project team should help the owner understand how the planned scope affects the future operation of the property. The best planning starts with a clear question: are the units being renovated, converted, replaced, or newly created? Once that is clear, the owner can make better decisions about design, budget, and timing.",
+      "@type": "Answer",
+      "description": "Yes. Rules affecting existing or newly created units can influence unit mix, phasing, financing, and the decision to renovate versus rebuild. Owners should understand whether the project is replacing, converting, or adding units, because those distinctions can change the long-term operating strategy and risk profile.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Tenant-related rules and rental restrictions can influence a multifamily project long before the building is complete. For owners deciding between renovation, conversion, addition, or full replacement, the structure of the project can affect how the finished units are treated operationally and financially. That matters because unit count, occupancy status, and project type can change the risk profile and the expected holding strategy. If existing units are involved, owners may need to think carefully about phasing, relocation timing, and whether renovations are worth the disruption compared with new construction. These decisions affect financing, schedule, and eventual rentability. A good project team should help the owner understand how the planned scope affects the future operation of the property. The best planning starts with a clear question: are the units being renovated, converted, replaced, or newly created? Once that is clear, the owner can make better decisions about design, budget, and timing.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes. Rules affecting existing or newly created units can influence unit mix, phasing, financing, and the decision to renovate versus rebuild. Owners should unde"
+}

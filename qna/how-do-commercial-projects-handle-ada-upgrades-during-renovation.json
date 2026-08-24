@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/how-do-commercial-projects-handle-ada-upgrades-during-renovation",
+  "name": "How do commercial projects handle ADA upgrades during renovation?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "How do commercial projects handle ADA upgrades during renovation?",
+    "text": "How do commercial projects handle ADA upgrades during renovation?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "ADA upgrades are often one of the least understood parts of commercial renovation. When a space is altered, the project may need updated accessible routes, entry details, restroom clearances, door hardware, signage, counters, or parking-related improvements depending on scope and existing conditions. The required work can vary based on how much of the building is being changed and whether the project affects a primary entrance, common area, or tenant space. Owners should ask the contractor and designer to identify accessibility items before pricing begins, not after permits are submitted. That helps avoid expensive redesigns and delays. In many Los Angeles-area projects, the accessibility scope is where budgets get stretched because the work is tied to existing conditions the owner did not plan to touch. The best outcome comes from coordinating accessibility review alongside architectural, structural, and MEP planning from the start.",
+      "@type": "Answer",
+      "description": "Commercial projects often handle ADA upgrades by reviewing the existing layout, identifying required accessible routes, clearances, restrooms, and entrances, and incorporating those changes into the permit drawings. The exact scope depends on the building, the lease area, and how much of the space is being altered.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "ADA upgrades are often one of the least understood parts of commercial renovation. When a space is altered, the project may need updated accessible routes, entry details, restroom clearances, door hardware, signage, counters, or parking-related improvements depending on scope and existing conditions. The required work can vary based on how much of the building is being changed and whether the project affects a primary entrance, common area, or tenant space. Owners should ask the contractor and designer to identify accessibility items before pricing begins, not after permits are submitted. That helps avoid expensive redesigns and delays. In many Los Angeles-area projects, the accessibility scope is where budgets get stretched because the work is tied to existing conditions the owner did not plan to touch. The best outcome comes from coordinating accessibility review alongside architectural, structural, and MEP planning from the start.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Commercial projects often handle ADA upgrades by reviewing the existing layout, identifying required accessible routes, clearances, restrooms, and entrances, an"
+}

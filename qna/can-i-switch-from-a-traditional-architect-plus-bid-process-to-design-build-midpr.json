@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-i-switch-from-a-traditional-architect-plus-bid-process-to-design-build-midpr",
+  "name": "Can I switch from a traditional architect-plus-bid process to design-build midproject?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can I switch from a traditional architect-plus-bid process to design-build midproject?",
+    "text": "Can I switch from a traditional architect-plus-bid process to design-build midproject?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Switching midproject is possible, but it requires a careful reset. The new design-build team needs to review the current plans, consultant reports, permit status, budget assumptions, and any contracts already in place. If the project is still in design or early permitting, the switch is usually simpler. If construction has already started, there may be more coordination issues, liability questions, and schedule disruption. Homeowners should ask what documentation the new team needs and whether they will value-engineer the existing design or preserve it as much as possible. The main reason to switch is usually poor coordination, budget mismatch, or slow progress in the original delivery method. The best outcome comes when the handoff is complete and transparent, not partial or rushed.",
+      "@type": "Answer",
+      "description": "Yes, a project can sometimes move to design-build midstream, but the team must review existing drawings, budgets, permits, and unfinished scope first. The transition works best before construction is far along and before too many decisions are locked in.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Switching midproject is possible, but it requires a careful reset. The new design-build team needs to review the current plans, consultant reports, permit status, budget assumptions, and any contracts already in place. If the project is still in design or early permitting, the switch is usually simpler. If construction has already started, there may be more coordination issues, liability questions, and schedule disruption. Homeowners should ask what documentation the new team needs and whether they will value-engineer the existing design or preserve it as much as possible. The main reason to switch is usually poor coordination, budget mismatch, or slow progress in the original delivery method. The best outcome comes when the handoff is complete and transparent, not partial or rushed.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Yes, a project can sometimes move to design-build midstream, but the team must review existing drawings, budgets, permits, and unfinished scope first. The trans"
+}

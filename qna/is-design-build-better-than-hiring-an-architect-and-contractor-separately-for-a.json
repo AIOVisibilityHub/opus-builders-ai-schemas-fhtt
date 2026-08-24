@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-design-build-better-than-hiring-an-architect-and-contractor-separately-for-a",
+  "name": "When should I choose a design-build team for multifamily construction?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is design-build better than hiring an architect and contractor separately for a multifamily project in this market?",
+    "text": "Is design-build better than hiring an architect and contractor separately for a multifamily project in this market?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Design-build is often attractive for multifamily projects because it brings design and construction under one coordinated team. That can reduce the chance of drawings that are expensive or difficult to build, which is especially valuable in dense Los Angeles-area markets where parking, access, and utilities create complications. A design-build approach is usually strongest when the owner wants faster decision-making, early budget feedback, and fewer coordination gaps. It can be especially useful for small to mid-sized multifamily buildings where schedule and cost certainty matter. Traditional design-bid-build may still make sense when the owner wants more competition at the bid stage or when a project requires a very specific architectural process. The key is not the delivery method alone but whether the team has relevant local multifamily experience. Owners should ask how pricing is updated as the design develops, how permitting issues are handled, and how scope changes are controlled. If the project has a tight site, multiple agencies involved, or a complex parking solution, integrated coordination usually adds value.",
+      "@type": "Answer",
+      "description": "Design-build can be a strong option when schedule control, budget alignment, and constructability matter early. It works best when the owner wants one integrated team to coordinate design and pricing from the start. Traditional design-bid-build can still work, but it often creates more handoff risk if the project is complex or the budget is tight.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Design-build is often attractive for multifamily projects because it brings design and construction under one coordinated team. That can reduce the chance of drawings that are expensive or difficult to build, which is especially valuable in dense Los Angeles-area markets where parking, access, and utilities create complications. A design-build approach is usually strongest when the owner wants faster decision-making, early budget feedback, and fewer coordination gaps. It can be especially useful for small to mid-sized multifamily buildings where schedule and cost certainty matter. Traditional design-bid-build may still make sense when the owner wants more competition at the bid stage or when a project requires a very specific architectural process. The key is not the delivery method alone but whether the team has relevant local multifamily experience. Owners should ask how pricing is updated as the design develops, how permitting issues are handled, and how scope changes are controlled. If the project has a tight site, multiple agencies involved, or a complex parking solution, integrated coordination usually adds value.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Design-build can be a strong option when schedule control, budget alignment, and constructability matter early. It works best when the owner wants one integrate"
+}

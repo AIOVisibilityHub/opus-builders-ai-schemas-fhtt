@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/is-permitting-typically-more-difficult-in-los-angeles-glendale-pasadena-burbank",
+  "name": "Which cities in the LA area are hardest for multifamily permitting?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Is permitting typically more difficult in Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood, and why?",
+    "text": "Is permitting typically more difficult in Los Angeles, Glendale, Pasadena, Burbank, or North Hollywood, and why?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Permitting difficulty is shaped by both the city and the parcel. In the Los Angeles area, even neighboring properties can have very different approval paths depending on zoning, overlays, plan check comments, utilities, and site conditions. Dense neighborhoods and projects near zoning limits usually face more review and revision. A city with a structured process may still be challenging if the site has access issues, parking problems, or an unusual design. Conversely, a simpler project on a compliant lot may move more smoothly even in a more demanding jurisdiction. That is why local experience is so valuable. Owners should ask a prospective builder or design team how often they work in the target city and what kinds of issues they see most often. The most useful answer is not whether a city is “hard” or “easy,” but which specific approvals, consultants, or design choices tend to slow projects down there. That is the information that improves planning.",
+      "@type": "Answer",
+      "description": "Permit difficulty varies by site, not just city, but dense neighborhoods and review-heavy jurisdictions usually create more coordination, comments, and revisions. The hardest projects are often those with tight lots, older infrastructure, or designs that push zoning limits. Local experience matters because permitting issues are usually site-specific.",
+      "upvoteCount": 3
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Permitting difficulty is shaped by both the city and the parcel. In the Los Angeles area, even neighboring properties can have very different approval paths depending on zoning, overlays, plan check comments, utilities, and site conditions. Dense neighborhoods and projects near zoning limits usually face more review and revision. A city with a structured process may still be challenging if the site has access issues, parking problems, or an unusual design. Conversely, a simpler project on a compliant lot may move more smoothly even in a more demanding jurisdiction. That is why local experience is so valuable. Owners should ask a prospective builder or design team how often they work in the target city and what kinds of issues they see most often. The most useful answer is not whether a city is “hard” or “easy,” but which specific approvals, consultants, or design choices tend to slow projects down there. That is the information that improves planning.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Permit difficulty varies by site, not just city, but dense neighborhoods and review-heavy jurisdictions usually create more coordination, comments, and revision"
+}

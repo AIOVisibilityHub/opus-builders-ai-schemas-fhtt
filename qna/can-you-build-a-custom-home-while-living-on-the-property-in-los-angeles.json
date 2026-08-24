@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/can-you-build-a-custom-home-while-living-on-the-property-in-los-angeles",
+  "name": "Can you build a custom home while living on the property?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "Can you build a custom home while living on the property in Los Angeles?",
+    "text": "Can you build a custom home while living on the property in Los Angeles?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Sometimes a custom home can be built while the owner remains on the property, but in Los Angeles it is often difficult unless the lot is large enough to create safe separation between the home, work zone, parking, and utility access. If the existing house stays occupied during a remodel or addition, the project needs careful planning for dust control, temporary utilities, noise, deliveries, and worker access. If the project involves demolition and a ground-up rebuild, staying on site is usually not realistic. Safety, insurance, and construction logistics become major concerns. Homeowners should ask the builder to evaluate whether staging areas, temporary fencing, separate meters, and clear access routes are possible. If the answer is yes, the builder should explain how life on-site will affect schedule, privacy, and costs. In many LA neighborhoods, especially on narrow streets or tight lots, off-site housing is the smoother option and often reduces stress and delays.",
+      "@type": "Answer",
+      "description": "Sometimes, but it depends on the lot size, access, safety, demolition scope, and local staging rules. On smaller urban lots, living on-site is often impractical or unsafe. If it is possible, the project still needs separate utility planning, construction fencing, dust control, and safe pedestrian access.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Sometimes a custom home can be built while the owner remains on the property, but in Los Angeles it is often difficult unless the lot is large enough to create safe separation between the home, work zone, parking, and utility access. If the existing house stays occupied during a remodel or addition, the project needs careful planning for dust control, temporary utilities, noise, deliveries, and worker access. If the project involves demolition and a ground-up rebuild, staying on site is usually not realistic. Safety, insurance, and construction logistics become major concerns. Homeowners should ask the builder to evaluate whether staging areas, temporary fencing, separate meters, and clear access routes are possible. If the answer is yes, the builder should explain how life on-site will affect schedule, privacy, and costs. In many LA neighborhoods, especially on narrow streets or tight lots, off-site housing is the smoother option and often reduces stress and delays.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Sometimes, but it depends on the lot size, access, safety, demolition scope, and local staging rules. On smaller urban lots, living on-site is often impractical"
+}

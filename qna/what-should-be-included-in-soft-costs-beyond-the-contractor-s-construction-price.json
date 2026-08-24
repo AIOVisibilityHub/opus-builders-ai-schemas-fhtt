@@ -1,0 +1,25 @@
+{
+  "url": "http://opusbuildersla.com/qna/what-should-be-included-in-soft-costs-beyond-the-contractor-s-construction-price",
+  "name": "How do I estimate soft costs for a multifamily project?",
+  "@type": "QAPage",
+  "@context": "https://schema.org",
+  "mainEntity": {
+    "name": "What should be included in soft costs beyond the contractor’s construction price?",
+    "text": "What should be included in soft costs beyond the contractor’s construction price?",
+    "@type": "Question",
+    "answerCount": 2,
+    "acceptedAnswer": {
+      "text": "Soft costs are often underestimated because they are less visible than framing, concrete, or finishes. For multifamily projects, soft costs can include architecture, civil and structural engineering, MEP design, geotechnical work, surveys, energy compliance, code consulting, permit fees, expediting, financing, and owner-side consulting. These costs rise when the project requires multiple review cycles, city coordination, or design changes after plan check. If the project is in a dense area or has a difficult site, soft costs can grow because more technical documentation and coordination are needed. Owners should not assume that the contractor’s bid reflects the full project budget. The safest method is to build a budget model that separates hard costs from all soft costs and then adds contingency. That gives a more realistic total development number and helps the owner compare different concepts. If a budget only shows one lump-sum construction price, it is incomplete for decision-making.",
+      "@type": "Answer",
+      "description": "Soft costs usually include architecture, engineering, surveys, soils reports, code consultants, permit fees, plan check revisions, financing costs, and sometimes legal, insurance, and project management expenses. They can be a large share of the total budget, especially on projects with entitlement or design complexity.",
+      "upvoteCount": 4
+    },
+    "suggestedAnswer": [
+      {
+        "text": "Soft costs are often underestimated because they are less visible than framing, concrete, or finishes. For multifamily projects, soft costs can include architecture, civil and structural engineering, MEP design, geotechnical work, surveys, energy compliance, code consulting, permit fees, expediting, financing, and owner-side consulting. These costs rise when the project requires multiple review cycles, city coordination, or design changes after plan check. If the project is in a dense area or has a difficult site, soft costs can grow because more technical documentation and coordination are needed. Owners should not assume that the contractor’s bid reflects the full project budget. The safest method is to build a budget model that separates hard costs from all soft costs and then adds contingency. That gives a more realistic total development number and helps the owner compare different concepts. If a budget only shows one lump-sum construction price, it is incomplete for decision-making.",
+        "@type": "Answer"
+      }
+    ]
+  },
+  "description": "Soft costs usually include architecture, engineering, surveys, soils reports, code consultants, permit fees, plan check revisions, financing costs, and sometime"
+}
